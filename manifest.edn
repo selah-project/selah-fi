@@ -118,8 +118,8 @@
             {:git
              {:repo "selah-project/selah-fi",
               :ref "v1-final",
-              :commit nil,
-              :tags [],
-              :branches []},
+              :commit "4f040685",
+              :tags ["v1-final"],
+              :branches ["main"]},
              :parents []},
             :lang :fi}
