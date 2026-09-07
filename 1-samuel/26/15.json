@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 26:15",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja David sanoi Avnerille: Etkö ⟨ole⟩ mies? Ja kuka on sinun kaltaisesi Israelissa? Mutta miksi et vartioinut herraasi, kuningasta? Sillä yksi kansasta tuli tuhoamaan ⟨את⟩ kuninkaan, herrasi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Avnerille"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnerille"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Etkö"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "Ja kuka"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "sinun kaltaisesi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israelissa"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "Mutta miksi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "et"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "vartioinut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "herraasi"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "herraasi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningasta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansasta"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "tuhoamaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuninkaan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "herrasi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:17:32.199665582Z",
+  "model": "glm-5.3"
+}

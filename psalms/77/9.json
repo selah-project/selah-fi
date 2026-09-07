@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 77,
+  "translation": "Onko ⟨hänen⟩ hesedinsä (⟨armoonsa⟩) lopussa iäksi? Onko ⟨hänen⟩ sanansa loppunut sukupolvesta sukupolveen?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "onko lopussa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "iäksi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedinsä"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "onko loppunut"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanansa"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "sukupolvesta"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "sukupolveen"
+    }
+  ],
+  "timestamp": "2026-09-07T02:22:00.908613635Z",
+  "model": "glm-5.3"
+}

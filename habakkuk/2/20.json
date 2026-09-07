@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "habakkuk 2:20",
+  "book": "habakkuk",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Jahve ⟨on⟩ pyhässä temppelissään — vaietkaa, koko maa, hänen kasvojensa edessä!",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ja Jahve"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "temppelissään"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "pyhässä"
+    },
+    {
+      "surface": "הס",
+      "gloss": "vaietkaa"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "hänen kasvojensa edessä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:38:40.891372681Z",
+  "model": "glm-5.3"
+}

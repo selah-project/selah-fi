@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ei saa löytyä sinusta ketään, joka panee poikansa ja tyttärensä kulkemaan tulen läpi, ei ennustajaa, joka ennustaa, ei pilvien tarkkailijaa, ei enteiden lukijaa eikä noitaa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ei"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "saa löytyä"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinusta"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "joka panee kulkemaan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "poikansa"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "ja tyttärensä"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulen läpi"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "ennustajaa"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "joka ennustaa"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "pilvien tarkkailijaa"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "ja enteiden lukijaa"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "ja noitaa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:31:59.917245836Z",
+  "model": "glm-5.3"
+}

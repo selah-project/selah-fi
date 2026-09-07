@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 13:30",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "ja pappi katsoo ⟨את⟩ vaurion, ja katso, jos sen näkö on syvempi kuin iho ja siinä on ohut keltainen karva, pappi julistaa ⟨את⟩ hänet saastaiseksi: netek (karvattuman ihotauti) se ⟨on⟩, pään tai parran spitaali ⟨se on⟩.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Ja katsoo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pappi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaurion"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "vaurion"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "sen näkö"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "syvempi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuin"
+    },
+    {
+      "surface": "העור",
+      "gloss": "iho"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "ja siinä"
+    },
+    {
+      "surface": "שער",
+      "gloss": "karva"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "keltainen"
+    },
+    {
+      "surface": "דק",
+      "gloss": "ohut"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ja julistaa saastaiseksi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet",
+      "marks": "hänet (vaurion kantaja)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pappi"
+    },
+    {
+      "surface": "נתק",
+      "gloss": "netek"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se ⟨on⟩"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "spitaali"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "pään"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "parran"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨se on⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T04:14:48.691019316Z",
+  "model": "glm-5.3"
+}

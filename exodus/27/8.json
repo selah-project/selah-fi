@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ontoksi laudoista teet ⟨את⟩ sen; niin kuin näytettiin ⟨את⟩ sinulle vuorella, niin he tekevät ⟨את⟩ sen.",
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "Ontoksi"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "laudoista"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "teet"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sen",
+      "marks": "sen (alttarin)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "näytettiin"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sinulle",
+      "marks": "sinulle (sinä)"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "vuorella"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "he tekevät"
+    }
+  ],
+  "timestamp": "2026-09-07T04:10:24.684948776Z",
+  "model": "glm-5.3"
+}

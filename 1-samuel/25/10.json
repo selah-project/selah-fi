@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 25:10",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja Naval vastasi ⟨את⟩ Davidin palvelijoita ja sanoi: Kuka on David, ja kuka on Yishain (Isai) poika? Nykyään on palvelijoita runsaasti, jotka murtautuvat pakoon, kukin herransa edestä.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ja vastasi"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Naval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidin palvelijoita"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "palvelijoita"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "on David"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ja kuka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "on Yishain"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nykyään"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "on runsaasti"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "palvelijoita"
+    },
+    {
+      "surface": "המתפרצים",
+      "gloss": "jotka murtautuvat pakoon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kukin"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "edestä"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "herransa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:15:23.300935320Z",
+  "model": "glm-5.3"
+}

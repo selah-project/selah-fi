@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja Jahven enkeli sanoi hänelle: Lisäten lisään ⟨את⟩ siemenesi, niin ettei sitä voi laskea paljouden tähden.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "enkeli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "Lisäten"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "lisään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siemenesi"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "siemenesi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "niin ettei"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "voi laskea"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "paljouden tähden"
+    }
+  ],
+  "timestamp": "2026-09-06T21:10:22.371802070Z",
+  "model": "glm-5.3"
+}

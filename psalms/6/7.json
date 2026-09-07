@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Väsyin huokauksistani; koko yön minä upotan sänkyni, kastelen vuoteeni kyyneleilläni.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Väsyin"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "huokauksistani"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "upotan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "yön"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "sänkyni"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "kyyneleilläni"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "vuoteeni"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "kastelen"
+    }
+  ],
+  "timestamp": "2026-09-07T01:51:23.101204468Z",
+  "model": "glm-5.3"
+}

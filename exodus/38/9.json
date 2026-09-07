@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 38,
+  "translation": "Ja ⟨hän⟩ teki ⟨את⟩ esipihaan; etelän puolelle, etelään päin: esipihaan verhot ⟨olivat⟩ kerrattua pellavaa, sata kyynärää.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ja teki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "esipihaan"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "esipihaan"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "puolelle"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "etelän"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "etelään päin"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "verhot"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "esipihaan"
+    },
+    {
+      "surface": "שש",
+      "gloss": "pellavaa"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "kerrattua"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sata"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "kyynärää"
+    }
+  ],
+  "timestamp": "2026-09-06T21:45:07.719369264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Heidän miekkansa tulee heidän omaan sydämeensä, ja heidän jousensa särkyvät.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "heidän miekkansa"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "tulee"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "heidän sydämeensä"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "ja heidän jousensa"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "särkyvät"
+    }
+  ],
+  "timestamp": "2026-09-07T02:05:15.215467220Z",
+  "model": "glm-5.3"
+}

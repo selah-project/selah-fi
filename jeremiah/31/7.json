@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 31:7",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Sillä näin sanoi Jahve: Veisatkaa Ja'akoville (Jaakobille) ilolla ja riemuitkaa kansakuntien kärjessä; antakaa kuulua, ylistäkää ja sanokaa: Pelasta, Jahve, ⟨את⟩ kansasi, ⟨את⟩ Israelin jäännöksen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "כה",
+      "gloss": "näin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רנו",
+      "gloss": "Veisatkaa"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Ja'akoville"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ilolla"
+    },
+    {
+      "surface": "וצהלו",
+      "gloss": "ja riemuitkaa"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "kärjessä"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kansakuntien"
+    },
+    {
+      "surface": "השמיעו",
+      "gloss": "antakaa kuulua"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ylistäkää"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ja sanokaa"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "Pelasta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansasi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kansasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin jäännöksen"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "jäännöksen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-07T00:38:06.410320626Z",
+  "model": "glm-5.3"
+}

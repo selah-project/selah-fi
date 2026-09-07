@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja kuningas otti pois ⟨את⟩ sinettisormuksensa, jonka hän oli ottanut Hamanilta, ja antoi sen Mordekaille, ja Ester asetti ⟨את⟩ Mordekain Hamanin talon ylitse.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "otti pois"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinettisormuksensa"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "sinettisormuksensa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "oli ottanut"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "Hamanilta"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "antoi"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordekaille"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "asetti"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordekain"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekain"
+    },
+    {
+      "surface": "על",
+      "gloss": "ylitse"
+    },
+    {
+      "surface": "בית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamanin"
+    }
+  ],
+  "timestamp": "2026-09-07T04:45:29.164730704Z",
+  "model": "glm-5.3"
+}

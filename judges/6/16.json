@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 6:16",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja Jahve sanoi hänelle: ”Minä olen sinun kanssasi, ja sinä lyöt ⟨את⟩ Midjanin yhtenä miehenä.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "minä olen"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sinun kanssasi"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "ja sinä lyöt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midjanin"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjanin"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "yhtenä miehenä"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yhtenä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:54:55.613056391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 60:12",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 60,
+  "translation": "Sillä kansa ja valtakunta, joka ei palvele sinua, katoaa, ja ne kansat hävitään aivan autioiksi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "ja valtakunta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יעבדוך",
+      "gloss": "palvele sinua"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "katoaa"
+    },
+    {
+      "surface": "והגוים",
+      "gloss": "ja ne kansat"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "autioksi"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "hävitään"
+    }
+  ],
+  "timestamp": "2026-09-07T00:20:25.335562146Z",
+  "model": "glm-5.3"
+}

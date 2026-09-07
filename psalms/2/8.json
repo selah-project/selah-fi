@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Pyydä minulta, ja minä annan kansoja perinnöksesi ja maan ääriä omistukseksesi.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Pyydä"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minulta"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ja minä annan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kansoja"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "perinnöksesi"
+    },
+    {
+      "surface": "ואחזתך",
+      "gloss": "ja omistukseksesi"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ääriä"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:52:21.318647313Z",
+  "model": "glm-5.3"
+}

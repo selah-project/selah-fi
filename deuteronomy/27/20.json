@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Kirottu olkoon se, joka makaa isänsä vaimon kanssa, sillä hän on paljastanut isänsä vaatteen liepeen, ja koko kansa sanokoon: Aamen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Kirottu olkoon"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "joka makaa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vaimon"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isänsä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "on paljastanut"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "vaatteen liepeen"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isänsä"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ja sanokoon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Aamen"
+    }
+  ],
+  "timestamp": "2026-09-06T22:36:33.730177003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 7:4",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Kaikki he ovat avionrikkojia, kuin uuni, jonka leipuri on sytyttänyt, joka lepää herättämästä vaivattua taikinaa, kunnes se on hapantunut.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "kaikki he"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "avionrikkojia"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kuin"
+    },
+    {
+      "surface": "תנור",
+      "gloss": "uuni"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "palamassa"
+    },
+    {
+      "surface": "מאפה",
+      "gloss": "leipurin"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "lepää"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "herättämästä"
+    },
+    {
+      "surface": "מלוש",
+      "gloss": "vaivaamasta"
+    },
+    {
+      "surface": "בצק",
+      "gloss": "taikinan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "חמצתו",
+      "gloss": "sen hapantuminen"
+    }
+  ],
+  "timestamp": "2026-09-07T01:22:00.410964145Z",
+  "model": "glm-5.3"
+}

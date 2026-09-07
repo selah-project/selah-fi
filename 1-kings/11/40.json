@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 11:40",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja Shelomo (Salomo) yritti tappaa ⟨את⟩ Yarav'amin (Jerobeam), ja Yarav'am nousi ja pakeni Mitsrajimiin (Egyptiin), Shishakin, Mitsrajimin kuninkaan, luo, ja hän oli Mitsrajimissa Shelomon kuolemaan asti.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "ja yritti"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "tappaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarav'amin"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarav'amin"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ja nousi"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarav'am"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "ja pakeni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimiin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "שישק",
+      "gloss": "Shishakin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja hän oli"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrajimissa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kuolemaan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomon"
+    }
+  ],
+  "timestamp": "2026-09-06T23:40:12.983128686Z",
+  "model": "glm-5.3"
+}

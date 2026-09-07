@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 68,
+  "translation": "Adonai sanoi: Bashanista (Basan) minä palautan, palautan meren syvyyksistä.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "Bashanista"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "palautan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "palautan"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "syvyyksistä"
+    },
+    {
+      "surface": "ים",
+      "gloss": "meren"
+    }
+  ],
+  "timestamp": "2026-09-07T02:18:49.787799809Z",
+  "model": "glm-5.3"
+}

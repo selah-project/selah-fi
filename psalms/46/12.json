@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 46,
+  "translation": "Jahve Sebaot ⟨on⟩ meidän kanssamme, Ja'akovin (Jaakobin) Elohim ⟨on⟩ meidän linnamme. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaot"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "meidän kanssamme"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "linnamme"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meidän"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akovin (Jaakobin)"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-07T02:09:49.030627433Z",
+  "model": "glm-5.3"
+}

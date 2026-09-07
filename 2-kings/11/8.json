@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 11:8",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja te ympäröitte kuninkaan joka taholta, kukin aseineen kädessään; ja se, joka menee riveihin, surmattakoon; ja olkaa ⟨את⟩ kuninkaan kanssa hänen lähtiessään ja hänen tullessaan",
+  "tokens": [
+    {
+      "surface": "והקפתם",
+      "gloss": "Ja te ympäröitte"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "."
+    },
+    {
+      "surface": "סביב",
+      "gloss": "joka taholta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kukin"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "aseineen"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "kädessään"
+    },
+    {
+      "surface": "והבא",
+      "gloss": "ja se, joka menee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "riveihin"
+    },
+    {
+      "surface": "השדרות",
+      "gloss": "riveihin"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "surmattakoon"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ja olkaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuninkaan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "hänen lähtiessään"
+    },
+    {
+      "surface": "ובבאו",
+      "gloss": "ja hänen tullessaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:51:49.174152720Z",
+  "model": "glm-5.3"
+}

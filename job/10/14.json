@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 10:14",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Jos syntiä tein, sinä vartioit minua, etkä anna minun olla syytömäksi pahanteostani.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jos"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "syntiä tein"
+    },
+    {
+      "surface": "ושמרתני",
+      "gloss": "sinä vartioit minua"
+    },
+    {
+      "surface": "ומעוני",
+      "gloss": "ja pahanteostani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "et"
+    },
+    {
+      "surface": "תנקני",
+      "gloss": "anna minun olla syytömäksi"
+    }
+  ],
+  "timestamp": "2026-09-07T03:29:41.664767493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 22:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "”Vierittäköön hänet Jahven luo; Jahve pelastakoon hänet, hän vapauttakoon hänet, sillä hän mielii häntä.”",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Vierittäköön"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "יפלטהו",
+      "gloss": "pelastakoon hänet"
+    },
+    {
+      "surface": "יצילהו",
+      "gloss": "vapauttakoon hänet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "mielii"
+    },
+    {
+      "surface": "בו",
+      "gloss": "häntä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:57:39.115924237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 132,
+  "translation": "Jahve vannoi Davidille totuuden ⟨sanoen⟩; hän ei siitä luovu: ”Vatsasi hedelmästä minä asetan valtaistuimen sinulle.”",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "vannoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidille"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "totuuden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "luovu"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "siitä"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "hedelmästä"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "vatsasi"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "asetan"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "valtaistuimen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    }
+  ],
+  "timestamp": "2026-09-07T02:49:27.959346530Z",
+  "model": "glm-5.3"
+}

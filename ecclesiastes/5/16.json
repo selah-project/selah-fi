@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Myöskin kaikkina päivinään hän syö pimeässä, ja paljon suuttumista ja sairautta ja katkeruutta.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "myöskin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkina"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "päivinään"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "pimeässä"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "hän syö"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ja suuttumista"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "paljon"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "ja sairauttaan"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "ja katkeruutta"
+    }
+  ],
+  "timestamp": "2026-09-07T04:35:14.679877557Z",
+  "model": "glm-5.3"
+}

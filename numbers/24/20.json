@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 24:20",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja hän näki ⟨את⟩ Amalekin ja kohotti vertauksensa ja sanoi: ”Kansojen alku ⟨on⟩ Amalek, ja hänen loppunensa ⟨on⟩ ikuinen tuho.”",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ja hän näki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalekin"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalekin"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ja kohotti"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "vertauksensa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "alku"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kansojen"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "ja hänen loppunensa"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ikuinen"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "tuho"
+    }
+  ],
+  "timestamp": "2026-09-06T22:16:25.487640171Z",
+  "model": "glm-5.3"
+}

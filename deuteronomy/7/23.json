@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 7:23",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja Jahve, Elohimisi, antaa heidät sinun edellesi ja panee heidät suureen hämmennykseen, kunnes heidät on hävitetty.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "Ja antaa heidät"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimisi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sinun edellesi"
+    },
+    {
+      "surface": "והמם",
+      "gloss": "ja panee hämmennykseen"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "hämmennykseen"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "suureen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "השמדם",
+      "gloss": "heidät on hävitetty"
+    }
+  ],
+  "timestamp": "2026-09-06T22:26:35.230478742Z",
+  "model": "glm-5.3"
+}

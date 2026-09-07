@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja Shem eli sen jälkeen, kun hän oli saanut ⟨את⟩ Arpakhshadin, viisisataa vuotta, ja hän sai poikia ja tyttäriä.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Ja eli"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sen jälkeen"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "kun hän oli saanut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakhshadin"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakhshadin"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "viisi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sataa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ja hän sai"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "poikia"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ja tyttäriä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:25.213982917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 10:18",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja Jehu (Jeehu) kokosi ⟨את⟩ koko kansan ja sanoi heille: ”Ahav palveli ⟨את⟩ Baalia vähän, Jehu palvelee häntä paljon.”",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "Ja kokosi"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu (Jeehu)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko kansan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "palveli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalia"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baalia"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "vähän"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "palvelee häntä"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "paljon"
+    }
+  ],
+  "timestamp": "2026-09-06T23:50:42.067298099Z",
+  "model": "glm-5.3"
+}

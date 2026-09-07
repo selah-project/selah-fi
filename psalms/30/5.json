@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Veisatkaa Jahvelle, hänen hasidinsa ⟨pyhät⟩, ja kiittäkää hänen pyhyytensä muistamista.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Veisatkaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "hänen hasidinsa"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "ja kiittäkää"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "muistamista"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "hänen pyhyytensä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:01:45.103748119Z",
+  "model": "glm-5.3"
+}

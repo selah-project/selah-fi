@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "ja opettaaksenne ⟨את⟩ Israelin pojat ⟨את⟩ kaikki ne säädökset, jotka Jahve on puhunut heille Moshen (Mooses) käden kautta.",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "ja opettaaksenne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin pojat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki ne säädökset"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "säädökset"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "on puhunut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käden kautta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:50:46.284683696Z",
+  "model": "glm-5.3"
+}

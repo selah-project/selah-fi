@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Poikani, varjele sanani, ja käskyni kätköön ⟨את⟩ itsellesi.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Poikani"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "varjele"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "sanani"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ja käskyni"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "kätköön"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ itsellesi",
+      "marks": "itsellesi"
+    }
+  ],
+  "timestamp": "2026-09-07T03:05:02.853461824Z",
+  "model": "glm-5.3"
+}

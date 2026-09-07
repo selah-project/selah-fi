@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 24:20",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Sillä Jahven vihassa ⟨se oli⟩ Jerushalajimissa (Jerusalem) ja Jehudassa, kunnes hän heitti ⟨את⟩ heidät pois kasvojensa edestä; ja Tsidkijahu kapinoi Baabelin kuningasta vastaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "על",
+      "gloss": "vuoksi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "vihan (nenän)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerushalajimissa"
+    },
+    {
+      "surface": "וביהודה",
+      "gloss": "ja Jehudassa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "השלכו",
+      "gloss": "hän heitti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ heidät",
+      "marks": "heidät (Jerushalajim ja Jehuda)"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "pois yltä"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "hänen kasvojensa"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "ja kapinoi"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkijahu"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabelin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:59:31.939175885Z",
+  "model": "glm-5.3"
+}

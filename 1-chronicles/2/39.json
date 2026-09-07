@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "ja Azarja siitti ⟨את⟩ Heletsin, ja Helets siitti ⟨את⟩ El'asan.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "ja Azarja"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Heletsin"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Heletsin"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "ja Helets"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "El'asan"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "El'asan"
+    }
+  ],
+  "timestamp": "2026-09-07T05:11:17.953597649Z",
+  "model": "glm-5.3"
+}

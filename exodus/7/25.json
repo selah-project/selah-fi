@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja seitsemän päivää täyttyi sen jälkeen, kun Jahve oli lyönyt ⟨את⟩ joen.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "Ja ... täyttyi"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seitsemän"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivää"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sen jälkeen, kun"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "oli lyönyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "joen"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "joen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:32:13.396005129Z",
+  "model": "glm-5.3"
+}

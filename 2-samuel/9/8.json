@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja hän kumartui maahan ja sanoi: ”Mikä on palvelijasi, että katsoit kuollutta koiraa, minun kaltaistani?”",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "Ja kumartui maahan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mikä"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "on palvelijasi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "katsoit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "kuollutta koiraa"
+    },
+    {
+      "surface": "המת",
+      "gloss": "kuollutta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "on minun kaltainen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:22:16.185068111Z",
+  "model": "glm-5.3"
+}

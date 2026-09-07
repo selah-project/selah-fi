@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja kuningas Hizkijahu nousi varhain aamulla ja kokosi ⟨את⟩ kaupungin päämiehet ja nousi ylös Jahven huoneeseen.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "Ja … nousi varhain"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkijahu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "ja kokosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaupungin päämiehet"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "päämiehet"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ja nousi ylös"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneeseen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-07T05:46:32.462097119Z",
+  "model": "glm-5.3"
+}

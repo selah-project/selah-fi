@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja Lea sanoi: ”Onnekas!” ja hän kutsui ⟨את⟩ hänen nimensä Gad.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "”Onnekas!”"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ja kutsui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen nimensä"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hänen nimensä"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    }
+  ],
+  "timestamp": "2026-09-06T21:16:01.358800289Z",
+  "model": "glm-5.3"
+}

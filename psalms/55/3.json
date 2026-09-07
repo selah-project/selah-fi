@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 55,
+  "translation": "Kohdista minuun korvasi ja vastaa minua; epäröin mietteissäni ja huokailen.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "kohdista korvasi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minuun"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "ja vastaa minua"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "epäröin"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "mietteissäni"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "ja huokailen"
+    }
+  ],
+  "timestamp": "2026-09-07T02:14:36.945838491Z",
+  "model": "glm-5.3"
+}

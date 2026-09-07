@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja te pidätte minun käskyni ja teette ⟨את⟩ ne: minä ⟨olen⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "te pidätte"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "minun käskyni"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "teette"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ne (käskyni)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-06T21:57:38.622058043Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 8:15",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja hän sanoi: Kiitetty olkoon Jahve, Israelin Elohim, joka puhui suullaan Davidin (Daavid), isäni, ⟨את⟩ kanssa ja täytti kädellään, sanoen:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "kiitetty olkoon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Israelin Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "puhui"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "suullaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ kanssa",
+      "marks": "Davidin, isäni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin (Daavid)"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "isäni"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "ja kädellään"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "täytti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:37:47.208693801Z",
+  "model": "glm-5.3"
+}

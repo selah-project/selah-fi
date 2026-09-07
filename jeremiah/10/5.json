@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 10:5",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Kuin pelätin taottuina he ovat, eivätkä puhu; kannettuina kannetaan, koska eivät astu. Älkää peljätkö heitä, sillä eivät he tee pahaa, eivätkä myöskään ⟨את⟩ hyvää tee.",
+  "tokens": [
+    {
+      "surface": "כתמר",
+      "gloss": "kuin pelätin"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "taottuina"
+    },
+    {
+      "surface": "המה",
+      "gloss": "he ovat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "puhu"
+    },
+    {
+      "surface": "נשוא",
+      "gloss": "kannettuina"
+    },
+    {
+      "surface": "ינשוא",
+      "gloss": "kannetaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "יצעדו",
+      "gloss": "astu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "peljätkö"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "heitä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "tee pahaa"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "eivätkä myöskään"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "hyvää"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "heidän (hyvää)"
+    }
+  ],
+  "timestamp": "2026-09-07T00:27:39.566535116Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Ja Israel rakasti ⟨את⟩ Josefia enemmän kuin kaikkia poikiaan, sillä hänelle hän ⟨oli⟩ vanhuuden poika; ja hän teki hänelle paidan, jonka ääriviivat olivat punotut ⟨monivärinen paita⟩.",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "Ja Israel"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "rakasti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josefia"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefia"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "enemmän kuin kaikkia"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "poikiaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "vanhuuden"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ja teki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "paidan"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "jonka ääriviivat olivat punotut"
+    }
+  ],
+  "timestamp": "2026-09-07T04:11:34.047756368Z",
+  "model": "glm-5.3"
+}

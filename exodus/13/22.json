@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ei poistunut pilvipatsas päivällä eikä tulipatsas yöllä kansan edestä.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "poistunut"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "patsas"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "pilvi"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "päivällä"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "ja patsas"
+    },
+    {
+      "surface": "האש",
+      "gloss": "tulipatsaassa poistunut — tulen"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "yöllä"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edestä"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:32:42.308281963Z",
+  "model": "glm-5.3"
+}

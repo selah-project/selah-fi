@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "haggai 1:4",
+  "book": "haggai",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Onko aika — te, teille — asua katetuissa taloissanne, ja tämä huone ⟨on⟩ raunioina?",
+  "tokens": [
+    {
+      "surface": "העת",
+      "gloss": "onko aika"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "te"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "asua"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "taloissanne"
+    },
+    {
+      "surface": "ספונים",
+      "gloss": "katetuissa"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "ja huone"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "raunioina"
+    }
+  ],
+  "timestamp": "2026-09-07T01:43:19.505490913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 21:7",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Hauretaan naista ja profanoitunutta he eivät ota, eivätkä miehensä karkoittamaa naista he ota, sillä pyhä hän on Elohimeilleen.",
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "naista"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "hauretaan"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "ja profanoitunutta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "ota"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "eivätkä naista"
+    },
+    {
+      "surface": "גרושה",
+      "gloss": "karkoittamaa"
+    },
+    {
+      "surface": "מאישה",
+      "gloss": "miehensä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "ota"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "לאלהיו",
+      "gloss": "Elohimeilleen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:57:56.079382115Z",
+  "model": "glm-5.3"
+}

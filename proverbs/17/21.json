@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 17:21",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Keskinkertaisen synnyttäjälle ⟨on⟩ murhe, eikä ymmärtämättömän isä iloitse.",
+  "tokens": [
+    {
+      "surface": "ילד",
+      "gloss": "synnyttäjälle"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "keskinkertaisen"
+    },
+    {
+      "surface": "לתוגה",
+      "gloss": "murhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "iloitse"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "isä"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ymmärtämättömän"
+    }
+  ],
+  "timestamp": "2026-09-07T03:10:11.607058743Z",
+  "model": "glm-5.3"
+}

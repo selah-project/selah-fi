@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 34:16",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "ja otat hänen tyttäristään pojillesi, ja hänen tyttärensä haurehteivat jumaliensa perässä ja saattavat ⟨את⟩ poikasi haureuteen heidän jumaliensa perässä.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ja otat"
+    },
+    {
+      "surface": "מבנתיו",
+      "gloss": "hänen tyttäristään"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "pojillesi"
+    },
+    {
+      "surface": "וזנו",
+      "gloss": "ja he haurehteivat"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "hänen tyttärensä"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "perässä"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "jumaliensa"
+    },
+    {
+      "surface": "והזנו",
+      "gloss": "ja saattavat haureuteen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poikasi"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "poikasi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "perässä"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "heidän jumaliensa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:43:45.687623030Z",
+  "model": "glm-5.3"
+}

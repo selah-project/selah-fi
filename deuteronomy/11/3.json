@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "ja ⟨את⟩ hänen tunnustekonsa ja ⟨את⟩ hänen tekonsa, jotka hän teki Mitsrajimin keskellä, Parolle (farao), Mitsrajimin kuninkaalle, ja koko hänen maalleen;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen tunnustekonsa"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "hänen tunnustekonsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen tekonsa"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "hänen tekonsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hän teki"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keskellä"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin (Egypti)"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Parolle (farao)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaalle"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ja koko"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "hänen maalleen"
+    }
+  ],
+  "timestamp": "2026-09-06T22:28:31.316491551Z",
+  "model": "glm-5.3"
+}

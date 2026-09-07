@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 21:26",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja jos mies lyö ⟨את⟩ silmän orjastaan tai ⟨את⟩ silmän orjattarestaan, niin että se turmeltuu, vapaana hän laskekoon hänet lähtemään sen silmän sijaan.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ja jos"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "lyö"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "silmän orjastaan"
+    },
+    {
+      "surface": "עין",
+      "gloss": "silmän"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "orjastaan"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "silmän orjattareastaan"
+    },
+    {
+      "surface": "עין",
+      "gloss": "silmän"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "orjattareastaan"
+    },
+    {
+      "surface": "ושחתה",
+      "gloss": "niin että se turmeltuu"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "vapaana"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "hän laskekoon hänet lähtemään"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sijaan"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "sen silmän"
+    }
+  ],
+  "timestamp": "2026-09-06T21:37:20.752330699Z",
+  "model": "glm-5.3"
+}

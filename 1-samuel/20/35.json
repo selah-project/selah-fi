@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 20:35",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja aamulla tapahtui, että Jehonatan meni kedolle Davidin kanssa sovittuun aikaan, ja pieni poika oli hänen kanssaan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja tapahtui"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamulla"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "meni ulos"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "kedolle"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "sovittuun aikaan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "ja poika"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "pieni"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hänen kanssaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:13:56.467125276Z",
+  "model": "glm-5.3"
+}

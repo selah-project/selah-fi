@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 27:20",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "joita Nevukhadnetsar, Babelin kuningas, ei ottanut, viedessään maanpakoon ⟨את⟩ Jekonjan, Jehojakimin pojan, Jehudan kuninkaan, Jerushalajimista Babyloniin, ja ⟨את⟩ kaikki Jehudan ja Jerushalajimin ylimykset.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "joita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "לקחם",
+      "gloss": "ottanut"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevukhadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babelin"
+    },
+    {
+      "surface": "בגלותו",
+      "gloss": "viedessään maanpakoon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jekonjan"
+    },
+    {
+      "surface": "יכוניה",
+      "gloss": "Jekonjan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Jehojakimin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Jerushalajimista"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babyloniin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki... ylimykset"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "ylimykset"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ja Jerushalajimin"
+    }
+  ],
+  "timestamp": "2026-09-07T00:37:26.288292669Z",
+  "model": "glm-5.3"
+}

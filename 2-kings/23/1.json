@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja kuningas lähetti, ja hänen luokseen kokoontuivat kaikki Jehudan (Juudan) ja Jerushalajimin (Jerusalemin) vanhimmat.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ja lähetti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ja kokoontuivat"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänen luokseen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vanhimmat"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan (Juudan)"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ja Jerushalajimin (Jerusalemin)"
+    }
+  ],
+  "timestamp": "2026-09-07T04:26:31.703461449Z",
+  "model": "glm-5.3"
+}

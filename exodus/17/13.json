@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja Jehoshua (Joosua) murskasi ⟨את⟩ Amalekin ja ⟨את⟩ hänen kansansa miekan suulla.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "Ja murskasi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshua (Joosua)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalekin"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalekin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen kansansa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hänen kansansa"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "suulla"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "miekan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:35:16.217935247Z",
+  "model": "glm-5.3"
+}

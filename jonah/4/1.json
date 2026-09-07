@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja se oli Yonahille pahaa, suurta pahaa, ja hän suuttui.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ja se oli pahaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-lle"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonahille"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "paha"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "suuri"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ja hän suuttui"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    }
+  ],
+  "timestamp": "2026-09-07T01:33:48.349717917Z",
+  "model": "glm-5.3"
+}

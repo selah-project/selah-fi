@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 36:5",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 36,
+  "translation": "Ja he sanoivat Moshelle sanoen: Kansa tuo runsaasti, enemmän kuin riittää palvelukseen, työhön, jonka Jahve on käskinnyt tehdä ⟨את⟩ sen.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ja he sanoivat"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshelle"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "tuo runsaasti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "tuodakseen"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "enemmän kuin riittää"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "palvelukseen"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "työhön"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "käski"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "tekemään"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ sen",
+      "marks": "sen (työn)"
+    }
+  ],
+  "timestamp": "2026-09-06T21:46:12.477360702Z",
+  "model": "glm-5.3"
+}

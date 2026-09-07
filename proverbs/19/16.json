@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 19:16",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Joka pitää käskyn, varjelee nefeshnsä; joka halveksii teitään, kuolee.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "pitää"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "käskyn"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "varjelee"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefeshnsä"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "halveksii"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "teitään"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "kuolee"
+    }
+  ],
+  "timestamp": "2026-09-07T03:13:11.119126114Z",
+  "model": "glm-5.3"
+}

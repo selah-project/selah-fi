@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 11:4",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ainoastaan ⟨את⟩ tätä älkää syömästä niistä, jotka märehtivät tai ovat sorkanjakoisia: ⟨את⟩ kamelin — sillä se kyllä märehtii, mutta sorkkaa se ei jaa; saastaainen se on teille.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ainoastaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tätä"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tätä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "syömästä"
+    },
+    {
+      "surface": "ממעלי",
+      "gloss": "niistä, jotka märehtivät"
+    },
+    {
+      "surface": "הגרה",
+      "gloss": "märehtivät"
+    },
+    {
+      "surface": "וממפריסי",
+      "gloss": "tai ovat sorkanjakoisia"
+    },
+    {
+      "surface": "הפרסה",
+      "gloss": "sorkanjakoisia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamelin"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "kamelin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "märehtii"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "märehtii"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "mutta sorkkaa"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ei"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "jaa"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "saastaainen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    }
+  ],
+  "timestamp": "2026-09-07T04:12:31.981644218Z",
+  "model": "glm-5.3"
+}

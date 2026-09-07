@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja he panevat sen ja ⟨את⟩ kaikki sen astiat takash-nahan peitteeseen ja panevat ⟨את⟩ sen kantotangolle.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "ja he panevat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ sen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki sen astiat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "sen astiat"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "peitteeseen"
+    },
+    {
+      "surface": "עור",
+      "gloss": "nahan"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "takash-"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ja he panevat"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "kantotangolle"
+    }
+  ],
+  "timestamp": "2026-09-06T22:04:20.741067991Z",
+  "model": "glm-5.3"
+}

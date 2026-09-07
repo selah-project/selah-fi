@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "habakkuk 3:17",
+  "book": "habakkuk",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Vaikka viikunapuu ei kukoista, ja viinitarhoissa ei ⟨ole⟩ satoa, petti öljypuun työ eikä pellot tehneet ravintoa, katkaisi ⟨mältymisestä⟩ lammaslauman, ja navetoissa ei ⟨ole⟩ karjaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Vaikka"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "viikunapuu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תפרח",
+      "gloss": "kukoista"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ja ei ⟨ole⟩"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "satoa"
+    },
+    {
+      "surface": "בגפנים",
+      "gloss": "viinitarhoissa"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "petti"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "työ"
+    },
+    {
+      "surface": "זית",
+      "gloss": "öljypuun"
+    },
+    {
+      "surface": "ושדמות",
+      "gloss": "ja pellot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tehneet"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ravintoa"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "katkaisi"
+    },
+    {
+      "surface": "ממכלה",
+      "gloss": "⟨mältymisestä⟩"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "lammaslauman"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ja ei ⟨ole⟩"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "karjaa"
+    },
+    {
+      "surface": "ברפתים",
+      "gloss": "navetoissa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:40:28.835533004Z",
+  "model": "glm-5.3"
+}

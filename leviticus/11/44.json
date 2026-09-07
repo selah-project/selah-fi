@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 11:44",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Sillä minä olen Jahve, Elohiminne, ja pyhittäkää itsenne ja olkaa pyhiä, sillä minä olen pyhä; älkääkä saastuttako ⟨את⟩ itseänne millään maata pitkin liikkuvalla ryömijällä.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminne"
+    },
+    {
+      "surface": "והתקדשתם",
+      "gloss": "ja pyhittäkää itsenne"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "ja olkaa"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "pyhiä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "pyhä"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "älkäkä"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "saastuttako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itseänne (nefesh-ruumiinne)"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "itseänne"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "millään"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "ryömijällä"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "liikkuvalla"
+    },
+    {
+      "surface": "על",
+      "gloss": "pitkin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maata"
+    }
+  ],
+  "timestamp": "2026-09-06T21:50:58.600638230Z",
+  "model": "glm-5.3"
+}

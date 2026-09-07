@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Niin David ja kansa, joka ⟨את⟩ hänen kanssaan oli, kohottivat ⟨את⟩ äänensä ja itkeivät, kunnes heissä ei ollut voimaa itkeä.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Niin kohottivat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ja kansa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänen kanssaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "äänensä"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "äänensä"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "ja itkeivät"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "–"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ollut"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "heissä"
+    },
+    {
+      "surface": "כח",
+      "gloss": "voimaa"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "itkeä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:17:40.552713965Z",
+  "model": "glm-5.3"
+}

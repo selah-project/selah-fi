@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Kohdussa hän tarttui ⟨את⟩ veljensä kantapäähän, ja omassa voimassaan hän paini ⟨את⟩ Elohimiin.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "Kohdussa"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "hän tarttui ... kantapäähän"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veljensä kantapäähän"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "veljensä"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "ja omassa voimassaan"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "hän paini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimiin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimiin"
+    }
+  ],
+  "timestamp": "2026-09-07T01:24:10.021684296Z",
+  "model": "glm-5.3"
+}

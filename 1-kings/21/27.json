@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 21:27",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja tapahtui, kun Ahav kuuli ⟨את⟩ nämä sanat, hän repäisi vaatteensa ja pani säkkipuvun lihallensa ja paastosi ja makasi säkkipuvussa ja kävi hiljaa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "kun kuuli"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nämä sanat"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "repäisi"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "vaatteensa"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "pani"
+    },
+    {
+      "surface": "שק",
+      "gloss": "säkkipuvun"
+    },
+    {
+      "surface": "על",
+      "gloss": "...lle"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "lihallensa"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "paastosi"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "makasi"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "säkkipuvussa"
+    },
+    {
+      "surface": "ויהלך",
+      "gloss": "kävi"
+    },
+    {
+      "surface": "אט",
+      "gloss": "hiljaa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:46:09.439502599Z",
+  "model": "glm-5.3"
+}

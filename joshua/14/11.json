@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 14:11",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Olen yhä tänään yhtä voimakas kuin päivänä, jona Moshe lähetti ⟨את⟩ minut; niin kuin voimani silloin, niin on voimani nyt — sotaan, lähtemään ja palaamaan.",
+  "tokens": [
+    {
+      "surface": "עודני",
+      "gloss": "olen yhä"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tänään"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "voimakas"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "lähetti"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ minut",
+      "marks": "minut (Moshe lähetti minut)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ככחי",
+      "gloss": "niin kuin voimani"
+    },
+    {
+      "surface": "אז",
+      "gloss": "silloin"
+    },
+    {
+      "surface": "וככחי",
+      "gloss": "ja niin kuin voimani"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sotaan"
+    },
+    {
+      "surface": "ולצאת",
+      "gloss": "ja lähtemään"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "ja palaamaan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:45:30.957175205Z",
+  "model": "glm-5.3"
+}

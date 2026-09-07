@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 17:5",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja vaskikypärä oli hänen päänsä päällä, ja suomuspanssari oli hänen yllään; ja panssarin paino oli viisi tuhatta sekeliä vaskea.",
+  "tokens": [
+    {
+      "surface": "וכובע",
+      "gloss": "ja vaskikypärä"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "vaski-"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hänen päänsä"
+    },
+    {
+      "surface": "ושריון",
+      "gloss": "ja suomuspanssari"
+    },
+    {
+      "surface": "קשקשים",
+      "gloss": "suomus-"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "puetettu"
+    },
+    {
+      "surface": "ומשקל",
+      "gloss": "ja paino"
+    },
+    {
+      "surface": "השריון",
+      "gloss": "panssarin"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "viisi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tuhatta"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "sekeliä"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "vaskea"
+    }
+  ],
+  "timestamp": "2026-09-06T23:10:27.697358494Z",
+  "model": "glm-5.3"
+}

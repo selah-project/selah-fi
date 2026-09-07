@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja Jahve löi ⟨את⟩ kuushilaiset (kuusilaiset) Asan ja Jehudan (Juudan) edessä, ja kuushilaiset pakenivat.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "Ja löi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuushilaiset"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "kuushilaiset"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asan"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ja edessä"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ja pakenivat"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "kuushilaiset"
+    }
+  ],
+  "timestamp": "2026-09-07T05:40:14.568264145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 44,
+  "translation": "Sinä — kädelläsi sinä hävitätit kansat ja istutit ⟨את⟩ heidät; sinä murskasit kansakunnat ja hajotit ⟨את⟩ heidät.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sinä"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kädelläsi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kansat"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "hävitätit"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "ja istutit heidät",
+      "marks": "heidät"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "sinä murskasit"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "kansakunnat"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "ja hajotit heidät",
+      "marks": "heidät"
+    }
+  ],
+  "timestamp": "2026-09-07T07:21:08.616012818Z",
+  "model": "glm-5.3"
+}

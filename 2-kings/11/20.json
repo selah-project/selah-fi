@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja koko maan kansa iloitse, ja kaupunki oli rauhassa; ja ⟨את⟩ Ataljan he surmasivat miekalla kuninkaan huoneessa.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "ja iloitse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "ja kaupunki"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "oli rauhassa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Ataljan"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Ataljan"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "he surmasivat"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "miekalla"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneessa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:53:14.957200344Z",
+  "model": "glm-5.3"
+}

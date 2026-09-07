@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 14:8",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja ⟨את⟩ sikaa — sillä se jakaa sorkan mutta ei märehti — se on saastainen teille; sen lihaa älkää syökö, ja sen raatoon älkää koskeko.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sikaa"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "sikaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "se jakaa"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "sorkan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mutta ei"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "märehti"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "saastainen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "sen lihaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "syökö"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "ja sen raatoon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "koskeko"
+    }
+  ],
+  "timestamp": "2026-09-06T22:30:20.956940043Z",
+  "model": "glm-5.3"
+}

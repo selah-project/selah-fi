@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 93,
+  "translation": "Korkeammalla kuin merten vetten pauhut, väkevämmin kuin meren murtajat — väkevä korkeudessa ⟨on⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "pauhut"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vetten"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "merten"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "väkevämmin"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "murtajat"
+    },
+    {
+      "surface": "ים",
+      "gloss": "meren"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "väkevä"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "korkeudessa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-07T02:33:37.909600553Z",
+  "model": "glm-5.3"
+}

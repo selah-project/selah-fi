@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ja jos hän ei lunasta ⟨את⟩ peltoa, ja jos hän on myynyt ⟨את⟩ pellon toiselle miehelle, sitä ei lunasteta enää.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ja jos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "lunasta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peltoa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "peltoa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ja jos"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "on myynyt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pellon"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pellon"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "miehelle"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "toiselle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "lunasteta"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enää"
+    }
+  ],
+  "timestamp": "2026-09-06T22:02:09.016726501Z",
+  "model": "glm-5.3"
+}

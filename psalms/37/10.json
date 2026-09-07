@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Ja vielä vähän aikaa, eikä jumalatonta ole; ja tarkkailet hänen paikkaansa, eikä häntä ole.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "ja vielä"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "vähän aikaa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä ... ole"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "jumalatonta"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "ja tarkkailet"
+    },
+    {
+      "surface": "על",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "hänen paikkaansa"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "eikä häntä ole"
+    }
+  ],
+  "timestamp": "2026-09-07T02:04:22.281937599Z",
+  "model": "glm-5.3"
+}

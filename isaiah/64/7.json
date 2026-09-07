@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 64:7",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 64,
+  "translation": "Ja nyt, Jahve, sinä olet meidän isämme; me ⟨olemme⟩ savi, ja sinä meidän muovaajamme, ja käsittesi työ me kaikki.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ja nyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "meidän isämme"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "me"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "savi"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ja sinä"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "meidän muovaajamme"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "ja työ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kätesi"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "me kaikki"
+    }
+  ],
+  "timestamp": "2026-09-07T00:21:08.114275047Z",
+  "model": "glm-5.3"
+}

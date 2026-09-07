@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 20:17",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Älä himoitse lähimmäisesi taloa, älä himoitse lähimmäisesi vaimoa, eikä hänen palvelijaaan eikä palvelijataraansa, eikä hänen härkäänsä eikä aasiansa, eikä mitään, mikä lähimmäiselläsi on.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "himoitse"
+    },
+    {
+      "surface": "בית",
+      "gloss": "taloa"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "lähimmäisesi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "himoitse"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vaimoa"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "lähimmäisesi"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "eikä hänen palvelijaaan"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "eikä palvelijataraansa"
+    },
+    {
+      "surface": "ושורו",
+      "gloss": "eikä hänen härkäänsä"
+    },
+    {
+      "surface": "וחמרו",
+      "gloss": "eikä aasiansa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "eikä mitään"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mikä"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "lähimmäiselläsi on"
+    }
+  ],
+  "timestamp": "2026-09-06T21:36:28.700154515Z",
+  "model": "glm-5.3"
+}

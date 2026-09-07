@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 9:1",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Kuule, Israel: sinä kuljet tänään ⟨את⟩ Jordanin yli tullaksesi perimään kansoja, suuria ja väkevämpiä kuin sinä itse, kaupunkeja suuria ja linnoitettuja taivaissa.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Kuule"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kuljet yli"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tänään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordanin"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanin"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "tullaksesi"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "perimään"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kansoja"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "suuria"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "ja väkevämpiä"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kuin sinä"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kaupunkeja"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "suuria"
+    },
+    {
+      "surface": "ובצרת",
+      "gloss": "ja linnoitettuja"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "taivaissa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:27:54.227949403Z",
+  "model": "glm-5.3"
+}

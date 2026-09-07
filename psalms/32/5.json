@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Rikokseni minä ilmoitan sinulle, ja pahuuttani en peittänyt; minä sanoin: ”Tunnustan kanssani pahat tekoni Jahvelle” — ja sinä, sinä kannoit pois pahuuden rikoksestani. Sela.",
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "rikokseni"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "ilmoitan sinulle"
+    },
+    {
+      "surface": "ועוני",
+      "gloss": "ja pahuuteni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "peittänyt"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "minä sanoin"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "tunnustan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kanssani"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "pahat tekoni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ja sinä"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "kannoit pois"
+    },
+    {
+      "surface": "עון",
+      "gloss": "pahuuden"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "rikoksestani"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-07T02:05:32.134218247Z",
+  "model": "glm-5.3"
+}

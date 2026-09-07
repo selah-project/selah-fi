@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 30:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Korotan sinua, Jahve, sillä sinä vetivät minut ylös etkä antanut vihollisteni iloa minusta.",
+  "tokens": [
+    {
+      "surface": "ארוממך",
+      "gloss": "Korotan sinua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "דליתני",
+      "gloss": "vetivät minut ylös"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "etkä"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "antanut iloa"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "vihollisteni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minusta"
+    }
+  ],
+  "timestamp": "2026-09-07T02:01:20.000815782Z",
+  "model": "glm-5.3"
+}

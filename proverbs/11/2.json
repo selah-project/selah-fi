@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Tulee ylpeys, ja tulee häpeä, ja ⟨את⟩ nöyreillä ⟨on⟩ viisaus.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "tulee"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "ylpeys"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ja tulee"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "häpeä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "nöyreillä"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "nöyreillä"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "viisaus"
+    }
+  ],
+  "timestamp": "2026-09-07T03:07:36.919107795Z",
+  "model": "glm-5.3"
+}

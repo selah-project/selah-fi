@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ei hyödy rikkaus vihan päivänä, mutta vanhurskaus pelastaa kuolemasta.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "hyödy"
+    },
+    {
+      "surface": "הון",
+      "gloss": "rikkaus"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "vihan"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "mutta vanhurskaus"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "pelastaa"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "kuolemasta"
+    }
+  ],
+  "timestamp": "2026-09-07T03:07:36.919577376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 36,
+  "translation": "Kymmenen kyynärää ⟨oli⟩ laudan pituus, ja kyynärä ja puoli kyynärää yhden laudan leveys.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "kymmenen"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "pituus"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "laudan"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ja kyynärä"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ja puoli"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "leveys"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "laudan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yhden"
+    }
+  ],
+  "timestamp": "2026-09-06T21:44:53.689694909Z",
+  "model": "glm-5.3"
+}

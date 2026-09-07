@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 5:10",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja David eteni, käyden ja kasvaen, ja Jahve, Sebaotin Elohim, oli hänen kanssaan.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ja eteni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "käyden"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "ja kasvaen"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ja Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaotin"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "oli hänen kanssaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:20:50.410195072Z",
+  "model": "glm-5.3"
+}

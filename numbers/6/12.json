@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 6:12",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja hän erottaa Jahvelle ⟨את⟩ eronsa päivät ja tuo uuhikaritsan, vuoden ikäisen, vikauhriksi; mutta ensimmäiset päivät putoavat, koska hänen eronsa on saastunut.",
+  "tokens": [
+    {
+      "surface": "והזיר",
+      "gloss": "Ja hän erottaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eronsa päivät"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päivät"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "eronsa"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "ja tuo"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "uuhikaritsan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "vuoden"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "vikauhriksi"
+    },
+    {
+      "surface": "והימים",
+      "gloss": "ja päivät"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ensimmäiset"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "putoavat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "saastunut"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "eronsa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:05:43.768315725Z",
+  "model": "glm-5.3"
+}

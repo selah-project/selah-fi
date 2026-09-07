@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 27:2",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ja sinä teet sen sarvet sen neljälle kulmalle; sen sarvet ⟨ovat⟩ siitä itsestään; ja sinä päällystat ⟨את⟩ sen vaskella.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ja sinä teet"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "sen sarvet"
+    },
+    {
+      "surface": "על",
+      "gloss": "…lle (neljälle)"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "neljä"
+    },
+    {
+      "surface": "פנתיו",
+      "gloss": "sen kulmaa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "siitä (itsestään)"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "ovat"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "sen sarvet"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "ja sinä päällystat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ + sen",
+      "marks": "alttari (päällystettävä kohde)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "vaskella"
+    }
+  ],
+  "timestamp": "2026-09-06T21:40:07.727897786Z",
+  "model": "glm-5.3"
+}

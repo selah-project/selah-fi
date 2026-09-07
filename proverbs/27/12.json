@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 27:12",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ymmärtäväinen näkee pahan ja kätkeytyy, mutta yksinkertaiset kulkevat eteenpäin ja saavat rangaistuksen.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "Ymmärtäväinen"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "näkee"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pahan"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "kätkeytyy"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "yksinkertaiset"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "kulkevat eteenpäin"
+    },
+    {
+      "surface": "נענשו",
+      "gloss": "saavat rangaistuksen"
+    }
+  ],
+  "timestamp": "2026-09-07T03:17:56.325438945Z",
+  "model": "glm-5.3"
+}

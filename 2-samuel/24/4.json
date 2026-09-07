@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Mutta kuninkaan sana painoi raskaana Joabin ja sotaväen päälikköjen ylle, ja Joab ja sotaväen pääliköt lähtivät kuninkaan edestä laskemaan ⟨את⟩ kansaa, ⟨את⟩ Israelia.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "painoi raskaana"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Joabin ylle"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja päälikköjen ylle"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "päälikköjen"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "sotaväen"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "lähtivät"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ja pääliköt"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "sotaväen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edestä"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "laskemaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelia"
+    }
+  ],
+  "timestamp": "2026-09-06T23:31:45.840104290Z",
+  "model": "glm-5.3"
+}

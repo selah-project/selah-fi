@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Paron tytär sanoi hänelle: ”Mene.” Ja neito meni ja kutsui ⟨את⟩ lapsen äidin.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tytär"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "mene"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "ja hän meni"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "neito"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ja hän kutsui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lapsen äidin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "äidin"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "lapsen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:28:42.580243518Z",
+  "model": "glm-5.3"
+}

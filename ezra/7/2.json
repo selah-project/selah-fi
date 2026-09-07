@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Shallumin poika, Tsadokin poika, Ahitubin poika.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shallumin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadokin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ahitubin"
+    }
+  ],
+  "timestamp": "2026-09-07T04:57:29.172044788Z",
+  "model": "glm-5.3"
+}

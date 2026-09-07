@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Taivaat kertovat Elin kunnian, ja taivaankansi julistaa hänen kättensä teon.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "Taivaat"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "kertovat"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kunnian"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elin"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "ja teon"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "hänen kättensä"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "julistaa"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "taivaankansi"
+    }
+  ],
+  "timestamp": "2026-09-07T01:59:10.832086548Z",
+  "model": "glm-5.3"
+}

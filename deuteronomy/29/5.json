@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Leipää te ette syöneet, ja viiniä ja väkijuomaa te ette juoneet, jotta tietäisitte, että minä olen Jahve, Elohiminne.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "Leipää"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ette"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "syöneet"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ja viiniä"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ja väkijuomaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ette"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "juoneet"
+    },
+    {
+      "surface": "למען",
+      "gloss": "jotta"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "tietäisitte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminne"
+    }
+  ],
+  "timestamp": "2026-09-06T22:35:44.605978391Z",
+  "model": "glm-5.3"
+}

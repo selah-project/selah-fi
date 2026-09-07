@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 72,
+  "translation": "Olkoon runsas viljaa maassa, vuorten huipuilla; sen hedelmä väreilee kuin Lebanonia, ja kaupungista ne kukoistavat kuin maan ruoho.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "olkoon"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "runsas"
+    },
+    {
+      "surface": "בר",
+      "gloss": "viljaa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "huipuilla"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "vuorten"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "väreilee"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "kuin Lebanonia"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "sen hedelmä"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "ja ne kukoistavat"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "kaupungista"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "kuin ruoho"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-07T02:19:43.320020347Z",
+  "model": "glm-5.3"
+}

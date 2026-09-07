@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 13:7",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja minä menin Peratiin ja kaivoin ja otin ⟨את⟩ vyön paikasta, jonne olin kätkennyt sen, ja katso: vyö oli rapistunut, se ei kelvannut mihinkään.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "Ja minä menin"
+    },
+    {
+      "surface": "פרתה",
+      "gloss": "Peratiin"
+    },
+    {
+      "surface": "ואחפר",
+      "gloss": "ja kaivoin"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "ja otin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vyön"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "vyön"
+    },
+    {
+      "surface": "מן",
+      "gloss": "paikasta"
+    },
+    {
+      "surface": "המקום",
+      "gloss": ""
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonne"
+    },
+    {
+      "surface": "טמנתיו",
+      "gloss": "olin kätkennyt sen"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sinne"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "נשחת",
+      "gloss": "oli rapistunut"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "vyö"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "kelvannut"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mihinkään"
+    }
+  ],
+  "timestamp": "2026-09-07T00:30:04.287225125Z",
+  "model": "glm-5.3"
+}

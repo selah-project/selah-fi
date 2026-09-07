@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Jahve antaa maasi sateen ⟨את⟩ pölyksi ja tomuksi; taivaasta se laskeutuu sinun päällesi, kunnes sinut hävitetään.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "antaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sateen"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "sateen"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "maasi"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "pölyksi"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "ja tomuksi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "(-sta)"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaasta"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "laskeutuu"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sinun päällesi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "sinut hävitetään"
+    }
+  ],
+  "timestamp": "2026-09-06T22:36:26.112483971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 26:12",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja ylijäävä osa teltan verhoista, puolet ylijäävästä verhosta, roikkuu ⟨on⟩ yli asuinsijan takaosan.",
+  "tokens": [
+    {
+      "surface": "וסרח",
+      "gloss": "Ja ylijäävä osa"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "ylijäävä"
+    },
+    {
+      "surface": "ביריעת",
+      "gloss": "verhoista"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "teltan"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "puolet"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "verhosta"
+    },
+    {
+      "surface": "העדפת",
+      "gloss": "ylijäävästä"
+    },
+    {
+      "surface": "תסרח",
+      "gloss": "roikkuu"
+    },
+    {
+      "surface": "על",
+      "gloss": "yli"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "takaosan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "asuinsijan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:39:22.023995119Z",
+  "model": "glm-5.3"
+}

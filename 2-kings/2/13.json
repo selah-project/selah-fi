@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 2:13",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja hän nosti ⟨את⟩ Elijahun vaipan, joka oli pudonnut hänen päältään, ja hän palasi ja asettui seisomaan Yardenin rannalle.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "nosti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elijahun vaipan"
+    },
+    {
+      "surface": "אדרת",
+      "gloss": "vaipan"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijahun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "oli pudonnut"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "hänen päältään"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja palasi"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ja asettui seisomaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "-lle"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "rannalle"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardenin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:48:07.441034747Z",
+  "model": "glm-5.3"
+}

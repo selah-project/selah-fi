@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 14:25",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja hän irrotti ⟨את⟩ heidän vaunujensa pyörät, niin että he ajoivat raskain voimin; ja Mitsrajim sanoi: ”Paetkaan Israelin edestä, sillä Jahve taistelee heidän puolestaan Mitsrajimia vastaan.”",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "irrotti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän vaunujensa pyörät"
+    },
+    {
+      "surface": "אפן",
+      "gloss": "pyörät"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "heidän vaunujaan"
+    },
+    {
+      "surface": "וינהגהו",
+      "gloss": "ajoi heitä"
+    },
+    {
+      "surface": "בכבדת",
+      "gloss": "raskain voimin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "אנוסה",
+      "gloss": "paetkaan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "edestä"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "taistelee"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heidän puolestaan"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrajimia vastaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:33:55.102917515Z",
+  "model": "glm-5.3"
+}

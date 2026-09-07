@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja kutsui Elohim valon päiväksi, ja pimeyden ⟨hän⟩ kutsui yöksi. Ja tapahtui ilta, ja tapahtui aamu: päivä yksi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ja kutsui"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "valon"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päiväksi"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "ja pimeyden"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kutsui"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "yöksi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja tapahtui"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ilta"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja tapahtui"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "aamu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivä"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yksi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:05:16.252927854Z",
+  "model": "glm-5.3"
+}

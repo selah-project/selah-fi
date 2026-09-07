@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Sinun edestäsi lähteköön tuomioni, sinun silmäsi näkköön suoruuden.",
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "sinun edestäsi"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "tuomioni"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lähteköön"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "sinun silmäsi"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "näköön"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "suoruuden"
+    }
+  ],
+  "timestamp": "2026-09-07T01:57:05.263535784Z",
+  "model": "glm-5.3"
+}

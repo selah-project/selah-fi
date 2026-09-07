@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 11:18",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja hän kulki erämaassa ja kiersi ⟨את⟩ Edomin maan ja ⟨את⟩ Moabin maan, ja hän tuli auringonnousun puolelta Moabin maahan, ja he leiriytyivät Arnonin tuolle puolen; eivätkä he tulleet Moabin rajoille, sillä Arnon ⟨on⟩ Moabin raja.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ja kulki"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "erämaassa"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "ja kiersi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomin maan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Moabin maan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabin"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "puolelta"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "auringonnousun"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabin"
+    },
+    {
+      "surface": "ויחנון",
+      "gloss": "ja leiriytyivät"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "tuolle puolen"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "Arnonin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "באו",
+      "gloss": "tulleet"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "rajoille"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:00:05.207960804Z",
+  "model": "glm-5.3"
+}

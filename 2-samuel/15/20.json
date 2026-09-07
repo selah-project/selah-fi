@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 15:20",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Eilen sinä saapuit, ja tänään minä panisin sinut vaeltamaan meidän kanssamme, kun minä itse kuljen sitä tietä, jota minä kuljen. Palaa, ja vie ⟨את⟩ veljesi takaisin kanssasi. ⟨Olkoon⟩ hesed ⟨ja⟩ emet ⟨sinun kanssasi⟩.",
+  "tokens": [
+    {
+      "surface": "תמול",
+      "gloss": "eilen"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "sinä saapuit"
+    },
+    {
+      "surface": "והיום",
+      "gloss": "ja tänään"
+    },
+    {
+      "surface": "אנועך",
+      "gloss": "panisin sinut vaeltamaan"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "meidän kanssamme"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kulkea"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kun minä"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "kuljen"
+    },
+    {
+      "surface": "על",
+      "gloss": "sitä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jota"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "kuljen"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "palaa"
+    },
+    {
+      "surface": "והשב",
+      "gloss": "ja vie takaisin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veljesi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "veljesi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kanssasi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ja emet"
+    }
+  ],
+  "timestamp": "2026-09-06T23:26:15.693361954Z",
+  "model": "glm-5.3"
+}

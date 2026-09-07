@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 26:5",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja David nousi ja tuli paikan luokse, jossa Shaul (Saul) oli leiriytynyt; ja David näki ⟨את⟩ paikan, jossa Shaul makasi, ja Avnerin, Nerin pojan, hänen sotajoukkonsa päämiehen; ja Shaul makasi leirikehässä, ja kansa oli leiriytynyt hänen ympärilleen.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "nousi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luokse"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "paikan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jossa"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "leiriytyi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ja näki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paikan"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "paikan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jossa"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "makasi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ואבנר",
+      "gloss": "ja Avnerin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Nerin"
+    },
+    {
+      "surface": "שר",
+      "gloss": "päämies"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "sotajoukkonsa"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ja Shaul"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "makasi"
+    },
+    {
+      "surface": "במעגל",
+      "gloss": "leirikehässä"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ja kansa"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "oli leiriytynyt"
+    },
+    {
+      "surface": "סביבתו",
+      "gloss": "hänen ympärilleen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:18:25.795449500Z",
+  "model": "glm-5.3"
+}

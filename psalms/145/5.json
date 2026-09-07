@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 145,
+  "translation": "Sinun majesteettisi kunniakkaan loisteen ja sinun ihmeittesi sanat minä pohdin. ⟨Sinun ihmeittesi sanat⟩ — niistä minä puhun.",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "loiste"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kunniakkaan"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "sinun majesteettisi"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "ja sanat"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "sinun ihmeittesi"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "minä pohdin"
+    }
+  ],
+  "timestamp": "2026-09-07T02:55:38.374705582Z",
+  "model": "glm-5.3"
+}

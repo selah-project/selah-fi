@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 25:28",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja jos hänen kätensä ei löydä riittävästi palauttaakseen hänelle, niin hänen myyntinsä pysyy ostajan kädessä ⟨את⟩ sen juubelan vuoteen asti, ja se menee ulos juubelassa, ja hän palaa omistusmaahansa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ja jos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "löydä"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hänen kätensä"
+    },
+    {
+      "surface": "די",
+      "gloss": "riittävästi"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "palauttaakseen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "niin on"
+    },
+    {
+      "surface": "ממכרו",
+      "gloss": "hänen myyntinsä"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kädessä"
+    },
+    {
+      "surface": "הקנה",
+      "gloss": "ostajan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sen (ostajan ostaman)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "vuoteen"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "juubelan"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ja se menee ulos"
+    },
+    {
+      "surface": "ביבל",
+      "gloss": "juubelassa"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ja hän palaa"
+    },
+    {
+      "surface": "לאחזתו",
+      "gloss": "omistusmaahansa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:00:28.513378648Z",
+  "model": "glm-5.3"
+}

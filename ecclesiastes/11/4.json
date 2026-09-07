@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Joka tarkkailee tuulta, ei kylvä; ja joka katsoo pilviin, ei leikkaa satoa.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Joka tarkkailee"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "tuulta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "kylvä"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ja joka katsoo"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "pilviin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "leikkaa satoa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:38:39.166331274Z",
+  "model": "glm-5.3"
+}

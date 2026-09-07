@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja saatana vastasi ⟨את⟩ Jahvea ja sanoi: Iho ihon puolesta, ja kaiken minkä mies omistaa, hän antaa henkensä puolesta.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Ja vastasi"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "saatana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "עור",
+      "gloss": "Iho"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "puolesta"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ihon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minkä"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "hän antaa"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "puolesta"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "henkensä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:24:12.739146344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Hevel ⟨kaisu⟩ hevelien, sanoi Kohelet; hevel hevelien — kaikki ⟨on⟩ heveliä.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "hevelien"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "hevelien"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "heveliä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:05:52.754867135Z",
+  "model": "glm-5.3"
+}

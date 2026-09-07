@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja myös, kun hullu kulkee tietä, hänen sydämensä ⟨on⟩ vailla ⟨ymmärrystä⟩, ja hän sanoo kaikille, että hän ⟨on⟩ hullu.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ja myös"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tietä"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "kun hullu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "kulkee"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hänen sydämensä"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "vailla"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ja hän sanoo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kaikille"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "hullu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    }
+  ],
+  "timestamp": "2026-09-07T04:39:49.918935615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 9:24",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja Jehu täytti kätensä jousella ja löi ⟨את⟩ Jehoramin käsivarsiensa väliin, ja nuoli meni ulos hänen sydämestään, ja hän vajosi vaunuihinsa.",
+  "tokens": [
+    {
+      "surface": "ויהוא",
+      "gloss": "ja Jehu"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "täytti"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kätensä"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "jousella"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ja löi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoramin"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehoramin"
+    },
+    {
+      "surface": "בין",
+      "gloss": "väliin"
+    },
+    {
+      "surface": "זרעיו",
+      "gloss": "käsivarsiensa"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ja meni ulos"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "nuoli"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "hänen sydämestään"
+    },
+    {
+      "surface": "ויכרע",
+      "gloss": "ja vajosi"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "vaunuihinsa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:50:47.962284716Z",
+  "model": "glm-5.3"
+}

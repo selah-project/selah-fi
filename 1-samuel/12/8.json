@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 12:8",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Kun Ja'akov (Jaakob) tuli Mitsrajimiin (Egypti) ja esi-isänne huusivat Jahvea, niin Jahve lähetti ⟨את⟩ Moshen ja ⟨את⟩ Aharonin, ja he veivät ⟨את⟩ esi-isänne ulos Mitsrajimista ja asuttivat heidät tähän paikkaan.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Kun"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akov (Jaakob)"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimiin (Egypti)"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "ja huusivat"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "esi-isänne"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "niin lähetti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Aharonin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonin"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "ja he veivät ulos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "esi-isänne"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "esi-isänne"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrajimista"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "ja asuttivat heidät"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "paikkaan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tähän"
+    }
+  ],
+  "timestamp": "2026-09-06T23:08:34.850427655Z",
+  "model": "glm-5.3"
+}

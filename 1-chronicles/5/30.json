@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Elazar (Eleasar) siitti ⟨את⟩ Pinechaksen (Piinehas), Pinechas (Piinehas) siitti ⟨את⟩ Avishuan (Abisua).",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar (Eleasar)"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pinechaksen (Piinehas)"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinechaksen (Piinehas)"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinechas (Piinehas)"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avishuan (Abisua)"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Avishuan (Abisua)"
+    }
+  ],
+  "timestamp": "2026-09-07T05:13:41.850873622Z",
+  "model": "glm-5.3"
+}

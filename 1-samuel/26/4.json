@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja David lähetti vakoojia ja sai tietää, että Shaul oli tullut varmasti.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ja lähetti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "vakoojia"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ja sai tietää"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "בא",
+      "gloss": "oli tullut"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "נכון",
+      "gloss": "varmasti"
+    }
+  ],
+  "timestamp": "2026-09-06T23:16:54.608474200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Jos hän ei käänny, hän teroittaa miekkansa; jousensa hän on jännittänyt ja valmistanut sen.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "käänny"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "miekkansa"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "teroittaa"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "jousensa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "on jännittänyt"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "ja valmistanut sen"
+    }
+  ],
+  "timestamp": "2026-09-07T01:51:22.015504676Z",
+  "model": "glm-5.3"
+}

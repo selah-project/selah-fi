@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja hänen joukkonsa ja hänen laskettunsa: kuusi ja neljäkymmentä tuhatta ja viisisataa.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "Ja hänen joukkonsa"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "ja hänen laskettunsa"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "kuusi"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ja neljäkymmentä"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhatta"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ja viisi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sataa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:02:34.379460116Z",
+  "model": "glm-5.3"
+}

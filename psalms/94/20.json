@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 94,
+  "translation": "Liittyykö sinuun tuhon valtaistuin, joka muovailee vääryyttä säädöksen varjolla?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "Liittyykö sinuun"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "valtaistuin"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "tuhon"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "joka muovailee"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "vääryyttä"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "säädöksen"
+    },
+    {
+      "surface": "חק",
+      "gloss": "varjolla"
+    }
+  ],
+  "timestamp": "2026-09-07T02:33:01.160749289Z",
+  "model": "glm-5.3"
+}

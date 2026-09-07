@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja hän sanoi: Tule ⟨את⟩ kanssani ja katso minun kiihkoani Jahvelle. Ja he panivat ⟨את⟩ hänet hänen vaunuunsa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Tule"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kanssani"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "minun kiihkoani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "ja he panivat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hänet"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "hänen vaunuunsa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:51:31.427285096Z",
+  "model": "glm-5.3"
+}

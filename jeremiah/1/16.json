@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 1:16",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja minä lausun tuomioni ⟨את⟩ heidät kaiken heidän pahuutensa tähden, koska he hylkäsivät minut ja polttivat suitsuketta muille jumalille ja kumarsivat kättensä tekoja.",
+  "tokens": [
+    {
+      "surface": "ודברתי",
+      "gloss": "Ja minä lausun"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "tuomioni"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "heidät"
+    },
+    {
+      "surface": "על",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "heidän pahuutensa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koska"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "hylkäsivät minut"
+    },
+    {
+      "surface": "ויקטרו",
+      "gloss": "ja polttivat suitsuketta"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "jumalille"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "muille"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ja kumarsivat"
+    },
+    {
+      "surface": "למעשי",
+      "gloss": "tekoja"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "kättensä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:23:32.835440606Z",
+  "model": "glm-5.3"
+}

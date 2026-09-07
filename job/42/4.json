@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Kuule nyt, ja minä puhun; minä kysyn sinulta, ja sinä tee minulle tiettäväksi.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Kuule"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ja minä"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "puhun"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "kysyn sinulta"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "ja tee minulle tiettäväksi"
+    }
+  ],
+  "timestamp": "2026-09-07T03:53:11.995800533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 135,
+  "translation": "Sihonia, emorilaisten kuningasta, ja Ogia, Bashanin kuningasta, ja kaikkia Kenaanin kuningaskuntia ⟨vastaan⟩.",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "Sihonia"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningasta"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emorilaisten"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "ja Ogia"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningasta"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashanin"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ja kaikkia"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "kuningaskuntia"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaanin"
+    }
+  ],
+  "timestamp": "2026-09-07T02:49:13.201431002Z",
+  "model": "glm-5.3"
+}

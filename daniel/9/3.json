@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja minä suunnasin ⟨את⟩ kasvoini kohti Adonai Elohimia etsiäkseni rukousta ja anomuksia, paastossa ja säkissä ja tuhkassa.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ja minä suunnasin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasvoiini"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kasvoiini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimia"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "etsiäkseni"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "rukousta"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "ja anomuksia"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "paastossa"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "ja säkissä"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "ja tuhkassa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:51:07.056995714Z",
+  "model": "glm-5.3"
+}

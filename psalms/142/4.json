@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 142,
+  "translation": "Kun henkeni minuun nähden uupuu, sinä tunnet polkuni; tiellä, jota minä kuljen, he ovat kätkneet minulle paulan.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "kun ... uupuu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "minuun nähden"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "henkeni"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tunnet"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "polkuni"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "tiellä"
+    },
+    {
+      "surface": "זו",
+      "gloss": "jota"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "minä kuljen"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "he ovat kätkneet"
+    },
+    {
+      "surface": "פח",
+      "gloss": "paulan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    }
+  ],
+  "timestamp": "2026-09-07T02:52:57.962739144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Silloin sanoi Shelomo (Salomo): ”Jahve ⟨on⟩ sanonut asuvansa synkkässä pimeydessä.”",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Silloin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "on sanonut"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "asuvansa"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "synkkässä pimeydessä"
+    }
+  ],
+  "timestamp": "2026-09-07T05:32:06.454056799Z",
+  "model": "glm-5.3"
+}

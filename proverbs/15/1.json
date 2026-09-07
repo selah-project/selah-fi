@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Pehmeä vastaus kääntää pois kiivauden, ja kipeä sana nostaa vihan.",
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "vastaus"
+    },
+    {
+      "surface": "רך",
+      "gloss": "pehmeä"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "kääntää pois"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "kiivauden"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ja sana"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "kipeä"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "nostaa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "vihan"
+    }
+  ],
+  "timestamp": "2026-09-07T03:10:21.574722215Z",
+  "model": "glm-5.3"
+}

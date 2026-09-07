@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja Shaul (Saul) kuuli Jehonatanin (Joonatan) äänen, ja Shaul vannoi: ”Niin totta kuin Jahve elää, hän ei tule surmatuksi.”",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ja kuuli"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul (Saul)"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "äänen"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatanin (Joonatan)"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ja vannoi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "חי",
+      "gloss": "elää"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "niin totta kuin"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "hän ei tule surmatuksi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:12:19.628736749Z",
+  "model": "glm-5.3"
+}

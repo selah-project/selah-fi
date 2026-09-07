@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 28:9",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Jahve vahvistaa sinut itselleen pyhäksi kansaksi, niin kuin hän on sinulle vannonut, koska sinä pidät ⟨את⟩ Jahven, Elohimisi, käskyt ja vaellat hänen teillään.",
+  "tokens": [
+    {
+      "surface": "יקימך",
+      "gloss": "vahvistaa sinut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לו",
+      "gloss": "itselleen"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kansaksi"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "pyhäksi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "on vannonut"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "sinä pidät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "käskyt"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "käskyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimisi"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "ja vaellat"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "hänen teillään"
+    }
+  ],
+  "timestamp": "2026-09-06T22:35:18.869202219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja te pidätte ⟨את⟩ kaikki minun säädökseni ja ⟨את⟩ kaikki minun oikeuteni, ja teette ⟨את⟩ ne: minä ⟨olen⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Ja te pidätte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "minun säädökseni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "minun oikeuteni"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ja teette"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ne"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-06T21:56:16.063712669Z",
+  "model": "glm-5.3"
+}

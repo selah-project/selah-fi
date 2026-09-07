@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 59:6",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 59,
+  "translation": "Niiden verkoista ei tule vaatetta, eivätkä he peity teoillaan; heidän tekonsa ovat vääryyden tekoja, ja väkivallan teko on heidän käsissään.",
+  "tokens": [
+    {
+      "surface": "קוריהם",
+      "gloss": "niiden verkoista"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "tule"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "vaatteeksi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "יתכסו",
+      "gloss": "he peity"
+    },
+    {
+      "surface": "במעשיהם",
+      "gloss": "teoillaan"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "heidän tekonsa"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "tekoja"
+    },
+    {
+      "surface": "און",
+      "gloss": "vääryyden"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "ja teko"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "väkivallan"
+    },
+    {
+      "surface": "בכפיהם",
+      "gloss": "käsiinsään"
+    }
+  ],
+  "timestamp": "2026-09-07T00:21:38.855556932Z",
+  "model": "glm-5.3"
+}

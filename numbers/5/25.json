@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 5:25",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja kohen otti naisen kädestä ⟨את⟩ kiivauden jauhouhrin, ja hän heilutti ⟨את⟩ uhrin Jahven edessä ja toimitti ⟨את⟩ uhriansa alttarille.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Ja otti"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kädestä"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "naisen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiivauden jauhouhrin"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "jauhouhrin"
+    },
+    {
+      "surface": "הקנאת",
+      "gloss": "kiivauden"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "ja heilutti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uhrin"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "uhrin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ja toimitti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ uhriansa",
+      "marks": "uhriansa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…lle"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarille"
+    }
+  ],
+  "timestamp": "2026-09-06T22:05:21.171430517Z",
+  "model": "glm-5.3"
+}

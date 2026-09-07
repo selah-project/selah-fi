@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 26:10",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja maa avasi ⟨את⟩ suunsa ja nielaisi ⟨את⟩ heidät ja ⟨את⟩ Korachin, kun seurakunta kuoli, tulen syödessä ⟨את⟩ kaksisataaviisikymmentä miestä; ja heistä tuli merkki.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "ja avasi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suunsa"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "suunsa"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "ja nielaisi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ heidät",
+      "marks": "heidät"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Korachin"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachin"
+    },
+    {
+      "surface": "במות",
+      "gloss": "kun kuoli"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "seurakunta"
+    },
+    {
+      "surface": "באכל",
+      "gloss": "syödessä"
+    },
+    {
+      "surface": "האש",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaksisataaviisikymmentä miestä"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "viisikymmentä"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ja kaksisataa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miestä"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ja he olivat"
+    },
+    {
+      "surface": "לנס",
+      "gloss": "merkiksi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:16:40.715272969Z",
+  "model": "glm-5.3"
+}

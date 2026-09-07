@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 7:17",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja hänen paluunsa oli Ramataan, sillä siellä oli hänen talonsa, ja siellä hän tuomitsi ⟨את⟩ Israelin, ja hän rakensi siellä alttarin Jahvelle.",
+  "tokens": [
+    {
+      "surface": "ותשבתו",
+      "gloss": "Ja hänen paluunsa"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "Ramataan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hänen talonsa"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ja siellä"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "hän tuomitsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ja hän rakensi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    }
+  ],
+  "timestamp": "2026-09-06T23:05:38.885971471Z",
+  "model": "glm-5.3"
+}

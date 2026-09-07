@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 18:35",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Kuka kaikkien maiden jumalista on pelastanut ⟨את⟩ maansa minun kädestäni — että Jahve pelastaisi ⟨את⟩ Jerushalajimin (Jerusalemin) minun kädestäni?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kuka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaikkien"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "jumalista"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "maiden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "ovat pelastaneet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maansa"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "maansa"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "minun kädestäni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "pelastaisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerushalajimin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimin (Jerusalemin)"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "minun kädestäni"
+    }
+  ],
+  "timestamp": "2026-09-06T23:56:01.132728442Z",
+  "model": "glm-5.3"
+}

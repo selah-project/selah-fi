@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja kuningas ja Haman tulivat juomaan Esterin, kuningattaren, kanssa.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ja Haman"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "juomaan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esterin"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "kuningattaren"
+    }
+  ],
+  "timestamp": "2026-09-07T06:01:03.098356804Z",
+  "model": "glm-5.3"
+}

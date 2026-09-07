@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 55,
+  "translation": "Kuuntele, Elohim, rukoukseni, äläkä kätkeydy anomiseni ääreltä.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "kuuntele"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "rukoukseni"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "äläkä"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "kätkeydy"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "anomiseni"
+    }
+  ],
+  "timestamp": "2026-09-07T02:14:36.945094899Z",
+  "model": "glm-5.3"
+}

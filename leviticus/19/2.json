@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 19:2",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Puhu koko Israelin lasten seurakunnalle ja sano heille: pyhiä te olkaa, sillä pyhä minä olen, Jahve, Elohiminne.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "puhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-lle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "seurakunnalle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ja sano"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "pyhiä"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "olkaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "pyhä"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminne"
+    }
+  ],
+  "timestamp": "2026-09-06T21:56:01.131347378Z",
+  "model": "glm-5.3"
+}

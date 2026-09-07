@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 13:23",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Köyhien peltomaassa on runsaasti ruokaa, mutta ⟨jotakin⟩ hävitetään ilman oikeutta.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "runsaasti"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ruokaa"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "peltomaan"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "köyhien"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "mutta on"
+    },
+    {
+      "surface": "נספה",
+      "gloss": "hävitetään"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ilman"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "oikeutta"
+    }
+  ],
+  "timestamp": "2026-09-07T03:06:46.315263817Z",
+  "model": "glm-5.3"
+}

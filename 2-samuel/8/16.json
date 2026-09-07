@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 8:16",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja Joav, Tserujan poika, oli sotajoukon ⟨päällikkö⟩, ja Jehoshafat, Ahiludin poika, oli muistuttaja ⟨(kronikoitsija)⟩.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Ja Joav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tserujan"
+    },
+    {
+      "surface": "על",
+      "gloss": "yli"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "sotajoukon"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "ja Jehoshafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "Ahiludin"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "muistuttaja"
+    }
+  ],
+  "timestamp": "2026-09-06T23:20:51.384585012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 37:15",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Ja hän teki ⟨את⟩ sauvat akasiapuusta ja päällysti ⟨את⟩ ne kullalla, ⟨את⟩ pöytää kantamaan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "teki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sauvat"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "sauvat"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "puuta"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "päällysti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ne"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kullalla"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "kantamaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pöytää"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "pöytää"
+    }
+  ],
+  "timestamp": "2026-09-06T21:45:49.534444708Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja Jahve lähetti ⟨את⟩ Jerubbaalin (Jerubbaal) ja ⟨את⟩ Bedanin (Bedan) ja ⟨את⟩ Jeftan (Jeftah) ja ⟨את⟩ Shmuelin (Samuel), ja hän pelasti ⟨את⟩ teidät ympärillänne olevien vihollistenne kädestä, ja asuitte turvassa.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ja lähetti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerubbaalin"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Jerubbaalin (Jerubbaal)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Bedanin"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedanin (Bedan)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Jeftan"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jeftan (Jeftah)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Shmuelin"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuelin (Samuel)"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "ja hän pelasti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "teidät"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kädestä"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "vihollistenne"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ympärillänne olevien"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "ja asuitte"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "turvassa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:08:25.937700409Z",
+  "model": "glm-5.3"
+}

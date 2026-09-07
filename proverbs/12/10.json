@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Vanhurskas tuntee juhtansa nefeshin ⟨elämän⟩, mutta jumalattomien laupeudet ovat julmat.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "tuntee"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "vanhurskas"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "juhtansa"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "mutta laupeudet"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jumalattomien"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "ovat julmat"
+    }
+  ],
+  "timestamp": "2026-09-07T03:06:29.168803097Z",
+  "model": "glm-5.3"
+}

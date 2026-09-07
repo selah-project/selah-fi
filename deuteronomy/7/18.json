@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 7:18",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Älä pelkää heitä; muista hyvin ⟨את⟩ sen, minkä Jahve, Elohimisi, teki Parolle (farao) ja koko Mitsrajimille (Egypti):",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "pelkää"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "heitä"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "muista"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "hyvin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen, minkä Jahve teki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sen, minkä"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimisi"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Parolle (farao)"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ja koko"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimille (Egypti)"
+    }
+  ],
+  "timestamp": "2026-09-06T22:27:41.619579148Z",
+  "model": "glm-5.3"
+}

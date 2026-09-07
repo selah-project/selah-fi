@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Jos vihollisesi on nälkäinen, anna hänen syödä leipää, ja jos hän on janoisa, juotuta häntä vedellä.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jos"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "on nälkäinen"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "vihollisesi"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "anna hänen syödä"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ja jos"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "on janoisa"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "juotuta häntä"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vedellä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:16:13.859848163Z",
+  "model": "glm-5.3"
+}

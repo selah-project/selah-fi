@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 8:4",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja Gid'on (Gideon) tuli Jordanille ⟨ja⟩ ylitti sen, hän ja ne kolmesataa miestä, jotka ⟨את⟩ olivat hänen kanssaan, väsyneinä ja silti takaa-ajavina.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gid'on"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "Jordanille"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ylitti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ja kolme"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sataa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "miestä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänen kanssaan",
+      "marks": "hänen kanssaan"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "väsyneinä"
+    },
+    {
+      "surface": "ורדפים",
+      "gloss": "ja silti takaa-ajavina"
+    }
+  ],
+  "timestamp": "2026-09-06T22:56:54.986539718Z",
+  "model": "glm-5.3"
+}

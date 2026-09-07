@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 3:4",
+  "book": "jonah",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja Jona alkoi mennä kaupunkiin yhden päivän kävelymatkan, ja hän huusi ja sanoi: Vielä neljäkymmentä päivää, ja Ninive käännetään.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "Ja alkoi"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "menemään"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kaupunkiin"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "kävelymatkan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "yhden päivän"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yhden"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ja hän huusi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "Vielä"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "neljäkymmentä"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivää"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "ja Ninive"
+    },
+    {
+      "surface": "נהפכת",
+      "gloss": "käännetään"
+    }
+  ],
+  "timestamp": "2026-09-07T01:33:55.376174664Z",
+  "model": "glm-5.3"
+}

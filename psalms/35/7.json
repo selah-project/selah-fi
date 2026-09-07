@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 35,
+  "translation": "Sillä syyttä he piilottivat minulle kuopan, verkkonsa; syyttä he kaivoivat nefeshilleni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "syyttä"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "he piilottivat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "kuopan"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "verkkonsa"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "syyttä"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "he kaivoivat"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "nefeshilleni"
+    }
+  ],
+  "timestamp": "2026-09-07T02:04:17.088122026Z",
+  "model": "glm-5.3"
+}

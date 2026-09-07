@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Nouse, Jahve, pelasta minut, Elohimini, sillä sinä löit ⟨את⟩ kaikkia vihollisiani poskelle; jumalattomien hampaat sinä murskasit.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Nouse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "pelasta minut"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "sinä löit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikkia vihollisiani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkia"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "vihollisiani"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "poskelle"
+    },
+    {
+      "surface": "שני",
+      "gloss": "hampaat"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jumalattomien"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "sinä murskasit"
+    }
+  ],
+  "timestamp": "2026-09-07T01:52:24.663609872Z",
+  "model": "glm-5.3"
+}

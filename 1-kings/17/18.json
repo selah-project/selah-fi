@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 17:18",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja hän sanoi Elijahulle: Mitä minulle ja sinulle, jumalan mies? Oletko tullut luokseni muistuttamaan ⟨את⟩ pahuuttani ja tappamaan ⟨את⟩ poikani?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijahulle"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mitä"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ja sinulle"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "jumalan"
+    },
+    {
+      "surface": "באת",
+      "gloss": "Oletko tullut"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "luokseni"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "muistuttamaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pahuuttani"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "pahuuttani"
+    },
+    {
+      "surface": "ולהמית",
+      "gloss": "ja tappamaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poikani"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikani"
+    }
+  ],
+  "timestamp": "2026-09-06T23:42:47.958257281Z",
+  "model": "glm-5.3"
+}

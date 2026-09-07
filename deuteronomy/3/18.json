@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 3:18",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja käskin teitä ⟨את⟩ ⟨אתכם⟩ sillä hetkellä sanoen: Jahve, Elohiminne, on antanut teille ⟨את⟩ tämän maan sen haltuunottoa varten; kaikki taisteluvalmiit miehet, te siirrytte ryhmittäin veljienne, Israelin lasten, edellä.",
+  "tokens": [
+    {
+      "surface": "ואצו",
+      "gloss": "ja käskin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "marks": "teitä"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "hetkellä"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminne"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "on antanut"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän maan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "sen haltuunottoa varten"
+    },
+    {
+      "surface": "חלוצים",
+      "gloss": "ryhmittäin taisteluvalmiina"
+    },
+    {
+      "surface": "תעברו",
+      "gloss": "te siirrytte"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edellä"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "veljienne"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "taisteluvalmiit"
+    }
+  ],
+  "timestamp": "2026-09-07T07:21:08.684615742Z",
+  "model": "glm-5.3"
+}

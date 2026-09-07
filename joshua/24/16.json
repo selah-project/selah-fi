@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja kansa vastasi ja sanoi: ”Olkoon se kaukana meistä jättää ⟨את⟩ Jahve ja palvella muita jumalia.”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Ja vastasi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "olkoon se kaukana"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meistä"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "jättää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ja palvella"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jumalia"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "muita"
+    }
+  ],
+  "timestamp": "2026-09-06T22:50:32.183781123Z",
+  "model": "glm-5.3"
+}

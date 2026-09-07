@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 21:5",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja lähestyköön pappien, Leevin ⟨poikien⟩, — sillä heidät on valinnut Jahve, sinun Elohimisi, palvelemaan häntä ja siunaamaan Jahven nimessä — ja heidän suunsa mukaan olkoon jokainen riita ja jokainen vahinko.",
+  "tokens": [
+    {
+      "surface": "ונגשו",
+      "gloss": "Ja lähestyköön"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "papit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikien"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Leevin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "בם",
+      "gloss": "heidät"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "on valinnut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimisi"
+    },
+    {
+      "surface": "לשרתו",
+      "gloss": "palvelemaan häntä"
+    },
+    {
+      "surface": "ולברך",
+      "gloss": "ja siunaamaan"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nimessä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja ⟨hei⟩"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "suunsa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olkoon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokainen"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "riita"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja jokainen"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "vahinko"
+    }
+  ],
+  "timestamp": "2026-09-06T22:31:53.534092056Z",
+  "model": "glm-5.3"
+}

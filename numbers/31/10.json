@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Ja ⟨את⟩ kaikki heidän kaupunkinsa asuinsijoillaan ja ⟨את⟩ kaikki heidän linnoituksensa he polttivat tulella.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki heidän kaupunkinsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "heidän kaupunkinsa"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "asuinsijoillaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki heidän linnoituksensa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "heidän linnoituksensa"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "he polttivat"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulella"
+    }
+  ],
+  "timestamp": "2026-09-06T22:19:50.638635897Z",
+  "model": "glm-5.3"
+}

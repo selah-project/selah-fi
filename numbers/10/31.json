@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 10:31",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja hän sanoi: Älä vain jätä ⟨את⟩ meidät, sillä sinä tiedät meidän leiriytymisemme erämaassa, ja sinä olet meille silmiksi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "נא",
+      "gloss": "vain (pyyntö)"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "jätä"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ meidät",
+      "marks": "meidät"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "על",
+      "gloss": "siitä"
+    },
+    {
+      "surface": "כן",
+      "gloss": "syystä"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "sinä tiedät"
+    },
+    {
+      "surface": "חנתנו",
+      "gloss": "meidän leiriytymisemme"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "erämaassa"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ja sinä olet"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meille"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "silmiksi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:07:26.552704964Z",
+  "model": "glm-5.3"
+}

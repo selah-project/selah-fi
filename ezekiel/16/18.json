@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 16:18",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja sinä otit ⟨את⟩ kirjottuja vaatteitasi ja peitit niillä ⟨ne⟩, ja minun öljyni ja minun suitsutukseni sinä panit niiden eteen.",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "ja sinä otit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kirjottuja vaatteitasi"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "vaatteesi"
+    },
+    {
+      "surface": "רקמתך",
+      "gloss": "kirjottusi"
+    },
+    {
+      "surface": "ותכסים",
+      "gloss": "ja peitit ne"
+    },
+    {
+      "surface": "ושמני",
+      "gloss": "ja minun öljyni"
+    },
+    {
+      "surface": "וקטרתי",
+      "gloss": "ja minun suitsutukseni"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "panit"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "niiden eteen"
+    }
+  ],
+  "timestamp": "2026-09-07T00:58:05.655564634Z",
+  "model": "glm-5.3"
+}

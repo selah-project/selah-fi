@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 19:20",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja hän jätti ⟨את⟩ karjan ja juoksi Elian jälkeen ja sanoi: Anna minun, pyydän, suudella isääni ja äitiäni, niin minä kuljen sinun jälkeesi. Ja hän sanoi hänelle: Mene, palaa, sillä mitä minä olen tehnut sinulle?",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "Ja hän jätti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karjan"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "karjan"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "ja juoksi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "jälkeen"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elian"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "אשקה",
+      "gloss": "Anna minun suudella"
+    },
+    {
+      "surface": "נא",
+      "gloss": "pyydän"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "isääni"
+    },
+    {
+      "surface": "ולאמי",
+      "gloss": "ja äitiäni"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "niin minä kuljen"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "sinun jälkeesi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Mene"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "palaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "minä olen tehnut"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    }
+  ],
+  "timestamp": "2026-09-06T23:44:14.933247486Z",
+  "model": "glm-5.3"
+}

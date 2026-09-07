@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja hän sanoi tyttärilleen: missä hän on? Miksi jätitte ⟨את⟩ miehen? Kutsukaa hänet, että hän söisi leipää.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tyttärilleen"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "tyttärilleen"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "ja missä hän on"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miksi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "jätitte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miehen"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "kutsukaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänet"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "että hän söisi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    }
+  ],
+  "timestamp": "2026-09-06T21:28:42.638211914Z",
+  "model": "glm-5.3"
+}

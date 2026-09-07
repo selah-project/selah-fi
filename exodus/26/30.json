@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja sinä pystytät ⟨את⟩ Mishkanin (asuinsijan) sen säädöksen mukaan, joka sinulle näytettiin vuorella.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "ja sinä pystytät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkanin"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanin (asuinsijan)"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "sen säädöksen mukaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "sinulle näytettiin"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "vuorella"
+    }
+  ],
+  "timestamp": "2026-09-06T21:40:04.580130159Z",
+  "model": "glm-5.3"
+}

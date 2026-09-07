@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 102,
+  "translation": "Sillä palvelijasi suosivat ⟨את⟩ sen kiviä, ja ⟨את⟩ sen pölyä he armahtavat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "suosivat"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "palvelijasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen kivet"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "sen kiviä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen pöly"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "sen pölyä"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "he armahtavat"
+    }
+  ],
+  "timestamp": "2026-09-07T02:35:48.126876929Z",
+  "model": "glm-5.3"
+}

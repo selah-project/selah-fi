@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 9:33",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja Moshe (Mooses) lähti Paron (farao) luota ⟨את⟩ kaupungista ja ojensi kätensä Jahvea kohti, ja ukkosenjyrinät ja rakeet lakkasivat, eikä sade enää kuutunut maahan.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Ja lähti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "luota"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaupungin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungista"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "ja ojensi"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "kätensä"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "ja lakkasivat"
+    },
+    {
+      "surface": "הקלות",
+      "gloss": "ukkosenjyrinät"
+    },
+    {
+      "surface": "והברד",
+      "gloss": "ja rakeet"
+    },
+    {
+      "surface": "ומטר",
+      "gloss": "eikä sade"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נתך",
+      "gloss": "kuutunut"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "maahan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:31:35.988838174Z",
+  "model": "glm-5.3"
+}

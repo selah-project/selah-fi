@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 23:28",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja Balak otti ⟨את⟩ Bilamin Peorin huipulle, joka kurkistaa erämaan kasvoille.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ja otti"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilamin"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "huipulle"
+    },
+    {
+      "surface": "הפעור",
+      "gloss": "Peorin"
+    },
+    {
+      "surface": "הנשקף",
+      "gloss": "joka kurkistaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "yläpualle"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kasvoille"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "erämaan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:15:19.984095606Z",
+  "model": "glm-5.3"
+}

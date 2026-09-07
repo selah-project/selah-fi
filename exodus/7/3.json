@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja minä kovennan ⟨את⟩ Paron sydämen ja monistan ⟨את⟩ merkkini ja ⟨את⟩ ihmeeni Mitsrajimin (Egypti) maassa.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ja minä"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "kovennan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paron sydämen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sydämen"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "ja monistan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "merkkini"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "merkkini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "ihmeeni"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "ihmeeni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:31:14.436353899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Kaikele ⟨on⟩ määräaika, ja aika jokaiselle toiveelle taivaan alla.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "kaikele"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "määräaika"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ja aika"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "jokaiselle"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "toiveelle"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alle"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:06:17.334036068Z",
+  "model": "glm-5.3"
+}

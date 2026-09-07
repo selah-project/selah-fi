@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "”Käske ⟨את⟩ kohenien — todistuksen arkkua kantavien — nousta Yardenista.”",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "Käske"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kohenien"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohenien"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "kantavien"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkkua"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "todistuksen"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "nousta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-sta"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardeni"
+    }
+  ],
+  "timestamp": "2026-09-06T22:39:38.636172712Z",
+  "model": "glm-5.3"
+}

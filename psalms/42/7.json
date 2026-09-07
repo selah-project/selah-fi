@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Elohimini, minun sisälläni nefeshini painuu alas; sentähden minä muistan sinua Ja'ordanin maasta ja Hermoneista, Mitsarin vuorelta.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimini"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "minun sisälläni"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshini"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "painuu alas"
+    },
+    {
+      "surface": "על",
+      "gloss": "sen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "muistan sinua"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Ja'ordanin"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "ja Hermoneista"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "vuorelta"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Mitsarin"
+    }
+  ],
+  "timestamp": "2026-09-07T02:08:42.715640218Z",
+  "model": "glm-5.3"
+}

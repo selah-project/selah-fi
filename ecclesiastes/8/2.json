@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Minä ⟨sanon⟩: kuninkaan suu ⟨on⟩ varjeltava, ja Elohimin valan tähden.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Minä"
+    },
+    {
+      "surface": "פי",
+      "gloss": "suu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "varjele"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "valan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    }
+  ],
+  "timestamp": "2026-09-07T04:38:25.062481093Z",
+  "model": "glm-5.3"
+}

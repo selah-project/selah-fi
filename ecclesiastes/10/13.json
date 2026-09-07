@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 10:13",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Alku hänen suunsa sanoista ⟨on⟩ tyhmyys, ja hänen suunsa loppu ⟨on⟩ pahaa houruilua.",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "alku"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanojen"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "hänen suunsa"
+    },
+    {
+      "surface": "סכלות",
+      "gloss": "tyhmyys"
+    },
+    {
+      "surface": "ואחרית",
+      "gloss": "ja loppu"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "hänen suunsa"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "houruilua"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "paha"
+    }
+  ],
+  "timestamp": "2026-09-07T04:37:47.103726288Z",
+  "model": "glm-5.3"
+}

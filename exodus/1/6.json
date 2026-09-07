@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja Josef kuoli, ja kaikki hänen veljensä, ja koko se sukupolvi.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Ja kuoli"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hänen veljensä"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "sukupolvi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-09-06T21:27:44.139390075Z",
+  "model": "glm-5.3"
+}

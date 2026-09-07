@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Voi veristä kaupunkia! Se ⟨on⟩ kokonaan valheiden ja ryöstön täyttämä; saalis ei väisty.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Voi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kaupunkia"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "veristä"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "kokonaan"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "valheiden"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "ryöstön"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "täyttämä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "väisty"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "saalis"
+    }
+  ],
+  "timestamp": "2026-09-07T01:37:53.988692492Z",
+  "model": "glm-5.3"
+}

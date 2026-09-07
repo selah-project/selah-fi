@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 118,
+  "translation": "Sanokoot nyt Jahven pelääjät: ”Sillä iankaikkisesti ⟨on⟩ hänen hesedinsä.”",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Sanokoot"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "pelääjät"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hänen hesedinsä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:44:21.227257776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 74,
+  "translation": "Kohota askeleesi ikuisiin raunioihin — kaiken, mitä vihollinen on pahoin tehnyt pyhäkössä.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "Kohota"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "askeleesi"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "raunioihin"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "ikuisiin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "on pahoin tehnyt"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "vihollinen"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "pyhäkössä"
+    }
+  ],
+  "timestamp": "2026-09-07T06:57:57.260064822Z",
+  "model": "glm-5.3"
+}

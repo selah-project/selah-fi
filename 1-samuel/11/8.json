@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja hän kävi heidät lukuaan Bezekissä; ja Israelin pojat olivat kolmesataatuhatta, ja Jehudan (Juudan) miehet kolmekymmentätuhatta.",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "Ja hän kävi heidät lukuaan"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "Bezekissä"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ja he olivat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "-sataa"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "-tuhatta"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ja miehet"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "kolmekymmentä"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "-tuhatta"
+    }
+  ],
+  "timestamp": "2026-09-06T23:08:04.760713964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 144:13",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 144,
+  "translation": "Aittamme ovat täynnä, tuottaen lajista lajiin; laumamme tuottaa tuhansia, kymmeniätuhansia kaduillamme.",
+  "tokens": [
+    {
+      "surface": "מזוינו",
+      "gloss": "aittamme"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "täynnä"
+    },
+    {
+      "surface": "מפיקים",
+      "gloss": "tuottaen"
+    },
+    {
+      "surface": "מזן",
+      "gloss": "lajista"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lajiin"
+    },
+    {
+      "surface": "זן",
+      "gloss": "laji"
+    },
+    {
+      "surface": "צאוננו",
+      "gloss": "laumamme"
+    },
+    {
+      "surface": "מאליפות",
+      "gloss": "tuhansia"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "kymmeniätuhansia"
+    },
+    {
+      "surface": "בחוצותינו",
+      "gloss": "kaduillamme"
+    }
+  ],
+  "timestamp": "2026-09-07T02:55:40.775560342Z",
+  "model": "glm-5.3"
+}

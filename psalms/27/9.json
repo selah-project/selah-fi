@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 27:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Älä kätke kasvojasi minulta, älä taivuta vihassa palvelijasi pois; apuni sinä olet ollut. Älä lyö minua miehesi laita äläkä hylkää minua, Elohimini, pelastukseni.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "kätke"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "kasvojasi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minulta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תט",
+      "gloss": "taivuta"
+    },
+    {
+      "surface": "באף",
+      "gloss": "vihassa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "palvelijasi"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "apuni"
+    },
+    {
+      "surface": "היית",
+      "gloss": "sinä olet ollut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תטשני",
+      "gloss": "lyö minua pois"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "äläkä"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "hylkää minua"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimini"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "pelastukseni"
+    }
+  ],
+  "timestamp": "2026-09-07T06:36:41.535736663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 66:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 66,
+  "translation": "Sinä toit meidät verkkoon, panit ahdistuksen lanteillemme.",
+  "tokens": [
+    {
+      "surface": "הבאתנו",
+      "gloss": "Sinä toit meidät"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "verkkoon"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "panit"
+    },
+    {
+      "surface": "מועקה",
+      "gloss": "ahdistuksen"
+    },
+    {
+      "surface": "במתנינו",
+      "gloss": "lanteillemme"
+    }
+  ],
+  "timestamp": "2026-09-07T02:15:54.711017429Z",
+  "model": "glm-5.3"
+}

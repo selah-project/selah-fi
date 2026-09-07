@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 30:23",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja David sanoi: Älkää tehkö näin, veljeni, ⟨את⟩ sen kanssa, minkä Jahve on antanut meille, kun hän on varjellut ⟨את⟩ meidät ja antanut ⟨את⟩ joukkion, joka tuli meidän kimpuumme, meidän käteemme.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Älkää"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "tehkö"
+    },
+    {
+      "surface": "כן",
+      "gloss": "näin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "veljeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen kanssa, minkä Jahve on antanut meille"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minkä"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "antanut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meille"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "on varjellut"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ meidät"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ja antanut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "joukkion"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "joukkion"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "joka tuli"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "meidän kimpuumme"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "meidän käteemme"
+    }
+  ],
+  "timestamp": "2026-09-06T23:17:33.512481359Z",
+  "model": "glm-5.3"
+}

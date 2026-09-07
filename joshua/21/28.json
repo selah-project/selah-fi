@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 21:28",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja Jissaskarin heimosta ⟨את⟩ Kishjonin ja ⟨את⟩ sen laidanmaat, ⟨את⟩ Daberatin ja ⟨את⟩ sen laidanmaat.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ja heimosta"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Jissaskarin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kishjonin"
+    },
+    {
+      "surface": "קשיון",
+      "gloss": "Kishjonin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen laidanmaat"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sen laidanmaat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daberatin"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Daberatin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen laidanmaat"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sen laidanmaat"
+    }
+  ],
+  "timestamp": "2026-09-06T22:48:29.968734359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja Mitsrajimin (Egyptin) kuningas sanoi heprealaisten kätilöille — yhden nimi ⟨oli⟩ Shifra ja toisen nimi Puah —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "kätilöille"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "heprealaisten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joista"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimi"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "yhden"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "Shifra"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ja nimi"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "toisen"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "Puah"
+    }
+  ],
+  "timestamp": "2026-09-06T21:28:34.940652657Z",
+  "model": "glm-5.3"
+}

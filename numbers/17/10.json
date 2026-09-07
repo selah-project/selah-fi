@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 17:10",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "”Nouskaa pois tämän seurakunnan keskeltä, ja minä hävitan ⟨את⟩ heidät hetkessä.” Ja he lankesivat kasvoillensa.",
+  "tokens": [
+    {
+      "surface": "הרמו",
+      "gloss": "Nouskaa"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "keskeltä"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "seurakunnan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ja minä hävitan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "heidät"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "hetkessä"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "Ja he lankesivat"
+    },
+    {
+      "surface": "על",
+      "gloss": "kasvoillensa"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "kasvoillensa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:12:08.036591408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 20:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Nyt minä tiedän, että Jahve pelastaa Mashiahinsa; hän vastaa hänelle pyhistä taivaistaan, voimillaan, ⟨pelastuksella⟩ oikean kätensä.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "minä tiedän"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "הושיע",
+      "gloss": "pelastaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashiahinsa"
+    },
+    {
+      "surface": "יענהו",
+      "gloss": "hän vastaa häntä"
+    },
+    {
+      "surface": "משמי",
+      "gloss": "taivaistaan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "pyhistä"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "voimillaan"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "pelastus"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "oikean kätensä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:59:00.576117931Z",
+  "model": "glm-5.3"
+}

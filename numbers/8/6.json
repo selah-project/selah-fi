@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ota ⟨את⟩ leviläiset Israelin lasten keskeltä, ja puhdista ⟨את⟩ heidät.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Ota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leviläiset"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviläiset"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "keskeltä"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "ja puhdista"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ heidät",
+      "marks": "heidät"
+    }
+  ],
+  "timestamp": "2026-09-07T04:14:27.051490244Z",
+  "model": "glm-5.3"
+}

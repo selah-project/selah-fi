@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Kymmenen kyynärää ⟨on⟩ laudan pituus, ja kyynärä ja puoli kyynärää yhden laudan leveys.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "kymmenen"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "pituus"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "laudan"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ja kyynärä"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ja puoli"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "leveys"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "laudan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yhden"
+    }
+  ],
+  "timestamp": "2026-09-06T21:39:39.782407036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Makedan kuningas, yksi; Beit-Elin kuningas, yksi;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "Makedan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yksi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:44:14.285665436Z",
+  "model": "glm-5.3"
+}

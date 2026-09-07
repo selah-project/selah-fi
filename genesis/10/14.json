@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "ja ⟨את⟩ Patrusimin ja ⟨את⟩ Kasluhimin, joiden sieltä lähtivät Pelishtim (filistealaiset), ja ⟨את⟩ Kaftorimin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Patrusimin"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Patrusimin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Kasluhimin"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Kasluhimin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joiden"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "lähtivät"
+    },
+    {
+      "surface": "משם",
+      "gloss": "sieltä"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Kaftorimin"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Kaftorimin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:44.384617311Z",
+  "model": "glm-5.3"
+}

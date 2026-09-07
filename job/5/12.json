@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 5:12",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Hän tekee tyhjiksi kavalien suunnitelmat, eivätkä heidän kätensä saa aikaan onnistumista.",
+  "tokens": [
+    {
+      "surface": "מפר",
+      "gloss": "tekee tyhjiksi"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "suunnitelmat"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "kavalien"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "saavat aikaan"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "kätensä"
+    },
+    {
+      "surface": "תושיה",
+      "gloss": "onnistumista"
+    }
+  ],
+  "timestamp": "2026-09-07T03:27:01.109781931Z",
+  "model": "glm-5.3"
+}

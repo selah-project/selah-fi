@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 1:41",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja kuuli Adonijahu ja kaikki kutsutut, jotka ⟨את⟩ hänen kanssaan, ja he olivat juuri lopettaneet syömisen, ja kuuli Joav ⟨את⟩ shofarin äänen, ja hän sanoi: miksi kaupungin ääni ⟨on⟩ kohiseva?",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ja kuuli"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Adonijahu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "הקראים",
+      "gloss": "kutsutut"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänen kanssaan",
+      "marks": "prepositionaalinen את (H854), 'hänen kanssaan' — ei objektimerkki"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ja he"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "olivat lopettaneet"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "syömästä"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ja kuuli"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shofarin äänen"
+    },
+    {
+      "surface": "קול",
+      "gloss": "äänen"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "shofarin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "miksi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ääni"
+    },
+    {
+      "surface": "הקריה",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "הומה",
+      "gloss": "kohiseva"
+    }
+  ],
+  "timestamp": "2026-09-06T23:32:58.826702541Z",
+  "model": "glm-5.3"
+}

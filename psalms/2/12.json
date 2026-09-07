@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 2:12",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Suudelkaa Poikaa, ettei hän vihastuisi, ettette hukkuisi tieltä, sillä vähän syttyy hänen vihansa. Onnelliset kaikki, jotka häneen turvautuvat.",
+  "tokens": [
+    {
+      "surface": "נשקו",
+      "gloss": "suudelkaa"
+    },
+    {
+      "surface": "בר",
+      "gloss": "Poikaa"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ettei"
+    },
+    {
+      "surface": "יאנף",
+      "gloss": "hän vihastuisi"
+    },
+    {
+      "surface": "ותאבדו",
+      "gloss": "ettette hukkuisi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tieltä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "syttyy"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "vähän"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "hänen vihansa"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "onnelliset"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "jotka turvautuvat"
+    },
+    {
+      "surface": "בו",
+      "gloss": "häneen"
+    }
+  ],
+  "timestamp": "2026-09-07T01:50:59.280649681Z",
+  "model": "glm-5.3"
+}

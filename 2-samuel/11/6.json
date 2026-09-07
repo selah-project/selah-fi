@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja David lähetti Joabin (Joab) luo: lähetä minun luokseni ⟨את⟩ Urija (Uuria), heettiläinen. Ja Joab lähetti ⟨את⟩ Urijan Davidin luo.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ja lähetti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "lähetä"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minun luokseni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urija"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "heettiläinen"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ja lähetti"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urijan"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urijan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:24:10.928813040Z",
+  "model": "glm-5.3"
+}

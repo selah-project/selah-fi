@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 13:7",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja ⟨oli⟩ riita Avramin karjan paimenten ja Lotin karjan paimenten välillä — ja kenaanilaiset ja perissiläiset asuivat silloin maassa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja ⟨oli⟩"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "riita"
+    },
+    {
+      "surface": "בין",
+      "gloss": "välillä"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "paimenet"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "karjan"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramin"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "paimenten"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "karjan"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lotin"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "kenaanilaiset"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "perissiläiset"
+    },
+    {
+      "surface": "אז",
+      "gloss": "silloin"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "asuivat"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:09:27.758312540Z",
+  "model": "glm-5.3"
+}

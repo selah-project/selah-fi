@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 77,
+  "ref": "psalms 119:77",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Tulkoot minulle sinun armosi, että minä elän, sillä sinun Torasi ⟨on⟩ riemuni.",
+  "tokens": [
+    {
+      "surface": "יבאוני",
+      "gloss": "Tulkoot minulle"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "sinun armosi"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "että minä elän"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "sinun Torasi"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "riemuni"
+    }
+  ],
+  "timestamp": "2026-09-07T02:48:05.209934559Z",
+  "model": "glm-5.3"
+}

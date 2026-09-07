@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 3:18",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja nyt: tehkää ⟨se⟩, sillä Jahve on puhunut Davidin kanssa sanoen: palvelijani Davidin kädellä minä pelastan ⟨את⟩ kansani Israelin filistelaisten kädestä ja kaikkien heidän vihollistensa kädestä.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ja nyt"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "tehkää"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "on puhunut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kädellä"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "palvelijani"
+    },
+    {
+      "surface": "הושיע",
+      "gloss": "pelastan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansani Israelin"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kansani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kädestä"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistelaisten"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ja kädestä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkien"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "vihollistensa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:20:01.165157528Z",
+  "model": "glm-5.3"
+}

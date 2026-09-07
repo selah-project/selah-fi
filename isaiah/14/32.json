@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "isaiah 14:32",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja mitä vastataan kansan lähettiläille? ”Jahve on perustanut Tsijonin (Siionin), ja hänen kansansa kurjat löytävät siinä turvan.”",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "Ja mitä"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "vastataan"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "lähettiläille"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "”"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "on perustanut"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijonin"
+    },
+    {
+      "surface": "ובה",
+      "gloss": "ja siinä"
+    },
+    {
+      "surface": "יחסו",
+      "gloss": "löytävät turvan"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "kurjat"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hänen kansansa"
+    }
+  ],
+  "timestamp": "2026-09-07T00:05:37.709276106Z",
+  "model": "glm-5.3"
+}

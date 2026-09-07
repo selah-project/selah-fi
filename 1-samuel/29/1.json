@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja Pelishtilaiset (filistiläiset) kokosivat ⟨את⟩ kaikki leirinsä Afekaan, ja israelilaiset leiriytyivät lähteelle, joka on Yizre'elissä (Jisreel).",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "Ja kokosivat"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtilaiset"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki leirinsä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "leirinsä"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Afekaan"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ja israelilaiset"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "leiriytyivät"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "lähteelle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "on Yizre'elissä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:16:54.411428536Z",
+  "model": "glm-5.3"
+}

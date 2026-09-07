@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 8:15",
+  "book": "daniel",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja tapahtui, kun minä, Daniel, näin ⟨את⟩ näyn ja etsin ymmärrystä, niin katso: edessäni seisoi hahmo, joka oli miehen näköinen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "kun näin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "näyn"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "näyn"
+    },
+    {
+      "surface": "ואבקשה",
+      "gloss": "ja etsin"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ymmärrystä"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "seisoi"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "edessäni"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "näöltään kuin"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "mies"
+    }
+  ],
+  "timestamp": "2026-09-07T04:51:17.395116312Z",
+  "model": "glm-5.3"
+}

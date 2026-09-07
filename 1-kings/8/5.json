@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 8:5",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja kuningas Shelomo (Salomo) ja koko Israelin seurakunta, jotka olivat kokoontuneet hänen luoksensa ⟨את⟩ hänen kanssaan arkin edessä, teurastivat lammaskarjaa ja karjaa, joita ei voitu laskea eikä numeroida niiden runsauden tähden.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Ja kuningas"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja koko"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "seurakunta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "הנועדים",
+      "gloss": "jotka olivat kokoontuneet"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hänen luoksensa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänen kanssaan",
+      "marks": "hän"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arkin"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "teurastivat"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "lammaskarjaa"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ja karjaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "voitu laskea"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "ימנו",
+      "gloss": "numeroida"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "runsauden tähden"
+    }
+  ],
+  "timestamp": "2026-09-06T23:37:21.676230360Z",
+  "model": "glm-5.3"
+}

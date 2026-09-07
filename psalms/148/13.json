@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 148:13",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 148,
+  "translation": "Ylistäkööt ⟨את⟩ Jahven nimeä, sillä hänen nimensä yksin ⟨on⟩ korotettu; hänen hohtonsa ⟨on⟩ maan ja taivaiden yllä.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Ylistäkööt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven nimeä"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimeä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "נשגב",
+      "gloss": "korotettu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nimensä"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yksin"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "hohtonsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "yllä"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "ja taivaiden"
+    }
+  ],
+  "timestamp": "2026-09-07T02:55:30.080874503Z",
+  "model": "glm-5.3"
+}

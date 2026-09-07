@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 13:7",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja he ajoivat ⟨את⟩ Elohimin arkin uudella vaunulla Avinadavin talosta, ja Uzza ja hänen veljensä ajoivat vaunua.",
+  "tokens": [
+    {
+      "surface": "וירכיבו",
+      "gloss": "Ja ajoivat (kuormaan)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimin arkin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "vaunun"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "uuden"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "talosta"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadavin"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "ja Uzza"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ja hänen veljensä"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "ajavat"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "vaunua"
+    }
+  ],
+  "timestamp": "2026-09-07T05:21:31.381336449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 16:30",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja Ahav, Omrin poika, teki sen, mikä on pahaa Jahven silmissä, enemmän kuin kaikki, jotka olivat ennen häntä.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ja teki"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omrin"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "pahan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "silmien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kaikista"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ennen häntä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:42:17.570160026Z",
+  "model": "glm-5.3"
+}

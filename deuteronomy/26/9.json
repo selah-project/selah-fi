@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja hän toi meidät tähän paikkaan ja antoi meille ⟨את⟩ tämän maan, maan, joka vuotaa maitoa ja hunajaa.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "toi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–lle"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "paikkaan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "antoi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän maan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "vuotaa"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "maitoa"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ja hunajaa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:34:19.031933103Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Se El, joka antaa minulle kostot, ja joka alistaa kansat minun alle.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Se El"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "joka antaa"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "kostot"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ja joka alistaa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "kansat"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "minun alle"
+    }
+  ],
+  "timestamp": "2026-09-07T01:57:38.854184433Z",
+  "model": "glm-5.3"
+}

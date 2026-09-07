@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ja hän mittasi ⟨את⟩ portin eteishallin talon puolelta, yksi ruoko.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "Ja hän mittasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "portin eteishallin"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "eteishallin"
+    },
+    {
+      "surface": "השער",
+      "gloss": "portin"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "talon puolelta"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ruoko"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yksi"
+    }
+  ],
+  "timestamp": "2026-09-07T01:15:17.875555263Z",
+  "model": "glm-5.3"
+}

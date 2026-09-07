@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 33:19",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "⟨את⟩ röyhkeää kansaa et näe: ei kansaa, jonka huuli on liian syvä ⟨kuulla⟩, pilkattua kieltä — ei ymmärrystä.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "röhkeää kansaa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansaa"
+    },
+    {
+      "surface": "נועז",
+      "gloss": "röyhkeää"
+    },
+    {
+      "surface": "לא",
+      "gloss": "et"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "näe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ei kansaa"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "jonka huuli on liian syvä"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "huuli"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "⟨kuulla⟩"
+    },
+    {
+      "surface": "נלעג",
+      "gloss": "pilkattua"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "kieltä"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ymmärrystä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:09:43.381150552Z",
+  "model": "glm-5.3"
+}

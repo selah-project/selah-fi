@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 28:7",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Ja minä vahvistan hänen kuninkuutensa ⟨את⟩ aina iankaikkisuuteen asti, jos hän vahvistuu tekemään käskyni ja oikeuteni, niin kuin tänä päivänä.",
+  "tokens": [
+    {
+      "surface": "והכינותי",
+      "gloss": "Ja minä vahvistan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen kuninkuutensa"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "hänen kuninkuutensa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "aina iankaikkisuuteen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "יחזק",
+      "gloss": "hän vahvistuu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "tekemään"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "käskyni"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "ja oikeuteni"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "niin kuin tänä päivänä"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tänä päivänä"
+    }
+  ],
+  "timestamp": "2026-09-07T06:02:52.885216708Z",
+  "model": "glm-5.3"
+}

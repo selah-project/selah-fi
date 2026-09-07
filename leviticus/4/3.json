@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 4:3",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "jos voideltu kohen (pappi) syntii kansan syyllisyydeksi, hän tuokoon syntinsä, jonka hän on tehnyt, uhratakseen sonninvasan, karjan pojan, virheettömän, Jahvelle, syntiuhriksi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "voideltu"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "syntii"
+    },
+    {
+      "surface": "לאשמת",
+      "gloss": "syyllisyydeksi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "hän tuokoon"
+    },
+    {
+      "surface": "על",
+      "gloss": "...sta"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "syntinsä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "on tehnyt"
+    },
+    {
+      "surface": "פר",
+      "gloss": "sonninvasa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "karjan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "virheettömän"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "syntiuhriksi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:48:03.479735153Z",
+  "model": "glm-5.3"
+}

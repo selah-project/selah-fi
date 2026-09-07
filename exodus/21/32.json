@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 21:32",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Jos härkä puskuttaa orjan tai orjattaren, kolmekymmentä sekeliä hopeaa hän antakoon tämän herralle, ja härkä kivitettäköön.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jos"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "orjan"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "puskuttaa"
+    },
+    {
+      "surface": "השור",
+      "gloss": "härkä"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "orjattaren"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "hopeaa"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "kolmekymmentä"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "sekeliä"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "hän antakoon"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "tämän herralle"
+    },
+    {
+      "surface": "והשור",
+      "gloss": "ja härkä"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "kivitettäköön"
+    }
+  ],
+  "timestamp": "2026-09-06T21:38:03.794616286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ja Jahven kirkkaus ilmestyy, ja kaikki liha näkee ⟨sen⟩ yhdessä, sillä Jahven suu on puhunut.",
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "ja ilmestyy"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kirkkaus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ja näkee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "liha"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "yhdessä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "פי",
+      "gloss": "suu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "on puhunut"
+    }
+  ],
+  "timestamp": "2026-09-07T00:13:54.526078494Z",
+  "model": "glm-5.3"
+}

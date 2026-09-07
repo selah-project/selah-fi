@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 28:23",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Sen lisäksi, joka ⟨on⟩ aamun polttouhri, joka ⟨on⟩ jatkuvan polttouhrin ⟨tarkoitus⟩, tehkää ⟨את⟩ nämä.",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "sen lisäksi"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "polttouhri"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "aamun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "polttouhrin"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "jatkuvan"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "tehkää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nämä"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nämä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:16:54.804392512Z",
+  "model": "glm-5.3"
+}

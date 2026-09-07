@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja hän sanoi: ”Kirottu olkoon Kenaan, orjien orja hän on veljilleen.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "Kirottu"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "olkoon Kenaan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "orja"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "orjien"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "hän on"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "veljilleen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:06:20.564268894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 18:3",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja hän teki sitä, mikä on oikein Jahven silmissä, kaiken sen mukaan, minkä David, hänen isänsä, oli tehnyt.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ja hän teki"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "sitä mikä on oikein"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "silmissä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kaiken mukaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "oli tehnyt"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hänen isänsä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:56:40.983062532Z",
+  "model": "glm-5.3"
+}

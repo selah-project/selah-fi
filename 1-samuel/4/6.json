@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 4:6",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja Pelishtilaiset kuulivat ⟨את⟩ riemuhuudon äänen, ja he sanoivat: mitä ⟨on⟩ tämä suuren riemuhuudon ääni heprealaisten leirissä? Ja he saivat tietää, että Jahven arkku ⟨on⟩ tullut leiriin.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "Ja kuulivat"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtilaiset"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riemuhuudon äänen"
+    },
+    {
+      "surface": "קול",
+      "gloss": "äänen"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "riemuhuudon"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ja he sanoivat"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ääni"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "riemuhuudon"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "suuren"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "leirissä"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "hprealaisten"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ja he saivat tietää"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "בא",
+      "gloss": "on tullut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "leiriin"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "leiriin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:06:38.674985733Z",
+  "model": "glm-5.3"
+}

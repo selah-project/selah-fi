@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja Elohimin mies sanoi: ”Mistä se putosi?” Ja hän näytti hänelle ⟨את⟩ paikan, ja hän hakkasi puun ja heitti sen sinne, ja rauta kellui.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Mistä"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "putosi"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "näytti hänelle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paikan"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "paikan"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "hakkasi"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "puun"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "heitti"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sinne"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "kellutti"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "rauta"
+    }
+  ],
+  "timestamp": "2026-09-06T23:48:24.245606531Z",
+  "model": "glm-5.3"
+}

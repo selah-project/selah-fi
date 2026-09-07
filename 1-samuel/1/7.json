@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 1:7",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja näin hän teki vuosi vuodesta; niin usein kuin hän nousi Jahven huoneeseen, niin hän ärsytti häntä, ja hän itki eikä syönyt.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "Ja näin"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hän teki"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuoden"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "vuodesta"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "niin usein kuin"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "hän nousi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "huoneeseen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "תכעסנה",
+      "gloss": "hän ärsytti häntä"
+    },
+    {
+      "surface": "ותבכה",
+      "gloss": "ja hän itki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "syönyt"
+    }
+  ],
+  "timestamp": "2026-09-06T23:04:11.378090717Z",
+  "model": "glm-5.3"
+}

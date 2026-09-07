@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja he nostivat ⟨את⟩ Jahven arkun ja ⟨את⟩ kokouskodan ja ⟨את⟩ kaikki pyhät kalut, jotka kodissa olivat; ja papit ja leviilaiset nostivat ⟨את⟩ ne.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "ja nostivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkun"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kokouskodan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kodan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kokous-"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki pyhät kalut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kalut"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pyhät"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "kodissa"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ja nostivat"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ne"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "papit"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ja leviilaiset"
+    }
+  ],
+  "timestamp": "2026-09-06T23:37:03.417409765Z",
+  "model": "glm-5.3"
+}

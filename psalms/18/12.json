@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Hän asetti pimeyden piilopaikakseen, hänen majansa ⟨oli⟩ ympärillään: vesien pimeys, taivaiden sakeat pilvet.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "Hän asetti"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pimeyden"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "piilopaikakseen"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "ympärillään"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "hänen majansa"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "pimeys"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vesien"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "sakeat pilvet"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "taivaiden"
+    }
+  ],
+  "timestamp": "2026-09-07T01:57:46.898474822Z",
+  "model": "glm-5.3"
+}

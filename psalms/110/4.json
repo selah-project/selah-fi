@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 110,
+  "translation": "Jahve on vannoutunut eikä sitä kadu: ”Sinä olet kohen iankaikkisesti, Malki-Tsedekin säädöksen mukaan.”",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "on vannoutunut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "katu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "על",
+      "gloss": "sen mukaan"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "säädöksen"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Tsedekin"
+    }
+  ],
+  "timestamp": "2026-09-07T02:43:16.713389332Z",
+  "model": "glm-5.3"
+}

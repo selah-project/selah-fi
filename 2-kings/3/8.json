@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja hän sanoi: ”Mistä ⟨on⟩ tie, jota me nousemme ylös?” Ja hän sanoi: ”Edomin erämaan tie.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Mistä"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tuo"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "tie"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "me nousemme ylös"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tie"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "erämaa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:47:28.260836703Z",
+  "model": "glm-5.3"
+}

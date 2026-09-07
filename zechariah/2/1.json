@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja minä kohotin ⟨את⟩ silmäni ja näin, ja katso: neljä sarvea.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "ja kohotin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "silmäni"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "silmäni"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "ja näin"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "neljä"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "sarvea"
+    }
+  ],
+  "timestamp": "2026-09-07T01:44:37.240653529Z",
+  "model": "glm-5.3"
+}

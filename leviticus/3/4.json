@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 3:4",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja ⟨את⟩ molemmat munuaiset ja ⟨את⟩ rasvan, joka on niiden päällä, joka on lanteiden kohdalla, ja ⟨את⟩ maksan liuskan — munuaisten kohdalta hän poistaa ne.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "molemmat munuaiset"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "molemmat"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "munuaiset"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "rasvan"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "rasvan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "niiden päällä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "על",
+      "gloss": "kohdalla"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "lanteiden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "maksan liuskan"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "liuskan"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "maksan"
+    },
+    {
+      "surface": "על",
+      "gloss": "kohdalta"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "munuaisten"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "hän poistaa ne"
+    }
+  ],
+  "timestamp": "2026-09-06T21:48:04.728351866Z",
+  "model": "glm-5.3"
+}

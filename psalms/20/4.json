@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Muistakoon kaikki sinun ruokauhrisi, ja polttouhrisi pitäköön hän rasvaisena. Sela.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "Muistakoon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "sinun ruokauhrisi"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "ja polttouhrisi"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "pitäköön rasvaisena"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-07T01:58:21.922744212Z",
+  "model": "glm-5.3"
+}

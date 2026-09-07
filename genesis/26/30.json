@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja hän teki heille pidot, ja he söivät ja joivat.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ja hän teki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "pidot"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ja he söivät"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "ja he joivat"
+    }
+  ],
+  "timestamp": "2026-09-06T21:14:50.065477159Z",
+  "model": "glm-5.3"
+}

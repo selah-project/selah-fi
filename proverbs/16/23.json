@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 16:23",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Viisaan sydän tekee hänen suunsa ymmärtäväiseksi, ja hänen huulilleen ⟨se⟩ lisää oppia.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "sydän"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "viisaan"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "tekee ymmärtäväiseksi"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "hänen suunsa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "hänen huulilleen"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "lisää"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "oppia"
+    }
+  ],
+  "timestamp": "2026-09-07T03:09:03.264820622Z",
+  "model": "glm-5.3"
+}

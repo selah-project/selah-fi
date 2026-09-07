@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 9:9",
+  "book": "esther",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "ja ⟨את⟩ Parmashtan ja ⟨את⟩ Arisain ja ⟨את⟩ Aridain ja ⟨את⟩ Vajezatan",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Parmashtan"
+    },
+    {
+      "surface": "פרמשתא",
+      "gloss": "Parmashtan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Arisain"
+    },
+    {
+      "surface": "אריסי",
+      "gloss": "Arisain"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Aridain"
+    },
+    {
+      "surface": "ארדי",
+      "gloss": "Aridain"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Vajezatan"
+    },
+    {
+      "surface": "ויזתא",
+      "gloss": "Vajezatan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:43:40.307468165Z",
+  "model": "glm-5.3"
+}

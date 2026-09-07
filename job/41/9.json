@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 41:9",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 41,
+  "translation": "Ihminen ⟨on⟩ kiinnittynyt veljeensä vasten, ne takertuvat yhteen eivätkä erkanet toisistaan.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ihminen"
+    },
+    {
+      "surface": "באחיהו",
+      "gloss": "veljeensä vasten"
+    },
+    {
+      "surface": "ידבקו",
+      "gloss": "kiinnittyvät"
+    },
+    {
+      "surface": "יתלכדו",
+      "gloss": "takertuvat yhteen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "erkanet toisistaan"
+    }
+  ],
+  "timestamp": "2026-09-07T03:51:38.420948174Z",
+  "model": "glm-5.3"
+}

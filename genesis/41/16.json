@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 41,
+  "translation": "Ja Josef vastasi ⟨את⟩ Paroa sanoen: ”Ei minussa — Elohim vastatkoon ⟨את⟩ rauhan Paron ⟨eduksi⟩.”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Ja vastasi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "ilman minua"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "vastatkoon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rauhan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rauhan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    }
+  ],
+  "timestamp": "2026-09-06T21:23:10.358367609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 24:19",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja sinä olet tänään julistanut ⟨את⟩ sen, minkä teit minun kanssani ⟨את⟩ hyvää: ⟨את⟩ sen, että Jahve sulki minut sinun käteesi, etkä tappanut minua.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja sinä"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "olet julistanut"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tänään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen, minkä teit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minkä"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "teit"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ (minun kanssani)"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "hyvää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen, että Jahve sulki minut"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sen, että"
+    },
+    {
+      "surface": "סגרני",
+      "gloss": "sulki minut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "sinun käteesi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "etkä"
+    },
+    {
+      "surface": "הרגתני",
+      "gloss": "tappanut minua"
+    }
+  ],
+  "timestamp": "2026-09-06T23:14:40.676631200Z",
+  "model": "glm-5.3"
+}

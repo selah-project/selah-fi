@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 42:4",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Ja kamarinten edessä oli käytävä, kymmenen kyynärää leveä, sisempään päin, yhden kyynärän levyinen tie, ja niiden ovet olivat pohjoiseen päin.",
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "ja edessä"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "kamarinten"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "käytävä"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kymmenen"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "leveä"
+    },
+    {
+      "surface": "אל",
+      "gloss": "päin"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "sisempään"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tie"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "yhden kyynärän"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yhden"
+    },
+    {
+      "surface": "ופתחיהם",
+      "gloss": "ja niiden ovet"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "pohjoiseen"
+    }
+  ],
+  "timestamp": "2026-09-07T01:15:32.722022117Z",
+  "model": "glm-5.3"
+}

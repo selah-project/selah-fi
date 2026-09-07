@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Sitä myöten aurinkoa se ei ole nähnyt eikä ole sitä tuntenut — tällä on enemmän lepoa kuin tuolla.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "sitä myöten"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "aurinkoa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ole nähnyt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ole tuntenut"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "lepoa"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "tällä"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "tuolla"
+    }
+  ],
+  "timestamp": "2026-09-07T04:38:16.784692977Z",
+  "model": "glm-5.3"
+}

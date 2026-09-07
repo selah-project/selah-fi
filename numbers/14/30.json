@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 14:30",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Jos te tulette ⟨ei⟩ siihen maahan, jonka puolesta kohotin ⟨את⟩ käteni asuttaakseni ⟨את⟩ teidät siinä — paitsi Kalev, Jefunnen poika, ja Jehoshua, Nunnin poika.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "te"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "tulette"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ei⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "siihen maahan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "kohotin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "käteni"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "käteni"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "asuttaakseni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät"
+    },
+    {
+      "surface": "בה",
+      "gloss": "siinä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨paitsi⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "paitsi"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Jefunnen"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "ja Jehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    }
+  ],
+  "timestamp": "2026-09-06T22:09:20.810744121Z",
+  "model": "glm-5.3"
+}

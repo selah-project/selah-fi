@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Silloin Shelomo (Salomo) sanoi: ”Jahve on sanonut asuvansa synkkässä pimeydessä.”",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Silloin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "on sanonut"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "asuvansa"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "synkkässä pimeydessä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:37:20.741961149Z",
+  "model": "glm-5.3"
+}

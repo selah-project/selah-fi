@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Sillä kuningas luottaa Jahveen, ja Elyonin hesediin ⟨tukeutuen⟩ hän ei horju.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "luottaa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahveen"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "ja hesediin"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyonin"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "horju"
+    }
+  ],
+  "timestamp": "2026-09-07T01:58:33.055834782Z",
+  "model": "glm-5.3"
+}

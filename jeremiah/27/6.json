@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 27:6",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ja nyt minä, minä olen antanut ⟨את⟩ kaikki nämä maat Nevukhadnettsarin (Nebukadnessarin), Bavelin (Babylonin) kuninkaan, palvelijani käteen, ja myös ⟨את⟩ kedon eläimet olen minä antanut hänelle häntä palvelemaan.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ja nyt"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "olen antanut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki nämä maat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "maat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käteen"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevukhadnettsarin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavelin"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "palvelijani"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja myös"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kedon eläimet"
+    },
+    {
+      "surface": "חית",
+      "gloss": "eläimet"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "kedon"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "olen antanut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "לעבדו",
+      "gloss": "häntä palvelemaan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:36:47.316026090Z",
+  "model": "glm-5.3"
+}

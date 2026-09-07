@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 42:1",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Katso, palvelijani, jota minä tuen; valittuni, johon minun nefeshini ⟨on⟩ mieltynyt. Olen pannut henkeni hänen päälleen; hän vie oikeuden kansoille.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "palvelijani"
+    },
+    {
+      "surface": "אתמך",
+      "gloss": "minä tuen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "häntä"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "valittuni"
+    },
+    {
+      "surface": "רצתה",
+      "gloss": "on mieltynyt"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshini"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "olen pannut"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "henkeni"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hänen päälleen"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "oikeuden"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "kansoille"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "hän vie"
+    }
+  ],
+  "timestamp": "2026-09-07T00:15:37.521809505Z",
+  "model": "glm-5.3"
+}

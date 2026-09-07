@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 74:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 74,
+  "translation": "Ja ⟨את⟩ sen kaiverrukset yhdessä kirveillä ja nuijilla he murskaavat.",
+  "tokens": [
+    {
+      "surface": "ועת",
+      "gloss": "ja",
+      "marks": "sen kaiverrukset"
+    },
+    {
+      "surface": "פתוחיה",
+      "gloss": "sen kaiverrukset"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "yhdessä"
+    },
+    {
+      "surface": "בכשיל",
+      "gloss": "kirveillä"
+    },
+    {
+      "surface": "וכילפת",
+      "gloss": "ja nuijilla"
+    },
+    {
+      "surface": "יהלמון",
+      "gloss": "he murskaavat"
+    }
+  ],
+  "timestamp": "2026-09-07T07:21:08.612043287Z",
+  "model": "glm-5.3"
+}

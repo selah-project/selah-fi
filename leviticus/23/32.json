@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Shabbat-shabbaton ⟨on⟩ se teille, ja nöyrrytätte ⟨את⟩ nefeshistanne; yhdeksäntenä päivänä kuukaudessa illalla, illasta ilkaan ⟨ Ast edit: illasta iltaan ⟩ illasta iltaan, pitäkää shabbatinne.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "shabbaton"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "ja nöyrrytätte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefeshistanne"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "nefeshistanne"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "yhdeksäntenä päivänä"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "kuukaudessa"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "illalla"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "illasta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "iltaan"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "pitäkää lepoa"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "shabbatinne"
+    }
+  ],
+  "timestamp": "2026-09-06T21:59:47.235693025Z",
+  "model": "glm-5.3"
+}

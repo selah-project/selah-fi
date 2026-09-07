@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 28:18",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Ensimmäisenä päivänä ⟨on⟩ pyhä juhlakokous; mitään palvelustyötä älkää tehkö.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Päivänä"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ensimmäisenä"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "juhlakokous"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mitään"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "työtä"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "palvelus-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "tehkö"
+    }
+  ],
+  "timestamp": "2026-09-06T22:18:01.364344407Z",
+  "model": "glm-5.3"
+}

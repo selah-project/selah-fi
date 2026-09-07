@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "haggai 2:12",
+  "book": "haggai",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Katso, jos mies kantaa pyhää lihaa vaatteensa liepeessä ja koskettaa liepeellään leipään tai muhennokseen tai viiniin tai öljyyn tai mihin tahansa ruokaan, pyhittyykö se? Ja papit vastasivat ja sanoivat: Ei.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "kantaa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "lihaa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhää"
+    },
+    {
+      "surface": "בכנף",
+      "gloss": "liepeessä"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "vaatteensa"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "ja koskettaa"
+    },
+    {
+      "surface": "בכנפו",
+      "gloss": "liepeellään"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-an"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "leipä"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja -an"
+    },
+    {
+      "surface": "הנזיד",
+      "gloss": "muhennos"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja -an"
+    },
+    {
+      "surface": "היין",
+      "gloss": "viini"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja -an"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "öljy"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja -an"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mihin tahansa"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "ruokaan"
+    },
+    {
+      "surface": "היקדש",
+      "gloss": "pyhittyykö"
+    },
+    {
+      "surface": "ויענו",
+      "gloss": "Ja vastasivat"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "papit"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ja sanoivat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ei"
+    }
+  ],
+  "timestamp": "2026-09-07T01:43:35.658502470Z",
+  "model": "glm-5.3"
+}

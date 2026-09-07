@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 16:30",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Vaviskoon hänen edessään kaikki maa; myös ⟨on⟩ maailma perustettu, ei lainkaan horjuva.",
+  "tokens": [
+    {
+      "surface": "חילו",
+      "gloss": "Vaviskoon"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "hänen edessään"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "myös"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "perustettu"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "maailma"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ei lainkaan"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "horjuva"
+    }
+  ],
+  "timestamp": "2026-09-07T05:20:48.289145284Z",
+  "model": "glm-5.3"
+}

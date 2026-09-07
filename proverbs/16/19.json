@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Parempi ⟨on⟩ nöyrä henki ⟨את⟩ köyhien seurassa kuin saalia jakaminen ⟨את⟩ ylpeiden seurassa.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Parempi"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "nöyrä"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "henki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "köyhien seurassa"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "köyhien"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "jakamaan"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "saalia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ylpeiden seurassa"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "ylpeiden"
+    }
+  ],
+  "timestamp": "2026-09-07T03:10:18.689202611Z",
+  "model": "glm-5.3"
+}

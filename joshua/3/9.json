@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 3:9",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja sanoi Jehoshua (Joosua) Israelin pojille: Tulkaa tänne ja kuulkaa ⟨את⟩ Jahven, Elohiminne, sanat.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ille"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojille"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Tulkaa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tänne"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "ja kuulkaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven, Elohiminne, sanat"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminne"
+    }
+  ],
+  "timestamp": "2026-09-06T22:39:49.655140190Z",
+  "model": "glm-5.3"
+}

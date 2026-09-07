@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 8:11",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ota vaari itsestäsi, ettet unhota ⟨את⟩ Jahvea, Elohimiasi, niin ettet pidä hänen käskyjään ja oikeuksiaan ja säädöksiään, jotka minä sinulle tänään käsken.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "ota vaari"
+    },
+    {
+      "surface": "לך",
+      "gloss": "itsestäsi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ettet"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "unhota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimiasi"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "niin ettet"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "pidä"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "hänen käskyjään"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "ja oikeuksiaan"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "ja säädöksiään"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "käsken"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tänään"
+    }
+  ],
+  "timestamp": "2026-09-06T22:26:31.284126423Z",
+  "model": "glm-5.3"
+}

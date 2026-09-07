@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 1:5",
+  "book": "micah",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja'akovin (Jaakob) kapinasta on kaikki tämä, ja Israelin huoneen synneistä. Mikä on Ja'akovin kapina? Eikö Shomeron? Ja mikä on Yehudan (Juuda) uhrikukkuloiden syy? Eikö Jerushalajim (Jerusalem)?",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "kapinasta"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akovin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "ובחטאות",
+      "gloss": "ja synneistä"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mikä"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "kapina"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akovin"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "eikö"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ja mikä"
+    },
+    {
+      "surface": "במות",
+      "gloss": "uhrikukkuloiden"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudan"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "eikö"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    }
+  ],
+  "timestamp": "2026-09-07T01:35:00.526374438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Minä olen Jahve — se ⟨on⟩ nimeni; kunniani en anna toiselle enkä ylistystäni veistokuville.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "nimeni"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "ja kunniani"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "toiselle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "anna"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "ja ylistykseni"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "veistokuville"
+    }
+  ],
+  "timestamp": "2026-09-07T00:13:58.320452269Z",
+  "model": "glm-5.3"
+}

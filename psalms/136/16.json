@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 136,
+  "translation": "Sille, joka johdatti kansansa erämaassa, sillä iankaikkisesti ⟨on⟩ hänen hesedinsä.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "Sille, joka johdatti"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kansansa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "erämaassa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "⟨on⟩ hänen hesedinsä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:52:51.573151178Z",
+  "model": "glm-5.3"
+}

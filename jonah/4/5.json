@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 4:5",
+  "book": "jonah",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja Yonah lähti kaupungista ja asettui itään kaupungista, ja teki itselleen siellä suojan ja istui sen alle varjoon, kunnes näkisi, mitä kaupungille tapahtuisi.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Ja lähti"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-sta (kaupungista)"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungista"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja asettui"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "itään"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kaupungista"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ja teki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "itselleen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "סכה",
+      "gloss": "suojan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja istui"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "sen alle"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "varjoon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-si (näkisi)"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "näkisi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tapahtuisi"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kaupungille"
+    }
+  ],
+  "timestamp": "2026-09-07T01:35:14.020123499Z",
+  "model": "glm-5.3"
+}

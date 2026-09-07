@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 50:23",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 50,
+  "translation": "Kiitosuhraaja kunnioittaa minua, ja joka järjestää tiensä, hänelle minä näytän Elohimin pelastuksen.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Uhraaja"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "kiitoksen"
+    },
+    {
+      "surface": "יכבדנני",
+      "gloss": "kunnioittaa minua"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ja joka asettaa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tiensä"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "hänelle minä näytän"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "pelastuksen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    }
+  ],
+  "timestamp": "2026-09-07T02:09:14.134125473Z",
+  "model": "glm-5.3"
+}

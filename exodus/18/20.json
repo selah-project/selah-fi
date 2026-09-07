@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "ja sinä varoitat ⟨את⟩ heidät ⟨את⟩ säädöksistä ja ⟨את⟩ Toroista, ja teet heille tiettäväksi ⟨את⟩ tien, jota he kulkevat sitä pitkin, ja ⟨את⟩ teon, jonka he tekevät.",
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "ja varoitat"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ heidät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "säädöksistä"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "säädöksistä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Toroista"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "Toroista"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "ja teet tiettäväksi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tien"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "tien"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "jota he kulkevat"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sitä pitkin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "teon"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "teon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "he tekevät"
+    }
+  ],
+  "timestamp": "2026-09-06T21:36:19.217678039Z",
+  "model": "glm-5.3"
+}

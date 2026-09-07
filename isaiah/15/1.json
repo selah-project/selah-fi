@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Taakka Moabin ⟨ollessa kohdalla⟩: yhdessä yössä hävitettiin Ar-Moab — se ⟨on⟩ vaikunut; yhdessä yössä hävitettiin Kir-Moab — se ⟨on⟩ vaikunut.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Taakka"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "yhdessä yössä"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "hävitettiin"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "vaikunut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "yhdessä yössä"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "hävitettiin"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "vaikunut"
+    }
+  ],
+  "timestamp": "2026-09-07T00:05:45.427802836Z",
+  "model": "glm-5.3"
+}

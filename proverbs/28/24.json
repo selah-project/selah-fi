@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 28:24",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Ryöstää isänsä ja äitinsä ja sanoo: ”ei ⟨ole⟩ rikkomusta” — hän ⟨on⟩ tuhoajan kumppani.",
+  "tokens": [
+    {
+      "surface": "גוזל",
+      "gloss": "Ryöstää"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isänsä"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ja äitinsä"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ja sanoo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "rikkomusta"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "kumppani"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "tuhoajalle"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "tuhoaja-"
+    }
+  ],
+  "timestamp": "2026-09-07T03:20:14.367482542Z",
+  "model": "glm-5.3"
+}

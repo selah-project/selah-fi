@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 116,
+  "translation": "Armollinen ⟨on⟩ Jahve ja vanhurskas, ja Elohimimme ⟨on⟩ laupias.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Armollinen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ja vanhurskas"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "ja Elohimimme"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "laupias"
+    }
+  ],
+  "timestamp": "2026-09-07T02:44:38.770003914Z",
+  "model": "glm-5.3"
+}

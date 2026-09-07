@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 7:2",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "ja Jahve, Elohimisi, antaa heidät sinun eteisi, ja sinä lyöt heitä: hävittäen hävität ⟨את⟩ heidät — älä solmi heille liittoa äläkä armahda heitä.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "ja antaa heidät"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimisi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sinun eteisi"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "ja sinä lyöt heitä"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "hävittäen"
+    },
+    {
+      "surface": "תחרים",
+      "gloss": "hävität"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ heidät",
+      "marks": "heidät"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "solmi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "liittoa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "äläkä"
+    },
+    {
+      "surface": "תחנם",
+      "gloss": "armahda heitä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:26:31.896403084Z",
+  "model": "glm-5.3"
+}

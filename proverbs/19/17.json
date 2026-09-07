@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 19:17",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Jahven lainaaja on se, joka armahtaa köyhää, ja hänen tekonsa hän maksaa hänelle takaisin.",
+  "tokens": [
+    {
+      "surface": "מלוה",
+      "gloss": "lainaaja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "armahtaa"
+    },
+    {
+      "surface": "דל",
+      "gloss": "köyhää"
+    },
+    {
+      "surface": "וגמלו",
+      "gloss": "ja hänen tekonsa"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "hän maksaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    }
+  ],
+  "timestamp": "2026-09-07T03:13:13.740628891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 107:15",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 107,
+  "translation": "Kiittäkööt he Jahvea hänen hesedistään (uskuvalasta laupeudestaan) ja hänen ihmeistään ihmislapsille.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Kiittäkööt he"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hänen hesedistään"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ja hänen ihmeistään"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "lapsille"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmisten"
+    }
+  ],
+  "timestamp": "2026-09-07T02:40:23.756764344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 12:3",
+  "book": "daniel",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja ne jotka ymmärtävät, loistavat kuin taivaanvantojen kirkkaus, ja ne jotka monet vanhurskaiksi tekevät, kuin tähdet iankaikkisesti ja ikuisesti.",
+  "tokens": [
+    {
+      "surface": "והמשכלים",
+      "gloss": "Ja ne jotka ymmärtävät"
+    },
+    {
+      "surface": "יזהרו",
+      "gloss": "loistavat"
+    },
+    {
+      "surface": "כזהר",
+      "gloss": "kuin kirkkaus"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "taivaanvantojen"
+    },
+    {
+      "surface": "ומצדיקי",
+      "gloss": "ja ne jotka ... vanhurskaiksi tekevät"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "monet"
+    },
+    {
+      "surface": "ככוכבים",
+      "gloss": "kuin tähdet"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ja ikuisesti"
+    }
+  ],
+  "timestamp": "2026-09-07T04:55:08.155586999Z",
+  "model": "glm-5.3"
+}

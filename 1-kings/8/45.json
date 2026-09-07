@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "niin kuule taivaissa ⟨את⟩ heidän rukouksensa ja ⟨את⟩ heidän anomuksensa ja tee heidän oikeutensa.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "niin kuule"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaissa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän rukouksensa"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "heidän rukouksensa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "heidän anomuksensa"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "heidän anomuksensa"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ja tee"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "heidän oikeutensa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:37:53.645449824Z",
+  "model": "glm-5.3"
+}

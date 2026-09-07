@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ja ⟨את⟩ vuohien kitien nahat hän puki hänen käsilleen ja hänen kaulansa sileälle kohdalle.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "vuohien kitien nahat"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "nahat"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "kitien"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "vuohien"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "hän puki"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "hänen käsilleen"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "sileälle"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "kaulansa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:11:03.973715808Z",
+  "model": "glm-5.3"
+}

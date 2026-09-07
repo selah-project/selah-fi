@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Sanan loppu, kaikki on kuultu: pelkää ⟨את⟩ Elohimia ja pidä ⟨את⟩ hänen käskynsä, sillä tämä ⟨on⟩ koko ihminen.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "loppu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sanan"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "on kuultu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimia"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimia"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "pelkää"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen käskynsä"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "hänen käskynsä"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "pidä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihminen"
+    }
+  ],
+  "timestamp": "2026-09-07T04:37:30.998642436Z",
+  "model": "glm-5.3"
+}

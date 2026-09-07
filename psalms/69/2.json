@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 69,
+  "translation": "Pelasta minut, Elohim, sillä vedet ovat tulleet Nefeshiini asti.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Pelasta minut"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ovat tulleet"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vedet"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Nefeshiini"
+    }
+  ],
+  "timestamp": "2026-09-07T02:19:25.318122903Z",
+  "model": "glm-5.3"
+}

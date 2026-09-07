@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 104,
+  "translation": "Joka lähettää lähteet notkolaaksoihin, vuorten lomassa ne virtaavat.",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "joka lähettää"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "lähteet"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "notkolaaksoihin"
+    },
+    {
+      "surface": "בין",
+      "gloss": "lomassa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "vuorten"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "ne virtaavat"
+    }
+  ],
+  "timestamp": "2026-09-07T02:35:21.651429730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 22:6",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Kasvata poika hänen tiensä suun mukaan; myös kun hän vanhenee, ei hän poikkea siitä.",
+  "tokens": [
+    {
+      "surface": "חנך",
+      "gloss": "Kasvata"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "poika"
+    },
+    {
+      "surface": "על",
+      "gloss": "suun"
+    },
+    {
+      "surface": "פי",
+      "gloss": "suun mukaan"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "hänen tiensä"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "hän vanhenee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "poikkea"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "siitä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:14:12.070397502Z",
+  "model": "glm-5.3"
+}

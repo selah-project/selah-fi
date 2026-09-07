@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "ole varuillasi, ettet unohda ⟨את⟩ Jahvea, joka vei sinut ulos Mitsrajimin maasta (Egypti), orjuuden talosta.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "ole varuillasi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "itsestäsi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "että et"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "unohda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "vei sinut ulos"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin (Egypti)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "talosta"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "orjien"
+    }
+  ],
+  "timestamp": "2026-09-07T04:16:53.900167215Z",
+  "model": "glm-5.3"
+}

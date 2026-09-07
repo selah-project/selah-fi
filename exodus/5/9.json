@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 5:9",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Raskautettakoon työ miehiä, ja tehdkööt he sitä, älköötkä pitäkö valheellisia sanoja",
+  "tokens": [
+    {
+      "surface": "תכבד",
+      "gloss": "raskautettakoon"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "työ"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "miehiä"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ja tehdkööt"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sitä"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "älköötkä"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "pitäkö"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "sanoja"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "valheellisia"
+    }
+  ],
+  "timestamp": "2026-09-06T21:29:33.630104060Z",
+  "model": "glm-5.3"
+}

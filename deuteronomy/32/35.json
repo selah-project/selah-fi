@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 32:35",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Minun on kosto ja palkinta, kun heidän jalkansa horjuu määrähetkellä; sillä lähellä ⟨on⟩ heidän onnettomuutensa päivä, ja heille valmistettu kiirehtii.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "minun on"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "kosto"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "ja palkinta"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "määrähetkellä"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "horjuu"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "heidän jalkansa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "lähellä"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivä"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "heidän onnettomuutensa"
+    },
+    {
+      "surface": "וחש",
+      "gloss": "ja kiirehtii"
+    },
+    {
+      "surface": "עתדת",
+      "gloss": "valmistettu"
+    },
+    {
+      "surface": "למו",
+      "gloss": "heille"
+    }
+  ],
+  "timestamp": "2026-09-06T22:37:25.930097466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 4:12",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja Benjaminin mies juoksi taistelujärjestä ja tuli Shiloon sinä päivänä, ja hänen vaatteensa olivat revityt ja multaa hänen päänsä päällä.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "Ja juoksi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjaminin"
+    },
+    {
+      "surface": "מהמערכה",
+      "gloss": "taistelujärjestä"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Shiloon"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sinä päivänä"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "senä"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "ja hänen vaatteensa"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "revityt"
+    },
+    {
+      "surface": "ואדמה",
+      "gloss": "ja multa"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hänen päänsä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:06:03.100604631Z",
+  "model": "glm-5.3"
+}

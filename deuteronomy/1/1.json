@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 1:1",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Nämä ovat ne sanat, jotka Moshe (Mooses) puhui koko Israelille Jordanin tuolla puolella, erämaassa, Arabassa, Sufin kohdalla, Paranin ja Tofelin ja Lavanin ja Hatsrotin ja Di Zahabin välissä.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Nämä"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "puhui"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelille"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "tuolla puolella"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanin"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "erämaassa"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "Arabassa"
+    },
+    {
+      "surface": "מול",
+      "gloss": "kohdalla"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sufin"
+    },
+    {
+      "surface": "בין",
+      "gloss": "välissä"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paranin"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "Tofelin"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "ja Lavanin"
+    },
+    {
+      "surface": "וחצרת",
+      "gloss": "ja Hatsrotin"
+    },
+    {
+      "surface": "ודי",
+      "gloss": "ja Di"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Zahabin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:23:51.119591463Z",
+  "model": "glm-5.3"
+}

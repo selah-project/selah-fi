@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 21:21",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja David (Daavid) tuli Ornanin luo, ja Ornan katsoi ja näki ⟨את⟩ Davidin, ja hän tuli ulos puimoltamme ja kumartui Davidille kasvot maata vasten.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עד",
+      "gloss": "luo"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Ornan"
+    },
+    {
+      "surface": "ויבט",
+      "gloss": "ja katsoi"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Ornan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ja näki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidin"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ja tuli ulos"
+    },
+    {
+      "surface": "מן",
+      "gloss": "pois"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "puimolta"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ja kumartui"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Davidille"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "kasvot"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "maata vasten"
+    }
+  ],
+  "timestamp": "2026-09-07T05:24:42.179500893Z",
+  "model": "glm-5.3"
+}

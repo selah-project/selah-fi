@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 14:3",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja kohen menee ulos leirin ulkopuolelle, ja kohen katsoo, ja katso: jos tsaraat-tauti on parantunut sairaasta,",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ja menee ulos"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-alueelle"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ulkopuolelle"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "leirin"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ja katsoo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "on parantunut"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "tsaraat-tauti"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-sta"
+    },
+    {
+      "surface": "הצרוע",
+      "gloss": "sairaasta"
+    }
+  ],
+  "timestamp": "2026-09-06T21:52:45.982404437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja Bavelin (Babylonian) miehet tekivät ⟨את⟩ Sukkot-Benotin, ja Kutin (Cuutan) miehet tekivät ⟨את⟩ Nergalin, ja Hamatin (Hamatilaisten) miehet tekivät ⟨את⟩ Ashiman.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "ja miehet"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavelin"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "tekivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukkot-Benotin"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Benot"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "ja miehet"
+    },
+    {
+      "surface": "כות",
+      "gloss": "Kutin"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "tekivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nergalin"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "Nergal"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "ja miehet"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamatin"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "tekivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashiman"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "Ashima"
+    }
+  ],
+  "timestamp": "2026-09-06T23:56:25.074250442Z",
+  "model": "glm-5.3"
+}

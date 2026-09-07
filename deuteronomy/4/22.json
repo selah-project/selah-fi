@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Sillä minä kuolen tässä maassa, en minä kulje ⟨את⟩ Yardenin yli, ja te kuljette yli ja peritte ⟨את⟩ tämän hyvän maan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "מת",
+      "gloss": "kuolen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "tässä maassa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": ""
+    },
+    {
+      "surface": "אינני",
+      "gloss": "en minä"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kulje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardenin"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardenin"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ja te"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "kuljette yli"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "ja peritte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän hyvän maan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "hyvän"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämän"
+    }
+  ],
+  "timestamp": "2026-09-06T22:24:56.658500094Z",
+  "model": "glm-5.3"
+}

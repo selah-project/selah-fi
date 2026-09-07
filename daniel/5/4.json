@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "He joivat viiniä ja ylistivät jumalia, kultaisia ja hopeisia, kuparisia, rautaisia, puisia ja kivialkoisia.",
+  "tokens": [
+    {
+      "surface": "אשתיו",
+      "gloss": "He joivat"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "viiniä"
+    },
+    {
+      "surface": "ושבחו",
+      "gloss": "ja ylistivät"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "jumalia"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "kultaisia"
+    },
+    {
+      "surface": "וכספא",
+      "gloss": "ja hopeisia"
+    },
+    {
+      "surface": "נחשא",
+      "gloss": "kuparisia"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "rautaisia"
+    },
+    {
+      "surface": "אעא",
+      "gloss": "puisia"
+    },
+    {
+      "surface": "ואבנא",
+      "gloss": "ja kivialkoisia"
+    }
+  ],
+  "timestamp": "2026-09-07T04:48:10.875662307Z",
+  "model": "glm-5.3"
+}

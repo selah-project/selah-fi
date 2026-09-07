@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 46,
+  "translation": "Tulkaa, katsokaa Jahven tekoja, joka on pannut hävitykset maahan.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Tulkaa"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "katsokaa"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "tekoja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "on pannut"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "hävitykset"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maahan"
+    }
+  ],
+  "timestamp": "2026-09-07T02:09:49.028555630Z",
+  "model": "glm-5.3"
+}

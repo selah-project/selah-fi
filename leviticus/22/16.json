@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "eivätkä saata ⟨את⟩ heitä kantamaan syyllisyyden vikaa, kun he syövät ⟨את⟩ pyhät lahjansa; sillä minä olen Jahve, joka pyhitän heidät.",
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "eivätkä saata kantamaan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ heitä"
+    },
+    {
+      "surface": "עון",
+      "gloss": "syyllisyyden"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "vikan"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "kun he syövät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pyhät lahjansa"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "pyhät lahjansa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "joka pyhitän heidät"
+    }
+  ],
+  "timestamp": "2026-09-06T21:57:43.719981386Z",
+  "model": "glm-5.3"
+}

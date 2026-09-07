@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Elohim ⟨on⟩ vanhurskas tuomari, ja El vihastuu joka päivä.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "tuomari"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "vanhurskas"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "vihastuu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "joka"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:50:58.708022867Z",
+  "model": "glm-5.3"
+}

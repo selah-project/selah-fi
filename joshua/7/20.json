@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 7:20",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja Akan vastasi ⟨את⟩ Jehoshuaa ja sanoi: ”Todellakin, minä olen syntiä tehnyt Jahvelle, Israelin Elohimille, ja näin ja näin minä olen tehnyt.”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "vastasi"
+    },
+    {
+      "surface": "עכן",
+      "gloss": "Akan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoshuaa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshuaa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "todellakin"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "olen syntiä tehnyt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimille"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "ja näin"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "ja näin"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "minä olen tehnyt"
+    }
+  ],
+  "timestamp": "2026-09-06T22:43:30.550415714Z",
+  "model": "glm-5.3"
+}

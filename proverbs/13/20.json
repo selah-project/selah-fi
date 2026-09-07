@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Kulje ⟨את⟩ viisaiden kanssa ja viisas sinä tulet, mutta tyhmien kumppani saa kärsiä pahaa.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "kulje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viisaiden kanssa"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "viisaiden"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "ja viisas"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "mutta kumppani"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "tyhmien"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "saa kärsiä pahaa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:08:00.479934858Z",
+  "model": "glm-5.3"
+}

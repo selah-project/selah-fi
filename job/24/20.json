@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 24:20",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Kohtu unhottaa hänet, mato syö hänen makeutensa, ei häntä enää muisteta, ja vääryys särkyy kuin puu.",
+  "tokens": [
+    {
+      "surface": "ישכחהו",
+      "gloss": "unhottaa hänet"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "kohtu"
+    },
+    {
+      "surface": "מתקו",
+      "gloss": "hänen makeutensa"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "mato"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enää"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "häntä muisteta"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "ja särkyy"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "kuin puu"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "vääryys"
+    }
+  ],
+  "timestamp": "2026-09-07T03:41:16.073587923Z",
+  "model": "glm-5.3"
+}

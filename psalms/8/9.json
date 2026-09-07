@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Taivaan linnut ja meren kalat, ⟨se⟩ joka kulkee meren polkuja.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "linnut"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "ja meren kalat"
+    },
+    {
+      "surface": "הים",
+      "gloss": "merta"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kulkee"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "polut"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "meren"
+    }
+  ],
+  "timestamp": "2026-09-07T01:54:00.171335930Z",
+  "model": "glm-5.3"
+}

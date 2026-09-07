@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Sillä sinä teit sen salassa, mutta minä teen ⟨את⟩ tämän asian koko Israelin edessä ja auringon edessä.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "teit"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "salassa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mutta minä"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "teen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän asian"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asian"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "ja edessä"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "auringon"
+    }
+  ],
+  "timestamp": "2026-09-06T23:23:23.924327174Z",
+  "model": "glm-5.3"
+}

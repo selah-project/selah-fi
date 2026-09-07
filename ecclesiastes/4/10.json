@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Sillä jos he kaatuvat, nostaa toinen ⟨את⟩ kumppaninsa; mutta jos yksi kaatuu, ei ole toista häntä nostamaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "he kaatuvat"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "toinen"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "nostaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kumppaninsa"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "kumppaninsa"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "mutta jos"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "kaatuu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "שני",
+      "gloss": "toista"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "häntä nostamaan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:05:38.983164991Z",
+  "model": "glm-5.3"
+}

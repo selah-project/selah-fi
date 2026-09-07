@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 47,
+  "translation": "Paljastetaan häpeäsi, myös nähdään pilkkasi; kostoksi otan minä, enkä säästä ⟨yhtään⟩ ihmistä.",
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "Paljastetaan"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "häpeäsi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "nähdään"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "pilkkasi"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "kostoksi"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "otan minä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "säästä"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmistä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:17:01.130656390Z",
+  "model": "glm-5.3"
+}

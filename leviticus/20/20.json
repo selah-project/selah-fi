@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja mies, joka makaa tätinsä ⟨את⟩ kanssa: setänsä häpeän hän on paljastanut; syntinsä he kantavat; lapsettomina he kuolevat.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ja mies"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "makaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ kanssa",
+      "marks": "tätinsä"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "tätinsä"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "häpeän"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "setänsä"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "hän on paljastanut"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "syntinsä"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "he kantavat"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "lapsettomina"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "he kuolevat"
+    }
+  ],
+  "timestamp": "2026-09-06T21:58:02.384139445Z",
+  "model": "glm-5.3"
+}

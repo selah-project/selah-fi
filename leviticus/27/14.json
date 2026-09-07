@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 27:14",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Jos mies pyhittää talonsa Jahvelle pyhäksi, pappi arvioi sen, onpa se hyvä tai huono; niin kuin pappi sen arvioi, niin se pysyy.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ja mies"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jos"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "pyhittää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "talonsa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "talonsa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhäksi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "והעריכו",
+      "gloss": "arvioi sen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pappi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "onpa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvä"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "tai"
+    },
+    {
+      "surface": "רע",
+      "gloss": "huono"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "יעריך",
+      "gloss": "arvioi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet",
+      "marks": "pappi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pappi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "se pysyy"
+    }
+  ],
+  "timestamp": "2026-09-06T22:01:41.233863895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja vihasin minä ⟨את⟩ kaikkea vaivaani, jota minä vaivasin auringon alla, koska jätän sen ihmiselle, joka on minun jälkeen.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "Ja vihasin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikkea vaivaani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkea"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "vaivaani"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "jota minä"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "vaivasin"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alla"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "auringon"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "koska jätän sen"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ihmiselle"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "joka on"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "minun jälkeen"
+    }
+  ],
+  "timestamp": "2026-09-07T04:06:46.514525606Z",
+  "model": "glm-5.3"
+}

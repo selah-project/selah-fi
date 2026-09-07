@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 81,
+  "translation": "Jos vain kansani kuulisi minua, Israel vaelsisi minun teilläni!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "Jos vain"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kansani"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kuulisi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "minun teilläni"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "vaelsisi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:24:45.251932813Z",
+  "model": "glm-5.3"
+}

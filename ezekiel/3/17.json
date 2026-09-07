@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 3:17",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ihmislapsi, vartijaksi sinut olen antanut Israelin huisi, ja sinä kuulet sanan suustani ja sinä varoitat ⟨את⟩ heitä minulta.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "lapsi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmisen"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "vartijaksi"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "sinut olen antanut"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "huisi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "ja kuulet"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "suustani"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sanan"
+    },
+    {
+      "surface": "והזהרת",
+      "gloss": "ja varoitat"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ heitä",
+      "marks": "Israelin huinen varoitettavat"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minulta"
+    }
+  ],
+  "timestamp": "2026-09-07T00:54:12.125043163Z",
+  "model": "glm-5.3"
+}

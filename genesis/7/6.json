@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja Noach ⟨oli⟩ kuudensadan vuoden ⟨poika⟩, kun vedenpaiskuksen vedet olivat maan päällä.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "Ja Noach"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "שש",
+      "gloss": "kuuden"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sadan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuoden"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "ja vedenpaiskuksen"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vedet"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:06:07.742432202Z",
+  "model": "glm-5.3"
+}

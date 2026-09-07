@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Älä ole kaukana minusta, sillä ahdistus on lähellä, sillä ei ole auttajaa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ole kaukana"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minusta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ahdistus"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "on lähellä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "auttajaa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:57:39.117425945Z",
+  "model": "glm-5.3"
+}

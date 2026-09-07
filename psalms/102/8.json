@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 102,
+  "translation": "Olen valvonut ja olen ollut kuin lintu, joka istuu yksin katolla.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "olen valvonut"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "ja olen ollut"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "kuin lintu"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "yksin"
+    },
+    {
+      "surface": "על",
+      "gloss": "–n päällä"
+    },
+    {
+      "surface": "גג",
+      "gloss": "katon"
+    }
+  ],
+  "timestamp": "2026-09-07T02:35:12.394505855Z",
+  "model": "glm-5.3"
+}

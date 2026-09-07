@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Varo itsellesi, ettet hylkää ⟨את⟩ leeviläistä kaikkina päivinäsi maaperälläsi.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Varo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "itsellesi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ettet"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "hylkää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leeviläistä"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "leeviläistä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkina"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "päivinäsi"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨⟩"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "maaperälläsi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:29:47.677326570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "ja se, joka kuulee ⟨את⟩ shofarin äänen eikä ota varoitusta — kun miekka tulee ja ottaa hänet, hänen verensä on oltava hänen omalla päänsä päällä.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "ja kuulee"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "se joka kuulee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shofarin äänen"
+    },
+    {
+      "surface": "קול",
+      "gloss": "äänen"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "shofarin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "ota varoitusta"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "kun tulee"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "miekka"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "ja ottaa hänet"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "hänen verensä"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "hänen omalle päälleen"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "on oltava"
+    }
+  ],
+  "timestamp": "2026-09-07T01:09:33.619574393Z",
+  "model": "glm-5.3"
+}

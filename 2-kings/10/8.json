@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 10:8",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja sanansaattaja tuli ja ilmoitti hänelle sanoen: ”He ovat tuoneet kuninkaan poikien päät.” Ja hän sanoi: ”Pankaa ⟨את⟩ ne kahteen kasaan portin suuhun aamuun asti.”",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "sanansaattaja"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ja ilmoitti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "he ovat tuoneet"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "päät"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikien"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "pankaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ne",
+      "marks": "ne"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kahteen"
+    },
+    {
+      "surface": "צברים",
+      "gloss": "kasaan"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "suuhun"
+    },
+    {
+      "surface": "השער",
+      "gloss": "portin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "aamuun"
+    }
+  ],
+  "timestamp": "2026-09-06T23:52:41.867375936Z",
+  "model": "glm-5.3"
+}

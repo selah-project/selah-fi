@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 17:11",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja tapahtui: kun Moshe kohotti kätensä, Israel oli väkevä, ja kun hän laski kätensä lepoon, Amalek oli väkevä.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "kohotti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kätensä"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "oli väkevä"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "ja kun"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "laski lepoon"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kätensä"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "oli väkevä"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    }
+  ],
+  "timestamp": "2026-09-07T06:28:38.569247883Z",
+  "model": "glm-5.3"
+}

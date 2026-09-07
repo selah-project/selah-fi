@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "ja Oved siitti ⟨את⟩ Jehun, ja Jehu siitti ⟨את⟩ Azarjan.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "ja Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehun"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehun"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "ja Jehu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjan"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjan"
+    }
+  ],
+  "timestamp": "2026-09-07T05:11:17.952725261Z",
+  "model": "glm-5.3"
+}

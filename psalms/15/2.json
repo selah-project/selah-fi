@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Joka vaeltaa nuhteettomasti ja tekee vanhurskautta ja puhuu totuutta sydämessään.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "vaeltaa"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "nuhteettomasti"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "ja tekee"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "vanhurskautta"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ja puhuu"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "totuutta"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "sydämessään"
+    }
+  ],
+  "timestamp": "2026-09-07T01:56:14.883199518Z",
+  "model": "glm-5.3"
+}

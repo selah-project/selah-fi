@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 4:33",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja hän nojaa ⟨את⟩ kätensä syntiuhrikaritsan pään päälle ja teurastaa ⟨את⟩ sen syntiuhriksi siinä paikassa, jossa hän teurastaa ⟨את⟩ polttouhrin.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "Ja hän nojaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kätensä"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kätensä"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pään"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syntiuhrikaritsan"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ja teurastaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sen"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "syntiuhriksi"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "siinä paikassa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jossa"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "hän teurastaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "polttouhrin"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "polttouhrin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:48:31.042962257Z",
+  "model": "glm-5.3"
+}

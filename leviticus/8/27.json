@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 8:27",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja hän pani ⟨את⟩ kaiken Aharonin käsiin ja hänen poikiensa käsiin, ja hän heilutti ⟨את⟩ niitä heilutusuhriksi Jahven edessä.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ja hän pani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "על",
+      "gloss": "…käsiin"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "käsiin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "käsiin"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hänen poikiensa"
+    },
+    {
+      "surface": "וינף",
+      "gloss": "ja hän heilutti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ niitä",
+      "marks": "niitä"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "heilutusuhriksi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-06T21:51:53.920491215Z",
+  "model": "glm-5.3"
+}

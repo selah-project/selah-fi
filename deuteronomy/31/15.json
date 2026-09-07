@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 31:15",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Ja Jahve ilmestyi navetassa pilvipatsaassa, ja pilvipatsas seisoi navetan ovella.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ja ilmestyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "navetassa"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "patsaassa"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "pilvi-"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ja seisoi"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "patsas"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "pilven"
+    },
+    {
+      "surface": "על",
+      "gloss": "ovella"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ovella"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "navetan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:38:37.501962712Z",
+  "model": "glm-5.3"
+}

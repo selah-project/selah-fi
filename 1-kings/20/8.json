@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja kaikki vanhimmat ja kaikki kansa sanoivat hänelle: Älä kuuntele häntä, äläkä suostu.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ja sanoivat"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "vanhimmat"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "kuuntele"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "äläkä"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "suostu"
+    }
+  ],
+  "timestamp": "2026-09-06T23:44:58.938696136Z",
+  "model": "glm-5.3"
+}

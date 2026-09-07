@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja Jahve sanoi: Yehudah (Juuda) nouskoon; katso, minä olen antanut ⟨את⟩ maan hänen käteensä.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja ... sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "nouskoon"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "katso"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "minä olen antanut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "hänen käteensä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:50:50.215774175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Muista, Jahve, mikä meille on tapahtunut; katso ja näe ⟨את⟩ häpeämme.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Muista"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mikä"
+    },
+    {
+      "surface": "היה",
+      "gloss": "on tapahtunut"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meille"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "katso"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ja näe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "häpeämme"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "häpeämme"
+    }
+  ],
+  "timestamp": "2026-09-07T04:04:50.727180620Z",
+  "model": "glm-5.3"
+}

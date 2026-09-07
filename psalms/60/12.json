@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 60:12",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 60,
+  "translation": "Eikö sinä, Elohim, ole hylännyt meitä, etkö sinä, Elohim, lähde joukkojemme kanssa?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "eikö"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "hylännyt meidät"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "etkö"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "lähde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "joukkojemme kanssa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:33:47.285774309Z",
+  "model": "glm-5.3"
+}

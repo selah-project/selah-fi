@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja sinä ⟨olet⟩ pyhä, Israelin ylistysten istuja.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ja sinä"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "pyhä"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "istuja"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "ylistysten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-07T01:58:20.613828097Z",
+  "model": "glm-5.3"
+}

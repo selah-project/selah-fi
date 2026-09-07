@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Jahve valmisti suuren kalan nielaisemaan ⟨את⟩ Jonan, ja Jona oli kalan sisuskoihin kolme päivää ja kolme yötä.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "Ja Jahve valmisti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דג",
+      "gloss": "kalan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suuren"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "nielaisemaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonan"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonan"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja oli"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "sisuskoihin"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "kalan"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivää"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ja kolme"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "yötä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:33:20.506950702Z",
+  "model": "glm-5.3"
+}

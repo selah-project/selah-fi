@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 15:26",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Jokainen vuode, jolla hän maatuu, kaikkina vuottonsa päivinä, on hänelle kuin eränsä vuode; ja jokainen astia, jonka päälle hän istuu, on epäpuhdas kuin eränsä epäpuhtaus.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "jokainen"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "vuode"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jolla"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "hän maatuu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sen päälle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkina"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päivinä"
+    },
+    {
+      "surface": "זובה",
+      "gloss": "vuottonsa"
+    },
+    {
+      "surface": "כמשכב",
+      "gloss": "kuin vuode"
+    },
+    {
+      "surface": "נדתה",
+      "gloss": "eränsä"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "on"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja jokainen"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "astia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jolla"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "hän istuu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sen päälle"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "epäpuhdas"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "on"
+    },
+    {
+      "surface": "כטמאת",
+      "gloss": "kuin epäpuhtaus"
+    },
+    {
+      "surface": "נדתה",
+      "gloss": "eränsä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:55:12.231138163Z",
+  "model": "glm-5.3"
+}

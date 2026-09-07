@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Sillä Jahve tuntee vanhurskaiden tien, mutta jumalattomien tie katoaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "tuntee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tien"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "vanhurskaiden"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "mutta tie"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jumalattomien"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "katoaa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:50:32.006783180Z",
+  "model": "glm-5.3"
+}

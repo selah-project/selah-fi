@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 2:23",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Jahve jätti ⟨את⟩ nämä kansat rauhaan, niin ettei karkottanut niitä nopeasti, eikä antanut niitä Jehoshuan käteen.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "Ja … jätti rauhaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nämä kansat"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kansat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "niin ettei"
+    },
+    {
+      "surface": "הורישם",
+      "gloss": "karkottanut niitä"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "nopeasti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "antanut niitä"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käteen"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshuan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:49:44.620098277Z",
+  "model": "glm-5.3"
+}

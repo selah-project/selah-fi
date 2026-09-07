@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "⟨את⟩ Utsin, hänen esikoisensa, ja ⟨את⟩ Buzin, hänen veljensä, ja ⟨את⟩ Kemuelin, Aramin isän.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Utsin"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Utsin"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "hänen esikoisensa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Buzin"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buzin"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hänen veljensä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Kemuelin"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Kemuelin"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "isän"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:12:26.093728838Z",
+  "model": "glm-5.3"
+}

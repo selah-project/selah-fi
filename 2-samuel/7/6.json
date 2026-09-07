@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 7:6",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Sillä en ole asunut talossa siitä päivästä, jona vein ⟨את⟩ Israelin pojat ylös Mitsrajimista (Egyptistä), tähän päivään asti, vaan olen kulkenut teltassa ja asumuksessa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "ole asunut"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "talossa"
+    },
+    {
+      "surface": "למיום",
+      "gloss": "siitä päivästä"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "jona vein ylös"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin pojat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrajimista"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tähän päivään"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tähän"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "vaan olen"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "kulkenut"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "teltassa"
+    },
+    {
+      "surface": "ובמשכן",
+      "gloss": "ja asumuksessa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:21:46.539880756Z",
+  "model": "glm-5.3"
+}

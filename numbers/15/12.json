@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Lukumäärän mukaan, jonka teette, näin te teette jokaiselle, heidän lukumääränsä mukaan.",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "lukumäärän mukaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "teette"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "näin"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "te teette"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "jokaiselle"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "heidän lukumääränsä mukaan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:10:51.047732366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 3:10",
+  "book": "ezra",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja kun rakentajat panivat ⟨את⟩ Jahven temppelin perustuksen, asettivat papit, pukeutuneina torvineen, ja leeviläiset, Asafin pojat, symbaalein, paikoilleen ylistämään ⟨את⟩ Jahvea Davidin (Daavid), Israelin kuninkaan, käden mukaan.",
+  "tokens": [
+    {
+      "surface": "ויסדו",
+      "gloss": "ja panivat perustuksen"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "rakentajat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven temppelin"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "temppelin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "asettivat"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "papit"
+    },
+    {
+      "surface": "מלבשים",
+      "gloss": "pukeutuneina"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "torvineen"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ja leeviläiset"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asafin"
+    },
+    {
+      "surface": "במצלתים",
+      "gloss": "symbaalein"
+    },
+    {
+      "surface": "להלל",
+      "gloss": "ylistämään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "על",
+      "gloss": "mutta"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "käden"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidin (Daavid)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-07T04:58:48.666556410Z",
+  "model": "glm-5.3"
+}

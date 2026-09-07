@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 41:52",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 41,
+  "translation": "Ja ⟨את⟩ toisen nimen hän kutsui Efrajimiksi (Efraim), sillä Elohim on tehnyt minut hedelmälliseksi minun kurjuuteni maassa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ja ⟨את⟩",
+      "marks": "toisen nimen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimen"
+    },
+    {
+      "surface": "השני",
+      "gloss": "toisen"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kutsui"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajimiksi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "הפרני",
+      "gloss": "on tehnyt minut hedelmälliseksi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "minun kurjuuteni"
+    }
+  ],
+  "timestamp": "2026-09-06T21:23:55.293910712Z",
+  "model": "glm-5.3"
+}

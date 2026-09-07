@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja te syötte vanhaa, pitkään säilynyttä, ja vanhan te tuotte esiin uuden tieltä.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "ja te syötte"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "vanhaa"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "pitkään säilynyttä"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "ja vanhan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tieltä"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "uuden"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "te tuotte esiin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:00:10.627870386Z",
+  "model": "glm-5.3"
+}

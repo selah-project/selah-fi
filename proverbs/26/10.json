@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 26:10",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Suuri ⟨on⟩ kaiken muovaaja: hän palkitsee hullun ja hän palkitsee rikkojat.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "Suuri"
+    },
+    {
+      "surface": "מחולל",
+      "gloss": "muovaaja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ja palkitsee"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "hullun"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ja palkitsee"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "rikkojat"
+    }
+  ],
+  "timestamp": "2026-09-07T03:15:20.752552311Z",
+  "model": "glm-5.3"
+}

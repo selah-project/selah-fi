@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja he vastaavat ja sanovat: ”Meidän kätemme ei vuodattanut ⟨את⟩ tätä verta, eikä meidän silmämme nähneet.”",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "Ja he vastaavat"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ja sanovat"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "meidän kätemme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "vuodattanut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tätä verta"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "verta"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "ja meidän silmämme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nähneet"
+    }
+  ],
+  "timestamp": "2026-09-06T22:31:53.535049798Z",
+  "model": "glm-5.3"
+}

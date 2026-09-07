@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 7:23",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja hän teki ⟨את⟩ valetun meren, kymmenen kyynärää sen reunasta sen reunaan, pyöreä ympäri; ja viisi kyynärää sen korkeus, ja mittanauha kolmekymmentä kyynärää kiersi ⟨את⟩ sen ympäri.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ja hän teki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meren"
+    },
+    {
+      "surface": "הים",
+      "gloss": "meren"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "valetun"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kymmenen"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "משפתו",
+      "gloss": "sen reunasta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saakka"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "sen reunaan"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "pyöreä"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympäri"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ja viisi"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "sen korkeus"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "ja mittanauha"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "kolmekymmentä"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "kiersi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sen"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympäri"
+    }
+  ],
+  "timestamp": "2026-09-06T23:35:58.684928692Z",
+  "model": "glm-5.3"
+}

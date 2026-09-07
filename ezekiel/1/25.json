@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 1:25",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja tapahtui ääni yläpuolelta, taivaankannesta, joka oli heidän päänsä päällä: kun he seisoivat, he laskivat siipensä roikkumaan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ääni"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "yläpuolelta"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "taivaankannesta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "heidän päänsä"
+    },
+    {
+      "surface": "בעמדם",
+      "gloss": "kun he seisoivat"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "he laskivat roikkumaan"
+    },
+    {
+      "surface": "כנפיהן",
+      "gloss": "siipensä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:51:46.008653967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja tapahtuu, kun mitsrajilaiset näkevät ⟨את⟩ sinut, että he sanovat: Tämä on hänen vaimonsa; ja he tappavat ⟨את⟩ minut, mutta ⟨את⟩ sinut he antavat elää.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ja tapahtuu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "näkevät"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sinut",
+      "marks": "sinut"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "mitsrajilaiset"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "että he sanovat"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hänen vaimonsa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Tämä"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "ja he tappavat"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ minut",
+      "marks": "minut"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "mutta ⟨את⟩ sinut",
+      "marks": "sinut"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "he antavat elää"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:27.498620304Z",
+  "model": "glm-5.3"
+}

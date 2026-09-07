@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja kuningas sanoi naiselle: ”Mene kotiisi, ja minä käsken sinun puolestasi.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "האשה",
+      "gloss": "naiselle"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Mene"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "kotiisi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ja minä"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "käsken"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sinun puolestasi"
+    }
+  ],
+  "timestamp": "2026-09-07T04:21:43.012530906Z",
+  "model": "glm-5.3"
+}

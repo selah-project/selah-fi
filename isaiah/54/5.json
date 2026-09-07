@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 54:5",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 54,
+  "translation": "Sillä sinun miehesi ⟨on⟩ sinun tekijäsi — Jahve Sebaotin on hänen nimensä — ja sinun lunastajasi on Israelin Pyhä; koko maan Elohimiksi häntä kutsutaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "בעליך",
+      "gloss": "sinun miehesi"
+    },
+    {
+      "surface": "עשיך",
+      "gloss": "sinun tekijäsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaotin"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hänen nimensä"
+    },
+    {
+      "surface": "וגאלך",
+      "gloss": "ja sinun lunastajasi"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Pyhä"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimiksi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "häntä kutsutaan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:18:30.002768456Z",
+  "model": "glm-5.3"
+}

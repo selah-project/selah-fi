@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 7:15",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja minä heitän ⟨את⟩ teidät pois kasvojeni edestä, niin kuin heitin ⟨את⟩ kaikki veljenne, ⟨את⟩ koko Efrajimin (Efraimin) siemenen.",
+  "tokens": [
+    {
+      "surface": "והשלכתי",
+      "gloss": "Ja minä heitän"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "pois"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kasvojeni edestä"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "heitin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki veljenne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "veljenne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko Efrajimin siemenen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "siemenen"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajimin (Efraimin)"
+    }
+  ],
+  "timestamp": "2026-09-07T00:26:29.109873761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 33:19",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "pelastamaan heidän nefeshensa ⟨henkensä⟩ kuolemalta ja pitämään heidät elossa nälän keskellä.",
+  "tokens": [
+    {
+      "surface": "להציל",
+      "gloss": "pelastamaan"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "kuolemalta"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "heidän nefeshensa"
+    },
+    {
+      "surface": "ולחיותם",
+      "gloss": "ja pitämään heidät elossa"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "nälän keskellä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:03:57.786474510Z",
+  "model": "glm-5.3"
+}

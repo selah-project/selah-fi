@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja maa tuli epäpuhtaaksi, ja minä käännyin sen pahuuden kimppuun sen päällä, ja maa oksensi ulos ⟨את⟩ asujansa.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "ja se tuli epäpuhtaaksi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "ja minä käännyin kimppuun"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "sen pahuus"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sen päällä"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "ja se oksensi ulos"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asujansa"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "asujansa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:54:54.706982560Z",
+  "model": "glm-5.3"
+}

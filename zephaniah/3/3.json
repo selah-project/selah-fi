@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 3:3",
+  "book": "zephaniah",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Pääriinsä keskellä ovat ärjyviä leijonia; tuomarinsa ovat ilt susia — eivät jättäneet luuta aamuun.",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "Pääriensä"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "keskellä"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "leijonia"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "ärjyviä"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "tuomarinsa"
+    },
+    {
+      "surface": "זאבי",
+      "gloss": "susia"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ilta-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "גרמו",
+      "gloss": "jättäneet luuta"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "aamuun"
+    }
+  ],
+  "timestamp": "2026-09-07T01:41:00.092650275Z",
+  "model": "glm-5.3"
+}

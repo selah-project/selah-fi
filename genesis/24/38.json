@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 24:38",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Vaikka ei — vaan isäni taloon sinä kuljet ja sukuni luo, ja otat vaimon pojalleni.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…seen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "taloon"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "isäni"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "kuljet"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja …luokse"
+    },
+    {
+      "surface": "משפחתי",
+      "gloss": "sukuni"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ja otat"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "vaimon"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pojalleni"
+    }
+  ],
+  "timestamp": "2026-09-06T21:15:07.477945199Z",
+  "model": "glm-5.3"
+}

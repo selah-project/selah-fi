@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 18:46",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Muukalaisten pojat nuupuvat ja värisevät sulkeistaan.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "muukalaisten"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "nuupuvat"
+    },
+    {
+      "surface": "ויחרגו",
+      "gloss": "ja värisevät"
+    },
+    {
+      "surface": "ממסגרותיהם",
+      "gloss": "sulkeistaan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:57:38.853710312Z",
+  "model": "glm-5.3"
+}

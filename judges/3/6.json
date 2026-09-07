@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 3:6",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja he ottivat ⟨את⟩ heidän tyttäriään itselleen vaimoiksi, ja ⟨את⟩ heidän tyttäriään he antoivat pojilleen, ja he palvelivat ⟨את⟩ heidän jumaliaan.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Ja he ottivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän tyttäriään"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "heidän tyttäriään"
+    },
+    {
+      "surface": "להם",
+      "gloss": "itselleen"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "vaimoiksi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "heidän tyttäriään"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "heidän tyttäriään"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "he antoivat"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "pojilleen"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ja he palvelivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän jumaliaan"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "heidän jumaliaan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:50:45.066309595Z",
+  "model": "glm-5.3"
+}

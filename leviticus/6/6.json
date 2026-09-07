@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Tuli palaa jatkuvasti alttarilla; ei se saa sammua.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Tuli"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "jatkuvasti"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "palaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "sammua"
+    }
+  ],
+  "timestamp": "2026-09-06T21:49:12.155795144Z",
+  "model": "glm-5.3"
+}

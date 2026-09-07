@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 13:9",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja Shaul (Saul) sanoi: ”Tuokaa minulle polttouhri ja rauhanuhrit”, ja hän nosti polttouhrin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "הגשו",
+      "gloss": "Tuokaa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "polttouhri"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "ja rauhanuhrit"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ja nosti"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "polttouhrin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:08:39.847689152Z",
+  "model": "glm-5.3"
+}

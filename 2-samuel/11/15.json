@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja hän kirjoitti kirjeeseen sanoen: ”Antakaa ⟨את⟩ Urijan kovimman taistelun eteen, ja vetäytykää pois hänen takanaan, niin hänet lyödään ja hän kuolee.”",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "ja hän kirjoitti"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "kirjeeseen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "antakaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urijan"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urijan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…taistelun"
+    },
+    {
+      "surface": "מול",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "פני",
+      "gloss": "-puolelle"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "taistelun"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "kovimman"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "ja vetäytykää takaisin"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "hänen takanaan"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "niin hänet lyödään"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ja hän kuolee"
+    }
+  ],
+  "timestamp": "2026-09-06T23:24:43.121348824Z",
+  "model": "glm-5.3"
+}

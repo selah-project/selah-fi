@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "”Isäsi teki raskaaksi ⟨את⟩ ikeemme; ja sinä nyt kevennä isäsi ankaraa pakkotyötä ja hänen raskasta ikeensä, jonka hän pani meidän päällemme, niin me palvelemme sinua.”",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "isäsi"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "teki raskaaksi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikeemme"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "ikeemme"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ja sinä"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "kevennä"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "pakkotyöstä"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "isäsi"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "ankara"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "ja ikeestä"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "raskaasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "hän pani"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "meidän päällemme"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "niin me palvelemme sinua"
+    }
+  ],
+  "timestamp": "2026-09-06T23:40:33.822346163Z",
+  "model": "glm-5.3"
+}

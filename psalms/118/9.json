@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 118:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 118,
+  "translation": "Hyvä ⟨on⟩ turvautua Jahveen, parempi kuin luottaa ruhtinaisiin.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "hyvä"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "turvautua"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahveen"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "kuin luottaa"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "ruhtinaisiin"
+    }
+  ],
+  "timestamp": "2026-09-07T02:44:03.890699107Z",
+  "model": "glm-5.3"
+}

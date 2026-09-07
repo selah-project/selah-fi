@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 2:6",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Jahve antaa kuolla ja herättää henkiin; hän vie alas Sheoliin ja tuo ylös.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ממית",
+      "gloss": "antaa kuolla"
+    },
+    {
+      "surface": "ומחיה",
+      "gloss": "ja herättää henkiin"
+    },
+    {
+      "surface": "מוריד",
+      "gloss": "vie alas"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheoliin"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ja tuo ylös"
+    }
+  ],
+  "timestamp": "2026-09-06T23:03:56.397113780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 23:10",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Yksi mies teistä ajaa takaa tuhatta, sillä Jahve, Elohiminne, hän ⟨on⟩ se, joka taistelee teidän puolestanne, niin kuin hän on teille puhunut.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "teistä"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "ajaa takaa"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhatta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminne"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "taistelee"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teidän puolestanne"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "on puhunut"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    }
+  ],
+  "timestamp": "2026-09-06T22:50:05.037676854Z",
+  "model": "glm-5.3"
+}

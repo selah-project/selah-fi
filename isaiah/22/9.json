@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja ⟨את⟩ Daavin kaupungin murtumat näitte, koska ne olivat tulleet moninaisiksi, ja kokositte ⟨את⟩ alemman allasen veden.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Daavin kaupungin murtumat"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "murtumat"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daavin"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "näitte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "olivat tulleet moninaisiksi"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "ja kokositte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alemman allasen veden"
+    },
+    {
+      "surface": "מי",
+      "gloss": "veden"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "allasen"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "alemmman"
+    }
+  ],
+  "timestamp": "2026-09-07T00:06:21.233624519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Katso, minä olen tehnyt ⟨את⟩ kasvosi koviksi heidän kasvojensa vastaan, ja ⟨את⟩ otsesi kovaksi heidän otsaansa vastaan.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "minä olen tehnyt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasvosi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "kasvosi"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "koviksi"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "vastaan"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "heidän kasvojensa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "otsesi"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "otsesi"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "kovaksi"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "vastaan"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "heidän otsaansa"
+    }
+  ],
+  "timestamp": "2026-09-07T00:54:13.049566929Z",
+  "model": "glm-5.3"
+}

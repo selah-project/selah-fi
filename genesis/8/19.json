@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 8:19",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Kaikki elävä, kaikki maata myöten liikkuvat ja kaikki linnut, kaikki maata myöten liikkuva, perheittäin ne lähtivät ulos arkkia.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kaikki"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "elävä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "maata myöten liikkuvat"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "linnut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "רומש",
+      "gloss": "maata myöten liikkuva"
+    },
+    {
+      "surface": "על",
+      "gloss": "maata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "myöten"
+    },
+    {
+      "surface": "למשפחתיהם",
+      "gloss": "perheittäin"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ne lähtivät ulos"
+    },
+    {
+      "surface": "מן",
+      "gloss": "arkkia (ulos)"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "(arkista)"
+    }
+  ],
+  "timestamp": "2026-09-06T21:06:39.807761675Z",
+  "model": "glm-5.3"
+}

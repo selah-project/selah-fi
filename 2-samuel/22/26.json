@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 22:26",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Hasidin kanssa käyt hasidisti, nuhteettoman sankarin kanssa käyt nuhteettomasti.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "hasidin"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "käyt hasidisti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "sankarin"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "nuhteettoman"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "käyt nuhteettomasti"
+    }
+  ],
+  "timestamp": "2026-09-06T23:31:00.068439243Z",
+  "model": "glm-5.3"
+}

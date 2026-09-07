@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 16:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Maan pyhille — he ⟨ovat⟩; ja maan yleviin: kaiken haluni on heissä.",
+  "tokens": [
+    {
+      "surface": "לקדושים",
+      "gloss": "pyhille"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "המה",
+      "gloss": "he ⟨ovat⟩"
+    },
+    {
+      "surface": "ואדירי",
+      "gloss": "ja ylevät"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "haluni"
+    },
+    {
+      "surface": "בם",
+      "gloss": "heissä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:55:54.320826510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja Moshe ojensi ⟨את⟩ kätensä taivasta kohti, ja tuli pimeys, syvä pimeys, koko Mitsrajimin maahan kolmeksi päiväksi.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Ja ojensi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kätensä"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kätensä"
+    },
+    {
+      "surface": "על",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivasta"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pimeys"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "syvä pimeys"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kolmeksi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päiväksi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:32:17.684082243Z",
+  "model": "glm-5.3"
+}

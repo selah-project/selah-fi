@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 21:36",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja Reuvenin heimosta: ⟨את⟩ Betser ja ⟨את⟩ sen laitumat, ⟨את⟩ Yahatsa ja ⟨את⟩ sen laitumat.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Ja heimosta"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuvenin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betser"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Betser"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen laitumat"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sen laitumat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Yahatsa"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "Yahatsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen laitumat"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sen laitumat"
+    }
+  ],
+  "timestamp": "2026-09-06T22:47:48.828146795Z",
+  "model": "glm-5.3"
+}

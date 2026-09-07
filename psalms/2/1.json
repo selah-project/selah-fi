@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Miksi mellastavat kansat ja kansakunnat puhuvat turhaa?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Miksi"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "mellastavat"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kansat"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ja kansakunnat"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "puhuvat"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "turhaa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:52:35.400244889Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 65,
+  "translation": "Kansa, joka ärsyttää ⟨את⟩ minua kasvojeni kohdalla jatkuvasti, uhraa puutarhoissa ja suitsuttaa tiilten päälle.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "Kansa"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "joka ärsyttää"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "minua"
+    },
+    {
+      "surface": "על",
+      "gloss": "kohdalla"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kasvojeni"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "jatkuvasti"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "uhraa"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "puutarhoissa"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "ja suitsuttaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "tiilten"
+    }
+  ],
+  "timestamp": "2026-09-07T00:23:56.212769433Z",
+  "model": "glm-5.3"
+}

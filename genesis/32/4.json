@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Ja Ja'akov lähetti sanansaattajat edellään Esaville (Esau), veljelleen, Seirin maahan, Edomin kedolle.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "lähetti"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja Ja'akov"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "sanansaattajat"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "edellään"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaville"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "veljelleen"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seirin"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "kedolle"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:18:57.002666516Z",
+  "model": "glm-5.3"
+}

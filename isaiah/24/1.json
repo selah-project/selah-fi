@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 24:1",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Katso, Jahve tyhjentää maan ja ryöstää ⟨sen⟩, ja vääristää sen kasvot ja hajottaa sen asukkaat.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בוקק",
+      "gloss": "tyhjentää"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "ובולקה",
+      "gloss": "ja ryöstää"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "ja vääristää"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "sen kasvot"
+    },
+    {
+      "surface": "והפיץ",
+      "gloss": "ja hajottaa"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "sen asukkaat"
+    }
+  ],
+  "timestamp": "2026-09-07T00:08:23.181738548Z",
+  "model": "glm-5.3"
+}

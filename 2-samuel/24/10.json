@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 24:10",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja Davidin sydän löi ⟨את⟩ häntä, sen jälkeen kun hän oli laskenut ⟨את⟩ kansan; ja David sanoi Jahvelle: ”Minä olen rikkonut suuresti siinä, mitä olen tehnyt; ja nyt, Jahve, poista, pyydän, ⟨את⟩ palvelijasi pahan, sillä minä olin hyvin tyhmä.”",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "löi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sydän"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ häntä"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sen jälkeen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "oli laskenut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "olen rikkonut"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "suuresti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "siinä"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mitä olen tehnyt"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ja nyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "poista"
+    },
+    {
+      "surface": "נא",
+      "gloss": "pyydän"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palvelijasi pahan"
+    },
+    {
+      "surface": "עון",
+      "gloss": "pahan"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "palvelijasi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "נסכלתי",
+      "gloss": "olin tyhmä"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hyvin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:59:36.010058064Z",
+  "model": "glm-5.3"
+}

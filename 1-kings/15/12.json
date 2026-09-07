@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Ja hän poisti maasta pyyhkijät, ja hän kantoi pois ⟨את⟩ kaikki epäjumalat, jotka hänen isänsä olivat tehneet.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "Ja hän poisti"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "pyyhkijät"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…sta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "ja hän kantoi pois"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki epäjumalat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "epäjumalat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "olivat tehneet"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "hänen isänsä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:41:15.342984870Z",
+  "model": "glm-5.3"
+}

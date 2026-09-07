@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Kuka tietää, nouseeko ihmislapsien henki ylöspäin, ja eläimen henki, laskeutuuko se alas maahan?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kuka"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "tietää"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "henki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihmis-"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nouseva"
+    },
+    {
+      "surface": "היא",
+      "gloss": "se"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ylöspäin"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ja henki"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "eläimen"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "laskeutuva"
+    },
+    {
+      "surface": "היא",
+      "gloss": "se"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "alas"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "maahan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:05:03.014226237Z",
+  "model": "glm-5.3"
+}

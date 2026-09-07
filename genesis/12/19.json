@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 12:19",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "”Miksi sanoit: 'Hän ⟨on⟩ sisareni', niin että otin ⟨את⟩ hänet itselleni vaimoksi? Ja nyt, katso, vaimosi — ota ja mene.”",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Miksi"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "sanoit"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "sisareni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän ⟨on⟩"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "niin että otin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hänet"
+    },
+    {
+      "surface": "לי",
+      "gloss": "itselleni"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "vaimoksi"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Ja nyt"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "katso"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "vaimosi"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ota"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ja mene"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:29.539929191Z",
+  "model": "glm-5.3"
+}

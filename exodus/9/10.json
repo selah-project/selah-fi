@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja he ottivat ⟨את⟩ uunin nokinoset ja asettuivat Paron (faraon) eteen, ja Moshe (Mooses) sirottui ⟨את⟩ niitä taivasta kohti, ja tuli paiseita, rakkuloita puhkeavina, ihmisissä ja karjassa.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ja he ottivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uunin nokinoset"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "nokinoset"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "uunin"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ja he asettuivat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "ja sirottui"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ niitä",
+      "marks": "nokinokset"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "taivasta kohti"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "paiseita"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "rakkuloita"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "puhkeavina"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ihmisissä"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ja karjassa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:31:27.529590349Z",
+  "model": "glm-5.3"
+}

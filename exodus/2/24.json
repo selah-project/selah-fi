@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Elohim kuuli ⟨את⟩ heidän voihkeensa, ja Elohim muisti ⟨את⟩ liittonsa, ⟨את⟩ Avrahamin (Aabrahamin), ⟨את⟩ Jitshakin (Iisakin) ja ⟨את⟩ Ja'akovin (Jaakobin).",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "kuuli"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän voihkeensa"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "heidän voihkeensa"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "muisti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liittonsa"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "liittonsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamin"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitshakin"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshakin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Ja'akovin"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akovin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:29:04.201768482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 8:4",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Jos poikasi syntivät hänelle, hän lähetti heidät heidän rikkomuksensa käteen.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jos"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "poikasi"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "syntivät"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "hän lähetti heidät"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käteen"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "heidän rikkomuksensa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:26:17.934333652Z",
+  "model": "glm-5.3"
+}

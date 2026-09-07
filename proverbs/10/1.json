@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Shelomon (Salomon) sananlaskut. Viisas poika ilahduttaa isää, mutta tyhmä poika ⟨on⟩ äitinsä murhe.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "sananlaskut"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "viisas"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ilahduttaa"
+    },
+    {
+      "surface": "אב",
+      "gloss": "isää"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "mutta poika"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "tyhmä"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "murhe"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "äitinsä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:05:16.182422124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 51,
+  "translation": "Palauta minulle pelastuksesi ilon, ja anteliaalla hengellä tuke minua.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "palauta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "ilo"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "pelastuksesi"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ja hengellä"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "anteliaalla"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "tuke minua"
+    }
+  ],
+  "timestamp": "2026-09-07T02:13:08.677274288Z",
+  "model": "glm-5.3"
+}

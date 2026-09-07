@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 29:8",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja noudattakaa ⟨את⟩ tämän Beritin sanat ja tehkää ⟨את⟩ ne, jotta menestyisitte ⟨את⟩ kaikessa, mitä teette.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Ja noudattakaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän Beritin sanat"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "Beritin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ja tehkää"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ne"
+    },
+    {
+      "surface": "למען",
+      "gloss": "jotta"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "menestyisitte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikessa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikessa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "teette"
+    }
+  ],
+  "timestamp": "2026-09-06T22:35:44.606664358Z",
+  "model": "glm-5.3"
+}

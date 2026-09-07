@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 62,
+  "translation": "Vain hän ⟨on⟩ kallioni ja pelastukseni, korkein linnani; en horju paljon.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Vain"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "kallioni"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "ja pelastukseni"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "linnani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "horju"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "paljon"
+    }
+  ],
+  "timestamp": "2026-09-07T02:16:51.571568070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 119:47",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Ja minä iloitsen sinun käskyistäsi, joita minä olen rakastanut.",
+  "tokens": [
+    {
+      "surface": "ואשתעשע",
+      "gloss": "ja minä iloitsen"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "sinun käskyistäsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joita"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "minä olen rakastanut"
+    }
+  ],
+  "timestamp": "2026-09-07T02:45:38.490628868Z",
+  "model": "glm-5.3"
+}

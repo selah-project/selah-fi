@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 43:12",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 43,
+  "translation": "Ja minä sytytän tulen Mitsrajimin jumalten taloihin, ja hän polttaa ne ja vie ne pois, ja hän verhoaa ⟨את⟩ Mitsrajimin maan niin kuin paimen verhoaa ⟨את⟩ vaatteensa, ja hän lähtee sieltä rauhassa.",
+  "tokens": [
+    {
+      "surface": "והצתי",
+      "gloss": "Ja minä sytytän"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tulen"
+    },
+    {
+      "surface": "בבתי",
+      "gloss": "taloihin"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "jumalten"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "ושרפם",
+      "gloss": "ja hän polttaa ne"
+    },
+    {
+      "surface": "ושבם",
+      "gloss": "ja vie ne pois"
+    },
+    {
+      "surface": "ועטה",
+      "gloss": "ja hän verhoaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajimin maan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "verhoaa"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "paimen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaatteensa"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "vaatteensa"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ja hän lähtee"
+    },
+    {
+      "surface": "משם",
+      "gloss": "sieltä"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "rauhassa"
+    }
+  ],
+  "timestamp": "2026-09-07T00:46:05.638076320Z",
+  "model": "glm-5.3"
+}

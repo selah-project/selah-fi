@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Kuoronjohtajalle. Maskiil (opettavainen runo). Korachin poikilta.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kuoronjohtajalle"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Maskiil"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "poikilta"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachin"
+    }
+  ],
+  "timestamp": "2026-09-07T02:08:31.337003770Z",
+  "model": "glm-5.3"
+}

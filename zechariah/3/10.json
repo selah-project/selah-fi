@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 3:10",
+  "book": "zechariah",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Sinä päivänä, sanoo Jahve Sebaot, te kutsutte kukin toistanne viiniköynnöksen alle ja viikunapuun alle.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Sinä päivänä"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaot"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "te kutsutte"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kukin"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "toistansa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alle"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "viiniköynnöksen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alle"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "viikunapuun"
+    }
+  ],
+  "timestamp": "2026-09-07T01:43:22.365976036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 32:7",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Ja miksi te lannistatte ⟨את⟩ Israelin poikien sydämen menemästä siihen maahan, jonka Jahve on antanut heille?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "ja miksi"
+    },
+    {
+      "surface": "תנואון",
+      "gloss": "te lannistatte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin poikien sydämen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sydämen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikien"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "menemästä yli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "siihen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "on antanut"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-06T22:18:58.744597870Z",
+  "model": "glm-5.3"
+}

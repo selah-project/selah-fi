@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 7:19",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja korot, jotka ovat pylväiden pään päällä eteisholissa, ovat liljan tekoa, neljä kyynärää.",
+  "tokens": [
+    {
+      "surface": "וכתרת",
+      "gloss": "Ja korot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ovat päällä"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pään"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "pylväiden"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "tekoa"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "liljan"
+    },
+    {
+      "surface": "באולם",
+      "gloss": "eteisholissa"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "neljä"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kyynärää"
+    }
+  ],
+  "timestamp": "2026-09-06T23:35:46.450829706Z",
+  "model": "glm-5.3"
+}

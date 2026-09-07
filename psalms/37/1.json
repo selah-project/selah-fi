@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Davidin. Älä vihastu pahantekijöihin, älä kadehdi vääryyden tekijöitä.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "vihastu"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "pahantekijöihin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "kadehdi"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "vääryyden tekijöitä"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "vääryyden"
+    }
+  ],
+  "timestamp": "2026-09-07T02:05:30.037110133Z",
+  "model": "glm-5.3"
+}

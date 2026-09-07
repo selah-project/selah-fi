@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja inhottavia ne olkoot teille: niiden lihaa te ette saa syödä, ja ⟨את⟩ niiden raatoja te kammokutte.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "ja inhottavia"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olkoot"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "niiden lihaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ette"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "saa syödä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "niiden raatoja"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "niiden raadot"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "te kammokutte"
+    }
+  ],
+  "timestamp": "2026-09-06T21:50:32.900091178Z",
+  "model": "glm-5.3"
+}

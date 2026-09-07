@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja minä olin nuhteeton hänen kanssaan, ja minä varjelin itseni omasta syyllisyydestäni.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "ja minä olin"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "nuhteeton"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hänen kanssaan"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "ja minä varjelin itseni"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "omasta syyllisyydestäni"
+    }
+  ],
+  "timestamp": "2026-09-07T01:56:58.533132716Z",
+  "model": "glm-5.3"
+}

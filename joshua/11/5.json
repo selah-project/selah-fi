@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 11:5",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja kaikki nämä kuninkaat liittyivät yhteen, ja he tulivat ja leiriytyivät yhdessä Meromin vesille sotimaan Israelia vastaan.",
+  "tokens": [
+    {
+      "surface": "ויועדו",
+      "gloss": "liittyivät yhteen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "kuninkaat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ja tulivat"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ja leiriytyivät"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "yhdessä"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…lle"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vedet"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "Merom"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "sotimaan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…ta vastaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelia"
+    }
+  ],
+  "timestamp": "2026-09-06T22:45:22.701117156Z",
+  "model": "glm-5.3"
+}

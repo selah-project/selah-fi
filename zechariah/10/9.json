@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 10:9",
+  "book": "zechariah",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja kylvän heidät kansojen sekaan, ja kaukaisissa maissa he muistavat minut, ja he elävät ⟨את⟩ lastensa kanssa ja palaavat.",
+  "tokens": [
+    {
+      "surface": "ואזרעם",
+      "gloss": "ja kylvän heidät"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "kansojen sekaan"
+    },
+    {
+      "surface": "ובמרחקים",
+      "gloss": "ja kaukaisissa maissa"
+    },
+    {
+      "surface": "יזכרוני",
+      "gloss": "he muistavat minut"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "ja he elävät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lastensa"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "lastensa kanssa"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ja palaavat"
+    }
+  ],
+  "timestamp": "2026-09-07T01:47:17.836571174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 21:6",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Pyhinä he olkoot Elohimeilleen älkööt he häpäisemä Elohiminsa nimeä, sillä ⟨את⟩ Jahven tuleuhrit, Elohiminsa leipää, he tuovat esiin, ja he olkoot pyhät.",
+  "tokens": [
+    {
+      "surface": "קדשים",
+      "gloss": "pyhinä"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olkoot"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "Elohimeilleen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkö"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "häpäiskö"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimeä"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohiminsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven tuleuhrit"
+    },
+    {
+      "surface": "אשי",
+      "gloss": "tuleuhrit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohiminsa"
+    },
+    {
+      "surface": "הם",
+      "gloss": "he"
+    },
+    {
+      "surface": "מקריבם",
+      "gloss": "tuovat esiin"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ja olkoot"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhät"
+    }
+  ],
+  "timestamp": "2026-09-06T21:57:56.079149315Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "ja hän oli käskenyt häntä juuri tässä asiassa, ettei hän kulkeisi muiden jumalien perässä; mutta hän ei pitänyt ⟨את⟩ sitä, minkä Jahve oli käskenyt.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "ja oli käskenyt"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "häntä"
+    },
+    {
+      "surface": "על",
+      "gloss": "juuri"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asiassa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tässä"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ettei"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "kulkeisi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "perässä"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jumalien"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "muiden"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mutta ei"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "pitänyt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sitä, minkä Jahve oli käskenyt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minkä"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oli käskenyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-06T23:39:20.071799883Z",
+  "model": "glm-5.3"
+}

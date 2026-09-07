@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 11:3",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Oikeamielisten viattomuus ohjaa heitä, ja pettureiden vääryys hävittää heidät.",
+  "tokens": [
+    {
+      "surface": "תמת",
+      "gloss": "viattomuus"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "oikeamielisten"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "ohjaa heitä"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "ja vääryys"
+    },
+    {
+      "surface": "בוגדים",
+      "gloss": "pettureiden"
+    },
+    {
+      "surface": "ושדם",
+      "gloss": "ja hävittää heidät"
+    }
+  ],
+  "timestamp": "2026-09-07T03:07:36.919350234Z",
+  "model": "glm-5.3"
+}

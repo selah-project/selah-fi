@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 89,
+  "translation": "Jos hänen poikansa hylkäävät Torani eivätkä vaella minun oikeuksissani,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jos"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "hylkäävät"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Torani"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "eivätkä minun oikeuksissani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "vaella"
+    }
+  ],
+  "timestamp": "2026-09-07T02:30:32.921544558Z",
+  "model": "glm-5.3"
+}

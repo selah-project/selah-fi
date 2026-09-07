@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 88,
+  "translation": "Kuolleillekö teet ihmeen? Vai nousevatko Refaim (kuolleiden varjot) ja ylistävät sinua? Sela.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "kuolleillekö"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "teet"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "ihmeen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vai"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaim"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "nousevatko"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "ylistävät sinua"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-07T02:28:58.988582201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 17:5",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Joka pilkkaa köyhää, häpäisee hänen Tekijäänsä; ja joka iloitsee onnettomuudesta, ei jää rankaisematta.",
+  "tokens": [
+    {
+      "surface": "לעג",
+      "gloss": "pilkkaa"
+    },
+    {
+      "surface": "לרש",
+      "gloss": "köyhää"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "häpäisee"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "hänen Tekijäänsä"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "joka iloitsee"
+    },
+    {
+      "surface": "לאיד",
+      "gloss": "onnettomuudesta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "jää rankaisematta"
+    }
+  ],
+  "timestamp": "2026-09-07T03:10:50.064695471Z",
+  "model": "glm-5.3"
+}

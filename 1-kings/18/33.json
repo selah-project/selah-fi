@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja hän järjesti ⟨את⟩ puut, ja hän pilkkoi ⟨את⟩ härän ja pani sen puiden päälle.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "ja hän järjesti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "puut"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "puut"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "ja hän pilkkoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "härän"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "härän"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ja pani"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "puiden"
+    }
+  ],
+  "timestamp": "2026-09-06T23:43:34.961479887Z",
+  "model": "glm-5.3"
+}

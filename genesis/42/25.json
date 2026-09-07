@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 42:25",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Ja Josef (Joosef) käski, ja he täyttivät ⟨את⟩ astiansa viljalla, ja palauttaa kunkin hopean hänen säkkiinsä, ja antaa heille muonaa tiellä; ja hän teki heille näin.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ja käski"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "וימלאו",
+      "gloss": "ja he täyttivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "astiansa"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "astiansa"
+    },
+    {
+      "surface": "בר",
+      "gloss": "viljalla"
+    },
+    {
+      "surface": "ולהשיב",
+      "gloss": "ja palauttaa"
+    },
+    {
+      "surface": "כספיהם",
+      "gloss": "heidän hopeansa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kunkin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−"
+    },
+    {
+      "surface": "שקו",
+      "gloss": "säkkiinsä"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "ja antaa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "muonaa"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "tiellä"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ja hän teki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "כן",
+      "gloss": "näin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:24:30.241332312Z",
+  "model": "glm-5.3"
+}

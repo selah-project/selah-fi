@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 27:10",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ystävääsi älä hylkää, älköönkä isäsi ystävä, ja älä mene veljesi taloon onnettomuutesi päivänä; parempi on lähellä asuva kuin kaukana oleva veli.",
+  "tokens": [
+    {
+      "surface": "רעך",
+      "gloss": "Ystävääsi"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ja ystävä"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "isäsi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "hylkää"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ja taloon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "veljesi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "mene"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "אידך",
+      "gloss": "onnettomuutesi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "parempi"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "asuva"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "lähellä"
+    },
+    {
+      "surface": "מאח",
+      "gloss": "kuin veli"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "kaukana oleva"
+    }
+  ],
+  "timestamp": "2026-09-07T03:17:56.324495312Z",
+  "model": "glm-5.3"
+}

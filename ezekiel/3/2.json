@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja minä avasin ⟨את⟩ suuni, ja hän ruokki minut ⟨את⟩ tällä kääröllä.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "ja minä avasin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suuni"
+    },
+    {
+      "surface": "פי",
+      "gloss": "suuni"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "ja hän ruokki minut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tällä kääröllä"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "käärö"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:53:39.577405680Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja Jahve määräsi ajan, sanoen: ”Huomenna Jahve tekee tämän asian maassa.”",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Ja määräsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ajan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "huomenna"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tekee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asian"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:32:07.401785664Z",
+  "model": "glm-5.3"
+}

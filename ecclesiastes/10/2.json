@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Viisaan sydän ⟨on⟩ hänen oikealla puolellaan, ja hullun sydän hänen vasemmalla puolellaan.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "sydän"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "viisaan"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "oikealla puolellaan"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ja sydän"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "hullun"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "vasemmalla puolellaan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:39:49.913521497Z",
+  "model": "glm-5.3"
+}

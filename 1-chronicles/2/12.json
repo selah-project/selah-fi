@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Boaz siitti ⟨את⟩ Ovedin, ja Oved siitti ⟨את⟩ Yishain.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "Ja Boaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ovedin"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Ovedin"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "ja Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishain"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishain"
+    }
+  ],
+  "timestamp": "2026-09-07T05:11:03.659166427Z",
+  "model": "glm-5.3"
+}

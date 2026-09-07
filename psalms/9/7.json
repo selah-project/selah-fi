@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Vihollisen tuhot ovat lakanneet ikuisiksi ajoiksi, ja kaupungit sinä revit irti; kadonnut on heidän muistonsa — heidät itsensä ⟨myöten⟩.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "vihollisen"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "ovat lakanneet"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "tuhot"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ikuisiksi ajoiksi"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "ja kaupungit"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "revit irti"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "kadonnut"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "heidän muistonsa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "heidät itsensä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:55:27.172503114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Jahve, Elohimini, minä huusin sinua, ja sinä paransit minut.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimini"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "minä huusin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinua"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "ja sinä paransit minut"
+    }
+  ],
+  "timestamp": "2026-09-07T02:01:20.001499723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 15:33",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Ja ne, jotka löysivät hänet ⟨את⟩ puita koksaten, toivat ⟨את⟩ hänen Moshen (Mooses) luo ja Aharonin (Aaron) luo ja koko seurakunnan luo.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "toivat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänen",
+      "marks": "hänet (puunkokoaja)"
+    },
+    {
+      "surface": "המצאים",
+      "gloss": "ne, jotka löysivät"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänen",
+      "marks": "hänet (puunkokoaja)"
+    },
+    {
+      "surface": "מקשש",
+      "gloss": "koksaten"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "puita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja luo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja luo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "seurakunnan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:11:15.810721460Z",
+  "model": "glm-5.3"
+}

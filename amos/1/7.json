@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 1:7",
+  "book": "amos",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "ja minä lähetän tulen Azzan (Gaza) muuriin, ja se syö sen linnakkeet.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ja minä lähetän"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tulen"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "muuriin"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzan (Gaza)"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ja se syö"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "sen linnakkeet"
+    }
+  ],
+  "timestamp": "2026-09-07T01:26:31.007593138Z",
+  "model": "glm-5.3"
+}

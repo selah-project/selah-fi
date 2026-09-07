@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja hän valmistaa ⟨את⟩ yhden metsäkyyhkyistä tai kyyhkysen poikista, sen, minkä hänen kätensä yltää.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Ja hän valmistaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yhden"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yhden"
+    },
+    {
+      "surface": "מן",
+      "gloss": "metsäkyyhkyistä"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "metsäkyyhkyistä"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "מן",
+      "gloss": "poikista"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikista"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "kyyhkysen"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "sen, minkä"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "yltää"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hänen kätensä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:53:11.031096284Z",
+  "model": "glm-5.3"
+}

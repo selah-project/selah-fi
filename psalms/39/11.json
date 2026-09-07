@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 39,
+  "translation": "Poista minulta lyöntisi; sinun kätesi taistelusta minä olen kulunut loppuun.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "Poista"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "minulta"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "lyöntisi"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "taistelusta"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kätesi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "olen kulunut loppuun"
+    }
+  ],
+  "timestamp": "2026-09-07T02:07:03.944365115Z",
+  "model": "glm-5.3"
+}

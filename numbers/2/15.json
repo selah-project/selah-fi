@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 2:15",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "ja hänen sotajoukkonsa ja heidän laskettunsa: viisi ja neljäkymmentä tuhatta ja kuusisataa ja viisikymmentä.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ja hänen sotajoukkonsa"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ja heidän laskettunsa"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "viisi"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ja neljäkymmentä"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhatta"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ja kuusi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sataa"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ja viisikymmentä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:02:40.501154551Z",
+  "model": "glm-5.3"
+}

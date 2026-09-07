@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 13:54",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "silloin käskeköön pappi pestä ⟨את⟩ sen, jossa tauti on, ja sulkekoon se toiseksi seitsemäksi päiväksi.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "käskeköön"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pappi"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "pestä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen, jossa tauti on"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jossa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "taudit on — 'se'"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "tauti"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "sulkekoon"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seitsemäksi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päiväksi"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "toiseksi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:53:55.804855329Z",
+  "model": "glm-5.3"
+}

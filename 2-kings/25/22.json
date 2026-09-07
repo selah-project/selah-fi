@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 25:22",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja kansan, joka jäi jäljelle Juudan maahan, jonka Nebukadnetsar, Babelin kuningas, oli jättänyt — hän asetti heidän ylleen ⟨את⟩ Gedaljahun, Ahikamin pojan, Shafanin pojan.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "ja kansan"
+    },
+    {
+      "surface": "הנשאר",
+      "gloss": "jäänyt jäljelle"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juudan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "jättänyt"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babelin"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "ja asetti"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "heidän ylleen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedaljahun"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedaljahun"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Ahikamin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafanin"
+    }
+  ],
+  "timestamp": "2026-09-07T00:00:29.354130901Z",
+  "model": "glm-5.3"
+}

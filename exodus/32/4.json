@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 32:4",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Ja hän otti ne heidän kädestään, ja hän muovaili ⟨את⟩ sen kaiverrusveitsellä, ja teki siitä valetun vasikan; ja he sanoivat: Nämä ⟨ovat⟩ sinun jumalasi, Israel, jotka toivat sinut ylös Mitsrajimin maasta.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "otti"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "heidän kädestään"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "muovaili"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sen"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "kaiverrusveitsellä"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "teki siitä"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "vasikan"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "valetun"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ja he sanoivat"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Nämä"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sinun jumalasi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "toivat sinut ylös"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:43:44.940813765Z",
+  "model": "glm-5.3"
+}

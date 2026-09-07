@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "ja Zavad siitti ⟨את⟩ Eflalin, ja Eflal siitti ⟨את⟩ Ovedin.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "ja Zavad"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eflalin"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "Eflalin"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "ja Eflal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ovedin"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Ovedin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:11:17.951621121Z",
+  "model": "glm-5.3"
+}

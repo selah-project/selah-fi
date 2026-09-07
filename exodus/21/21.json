@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ainoastaan jos hän seisoo päivän tai kaksi päivää, ei häntä kosteta, sillä hän on tämän hopeaa.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ainoastaan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivän"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "kaksi päivää"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "seisoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "kosteta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "hänen hopeansa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän on"
+    }
+  ],
+  "timestamp": "2026-09-06T21:37:08.660801190Z",
+  "model": "glm-5.3"
+}

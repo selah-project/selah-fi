@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Leijonan karjunta ja pauhuavan leijonan ääni, ja leijonanpentujen hampaat revitään irti.",
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "karjunta"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "leijonan"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ja ääni"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "pauhuavan leijonan"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ja hampaat"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "leijonanpentujen"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "revitään irti"
+    }
+  ],
+  "timestamp": "2026-09-07T03:22:57.575388328Z",
+  "model": "glm-5.3"
+}

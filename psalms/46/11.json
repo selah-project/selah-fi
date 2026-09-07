@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 46,
+  "translation": "Hiljentykää ja tietäkää, että minä ⟨olen⟩ Elohim; minä ⟨olen⟩ korotettu kansojen keskellä, minä ⟨olen⟩ korotettu maan päällä.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Hiljentykää"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "ja tietäkää"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "⟨olen⟩ korotettu"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kansojen keskellä"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "⟨olen⟩ korotettu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maan päällä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:09:49.030150518Z",
+  "model": "glm-5.3"
+}

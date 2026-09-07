@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 68,
+  "translation": "Kiitetty olkoon Adonai; päivä päivältä hän kuormittaa meitä — El, meidän pelastuksemme. Selah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Kiitetty"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivä"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivältä"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "kuormittaa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meitä"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "meidän pelastuksemme"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-07T02:20:55.878933533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezekiel 40:47",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ja hän mittasi ⟨את⟩ esipihan: pituus sata kyynärää ja leveys sata kyynärää, neliskanttinen; ja alttari oli temppelin edessä.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "ja hän mittasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "esipiha"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "esipiha"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "pituus"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sata"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ja leveys"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sata"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "מרבעת",
+      "gloss": "neliskanttinen"
+    },
+    {
+      "surface": "והמזבח",
+      "gloss": "ja alttari"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "temppelin"
+    }
+  ],
+  "timestamp": "2026-09-07T01:15:07.045002920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 59,
+  "translation": "Voimani, sinulle veisaan ylistystä, sillä Elohim on linnani, minun hesedini Elohim.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "Voimani"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "veisaan ylistystä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "linnani"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "hesedini"
+    }
+  ],
+  "timestamp": "2026-09-07T02:15:22.645273514Z",
+  "model": "glm-5.3"
+}

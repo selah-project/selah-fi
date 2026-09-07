@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 23:14",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Sillä hän panee täytäntöön säädökseni, ja samoin monta ⟨sellaisista⟩ on hänen kanssaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "ישלים",
+      "gloss": "panee täytäntöön"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "säädökseni"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "ja samoin"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "monta"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hänen kanssaan"
+    }
+  ],
+  "timestamp": "2026-09-07T03:41:36.241213287Z",
+  "model": "glm-5.3"
+}

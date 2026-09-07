@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 91,
+  "translation": "Pahaa ei tapahdu sinulle, eikä vitsaus lähesty telttaasi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "tapahdu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pahaa"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "eikä vitsaus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "lähesty"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "telttaasi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:32:17.022250328Z",
+  "model": "glm-5.3"
+}

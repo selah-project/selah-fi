@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "ja ⟨את⟩ polttouhrialttarin ja ⟨את⟩ kaikki sen astiat ja ⟨את⟩ pesuallas ja ⟨את⟩ sen jalustan,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "polttouhrialttarin"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alttari"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "polttouhri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki sen astiat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sen astiat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "pesuallas"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "pesuallas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen jalustan"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "sen jalusta"
+    }
+  ],
+  "timestamp": "2026-09-06T21:41:49.700490246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 4:16",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja hän puhuu sinun puolestasi kansalle, ja tapahtuu, että hän ⟨on⟩ sinulle suu, ja sinä ⟨olet⟩ hänelle jumalaksi.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "ja hän puhuu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinun puolestasi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansalle"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ja tapahtuu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "suu"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ja sinä"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨olet⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "jumalaksi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:30:02.388565502Z",
+  "model": "glm-5.3"
+}

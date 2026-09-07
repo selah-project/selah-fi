@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 49:15",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 49,
+  "translation": "Ja hän näki lepon olevan hyvän ja ⟨את⟩ maan ihanaa; ja hän kumartoi olkapäänsä kantamaan ja tuli veronalaiseksi palkolliseksi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ja hän näki"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "lepo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "maan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "ihana"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ja hän kumartoi"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "olkapäänsä"
+    },
+    {
+      "surface": "לסבל",
+      "gloss": "kantamaan"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "למס",
+      "gloss": "veron alaiseksi"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "palkolliseksi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:27:44.947850531Z",
+  "model": "glm-5.3"
+}

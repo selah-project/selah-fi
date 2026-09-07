@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 15:16",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Ja kuningas lähti, ja koko hänen talonsa hänen jaloissansa; ja kuningas jätti ⟨את⟩ kymmenen naista, jalkavaimoja, vartioimaan taloa.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ja lähti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja koko"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hänen talonsa"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "hänen jaloissansa"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "ja jätti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kymmenen naista"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kymmenen"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "naista"
+    },
+    {
+      "surface": "פלגשים",
+      "gloss": "jalkavaimoja"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "vartioimaan"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "talosta"
+    }
+  ],
+  "timestamp": "2026-09-06T23:26:10.530595819Z",
+  "model": "glm-5.3"
+}

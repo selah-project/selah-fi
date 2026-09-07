@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 55:5",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 55,
+  "translation": "Katso: kansan, jota et tunne, sinä kutsut, ja kansa, joka ei sinua tunne, juoksee sinun luoksesi — Jahven, Elohimisi, tähden ja Israelin Pyhän tähden, sillä hän on sinut kaunistanut.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "et"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "tunne"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "kutsut"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "ja kansa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "tunne sinua"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinun luoksesi"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "juoksee"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimisi"
+    },
+    {
+      "surface": "ולקדוש",
+      "gloss": "ja Pyhän"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "פארך",
+      "gloss": "on sinut kaunistanut"
+    }
+  ],
+  "timestamp": "2026-09-07T00:18:00.570962610Z",
+  "model": "glm-5.3"
+}

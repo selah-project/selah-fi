@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 26:13",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja David kulki toiselle puolelle ja asettui vuoren huipulle, kaukaa; suuri ⟨oli⟩ välimatka heidän välillään.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "kulki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "toiselle puolelle"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "asettui"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "huipulle"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "vuoren"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "kaukaa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "suuri"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "välimatka"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "heidän välillään"
+    }
+  ],
+  "timestamp": "2026-09-06T23:17:32.198530290Z",
+  "model": "glm-5.3"
+}

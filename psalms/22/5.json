@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Sinuun luottivat isämme, luottivat, ja sinä pelastit heidät.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "sinuun"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "luottivat"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "isämme"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "luottivat"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "ja pelastit heidät"
+    }
+  ],
+  "timestamp": "2026-09-07T01:56:45.669191300Z",
+  "model": "glm-5.3"
+}

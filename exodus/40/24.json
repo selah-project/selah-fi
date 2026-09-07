@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ja hän asetti ⟨את⟩ menoran kokouksen telttaan, pöytää vastapäätä, Mishkanin kylkeen, etelään.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "asetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menoran"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menoran"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "telttaan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kokouksen"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "vastapäätä"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "pöytää"
+    },
+    {
+      "surface": "על",
+      "gloss": "kylkeen"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "kylkeen"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanin"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "etelään"
+    }
+  ],
+  "timestamp": "2026-09-06T21:46:42.235477917Z",
+  "model": "glm-5.3"
+}

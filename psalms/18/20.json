@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 18:20",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja hän toi minut avaraan paikkaan, hän vapautti minut, sillä hän piti minusta.",
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "Ja hän toi minut"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "avaaraan paikkaan"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "hän vapautti minut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "hän piti"
+    },
+    {
+      "surface": "בי",
+      "gloss": "minusta"
+    }
+  ],
+  "timestamp": "2026-09-07T01:58:21.586312485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Hän väijyy piilopaikassa kuin leijona pensaikossa; hän väijyy sievataakseen kurjan, hän sieppaa kurjan vetäessään ⟨hänet⟩ verkkoonsa.",
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "väijyy"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "piilopaikassa"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "kuin leijona"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "pensaikossa"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "väijyy"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "sievataakseen"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kurjan"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "sieppaa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kurjan"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "vetäessään"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "verkkoonsa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:54:36.007652826Z",
+  "model": "glm-5.3"
+}

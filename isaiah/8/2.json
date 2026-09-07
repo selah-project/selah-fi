@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja minä hankin itselleni uskolliset todistajat: ⟨את⟩ papin Urijan (Uria) ja ⟨את⟩ Zekarjahun (Sakarja), Jeverekjahun pojan.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "Ja minä hankin todistajiksi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "itselleni"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "todistajat"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "uskolliset"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papin Urijan"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urijan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "papin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Zekarjahun"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekarjahun"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Jeverekjahun"
+    }
+  ],
+  "timestamp": "2026-09-07T00:02:43.772199307Z",
+  "model": "glm-5.3"
+}

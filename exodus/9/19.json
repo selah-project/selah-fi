@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 9:19",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja nyt, lähetä pelastamaan ⟨את⟩ karjasi ja ⟨את⟩ kaikki, mikä sinulla on kedolla; jokainen ihminen ja eläin, joka kedolta löytyy eikä kerätä taloon — raekivet laskevat heidän päälleen, ja he kuolevat.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ja nyt"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "lähetä"
+    },
+    {
+      "surface": "העז",
+      "gloss": "pelastamaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karjasi"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "karjasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki, mikä sinulla on kedolla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mikä"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulla on"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kedolla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokainen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihminen"
+    },
+    {
+      "surface": "והבהמה",
+      "gloss": "ja eläin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "löytyy"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kedolta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "kerätä"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "taloon"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "laskevat"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "heidän päälleen"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "raekivet"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "ja he kuolevat"
+    }
+  ],
+  "timestamp": "2026-09-06T21:32:01.978874907Z",
+  "model": "glm-5.3"
+}

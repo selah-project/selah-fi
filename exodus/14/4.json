@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 14:4",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Minä vahvistan ⟨את⟩ Paron sydämen, ja hän ajaa heitä takaa, ja minä olen kirkastuva Parossa ja koko hänen sotajoukossaan, ja Mitsrajim (Egypti) tulee tietämään, että minä ⟨olen⟩ Jahve. Ja he tekivät niin.",
+  "tokens": [
+    {
+      "surface": "וחזקתי",
+      "gloss": "Minä vahvistan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paron sydämen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sydämen"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "ורדף",
+      "gloss": "ja hän ajaa takaa"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "heitä"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "ja minä olen kirkastuva"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "Parossa"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ja koko"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "hänen sotajoukossaan"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ja … tulee tietämään"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "Ja he tekivät"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:34:41.143131760Z",
+  "model": "glm-5.3"
+}

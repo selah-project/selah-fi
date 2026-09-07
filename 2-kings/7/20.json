@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja niin hänelle tapahtui: kansa tallasi ⟨את⟩ hänet portissa, ja hän kuoli.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "tallasi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hänet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "portissa"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ja hän kuoli"
+    }
+  ],
+  "timestamp": "2026-09-06T23:51:18.549333250Z",
+  "model": "glm-5.3"
+}

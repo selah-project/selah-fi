@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 100,
+  "translation": "Psalmi ⟨kiitokselle⟩. Riemuhuutakaa Jahvelle, kaikki maa.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psalmi"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "kiitokselle"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Riemuhuutakaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:36:29.290154158Z",
+  "model": "glm-5.3"
+}

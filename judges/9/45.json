@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "judges 9:45",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja Avimelek taisteli kaupunkia vastaan koko sen päivän, ja hän valtasi ⟨את⟩ kaupungin, ja ⟨את⟩ kansan, joka siinä oli, hän tappoi, ja hän hajotti ⟨את⟩ kaupungin ja kylvi sen suolalla.",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "Ja Avimelek"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "taisteli"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kaupunkia vastaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päivän"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sen"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ja valtasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaupungin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kansan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "בה",
+      "gloss": "siinä oli"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "hän tappoi"
+    },
+    {
+      "surface": "ויתץ",
+      "gloss": "ja hän hajotti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaupungin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "ויזרעה",
+      "gloss": "ja kylvi sen"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "suolalla"
+    }
+  ],
+  "timestamp": "2026-09-06T22:57:34.761360831Z",
+  "model": "glm-5.3"
+}

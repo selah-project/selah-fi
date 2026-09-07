@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "deuteronomy 28:64",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Ja Jahve hajottaa sinut kaikkien kansojen sekaan, maan äärimmäisestä päästä maan toiseen päähän asti; ja sinä palvelet siellä muita jumalia, joita et sinä eivätkä sinun isäsi ole tunteneet: puuta ja kiveä.",
+  "tokens": [
+    {
+      "surface": "והפיצך",
+      "gloss": "Ja hajottaa sinut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaikkien"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "kansojen sekaan"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "äärimmäisestä päästä"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ja ... asti"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "toiseen päähän"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "ועבדת",
+      "gloss": "ja sinä palvelet"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jumalia"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "muita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "et"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ole tunteneet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "ואבתיך",
+      "gloss": "eivätkä sinun isäsi"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "puuta"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ja kiveä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:36:50.556872614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 38:8",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 38,
+  "translation": "Ja hän teki ⟨את⟩ pesuvadin vaskesta ja ⟨את⟩ sen jalustan vaskesta, noiden naisten peileistä, jotka palvelivat ilmestysmajan ovella.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ja hän teki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesuvadin"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "pesuvadin"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "vaskesta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen jalustan"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "sen jalustan"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "vaskesta"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "peileistä"
+    },
+    {
+      "surface": "הצבאת",
+      "gloss": "palvelevien naisten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "palvelivat"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ovella"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "maja"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ilmestys"
+    }
+  ],
+  "timestamp": "2026-09-06T21:44:53.957670386Z",
+  "model": "glm-5.3"
+}

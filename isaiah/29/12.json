@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 29:12",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja kirja annetaan sille, joka ei tunne kirjaa, sanoen: ”Lue, pyydän, tämä” — ja hän sanoo: ”En tunne kirjaa.”",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "ja annetaan"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "kirja"
+    },
+    {
+      "surface": "על",
+      "gloss": "sille"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tunne"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kirjaa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Lue"
+    },
+    {
+      "surface": "נא",
+      "gloss": "pyydän"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ja hän sanoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "tunne"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kirjaa"
+    }
+  ],
+  "timestamp": "2026-09-07T00:09:27.288833403Z",
+  "model": "glm-5.3"
+}

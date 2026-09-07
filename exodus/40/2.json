@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ensimmäisen kuukauden päivänä, kuukauden ensimmäisenä päivänä, sinä pystytät ⟨את⟩ Mishkanin (asumuksen), kokouksen teltan.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "kuukauden"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ensimmäisen"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ensimmäisenä (yhtenä)"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "kuukaudesta"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "sinä pystytät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkanin"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkan (asumuksen)"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kokouksen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:47:23.544803084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 16:4",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja hän meni Haagarin luo, ja hän tuli raskaaksi; ja kun hän näki, että hän oli tullut raskaaksi, hänen emäntänsä halveni hänen silmissään.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ja meni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Haagarin"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ja tuli raskaaksi"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "ja näki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "הרתה",
+      "gloss": "oli raskaana"
+    },
+    {
+      "surface": "ותקל",
+      "gloss": "halveni"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "emäntänsä"
+    },
+    {
+      "surface": "בעיניה",
+      "gloss": "hänen silmissään"
+    }
+  ],
+  "timestamp": "2026-09-06T21:11:54.152987779Z",
+  "model": "glm-5.3"
+}

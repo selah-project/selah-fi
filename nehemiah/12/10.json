@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja Jeshua siitti ⟨את⟩ Yojakimin, ja Yojakim siitti ⟨את⟩ Elyashivin, ja Elyashiv ⟨siitti⟩ ⟨את⟩ Yojadain.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "Ja Jeshua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yojakimin"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Yojakimin"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "ja Yojakim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyashivin"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Elyashivin"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "ja Elyashiv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yojadain"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Yojadain"
+    }
+  ],
+  "timestamp": "2026-09-07T05:08:31.203776671Z",
+  "model": "glm-5.3"
+}

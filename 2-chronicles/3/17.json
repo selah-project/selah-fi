@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 3:17",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja hän pystytti ⟨את⟩ pylväät temppelin eteen, yhden oikealle ja yhden vasemmalle; ja hän antoi oikeanpuoleiselle nimen Jakhin ja vasemmanpuoleiselle nimen Boaz.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Ja hän pystytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pylväät"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "pylväät"
+    },
+    {
+      "surface": "על",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "פני",
+      "gloss": "edessä \/ eteen"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "temppelin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yhden"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "oikealle"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ja yhden"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "vasemmalle"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ja hän antoi nimen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimen"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "oikeanpuoleiselle"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Jakhin"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ja nimen"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "vasemmanpuoleiselle"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-09-07T05:30:31.661365324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 11:3",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "jotka sanovat: ”Ei ⟨ole⟩ läheistä rakentaa taloja; se ⟨on⟩ pata, ja me olemme liha.”",
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "jotka sanovat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "בקרוב",
+      "gloss": "läheistä"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "rakentaa"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "taloja"
+    },
+    {
+      "surface": "היא",
+      "gloss": "se"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "pata"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ja me"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "liha"
+    }
+  ],
+  "timestamp": "2026-09-07T00:56:38.414241865Z",
+  "model": "glm-5.3"
+}

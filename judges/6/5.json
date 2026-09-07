@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 6:5",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Sillä he ja heidän karjansa nousivat ylös, ja heidän telttansa tulivat — niin paljon kuin heinäsirkan runsaus —, ja heitä ja heidän kameleitaan ⟨ei ollut⟩ lukua, ja he tulivat maahan hävittämään sitä.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "הם",
+      "gloss": "he"
+    },
+    {
+      "surface": "ומקניהם",
+      "gloss": "ja heidän karjansa"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "nousivat ylös"
+    },
+    {
+      "surface": "ואהליהם",
+      "gloss": "ja heidän telttansa"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "tulivat"
+    },
+    {
+      "surface": "כדי",
+      "gloss": "niin paljon kuin"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "heinäsirkka"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "runsaudessa"
+    },
+    {
+      "surface": "ולהם",
+      "gloss": "ja heitä"
+    },
+    {
+      "surface": "ולגמליהם",
+      "gloss": "ja heidän kameleitaan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "lukua"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ja he tulivat"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "לשחתה",
+      "gloss": "hävittämään sitä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:54:49.281129867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Sinä teit hänet vähän Elohimia alemmaksi, ja kunnialla ja loistolla sinä hänet kruunaat.",
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "Sinä teit hänet alemmaksi"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "vähän"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "Elohimia"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ja kunnialla"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ja loistolla"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "sinä hänet kruunaat"
+    }
+  ],
+  "timestamp": "2026-09-07T01:54:35.782804920Z",
+  "model": "glm-5.3"
+}

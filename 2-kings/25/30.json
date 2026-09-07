@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja hänen ruoka-annoksensa, jatkuva annos, annettiin hänelle kuninkaalta ⟨את⟩-lähteeltä, päivän osa päivänänsä, kaikki hänen elämänsä päivät.",
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "ja hänen annoksensa"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "annos"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "jatkuva"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "annettiin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩-lähteeltä"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaalta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "osa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivän"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "päivänänsä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päivät"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "hänen elämänsä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:59:17.754471988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja Giv'onin (Gibeonin) asukkaat kuulivat ⟨את⟩ sen, mitä Jehoshua oli tehnyt Jerikholle ja Aille.",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "Ja asukkaat"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Giv'onin"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kuulivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen, mitä Jehoshua oli tehnyt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "oli tehnyt"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshua"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "Jerikholle"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "ja Aille"
+    }
+  ],
+  "timestamp": "2026-09-06T22:43:25.047517278Z",
+  "model": "glm-5.3"
+}

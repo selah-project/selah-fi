@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 11:9",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "En tee vihani hehkua, en käänny tuhoamaan Efraimia, sillä El olen minä enkä mies, Pyhä keskuudessasi, enkä minä tule kaupunkiin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "tee"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "hehkua"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "vihani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "käänny"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "tuhoamaan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "olen minä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "keskuudessasi"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Pyhä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "tule"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kaupunkiin"
+    }
+  ],
+  "timestamp": "2026-09-07T01:22:44.555176450Z",
+  "model": "glm-5.3"
+}

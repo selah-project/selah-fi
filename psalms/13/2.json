@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Kuinka pitkään, Jahve, sinä unohdat minut — ikuisesti? Kuinka pitkään sinä kätket ⟨את⟩ kasvosi minulta?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Kuinka pitkään"
+    },
+    {
+      "surface": "אנה",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "sinä unohdat minut"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "ikuisesti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Kuinka pitkään"
+    },
+    {
+      "surface": "אנה",
+      "gloss": ""
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "sinä kätket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasvosi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "kasvosi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minulta"
+    }
+  ],
+  "timestamp": "2026-09-07T01:55:58.373363199Z",
+  "model": "glm-5.3"
+}

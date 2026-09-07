@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 49,
+  "translation": "Sillä minä olen riisunut ⟨את⟩ Esavin (Esau), minä olen paljastanut ⟨את⟩ hänen piilopaikkansa, eikä hän voi käydä piiloon; hävitetty on hänen siemenensä, ja hänen veljensä ja hänen naapurinsa, eikä häntä ole.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "olen riisunut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esavin"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavin"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "olen paljastanut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen piilopaikkansa"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "hänen piilopaikkansa"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "ja käydä piiloon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "voi"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "hävitetty"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "hänen siemenensä"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ja hänen veljensä"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "ja hänen naapurinsa"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "eikä häntä ole"
+    }
+  ],
+  "timestamp": "2026-09-07T00:48:31.232850652Z",
+  "model": "glm-5.3"
+}

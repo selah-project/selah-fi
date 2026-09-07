@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja Shemuel kuuli ⟨את⟩ kaikki kansan sanat ja puhui ne Jahven korviin.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Ja kuuli"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "ja puhui ne"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "korviin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-06T23:05:43.602858749Z",
+  "model": "glm-5.3"
+}

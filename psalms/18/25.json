@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja Jahve maksoi minulle takaisin vanhurskauteni mukaan, kätteni puhtauden mukaan hänen silmiensä edessä.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "maksoi takaisin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "vanhurskautteni mukaan"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "puhtauteni mukaan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "käteni"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "hänen silmänsä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:57:55.219904950Z",
+  "model": "glm-5.3"
+}

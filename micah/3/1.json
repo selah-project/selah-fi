@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja minä sanoin: Kuulkaa nyt, Ja'akovin (Jaakobin) päämiehet ja Israelin huoneen johtajat — eikö teidän ⟨ole⟩ tuntea ⟨את⟩ oikeus?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ja minä sanoin"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Kuulkaa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "päämiehet"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akovin (Jaakobin)"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "ja johtajat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "eikö"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teidän"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "tuntea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oikeus"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "oikeus"
+    }
+  ],
+  "timestamp": "2026-09-07T01:34:59.585064584Z",
+  "model": "glm-5.3"
+}

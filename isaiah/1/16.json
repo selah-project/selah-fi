@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 1:16",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Peseytykää, puhdistukaa, poistakaa paha teoistanne minun silmistäni, lakkatkaa tekemästä pahaa.",
+  "tokens": [
+    {
+      "surface": "רחצו",
+      "gloss": "Peseytykää"
+    },
+    {
+      "surface": "הזכו",
+      "gloss": "puhdistukaa"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "poistakaa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "paha"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "teoistanne"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "minun silmistäni"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "silmissäni"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "lakkatkaa"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "tekemästä pahaa"
+    }
+  ],
+  "timestamp": "2026-09-07T00:00:41.250791135Z",
+  "model": "glm-5.3"
+}

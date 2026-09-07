@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja David pelkäsi ⟨את⟩ Jahvea sinä päivänä, ja hän sanoi: ”Kuinka Jahven arkku tulisi minun luokseni?”",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "pelkäsi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "איך",
+      "gloss": "kuinka"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "tulisi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minun luokseni"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-06T23:21:40.534760930Z",
+  "model": "glm-5.3"
+}

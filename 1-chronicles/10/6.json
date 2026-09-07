@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Niin kuoli Shaul ja hänen kolme poikaansa, ja koko hänen talonsa kuoli yhdessä.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "niin kuoli"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "ja hänen kolme"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "poikaansa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja koko"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hänen talonsa"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "yhdessä"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "kuolivat"
+    }
+  ],
+  "timestamp": "2026-09-07T05:17:46.867500975Z",
+  "model": "glm-5.3"
+}

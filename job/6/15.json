@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 6:15",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Veljeni ovat uskottomat kuin puro, kuin purojen uoma ne virtaavat pois.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "veljeni"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "uskottomat"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kuin"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "puro"
+    },
+    {
+      "surface": "כאפיק",
+      "gloss": "kuin uoma"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "purojen"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "ne virtaavat pois"
+    }
+  ],
+  "timestamp": "2026-09-07T03:25:08.994824305Z",
+  "model": "glm-5.3"
+}

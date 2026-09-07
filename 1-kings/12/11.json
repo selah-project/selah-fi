@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja nyt: isäni kuormitti teidät raskaalla ikeellä, ja minä lisään teidän ikeenne päälle: isänne kuritti teitä ⟨אתכם⟩ ruoskilla, ja minä kuritan teitä ⟨אתכם⟩ skorpioneilla.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ja nyt"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "isäni"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "kuormitti"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "teidät"
+    },
+    {
+      "surface": "על",
+      "gloss": "ikeellä"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "raskaalla"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ja minä"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "lisään"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "teidän ikeenne"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "isänne"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "kuritti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "marks": "teitä"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "ruoskilla"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ja minä"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "kuritan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "marks": "teitä"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "skorpioneilla"
+    }
+  ],
+  "timestamp": "2026-09-07T07:21:08.770735045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 8:22",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Sinun vihaajasi pukeutuvat häpeään, ja jumalattomien teltta ei ⟨ole⟩ enää.",
+  "tokens": [
+    {
+      "surface": "שנאיך",
+      "gloss": "sinun vihaajasi"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "pukeutuvat"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "häpeään"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "ja teltta"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jumalattomien"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ei ⟨ole⟩ enää"
+    }
+  ],
+  "timestamp": "2026-09-07T03:24:41.539586093Z",
+  "model": "glm-5.3"
+}

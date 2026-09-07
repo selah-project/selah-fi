@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 15:16",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Yksi Tora (Toora) ja yksi oikeus olkoon teillä ja muukalaiselle, joka asuu ⟨את⟩ teidän kanssanne.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Yksi Tora (Toora)"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ja yksi oikeus"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olkoon"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teillä"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "ja muukalaiselle"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "joka asuu muassa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidän kanssanne"
+    }
+  ],
+  "timestamp": "2026-09-06T22:11:10.591422590Z",
+  "model": "glm-5.3"
+}

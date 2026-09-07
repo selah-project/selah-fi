@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 16:22",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja ⟨את⟩ kaikkia kauhistuksiasi ja haureuksiasi et sinä muistanut ⟨את⟩ nuoruutesi päiviä, kun olit alasti ja paljas, veressäsi tallautuneena sinä olit.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikkia kauhistuksiasi ja haureuksiasi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkia"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "kauhistuksiasi"
+    },
+    {
+      "surface": "ותזנתיך",
+      "gloss": "ja haureuksiasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "et"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "sinä muistanut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nuoruutesi päiviä"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päiviä"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "nuoruutesi"
+    },
+    {
+      "surface": "בהיותך",
+      "gloss": "kun olit"
+    },
+    {
+      "surface": "ערם",
+      "gloss": "alasti"
+    },
+    {
+      "surface": "ועריה",
+      "gloss": "ja paljas"
+    },
+    {
+      "surface": "מתבוססת",
+      "gloss": "tallautuneena"
+    },
+    {
+      "surface": "בדמך",
+      "gloss": "veressäsi"
+    },
+    {
+      "surface": "היית",
+      "gloss": "sinä olit"
+    }
+  ],
+  "timestamp": "2026-09-07T06:36:20.044336862Z",
+  "model": "glm-5.3"
+}

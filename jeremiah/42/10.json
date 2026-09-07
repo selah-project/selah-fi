@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 42:10",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Jos palaten asutte tässä maassa, minä rakennan ⟨את⟩ teidät, enkä pura; minä istutan ⟨את⟩ teidät, enkä nyki juurinne; sillä minä olen katunut sitä pahaa, jonka olen tehnyt teille.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "palaten"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "asutte"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tässä"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "minä rakennan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät",
+      "marks": "teidät"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "אהרס",
+      "gloss": "pura"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "minä istutan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät",
+      "marks": "teidät"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "אתוש",
+      "gloss": "nyki juurinne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "minä olen katunut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "suhteen"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "pahaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "olen tehnyt"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    }
+  ],
+  "timestamp": "2026-09-07T00:45:40.717483042Z",
+  "model": "glm-5.3"
+}

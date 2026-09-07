@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 7:4",
+  "book": "nehemiah",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja kaupunki ⟨oli⟩ leveä käsin ja suuri, ja kansaa ⟨oli⟩ vähän sen keskellä, eikä taloja ⟨ollut⟩ rakennettu.",
+  "tokens": [
+    {
+      "surface": "והעיר",
+      "gloss": "Ja kaupunki"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "leveä"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "käsin"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "ja suuri"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ja kansaa"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "vähän"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "sen keskellä"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "taloja"
+    },
+    {
+      "surface": "בנוים",
+      "gloss": "rakennettu"
+    }
+  ],
+  "timestamp": "2026-09-07T06:01:03.114683104Z",
+  "model": "glm-5.3"
+}

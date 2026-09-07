@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 49,
+  "translation": "Mutta ihminen kunniaansa ei jää yöksi; hän vertautuu eläinten kaltaisiin — ne ovat tuhoutuneet.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "Mutta ihminen"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "kunniaansa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "jää yöksi"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "vertautuu"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "eläinten kaltaisiin"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "ne ovat tuhoutuneet"
+    }
+  ],
+  "timestamp": "2026-09-07T02:10:44.716004847Z",
+  "model": "glm-5.3"
+}

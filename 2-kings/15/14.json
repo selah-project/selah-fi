@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 15:14",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Ja Menahem (Manahem), Gadin poika, lähti Tirtsasta (Tirsa) ja tuli Shomroniin ja löi ⟨את⟩ Shalumin, Yaveshin pojan, Shomronissa ja tappoi hänet ja hallitsi hänen sijastaan.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ja lähti"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "Menahem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gadin"
+    },
+    {
+      "surface": "מתרצה",
+      "gloss": "Tirtsasta"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomroniin"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ja löi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shalumin"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalumin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yaveshin"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Shomronissa"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "ja tappoi hänet"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ja hallitsi"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "hänen sijastaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:53:39.825083513Z",
+  "model": "glm-5.3"
+}

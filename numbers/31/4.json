@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 31:4",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "tuhannen sukukuntaa kohti, tuhannen sukukuntaa kohti — kaikista Israelin sukukunnista saatte lähettää sotaväkeen.”",
+  "tokens": [
+    {
+      "surface": "אלף",
+      "gloss": "tuhannen"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "sukukuntaa kohti"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhannen"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "sukukuntaa kohti"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kaikista"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "sukukunnista"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "saatte lähettää"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "sotaväkeen"
+    }
+  ],
+  "timestamp": "2026-09-06T22:19:09.324592881Z",
+  "model": "glm-5.3"
+}

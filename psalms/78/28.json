@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 78:28",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 78,
+  "translation": "Ja hän pudotti ⟨ne⟩ leirin keskelle, heidän asumuksiensa ympärille.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "ja hän pudotti"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "keskelle"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "leirin"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympärille"
+    },
+    {
+      "surface": "למשכנתיו",
+      "gloss": "heidän asumuksiinsa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:24:17.921344977Z",
+  "model": "glm-5.3"
+}

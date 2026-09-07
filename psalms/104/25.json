@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 104,
+  "translation": "Tämä meri, suuri ja avara käsin — siellä ⟨on⟩ matelijoita ilman lukua, eläviä olentoja, pieniä yhdessä suurten kanssa.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Tämä"
+    },
+    {
+      "surface": "הים",
+      "gloss": "meri"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suuri"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ja avara"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "käsin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "matelijoita"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ilman"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "lukua"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "eläviä olentoja"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "pieniä"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yhdessä"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "suurten"
+    }
+  ],
+  "timestamp": "2026-09-07T02:37:20.406805894Z",
+  "model": "glm-5.3"
+}

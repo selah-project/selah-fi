@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 22:35",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Hän opettaa käteni sotaan, ja vaskijousi taipuu käsivarsillani.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "opettaa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "käteni"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sotaan"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "ja taipuu"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "jousi"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "vaski-"
+    },
+    {
+      "surface": "זרעתי",
+      "gloss": "käsivarsillani"
+    }
+  ],
+  "timestamp": "2026-09-06T23:30:45.041925450Z",
+  "model": "glm-5.3"
+}

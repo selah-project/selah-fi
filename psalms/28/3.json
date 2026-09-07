@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Älä vedä minua pois jumalattomien kanssa äläkä pahantekijöiden kanssa, jotka puhuvat rauhaa tovereilleen, mutta paha on heidän sydämessään.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "vedä minua pois"
+    },
+    {
+      "surface": "עם",
+      "gloss": "jumalattomien kanssa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jumalattomien"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "äläkää … kanssa"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "tekijöiden"
+    },
+    {
+      "surface": "און",
+      "gloss": "pahan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "jotka puhuvat"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rauhaa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tovereilleen"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "tovereilleen"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "mutta paha"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "heidän sydämessään"
+    }
+  ],
+  "timestamp": "2026-09-07T04:31:04.213189737Z",
+  "model": "glm-5.3"
+}

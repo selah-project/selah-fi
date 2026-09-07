@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Voi niitä, jotka säätävät vääryyden säädöksiä, ja kirjoittajia, jotka kirjoittavat vaivaa!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Voi"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "niitä, jotka säätävät"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "säädöksiä"
+    },
+    {
+      "surface": "און",
+      "gloss": "vääryyden"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "ja kirjoittajia"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "vaivaa"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "jotka kirjoittavat"
+    }
+  ],
+  "timestamp": "2026-09-07T00:05:00.165024042Z",
+  "model": "glm-5.3"
+}

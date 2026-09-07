@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 32:15",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Kun annan ⟨את⟩ Mitsrajimin maan autiomaidoksi, ja se on autio täyttämyyksestään, kun lyön ⟨את⟩ kaikki sen asujat, ja he tuntevat, että minä olen Jahve.",
+  "tokens": [
+    {
+      "surface": "בתתי",
+      "gloss": "kun annan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajimin maan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "autiomaidoksi"
+    },
+    {
+      "surface": "ונשמה",
+      "gloss": "ja se on autio"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "se"
+    },
+    {
+      "surface": "ממלאה",
+      "gloss": "täyttämyyksestään"
+    },
+    {
+      "surface": "בהכותי",
+      "gloss": "kun lyön"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki sen asujat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "asujat"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ja he tuntevat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-07T01:09:50.429147671Z",
+  "model": "glm-5.3"
+}

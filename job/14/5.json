@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Jos hänen päivänsä ovat määrätyt, hänen kuukautensa luku on ⟨את⟩ sinun tykönäsi, hänen rajansa sinä olet säätänyt, eikä hän sitä ylitä.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jos"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "määrätyt"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "hänen päivänsä"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "luku"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "hänen kuukautensa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sinun tykönäsi",
+      "marks": "hänen kuukautensa luku"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "hänen rajansa"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "sinä säädit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "ylitä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:31:23.206609784Z",
+  "model": "glm-5.3"
+}

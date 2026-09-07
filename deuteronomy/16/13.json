@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 16:13",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Lehtimajojen juhlaa (Sukkot) sinä vietät itsellesi seitsemän päivää, kun korjaat ⟨sadon⟩ puimopihaltasi ja viinikuopastasi.",
+  "tokens": [
+    {
+      "surface": "חג",
+      "gloss": "juhlaa"
+    },
+    {
+      "surface": "הסכת",
+      "gloss": "lehtimajojen"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "vietät"
+    },
+    {
+      "surface": "לך",
+      "gloss": "itsellesi"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seitsemän"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivää"
+    },
+    {
+      "surface": "באספך",
+      "gloss": "kun korjaat"
+    },
+    {
+      "surface": "מגרנך",
+      "gloss": "puimopihaltasi"
+    },
+    {
+      "surface": "ומיקבך",
+      "gloss": "ja viinikuopastasi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:30:17.391247436Z",
+  "model": "glm-5.3"
+}

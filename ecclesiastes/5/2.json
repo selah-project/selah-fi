@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Sillä uni tulee huolen paljoudesta, ja houkun ääni sanojen paljoudesta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tulee"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "uni"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "paljoudesta"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "huolen"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ja ääni"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "houkun"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "paljoudesta"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "sanojen"
+    }
+  ],
+  "timestamp": "2026-09-07T04:35:41.331828857Z",
+  "model": "glm-5.3"
+}

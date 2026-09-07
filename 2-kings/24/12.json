@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 24:12",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja Jehojakhin, Jehudan (Juudan) kuningas, lähti Babelin kuningasta vastaan — hän ja hänen äitinsä ja hänen palvelijansa ja pääriänsä ja eunukkiaan; ja Babelin kuningas otti ⟨את⟩ hänet kahdeksantena vuotena hallitustaan.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Ja lähti"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Jehojakhin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan (Juudan)"
+    },
+    {
+      "surface": "על",
+      "gloss": "vastaan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babelin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ja äitinsä"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "ja palvelijansa"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "ja pääriänsä"
+    },
+    {
+      "surface": "וסריסיו",
+      "gloss": "ja eunukkiaan"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ja otti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hänet (Jehojakhin)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babelin"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "vuotena"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "kahdeksantena"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "hallitustaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:59:38.016152333Z",
+  "model": "glm-5.3"
+}

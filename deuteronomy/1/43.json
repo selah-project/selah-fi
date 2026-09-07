@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 1:43",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Mutta minä puhuin teille, ette kuulleet; ja te kapinoitte ⟨את⟩ Jahven suuta vastaan ja käytte ylvästellen ja nousitte vuorelle.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "Mutta minä puhuin"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ette"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "kuulleet"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "ja te kapinoitte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven suuta"
+    },
+    {
+      "surface": "פי",
+      "gloss": "suuta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ותזדו",
+      "gloss": "ja käytte ylvästellen"
+    },
+    {
+      "surface": "ותעלו",
+      "gloss": "ja nousitte"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "vuorelle"
+    }
+  ],
+  "timestamp": "2026-09-06T22:22:29.336045874Z",
+  "model": "glm-5.3"
+}

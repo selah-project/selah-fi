@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Kaikki poikkesivat, yhdessä he morkaisivat; ei ole hyvää tekevää, ei ⟨on⟩ yhtäkään.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Kaikki"
+    },
+    {
+      "surface": "סר",
+      "gloss": "poikkesivat"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "yhdessä"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "he morkaisivat"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tekevää"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvää"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yhtäkään"
+    }
+  ],
+  "timestamp": "2026-09-07T01:55:40.606116233Z",
+  "model": "glm-5.3"
+}

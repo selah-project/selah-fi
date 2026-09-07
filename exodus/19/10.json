@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja Jahve sanoi Meshelle: Mene kansan tykö ja pyhitä heidät tänään ja huomenna, ja he peskööt vaatteensa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Meshelle"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Mene"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan tykö"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "ja pyhitä heidät"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tänään"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "ja huomenna"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "ja he peskööt"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "vaatteensa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:35:13.440945028Z",
+  "model": "glm-5.3"
+}

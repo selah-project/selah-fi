@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 78,
+  "translation": "Hän halkaisi meren ja johdatti heidät läpi, ja hän seisotti vedet kuin kasan.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "halkaisi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "meren"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "ja johdatti heidät"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "ja seisotti"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vedet"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kuin"
+    },
+    {
+      "surface": "נד",
+      "gloss": "kasaksi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:23:53.805843079Z",
+  "model": "glm-5.3"
+}

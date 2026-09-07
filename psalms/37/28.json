@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Sillä Jahve rakastaa oikeutta, eikä hän hylkää ⟨את⟩ hartaitansa; iankaikkisesti heidät varjellaan, mutta jumalattomien siemen katkaistaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "rakastaa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "oikeutta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "hylkää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hartaitansa"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "hartaitansa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "heidät varjellaan"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "mutta siemen"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jumalattomien"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "katkaistaan"
+    }
+  ],
+  "timestamp": "2026-09-07T02:07:14.625748432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja Shaul ja koko Israel kuulivat ⟨את⟩ nämä pelistiläisen sanat, ja he lannistuivat ja pelkäsivät kovin.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Ja kuuli"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja koko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nämä sanat"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "pelistiläisen"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "ja lannistuivat"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ja pelkäsivät"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kovin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:10:16.266269456Z",
+  "model": "glm-5.3"
+}

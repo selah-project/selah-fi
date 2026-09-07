@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 11:19",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ei yhtä päivää te syötte, eikä kahta päivää, eikä viittä päivää, eikä kymmentä päivää, eikä kahtakymmentä päivää —",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יום",
+      "gloss": "yhtä päivää"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yhtä"
+    },
+    {
+      "surface": "תאכלון",
+      "gloss": "te syötte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "kahta päivää"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "viittä"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivää"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kymmentä"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivää"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kahtakymmentä"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivää"
+    }
+  ],
+  "timestamp": "2026-09-07T04:14:58.415129874Z",
+  "model": "glm-5.3"
+}

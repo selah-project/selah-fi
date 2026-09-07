@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja hän käänsi ⟨את⟩ kasvonsa seinää kohden ja rukoili Jahvea sanoen:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "ja käänsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasvonsa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "kasvonsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "seinää"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "ja rukoili"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    }
+  ],
+  "timestamp": "2026-09-07T04:25:06.563454632Z",
+  "model": "glm-5.3"
+}

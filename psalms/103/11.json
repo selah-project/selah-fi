@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 103,
+  "translation": "Sillä niinkuin korkeus taivaan maan yllä, niin on voimallinen hänen hesedinsä (lojaali laupeutensa) niiden yllä, jotka häntä pelkäävät.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "niinkuin korkeus"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "yllä"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "on voimallinen"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hänen hesedinsä (lojaali laupeutensa)"
+    },
+    {
+      "surface": "על",
+      "gloss": "yllä"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "niiden, jotka häntä pelkäävät"
+    }
+  ],
+  "timestamp": "2026-09-07T02:35:24.599862426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja hän tuli raskaaksi ja synnytti pojan ja sanoi: Elohim on ottanut pois ⟨את⟩ häpeäni.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "Ja hän tuli raskaaksi"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ja synnytti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "on ottanut pois"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "häpeäni"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "häpeäni"
+    }
+  ],
+  "timestamp": "2026-09-06T21:16:00.669417141Z",
+  "model": "glm-5.3"
+}

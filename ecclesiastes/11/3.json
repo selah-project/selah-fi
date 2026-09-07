@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Jos pilvet täyttyvät, ne laskivat sadeveden maan päälle; ja jos puu kaatuu etelään tai pohjoiseen, siihen paikkaan, mihin puu kaatuu, siinä se ⟨on⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jos"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "täyttyvät"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "pilvet"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "sadeveden"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "ne laskivat"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ja jos"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "kaatuu"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "puu"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "etelään"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "tai jos"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "pohjoiseen"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "siihen paikkaan"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "mihin kaatuu"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "puu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siinä"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "se ⟨on⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T04:38:39.028435606Z",
+  "model": "glm-5.3"
+}

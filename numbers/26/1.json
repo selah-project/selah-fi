@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 26:1",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja Jahve puhui Moshelle (Mooses) ja Elazarille, Aharonin (Aaron) pojalle, kohenille (pappi), sanoen:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja puhui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-lle"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshelle"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja -lle"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazarille"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojalle"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonin"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenille"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    }
+  ],
+  "timestamp": "2026-09-06T22:16:56.181539524Z",
+  "model": "glm-5.3"
+}

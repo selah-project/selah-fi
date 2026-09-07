@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 4:23",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja Lemek sanoi vaimoilleen: Ada ja Tsilla, kuulkaa ääneni, Lemekin vaimot, korvatkaa sanani; sillä miehen minä tapoin haavani tähden ja nuorukaisen kolhuuni tähden.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemek"
+    },
+    {
+      "surface": "לנשיו",
+      "gloss": "vaimoilleen"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "וצלה",
+      "gloss": "ja Tsilla"
+    },
+    {
+      "surface": "שמען",
+      "gloss": "kuulkaa"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ääneni"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "vaimot"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemekin"
+    },
+    {
+      "surface": "האזנה",
+      "gloss": "korvatkaa"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sanani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "הרגתי",
+      "gloss": "tapoin"
+    },
+    {
+      "surface": "לפצעי",
+      "gloss": "haavani tähden"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "ja nuorukaisen"
+    },
+    {
+      "surface": "לחברתי",
+      "gloss": "kolhuuni tähden"
+    }
+  ],
+  "timestamp": "2026-09-06T21:05:17.340721284Z",
+  "model": "glm-5.3"
+}

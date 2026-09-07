@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja he sanoivat: Kutsutaan tyttö, ja kysytään ⟨את⟩ hänen suutaan.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ja he sanoivat"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "kutsutaan"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "tyttö"
+    },
+    {
+      "surface": "ונשאלה",
+      "gloss": "ja kysytään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen suutaan"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "hänen suutaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:15:39.007059402Z",
+  "model": "glm-5.3"
+}

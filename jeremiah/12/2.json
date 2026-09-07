@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 12:2",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Sinä istutit heidät, ja he myös juurtuivat; he kulkevat ja myös kantavat hedelmää. Sinä olet lähellä heidän suutaan mutta kaukana heidän sisimmästään.",
+  "tokens": [
+    {
+      "surface": "נטעתם",
+      "gloss": "istutit heidät"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "שרשו",
+      "gloss": "juurtuivat"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "kulkevat"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "tekevät"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "hedelmää"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "lähellä"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "heidän suussaan"
+    },
+    {
+      "surface": "ורחוק",
+      "gloss": "ja kaukana"
+    },
+    {
+      "surface": "מכליותיהם",
+      "gloss": "heidän sisimmästään"
+    }
+  ],
+  "timestamp": "2026-09-07T00:29:20.966336570Z",
+  "model": "glm-5.3"
+}

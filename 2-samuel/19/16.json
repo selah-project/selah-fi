@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja kuningas palasi ja tuli Yardenille (Jordan) asti, ja Yehuda tuli Gilgaliin (Gilgal) mennäkseen kuningasta vastaan, viedäkseen ⟨את⟩ kuninkaan yli ⟨את⟩ Jordanin.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Ja palasi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardenille"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ja Yehuda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "Gilgaliin"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "mennäkseen"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "vastaan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "viedäkseen yli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuninkaan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordanin"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:29:11.147528416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja nyt, totta on: kyllä, minä olen lunastaja, mutta on myös lunastaja, joka on minua lähempänä.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ja nyt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "totta on"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kyllä"
+    },
+    {
+      "surface": "אם",
+      "gloss": "totisesti"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "lunastaja"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mutta on myös"
+    },
+    {
+      "surface": "יש",
+      "gloss": "on olemassa"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "lunastaja"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "lähempänä"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minua"
+    }
+  ],
+  "timestamp": "2026-09-07T03:57:53.093202177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 7:17",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja hän saattoi esille ⟨את⟩ Yehudan sukukunnat, ja ⟨את⟩ Zerahin sukukunta otettiin kiinni; ja hän saattoi esille ⟨את⟩ Zerahin sukukunnan miehittäin, ja Zavdi otettiin kiinni.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "saattoi esille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudan sukukunnat"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "sukukunnat"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudan"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "otettiin kiinni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zerahin sukukunta"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "sukukunta"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "Zerahin"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "saattoi esille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zerahin sukukunnan"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "sukukunnan"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "Zerahin"
+    },
+    {
+      "surface": "לגברים",
+      "gloss": "miehittäin"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "otettiin kiinni"
+    },
+    {
+      "surface": "זבדי",
+      "gloss": "Zavdi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:43:30.548372127Z",
+  "model": "glm-5.3"
+}

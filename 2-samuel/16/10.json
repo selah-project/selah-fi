@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 16:10",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja kuningas sanoi: Mikä ⟨on⟩ minulla ja teillä yhteistä, Tserujan pojat? Koska hän herjaa, ja koska Jahve on sanonut hänelle: herjaa ⟨את⟩ Davidia — ja kuka voi sanoa: miksi teit näin?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mikä"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulla"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "ja teillä"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Tserujan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Koska"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "hän herjaa"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ja koska"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "on sanonut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "herjaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidia"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ja kuka"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "voi sanoa"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "miksi"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "teit"
+    },
+    {
+      "surface": "כן",
+      "gloss": "näin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:26:33.476249048Z",
+  "model": "glm-5.3"
+}

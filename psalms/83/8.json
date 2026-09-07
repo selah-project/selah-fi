@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 83,
+  "translation": "Gevall (Gebal) ja Ammon ja Amalek, Peleshet (Filistea) Tsorin (Tyrus) asukkaiden kanssa;",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Gevall (Gebal)"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "ja Ammon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "ja Amalek"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshet (Filistea)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "asukkaiden"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tsorin (Tyrus)"
+    }
+  ],
+  "timestamp": "2026-09-07T04:33:05.518455288Z",
+  "model": "glm-5.3"
+}

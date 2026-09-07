@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 8:14",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja sinä erotat ⟨את⟩ leviläiset Israelin lasten keskeltä, ja leviläiset ⟨ovat⟩ minun.",
+  "tokens": [
+    {
+      "surface": "והבדלת",
+      "gloss": "ja sinä erotat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leviläiset"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviläiset"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "keskeltä"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ja he ovat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minun"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviläiset"
+    }
+  ],
+  "timestamp": "2026-09-06T22:07:08.977292321Z",
+  "model": "glm-5.3"
+}

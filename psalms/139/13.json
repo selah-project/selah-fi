@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 139,
+  "translation": "Sillä sinä loit munuaiseni, sinä kutoit minut kokoon äitini kohdussa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "loit"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "munuaiseni"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "kutoit minut kokoon"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "kohdussa"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "äitini"
+    }
+  ],
+  "timestamp": "2026-09-07T06:30:14.108177377Z",
+  "model": "glm-5.3"
+}

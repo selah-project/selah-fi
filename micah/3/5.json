@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 3:5",
+  "book": "micah",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Näin sanoi Jahve profeetoista, jotka eksyttävät ⟨את⟩ kansani, jotka purevat hampaillaan ja huutavat rauhaa, mutta sitä joka ei anna heidän suuhunsa, he pyhittävät sodan häntä vastaan.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Näin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "koskien"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "profeettoja"
+    },
+    {
+      "surface": "המתעים",
+      "gloss": "jotka eksyttävät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansani"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kansani"
+    },
+    {
+      "surface": "הנשכים",
+      "gloss": "jotka purevat"
+    },
+    {
+      "surface": "בשניהם",
+      "gloss": "hampaillaan"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "ja huutavat"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rauhaa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "mutta sitä joka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "anna"
+    },
+    {
+      "surface": "על",
+      "gloss": "sisään"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "heidän suuhunsa"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "he pyhittävät"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "häntä vastaan"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "sodan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:35:02.788544103Z",
+  "model": "glm-5.3"
+}

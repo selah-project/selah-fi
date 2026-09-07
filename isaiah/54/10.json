@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 54:10",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 54,
+  "translation": "Sillä vuoret väistävät ja kukkulat horjuvat, mutta minun hesedini (liitto-uskollinen laupeuteni) ei väisty ⟨את⟩ sinulta, eikä minun rauhani liitto horju, sanoo sinua armahtava Jahve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "vuoret"
+    },
+    {
+      "surface": "ימושו",
+      "gloss": "väistävät"
+    },
+    {
+      "surface": "והגבעות",
+      "gloss": "ja kukkulat"
+    },
+    {
+      "surface": "תמוטנה",
+      "gloss": "horjuvat"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "ja minun hesedini"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ sinulta",
+      "marks": "minun hesedini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ימוש",
+      "gloss": "väisty"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "eikä liitto"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "minun rauhani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "horju"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "מרחמך",
+      "gloss": "sinua armahtava"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-07T00:18:26.223683654Z",
+  "model": "glm-5.3"
+}

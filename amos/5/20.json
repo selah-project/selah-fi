@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "amos 5:20",
+  "book": "amos",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Eikö Jahven päivä ⟨ole⟩ pimeys eikä valo, ja synkkyyttä eikä kirkkautta sille?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Eikö"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pimeys"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "אור",
+      "gloss": "valo"
+    },
+    {
+      "surface": "ואפל",
+      "gloss": "ja synkkyyttä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "kirkkautta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sille"
+    }
+  ],
+  "timestamp": "2026-09-07T01:30:08.999997280Z",
+  "model": "glm-5.3"
+}

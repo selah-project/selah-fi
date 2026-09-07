@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 4:12",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja minun luokseni sana varastettiin salaa, ja korvani otti siitä kuiskauksen.",
+  "tokens": [
+    {
+      "surface": "ואלי",
+      "gloss": "ja minun luokseni"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sana"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "varastettiin salaa"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ja otti"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "korvani"
+    },
+    {
+      "surface": "שמץ",
+      "gloss": "kuiskauksen"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "siitä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:22:57.576387698Z",
+  "model": "glm-5.3"
+}

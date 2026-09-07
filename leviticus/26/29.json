@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 26:29",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja te syötte lihaa poikienne, ja lihaa tyttärienne te syötte.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "ja te syötte"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "lihaa"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "poikienne"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "ja lihaa"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "tyttärienne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "te syötte"
+    }
+  ],
+  "timestamp": "2026-09-06T22:01:14.868176316Z",
+  "model": "glm-5.3"
+}

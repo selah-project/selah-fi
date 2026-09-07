@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 72,
+  "translation": "Loppuun tulivat Davidin (Daavid), Yishain (Isai) pojan, rukoukset.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Loppuun tulivat"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "rukoukset"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishain"
+    }
+  ],
+  "timestamp": "2026-09-07T02:19:43.277063965Z",
+  "model": "glm-5.3"
+}

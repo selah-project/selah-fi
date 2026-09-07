@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 46,
+  "translation": "Kuoronjohtajalle, Korahin poikien ⟨laulu⟩, alamot-äänille (naisäänille), laulu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kuoronjohtajalle"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "poikien"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "על",
+      "gloss": "äänille"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "alamot"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "laulu"
+    }
+  ],
+  "timestamp": "2026-09-07T02:11:29.232089108Z",
+  "model": "glm-5.3"
+}

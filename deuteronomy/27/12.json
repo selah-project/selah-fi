@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 27:12",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Nämä seisovat siunaamaan ⟨את⟩ kansan Gerizim-vuorella, kun te ylitätte ⟨את⟩ Jordanin: Shimon ja Levi ja Jehuda ja Jisaskar ja Josef ja Binjamin.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Nämä"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "seisovat"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "siunaamaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "על",
+      "gloss": "…lla"
+    },
+    {
+      "surface": "הר",
+      "gloss": "vuorella"
+    },
+    {
+      "surface": "גרזים",
+      "gloss": "Gerizim-"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "kun te ylitätte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordanin"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanin"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "ja Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ja Jehuda"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "ja Jisaskar"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ja Josef"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ja Binjamin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:33:49.223510621Z",
+  "model": "glm-5.3"
+}

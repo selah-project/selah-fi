@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 49:13",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 49,
+  "translation": "Riemuitkaa, taivaat, ja iloitse, maa, puhkeakaa riemuhuutoon, vuoret; sillä Jahve on lohduttanut kansaansa, ja kurjiaan hän armahtaa.",
+  "tokens": [
+    {
+      "surface": "רנו",
+      "gloss": "Riemuitkaa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "taivaat"
+    },
+    {
+      "surface": "וגילי",
+      "gloss": "ja iloitse"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "יפצחו",
+      "gloss": "puhkeakaa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "vuoret"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "riemuhuutoon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "on lohduttanut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kansansa"
+    },
+    {
+      "surface": "ועניו",
+      "gloss": "ja kurjiaan"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "hän armahtaa"
+    }
+  ],
+  "timestamp": "2026-09-07T00:16:56.183541691Z",
+  "model": "glm-5.3"
+}

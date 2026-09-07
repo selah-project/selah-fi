@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 30:2",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Kyynärä on sen pituus ja kyynärä sen leveys; nelikulmainen se on; ja kaksi kyynärää on sen korkeus; sen sarvet ovat siitä ⟨yhtenäisenä⟩.",
+  "tokens": [
+    {
+      "surface": "אמה",
+      "gloss": "kyynärä"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "sen pituus"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ja kyynärä"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "sen leveys"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "nelikulmainen"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "on"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "ja kaksi kyynärää"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "sen korkeus"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "siitä"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "sen sarvet"
+    }
+  ],
+  "timestamp": "2026-09-06T21:41:27.564242856Z",
+  "model": "glm-5.3"
+}

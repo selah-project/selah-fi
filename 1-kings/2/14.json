@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja hän sanoi: ”Sana minulla ⟨on⟩ sinulle.” Ja hän sanoi: ”Puhu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Sana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulla"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Puhu"
+    }
+  ],
+  "timestamp": "2026-09-06T23:32:39.562839744Z",
+  "model": "glm-5.3"
+}

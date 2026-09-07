@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 10:25",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja Shemuel puhui kansalle ⟨את⟩ kuninkuuden oikeuden, ja hän kirjoitti sen kirjaan ja pani sen Jahven eteen; ja Shemuel lähetti ⟨את⟩ koko kansan pois, kukin kotiinsa.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ja puhui"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel (Saamel)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuninkuuden oikeuden"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "oikeuden"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "kuninkuuden"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "ja kirjoitti"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "kirjaan"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "ja pani"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ja lähetti"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko kansan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kukin"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "kotiinsa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:07:42.012448672Z",
+  "model": "glm-5.3"
+}

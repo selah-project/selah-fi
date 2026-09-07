@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Kahdenkymmenen vuoden ikäisistä ja siitä ylöspäin, jokainen Israelissa sotaväkeen menevä: te katselmoikaa ⟨את⟩ heidät heidän joukkoineen, sinä ja Aharon (Aaron).",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "ikäisistä"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kahdenkymmenen"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuoden"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ja siitä ylöspäin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokainen"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "menevä"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "sotaväkeen"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israelissa"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "katselmoikaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "heidät"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "heidän joukkoineen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ja Aharon"
+    }
+  ],
+  "timestamp": "2026-09-06T22:02:25.071914149Z",
+  "model": "glm-5.3"
+}

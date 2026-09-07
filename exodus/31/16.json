@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Ja Israelin lapset kunnioittakoot ⟨את⟩ Shabbatin, pitääkseen ⟨את⟩ Shabbatin sukupolvista sukupolviin, ihanan ikuisena berit-liertona.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Ja kunnioittakoot"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lapset"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabbatin"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbatin"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pitääkseen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabbatin"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbatin"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "sukupolvista sukupolviin"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "berit-liiton"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ihanan ikuisena"
+    }
+  ],
+  "timestamp": "2026-09-06T21:41:50.606352072Z",
+  "model": "glm-5.3"
+}

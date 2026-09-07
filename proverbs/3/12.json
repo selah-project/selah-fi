@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 3:12",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Sillä ⟨את⟩ jota Jahve rakastaa, hän nuhtelee, ja kuin isä ⟨את⟩ poikaa, johon hän mieltyy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jota"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "rakastaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "nuhtelee"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "kuin isä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poikaa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poikaa"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "mieltyy"
+    }
+  ],
+  "timestamp": "2026-09-07T02:59:15.377356137Z",
+  "model": "glm-5.3"
+}

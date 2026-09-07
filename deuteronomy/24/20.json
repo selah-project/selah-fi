@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 24:20",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Kun lyödit oliivipuutasi, älä käy sitä jälkikäteen läpi; muukalaiselle, orvolle ja leskelle se olkoon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kun"
+    },
+    {
+      "surface": "תחבט",
+      "gloss": "lyödit"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "oliivipuutasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תפאר",
+      "gloss": "käy läpi"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "jälkikäteen"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "muukalaiselle"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "orvolle"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "ja leskelle"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olkoon"
+    }
+  ],
+  "timestamp": "2026-09-06T22:34:51.264226205Z",
+  "model": "glm-5.3"
+}

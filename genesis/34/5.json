@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "Ja Ja'akov (Jaakob) kuuli, että hän oli saastuttanut ⟨את⟩ Dinan, tyttärensä, mutta hänen poikansa olivat karjansa ⟨את⟩ kanssa kedolla; ja Ja'acob vaikeni, kunnes he tulivat.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Ja Ja'akov"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kuuli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "oli saastuttanut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dinan"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinan"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "tyttärensä"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ja hänen poikansa"
+    },
+    {
+      "surface": "היו",
+      "gloss": "olivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ kanssa"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "karjansa"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kedolla"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "ja vaikeni"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akov"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "באם",
+      "gloss": "he tulivat"
+    }
+  ],
+  "timestamp": "2026-09-06T21:20:52.068610217Z",
+  "model": "glm-5.3"
+}

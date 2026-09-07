@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 5:17",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Kaikki heidät luettiin sukuluetteloihin Jotamin, Jehudan kuninkaan, päivinä ja Jerobamin, Israelin kuninkaan, päivinä.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "Kaikki"
+    },
+    {
+      "surface": "התיחשו",
+      "gloss": "heidät luettiin sukuluetteloihin"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "päivinä"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Jotamin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "ja päivinä"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jerobamin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:14:27.335180898Z",
+  "model": "glm-5.3"
+}

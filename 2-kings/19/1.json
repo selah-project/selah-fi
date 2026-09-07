@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja tapahtui, kuningas Hizkijahun (Hiskia) kuullessa ⟨se⟩, että hän repi ⟨את⟩ vaatteensa ja verhoutui säkkiin ja meni Jahven huoneeseen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "kuullessa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkijahun (Hiskia)"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "että hän repi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaatteensa"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "vaatteensa"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "ja verhoutui"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "säkkiin"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ja meni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneeseen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-06T23:56:51.647977531Z",
+  "model": "glm-5.3"
+}

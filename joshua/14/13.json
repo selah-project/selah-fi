@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja Jehoshua (Joosua) siunasi hänet, ja hän antoi ⟨את⟩ Hevronin (Hebron) Kaleville, Jefunnen pojalle, perintöön.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "ja siunasi hänet"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshua"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ja antoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevronin"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevronin"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kaleville"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojalle"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Jefunnen"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "perintöön"
+    }
+  ],
+  "timestamp": "2026-09-06T22:44:14.893937994Z",
+  "model": "glm-5.3"
+}

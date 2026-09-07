@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 28:5",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Pahat miehet eivät ymmärrä oikeutta, mutta Jahvea etsivät ymmärtävät kaiken.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pahat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ymmärrä"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "oikeutta"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "mutta etsivät"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ymmärtävät"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    }
+  ],
+  "timestamp": "2026-09-07T03:19:04.745264674Z",
+  "model": "glm-5.3"
+}

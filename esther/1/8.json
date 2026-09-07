@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 1:8",
+  "book": "esther",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja juominen oli säädöksen mukaan, ei pakottamista, sillä niin kuningas oli säätänyt kaikille talonsa johtajille: tekemään kunkin miehen tahdon mukaan.",
+  "tokens": [
+    {
+      "surface": "והשתיה",
+      "gloss": "ja juominen"
+    },
+    {
+      "surface": "כדת",
+      "gloss": "säädöksen mukaan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אנס",
+      "gloss": "pakottamista"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "oli säätänyt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "על",
+      "gloss": "(koskien)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkia"
+    },
+    {
+      "surface": "רב",
+      "gloss": "johtajia"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "talonsa"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "tekemään"
+    },
+    {
+      "surface": "כרצון",
+      "gloss": "tahdon mukaan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ja miehen"
+    }
+  ],
+  "timestamp": "2026-09-07T04:41:03.683661121Z",
+  "model": "glm-5.3"
+}

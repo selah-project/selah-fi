@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 33:30",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Ja sinä, ihmisen poika: kansasi pojat puhuvat sinusta seinien luona ja talojen ovissa, ja yksi puhuu ⟨את⟩ toisen kanssa, kukin mies ⟨את⟩ veljensä kanssa, sanoen: Tulkaa nyt ja kuulkaa, mikä on sana, joka lähtee ⟨את⟩ Jahvesta.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ja sinä"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmisen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kansasi"
+    },
+    {
+      "surface": "הנדברים",
+      "gloss": "puhuvat"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinusta"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "luona"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "seinien"
+    },
+    {
+      "surface": "ובפתחי",
+      "gloss": "ja ovissa"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "talojen"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ja puhuu"
+    },
+    {
+      "surface": "חד",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toisen kanssa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "toisen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veljensä kanssa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "veljensä"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "באו",
+      "gloss": "Tulkaa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "ja kuulkaa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mikä"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sana"
+    },
+    {
+      "surface": "היוצא",
+      "gloss": "joka lähtee"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvesta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesta"
+    }
+  ],
+  "timestamp": "2026-09-07T01:11:00.129811477Z",
+  "model": "glm-5.3"
+}

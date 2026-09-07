@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 90,
+  "translation": "Vyörytit heidät pois kuin tulvan; he ⟨ovat⟩ kuin uni; aamulla kuin ruoho se menee ohitse.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "vyörytit pois"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "uni"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "he ⟨ovat⟩"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamulla"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "kuin ruoho"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "menee ohitse"
+    }
+  ],
+  "timestamp": "2026-09-07T02:33:40.945740467Z",
+  "model": "glm-5.3"
+}

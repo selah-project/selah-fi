@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja tekivät kaikki Israelin pojat niin kuin Jahve käski ⟨את⟩ Moshea (Mooses) ja ⟨את⟩ Aharonia (Aaron); niin he tekivät.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Ja tekivät"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "käski"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Aharonia"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonia"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "he tekivät"
+    }
+  ],
+  "timestamp": "2026-09-06T21:32:51.898091484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 102,
+  "translation": "Sinä nouseat ja armahdat Tsijonia, sillä ⟨on⟩ aika armahda häntä, sillä määrätty hetki on tullut.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "nouseat"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "armahdat"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijonia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "עת",
+      "gloss": "aika"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "armahda häntä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "בא",
+      "gloss": "on tullut"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "määrätty hetki"
+    }
+  ],
+  "timestamp": "2026-09-07T02:35:48.126157715Z",
+  "model": "glm-5.3"
+}

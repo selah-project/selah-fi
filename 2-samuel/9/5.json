@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja kuningas David lähetti ja nouti hänet Machirin (Makir), Ammielin pojan, talosta Lo Devarista (Loodebar).",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ja lähetti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "ja nouti hänet"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "talosta"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Machirin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammielin"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "Lo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devarista"
+    }
+  ],
+  "timestamp": "2026-09-06T23:22:16.181868633Z",
+  "model": "glm-5.3"
+}

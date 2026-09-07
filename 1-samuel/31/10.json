@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Ja he panivat ⟨את⟩ hänen varusteensa Ashtarotin huoneeseen, ja ⟨את⟩ hänen ruumiinsa he kiinnittivät Beit-Shanin muuriin.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "panivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen varusteensa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "hänen varusteensa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneeseen"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Ashtarotin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen ruumiinsa"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "hänen ruumiinsa"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "kiinnittivät"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "muuriin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Shanin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:19:09.004267781Z",
+  "model": "glm-5.3"
+}

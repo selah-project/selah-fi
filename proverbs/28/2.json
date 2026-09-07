@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 28:2",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Maan rikkomuksen tähden ⟨on⟩ monia sen päämiehiä, mutta ymmärtäväisen ja tietävän miehen kautta ⟨hänen päivänsä⟩ pitenee.",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "rikkomuksen tähden"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "monia"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "sen päämiehiä"
+    },
+    {
+      "surface": "ובאדם",
+      "gloss": "mutta ... miehen kautta"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "ymmärtäväisen"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ja tietävän"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨hänen päivänsä⟩"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "pitenee"
+    }
+  ],
+  "timestamp": "2026-09-07T03:20:10.279859350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 35,
+  "translation": "ja ⟨את⟩ lampun valon ja ⟨את⟩ sen astiat ja ⟨את⟩ sen lamput ja ⟨את⟩ valon öljyn",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "lampun valon (מנרת המאור)"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "lampun"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "valon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen astiat (כליה)"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "sen astiat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen lamput (נרתיה)"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "sen lamput"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "valon öljyn (שמן המאור)"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "öljyn"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "valon"
+    }
+  ],
+  "timestamp": "2026-09-06T21:43:58.054586749Z",
+  "model": "glm-5.3"
+}

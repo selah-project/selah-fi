@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja miksi et pitänyt ⟨את⟩ Jahven valaa ja ⟨את⟩ käskyn, jonka annoin sinun päällesi?”",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "ja miksi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "et"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "pitänyt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven valan"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "valan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "käskyn"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "käskyn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "annoin"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sinun päällesi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:33:45.333677532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 78,
+  "translation": "sillä eivät he uskoneet Elohimiin, eivätkä luottaneet hänen pelastukseensa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "he uskoneet"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimiin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "luottaneet"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "hänen pelastukseensa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:23:38.355761667Z",
+  "model": "glm-5.3"
+}

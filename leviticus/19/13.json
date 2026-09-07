@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Älä sorta ⟨את⟩ lähimmäistäsi äläkä ryöstä; palkkatyöläisen palkka ei saa jäädä yöllä ⟨את⟩ luoksesi aamuun asti.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "sorta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lähimmäistäsi"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "lähimmäistäsi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "äläkä"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "ryöstä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "saa jäädä"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "palkka"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "palkkatyöläisen"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ luoksesi",
+      "marks": "sinun luoksesi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aamuun asti"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "aamuun"
+    }
+  ],
+  "timestamp": "2026-09-06T21:56:41.917698202Z",
+  "model": "glm-5.3"
+}

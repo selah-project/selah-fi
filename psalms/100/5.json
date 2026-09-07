@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 100,
+  "translation": "Sillä hyvä ⟨on⟩ Jahve; iankaikkisuuteen ⟨kestää⟩ hänen hesedinsä (uskollinen laupeutensa), ja sukupolvesta sukupolveen hänen uskollisuutensa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iankaikkisuuteen"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hänen hesedinsä"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ja"
+    },
+    {
+      "surface": "דר",
+      "gloss": "sukupolvesta"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "sukupolveen"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "hänen uskollisuutensa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:34:34.477357306Z",
+  "model": "glm-5.3"
+}

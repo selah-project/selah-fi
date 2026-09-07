@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Mutta Elihu oli odottanut Ijovin kanssa ⟨את⟩ sanoissa, sillä vanhempia kuin hän he olivat päiviltään.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "Mutta Elihu"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "oli odottanut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijovin"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijovin"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "sanoissa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "vanhempia"
+    },
+    {
+      "surface": "המה",
+      "gloss": "he"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuin hän"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "päiviltään"
+    }
+  ],
+  "timestamp": "2026-09-07T03:45:13.567206128Z",
+  "model": "glm-5.3"
+}

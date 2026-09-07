@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 136,
+  "translation": "⟨את⟩ kuun ja tähdet hallitsemaan yötä, sillä iankaikkisesti ⟨on⟩ hänen hesedinsä (liittokautensa armo).",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuun"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "kuun"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "ja tähdet"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "hallitsemaan"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "yötä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "⟨on⟩ hänen hesedinsä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:52:04.634178270Z",
+  "model": "glm-5.3"
+}

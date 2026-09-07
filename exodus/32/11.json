@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 32:11",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Ja rukoili Moshe ⟨את⟩ Jahven, Elohiminsa, kasvoja, ja sanoi: Miksi, Jahve, vihasi palaisi kansaasi vastaan, jonka toit pois Mitsrajimin (Egypti) maasta suurella voimalla ja väkevällä kädellä?",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "Ja rukoili"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven, Elohiminsa, kasvoja"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kasvoja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohiminsa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Miksi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יחרה",
+      "gloss": "palaisi"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "vihasi"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "kansaasi vastaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "toit pois"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "voimalla"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suurella"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ja kädellä"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "väkevällä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:43:10.465905077Z",
+  "model": "glm-5.3"
+}

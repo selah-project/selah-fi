@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 146,
+  "translation": "Jahve varjelee ⟨את⟩ muukalaisia; isättömän ja lesken hän pystyttää, mutta jumalattorien tien hän vääntää.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "varjelee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muukalaisia"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "muukalaisia"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "isättömän"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "ja lesken"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "hän pystyttää"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "mutta tien"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jumalattorien"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "hän vääntää"
+    }
+  ],
+  "timestamp": "2026-09-07T02:55:13.129998775Z",
+  "model": "glm-5.3"
+}

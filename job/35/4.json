@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 35,
+  "translation": "Minä vastaan sinua sanoilla, sinun ystäväsi kanssa sinun kanssasi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "vastaan sinua"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "sanoilla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "ystäväsi"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "ystäväsi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kanssasi"
+    }
+  ],
+  "timestamp": "2026-09-07T03:47:40.210076851Z",
+  "model": "glm-5.3"
+}

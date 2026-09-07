@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 28:29",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Ja Aharon kantaa ⟨את⟩ Israelin poikien nimet tuomion hoshenissa (rintakoru) sydämensä päällä, minäkin hän menee pyhäkköön, muistoksi Jahven edessä jatkuvasti.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "Ja kantaa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nimet"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nimet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikien"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "בחשן",
+      "gloss": "hoshenissa"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "tuomion"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sydämensä"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "minäkin hän menee"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pyhäkköön"
+    },
+    {
+      "surface": "לזכרן",
+      "gloss": "muistoksi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "jatkuvasti"
+    }
+  ],
+  "timestamp": "2026-09-06T21:41:24.405231497Z",
+  "model": "glm-5.3"
+}

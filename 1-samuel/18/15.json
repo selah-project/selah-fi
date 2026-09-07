@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja Shaul näki, että hän oli sangen menestyvä, ja hän pelkäsi häntä.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "näki"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "että"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "menestyvä"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangen"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "pelkäsi"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "häntä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:12:34.737340494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 1:8",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Älä pelkää heidän kasvojensa tähden, sillä minä olen ⟨את⟩ sinun kanssasi pelastaakseni sinut, näin lausuu Jahve.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "pelkää"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "heidän kasvojensa tähden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sinun kanssasi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä olen"
+    },
+    {
+      "surface": "להצלך",
+      "gloss": "pelastaakseni sinut"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "näin lausuu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-07T00:23:05.142355420Z",
+  "model": "glm-5.3"
+}

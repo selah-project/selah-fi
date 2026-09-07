@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 7:8",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja hänen talonsa, jossa hän asui siellä, ⟨oli⟩ toinen piha, tämän eteisen sisäpuolella, samanlaisella työllä; ja talon hän teki Paron (farao) tyttärelle, jonka Shelomo (Salomo) oli ottanut, tätä eteistä vastaavaksi.",
+  "tokens": [
+    {
+      "surface": "וביתו",
+      "gloss": "Ja hänen talonsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jossa"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "hän asui"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "piha"
+    },
+    {
+      "surface": "האחרת",
+      "gloss": "toinen"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "talosta sisimpänä"
+    },
+    {
+      "surface": "לאולם",
+      "gloss": "eteiseen"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "saman työn"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ja talon"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hän teki"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "tyttärelle"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "hän otti"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "כאולם",
+      "gloss": "tämän eteisen kaltaiseksi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:35:45.827804634Z",
+  "model": "glm-5.3"
+}

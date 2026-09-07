@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja valmistuivat taivaat ja maa ja kaikki niiden joukko.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "valmistuivat"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaat"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ja maa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "niiden joukko"
+    }
+  ],
+  "timestamp": "2026-09-06T21:05:30.170227840Z",
+  "model": "glm-5.3"
+}

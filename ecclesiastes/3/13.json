@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja myös jokainen ihminen, joka syö ja juo ja näkee hyvää kaikessa vaivannäössään — ⟨se⟩ ⟨on⟩ Elohimin lahja.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ja myös"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokainen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihminen"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "syö"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "ja juo"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ja näkee"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvää"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaikessa"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "vaivannäössään"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "lahja"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨se on⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T04:05:51.964669899Z",
+  "model": "glm-5.3"
+}

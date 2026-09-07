@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 14:6",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja jokainen eläin, joka jakaa sorkan ja halkaisee sorkan halki, kahteen sorkkaan, ja märehtii — ⟨את⟩ sellaista eläintä te saatte syödä.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ja jokainen"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "eläin"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "joka jakaa"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "sorkan"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "ja halkaisee"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "halki"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kahteen"
+    },
+    {
+      "surface": "פרסות",
+      "gloss": "sorkkaan"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "märehtii"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "märeet"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "eläinten"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sellaista eläintä"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "te saatte syödä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:30:20.955520962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja jos hän mitätöi ne ⟨את⟩ kuulemisensa jälkeen, hän kantaa ⟨את⟩ hänen syyllisyytensä.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ja jos"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "mitätöidä"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "mitätöi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ne"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sen jälkeen"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hänen kuulemisensa"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ja hän kantaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen syyllisyytensä"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "hänen syyllisyytensä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:20:10.893410200Z",
+  "model": "glm-5.3"
+}

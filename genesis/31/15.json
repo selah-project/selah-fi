@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 31:15",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Eikö hän ole meidät laskutanut vierailleen? Sillä hän myi meidät, ja hän on myös kuluttanut ⟨את⟩ hopeamme.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Eikö"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "vierailleen"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "meidät laskutanut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "מכרנו",
+      "gloss": "myi meidät"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ja on kuluttanut"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "täysin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hopeamme"
+    },
+    {
+      "surface": "כספנו",
+      "gloss": "hopeamme"
+    }
+  ],
+  "timestamp": "2026-09-06T21:18:58.283365024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Sillä viisauden varjossa, hopean varjossa — ja tiedon ylitys: viisaus elättää sen omistajat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "varjossa"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "viisauden"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "varjossa"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "hopean"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "ja ylitys"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tiedon"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "viisaus"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "elättää"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "sen omistajat"
+    }
+  ],
+  "timestamp": "2026-09-07T04:37:38.403834329Z",
+  "model": "glm-5.3"
+}

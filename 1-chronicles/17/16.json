@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 17:16",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja kuningas David tuli ja istui Jahven eteen, ja hän sanoi: Kuka minä olen, Jahve Elohim, ja mikä ⟨on⟩ minun perheeni, että sinä toit minut tänne asti?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja istui"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kuka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä olen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ja mikä"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "minun perheeni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "הביאתני",
+      "gloss": "sinä toit minut"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "tänne"
+    }
+  ],
+  "timestamp": "2026-09-07T05:22:39.910294802Z",
+  "model": "glm-5.3"
+}

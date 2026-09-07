@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja pitojen taloon älä mene istumaan ⟨heidän kanssaan⟩ ⟨את⟩ syömään ja juomasta.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "Ja pitojen taloon"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "pitojen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "mene"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "istumaan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "syömään ja juomasta"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "syömään"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "ja juomasta"
+    }
+  ],
+  "timestamp": "2026-09-07T00:30:16.328202423Z",
+  "model": "glm-5.3"
+}

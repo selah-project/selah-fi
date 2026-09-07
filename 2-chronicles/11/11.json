@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja hän vahvisti ⟨את⟩ linnoitukset ja pani niihin päälliköt sekä varastot ruokaa ja öljyä ja viiniä",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "hän vahvisti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "linnoitukset"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "linnoitukset"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "pani"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "niihin"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "päälliköt"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "sekä varastot"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "ruokaa"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "ja öljyä"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ja viiniä"
+    }
+  ],
+  "timestamp": "2026-09-07T05:34:08.350020142Z",
+  "model": "glm-5.3"
+}

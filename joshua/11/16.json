@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 11:16",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja Jehoshua (Joosua) otti ⟨את⟩ kaiken tämän maan: vuoriston ja ⟨את⟩ koko Negevin ja ⟨את⟩ koko Goshenin maan ja ⟨את⟩ Shefelan ja ⟨את⟩ Araban ja ⟨את⟩ Israelin vuoriston ja sen alangon.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "otti"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken tämän maan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tämän maan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "vuoriston"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "koko Negevin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negevin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "koko Goshenin maan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "הגשן",
+      "gloss": "Goshenin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Shefelan"
+    },
+    {
+      "surface": "השפלה",
+      "gloss": "Shefelan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Araban"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Araban"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Israelin vuoriston"
+    },
+    {
+      "surface": "הר",
+      "gloss": "vuoriston"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ושפלתה",
+      "gloss": "ja sen alangon"
+    }
+  ],
+  "timestamp": "2026-09-07T06:34:20.216860065Z",
+  "model": "glm-5.3"
+}

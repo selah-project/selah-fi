@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja Natan meni kotiinsa. Ja Jahve löi ⟨את⟩ lapsen, jonka Urijan (Uurian) vaimo oli synnyttävä Davidille, ja hän sairastui kuolemaan.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ja meni"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kotiinsa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kotiinsa"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "Ja löi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lapsen"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "lapsen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "oli synnyttävä"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vaimo"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urijan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidille"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "sairastui kuolemaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:23:17.831748131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 12:23",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja Jahve kulkee ohitse lyödäkseen ⟨את⟩ Mitsrajimin, ja hän näkee ⟨את⟩ veren yläparrasta ja molemmista ovenpielistä, ja Jahve menee ohitse oven luota, eikä hän anna tuhoajanne tulla taloihinne lyömään.",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "ja kulkee ohitse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לנגף",
+      "gloss": "lyödäkseen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajimin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ja hän näkee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veren"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "veren"
+    },
+    {
+      "surface": "על",
+      "gloss": "yläparrasta"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "yläparrasta"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "molemmista"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "ovenpielistä"
+    },
+    {
+      "surface": "ופסח",
+      "gloss": "ja menee ohitse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "ohitse"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "oven luota"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "hän anna"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "tuhoajanne"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "tulla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "taloihinne"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "taloihinne"
+    },
+    {
+      "surface": "לנגף",
+      "gloss": "lyömään"
+    }
+  ],
+  "timestamp": "2026-09-06T21:33:18.671538051Z",
+  "model": "glm-5.3"
+}

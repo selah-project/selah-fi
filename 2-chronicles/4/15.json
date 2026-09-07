@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "⟨את⟩ meren, yhden, ja ⟨את⟩ härät, kaksitoista, sen alla.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meren"
+    },
+    {
+      "surface": "הים",
+      "gloss": "meren"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yhden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "härät"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "härät"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "toista"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sen alla"
+    }
+  ],
+  "timestamp": "2026-09-07T05:31:33.256486795Z",
+  "model": "glm-5.3"
+}

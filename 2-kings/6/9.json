@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 6:9",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja Elohimin mies lähetti ⟨sanan⟩ Israelin kuninkaalle sanoen: Varo kulkemasta tuosta paikasta, sillä siellä Aram on laskeutunut alas väijymään.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ja lähetti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaalle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "Varo"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "kulkemasta"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "paikasta"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tuosta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נחתים",
+      "gloss": "on laskeutunut alas"
+    }
+  ],
+  "timestamp": "2026-09-06T23:49:26.624033379Z",
+  "model": "glm-5.3"
+}

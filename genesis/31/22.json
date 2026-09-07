@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Ja kolmantena päivänä kerrottiin Lavanille, että Ja'akov oli paennut.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "kerrottiin"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "Lavanille"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "kolmantena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "oli paennut"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akov"
+    }
+  ],
+  "timestamp": "2026-09-06T21:18:14.149206177Z",
+  "model": "glm-5.3"
+}

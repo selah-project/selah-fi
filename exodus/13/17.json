@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 13:17",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja tapahtui, kun Paro ⟨farao⟩ oli lähettänyt ⟨את⟩ kansan, ettei Elohim johdattanut heitä Filistilaisten maan tietä, koska se oli lähellä; sillä Elohim sanoi: ettei kansa katuisi nähdessään sodan ja palaisi Mitsrajimiin ⟨Egyptiin⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "kun lähetti"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "johdattanut"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tietä"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistilaisten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "lähellä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se oli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "etttei"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "katuisi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "nähdessään"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "sodan"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ja palaisi"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrajimiin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:34:39.214153090Z",
+  "model": "glm-5.3"
+}

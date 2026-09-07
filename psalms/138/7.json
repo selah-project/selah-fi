@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 138,
+  "translation": "Jos kuljen ahdistuksen keskellä, sinä elvytät minut; vihollisteni vihan ylle sinä ojennat kätesi, ja oikea kätesi pelastaa minut.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "kuljen"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "keskellä"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ahdistuksen"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "elvytät minut"
+    },
+    {
+      "surface": "על",
+      "gloss": "ylle"
+    },
+    {
+      "surface": "אף",
+      "gloss": "vihan"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "vihollisteni"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "ojennat"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kätesi"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "ja pelastat minut"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "oikea kätesi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:54:25.765546234Z",
+  "model": "glm-5.3"
+}

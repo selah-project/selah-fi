@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 14:9",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja teit pahantekoa enemmän kuin kaikki, jotka olivat ennen sinua, ja kävit ja teit itsellesi muita jumalia ja valettuja kuvia ärsyttääksesi minua, ja ⟨את⟩ minut sinä heitit selkäsi taakse.",
+  "tokens": [
+    {
+      "surface": "ותרע",
+      "gloss": "ja teit pahantekoa"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "tekemään"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "enemmän kuin kaikki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "היו",
+      "gloss": "olivat"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ennen sinua"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "ja kävit"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "ja teit"
+    },
+    {
+      "surface": "לך",
+      "gloss": "itsellesi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jumalia"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "muita"
+    },
+    {
+      "surface": "ומסכות",
+      "gloss": "ja valettuja kuvia"
+    },
+    {
+      "surface": "להכעיסני",
+      "gloss": "ärsyttääksesi minua"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "ja ⟨את⟩ minut",
+      "marks": " minut (heittämisen kohde)"
+    },
+    {
+      "surface": "השלכת",
+      "gloss": "sinä heitit"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "taakse"
+    },
+    {
+      "surface": "גוך",
+      "gloss": "selkäsi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:40:55.384012862Z",
+  "model": "glm-5.3"
+}

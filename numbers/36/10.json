@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 36,
+  "translation": "Niin kuin Jahve käski ⟨את⟩ Moshe (Mooses), niin tekivät Tslofhadin tyttäret.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "käski"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "tekivät"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "tyttäret"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Tslofhadin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:22:21.378372738Z",
+  "model": "glm-5.3"
+}

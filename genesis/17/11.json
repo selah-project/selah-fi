@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja te ympärileikatkaa ⟨את⟩ lihan esinahkastanne, ja siitä tulee merkiksi Beritini, minun ja teidän välillänne.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "ja te ympärileikatkaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lihan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "lihan"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "esinahkastanne"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ja siitä tulee"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "merkiksi"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Beritini"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "minun ja"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "teidän välillänne"
+    }
+  ],
+  "timestamp": "2026-09-06T21:10:32.682957652Z",
+  "model": "glm-5.3"
+}

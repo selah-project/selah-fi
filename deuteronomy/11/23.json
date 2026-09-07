@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 11:23",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Silloin Jahve riistää ⟨את⟩ kaikki nämä kansat teidän edestänne, ja te riistätte omaksenne kansat, jotka ovat suurempia ja mahtavampia kuin te.",
+  "tokens": [
+    {
+      "surface": "והוריש",
+      "gloss": "Silloin riistää"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki nämä kansat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kansat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "teidän edestänne"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "ja te riistätte omaksenne"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kansat"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "suurempia"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "ja mahtavampia"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "kuin te"
+    }
+  ],
+  "timestamp": "2026-09-06T22:28:07.312527457Z",
+  "model": "glm-5.3"
+}

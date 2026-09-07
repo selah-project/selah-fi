@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 129,
+  "translation": "Eivätkä ohikulkijat sano: ”Jahven siunaus teille; siunasimme ⟨את⟩ teidät Jahven nimessä.”",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Eivätkä"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "sano"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "ohikulkijat"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "siunaus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "siunasimme"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät",
+      "marks": "objektipronomini: 'teidät'"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nimessä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-07T02:50:20.544438336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 44,
+  "translation": "Sillä en minä jouseen turvaa, eikä miekkani minua pelasta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "jouseen"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "turvaa"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "eikä miekkani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "minua pelasta"
+    }
+  ],
+  "timestamp": "2026-09-07T02:08:19.235743481Z",
+  "model": "glm-5.3"
+}

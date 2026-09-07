@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Nämä olivat Shemin (Seemin) pojat sukukuntainsa ja kielensä mukaan, maissaan ja kansojensa mukaan.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Nämä"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shemin"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sukukuntainsa mukaan"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "kielensä mukaan"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "maissaan"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "kansojensa mukaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:09.996205495Z",
+  "model": "glm-5.3"
+}

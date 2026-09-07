@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja paimenet tulivat ja ajoivat heitä pois, ja Moshe (Mooses) nousi ja pelasti heidät ja juotti ⟨את⟩ heidän laumansa.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ja tulivat"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "paimenet"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "ja ajoivat heitä pois"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ja nousi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "ja pelasti heidät"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "ja juotti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän laumansa"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "heidän laumansa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:28:42.636832855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja meni mies Lewin huoneesta, ja hän otti ⟨את⟩ Lewin tyttären.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ja meni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "huoneesta"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewin"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ja otti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lewin tyttären"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tyttären"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:29:16.263847434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 1:8",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Tämän Toran kirja älköön väistykö suustasi, vaan tutkistele sitä päivin ja öin, jotta pitäisit ja tekisit kaiken, mitä siihen on kirjoitettu; sillä silloin saat ⟨את⟩ tiesi menestymään, ja silloin toimit viisaasti.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "älköön"
+    },
+    {
+      "surface": "ימוש",
+      "gloss": "väistykö"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kirja"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Toran"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "מפיך",
+      "gloss": "suustasi"
+    },
+    {
+      "surface": "והגית",
+      "gloss": "vaan tutkistele"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sitä"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "päivin"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ja öin"
+    },
+    {
+      "surface": "למען",
+      "gloss": "jotta"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "pitäisit"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ja tekisit"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "kirjoitetun"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siihen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אז",
+      "gloss": "silloin"
+    },
+    {
+      "surface": "תצליח",
+      "gloss": "saat menestymään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiesi"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "tiesi"
+    },
+    {
+      "surface": "ואז",
+      "gloss": "ja silloin"
+    },
+    {
+      "surface": "תשכיל",
+      "gloss": "toimit viisaasti"
+    }
+  ],
+  "timestamp": "2026-09-06T22:41:04.808723139Z",
+  "model": "glm-5.3"
+}

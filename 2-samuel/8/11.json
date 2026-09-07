@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 8:11",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Myöskin ⟨את⟩ ne kuningas David pyhitti Jahvelle, samoin hopean ja kullan, jotka hän pyhitti kaikista kansoista, jotka hän kukisti.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Myöskin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ne (v. 10:n astiat)"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "pyhitti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "עם",
+      "gloss": "samoin"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "hopean"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "ja kullan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "hän pyhitti"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kaikista"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kansoista"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "hän kukisti"
+    }
+  ],
+  "timestamp": "2026-09-06T23:21:13.194821595Z",
+  "model": "glm-5.3"
+}

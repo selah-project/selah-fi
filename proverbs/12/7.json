@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 12:7",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Jumalatot kukistetaan, eikä heitä ⟨enää ole⟩; mutta oikeamielisten talo pysyy pystyssä.",
+  "tokens": [
+    {
+      "surface": "הפוך",
+      "gloss": "kukistetaan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jumalatot"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "eikä heitä ⟨enää ole⟩"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "mutta talo"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "oikeamielisten"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "pysyy pystyssä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:06:15.378372660Z",
+  "model": "glm-5.3"
+}

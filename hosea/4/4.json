@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Kuitenkaan älköön kukaan riidellykö älköönkä toista nuhutelko — ja sinun kansasi ⟨on⟩ kuin kohenin kanssa riitelevät.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kuitenkaan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kukaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älköön"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "riidellykö"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "älköönkä"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "nuhutelko"
+    },
+    {
+      "surface": "איש",
+      "gloss": "toista"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ja sinun kansasi"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "kuin riitelevät"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohenin"
+    }
+  ],
+  "timestamp": "2026-09-07T01:21:22.049761079Z",
+  "model": "glm-5.3"
+}

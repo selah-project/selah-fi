@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 13:16",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja heidän imeväisensä ruhjotaan heidän silmiensä edessä; heidän talons ryöstetään ja heidän vaimonsa makataan väkisin.",
+  "tokens": [
+    {
+      "surface": "ועלליהם",
+      "gloss": "Ja heidän imeväisensä"
+    },
+    {
+      "surface": "ירטשו",
+      "gloss": "ruhjotaan"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "heidän silmiensä edessä"
+    },
+    {
+      "surface": "ישסו",
+      "gloss": "ryöstetään"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "heidän talons"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "ja heidän vaimons"
+    },
+    {
+      "surface": "תשגלנה",
+      "gloss": "makataan väkisin"
+    }
+  ],
+  "timestamp": "2026-09-07T00:04:11.683773458Z",
+  "model": "glm-5.3"
+}

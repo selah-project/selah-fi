@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 4:25",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja he kantavat ⟨את⟩ Mishkanin (asumuksen) verhot ja ⟨את⟩ kokouksen teltan, sen peitteen ja tahash-nahan peitteen, joka on sen päällä ylhäällä, ja ⟨את⟩ kulkuverhon kokouksen teltan ovella.",
+  "tokens": [
+    {
+      "surface": "ונשאו",
+      "gloss": "ja he kantavat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "verhot"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "verhot"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanin (asumuksen)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "teltan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kokouksen"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "sen peitteen"
+    },
+    {
+      "surface": "ומכסה",
+      "gloss": "ja peitteen"
+    },
+    {
+      "surface": "התחש",
+      "gloss": "tahash-nahan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "on sen päällä"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ylhäällä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kulkuverhon"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "kulkuverhon"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "oven"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kokouksen"
+    }
+  ],
+  "timestamp": "2026-09-06T22:04:01.502960394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 11:27",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja tämä ⟨on⟩ asia, josta hän kohotti käden kuningasta vastaan: Shelomo rakensi ⟨את⟩ Millon ja sulki ⟨את⟩ raon Daavidin, hänen isänsä, kaupungissa.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Ja tämä"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "josta"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "hän kohotti"
+    },
+    {
+      "surface": "יד",
+      "gloss": "käden"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "kuningasta vastaan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "rakensi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Millon"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Millon"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "sulki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raon"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "raon"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kaupungissa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daavidin"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hänen isänsä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:40:00.839530786Z",
+  "model": "glm-5.3"
+}

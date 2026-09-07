@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 96,
+  "translation": "Sanokaa kansojen keskellä: Jahve ⟨on⟩ kuningas; myös maailma ⟨on⟩ perustettu, ei se horju; hän tuomitsee kansat suoruudessa.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Sanokaa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kansojen keskellä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨on⟩ kuningas"
+    },
+    {
+      "surface": "אף",
+      "gloss": "myös"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "⟨on⟩ perustettu"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "maailma"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ei lainkaan"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "horju"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "hän tuomitsee"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "kansat"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "suoruudessa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:32:46.893833519Z",
+  "model": "glm-5.3"
+}

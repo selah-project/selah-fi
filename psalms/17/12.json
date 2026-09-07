@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Hänen muotonsa on kuin leijonan, joka himoitsee raadeltavaksi, ja kuin nuori leijona, joka istuu piilopaikoissa.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "hänen muotonsa"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "kuin leijona"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "himoitsee"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "raadeltavaksi"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "ja kuin nuori leijona"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "istuu"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "piilopaikoissa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:54:55.545482316Z",
+  "model": "glm-5.3"
+}

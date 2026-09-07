@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Äläkä solmi heidän kanssaan avioliittoa: tyttäreäsi älä anna heidän pojalleen, äläkä ota heidän tytärtään pojallesi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "äläkä"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "solmi avioliittoa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "heidän kanssaan"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "tyttäresi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "anna"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "heidän pojalleen"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "ja heidän tyttärensä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ota"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "pojallesi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:26:31.896771876Z",
+  "model": "glm-5.3"
+}

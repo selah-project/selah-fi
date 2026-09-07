@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja nyt, nouse varhain aamulla, sinä ja herrasi palvelijat, jotka ovat tulleet ⟨את⟩ sinun kanssasi, ja nouskaa varhain aamulla, ja kun teille valkenee, menkää.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ja nyt"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "nouse varhain"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamulla"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "ja palvelijat"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "herrasi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "באו",
+      "gloss": "tulivat"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sinun kanssasi",
+      "marks": "palvelijat, jotka ovat tulleet Herran palvelijoiden kanssa"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "ja nouskaa varhain"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamulla"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ja valkenee"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ja menkää"
+    }
+  ],
+  "timestamp": "2026-09-06T23:16:27.629266755Z",
+  "model": "glm-5.3"
+}

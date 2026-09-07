@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja nämä ovat Jitshakin (Iisak), Avrahamin (Aabraham) pojan, polvet: Avraham synnytti ⟨את⟩ Jitshakin.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ja nämä"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "polvet"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshakin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamin"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitshakin"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshakin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:14:38.449197424Z",
+  "model": "glm-5.3"
+}

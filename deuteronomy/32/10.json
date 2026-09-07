@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 32:10",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Hän löysi hänet erämaamaasta, mitättömästä, ulvovasta autiomaasta; hän kiersi hänet ympärilleen, hän antoi hänen ymmärtää, hän varjeli häntä kuin silmänsä mustuaista.",
+  "tokens": [
+    {
+      "surface": "ימצאהו",
+      "gloss": "Hän löysi hänet"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "erämaa"
+    },
+    {
+      "surface": "ובתהו",
+      "gloss": "ja mitättömässä"
+    },
+    {
+      "surface": "ילל",
+      "gloss": "ulvova"
+    },
+    {
+      "surface": "ישמן",
+      "gloss": "autiomaassa"
+    },
+    {
+      "surface": "יסבבנהו",
+      "gloss": "hän kiersi hänet ympärilleen"
+    },
+    {
+      "surface": "יבוננהו",
+      "gloss": "hän antoi hänen ymmärtää"
+    },
+    {
+      "surface": "יצרנהו",
+      "gloss": "hän varjeli häntä"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "kuin mustuainen"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "hänen silmänsä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:37:33.492372085Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Ja Israelin lapset riisuivat ⟨את⟩ koristeensa Horebin vuorelta.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "Ja riisuivat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lapset"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koristeensa"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "koristeensa"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "vuorelta"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Horebin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:43:01.770816556Z",
+  "model": "glm-5.3"
+}

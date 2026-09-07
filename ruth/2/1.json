@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ruth 2:1",
+  "book": "ruth",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Noomilla ⟨oli⟩ hänen miehensä puolelta tuttava, voimamies, varakas mies, Elimelekin suvusta, ja hänen nimensä ⟨oli⟩ Boas.",
+  "tokens": [
+    {
+      "surface": "ולנעמי",
+      "gloss": "Ja Noomilla"
+    },
+    {
+      "surface": "מידע",
+      "gloss": "tuttava"
+    },
+    {
+      "surface": "לאישה",
+      "gloss": "hänen miehensä puolelta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "voimamies"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "varakas"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "suvusta"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimelekin"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ja hänen nimensä"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boas"
+    }
+  ],
+  "timestamp": "2026-09-07T03:59:15.903036598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 64,
+  "translation": "Kätke minut pahojen salaisesta neuvostosta, vääryyden tekijöiden mellakasta.",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "Kätke minut"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "salaisesta neuvostosta"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "pahojen"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "mellakasta"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "tekijöiden"
+    },
+    {
+      "surface": "און",
+      "gloss": "vääryyden"
+    }
+  ],
+  "timestamp": "2026-09-07T02:17:23.545172877Z",
+  "model": "glm-5.3"
+}

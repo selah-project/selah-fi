@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 57,
+  "translation": "Teitäsi paljoudessa väsyit, etkä sanonut: ”Toivo on mennyt”; löysit kätesi elämän, sentähden et sairastunut.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "paljoudessa"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "teitäsi"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "väsyit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "et"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "sanonut"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "”Toivo on mennyt”"
+    },
+    {
+      "surface": "חית",
+      "gloss": "elämän"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kätesi"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "löysit"
+    },
+    {
+      "surface": "על",
+      "gloss": "sentähden"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "et"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "sairastunut"
+    }
+  ],
+  "timestamp": "2026-09-07T00:19:14.776908815Z",
+  "model": "glm-5.3"
+}

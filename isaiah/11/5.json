@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja oikeus ⟨on⟩ hänen lanteidensa vyö, ja uskollisuus hänen kupeidensa vyö.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ja hän on"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "oikeus"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "vyö"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "hänen lanteidensa"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "ja uskollisuus"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "vyö"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "hänen kupeidensa"
+    }
+  ],
+  "timestamp": "2026-09-07T00:04:29.505542344Z",
+  "model": "glm-5.3"
+}

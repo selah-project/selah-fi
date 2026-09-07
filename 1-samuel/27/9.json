@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 27:9",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ja David löi ⟨את⟩ maata, eikä hän jättänyt eloon miestä eikä naista, ja hän otti lampaita ja karjaa ja aaseja ja kameleita ja vaatteita, ja hän palasi ja tuli Akishin (Aakis) luo.",
+  "tokens": [
+    {
+      "surface": "והכה",
+      "gloss": "löi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David (Daavid)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maata"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "jättänyt eloon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miestä"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "eikä naista"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "otti"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "lampaita"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "karjaa"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "aaseja"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "kameleita"
+    },
+    {
+      "surface": "ובגדים",
+      "gloss": "vaatteita"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "palasi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akishin (Aakis)"
+    }
+  ],
+  "timestamp": "2026-09-06T23:16:58.097030529Z",
+  "model": "glm-5.3"
+}

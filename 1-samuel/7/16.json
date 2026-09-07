@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 7:16",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja hän kulki vuodesta vuoteen ja kiersi Beet-El (Betel) ja Gilgalin ja Mitspan, ja hän tuomitsi ⟨את⟩ Israelin ⟨את⟩ kaikissa näissä paikoissa.",
+  "tokens": [
+    {
+      "surface": "והלך",
+      "gloss": "Ja kulki"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "vuodesta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuoteen"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "vuodessa"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "ja kiersi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "והגלגל",
+      "gloss": "ja Gilgalin"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "ja Mitspan"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "ja tuomitsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikissa näissä paikoissa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikissa"
+    },
+    {
+      "surface": "המקומות",
+      "gloss": "paikoissa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "näissä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:07:06.052134108Z",
+  "model": "glm-5.3"
+}

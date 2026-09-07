@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 7:7",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Muista, että minun elämäni ⟨on⟩ tuulenhenkäys; ei minun silmäni käänny näkemään hyvää.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Muista"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "tuulenhenkäys"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "minun elämäni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "käänny takaisin"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "minun silmäni"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "näkemään"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvää"
+    }
+  ],
+  "timestamp": "2026-09-07T03:26:20.350250689Z",
+  "model": "glm-5.3"
+}

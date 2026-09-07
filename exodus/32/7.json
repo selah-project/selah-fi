@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Ja Jahve puhui Moshelle (Mooses): ”Mene, laskeudu, sillä kansasi, jonka toit ylös maasta Mitsrajimista (Egypti), on turmellut itsensä.”",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ja puhui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshelle (Mooses)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Mene"
+    },
+    {
+      "surface": "רד",
+      "gloss": "laskeudu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "on turmellut"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kansasi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "toit ylös"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimista (Egypti)"
+    }
+  ],
+  "timestamp": "2026-09-06T21:43:12.623069606Z",
+  "model": "glm-5.3"
+}

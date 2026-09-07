@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Älä kersku huomisesta päivästä, sillä et tiedä, mitä päivä synnyttää.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "kersku"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "huomisesta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "et"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "tiedä"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "synnyttää"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:19:41.312270890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Myöskin, kun kävelen kuoleman varjon laaksossa, en pelkää pahaa, sillä sinä olet kanssani; sauvasi ja tukikeppisi — ne minut lohduttavat.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "kävelen"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "laaksossa"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "kuoleman varjon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "pelkää"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pahaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "olet kanssani"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "sauvasi"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "ja tukikeppisi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "minut lohduttavat"
+    }
+  ],
+  "timestamp": "2026-09-07T01:59:20.813427853Z",
+  "model": "glm-5.3"
+}

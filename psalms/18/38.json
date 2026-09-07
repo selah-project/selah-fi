@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Minä ajan takaa vihollisiani ja tavoitan heidät, enkä käänny ennen kuin olen kuluttanut heidät loppuun.",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "ajan takaa"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "vihollisiani"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "ja tavoitan heidät"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "käänny"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ennen kuin"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "olen kuluttanut heidät loppuun"
+    }
+  ],
+  "timestamp": "2026-09-07T01:57:27.481548766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 21:23",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Vain verhon luo hän ei mene, eikä alttarille hän lähesty, sillä vika on hänessä; hän ei pilaa ⟨את⟩ pyhäkköjäni, sillä minä, Jahve, pyhitän ne.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "vain"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…n luo"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "verhon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "mene"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "eikä …lle"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarille"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "lähesty"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מום",
+      "gloss": "vika"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hänessä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "pilaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pyhäkköjäni"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "pyhäkköjäni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "pyhitän ne"
+    }
+  ],
+  "timestamp": "2026-09-06T21:57:17.639112547Z",
+  "model": "glm-5.3"
+}

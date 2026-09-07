@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "ja sinä teroitat niitä lapsillesi ja puhut niistä, kun istut talossasi ja kun kuljet tietä ja kun maat ja kun nouseset.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "ja sinä teroitat"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "lapsillesi"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ja puhut"
+    },
+    {
+      "surface": "בם",
+      "gloss": "niistä"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "kun istut"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "talossasi"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "ja kun kuljet"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tietä"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "ja kun maat"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "ja kun nouseset"
+    }
+  ],
+  "timestamp": "2026-09-06T22:24:13.359563266Z",
+  "model": "glm-5.3"
+}

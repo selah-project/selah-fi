@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 19:7",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja Moshe (Mooses) tuli ja kutsui kansan vanhimmat ja pani heidän eteensä ⟨את⟩ kaikki nämä sanat, jotka Jahve hänelle käski.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ja tuli"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ja kutsui"
+    },
+    {
+      "surface": "לזקני",
+      "gloss": "vanhimmat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ja pani"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "heidän eteensä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki nämä sanat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "hänelle käski"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-06T21:35:46.709219289Z",
+  "model": "glm-5.3"
+}

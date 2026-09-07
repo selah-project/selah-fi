@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja haltija vei jatkuvasti pois ⟨את⟩ heidän herkkuruokansa ja heidän juomansa viinin ja antoi heille vihanneksia.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja tapahtui"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "haltija"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "vei pois"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän herkkuruokansa"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "heidän herkkuruokansa"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ja viinin"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "heidän juomansa"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ja antoi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "vihanneksia"
+    }
+  ],
+  "timestamp": "2026-09-07T06:00:09.252037647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja David (Daavid) laski ⟨את⟩ kansan, joka ⟨את⟩ hänen kanssaan oli, ja asetti heidän päälleen tuhansien päälliköt ja satojen päälliköt.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Ja laski"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänen kanssaan"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ja asetti"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "heidän päälleen"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "päälliköt"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tuhansien"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ja päälliköt"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "satojen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:27:53.574748022Z",
+  "model": "glm-5.3"
+}

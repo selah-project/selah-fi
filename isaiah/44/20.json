@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 44,
+  "translation": "Tuhkaa hän ruokkii, harhautettu sydän on hänet kääntänyt, eikä hän voi pelastaa ⟨את⟩ nefeshönsä (elämäänsä), eikä hän osaa sanoa: eikö valhe ole oikeassa kädessäni?",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "hän ruokkii"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "tuhkaa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sydän"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "harhautettu"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "on hänet kääntänyt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "hän voi pelastaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefeshönsä (elämäänsä)"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefeshönsä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "hän osaa sanoa"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "eikö"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "valhe"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "oikeassa kädessäni"
+    }
+  ],
+  "timestamp": "2026-09-07T00:17:07.591527454Z",
+  "model": "glm-5.3"
+}

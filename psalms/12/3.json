@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Turhuutta he puhuvat, kukin ⟨את⟩ lähimmäisensä kohden; silein huulin, sydämellä ja sydämellä, he puhuvat.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Turhuutta"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "he puhuvat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kukin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lähimmäisensä"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "lähimmäisensä"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "huulin"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "silein"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "sydämellä"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ja sydämellä"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "he puhuvat"
+    }
+  ],
+  "timestamp": "2026-09-07T01:54:54.814291071Z",
+  "model": "glm-5.3"
+}

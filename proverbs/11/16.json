@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Armonainen nainen pitelee kunniaa, ja väkivaltaiset pitelevät rikkautta.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "nainen"
+    },
+    {
+      "surface": "חן",
+      "gloss": "aronlainen"
+    },
+    {
+      "surface": "תתמך",
+      "gloss": "pitelee"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kunniaa"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "ja väkivaltaiset"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "pitelevät"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "rikkautta"
+    }
+  ],
+  "timestamp": "2026-09-07T03:07:40.393074413Z",
+  "model": "glm-5.3"
+}

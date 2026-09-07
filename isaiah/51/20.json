@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 51:20",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 51,
+  "translation": "Poikasi ovat vaipuneet, he makaavat jokaisen kujan päässä kuin te'o (antilooppi) verkossa, täynnä Jahven vihaa, sinun Elohimesi nuhetta.",
+  "tokens": [
+    {
+      "surface": "בניך",
+      "gloss": "Poikasi"
+    },
+    {
+      "surface": "עלפו",
+      "gloss": "ovat vaipuneet"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "makaavat"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "päässä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokaisen"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "kujan"
+    },
+    {
+      "surface": "כתוא",
+      "gloss": "kuin te'o"
+    },
+    {
+      "surface": "מכמר",
+      "gloss": "verkossa"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "täynnä"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "vihaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "nuhetta"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sinun Elohimesi"
+    }
+  ],
+  "timestamp": "2026-09-07T00:19:02.388954084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Äitisi sisaren alastomuutta älä paljasta, sillä hän ⟨on⟩ äitisi lihaa.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "alastomuutta"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "sisaren"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "äitisi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "paljasta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "lihaa"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "äitisi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    }
+  ],
+  "timestamp": "2026-09-07T04:13:38.405068677Z",
+  "model": "glm-5.3"
+}

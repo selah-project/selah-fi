@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja hän meni sieltä Karmelin vuorelle, ja sieltä hän palasi Shomroniin (Samaria).",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ja hän meni"
+    },
+    {
+      "surface": "משם",
+      "gloss": "sieltä"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luokse"
+    },
+    {
+      "surface": "הר",
+      "gloss": "vuorelle"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmelin"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "ja sieltä"
+    },
+    {
+      "surface": "שב",
+      "gloss": "hän palasi"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomroniin (Samaria)"
+    }
+  ],
+  "timestamp": "2026-09-06T23:45:46.361953279Z",
+  "model": "glm-5.3"
+}

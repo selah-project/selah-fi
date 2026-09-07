@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 37:2",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Ja hän lähetti ⟨את⟩ Eljakimin, joka oli huoneen päällä, ja ⟨את⟩ Shebnan (Sebna), kirjurin, ja ⟨את⟩ kohenien (pappien) vanhimmat, säkkeihin verhoutuneina, Yesha'jahun (Jesaja), Amotsin pojan, navin (profeetan), luo.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ja hän lähetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eljakimin"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Eljakimin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Shebnan"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "Shebnan (Sebna)"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "kirjurin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "vanhimmat"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vanhimmat"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohenien (pappien)"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "verhoutuneina"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "säkkeihin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yesha'jahun (Jesaja)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amotsin"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "navin (profeetan)"
+    }
+  ],
+  "timestamp": "2026-09-07T00:13:42.048593820Z",
+  "model": "glm-5.3"
+}

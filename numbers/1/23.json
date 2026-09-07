@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 1:23",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Heidän laskettunsa sukukunnalle Shimonin ⟨oli⟩ yhdeksän ja viisikymmentä tuhatta ja kolmesataa.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "heidän laskettunsa"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "sukukunnalle"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimonin"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "yhdeksän"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ja viisikymmentä"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhatta"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ja kolme"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sataa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:02:14.140305057Z",
+  "model": "glm-5.3"
+}

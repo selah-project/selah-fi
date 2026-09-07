@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 20:15",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Kirottu olkoon se mies, joka julisti ⟨את⟩ isälleni ilosanoman sanoen: sinulle on syntynyt poika, miespoika — ilahduttaen häntä suurella ilolla.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Kirottu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "se mies"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "julisti ilosanoman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isälleni"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "isälleni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "on syntynyt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "miespoika"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "iloa täynnä"
+    },
+    {
+      "surface": "שמחהו",
+      "gloss": "ilahduttaen häntä suuresti"
+    }
+  ],
+  "timestamp": "2026-09-07T00:31:51.944624365Z",
+  "model": "glm-5.3"
+}

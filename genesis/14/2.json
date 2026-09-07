@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 14:2",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Nämä tekivät sotaa ⟨את⟩ Beraa, Sodomin kuningasta, ja ⟨את⟩ Birshaa, Amorran kuningasta, vastaan — Shinavia, Adman kuningasta, ja Shemeveriä, Tsevoimin kuningasta, ja Belan kuningasta, joka ⟨on⟩ Tsoar",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "tekivät"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "sotaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beraa"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "Beraa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodomin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "Birshaa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorran"
+    },
+    {
+      "surface": "שנאב",
+      "gloss": "Shinavia"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "Adman"
+    },
+    {
+      "surface": "ושמאבר",
+      "gloss": "ja Shemeveriä"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "צביים",
+      "gloss": "Tsevoimin"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ja kuningasta"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Belan"
+    },
+    {
+      "surface": "היא",
+      "gloss": "joka ⟨on⟩"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoar"
+    }
+  ],
+  "timestamp": "2026-09-07T04:11:50.642259351Z",
+  "model": "glm-5.3"
+}

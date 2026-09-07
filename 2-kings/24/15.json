@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 24:15",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja hän pakkosiirsi ⟨את⟩ Jehojakhinin Babyloniin, ja ⟨את⟩ kuninkaan äidin, ja ⟨את⟩ kuninkaan vaimot, ja ⟨את⟩ hänen eunukkansa, ja ⟨את⟩ maan mahtimiehet — nämä hän vei pakkosiirtoon Jerushalajimista Babyloniin.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "ja hän pakkosiirsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehojakhinin"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Jehojakhinin"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babyloniin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kuninkaan äidin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "äidin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kuninkaan vaimot"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "vaimot"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "eunukkansa"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "eunukkansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "maan mahtimiehet"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "mahtimiehet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "הוליך",
+      "gloss": "hän vei"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "pakkosiirtoon"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Jerushalajimista"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babyloniin"
+    }
+  ],
+  "timestamp": "2026-09-07T00:00:37.700794312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 12:8",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Älkää tehköön kaikkea niin kuin me tässä tänään teemme, kukin mikä tahansa on oikein hänen omien silmiensä mukaan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "teköön"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kaikkea niin kuin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "me"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "teemme"
+    },
+    {
+      "surface": "פה",
+      "gloss": "täällä"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tänään"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kukin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mikä tahansa"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "oikein"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "hänen omien silmiensä mukaan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:17:49.111390663Z",
+  "model": "glm-5.3"
+}

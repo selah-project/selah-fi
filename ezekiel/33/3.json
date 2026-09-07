@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 33:3",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "ja hän näkee ⟨את⟩ miekan tulevan maan päälle ja puhaltaa shofarilla ja varoittaa ⟨את⟩ kansaa,",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ja hän näkee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miekan"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "miekan"
+    },
+    {
+      "surface": "באה",
+      "gloss": "tulevan"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "ותקע",
+      "gloss": "ja puhaltaa"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "shofarilla"
+    },
+    {
+      "surface": "והזהיר",
+      "gloss": "ja varoittaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansaa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:09:33.619153076Z",
+  "model": "glm-5.3"
+}

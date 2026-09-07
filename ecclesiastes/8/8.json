@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ei ole ihmisellä valtaa henkeen, pidättääkseen ⟨את⟩ henkeä, eikä valtaa kuoleman päivänä, eikä vapautusta sodassa, eikä jumalattomuus pelasta ⟨את⟩ omistajansa.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmisellä"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "valtaa"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "henkeen"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "pidättääkseen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "henkeä"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "henkeä"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "valtaa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "המות",
+      "gloss": "kuoleman"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "vapautusta"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "sodassa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "pelasta"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "jumalattomuus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omistajansa"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "omistajansa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:38:57.592959474Z",
+  "model": "glm-5.3"
+}

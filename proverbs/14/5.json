@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 14:5",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Uskollinen todistaja ei valehtele, mutta valheen todistaja puhalsee valheita.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "todistaja"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "Uskollinen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יכזב",
+      "gloss": "valehtele"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "mutta... puhalsee"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "valheita"
+    },
+    {
+      "surface": "עד",
+      "gloss": "todistaja"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "valheen"
+    }
+  ],
+  "timestamp": "2026-09-07T03:08:04.749147429Z",
+  "model": "glm-5.3"
+}

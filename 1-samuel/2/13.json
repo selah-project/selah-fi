@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 2:13",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja pappien tapa ⟨את⟩ kansan kanssa ⟨oli⟩ tämä: kun jokainen mies teurasti uhrin, tuli papin nuorukainen lihan kiehussaessa, ja haarakka, kolme hammasta, kädessään.",
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "Ja tapa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "pappien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokainen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "teurasti"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "uhrin"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "נער",
+      "gloss": "nuorukainen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "papin"
+    },
+    {
+      "surface": "כבשל",
+      "gloss": "kiehussaessa"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "lihan"
+    },
+    {
+      "surface": "והמזלג",
+      "gloss": "ja haarakka"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "hammast a"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "kädessään"
+    }
+  ],
+  "timestamp": "2026-09-06T23:05:16.451387435Z",
+  "model": "glm-5.3"
+}

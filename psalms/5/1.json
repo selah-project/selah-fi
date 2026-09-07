@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Kuoroenjohtajalle, nehiloth-soittimille; psalmi, Davidin ⟨Daavid⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kuoroenjohtajalle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "liittyen"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "nehiloth-soittimille"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalmi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidin ⟨Daavid⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T01:52:17.994997845Z",
+  "model": "glm-5.3"
+}

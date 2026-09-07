@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 33:4",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Ja teidän saaliinne kootaan kuin heinätoukan kokouksena; sirkojen ryntäyksen tavoin sitä kohti rynnätään.",
+  "tokens": [
+    {
+      "surface": "ואסף",
+      "gloss": "ja kootaan"
+    },
+    {
+      "surface": "שללכם",
+      "gloss": "teidän saaliinne"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "kokouksena"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "heinätoukan"
+    },
+    {
+      "surface": "כמשק",
+      "gloss": "kuin ryntäyksen"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "sirkkojen"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "rynnätään"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sitä kohti"
+    }
+  ],
+  "timestamp": "2026-09-07T00:11:03.044350431Z",
+  "model": "glm-5.3"
+}

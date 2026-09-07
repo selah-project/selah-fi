@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 4:23",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "tai kun hänen syntinsä, jossa hän syntiä teki, tehdään hänelle tiettäväksi, hän tuo ⟨את⟩ uhrinsa: vuohien pukki, koiras, virheetön.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "tehdään tiettäväksi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "hänen syntinsä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jossa"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "hän syntiä teki"
+    },
+    {
+      "surface": "בה",
+      "gloss": "siinä"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "hän tuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uhrinsa"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "uhrinsa"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "pukki"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "vuohien"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "koiras"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "virheetön"
+    }
+  ],
+  "timestamp": "2026-09-06T21:48:35.981148507Z",
+  "model": "glm-5.3"
+}

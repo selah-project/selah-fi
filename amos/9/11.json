@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 9:11",
+  "book": "amos",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Sinä päivänä minä pystytän ⟨את⟩ Daavidin (Daavid) kukenneen majan, ja muuraan ⟨את⟩ sen aukot, ja sen rauniot minä pystytän, ja rakennan sen niinkuin muinaisina päivinä.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "Sinä"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "pystytän"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daavidin kukenneen majan"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "majan"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daavidin"
+    },
+    {
+      "surface": "הנפלת",
+      "gloss": "kukenneen"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "ja muuraan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen aukot"
+    },
+    {
+      "surface": "פרציהן",
+      "gloss": "aukot"
+    },
+    {
+      "surface": "והרסתיו",
+      "gloss": "ja sen rauniot"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "pystytän"
+    },
+    {
+      "surface": "ובניתיה",
+      "gloss": "ja rakennan sen"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "niinkuin päivinä"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "muinaisina"
+    }
+  ],
+  "timestamp": "2026-09-07T01:30:00.993574702Z",
+  "model": "glm-5.3"
+}

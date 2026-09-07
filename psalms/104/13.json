@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 104,
+  "translation": "Hän kastelee vuoret yläkammioistaan; sinun teostesi hedelmästä maa ⟨on⟩ ravittu.",
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "kastelee"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "vuoret"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "yläkammioistaan"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "hedelmästä"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "teostesi"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ravittu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:36:56.187690612Z",
+  "model": "glm-5.3"
+}

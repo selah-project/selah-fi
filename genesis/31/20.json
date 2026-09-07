@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Ja Ja'akov varasti ⟨את⟩ Lavanin, aramilaisen, sydämen siinä, ettei hän ilmoittanut hänelle, että hän oli pakenemassa.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "Ja ... varasti"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sydämen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sydämen"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavanin"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "aramilaisen"
+    },
+    {
+      "surface": "על",
+      "gloss": "siinä"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ettei"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ilmoittanut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "oli pakenemassa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    }
+  ],
+  "timestamp": "2026-09-06T21:18:11.876752698Z",
+  "model": "glm-5.3"
+}

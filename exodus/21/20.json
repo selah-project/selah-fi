@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja jos mies lyö ⟨את⟩ orjansa tai ⟨את⟩ orjattarensa kepillä ja hän kuolee hänen kätensä alla, kostettakoon koston.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ja jos"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "lyö"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orjansa"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "orjansa"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orjattarensa"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "orjattarensa"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "kepillä"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ja kuolee"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hänen kätensä"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "kostettakoon"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "koston"
+    }
+  ],
+  "timestamp": "2026-09-06T21:38:15.745308487Z",
+  "model": "glm-5.3"
+}

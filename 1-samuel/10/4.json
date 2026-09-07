@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja he kysyvät sinulta terveyttä ja antavat sinulle kaksi leipää, ja sinä otat heidän kädestään.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "Ja he kysyvät"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulta"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "terveyttä"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ja antavat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ja sinä otat"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "heidän kädestään"
+    }
+  ],
+  "timestamp": "2026-09-06T23:08:50.224100695Z",
+  "model": "glm-5.3"
+}

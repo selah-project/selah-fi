@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "ja sanoi: ”Kun te autatte heprealaisnaisia synnyttämään ja näette heidät synnytyskivillä — jos ⟨se on⟩ poika, tappakaa ⟨את⟩ hänet, mutta jos tytär, hän eläköön.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "synnytettäessä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heprealaisnaiset"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "heprealaisnaiset"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "ja näette"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kivillä"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se on"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "tappakaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ja jos"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tytär"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hän on"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "ja elää"
+    }
+  ],
+  "timestamp": "2026-09-06T21:28:34.941340370Z",
+  "model": "glm-5.3"
+}

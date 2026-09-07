@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Tiedän, ettei heille ole mitään hyvää paitsi iloita ja tehdä hyvää elämänsä aikana.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "tiedän"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvää"
+    },
+    {
+      "surface": "בם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vaan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "paitsi"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "iloita"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "ja tehdä"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvää"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "elämänsä aikana"
+    }
+  ],
+  "timestamp": "2026-09-07T04:36:13.926332643Z",
+  "model": "glm-5.3"
+}

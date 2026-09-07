@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 14:21",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Lähimmäistään halveksiva tekee syntiä, mutta köyhiä armahtava — onnea hänelle.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "halveksiva"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "lähimmäistään"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "tekee syntiä"
+    },
+    {
+      "surface": "ומחונן",
+      "gloss": "mutta armahtava"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "köyhiä"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "onnea hänelle"
+    }
+  ],
+  "timestamp": "2026-09-07T03:08:18.982491497Z",
+  "model": "glm-5.3"
+}

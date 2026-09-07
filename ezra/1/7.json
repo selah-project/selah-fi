@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 1:7",
+  "book": "ezra",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja kuningas Koresh (Kyyros) toi ulos ⟨את⟩ Jahven huoneen astiat, jotka Nevukhadnettsar (Nebukadnessar) oli vienyt ulos Jerushalajimista, ja pani ne oman jumalansa huoneeseen.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Ja kuningas"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Koresh"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "toi ulos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven huoneen astiat"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "astiat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "oli vienyt ulos"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukhadnettsar"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Jerushalajimista"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "ja pani ne"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "huoneeseen"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "oman jumalansa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:55:14.999035268Z",
+  "model": "glm-5.3"
+}

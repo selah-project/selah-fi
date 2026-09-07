@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 89:48",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 89,
+  "translation": "Muista, että lyhyt on elämäni; miksi olet luonut kaikki ihmislapset turhuuteen?",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "muista"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kuinka"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "lyhyt on elämäni"
+    },
+    {
+      "surface": "על",
+      "gloss": "miksi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mihin"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "turhuuteen"
+    },
+    {
+      "surface": "בראת",
+      "gloss": "olet luonut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lapset"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmisten"
+    }
+  ],
+  "timestamp": "2026-09-07T04:33:25.713013086Z",
+  "model": "glm-5.3"
+}

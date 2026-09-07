@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja hän riisuu ⟨את⟩ vaatteensa ja pukee toiset vaatteet, ja hän vie ⟨את⟩ tuhkan ulos leiristä puhtaaseen paikkaan.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "Ja hän riisuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaatteensa"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "vaatteensa"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "ja pukee"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "vaatteet"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "toiset"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "ja hän vie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuhkan"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "tuhkan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulos"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ulos"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "leiristä"
+    },
+    {
+      "surface": "אל",
+      "gloss": "paikkaan"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "paikkaan"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "puhtaaseen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:49:53.462435893Z",
+  "model": "glm-5.3"
+}

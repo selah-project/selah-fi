@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ei hän palaa enää taloonsa, eikä hänen paikkansa tunnista häntä enää.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ei"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "hän palaa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enää"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "taloonsa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "tunnistaa hänet"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enää"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "hänen paikkansa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:25:23.042709177Z",
+  "model": "glm-5.3"
+}

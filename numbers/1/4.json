@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja ⟨את⟩ teidän kanssanne olkoon mies mies sukukunnittain, mies, pää isiensä kotienSerialize: —",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "Ja ⟨את⟩ teidän kanssanne"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olkoon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "sukukunnittain"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pää"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kotien"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "isiensä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän itse"
+    }
+  ],
+  "timestamp": "2026-09-06T22:02:25.072656344Z",
+  "model": "glm-5.3"
+}

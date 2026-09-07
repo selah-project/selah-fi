@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Älkää menkö muiden jumalien perässä, kansojen jumalia, jotka ovat ympärillänne.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Älkää"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "menkö"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "perässä"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jumalien"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "muiden"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "jumalia"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "kansojen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "ympärillänne"
+    }
+  ],
+  "timestamp": "2026-09-06T22:24:44.240055785Z",
+  "model": "glm-5.3"
+}

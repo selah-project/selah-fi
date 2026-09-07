@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 17:14",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja Jahve sanoi Meshelle: »Kirjoita tämä muistoksi kirjaan ja pane se Jehoshuan korviin, sillä pyyhkien minä pyyhin pois ⟨את⟩ Amalekin muiston taivaan aliosta.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mooses)lle"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "Kirjoita"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "muistoksi"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "kirjaan"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "ja pane"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "korviin"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshuan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "pyyhkien"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "pyyhin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalekin muiston"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "muiston"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalekin"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "aliosta"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:35:16.218803447Z",
+  "model": "glm-5.3"
+}

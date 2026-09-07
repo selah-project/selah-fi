@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 9:9",
+  "book": "amos",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Sillä katso, minä käsken, ja minä ravistutan ⟨את⟩ Israelin huoneen kaikkien kansojen seassa, niinkuin seulalla ravistetaan, eikä ainoaakaan jyvää putoa maahan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "katso"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "käsken"
+    },
+    {
+      "surface": "והנעותי",
+      "gloss": "ja ravistutan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaikkien"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kansojen seassa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin huoneen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niinkuin"
+    },
+    {
+      "surface": "ינוע",
+      "gloss": "ravistetaan"
+    },
+    {
+      "surface": "בכברה",
+      "gloss": "seulalla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "putoa"
+    },
+    {
+      "surface": "צרור",
+      "gloss": "jyvää"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maahan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:30:00.991391356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 93,
+  "translation": "Kohosivat virrat, Jahve, kohosivat virrat äänensä, korottavat virrat pauhinansa.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "kohosivat"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "virrat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "kohosivat"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "virrat"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "äänensä"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "korottavat"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "virrat"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "pauhinansa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:33:37.909387380Z",
+  "model": "glm-5.3"
+}

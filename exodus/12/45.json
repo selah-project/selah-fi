@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Asuva muukalainen ja palkkalainen eivät saa syödä siitä.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "asuva muukalainen"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "ja palkkalainen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "saa syödä"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siitä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:33:44.388225563Z",
+  "model": "glm-5.3"
+}

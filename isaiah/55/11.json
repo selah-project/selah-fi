@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 55:11",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 55,
+  "translation": "niin on myös sanani, joka lähtee suustani: ei se palaa minun luokseni tyhjänä, vaan se tekee ⟨את⟩ sen, mitä minä tahdoin, ja menestyy siinä, mihin minä sen lähetin.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "on"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lähtee"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "suustani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "palaa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minun luokseni"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "tyhjänä"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אם",
+      "gloss": "vaan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tekee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen, mitä minä tahdoin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "minä tahdoin"
+    },
+    {
+      "surface": "והצליח",
+      "gloss": "ja menestyy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "siinä, mihin"
+    },
+    {
+      "surface": "שלחתיו",
+      "gloss": "minä sen lähetin"
+    }
+  ],
+  "timestamp": "2026-09-07T00:19:11.997579607Z",
+  "model": "glm-5.3"
+}

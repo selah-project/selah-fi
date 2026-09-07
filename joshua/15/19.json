@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 15:19",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Ja hän sanoi: Anna minulle siunaus, sillä Negevin maata sinä olet antanut minulle; anna minulle myös vesilähteitä. Ja hän antoi hänelle ⟨את⟩ ylälähteet ja ⟨את⟩ alalähteet.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "Anna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "siunaus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negevin"
+    },
+    {
+      "surface": "נתתני",
+      "gloss": "olet antanut minulle"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ja anna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "lähteitä"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vesi-"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "antoi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ylälähteet"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "lähteet"
+    },
+    {
+      "surface": "עליות",
+      "gloss": "ylä-"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "alalähteet"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "lähteet"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "ala-"
+    }
+  ],
+  "timestamp": "2026-09-07T04:15:52.955456770Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "erottaakseen saastaisen ja puhtaan sekä eläimen, jota syödään, ja eläimen, jota ei syödä.",
+  "tokens": [
+    {
+      "surface": "להבדיל",
+      "gloss": "erottaakseen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "välillä"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "saastaisen"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "puhtaan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "sekä"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "eläimen"
+    },
+    {
+      "surface": "הנאכלת",
+      "gloss": "jota syödään"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "eläimen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jota"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "syödä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:50:30.903154322Z",
+  "model": "glm-5.3"
+}

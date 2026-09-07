@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 37:31",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Ja he ottivat ⟨את⟩ Josefin paidan ja teurastivat vuohenpukin ja kastoivat ⟨את⟩ paidan vereen.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Ja he ottivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josefin paidan"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "paidan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefin"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "ja teurastivat"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "pukin"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "vuohen"
+    },
+    {
+      "surface": "ויטבלו",
+      "gloss": "ja kastoivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paidan"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "paidan"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "vereen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:21:53.915646650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 38:5",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 38,
+  "translation": "Ja hän valoi neljä rengasta vaskiverkkoon, sen neljään kulmaan, taloiksi sauvoille.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "Ja hän valoi"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "neljä"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "rengasta"
+    },
+    {
+      "surface": "בארבע",
+      "gloss": "neljään"
+    },
+    {
+      "surface": "הקצות",
+      "gloss": "kulmaan"
+    },
+    {
+      "surface": "למכבר",
+      "gloss": "verkkoon"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "vaski-"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "talot"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "sauvoille"
+    }
+  ],
+  "timestamp": "2026-09-06T21:44:53.955963114Z",
+  "model": "glm-5.3"
+}

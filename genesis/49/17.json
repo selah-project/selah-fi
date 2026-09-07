@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 49:17",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 49,
+  "translation": "Dan olkoon kyy tiellä, shefifon polulla, joka puree hevosen kintaita ⟨niin että⟩ sen ratsastaja putoaa taakseen.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "olkoon"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "kyy"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tiellä"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tiellä"
+    },
+    {
+      "surface": "שפיפן",
+      "gloss": "shefifon"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "polulla"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "polulla"
+    },
+    {
+      "surface": "הנשך",
+      "gloss": "puree"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "kintaita"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "hevosen"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ja putoaa"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "sen ratsastaja"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "taakseen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:28:10.129547518Z",
+  "model": "glm-5.3"
+}

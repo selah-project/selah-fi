@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "ja palvelijasi ⟨on⟩ keskellä kansaasi, jonka sinä valitsit — kansa suuri, jota ei voida laskea eikä lukea runsautensa tähden.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "ja palvelijasi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keskellä"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kansaasi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "sinä valitsit"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "suuri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jota"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "voida laskea"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "lukea"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "runsautensa tähden"
+    }
+  ],
+  "timestamp": "2026-09-06T23:34:07.081859823Z",
+  "model": "glm-5.3"
+}

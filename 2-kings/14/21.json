@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 14:21",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja koko Jehudan kansa otti ⟨את⟩ Azarjan — hän ⟨oli⟩ kuudentoista vuoden poika — ja he tekivät ⟨את⟩ hänet kuninkaaksi isänsä Amatsjan sijaan.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Ja otti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjan"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjan"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ja hän"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "שש",
+      "gloss": "kuuden"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "toista"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuoden"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "ja tekivät kuninkaaksi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet",
+      "marks": "Azarja"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sijaan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isänsä"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsjan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:54:03.426588849Z",
+  "model": "glm-5.3"
+}

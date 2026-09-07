@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 17:13",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja ⟨hän⟩ seisoi kuolleiden ja elävien välillä, ja rutto pysähtyi.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ja seisoi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "välillä"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "kuolleiden"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja välillä"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "elävien"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "ja pysähtyi"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "rutto"
+    }
+  ],
+  "timestamp": "2026-09-06T22:11:14.528772215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 59:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 59,
+  "translation": "Katso, he pursuavat suustaan — miekat ovat heidän huulillaan — sillä: kuka kuulee?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "katso"
+    },
+    {
+      "surface": "יביעון",
+      "gloss": "he pursuavat"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "suustaan"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "miekat"
+    },
+    {
+      "surface": "בשפתותיהם",
+      "gloss": "heidän huulillaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kuulee"
+    }
+  ],
+  "timestamp": "2026-09-07T02:14:51.800820056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja nyt, kun tämä kirje saapuu teidän luoksenne — ja ⟨את⟩-teillä ⟨on⟩ herranne poikia, ja ⟨את⟩-teillä ⟨on⟩ vaunut ja hevoset ja linnoitettu kaupunki ja aseet —",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ja nyt"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "kun saapuu"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "kirje"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "teidän luoksenne"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "ja ⟨את⟩-teillä",
+      "marks": "herranne pojat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikia"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "herranne"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "ja ⟨את⟩-teillä",
+      "marks": "vaunut ja hevoset"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "vaunut"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "ja hevoset"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "ja kaupunki"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "linnoitettu"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "ja aseet"
+    }
+  ],
+  "timestamp": "2026-09-06T23:50:44.694605433Z",
+  "model": "glm-5.3"
+}

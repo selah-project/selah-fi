@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 35:17",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 35,
+  "translation": "Ja tapahtui, kun hänen synnytyksensä raskastui hänen synnyttäessään, että kätilö sanoi hänelle: Älä pelkää, sillä myös tämä on sinulle poika.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "בהקשתה",
+      "gloss": "kun hänen synnytyksensä raskastui"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "hänen synnyttäessään"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "että sanoi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "kätilö"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "pelkää"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    }
+  ],
+  "timestamp": "2026-09-06T21:20:55.473700271Z",
+  "model": "glm-5.3"
+}

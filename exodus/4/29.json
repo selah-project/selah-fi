@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja Moshe (Mooses) ja Aharon (Aaron) menivät ja kokosivat ⟨את⟩ kaikki Israelin lasten vanhimmat.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ja menivät"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ja Aharon"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ja kokosivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki Israelin lasten vanhimmat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vanhimmat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:30:10.707682932Z",
+  "model": "glm-5.3"
+}

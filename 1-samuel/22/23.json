@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 22:23",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Jää ⟨את⟩ minun kanssani, älä pelkää, sillä se, joka etsii ⟨את⟩ minun nefeshini, etsii ⟨את⟩ sinun nefeshisi; sillä vartiossa sinä olet minun kanssani.",
+  "tokens": [
+    {
+      "surface": "שבה",
+      "gloss": "Jää"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ minun kanssani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "pelkää"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se, joka"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "etsii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minun nefeshini"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "minun nefeshini"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "etsii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinun nefeshisi"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "sinun nefeshisi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "vartiossa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "minun kanssani"
+    }
+  ],
+  "timestamp": "2026-09-06T23:14:05.139741273Z",
+  "model": "glm-5.3"
+}

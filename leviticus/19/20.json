@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 19:20",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja jos mies makaa ⟨את⟩ naista siementä vuotaen, ja hän ⟨on⟩ orjatär, kihlattu miehelle, eikä häntä ole lunastettu eikä hänelle ole annettu vapautta, niin kurituskokous olkoon; heitä ei surmata, koska hän ei ollut vapaa.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ja jos mies"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jos"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "makaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naista"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "naista"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "maaten"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "siementä"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ja hän"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "orjatär"
+    },
+    {
+      "surface": "נחרפת",
+      "gloss": "kihlattu"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "miehelle"
+    },
+    {
+      "surface": "והפדה",
+      "gloss": "eikä lunastettu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נפדתה",
+      "gloss": "lunastettu"
+    },
+    {
+      "surface": "או",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "חפשה",
+      "gloss": "vapautta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "annettu"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "בקרת",
+      "gloss": "kurituskokous"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olkoon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "surmata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "חפשה",
+      "gloss": "vapaa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:57:24.263404004Z",
+  "model": "glm-5.3"
+}

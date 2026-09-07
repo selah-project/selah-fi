@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Onko hyvä, että hän ⟨את⟩ teidät tutkii, vai niin kuin pilkataan ihmistä, pilkkaatteko häntä?",
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "Onko hyvä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "hän tutkii"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät",
+      "marks": "teidät"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vai"
+    },
+    {
+      "surface": "כהתל",
+      "gloss": "kuin pilkataan"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "ihmistä"
+    },
+    {
+      "surface": "תהתלו",
+      "gloss": "pilkkaatteko"
+    },
+    {
+      "surface": "בו",
+      "gloss": "häntä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:28:53.688130931Z",
+  "model": "glm-5.3"
+}

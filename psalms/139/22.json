@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 139,
+  "translation": "Täydellisellä vihalla minä heitä vihaan; vihollisiksi he ovat minulle tulleet.",
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "täydellisellä"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "vihalla"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "minä heitä vihaan"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "vihollisiksi"
+    },
+    {
+      "surface": "היו",
+      "gloss": "he ovat tulleet"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    }
+  ],
+  "timestamp": "2026-09-07T02:52:37.802102008Z",
+  "model": "glm-5.3"
+}

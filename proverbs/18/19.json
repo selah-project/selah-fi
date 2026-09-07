@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 18:19",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Veljensä loukkaama veli ⟨on⟩ vahvempaa kuin linnoitettu kaupunki, ja riidat ⟨ovat⟩ kuin palatsin porta",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "veli"
+    },
+    {
+      "surface": "נפשע",
+      "gloss": "loukkaama"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "kuin linnoitettu kaupunki"
+    },
+    {
+      "surface": "עז",
+      "gloss": "vahvempaa"
+    },
+    {
+      "surface": "ומדונים",
+      "gloss": "ja riidat"
+    },
+    {
+      "surface": "כבריח",
+      "gloss": "kuin"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "palatsin portti"
+    }
+  ],
+  "timestamp": "2026-09-07T03:13:46.480446668Z",
+  "model": "glm-5.3"
+}

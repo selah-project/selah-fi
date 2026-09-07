@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Hän sataa jumalattomien päälle ansoja, tulta ja rikkiä, ja raivoisan tuulen — ⟨tämä on⟩ heidän maljansa osa.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "sataa"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jumalattomien"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "ansoja"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tulta"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "ja rikkiä"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ja tuulen"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "raivoisan"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "osa"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "heidän maljansa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:55:02.117849985Z",
+  "model": "glm-5.3"
+}

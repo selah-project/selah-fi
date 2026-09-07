@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja hän lähetti ⟨את⟩ Israelin poikien nuoret, ja he toivat polttouhreja ja teurastivat yhteysuhreja Jahvelle, vasikoita.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ja hän lähetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin poikien nuoret"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "nuoret"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikien"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ja he toivat"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "polttouhreja"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "ja teurastivat"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "uhreja"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "yhteysuhreja"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "vasikoita"
+    }
+  ],
+  "timestamp": "2026-09-06T21:38:30.846143100Z",
+  "model": "glm-5.3"
+}

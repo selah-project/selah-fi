@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja hän tuli ja kertoi sen Elohimin miehelle, ja hän sanoi: ”Mene, myy öljy ⟨את⟩ ja maksa velkasi ⟨את⟩; ja sinä ja poikasi, elääkseen jäljelle jääneellä.”",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "ja hän tuli"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "ja kertoi"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "miehelle"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "mene"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "myy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öljyn"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "öljy"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "ja maksa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "velkasi"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "velkasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja sinä"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "ja poikasi"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "elää"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "jäljelle jääneellä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:48:55.845538153Z",
+  "model": "glm-5.3"
+}

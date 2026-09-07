@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 17:8",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Eikä hän katso alttareita, kättensä tekoa, eikä sitä, mitä hänen sormensa ovat tehneet, hän näe — eikä ashera-pylväitä eikä auringopatsaita.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Eikä"
+    },
+    {
+      "surface": "ישעה",
+      "gloss": "hän katso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "alttareita"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "tekoa"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "kättensä"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "eikä sitä, mitä"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ovat tehneet"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "hänen sormensa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "hän näe"
+    },
+    {
+      "surface": "והאשרים",
+      "gloss": "eikä ashera-pylväitä"
+    },
+    {
+      "surface": "והחמנים",
+      "gloss": "eikä auringopatsaita"
+    }
+  ],
+  "timestamp": "2026-09-07T00:06:17.473042254Z",
+  "model": "glm-5.3"
+}

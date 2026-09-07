@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Hänen tiensä pysyvät lujina joka aika; sinun tuomiosi ovat korkealla, poissa hänen näkyvistään; kaikkia vihamiehiään hän kohtelee puhaltaen.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "pysyvät lujina"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "hänen tiensä"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "joka"
+    },
+    {
+      "surface": "עת",
+      "gloss": "aika"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "korkealla"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "sinun tuomiosi"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "poissa hänen näkyvistään"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkia"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "vihamiehiään"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "hän kohtelee puhaltaen"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "heitä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:56:19.881962130Z",
+  "model": "glm-5.3"
+}

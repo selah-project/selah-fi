@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Päästä, päästäthän ⟨את⟩ emon, ja ⟨את⟩ poikaset ota itsellesi, jotta menisi sinulle hyvin ja sinä pitkittäisit päiviäsi.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Päästä"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "päästäthän"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emon"
+    },
+    {
+      "surface": "האם",
+      "gloss": "emon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "poikaset"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ota"
+    },
+    {
+      "surface": "לך",
+      "gloss": "itsellesi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "jotta"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "menisi hyvin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "ja pitkittäisit"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päiviäsi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:32:51.839224147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 22:8",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Jos rakennat uuden talon, tee kattokaide katollesi, ettet panisi verta taloosi, kun putoaja putoaa siitä.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jos"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "rakennat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "uuden"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "tee"
+    },
+    {
+      "surface": "מעקה",
+      "gloss": "kattokaide"
+    },
+    {
+      "surface": "לגגך",
+      "gloss": "katollesi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ettet"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "panisi"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "verta"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "taloosi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "putoaa"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "putoaja"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "siitä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:32:51.839647769Z",
+  "model": "glm-5.3"
+}

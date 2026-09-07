@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 3:14",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja hän teki ⟨את⟩ verhon sinivioletista, purpurasta, karmiinista ja byssosesta, ja hän kohotti siihen kerubeja.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ja hän teki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "verhon"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "verhon"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "sinivioletista"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "purpurasta"
+    },
+    {
+      "surface": "וכרמיל",
+      "gloss": "karmiinista"
+    },
+    {
+      "surface": "ובוץ",
+      "gloss": "byssosesta"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ja hän kohotti"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "siihen"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerubeja"
+    }
+  ],
+  "timestamp": "2026-09-07T05:30:56.566573682Z",
+  "model": "glm-5.3"
+}

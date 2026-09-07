@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "ja ⟨את⟩ meri, yksi, ja ⟨את⟩ härät kaksitoista meren alla",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "meri"
+    },
+    {
+      "surface": "הים",
+      "gloss": "meri"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "härät"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "härät"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "toista"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alla"
+    },
+    {
+      "surface": "הים",
+      "gloss": "meren"
+    }
+  ],
+  "timestamp": "2026-09-06T23:34:59.151244570Z",
+  "model": "glm-5.3"
+}

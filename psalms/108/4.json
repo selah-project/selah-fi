@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 108:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 108,
+  "translation": "Minä kiitän sinua kansojen keskellä, Jahve, ja veisaan sinulle kansakuntien keskellä.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Minä kiitän sinua"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "kansojen keskellä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואזמרך",
+      "gloss": "ja veisaan sinulle"
+    },
+    {
+      "surface": "בל",
+      "gloss": ""
+    },
+    {
+      "surface": "אמים",
+      "gloss": "kansakuntien keskellä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:42:32.283518345Z",
+  "model": "glm-5.3"
+}

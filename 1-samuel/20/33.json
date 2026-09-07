@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-samuel 20:33",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja Shaul heitti ⟨את⟩ keihään häntä kohti lyödäkseen häntä, ja Jehonatan ymmärsi, että hänen isänsä taholta se ⟨oli⟩ ratkaistu ⟨את⟩ Davidin tappamiseksi.",
+  "tokens": [
+    {
+      "surface": "ויטל",
+      "gloss": "ja heitti"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keihään"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "keihään"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "häntä kohti"
+    },
+    {
+      "surface": "להכתו",
+      "gloss": "lyödäkseen häntä"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ja ymmärsi"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ratkaistu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "se"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "taholta"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hänen isänsä"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "tappamiseksi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:13:56.466424502Z",
+  "model": "glm-5.3"
+}

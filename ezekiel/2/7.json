@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 2:7",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja sinä puhut ⟨את⟩ sanani heille: jos he kuulevat ja jos he pidättäytyvät — sillä kapinallisia he ovat.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "Ja sinä puhut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanani"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanani"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "he kuulevat"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ja jos"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "he pidättäytyvät"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "kapinallisia"
+    },
+    {
+      "surface": "המה",
+      "gloss": "he ovat"
+    }
+  ],
+  "timestamp": "2026-09-07T00:52:07.342822822Z",
+  "model": "glm-5.3"
+}

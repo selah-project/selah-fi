@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 49:18",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 49,
+  "translation": "sillä ei hän kuollessaan ota mitään mukaan, ei hänen kunniansa laskeudu hänen jälkeensä.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "kuollessaan"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ota"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "mitään"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "laskeudu"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "jälkeensä"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kunniansa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:10:26.139873009Z",
+  "model": "glm-5.3"
+}

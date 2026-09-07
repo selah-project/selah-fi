@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 10:5",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "ja ne peittävät ⟨את⟩ maan silmän, eikä voida nähdä ⟨את⟩ maata; ja ne syövät ⟨את⟩ jäännöksen siitä pelastetusta, joka on jäänyt teille rakeesta, ja ne syövät ⟨את⟩ kaiken puun, joka kasvaa teille pellolta.",
+  "tokens": [
+    {
+      "surface": "וכסה",
+      "gloss": "ja ne peittävät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maan silmän"
+    },
+    {
+      "surface": "עין",
+      "gloss": "silmän"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "voida"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "nähdä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maata"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ja ne syövät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jäännöksen"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "jäännöksen"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "pelastetusta"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "jääneen"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…sta"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "rakeesta"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ja ne syövät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "puun"
+    },
+    {
+      "surface": "הצמח",
+      "gloss": "kasvavan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…lta"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pellolta"
+    }
+  ],
+  "timestamp": "2026-09-06T21:32:35.147928464Z",
+  "model": "glm-5.3"
+}

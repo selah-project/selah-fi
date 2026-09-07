@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 23:17",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Sillä minua ei hävitetty pimeyden tieltä, eikä sumerikko peittänyt kasvojani.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נצמתי",
+      "gloss": "hävitetty minua"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pimeyden tieltä"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pimeys"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "eikä kasvoiltani"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "peitti"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "sumerikko"
+    }
+  ],
+  "timestamp": "2026-09-07T03:39:08.279221935Z",
+  "model": "glm-5.3"
+}

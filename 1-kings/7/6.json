@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja ⟨את⟩ pylväiden eteisen hän teki: viisikymmentä kyynärää sen pituus ja kolmekymmentä kyynärää sen leveys, ja eteinen niiden edessä, ja pylväitä ja palkki niiden edessä.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "pylväiden eteinen"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "eteinen"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "pylväiden"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hän teki"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "viisikymmentä"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "sen pituus"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ja kolmekymmentä"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "sen leveys"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "ja eteinen"
+    },
+    {
+      "surface": "על",
+      "gloss": "päin"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "niiden edessä"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "ja pylväät"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "ja palkki"
+    },
+    {
+      "surface": "על",
+      "gloss": "päin"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "niiden edessä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:35:45.826757489Z",
+  "model": "glm-5.3"
+}

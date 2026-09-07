@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ensimmäisen nimi ⟨on⟩ Pishon: se ⟨on⟩ se, joka kiertää ⟨את⟩ koko Havilan maan, jossa siellä ⟨on⟩ kultaa.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "nimi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ensimmäisen"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "Pishon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "kiertää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko Havilan maan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "Havilan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jossa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kultaa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:04:23.655203606Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 3:7",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja Israelin pojat tekivät ⟨את⟩ pahan Jahven silmissä, ja he unohtivat ⟨את⟩ Jahven, Elohiminsa, ja palvelivat ⟨את⟩ baaleja ja ⟨את⟩ asheroita.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Ja tekivät"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pahan"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "pahan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "silmissä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "וישכחו",
+      "gloss": "ja he unohtivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohiminsa"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ja palvelivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baaleja"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "baaleja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "asheroita"
+    },
+    {
+      "surface": "האשרות",
+      "gloss": "asheroita"
+    }
+  ],
+  "timestamp": "2026-09-06T22:50:45.071205944Z",
+  "model": "glm-5.3"
+}

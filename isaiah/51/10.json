@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 51:10",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 51,
+  "translation": "Etkö sinä ole se, joka kuivatti meren, suuren syvyyden vedet, joka teki meren syvyyksistä tien lunastettujen kulkea?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Etkö"
+    },
+    {
+      "surface": "את",
+      "gloss": "sinä",
+      "marks": "sinä"
+    },
+    {
+      "surface": "היא",
+      "gloss": "se"
+    },
+    {
+      "surface": "המחרבת",
+      "gloss": "joka kuivatti"
+    },
+    {
+      "surface": "ים",
+      "gloss": "meren"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vedet"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "suuren syvyyden"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "suuren"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "joka teki"
+    },
+    {
+      "surface": "מעמקי",
+      "gloss": "syvyyksistä"
+    },
+    {
+      "surface": "ים",
+      "gloss": "meren"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tien"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "kulkea"
+    },
+    {
+      "surface": "גאולים",
+      "gloss": "lunastettujen"
+    }
+  ],
+  "timestamp": "2026-09-07T00:18:27.064402390Z",
+  "model": "glm-5.3"
+}

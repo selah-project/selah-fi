@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 1:3",
+  "book": "amos",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Näin sanoi Jahve: kolmen takia Damasekin (Damaskos) rikkomusta ja neljän takia en minä sitä peräytä — koska he jyrsivät ⟨את⟩ Giladin (Gilead) rautaisilla jyrsimillä.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Näin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "takia"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kolmen"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "rikkomusta"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasekin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja takia"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "neljän"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "minä sitä peräytä"
+    },
+    {
+      "surface": "על",
+      "gloss": "koska"
+    },
+    {
+      "surface": "דושם",
+      "gloss": "he jyrsivät"
+    },
+    {
+      "surface": "בחרצות",
+      "gloss": "jyrsimillä"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "rautaisilla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giladin"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Giladin"
+    }
+  ],
+  "timestamp": "2026-09-07T01:27:45.279292076Z",
+  "model": "glm-5.3"
+}

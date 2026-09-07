@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 31:41",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Ja Moshe antoi ⟨את⟩ Jahven teruman veron kohenille El'azarille, kuten Jahve oli käskenyt ⟨את⟩ Moshea.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "antoi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veron"
+    },
+    {
+      "surface": "מכס",
+      "gloss": "veron"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "teruman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "לאלעזר",
+      "gloss": "El'azarille"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenille"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kuten"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oli käskenyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshea"
+    }
+  ],
+  "timestamp": "2026-09-06T22:18:46.012980149Z",
+  "model": "glm-5.3"
+}

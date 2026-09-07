@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Laulun säädes ei juoda viiniä; väkevä juoma tulee karvaaksi sen juojille.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "laulun säädes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "juoda"
+    },
+    {
+      "surface": "יין",
+      "gloss": "viiniä"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "tulee karvaaksi"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "väkevä juoma"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "sen juojille"
+    }
+  ],
+  "timestamp": "2026-09-07T00:07:36.330861083Z",
+  "model": "glm-5.3"
+}

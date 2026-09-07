@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 9:23",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja Shemuel sanoi kokille: ”Anna ⟨את⟩ annos, jonka annoin sinulle ja josta sanoin sinulle: Aseta ⟨את⟩ se luoksesi.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "kokille"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "anna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "annos"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "annos"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "annoin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "josta"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sanoin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "שים",
+      "gloss": "aseta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "se (luoksesi)"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "luoksesi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:08:34.041044551Z",
+  "model": "glm-5.3"
+}

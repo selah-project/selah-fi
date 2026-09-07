@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 4:17",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Kuin peltovartijat ovat sitä vastaan ympärillä, sillä ⟨את⟩ minua vastaan se on kapinoinut, sanoo Jahve.",
+  "tokens": [
+    {
+      "surface": "כשמרי",
+      "gloss": "kuin vartijat"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "peltoa"
+    },
+    {
+      "surface": "היו",
+      "gloss": "olivat"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sitä vastaan"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ympärillä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "minua (kapinointi minua vastaan)"
+    },
+    {
+      "surface": "מרתה",
+      "gloss": "on kapinoinut"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-07T00:25:26.159678336Z",
+  "model": "glm-5.3"
+}

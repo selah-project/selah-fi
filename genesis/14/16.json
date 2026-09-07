@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja hän palautti ⟨את⟩ kaiken omaisuuden, ja myös ⟨את⟩ Lootin (Lot), veljensä, ja tämän omaisuuden hän palautti, ja myös ⟨את⟩ naiset ja ⟨את⟩ kansan.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ja palautti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken omaisuuden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "omaisuuden"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja myös"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lootin"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lootin"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "veljensä"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "ja tämän omaisuuden"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "hän palautti"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja myös"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naiset"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "naiset"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kansan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:09:07.896951112Z",
+  "model": "glm-5.3"
+}

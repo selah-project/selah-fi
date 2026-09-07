@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 35,
+  "translation": "ja ⟨את⟩ suitsutusalttarin ja ⟨את⟩ sen kantotuikit ja ⟨את⟩ voiteluöljyn ja ⟨את⟩ mausteiden suitsutuksen ja ⟨את⟩ verhon asuinsuvun oviaukkoon",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "suitsutusalttarin (מזבח הקטרת)"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "suitsutuksen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen kantotuikit (בדיו)"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "sen kantotuikit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "voiteluöljyn (שמן המשחה)"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "öljyn"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "voitelun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "mausteiden suitsutuksen (קטרת הסמים)"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "suitsutuksen"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "mausteiden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "verhon (מסך הפתח)"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "verhon"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "oviaukon"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "asuvun oviaukkoon"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "asuvun"
+    }
+  ],
+  "timestamp": "2026-09-06T21:43:58.055201683Z",
+  "model": "glm-5.3"
+}

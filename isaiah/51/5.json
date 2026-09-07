@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 51:5",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 51,
+  "translation": "Lähellä on vanhurskauteni, lähtenyt on pelastukseni, ja käsivarteni kansoja tuomitsee; minuun saaret turvaavat ja käsivarreeni he odottavat.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "lähellä"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "vanhurskauteni"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lähtenyt on"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "pelastukseni"
+    },
+    {
+      "surface": "וזרעי",
+      "gloss": "ja käsivarteni"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "kansoja"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "tuomitsee"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minuun"
+    },
+    {
+      "surface": "איים",
+      "gloss": "saaret"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "turvaavat"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "käsivarreeni"
+    },
+    {
+      "surface": "ייחלון",
+      "gloss": "he odottavat"
+    }
+  ],
+  "timestamp": "2026-09-07T00:18:28.492543253Z",
+  "model": "glm-5.3"
+}

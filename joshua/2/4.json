@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 2:4",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja nainen otti ⟨את⟩ ne kaksi miestä ja kätki heidät, ja hän sanoi: Niin, miehet tulivat minun luokseni, mutta en minä tiedä, mistä he olivat.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "otti"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "nainen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne kaksi miestä"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "miestä"
+    },
+    {
+      "surface": "ותצפנו",
+      "gloss": "ja kätki"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Niin"
+    },
+    {
+      "surface": "באו",
+      "gloss": "tulivat"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minun luokseni"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mutta en"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "minä tiedä"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "mistä"
+    },
+    {
+      "surface": "המה",
+      "gloss": "he olivat"
+    }
+  ],
+  "timestamp": "2026-09-06T22:41:13.677055692Z",
+  "model": "glm-5.3"
+}

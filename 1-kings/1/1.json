@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja kuningas David (Daavid) oli vanha, tullut päiviinsä, ja he kattoivat hänet vaatteilla, mutta hän ei saanut lämpöä.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Ja kuningas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David (Daavid)"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "oli vanha"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tullut"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "päiviinsä"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "ja he kattoivat hänet"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "vaatteilla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mutta ei"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "saanut lämpöä"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    }
+  ],
+  "timestamp": "2026-09-06T23:32:12.270047181Z",
+  "model": "glm-5.3"
+}

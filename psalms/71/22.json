@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 71:22",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 71,
+  "translation": "Myös minä kiitän sinua kielisoittimella, sinun totuutesi tähden, Elohimini; veisaan sinulle kinnorilla, Israelin Pyhä.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Myös"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "kiitän sinua"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "kelisoittimella"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nvel-soittimella"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "sinun totuutesi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimini"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "veisaan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinnorilla"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Pyhä"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-07T02:18:46.561986540Z",
+  "model": "glm-5.3"
+}

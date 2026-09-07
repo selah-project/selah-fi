@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 14:26",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja Jahve sanoi Meshelle: ”Ojenna ⟨את⟩ kätesi meren ylle, ja vedet palatkoot Mitsrajimin ylle, hänen vaunujaan ja hänen ratsujoukkojaan ylle.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ojenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kätesi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kätesi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ylle"
+    },
+    {
+      "surface": "הים",
+      "gloss": "meren"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ja palatkoot"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vedet"
+    },
+    {
+      "surface": "על",
+      "gloss": "ylle"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "על",
+      "gloss": "ylle"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "hänen vaunujaan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja ylle"
+    },
+    {
+      "surface": "פרשיו",
+      "gloss": "hänen ratsujoukkojaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:33:55.103215413Z",
+  "model": "glm-5.3"
+}

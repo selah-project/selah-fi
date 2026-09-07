@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 2:20",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja hän sanoi: ”Tuokaa minulle uusi astia, ja pankaa siihen suolaa.” Ja he toivat sen hänelle.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "tuokaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "צלחית",
+      "gloss": "astia"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "uusi"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "ja pankaa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siihen"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "suolaa"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ja he toivat"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    }
+  ],
+  "timestamp": "2026-09-06T23:46:33.410257592Z",
+  "model": "glm-5.3"
+}

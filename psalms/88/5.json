@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 88:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 88,
+  "translation": "Minut on laskettu kuoppaan laskevien ⟨joukkoon⟩; minusta on tullut kuin mieheksi, jolla ei ole voimaa.",
+  "tokens": [
+    {
+      "surface": "נחשבתי",
+      "gloss": "minut on laskettu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨joukkoon⟩"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "laskevien"
+    },
+    {
+      "surface": "בור",
+      "gloss": "kuoppaan"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "minusta on tullut"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "kuin mieheksi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "jolla ei ole"
+    },
+    {
+      "surface": "איל",
+      "gloss": "voimaa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:30:38.545303340Z",
+  "model": "glm-5.3"
+}

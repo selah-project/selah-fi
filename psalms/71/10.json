@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 71,
+  "translation": "Sillä viholliseni ovat puhuneet minusta, ja ne, jotka väijyvät minun nefeshiani, neuvottelivat yhdessä",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ovat puhuneet"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "viholliseni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minusta"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "ja jotka väijyvät"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "minun nefeshiani"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "neuvottelivat"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "yhdessä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:18:49.437351366Z",
+  "model": "glm-5.3"
+}

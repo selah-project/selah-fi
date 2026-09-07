@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 1:24",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja kuulin ⟨את⟩ heidän siipiensä äänen, kuin suurten vesien äänen, kuin Shaddain äänen; heidän käydessään ⟨oli⟩ kohinan ääni, kuin leirin äänen, ja kun ne seisoivat, heidän siipensä vaipuivat.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "ja kuulin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "äänen"
+    },
+    {
+      "surface": "קול",
+      "gloss": "äänen"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "heidän siipiensä"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "kuin äänen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vesien"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "suurten"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "kuin äänen"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddain"
+    },
+    {
+      "surface": "בלכתם",
+      "gloss": "heidän käydessään"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ääni"
+    },
+    {
+      "surface": "המלה",
+      "gloss": "kohina"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "kuin äänen"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "leirin"
+    },
+    {
+      "surface": "בעמדם",
+      "gloss": "kun ne seisoivat"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "vaipuivat"
+    },
+    {
+      "surface": "כנפיהן",
+      "gloss": "heidän siipensä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:51:42.749944553Z",
+  "model": "glm-5.3"
+}

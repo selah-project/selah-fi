@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 4:9",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja Jahve sanoi Kainille: ”Missä ⟨on⟩ Hevel, veljesi?” Ja hän sanoi: ”En tiedä. Olenko minä veljeni vartija?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-lle"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kain"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Missä"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "veljesi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "tiedä"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "vartija"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "veljeni"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:04:19.912457087Z",
+  "model": "glm-5.3"
+}

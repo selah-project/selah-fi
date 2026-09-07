@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja tapahtui vuoden kierron aikana, että Ben-Hadad (Ben-Hadad) koki ⟨את⟩ Aramin (Syyrian) ja nousi Afekiin (Afek) sotimaan Israelia vastaan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja tapahtui"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "kierron aikana"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "vuoden"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "koki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aramin"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramin"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ja nousi"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Afekiin"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sotaan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vastaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelia"
+    }
+  ],
+  "timestamp": "2026-09-06T23:45:12.128628288Z",
+  "model": "glm-5.3"
+}

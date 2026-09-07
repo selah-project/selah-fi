@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 119:55",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Yössä minä muistin nimesi, Jahve, ja minä pidin Torasi.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "minä muistin"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "yössä"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nimesi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "ja minä pidin"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Torasi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:45:27.519918854Z",
+  "model": "glm-5.3"
+}

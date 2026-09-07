@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 55,
+  "translation": "Sillä niin kuin taivaat ⟨ovat⟩ korkeammalla kuin maa, niin ovat tieni korkeammalla kuin teidän teistanne ja ajatukseni korkeammalla kuin teidän ajatuksistanne.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "korkeammalla"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "taivaat"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kuin maa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "korkeammalla"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "tieni"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "kuin teidän teistanne"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "ja ajatukseni"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "kuin teidän ajatuksistanne"
+    }
+  ],
+  "timestamp": "2026-09-07T00:19:11.995577301Z",
+  "model": "glm-5.3"
+}

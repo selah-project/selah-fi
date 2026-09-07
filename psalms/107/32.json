@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 107,
+  "translation": "Ja korottakoot hänet kansan kokouksessa, ja vanhinten neuvostossa ylistäkööt häntä.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "Ja korottakoot hänet"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "kokouksessa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "ja neuvostossa"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "vanhinten"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "ylistäkööt häntä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:43:19.535439019Z",
+  "model": "glm-5.3"
+}

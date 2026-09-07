@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja David neuvotteli tuhansien ja satojen päällikköjen kanssa, jokaisen johtajan kanssa.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "ja neuvotteli"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "päällikköjen"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "tuhansien"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "ja satojen"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "jokaisen"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "johtajan"
+    }
+  ],
+  "timestamp": "2026-09-07T05:21:33.171703755Z",
+  "model": "glm-5.3"
+}

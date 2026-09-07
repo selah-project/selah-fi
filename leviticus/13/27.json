@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 13:27",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja kohen katsoo häntä seitsemäntenä päivänä: jos se on leviämässä leviällään ihossa, kohen julistaa hänet ⟨את⟩ epäpuhtaaksi — tsaraatin tauti se ⟨on⟩.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "ja katsoo häntä"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "seitsemäntenä"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "leviämään"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "leviää"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "ihossa"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ja julistaa epäpuhtaaksi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hänet"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "tauti"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-09-06T21:53:10.719821457Z",
+  "model": "glm-5.3"
+}

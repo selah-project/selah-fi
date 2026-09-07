@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 104,
+  "translation": "Ihminen lähtee toimiinsa ja työhönsä iltaan asti.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "lähtee"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihminen"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "toimiinsa"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "ja työhönsä"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "asti"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "iltaan"
+    }
+  ],
+  "timestamp": "2026-09-07T02:35:52.694409182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja Sheban (Sabaa) kuningatar kuuli ⟨את⟩ sanoman Shelomon (Salomo) nimestä, Jahven nimestä, ja hän tuli koettelemaan häntä arvoituksilla.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "Ja kuningatar"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheban (Sabaa)"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "kuuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanoman"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sanoman"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomon (Salomo)"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "nimestä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ja hän tuli"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "koettelemaan häntä"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "arvoituksilla"
+    }
+  ],
+  "timestamp": "2026-09-06T23:37:48.598148905Z",
+  "model": "glm-5.3"
+}

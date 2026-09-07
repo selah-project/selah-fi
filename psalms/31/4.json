@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Sillä sinä ⟨olet⟩ kallioni ja linnakeeni; ja nimesi tähden johdata minua ja kuljeta minua.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "kallioni"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ja linnakeeni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ja ... tähden"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nimesi"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "johdata minua"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "ja kuljeta minua"
+    }
+  ],
+  "timestamp": "2026-09-07T04:31:03.792104391Z",
+  "model": "glm-5.3"
+}

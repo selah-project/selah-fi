@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 16:22",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja kansa, joka oli Omrin (Omri) jäljessä, väkevöityi ⟨את⟩ kansaa vastaan, joka oli Tivnin, Ginatin pojan, jäljessä; ja Tivni kuoli, ja Omrista tuli kuningas.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "väkevöityi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "jäljessä"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omrin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "jäljessä"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tivnin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "גינת",
+      "gloss": "Ginatin"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ja kuoli"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tivni"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ja tuli kuninkaaksi"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    }
+  ],
+  "timestamp": "2026-09-06T23:42:38.471244744Z",
+  "model": "glm-5.3"
+}

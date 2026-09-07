@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja kuningas tuli Damaskosta, ja kuningas näki ⟨את⟩ alttarin, ja kuningas lähestyi alttaria ja nousi sen päälle ⟨uhraamaan⟩.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "Damaskosta"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "näki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alttarin"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "lähestyi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttaria"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "nousi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sen päälle"
+    }
+  ],
+  "timestamp": "2026-09-06T23:55:40.103820448Z",
+  "model": "glm-5.3"
+}

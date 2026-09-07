@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja minä rangaistan ⟨את⟩ Davidin siementä tämän tähden, mutta en kaikkina päivinä.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "ja minä rangaistan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siemenen"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "siemenen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "אך",
+      "gloss": "mutta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkina"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "päivinä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:40:12.982084893Z",
+  "model": "glm-5.3"
+}

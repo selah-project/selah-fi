@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Kun näen taivaasi, sormiesi teokset — kuun ja tähdet, jotka sinä perustit —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kun"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "näen"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "taivaasi"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "teokset"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "sormiesi"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "kuun"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "ja tähdet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "perustit"
+    }
+  ],
+  "timestamp": "2026-09-07T01:53:18.067868948Z",
+  "model": "glm-5.3"
+}

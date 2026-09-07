@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 39,
+  "translation": "Ja hän teki ⟨את⟩ efodin viitan, kutojan työtä, kokonaan sinipurppuraa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ja hän teki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efodin viitan"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "viitan"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodin"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "työtä"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "kutojan"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "kokonaan"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "sinipurppuraa"
+    }
+  ],
+  "timestamp": "2026-09-07T06:34:14.534322283Z",
+  "model": "glm-5.3"
+}

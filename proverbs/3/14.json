@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 3:14",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Sillä sen kauppa ⟨on⟩ hopean kauppaa parempi, ja sen tuotto puhdistettua kultaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "parempi"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "sen kauppa"
+    },
+    {
+      "surface": "מסחר",
+      "gloss": "kauppaa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "hopean"
+    },
+    {
+      "surface": "ומחרוץ",
+      "gloss": "puhdistettua kultaa"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "sen tuotto"
+    }
+  ],
+  "timestamp": "2026-09-07T03:00:25.962424130Z",
+  "model": "glm-5.3"
+}

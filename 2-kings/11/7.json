@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 11:7",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "ja molemmat osat teistä, kaikki lähtevät Shabbattina, pitäkööt ⟨את⟩ vartiovuoron Jahven talossa kuninkaan ympärillä",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "ja molemmat"
+    },
+    {
+      "surface": "הידות",
+      "gloss": "osat"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "teistä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "lähtevät"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbattina"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "pitäkööt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vartiovuoron"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "vartiovuoron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "talossa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ympärillä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:51:49.173274250Z",
+  "model": "glm-5.3"
+}

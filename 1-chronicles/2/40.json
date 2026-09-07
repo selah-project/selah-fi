@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "ja El'asa siitti ⟨את⟩ Sismain, ja Sismai siitti ⟨את⟩ Shalumin.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "ja El'asa"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sismain"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "Sismain"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "ja Sismai"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shalumin"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalumin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:11:17.954413950Z",
+  "model": "glm-5.3"
+}

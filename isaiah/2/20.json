@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Sinä päivänä heittää ihminen ⟨את⟩ hopean epäjumalansa ja ⟨את⟩ kullan epäjumalansa, jotka he tekivät itselleen kumartamista varten, myyrille ja lepakoille.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Sinä päivänä"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "heittää"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihminen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hopean epäjumalansa"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "epäjumalansa"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "hopean"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kullan epäjumalansa"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "epäjumalansa"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "kullan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "he tekivät"
+    },
+    {
+      "surface": "לו",
+      "gloss": "itselleen"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "kumartamista varten"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "myyrille"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "myyrille"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "ja lepakoille"
+    }
+  ],
+  "timestamp": "2026-09-07T00:00:04.039679896Z",
+  "model": "glm-5.3"
+}

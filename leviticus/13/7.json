@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 13:7",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja jos ruve leviää leviämällä ihossa sen jälkeen, kun hän on näyttäytynyt kohenille puhtaaksi julistamista varten, hän näyttäyköön kohenille toistamiseen.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ja jos"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "leviämällä"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "leviää"
+    },
+    {
+      "surface": "המספחת",
+      "gloss": "ruve"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "ihossa"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sen jälkeen"
+    },
+    {
+      "surface": "הראתו",
+      "gloss": "kun hän on näyttäytynyt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-lle"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenille"
+    },
+    {
+      "surface": "לטהרתו",
+      "gloss": "puhtaaksi julistamista varten"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "hän näyttäyköön"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "toistamiseen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-lle"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenille"
+    }
+  ],
+  "timestamp": "2026-09-06T21:52:33.229073106Z",
+  "model": "glm-5.3"
+}

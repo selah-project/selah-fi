@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 23:25",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Kaikkea työtä, palvelustyötä, älkää tehkö, vaan tuokaa tulisen uhrin Jahvelle.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kaikkea"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "työtä"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "palvelustyötä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "tehkö"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "vaan tuokaa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tulisen uhrin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    }
+  ],
+  "timestamp": "2026-09-06T22:00:04.443388520Z",
+  "model": "glm-5.3"
+}

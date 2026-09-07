@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 106,
+  "translation": "Ja hän antoi ⟨את⟩ heidät laupiuteen kaikkien heidän vangitsijainsa edessä.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ja hän antoi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ heidät",
+      "marks": "laupiuteen"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "laupiuteen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkien"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "heidän vangitsijainsa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:40:29.007228665Z",
+  "model": "glm-5.3"
+}

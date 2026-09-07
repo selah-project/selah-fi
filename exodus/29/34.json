@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 29:34",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja jos vihkimisen lihasta tai leivästä jotakin jää aamuun asti, poltat ⟨את⟩ jäännöksen tulessa; sitä ei syötävä, sillä pyhä se on.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ja jos"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "jotakin jää"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "lihasta"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "vihkimisen"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "tai (jostakin)"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "leivästä"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "aamuun"
+    },
+    {
+      "surface": "ושרפת",
+      "gloss": "poltat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jäännöksen"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "jäännöksen"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulessa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "syötävä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se on"
+    }
+  ],
+  "timestamp": "2026-09-06T21:41:21.486527358Z",
+  "model": "glm-5.3"
+}

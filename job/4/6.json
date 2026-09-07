@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 4:6",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Eikö pelkosi ⟨ole⟩ sinun luottamuksesi, toivosi, ja vaellustesi eheyden?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Eikö"
+    },
+    {
+      "surface": "יראתך",
+      "gloss": "pelkosi"
+    },
+    {
+      "surface": "כסלתך",
+      "gloss": "sinun luottamuksesi"
+    },
+    {
+      "surface": "תקותך",
+      "gloss": "toivosi"
+    },
+    {
+      "surface": "ותם",
+      "gloss": "ja eheyden"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "vaellustesi"
+    }
+  ],
+  "timestamp": "2026-09-07T03:22:00.827497608Z",
+  "model": "glm-5.3"
+}

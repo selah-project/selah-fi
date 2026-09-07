@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 64:4",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 64,
+  "translation": "Sinä kohtasit ⟨את⟩ iloitsevan ja vanhurskautta tekevän; teilläsi he sinut muistavat. Katso, sinä vihastuit, ja me teimme syntiä; niissä ⟨on⟩ pysyvyys, ja me pelastutaan.",
+  "tokens": [
+    {
+      "surface": "פגעת",
+      "gloss": "sinä kohtasit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iloitsevan ja vanhurskautta tekevän"
+    },
+    {
+      "surface": "שש",
+      "gloss": "iloitsevan"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ja tekevän"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "vanhurskautta"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "teilläsi"
+    },
+    {
+      "surface": "יזכרוך",
+      "gloss": "he sinut muistavat"
+    },
+    {
+      "surface": "הן",
+      "gloss": "katso"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "vihastuit"
+    },
+    {
+      "surface": "ונחטא",
+      "gloss": "ja me teimme syntiä"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "niissä"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "pysyvyys"
+    },
+    {
+      "surface": "ונושע",
+      "gloss": "ja me pelastutaan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:21:24.221751664Z",
+  "model": "glm-5.3"
+}

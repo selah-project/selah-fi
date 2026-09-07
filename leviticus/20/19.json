@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 20:19",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja äitisi sisaren häpeää älä paljasta, eikä isäsi sisaren: sillä hän on paljastanut ⟨את⟩ lihänsä; pahansa he kantakoot.",
+  "tokens": [
+    {
+      "surface": "וערות",
+      "gloss": "Ja häpeää"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "sisaren"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "äitisi"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "eikä sisaren"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "isäsi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "paljasta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lihänsä"
+    },
+    {
+      "surface": "שארו",
+      "gloss": "lihänsä"
+    },
+    {
+      "surface": "הערה",
+      "gloss": "on paljastanut"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "pahansa"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "he kantakoot"
+    }
+  ],
+  "timestamp": "2026-09-06T21:58:02.383903851Z",
+  "model": "glm-5.3"
+}

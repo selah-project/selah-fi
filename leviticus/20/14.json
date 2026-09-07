@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja mies, joka ottaa ⟨את⟩ vaimon ja ⟨את⟩ hänen äitinsä — häijyys se ⟨on⟩; tulessa poltettakoon ⟨את⟩ hänet ja ⟨את⟩ heidät, eikä häijyyttä olko keskuudessanne.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ja mies"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ottaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaimon"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "vaimon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen äitinsä"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hänen äitinsä"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "häijyys"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulessa"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "poltettakoon"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet",
+      "marks": "hnet (miehen)"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "ja ⟨את⟩ heidät",
+      "marks": "heidt (vaimon ja idin)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olko"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "häijyyttä"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "keskuudessanne"
+    }
+  ],
+  "timestamp": "2026-09-06T21:58:21.398506082Z",
+  "model": "glm-5.3"
+}

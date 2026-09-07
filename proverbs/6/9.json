@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Kuinka kauan, laiskuri, makaat? Kuinka kauan nouseat yöstäsi?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Kuinka kauan"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "makaatko"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "laiskuri"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "makaat"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "milloin"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "nouseat"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "unestasi"
+    }
+  ],
+  "timestamp": "2026-09-07T03:02:56.605736746Z",
+  "model": "glm-5.3"
+}

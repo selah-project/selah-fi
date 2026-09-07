@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 25:2",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Puhu Israelin (Israel) poikien kanssa, ja he ottakoot minulle temuma-uhan ⟨את⟩ — jokaiselta mieheltä, jonka sydän häntä vapaaehtoisesti liikuttaa, te ottakaa ⟨את⟩ temuma-uhrini.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Puhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-lle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikien"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ja he ottakoot"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "temuma-uhri"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokaiselta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mieheltä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "ידבנו",
+      "gloss": "vapaaehtoisesti liikuttaa"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sydän"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "te ottakaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "temuma-uhrini"
+    },
+    {
+      "surface": "תרומתי",
+      "gloss": "temuma-uhrini"
+    }
+  ],
+  "timestamp": "2026-09-06T21:39:26.075711340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja hän avasi ⟨את⟩ sen ja näki lapsen, ja katso, poika itki; ja hänen kävi häntä sääliksi, ja hän sanoi: ”Tämä on heprealaisten lapsista.”",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "ja hän avasi"
+    },
+    {
+      "surface": "ותראהו",
+      "gloss": "ja näki hänet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lapsen"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "lapsen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "נער",
+      "gloss": "poika"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "itki"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "ja hänen kävi sääliksi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "häntä"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "lapsista"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "heprealaisten"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:28:42.579337742Z",
+  "model": "glm-5.3"
+}

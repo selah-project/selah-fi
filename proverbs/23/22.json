@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 23:22",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Kuule isääsi — tämä sinut synnytti — älä väheksy, sillä vanhentunut on äitisi.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Kuule"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "isääsi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "sinut synnytti"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "väheksy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "vanhentunut"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "äitisi"
+    }
+  ],
+  "timestamp": "2026-09-07T03:15:07.321300331Z",
+  "model": "glm-5.3"
+}

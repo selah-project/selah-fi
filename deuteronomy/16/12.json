@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja muista, että olit orja Mitsrajimissa (Egyptissä), ja pidä ja tee ⟨את⟩ nämä säädökset.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "Ja muista"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "orja"
+    },
+    {
+      "surface": "היית",
+      "gloss": "olit"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrajimissa (Egyptissä)"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ja pidä"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ja tee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nämä säädökset"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "säädökset"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nämä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:29:28.301252738Z",
+  "model": "glm-5.3"
+}

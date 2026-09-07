@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Sydämeltään viisas ottaa käskyjä vastaan, mutta huulikas hullu kaatuu.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "viisas"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sydämeltään"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ottaa"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "käskyt"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "ja hullu"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "huulikas"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "kaatuu"
+    }
+  ],
+  "timestamp": "2026-09-07T03:05:20.022243823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Katso, hän on synnytystuskissa pahuuden kanssa, ja hän tuli raskaaksi vaivaa ja synnytti valheen.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "katso"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "on synnytystuskissa"
+    },
+    {
+      "surface": "און",
+      "gloss": "pahuuden"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "ja tuli raskaaksi"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "vaivaa"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "ja synnytti"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "valheen"
+    }
+  ],
+  "timestamp": "2026-09-07T01:51:22.016259372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 19:31",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Älkää kääntykö henkienmanaajien puoleen älkääkä tietäjien puoleen, älkää etsiko saastuttaaksenne itsenne heillä; minä olen Jahve, teidän Elohiminne.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Älkää"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "kääntykö"
+    },
+    {
+      "surface": "אל",
+      "gloss": "puoleen"
+    },
+    {
+      "surface": "האבת",
+      "gloss": "henkienmanaajien"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "…in puoleen"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "tietäjien"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "etsikö"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "saastuttaaksenne"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "heidän avullaan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä olen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminne"
+    }
+  ],
+  "timestamp": "2026-09-06T21:56:40.173312106Z",
+  "model": "glm-5.3"
+}

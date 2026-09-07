@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zephaniah 3:15",
+  "book": "zephaniah",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Jahve on poistanut sinun tuomiosi, hän on kääntänyt pois vihollisesi; Israelin kuningas, Jahve, ⟨on⟩ sinun keskelläsi — et pelkää pahaa enää.",
+  "tokens": [
+    {
+      "surface": "הסיר",
+      "gloss": "on poistanut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "sinun tuomiosi"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "hän on kääntänyt pois"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "vihollisesi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "sinun keskelläsi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "et"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "pelkää"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pahaa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enää"
+    }
+  ],
+  "timestamp": "2026-09-07T01:40:23.321964162Z",
+  "model": "glm-5.3"
+}

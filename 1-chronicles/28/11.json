@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 28:11",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Ja David antoi Shelomolle ⟨Salomo⟩, pojalleen, ⟨את⟩ suunnitelman eteishallista ja ⟨את⟩ sen rakennuksista, sen aarrekammioista, sen yläsaleista ja sen sisähuoneista, ja armonistuimen huoneesta.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "antoi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Shelomolle"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pojalleen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suunnitelman"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "suunnitelman"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "eteishallista"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen rakennuksista"
+    },
+    {
+      "surface": "בתיו",
+      "gloss": "sen rakennuksista"
+    },
+    {
+      "surface": "וגנזכיו",
+      "gloss": "sen aarrekammioista"
+    },
+    {
+      "surface": "ועליתיו",
+      "gloss": "sen yläsaleista"
+    },
+    {
+      "surface": "וחדריו",
+      "gloss": "sen sisähuoneista"
+    },
+    {
+      "surface": "הפנימים",
+      "gloss": "sisähuoneista"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ja huoneesta"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "armonistuimen"
+    }
+  ],
+  "timestamp": "2026-09-07T06:03:00.145677984Z",
+  "model": "glm-5.3"
+}

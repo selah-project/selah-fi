@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 38:21",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 38,
+  "translation": "Ja ne, jotka maksavat pahaa hyvän sijasta, syyttävät minua, koska minä taka-ajan hyvää.",
+  "tokens": [
+    {
+      "surface": "ומשלמי",
+      "gloss": "ja maksavat"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pahaa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sijasta"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "hyvän"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "he syyttävät minua"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "koska"
+    },
+    {
+      "surface": "רדופי",
+      "gloss": "minun taka-ajamiseni"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvää"
+    }
+  ],
+  "timestamp": "2026-09-07T02:06:25.760309528Z",
+  "model": "glm-5.3"
+}

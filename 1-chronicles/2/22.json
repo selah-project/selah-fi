@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Segub siitti ⟨את⟩ Ja'irin, ja hänelle tuli kaksikymmentäkolme kaupunkia Gil'adin maassa.",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "Ja Segub"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ja'irin"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Ja'ir"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja hänelle tuli"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kaksikymmentä"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kaupunkia"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gil'adin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:11:43.205454091Z",
+  "model": "glm-5.3"
+}

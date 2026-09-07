@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ensimmäisessä kuussa, kuukauden neljäntenätoista päivänä, ilta-ajan välissä ⟨on⟩ Pesah Jahvelle.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "Ensimmäisessä kuussa"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ensimmäisessä"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "neljäntenätoista"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-toista"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "kuukauden"
+    },
+    {
+      "surface": "בין",
+      "gloss": "välissä"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "ilta-ajan"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    }
+  ],
+  "timestamp": "2026-09-07T04:12:54.122763839Z",
+  "model": "glm-5.3"
+}

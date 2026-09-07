@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Pelas tivatkö kansojen jumalat ⟨את⟩ heitä — ne, jotka minun isäni hävittivät: ⟨את⟩ Gozanin ja ⟨את⟩ Haranin ja Retsefin ja Edenin lapset, jotka olivat Telassarissa?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Pelas tivatkö"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "heitä"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "jumalat"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kansojen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "hävittivät"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "minun isäni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozanin"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozanin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Haranin"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haranin"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "ja Retsefin"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ja lapset"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edenin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "Telassarissa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:55:22.333148933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "judges 11:27",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Mutta minä en ole syntiä tehnyt sinua vastaan, ja sinä teet ⟨את⟩ ⟨minun kanssani⟩ pahaa sotimalla minua vastaan. Tuomikoon Jahve, tuomari, tänä päivänä Israelin lasten ja Ammonin lasten välillä!",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Mutta minä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ole syntiä tehnyt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinua vastaan"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ja sinä"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teet"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ⟨minun kanssani⟩",
+      "marks": "minä"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pahaa"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "sotimalla"
+    },
+    {
+      "surface": "בי",
+      "gloss": "minua vastaan"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "Tuomikoon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "tuomari"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tänä päivänä"
+    },
+    {
+      "surface": "בין",
+      "gloss": "välillä"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja … välillä"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammonin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:59:06.624809466Z",
+  "model": "glm-5.3"
+}

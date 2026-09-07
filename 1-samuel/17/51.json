@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-samuel 17:51",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "David juoksi ja asettui filistealaisen ylle, otti ⟨את⟩ hänen miekkansa, veti sen tupesta ja tappoi hänen ja katkaisi sillä ⟨את⟩ hänen päänsä. Kun filistealaiset näkivät, että heidän sankarinsa oli kuollut, he pakenivat.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "juoksi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "asettui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ylle"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filistealaisen"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "otti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen miekkansa"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "hänen miekkansa"
+    },
+    {
+      "surface": "וישלפה",
+      "gloss": "veti sen"
+    },
+    {
+      "surface": "מתערה",
+      "gloss": "tupesta"
+    },
+    {
+      "surface": "וימתתהו",
+      "gloss": "tappoi hänet"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "katkaisi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen päänsä"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hänen päänsä"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "näivät"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "filistealaiset"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "מת",
+      "gloss": "kuollut"
+    },
+    {
+      "surface": "גבורם",
+      "gloss": "heidän sankarinsa"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "pakenivat"
+    }
+  ],
+  "timestamp": "2026-09-06T23:13:27.862840163Z",
+  "model": "glm-5.3"
+}

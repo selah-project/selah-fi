@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 6:8",
+  "book": "amos",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Adonai Jahve vannoi nefeshillään — näin sanoo Jahve, Sebaotin Elohim: minä inhoan ⟨את⟩ Ja'akovin (Jaakob) ylpeyden, ja hänen linnojaan minä vihaan, ja minä luovutan kaupungin ja kaiken, mitä siinä on.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "vannoi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "nefeshillään"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "näin sanoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Sebaotin Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaotin"
+    },
+    {
+      "surface": "מתאב",
+      "gloss": "inhoan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ja'akovin ylpeyden"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ylpeyden"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akovin"
+    },
+    {
+      "surface": "וארמנתיו",
+      "gloss": "ja hänen linnojaan"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "minä vihaan"
+    },
+    {
+      "surface": "והסגרתי",
+      "gloss": "ja minä luovutan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "ja kaiken, mitä siinä on"
+    }
+  ],
+  "timestamp": "2026-09-07T05:58:35.727218310Z",
+  "model": "glm-5.3"
+}

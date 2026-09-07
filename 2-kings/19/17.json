@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Totisesti, Jahve, Assurin kuninkaat ovat hävittäneet ⟨את⟩ kansat ja ⟨את⟩ maiden maan.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Totisesti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "ovat hävittäneet"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kuninkaat"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assurin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansat"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kansat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "maan"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "heidän maansa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:57:22.303585046Z",
+  "model": "glm-5.3"
+}

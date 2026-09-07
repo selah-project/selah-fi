@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 13:18",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja hän sanoi: Ota nuolet. Ja hän otti ne. Ja hän sanoi Israelin kuninkaalle: Lyö maahan. Ja hän löi kolme kertaa ja lakkasi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ota"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "nuolet"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ja hän otti"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuninkaalle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "הך",
+      "gloss": "lyö"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ja hän löi"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kertaa"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ja hän lakkasi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:54:24.757423537Z",
+  "model": "glm-5.3"
+}

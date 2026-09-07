@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 31:14",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Ja te kunnioittakaa ⟨את⟩ Shabbat, sillä pyhä se ⟨on⟩ teille; sitä röyhkoja kuolemalla kuolkoon, sillä jokainen, joka tekee siinä työtä, se nefesh hävitettäköön kansansa keskeltä.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Ja te kunnioittakaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabbat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "מחלליה",
+      "gloss": "sitä röyhkoja"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kuolemalla"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "kuolkoon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokainen"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "joka tekee"
+    },
+    {
+      "surface": "בה",
+      "gloss": "siinä"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "työtä"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "hävitettäköön"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "se nefesh"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "keskeltä"
+    },
+    {
+      "surface": "עמיה",
+      "gloss": "kansansa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:41:50.605661424Z",
+  "model": "glm-5.3"
+}

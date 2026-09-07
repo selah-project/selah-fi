@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja Noach heräsi viinistään ja sai tietää ⟨את⟩ sen, minkä hänen nuorin poikansa oli tehnyt hänelle.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "Ja heräsi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "viinistään"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ja sai tietää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen, minkä hänen nuorin poikansa oli tehnyt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minkä"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "oli tehnyt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "poikansa"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "nuorin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:06:29.970698129Z",
+  "model": "glm-5.3"
+}

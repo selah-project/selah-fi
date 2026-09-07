@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 7:1",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Jahve sanoi Noachille (Nooa): ”Tule sinä ja koko talosi arkkiin, sillä ⟨את⟩ sinut minä olen nähnyt vanhurskaaksi edessäni tässä sukupolvessa.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לנח",
+      "gloss": "Noachille (Nooa)"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Tule"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja koko"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "talosi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "arkkiin"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arkkiin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sinut",
+      "marks": "sinut (objekti: nähnyt sinut)"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "minä olen nähnyt"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "vanhurskaaksi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessäni"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "tässä sukupolvessa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tässä sukupolvessa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:06:55.046995722Z",
+  "model": "glm-5.3"
+}

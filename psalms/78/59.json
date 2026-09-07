@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 78:59",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 78,
+  "translation": "Elohim kuuli ⟨sen⟩ ja vihastui kovin ja hylkäsi Israelin suuresti.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "kuuli"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "vihastui"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "hylkäsi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "suuresti"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-07T02:26:51.757046808Z",
+  "model": "glm-5.3"
+}

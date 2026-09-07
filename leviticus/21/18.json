@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 21:18",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "sillä jokainen mies, jossa hänessä on vika, ei saa lähestyä: sokea mies tai ontuva tai litteänenäinen tai epämuodostunut.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokainen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jossa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hänessä"
+    },
+    {
+      "surface": "מום",
+      "gloss": "vika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "lähesty"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "עור",
+      "gloss": "sokea"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ontuva"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "litteänenäinen"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "epämuodostunut"
+    }
+  ],
+  "timestamp": "2026-09-06T21:57:33.813740436Z",
+  "model": "glm-5.3"
+}

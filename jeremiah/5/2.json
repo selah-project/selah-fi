@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja jos he sanovat: »Niin totta kuin Jahve elää», totisesti valheeseen he vannovat.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ja jos"
+    },
+    {
+      "surface": "חי",
+      "gloss": "elää"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "he sanovat"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "totisesti"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "valheeseen"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "he vannovat"
+    }
+  ],
+  "timestamp": "2026-09-07T00:26:41.735089730Z",
+  "model": "glm-5.3"
+}

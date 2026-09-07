@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Silloin he nousivat ja pakenivat hämärässä ja jättivät ⟨את⟩ telttansa ja ⟨את⟩ hevosensa ja ⟨את⟩ aasinsa — leirin sellaisenaan — ja pakenivat henkensä edestä.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "he nousivat"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "ja pakenivat"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "hämärässä"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "ja jättivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "telttansa"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "telttansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hevosensa"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "hevosensa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "aasinsa"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "aasinsa"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "leirin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sellaisenaan"
+    },
+    {
+      "surface": "היא",
+      "gloss": "kuin se oli"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ja pakenivat"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "henkensä edestä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:50:07.940817807Z",
+  "model": "glm-5.3"
+}

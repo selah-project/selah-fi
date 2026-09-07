@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 40:7",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ja hän kysyi ⟨את⟩ Paron (farao) eunukeilta, jotka olivat ⟨את⟩ hänen kanssaan vankeudessa herransa talossa, sanoen: Miksi kasvonne ovat pahat tänä päivänä?",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Ja hän kysyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eunukeilta"
+    },
+    {
+      "surface": "סריסי",
+      "gloss": "eunukeilta"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänen kanssaan",
+      "marks": "vankeudessa"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "vankeudessa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "talossa"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "herransa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Miksi"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "kasvonne"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "pahat"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tänä päivänä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:22:14.165681760Z",
+  "model": "glm-5.3"
+}

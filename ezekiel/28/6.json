@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 28:6",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Sen tähden, näin sanoo Adonai Jahve: koska panit ⟨את⟩ sydämesi niin kuin jumalan sydämen —",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "sen tähden"
+    },
+    {
+      "surface": "כה",
+      "gloss": "näin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יען",
+      "gloss": "koska"
+    },
+    {
+      "surface": "תתך",
+      "gloss": "panit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sydämesi"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "sydämesi"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "niin kuin sydämen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jumalan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:05:17.717512320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 136,
+  "translation": "Hänelle, joka levitti maan vesien päälle, sillä iankaikkisesti ⟨on⟩ hänen hesedinsä.",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "Hänelle, joka levitti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vesien"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hänen hesedinsä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:52:01.380649837Z",
+  "model": "glm-5.3"
+}

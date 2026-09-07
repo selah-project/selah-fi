@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 7:25",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Sillä jokainen, joka syö rasvaa eläimistä, joista tuodaan tuliuhi Jahvelle, hävitetään se nefesh, joka syö, kansansa keskeltä.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokainen"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "joka syö"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "rasvaa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-sta"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "eläimistä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joista"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "tuodaan"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "siitä"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tuliuhi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "hävitetään"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "se nefesh"
+    },
+    {
+      "surface": "האכלת",
+      "gloss": "joka syö"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "kansansa keskeltä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:49:33.269675613Z",
+  "model": "glm-5.3"
+}

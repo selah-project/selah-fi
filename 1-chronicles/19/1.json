@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 19:1",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja tapahtui sen jälkeen, että Nahash (Naas), Ammonin poikien kuningas, kuoli, ja hänen poikansa tuli kuninkaaksi hänen sijaansa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sen jälkeen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "että"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "kuoli"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nahash"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikien"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammonin"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "tuli kuninkaaksi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "hänen sijaansa"
+    }
+  ],
+  "timestamp": "2026-09-07T05:24:44.949408345Z",
+  "model": "glm-5.3"
+}

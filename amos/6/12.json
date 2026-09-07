@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 6:12",
+  "book": "amos",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Juoksevatko hevoset kalliossa, vai kyntävätkö härillä? Sillä te olette kääntäneet oikeuden myrkyksi ja vanhurskauden hedelmän koiruohoksi.",
+  "tokens": [
+    {
+      "surface": "הירצון",
+      "gloss": "Juoksevatko"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "kalliossa"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "hevoset"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vai"
+    },
+    {
+      "surface": "יחרוש",
+      "gloss": "kyntävätkö"
+    },
+    {
+      "surface": "בבקרים",
+      "gloss": "härillä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "הפכתם",
+      "gloss": "te olette kääntäneet"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "myrkyksi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "oikeuden"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "ja hedelmän"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "vanhurskauden"
+    },
+    {
+      "surface": "ללענה",
+      "gloss": "koiruohoksi"
+    }
+  ],
+  "timestamp": "2026-09-07T01:30:09.628003647Z",
+  "model": "glm-5.3"
+}

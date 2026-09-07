@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 31:9",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Ja he leikkasivat ⟨את⟩ hänen päänsä ja riisuivat ⟨את⟩ hänen varusteensa ja lähettivät ympäri Pelishtimien maata julistamaan ⟨sitä⟩ heidän epäjumaliensa huoneessa ja ⟨את⟩ kansan ⟨keskuudessa⟩.",
+  "tokens": [
+    {
+      "surface": "ויכרתו",
+      "gloss": "leikkasivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen päänsä"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hänen päänsä"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "riisuivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen varusteensa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "hänen varusteensa"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "lähettivät"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtimien"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympäri"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "julistamaan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneessa"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "heidän epäjumaliensa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kansa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:19:09.003854147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 59,
+  "translation": "Katso, ei ole lyhentynyt Jahven käsi pelastamasta, eikä hänen korvansa ⟨on⟩ raskas kuulemasta.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "on lyhentynyt"
+    },
+    {
+      "surface": "יד",
+      "gloss": "käsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "pelastamasta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "raskas"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "hänen korvansa"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "kuulemasta"
+    }
+  ],
+  "timestamp": "2026-09-07T00:21:12.691848295Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja David ajoi takaa, hän ja neljäsataa miestä, ja kaksisataa miestä jäivät seisomaan, koska ⟨he olivat liian uupuneita⟩ ylittämään ⟨את⟩ Nahal HaBesorin puroa.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "ja ajoi takaa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ja neljä"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sataa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miestä"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ja jäivät"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "kaksisataa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miestä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "uupuivat"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ylittämästä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahal HaBesorin puro"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "puro"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "HaBesor"
+    }
+  ],
+  "timestamp": "2026-09-06T23:16:31.505964693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 64:10",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 64,
+  "translation": "Meidän pyhä majamme ja kauneutemme, jossa meidän isämme ylistivät sinua, on tullut tuleen poltettavaksi, ja kaikki rakkainmamme on autioksi.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "majamme"
+    },
+    {
+      "surface": "קדשנו",
+      "gloss": "pyhä"
+    },
+    {
+      "surface": "ותפארתנו",
+      "gloss": "ja kauneutemme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jossa"
+    },
+    {
+      "surface": "הללוך",
+      "gloss": "ylistivät sinua"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "meidän isämme"
+    },
+    {
+      "surface": "היה",
+      "gloss": "on tullut"
+    },
+    {
+      "surface": "לשרפת",
+      "gloss": "poltettavaksi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tuleen"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "מחמדינו",
+      "gloss": "rakkainmamme"
+    },
+    {
+      "surface": "היה",
+      "gloss": "on"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "autioksi"
+    }
+  ],
+  "timestamp": "2026-09-07T00:22:17.371624959Z",
+  "model": "glm-5.3"
+}

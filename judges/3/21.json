@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja Ehud ojensi ⟨את⟩ vasemman kätensä ja otti ⟨את⟩ miekan pois oikean reidensä päältä ja iski sen hänen vatsaansa.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ja ojensi"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "Ehud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vasemman kätensä"
+    },
+    {
+      "surface": "יד",
+      "gloss": "käden"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "vasemman"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ja otti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miekan"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "miekan"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "pois"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "reidensä"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "oikean"
+    },
+    {
+      "surface": "ויתקעה",
+      "gloss": "ja iski sen"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "hänen vatsaansa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:54:35.038490345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 14:4",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "ja kohen käskee ottaa puhdistettavaksi kaksi elävää puhdasta lintua ja setripuun ja punaisen kankaan ja iisoppia (saunakukka):",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "ja käskee"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "ja ottaa"
+    },
+    {
+      "surface": "למטהר",
+      "gloss": "puhdistettavaksi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "lintua"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "elävää"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "puhdasta"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ja puun"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "setri-"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ja punainen"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "kangas (tulikukkanpunainen)"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "ja iisoppi (saunakukka)"
+    }
+  ],
+  "timestamp": "2026-09-06T21:52:45.982764219Z",
+  "model": "glm-5.3"
+}

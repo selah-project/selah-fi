@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 31:3",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Ja Jahve sanoi Ja'akoville: Palaa isies maalle ja syntymämaahasi, ja minä olen sinun kanssasi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-lle"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akov"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Palaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tilitys"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maalle"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "isies"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "ja syntymämaahasi"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "ja minä olen"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sinun kanssasi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:17:57.338448497Z",
+  "model": "glm-5.3"
+}

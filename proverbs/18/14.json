@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 18:14",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Miehen henki kantaa hänen sairauttaan, mutta runneltua henkeä — kuka voi sitä kantaa?",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "henki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "kantaa"
+    },
+    {
+      "surface": "מחלהו",
+      "gloss": "hänen sairauttaan"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "mutta henki"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "runneltua"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "ישאנה",
+      "gloss": "voi sitä kantaa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:13:37.981035625Z",
+  "model": "glm-5.3"
+}

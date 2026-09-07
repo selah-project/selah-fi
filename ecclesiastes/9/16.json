@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 9:16",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja minä sanoin: parempi ⟨on⟩ viisaus kuin voima, mutta köyhän viisaus on halveksittu, eikä hänen sanojaan kuulla.",
+  "tokens": [
+    {
+      "surface": "ואמרתי",
+      "gloss": "ja sanoin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "parempi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "viisaus"
+    },
+    {
+      "surface": "מגבורה",
+      "gloss": "kuin voima"
+    },
+    {
+      "surface": "וחכמת",
+      "gloss": "mutta köyhän viisaus"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "köyhän"
+    },
+    {
+      "surface": "בזויה",
+      "gloss": "on halveksittu"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "ja hänen sanansa"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "kuulua"
+    }
+  ],
+  "timestamp": "2026-09-07T04:38:18.095514Z",
+  "model": "glm-5.3"
+}

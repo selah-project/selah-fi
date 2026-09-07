@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 12:3",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja te hajotatte ⟨את⟩ heidän alttarinsa ja murskaatte ⟨את⟩ heidän pystykivensä, ja heidän asheransa te poltatte tulessa, ja heidän jumaliensa veistokuvat te kaadatte, ja te hävytättätte ⟨את⟩ heidän nimensä siitä paikasta.",
+  "tokens": [
+    {
+      "surface": "ונתצתם",
+      "gloss": "Ja te hajotatte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän alttarinsa"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "heidän alttarinsa"
+    },
+    {
+      "surface": "ושברתם",
+      "gloss": "ja murskaatte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän pystykivensä"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "heidän pystykivensä"
+    },
+    {
+      "surface": "ואשריהם",
+      "gloss": "ja heidän asheransa"
+    },
+    {
+      "surface": "תשרפון",
+      "gloss": "te poltatte"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulessa"
+    },
+    {
+      "surface": "ופסילי",
+      "gloss": "ja heidän jumaliensa veistokuvat"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "heidän jumalansa"
+    },
+    {
+      "surface": "תגדעון",
+      "gloss": "te kaadatte"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "ja te hävytättätte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän nimensä"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "heidän nimensä"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sta"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "paika"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-09-06T22:30:00.397601543Z",
+  "model": "glm-5.3"
+}

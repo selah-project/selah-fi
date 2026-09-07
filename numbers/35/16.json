@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 35:16",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 35,
+  "translation": "Ja jos hän rautaisella esineellä löi häntä ja hän kuoli: murhaaja hän on, kuolemalla kuolkoon murhaaja.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ja jos"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "esineellä"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "rautaisella"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "löi häntä"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ja hän kuoli"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "murhaaja"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän on"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kuolemalla"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "kuolkoon"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "murhaaja"
+    }
+  ],
+  "timestamp": "2026-09-06T22:22:00.859189990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 18:2",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja David lähetti ⟨את⟩ kansan: kolmasosan Joabin (Joab) käteen ja kolmasosan Avishain (Abisai), Tserujan (Seruja) pojan, Joabin veljen, käteen, ja kolmasosan Ittain (Itai) gittiläisen käteen. Ja kuningas sanoi kansalle: lähtemällä lähden, minä myös, teidän kanssanne.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ja lähetti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "kolmasosan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käteen"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabin"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "ja kolmasosan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käteen"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Avishain"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tserujan"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "veljen"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabin"
+    },
+    {
+      "surface": "והשלשת",
+      "gloss": "ja kolmasosan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käteen"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "Ittain"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "gittiläisen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-lle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansalle"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lähtemällä"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "lähden"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "teidän kanssanne"
+    }
+  ],
+  "timestamp": "2026-09-06T23:27:53.575401510Z",
+  "model": "glm-5.3"
+}

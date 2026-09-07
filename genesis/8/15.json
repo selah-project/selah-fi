@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja Elohim puhui Noachille sanoen:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ja puhui"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…lle"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:06:18.706172473Z",
+  "model": "glm-5.3"
+}

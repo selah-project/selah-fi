@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "eivätkä he menkö sisään katsomaan, kun ⟨את⟩ pyhä niellään, muuten he kuolevat.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "he menkö"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "katsomaan"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "kun niellään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pyhä"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pyhä"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "ja he kuolevat"
+    }
+  ],
+  "timestamp": "2026-09-06T22:03:44.967151797Z",
+  "model": "glm-5.3"
+}

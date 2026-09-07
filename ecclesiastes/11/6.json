@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Aamulla kylvä ⟨את⟩ siemenesi, ja illalla älä anna kätesi levätä, sillä et tiedä, kumpi menestyy, tämäkö vai tämä, ja jos molemmat, ne ovat yhtäläisesti hyvät.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "Aamulla"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kylvä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siemenesi"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "siemenesi"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "ja illalla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "anna levätä"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kätesi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "et"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "tiedä"
+    },
+    {
+      "surface": "אי",
+      "gloss": "kumpi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "menestyy"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämäkö"
+    },
+    {
+      "surface": "או",
+      "gloss": "vai"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ja jos"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "molemmat"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "yhtäläisesti"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "hyvät"
+    }
+  ],
+  "timestamp": "2026-09-07T04:39:20.477063043Z",
+  "model": "glm-5.3"
+}

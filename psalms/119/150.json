@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 150,
+  "ref": "psalms 119:150",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Lähestyvät pahan ajajat; Torastasi he ovat kaukana.",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "lähestyvät"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "ajajat"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "pahan"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "Torastasi"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "ovat kaukana"
+    }
+  ],
+  "timestamp": "2026-09-07T02:47:58.935281113Z",
+  "model": "glm-5.3"
+}

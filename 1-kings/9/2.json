@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "että Jahve ilmestyi Shelomolle toisen kerran, niin kuin hän oli ilmestynyt hänelle Giv'onissa (Gibeon).",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "että ilmestyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomolle"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "toisen kerran"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "oli ilmestynyt"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "Giv'onissa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:38:15.036168555Z",
+  "model": "glm-5.3"
+}

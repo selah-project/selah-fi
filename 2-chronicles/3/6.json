@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja hän päällysti ⟨את⟩ huoneen kalliilla kivillä kauneutta varten, ja kulta oli Parvaimin kultaa.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "ja hän päällysti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huoneen"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kivillä"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "kalliilla"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "kauneutta varten"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "ja kulta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kultaa"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "Parvaimin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:31:36.953341633Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja Shaul lähetti lähettiläitä ottamaan ⟨את⟩ Davidin, ja hän sanoi: ”Hän ⟨on⟩ sairas.”",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ja lähetti"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "lähettiläitä"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ottamaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "sairas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    }
+  ],
+  "timestamp": "2026-09-06T23:12:47.258959726Z",
+  "model": "glm-5.3"
+}

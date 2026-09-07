@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 13:8",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja Tamar meni Amnonin, veljensä, taloon, ja hän makasi, ja hän otti ⟨את⟩ taikinan ja vaivoi ja teki hänen silmiensä edessä sydänkakkuja ja keitti ⟨את⟩ kakut.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "Ja meni"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "taloon"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnonin"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "veljensä"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ja hän"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "makasi"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ja otti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taikinan"
+    },
+    {
+      "surface": "הבצק",
+      "gloss": "taikinan"
+    },
+    {
+      "surface": "ותלוש",
+      "gloss": "ja vaivoi"
+    },
+    {
+      "surface": "ותלבב",
+      "gloss": "ja teki"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "hänen silmiensä edessä"
+    },
+    {
+      "surface": "ותבשל",
+      "gloss": "ja keitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kakut"
+    },
+    {
+      "surface": "הלבבות",
+      "gloss": "kakut"
+    }
+  ],
+  "timestamp": "2026-09-06T23:24:46.050854889Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja hän teurastaa ⟨את⟩ karjan pojan Jahven edessä, ja Aharonin (Aaronin) pojat, kohenit (papit), tuovat ⟨את⟩ veren ja roiskivat ⟨את⟩ veren alttarille ympärille, joka on kokousteltan suulla.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "ja hän teurastaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karjan pojan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "karjan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "ja tuovat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonin (Aaronin)"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohenit (papit)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veren"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "veren"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "ja roiskivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veren"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "veren"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarille"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympärille"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "suulla"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kokouksen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:47:41.376845249Z",
+  "model": "glm-5.3"
+}

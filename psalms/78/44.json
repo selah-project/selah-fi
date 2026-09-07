@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 78:44",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 78,
+  "translation": "Ja hän käänsi heidän jokensa vereksi ja heidän virtansa, niin etteivät he voineet juoda.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "ja hän käänsi"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "vereksi"
+    },
+    {
+      "surface": "יאריהם",
+      "gloss": "heidän jokensa"
+    },
+    {
+      "surface": "ונזליהם",
+      "gloss": "ja heidän virtansa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ei mitenkään"
+    },
+    {
+      "surface": "ישתיון",
+      "gloss": "he saaneet juoda"
+    }
+  ],
+  "timestamp": "2026-09-07T02:26:54.206819750Z",
+  "model": "glm-5.3"
+}

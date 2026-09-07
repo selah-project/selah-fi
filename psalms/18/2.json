@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja hän sanoi: ”Rakastan sinua, Jahve, voimani.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "rakastan sinua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "voimani"
+    }
+  ],
+  "timestamp": "2026-09-07T01:56:51.883443152Z",
+  "model": "glm-5.3"
+}

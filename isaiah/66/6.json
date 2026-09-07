@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 66:6",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 66,
+  "translation": "Ääni melua kaupungista, ääni temppelistä, Jahven ääni, joka maksaa palkan vihollisilleen.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Ääni"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "melua"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "kaupungista"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ääni"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "temppelistä"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ääni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "joka maksaa"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "palkan"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "vihollisilleen"
+    }
+  ],
+  "timestamp": "2026-09-07T00:22:34.698160026Z",
+  "model": "glm-5.3"
+}

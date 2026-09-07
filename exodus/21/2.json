@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 21:2",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Kun ostat heprealaisen orjan, hän palvelee kuusi vuotta, ja seitsemntenä hän lähtee vapaaksi, maksutta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "ostat"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "orjan"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "heprealaisen"
+    },
+    {
+      "surface": "שש",
+      "gloss": "kuusi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "hän palvelee"
+    },
+    {
+      "surface": "ובשבעת",
+      "gloss": "ja seitsemantenä"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "hän lähtee"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "vapaaksi"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "maksutta"
+    }
+  ],
+  "timestamp": "2026-09-06T21:38:14.312731439Z",
+  "model": "glm-5.3"
+}

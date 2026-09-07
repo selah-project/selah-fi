@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja kohen suitsuttaa ⟨את⟩ sen muisto-osan, sen jyvistä ja sen öljystä, kaiken sen suitsukkeen kanssa — tuluhri Jahvelle.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "ja suitsuttaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen muisto-osan"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "sen muisto-osan"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sen jyvistä"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "ja sen öljystä"
+    },
+    {
+      "surface": "על",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "sen suitsukkeen"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tuluhri"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    }
+  ],
+  "timestamp": "2026-09-06T21:47:49.828093524Z",
+  "model": "glm-5.3"
+}

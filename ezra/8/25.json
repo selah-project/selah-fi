@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 8:25",
+  "book": "ezra",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja punnitsin heille ⟨את⟩ hopean ja ⟨את⟩ kullan ja ⟨את⟩ astiat — teruman ⟨uhraamislahjan⟩ Elohimimme huoneelle, jonka kuningas ja hänen neuvonantajansa ja hänen pääruhtinansa ja koko Israel, jotka olivat läsnä, olivat kohottaneet.",
+  "tokens": [
+    {
+      "surface": "ואשקולה",
+      "gloss": "Ja punnitsin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hopean"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "hopean"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kullan"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kullan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "astiat"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "astiat"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "teruman"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneelle"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimme"
+    },
+    {
+      "surface": "ההרימו",
+      "gloss": "olivat kohottaneet"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "ויעציו",
+      "gloss": "ja hänen neuvonantajansa"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "ja hänen pääruhtinansa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja koko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "jotka olivat läsnä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:59:56.548751888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Silmäni himmenee kiukusta, se vanhenee kaikkien vihollisteni tähden.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "himmenee"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "kiukusta"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "Silmäni"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "vanhenee"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaikkien"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "vihollisteni"
+    }
+  ],
+  "timestamp": "2026-09-07T01:51:23.101481970Z",
+  "model": "glm-5.3"
+}

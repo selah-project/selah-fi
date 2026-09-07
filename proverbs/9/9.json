@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 9:9",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Anna viisaalle, ja hän tulee vielä viisaammaksi; tee tiettäväksi vanhurskaalle, ja hän lisää oppia.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Anna"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "viisaalle"
+    },
+    {
+      "surface": "ויחכם",
+      "gloss": "ja hän tulee viisaammaksi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vielä"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "tee tiettäväksi"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "vanhurskaalle"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ja hän lisää"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "oppia"
+    }
+  ],
+  "timestamp": "2026-09-07T03:01:46.745473507Z",
+  "model": "glm-5.3"
+}

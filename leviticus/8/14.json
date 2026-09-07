@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 8:14",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja hän toi lähelle ⟨את⟩ sonnin, syntiuhrieläimen, ja Aharon ja hänen poikansa laskivat kätensä ⟨את⟩ sonnin, syntiuhrieläimen, päähän.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "toi lähelle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sonnin"
+    },
+    {
+      "surface": "פר",
+      "gloss": "sonnin"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syntiuhrieläimen"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "laskivat"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ja hänen poikansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kätensä"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "kätensä"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "ראש",
+      "gloss": "päähän"
+    },
+    {
+      "surface": "פר",
+      "gloss": "sonnin"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syntiuhrieläimen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:51:41.263694362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 28:25",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Jolla ⟨on⟩ leveä nefesh, kiihottaa riitaa; mutta Jahveen turvautuvaa ravitaan.",
+  "tokens": [
+    {
+      "surface": "רחב",
+      "gloss": "leveä"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "kiihottaa"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "riitaa"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "mutta turvautuvaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveen"
+    },
+    {
+      "surface": "ידשן",
+      "gloss": "ravitaan"
+    }
+  ],
+  "timestamp": "2026-09-07T03:20:18.592244806Z",
+  "model": "glm-5.3"
+}

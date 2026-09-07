@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joel 4:7",
+  "book": "joel",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Katso, minä herätän heidät siitä paikasta, jonne te myitte ⟨את⟩ heidät, ja minä palaannutan teidän tekonne teidän omalle päällenne",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Katso, minä"
+    },
+    {
+      "surface": "מעירם",
+      "gloss": "herätän heidät"
+    },
+    {
+      "surface": "מן",
+      "gloss": "siitä"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "paikasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonne"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "te myitte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ heidät",
+      "marks": "heidät"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sinne"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "ja minä palaannutan"
+    },
+    {
+      "surface": "גמלכם",
+      "gloss": "teidän tekonne"
+    },
+    {
+      "surface": "בראשכם",
+      "gloss": "teidän päällenne"
+    }
+  ],
+  "timestamp": "2026-09-07T01:26:24.673877573Z",
+  "model": "glm-5.3"
+}

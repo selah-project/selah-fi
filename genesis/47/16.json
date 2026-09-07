@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 47,
+  "translation": "Ja Josef sanoi: ”Antakaa karjanne, niin minä annan teille karjaanne ⟨vastaan⟩, jos hopea on lopussa.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Antakaa"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "karjanne"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "niin minä annan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "karjaanne"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "on lopussa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "hopea"
+    }
+  ],
+  "timestamp": "2026-09-06T21:26:27.577491576Z",
+  "model": "glm-5.3"
+}

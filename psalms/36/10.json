@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 36,
+  "translation": "Sillä sinun luonasi ⟨on⟩ elämän lähde; sinun valossasi me näemme valon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sinun luonasi"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "lähde"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "elämän"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "sinun valossasi"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "me näemme"
+    },
+    {
+      "surface": "אור",
+      "gloss": "valon"
+    }
+  ],
+  "timestamp": "2026-09-07T02:03:39.460263563Z",
+  "model": "glm-5.3"
+}

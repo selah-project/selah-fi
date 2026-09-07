@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja Hazael, Aramin (Syyrian) kuningas, ahdisti ⟨את⟩ Israelia kaikki Jehoahazin päivät.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "Ja Hazael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram (Syyria)"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "ahdisti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päivät"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoahazin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:53:00.994232319Z",
+  "model": "glm-5.3"
+}

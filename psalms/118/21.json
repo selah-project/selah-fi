@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 118:21",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 118,
+  "translation": "Kiitän sinua, sillä sinä vastasit minulle ja tulit minulle pelastukseksi.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Kiitän sinua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "sinä vastasit minulle"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ja sinä tulit"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "pelastukseksi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:43:45.456333559Z",
+  "model": "glm-5.3"
+}

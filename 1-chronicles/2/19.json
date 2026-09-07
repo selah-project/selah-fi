@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 2:19",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Azuva kuoli, ja Kalev otti itselleen ⟨את⟩ Efratin, ja hän synnytti hänelle ⟨את⟩ Hurin.",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "ja kuoli"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "Azuva"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ja otti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "itselleen"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efratin"
+    },
+    {
+      "surface": "אפרת",
+      "gloss": "Efratin"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ja synnytti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hurin"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Hurin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:11:52.082643891Z",
+  "model": "glm-5.3"
+}

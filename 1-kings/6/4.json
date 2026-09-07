@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja hän teki talolle kapearakenteiset ikkunat, sisältä umpinaiset.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ja hän teki"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "talolle"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "ikkunat"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "kapearakenteiset"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "umpinaiset"
+    }
+  ],
+  "timestamp": "2026-09-06T23:34:26.154608027Z",
+  "model": "glm-5.3"
+}

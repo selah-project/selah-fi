@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Tamar, hänen miniänsä, synnytti hänelle ⟨את⟩ Peretsin ja ⟨את⟩ Zerachin. Kaikki Yehudan pojat ⟨olivat⟩ viisi.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Ja Tamar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "hänen miniänsä"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peretsin"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Peretsin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Zerachin"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerachin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Kaikki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudan"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "viisi"
+    }
+  ],
+  "timestamp": "2026-09-07T05:11:52.435645149Z",
+  "model": "glm-5.3"
+}

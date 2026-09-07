@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 141,
+  "translation": "Sillä sinuun, Jahve, Adonai, ⟨kohdistuvat⟩ silmäni; sinuun minä turvautuin — älä paljasta nefishini.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinuun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "silmäni"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "sinuun"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "minä turvautuin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תער",
+      "gloss": "paljasta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefishini"
+    }
+  ],
+  "timestamp": "2026-09-07T02:53:55.982059493Z",
+  "model": "glm-5.3"
+}

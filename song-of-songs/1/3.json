@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 1:3",
+  "book": "song-of-songs",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Tuoksuksi öljyysi ovat hyvät; vuodatettua öljyä ⟨on⟩ sinun nimesi; siksi neidot rakastavat sinua.",
+  "tokens": [
+    {
+      "surface": "לריח",
+      "gloss": "tuoksuksi"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "öljyysi"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "hyvät"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "öljy"
+    },
+    {
+      "surface": "תורק",
+      "gloss": "vuodatettua"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sinun nimesi"
+    },
+    {
+      "surface": "על",
+      "gloss": "sen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vuoksi"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "neidot"
+    },
+    {
+      "surface": "אהבוך",
+      "gloss": "rakastavat sinua"
+    }
+  ],
+  "timestamp": "2026-09-07T03:54:18.287980671Z",
+  "model": "glm-5.3"
+}

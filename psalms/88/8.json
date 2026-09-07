@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 88,
+  "translation": "Päälläni lepää vihasi, ja kaikilla aalloillasi sinä painoit minua alas. Sela.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "päälläni"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "lepää"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "vihasi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikilla"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "aalloillasi"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "sinä painoit minua alas"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-07T02:30:38.546261081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 95,
+  "ref": "psalms 119:95",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Minua jumalattomat odottavat tuhotakseen minut, mutta sinun todistuksiasi minä tutkiskelen.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "minua"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "odottavat"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jumalattomat"
+    },
+    {
+      "surface": "לאבדני",
+      "gloss": "tuhotakseen minut"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "sinun todistuksiasi"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "minä tutkiskelen"
+    }
+  ],
+  "timestamp": "2026-09-07T02:47:30.666404504Z",
+  "model": "glm-5.3"
+}

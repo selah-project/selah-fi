@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 24:18",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja he hylkäsivät ⟨את⟩ Jahven, heidän isiensä Elohimin, huoneen ja palvelivat ⟨את⟩ ashereja ja ⟨את⟩ jumalankuvia; ja tuli viha Jehudan ja Jerushalajimin (Jerusalemin) päälle heidän syyllisyytensä tähden.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "ja he hylkäsivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven ... huoneen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "heidän isiensä"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ja palvelivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ashereja"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "ashereja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "jumalankuvia"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "jumalankuvia"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "viha"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ja Jerushalajimin"
+    },
+    {
+      "surface": "באשמתם",
+      "gloss": "heidän syyllisyytensä tähden"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tämän"
+    }
+  ],
+  "timestamp": "2026-09-07T05:44:13.359772017Z",
+  "model": "glm-5.3"
+}

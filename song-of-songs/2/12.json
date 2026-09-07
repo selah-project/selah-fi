@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 2:12",
+  "book": "song-of-songs",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Kukat näkyvät maassa, laulun aika on tullut, ja turtturin ääni kuuluu maassamme.",
+  "tokens": [
+    {
+      "surface": "הנצנים",
+      "gloss": "kukat"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "näkyvät"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "aika"
+    },
+    {
+      "surface": "הזמיר",
+      "gloss": "laulun"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "on tullut"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ja ääni"
+    },
+    {
+      "surface": "התור",
+      "gloss": "turtturin"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "kuuluu"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "maassamme"
+    }
+  ],
+  "timestamp": "2026-09-07T03:53:37.130340410Z",
+  "model": "glm-5.3"
+}

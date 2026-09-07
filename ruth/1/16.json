@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 1:16",
+  "book": "ruth",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja Rut sanoi: Älä painosta minua jättämään sinua, kääntymään sinun jäljestäsi; sillä jonne sinä menet, minä menen, ja jossa sinä yöyt, minä yöyn — kansasi ⟨on⟩ kansani, ja Elohimesi ⟨on⟩ Elohimini.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Rut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תפגעי",
+      "gloss": "painosta"
+    },
+    {
+      "surface": "בי",
+      "gloss": "minua"
+    },
+    {
+      "surface": "לעזבך",
+      "gloss": "jättämään sinua"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "kääntymään"
+    },
+    {
+      "surface": "מאחריך",
+      "gloss": "sinun jäljestäsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jonne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonne"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "sinä menet"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "minä menen"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "ja jossa"
+    },
+    {
+      "surface": "תליני",
+      "gloss": "sinä yöyt"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "minä yöyn"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kansasi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kansani"
+    },
+    {
+      "surface": "ואלהיך",
+      "gloss": "ja Elohimesi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimini"
+    }
+  ],
+  "timestamp": "2026-09-07T03:59:22.870039838Z",
+  "model": "glm-5.3"
+}

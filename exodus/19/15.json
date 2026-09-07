@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 19:15",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja hän sanoi kansalle: Olkaa valmiina kolmen päivän ajan; älkää lähestykö naista.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…lle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "היו",
+      "gloss": "olkoon"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "valmiina"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "kolmen"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivän ajan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "lähestykö"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…a"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "naista"
+    }
+  ],
+  "timestamp": "2026-09-06T21:35:33.971732539Z",
+  "model": "glm-5.3"
+}

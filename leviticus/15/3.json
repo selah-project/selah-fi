@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Ja tämä ⟨on⟩ hänen epäpuhtautensa hänen vuotonsa vuoksi: kun hänen lihansa vuotaa vuotonsa ⟨את⟩ tai hänen lihansa on tukittu vuodostaan, se ⟨on⟩ hänen epäpuhtautensa.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ja tämä"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "on"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "hänen epäpuhtautensa"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "hänen vuotonsa"
+    },
+    {
+      "surface": "רר",
+      "gloss": "vuotaa"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "hänen lihansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vuotonsa"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "hänen vuotonsa"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "tukittu"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "hänen lihansa"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "vuodestaan"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "hänen epäpuhtautensa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-09-06T21:53:54.819052380Z",
+  "model": "glm-5.3"
+}

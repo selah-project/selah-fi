@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja koko Jabesh-Gilead kuuli ⟨את⟩ kaiken, minkä filistealaiset olivat tehneet Shaulille.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ja kuulivat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Jabesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minkä"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "olivat tehneet"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistealaiset"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaulille"
+    }
+  ],
+  "timestamp": "2026-09-07T05:18:24.949189637Z",
+  "model": "glm-5.3"
+}

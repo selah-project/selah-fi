@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 18:10",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Poikasi tyttären tai tyttäresi tyttären paljaus — heidän paljauttaan älä paljasta, sillä sinun paljautesi he ⟨ovat⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "paljaus"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tytär"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "poikasi"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tytär"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "tyttäresi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "paljasta"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "heidän paljauttaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "sinun paljautesi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "he ⟨ovat⟩"
+    }
+  ],
+  "timestamp": "2026-09-06T21:54:28.198056752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 8:17",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja sanot sydämessäsi: ”Voimani ja käteni väkevyys teki minulle ⟨את⟩ tämän rikkauden.”",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ja sanot"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "sydämessäsi"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "voimani"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "ja väkevyys"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "käteni"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän rikkauden"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "rikkauden"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    }
+  ],
+  "timestamp": "2026-09-07T04:16:16.637071021Z",
+  "model": "glm-5.3"
+}

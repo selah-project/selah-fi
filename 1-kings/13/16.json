@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja hän sanoi: ”En voi palata ⟨את⟩ kanssasi, enkä tulla ⟨את⟩ kanssasi, enkä syödä leipää enkä juoda ⟨את⟩ kanssasi vettä tässä paikassa.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "En"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "voi"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "palata"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kanssasi",
+      "marks": "kanssasi"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "enkä tulla"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kanssasi",
+      "marks": "kanssasi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "syödä"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "juoda"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kanssasi",
+      "marks": "kanssasi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vettä"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "paikassa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tässä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:39:28.028466397Z",
+  "model": "glm-5.3"
+}

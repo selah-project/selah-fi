@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 32:8",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Näin tekivät teidän isänne, kun lähetin ⟨את⟩ heidät Kadesh-Barneasta katsomaan ⟨את⟩ maata.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "näin"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "tekivät"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "teidän isänne"
+    },
+    {
+      "surface": "בשלחי",
+      "gloss": "kun lähetin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ heidät"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "Kadesh-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barneasta"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "katsomaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maata"
+    }
+  ],
+  "timestamp": "2026-09-06T22:18:58.745182628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 11:10",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Sillä maa, jonne sinä menet sen periäksesi, ei ole niin kuin Mitsrajimin (Egyptin) maa, josta te lähditte, jossa sinä kylvät ⟨את⟩ siemenesi ja kastelet sitä jalallasi, niin kuin vihannespuutarhaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonne"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "בא",
+      "gloss": "menet"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sinne"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "sen periäksesi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "niin kuin maa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim (Egypti)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "josta"
+    },
+    {
+      "surface": "יצאתם",
+      "gloss": "te lähditte"
+    },
+    {
+      "surface": "משם",
+      "gloss": "sieltä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jossa"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "sinä kylvät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siemenesi"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "siemenesi"
+    },
+    {
+      "surface": "והשקית",
+      "gloss": "ja kastelet"
+    },
+    {
+      "surface": "ברגלך",
+      "gloss": "sitä jalallasi"
+    },
+    {
+      "surface": "כגן",
+      "gloss": "niin kuin puutarhaa"
+    },
+    {
+      "surface": "הירק",
+      "gloss": "vihannes"
+    }
+  ],
+  "timestamp": "2026-09-06T22:27:17.885465807Z",
+  "model": "glm-5.3"
+}

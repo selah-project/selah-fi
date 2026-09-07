@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 18:4",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Antakaa itsellenne kolme miestä jokaisesta heimosta, niin minä lähetän heidät, ja he nousevat ja kiertävät maan ja kirjoittavat sen ylös ⟨את⟩ heidän perintönsä mukaan, ja he tulevat minun luokseni.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "antakaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "itsellenne"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "miestä"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "jokaisesta heimosta"
+    },
+    {
+      "surface": "ואשלחם",
+      "gloss": "niin minä lähetän heidät"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "ja he nousevat"
+    },
+    {
+      "surface": "ויתהלכו",
+      "gloss": "ja kiertävät"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "ja kirjoittavat"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "sen (maan)"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "myös"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "heidän perintönsä"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ja he tulevat"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minun luokseni"
+    }
+  ],
+  "timestamp": "2026-09-06T22:47:02.968569548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 7:15",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Mene Paron luo aamulla — katso, hän lähtee veden luo — ja asetu häntä vastaan joen rannalle; ja sauva, joka muuttui käärmeeksi, ota käteesi.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Mene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamulla"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "katso"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "hän lähtee"
+    },
+    {
+      "surface": "המימה",
+      "gloss": "veden luo"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "ja asetu"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "häntä vastaan"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "שפת",
+      "gloss": "rannalle"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "joen"
+    },
+    {
+      "surface": "והמטה",
+      "gloss": "ja sauva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "muuttui"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "käärmeeksi"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ota"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "käteesi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:30:35.216692614Z",
+  "model": "glm-5.3"
+}

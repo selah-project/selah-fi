@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 18:30",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja te pitäkää ⟨את⟩ vahtini, ettette tekisi mitään kauhistusten tavoista, joita ennen teitä on tehty, älkääkä saastuttaako itseänne niillä; minä olen Jahve, teidän Elohiminne.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Ja te pitäkää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vahtini"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "vahtini"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ettette"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "tekisi"
+    },
+    {
+      "surface": "מחקות",
+      "gloss": "tavoista"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "kauhistusten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joita"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "on tehty"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ennen teitä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "älköön"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "saastuttaako (te)"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "niillä"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "teidän Elohiminne"
+    }
+  ],
+  "timestamp": "2026-09-06T21:54:28.203131418Z",
+  "model": "glm-5.3"
+}

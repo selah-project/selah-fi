@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 11:9",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Sen mitta on pitempi kuin maa ja leveämpi kuin meri.",
+  "tokens": [
+    {
+      "surface": "ארכה",
+      "gloss": "pitempi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kuin maa"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "mitta"
+    },
+    {
+      "surface": "ורחבה",
+      "gloss": "ja leveämpi"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kuin"
+    },
+    {
+      "surface": "ים",
+      "gloss": "meri"
+    }
+  ],
+  "timestamp": "2026-09-07T03:28:47.975205042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 7:22",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Kaikki, jonka sieraimissa ⟨oli⟩ elävän hengen henkäys, kaikki kuivalla maalla olevista, kuoli.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kaikki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "henkäys"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hengen"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "elävän"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "sieraimissaan"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kaikista"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "kuivalla maalla"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "kuolivat"
+    }
+  ],
+  "timestamp": "2026-09-06T21:07:10.047144902Z",
+  "model": "glm-5.3"
+}

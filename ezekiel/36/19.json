@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 36:19",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 36,
+  "translation": "Ja minä hajotin ⟨את⟩ heidät kansojen keskelle, ja heidät sirotettiin maihin; tiensä ja tekojensa mukaan minä heidät tuomitsin.",
+  "tokens": [
+    {
+      "surface": "ואפיץ",
+      "gloss": "ja hajotin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "heidät"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kansojen keskelle"
+    },
+    {
+      "surface": "ויזרו",
+      "gloss": "ja heidät sirotettiin"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "maihin"
+    },
+    {
+      "surface": "כדרכם",
+      "gloss": "tiensä mukaan"
+    },
+    {
+      "surface": "וכעלילותם",
+      "gloss": "ja tekojensa mukaan"
+    },
+    {
+      "surface": "שפטתים",
+      "gloss": "minä tuomitsin heidät"
+    }
+  ],
+  "timestamp": "2026-09-07T01:12:47.047793942Z",
+  "model": "glm-5.3"
+}

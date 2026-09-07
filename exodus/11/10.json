@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 11:10",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja Moshe (Mooses) ja Aharon (Aaron) tekivät ⟨את⟩ kaikki nämä ihmeet Paron (farao) edessä, ja Jahve lujitti ⟨את⟩ Paron sydämen, eikä hän laskenut ⟨את⟩ Israelin poikia lähtemään maastaan.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Ja Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ja Aharon"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "tekivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki nämä ihmeet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "ihmeet"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "ja lujitti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paron sydämen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sydämen"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "laskenut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin poikia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "maastaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:31:17.499140528Z",
+  "model": "glm-5.3"
+}

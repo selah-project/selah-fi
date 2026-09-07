@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 12:27",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "te sanotte: Pesah-uhri ⟨on⟩ se Jahvelle, joka ohitti Israelin lasten talot Mitsrajimissa (Egyptissä), kun hän löi ⟨את⟩ Mitsrajimin, ja ⟨את⟩ meidän talomme hän pelasti. Ja kansa kumartui ja hekohtasi.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "te sanotte"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "uhri"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesah-"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ohitti"
+    },
+    {
+      "surface": "על",
+      "gloss": "–"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "talot"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrajimissa"
+    },
+    {
+      "surface": "בנגפו",
+      "gloss": "kun hän löi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajimin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "meidän talomme"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "meidän talomme"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "hän pelasti"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "Ja kumartui"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "hekohtasi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:34:21.378759643Z",
+  "model": "glm-5.3"
+}

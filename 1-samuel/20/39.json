@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-samuel 20:39",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja poika ei tiennyt mitään; vain Jehonatan ja David (Daavid) tiesivät ⟨את⟩ asian.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "Ja poika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tiennyt"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "mitään"
+    },
+    {
+      "surface": "אך",
+      "gloss": "vain"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ja David"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tiesivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asian"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asian"
+    }
+  ],
+  "timestamp": "2026-09-06T23:14:26.676646198Z",
+  "model": "glm-5.3"
+}

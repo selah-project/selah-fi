@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 10:4",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "”Isäsi teki ⟨את⟩ ikeemme kovaksi, ja nyt kevennä isäsi kovaa pakkotyötä ja hänen raskasta ikeensä, jonka hän pani meidän päällemme, niin me palvelemme sinua.”",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "isäsi"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "teki kovaksi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikeemme"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "ikeemme"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ja nyt"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "kevennä"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "pakkotyöstä"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "isäsi"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "kovaa"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "ja hänen ikeestään"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "raskaasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "hän pani"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "meidän päällemme"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "niin me palvelemme sinua"
+    }
+  ],
+  "timestamp": "2026-09-07T05:36:17.623413821Z",
+  "model": "glm-5.3"
+}

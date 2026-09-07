@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 25:3",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Taivas korkeuteen ja maa syvyyteen, eikä kuninkaiden sydämessä ole tutkittavaa.",
+  "tokens": [
+    {
+      "surface": "שמים",
+      "gloss": "Taivas"
+    },
+    {
+      "surface": "לרום",
+      "gloss": "korkeuteen"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ja maa"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "syvyyteen"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ja sydän"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kuninkaiden"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "tutkittavaa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:17:01.314872816Z",
+  "model": "glm-5.3"
+}

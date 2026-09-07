@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Talentin puhdasta kultaa hän käytti ⟨את⟩ sen ja ⟨את⟩ kaikki sen astiat varten.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "talentin"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kultaa"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "puhdasta"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hän teki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sen (lampuilijan)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki sen astiat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "sen astiat"
+    }
+  ],
+  "timestamp": "2026-09-06T21:44:52.216058117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Älä tee väärin paljon älkääkä olko tyhmä; miksi kuolisit ei omalla ajallasi?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "tee väärin"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "paljon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "älkäkä"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "olko"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "tyhmä"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miksi"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "kuolisit"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ilman"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "aikaasi"
+    }
+  ],
+  "timestamp": "2026-09-07T04:39:10.685215310Z",
+  "model": "glm-5.3"
+}

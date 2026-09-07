@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 20:12",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja mies, joka makaa ⟨את⟩ miniänsä, kuolemalla kuolkoot he kumpikin: sekoituksen he tekivät, heidän verensä olkoon heidän päällään.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ja mies"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "makaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miniänsä"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "miniänsä"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kuolemalla"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "kuolkoot"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "he kumpikin"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "sekoituksen"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "he tekivät"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "heidän verensä"
+    },
+    {
+      "surface": "בם",
+      "gloss": "heidän päällään"
+    }
+  ],
+  "timestamp": "2026-09-06T21:57:10.332798195Z",
+  "model": "glm-5.3"
+}

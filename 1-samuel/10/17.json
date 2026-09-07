@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja Shemu'el (Samuel) kutsui kokoon ⟨את⟩ kansan Jahven luo Mitspaan.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "ja kutsui kokoon"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitspaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:08:00.337859706Z",
+  "model": "glm-5.3"
+}

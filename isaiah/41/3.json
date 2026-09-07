@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 41,
+  "translation": "Hän ahdistaa heitä, kulkee yli rauhassa; polkua, jota jaloillaan ei ole kulkenut.",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "hän ahdistaa heitä"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "kulkee yli"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rauhassa"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "polkua"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "jaloillaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ole kulkenut"
+    }
+  ],
+  "timestamp": "2026-09-07T00:15:28.107846011Z",
+  "model": "glm-5.3"
+}

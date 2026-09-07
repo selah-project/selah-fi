@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 7:26",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja mitään verta älkää syökö missään asuinpaikoissanne, ei linnusta eikä eläimestä.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ja mitään"
+    },
+    {
+      "surface": "דם",
+      "gloss": "verta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "syökö"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "missään"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "asuinpaikoissanne"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "linnusta"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "eikä eläimestä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:49:33.270030576Z",
+  "model": "glm-5.3"
+}

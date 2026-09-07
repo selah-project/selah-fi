@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "isaiah 37:35",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Ja minä suojelen tämän kaupunkin pelastaakseni sen, oman nimeni tähden ja palvelijani Davidin tähden.",
+  "tokens": [
+    {
+      "surface": "וגנותי",
+      "gloss": "Ja minä suojelen"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupunkin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "להושיעה",
+      "gloss": "pelastaakseni sen"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "oman nimeni tähden"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ja … tähden"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "palvelijani"
+    }
+  ],
+  "timestamp": "2026-09-07T00:11:58.060121396Z",
+  "model": "glm-5.3"
+}

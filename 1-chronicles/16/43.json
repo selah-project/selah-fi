@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 16:43",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja kaikki kansa meni, kukin taloonsa; ja David (Daavid) kääntyi siunaamaan ⟨את⟩ talonsa.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ja menivät"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kukin"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "taloonsa"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "ja kääntyi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "siunaamaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "talonsa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "talonsa"
+    }
+  ],
+  "timestamp": "2026-09-07T05:19:48.838784219Z",
+  "model": "glm-5.3"
+}

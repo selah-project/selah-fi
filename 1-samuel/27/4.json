@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ja Shaulille ilmoitettiin, että David oli paennut Gatiin; eikä hän jatkanut enää hänen etsimistään.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Ja ilmoitettiin"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaulille"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "oli paennut"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gatiin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "jatkanut"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enää"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "hänen etsimistään"
+    }
+  ],
+  "timestamp": "2026-09-06T23:17:45.231742178Z",
+  "model": "glm-5.3"
+}

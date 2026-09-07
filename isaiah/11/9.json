@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 11:9",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Eivät he tee pahaa eivätkä turmele koko minun pyhällä vuorellani, sillä täynnä on maa tuntemista ⟨את⟩ Jahven, niin kuin vedet peittävät meren.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "tee pahaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "turmele"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הר",
+      "gloss": "vuorella"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "pyhälläni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "täynnä on"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "tuntemista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "niin kuin vedet"
+    },
+    {
+      "surface": "לים",
+      "gloss": "meren"
+    },
+    {
+      "surface": "מכסים",
+      "gloss": "peittävät"
+    }
+  ],
+  "timestamp": "2026-09-07T00:04:33.512401890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Sinä puhut ⟨את⟩ kaiken, mitä minä käskän sinua ⟨puhua⟩, ja Aharon, veljesi, puhuu Parolle, ja hän päästää ⟨את⟩ Israelin pojat maastaan.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sinä"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "puhut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "minä käskän sinua"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ja Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "veljesi"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "puhuu"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parolle"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ja hän päästää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin pojat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "maastaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:31:14.435765368Z",
+  "model": "glm-5.3"
+}

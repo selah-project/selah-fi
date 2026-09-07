@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 14:3",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Tyhmän suussa ⟨on⟩ ylpeyden ruoska, mutta viisaiden huulet varjelevat heitä.",
+  "tokens": [
+    {
+      "surface": "בפי",
+      "gloss": "suussa"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "Tyhmän"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "ruoska"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "ylpeyden"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "mutta huulet"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "viisaiden"
+    },
+    {
+      "surface": "תשמורם",
+      "gloss": "varjelevat heitä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:08:02.218865147Z",
+  "model": "glm-5.3"
+}

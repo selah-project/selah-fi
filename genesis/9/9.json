@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja minä — katso — pystytän liittoni ⟨את⟩ ⟨את⟩ teidän kanssanne ja ⟨את⟩ siemenenne jälkeenne.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ja minä"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "katso"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "pystytän"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liittoni"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "liittoni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidän kanssanne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "siemenenne"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "jälkeenne"
+    }
+  ],
+  "timestamp": "2026-09-06T21:07:08.746866554Z",
+  "model": "glm-5.3"
+}

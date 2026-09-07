@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 81,
+  "translation": "Todistuksena Josefille (Joosefille) hän sen pani, hänen lähtiessään Mitsrajimin (Egyptin) maan yli; kieltä, jota en tuntenut, minä kuulen.",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "Todistuksena"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "Josefille"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hän pani"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "lähtiessään"
+    },
+    {
+      "surface": "על",
+      "gloss": "yli"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "kieltä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "tuntenut"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "kuulen"
+    }
+  ],
+  "timestamp": "2026-09-07T02:26:27.682953150Z",
+  "model": "glm-5.3"
+}

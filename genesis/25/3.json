@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja Jokshan synnytti ⟨את⟩ Sheban ja ⟨את⟩ Dedanin; ja Dedanin pojista tulivat Ashurim, Letushim ja Leummim.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "Ja Jokshan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheban"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheban"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Dedanin"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedanin"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ja ... pojista"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedanin"
+    },
+    {
+      "surface": "היו",
+      "gloss": "tulivat"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Ashurim"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "Letushim"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ja Leummim"
+    }
+  ],
+  "timestamp": "2026-09-06T21:14:07.275672389Z",
+  "model": "glm-5.3"
+}

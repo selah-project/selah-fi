@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 114,
+  "translation": "Vuoret tanssivat kuin oinaat, kukkulat kuin lauman karitsat",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "vuoret"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "tanssivat"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "kuin oinaat"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "kukkulat"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "kuin ... poikaset"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "lauma"
+    }
+  ],
+  "timestamp": "2026-09-07T02:43:15.392658300Z",
+  "model": "glm-5.3"
+}

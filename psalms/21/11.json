@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Heidän hedelmänsät maasta sinä hävität, ja heidän siemenensä ihmisten lasten keskeltä.",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "heidän hedelmänsä"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "sinä hävität"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "ja heidän siemenensä"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ihmisten lasten"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "keskeltä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:56:56.490671026Z",
+  "model": "glm-5.3"
+}

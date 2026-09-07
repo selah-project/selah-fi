@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 17:11",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja leviiläinen suostui asumaan ⟨את⟩ miehen ⟨luona⟩, ja nuori oli hänelle kuin yksi hänen pojistaan.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "Ja suostui"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "leviiläinen"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "asumaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miehen"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja oli"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "nuori"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "kuin yksi"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "hänen pojistaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:01:18.663938559Z",
+  "model": "glm-5.3"
+}

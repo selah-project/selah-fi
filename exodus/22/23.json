@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja minun vihani syttyy, ja tapan teidät ⟨את⟩ miekalla, ja vaimonne tulevat leskiksi ja poikanne orvoiksi.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "ja... syttyy"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "minun vihani"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "ja tapan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "teidät ⟨את⟩",
+      "marks": "teidät"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "miekalla"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ja tulevat"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "vaimonne"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "leskiksi"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "ja poikanne"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "orvoiksi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:37:15.657344732Z",
+  "model": "glm-5.3"
+}

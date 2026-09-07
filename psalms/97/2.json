@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 97,
+  "translation": "Pilvi ja synkkys ⟨ovat⟩ hänen ympärillään, vanhurskaus ja oikeus ⟨ovat⟩ hänen valtaistuimensa perusta.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "pilvi"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "ja synkkys"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "hänen ympärillään"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "vanhurskaus"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ja oikeus"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "perusta"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "hänen valtaistuimensa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:34:15.978684019Z",
+  "model": "glm-5.3"
+}

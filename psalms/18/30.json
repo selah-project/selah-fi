@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Sillä sinun kanssasi juoksen sotajoukon kimppuun, ja Elohimi kanssa hyppään muurin yli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinun kanssasi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "juoksen"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "sotajoukon kimppuun"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "ja Elohimi kanssa"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "hyppään"
+    },
+    {
+      "surface": "שור",
+      "gloss": "muurin yli"
+    }
+  ],
+  "timestamp": "2026-09-07T01:58:50.900954695Z",
+  "model": "glm-5.3"
+}

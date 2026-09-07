@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 16:15",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja Avshalom ja kaikki kansa, Israelin miehet, tulivat Jerushalajimiin, ja Ahitofel ⟨את⟩ hänen seurassaan.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "Ja Avshalom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "באו",
+      "gloss": "tulivat"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimiin"
+    },
+    {
+      "surface": "ואחיתפל",
+      "gloss": "ja Ahitofel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänen seurassaan",
+      "marks": "hänen seurassaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:26:48.157069401Z",
+  "model": "glm-5.3"
+}

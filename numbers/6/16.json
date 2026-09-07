@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja kohen (pappi) tuo ne Jahven eteen, ja hän valmistaa ⟨את⟩ hänen syntiuhrint ja ⟨את⟩ hänen polttouhrinsa.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "Ja tuo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ja valmistaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen syntiuhrint"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "hänen syntiuhrint"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen polttouhrinsa"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "hänen polttouhrinsa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:05:24.645292963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 21:25",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja tämä kuolee katkerassa Nefeshissaan, eikä hän ole syönyt ⟨mitään⟩ hyvää.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Ja tämä"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "kuolee"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "Nefeshissaan"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "katkerassa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "on syönyt"
+    },
+    {
+      "surface": "בטובה",
+      "gloss": "hyvää"
+    }
+  ],
+  "timestamp": "2026-09-07T03:36:29.556314281Z",
+  "model": "glm-5.3"
+}

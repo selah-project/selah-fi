@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 69,
+  "translation": "Anna vääryys heidän vääryytensä päälle, ja älkööt he tulko sinun vanhurskauteesi.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Anna"
+    },
+    {
+      "surface": "עון",
+      "gloss": "vääryys"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "heidän vääryytensä"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja älkööt"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "he tulko"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "sinun vanhurskauteesi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:19:29.457392163Z",
+  "model": "glm-5.3"
+}

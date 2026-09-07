@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 25:4",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja Jahve on lähettänyt teille ⟨את⟩ kaikki palvelijansa, navit, nousten varhain ja lähettäen, mutta te ette kuulleet ettekä kallistaneet ⟨את⟩ korvaanne kuulemaan.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "Ja on lähettänyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki palvelijansa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "palvelijansa"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "navit"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "nousten varhain"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ja lähettäen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mutta ette"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "kuulleet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ettekä"
+    },
+    {
+      "surface": "הטיתם",
+      "gloss": "kallistaneet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korvaanne"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "korvaanne"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "kuulemaan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:35:12.539614944Z",
+  "model": "glm-5.3"
+}

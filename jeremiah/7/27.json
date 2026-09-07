@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 7:27",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja sinä puhut heille ⟨את⟩ kaikki nämä sanat, eivätkä he kuule sinua; ja sinä kutsut heitä, eivätkä he vastaa sinua.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "Ja sinä puhut"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki nämä sanat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "he kuule"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinua"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "ja sinä kutsut"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "heitä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "יענוכה",
+      "gloss": "he vastaa sinua"
+    }
+  ],
+  "timestamp": "2026-09-07T00:27:28.532880364Z",
+  "model": "glm-5.3"
+}

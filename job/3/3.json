@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 3:3",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Kadotkoon päivä, jona minut synnyttiin, ja yö, jona sanottiin: mies on siitetty.",
+  "tokens": [
+    {
+      "surface": "יאבד",
+      "gloss": "Kadotkoon"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivä"
+    },
+    {
+      "surface": "אולד",
+      "gloss": "synnyttiin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jona"
+    },
+    {
+      "surface": "והלילה",
+      "gloss": "ja yö"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanottiin"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "siitetty"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "mies"
+    }
+  ],
+  "timestamp": "2026-09-07T03:22:46.838469535Z",
+  "model": "glm-5.3"
+}

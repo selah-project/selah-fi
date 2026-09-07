@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 18:19",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja tapahtui, kun tuli aika antaa ⟨את⟩ Merav, Shaulin tytär, Davidille, hänet annettiin vaimoksi Adrielle, meholatilaiselle.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "kun tuli aika"
+    },
+    {
+      "surface": "תת",
+      "gloss": "antaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merav"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "Merav"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tytär"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidille"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ja hän"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "annettiin"
+    },
+    {
+      "surface": "לעדריאל",
+      "gloss": "Adrielle"
+    },
+    {
+      "surface": "המחלתי",
+      "gloss": "meholatilaiselle"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "vaimoksi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:12:52.899831896Z",
+  "model": "glm-5.3"
+}

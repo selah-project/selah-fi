@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 39:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 39,
+  "translation": "Tee minulle tiettäväksi, Jahve, loppuni ja päivieni mitta — mikä se ⟨on⟩ — tietääkseni, kuinka katoava minä olen.",
+  "tokens": [
+    {
+      "surface": "הודיעני",
+      "gloss": "tee minulle tiettäväksi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "loppuni"
+    },
+    {
+      "surface": "ומדת",
+      "gloss": "ja mitta"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päivieni"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mikä"
+    },
+    {
+      "surface": "היא",
+      "gloss": "se ⟨on⟩"
+    },
+    {
+      "surface": "אדעה",
+      "gloss": "tietääkseni"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kuinka"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "katoava"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä olen"
+    }
+  ],
+  "timestamp": "2026-09-07T02:07:37.863088510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Jahve, johdatta minut vanhurskaudessasi vihollisteni tähden; tee tiesi suoraksi kasvojeni eteen.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "johdatta minut"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "vanhurskaudessasi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "vihollisteni"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "tee suoraksi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kasvojeni eteen"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "tiesi"
+    }
+  ],
+  "timestamp": "2026-09-07T01:50:40.028750880Z",
+  "model": "glm-5.3"
+}

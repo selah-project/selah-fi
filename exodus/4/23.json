@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja minä sanoin sinulle: Päästä ⟨את⟩ poikani, että hän palvelisi minua; mutta sinä kieltäydit päästämästä häntä — katso, minä olen tappamassa ⟨את⟩ poikaasi, esikoistasi.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ja minä sanoin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Päästä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poikani"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikani"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "että hän palvelisi minua"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "mutta sinä kieltäydit"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "päästämästä häntä"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "katso"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "olen tappamassa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poikaasi"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "poikaasi"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "esikoistasi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:29:29.269282911Z",
+  "model": "glm-5.3"
+}

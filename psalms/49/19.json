@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 49,
+  "translation": "Vaikka hän elinaikanaan siunasi nefeshiaan — ja sinua he ylistävät, koska teet itsellesi hyvää.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Vaikka"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefeshinsa"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "elinaikanaan"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "siunasi"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "ja ylistävät sinua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "teet hyvää"
+    },
+    {
+      "surface": "לך",
+      "gloss": "itsellesi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:10:26.140386385Z",
+  "model": "glm-5.3"
+}

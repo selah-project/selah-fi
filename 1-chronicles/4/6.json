@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja Naarah synnytti hänelle ⟨את⟩ Ahuzzamin ja ⟨את⟩ Heferin ja ⟨את⟩ Temenin ja ⟨את⟩ Haahashtarin; nämä olivat Naarahin pojat.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Ja synnytti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahuzzamin"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "Ahuzzam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Heferin"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Hefer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Temenin"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "Temeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Haahashtarin"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "Haahashtari"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarahin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:12:45.435336149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 17:18",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja nämä kymmenen juustokiekkoa ⟨את⟩ tuo tuhannen päällikölle, ja ⟨את⟩ veljesi tarkista rauhan vuoksi, ja ⟨את⟩ heiden panttinsa ota.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "nämä kymmenen juustokiekkoa"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "kymmenen"
+    },
+    {
+      "surface": "חרצי",
+      "gloss": "juustokiekkoa"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "maito-"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "tuo"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "päällikölle"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "tuhannen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "veljesi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "veljesi"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "tarkista"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "rauhan vuoksi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "heidän panttinsa"
+    },
+    {
+      "surface": "ערבתם",
+      "gloss": "heidän panttinsa"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ota"
+    }
+  ],
+  "timestamp": "2026-09-07T05:59:20.700549617Z",
+  "model": "glm-5.3"
+}

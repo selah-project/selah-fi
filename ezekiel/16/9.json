@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 16:9",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja pesin sinut vedellä ja huuhtelin veresi sinulta pois ja voidelin sinut öljyllä.",
+  "tokens": [
+    {
+      "surface": "וארחצך",
+      "gloss": "ja pesin sinut"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vedellä"
+    },
+    {
+      "surface": "ואשטף",
+      "gloss": "ja huuhtelin"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "veresi"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "sinulta pois"
+    },
+    {
+      "surface": "ואסכך",
+      "gloss": "ja voidelin sinut"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "öljyllä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:57:50.945271169Z",
+  "model": "glm-5.3"
+}

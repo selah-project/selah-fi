@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 85,
+  "translation": "Olet lempeä ollut maallesi, Jahve, olet kääntänyt Ja'akovin (Jaakob) pakkosiirtolaisuuden.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "Olet lempeä ollut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "maallesi"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "olet kääntänyt"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "pakkosiirtolaisuuden"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akovin"
+    }
+  ],
+  "timestamp": "2026-09-07T02:29:25.307376818Z",
+  "model": "glm-5.3"
+}

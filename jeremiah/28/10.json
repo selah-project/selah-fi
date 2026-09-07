@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Ja profeetta Hananja (Hanania) otti ⟨את⟩ ikeen profeetta Jirmejan (Jeremia) kaulasta ja mursi sen.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "otti"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Hananja"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profeetta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ieen"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "ieen"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kaulasta"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "kaulan"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Jirmejan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profeetan"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "ja mursi sen"
+    }
+  ],
+  "timestamp": "2026-09-07T00:36:59.096854414Z",
+  "model": "glm-5.3"
+}

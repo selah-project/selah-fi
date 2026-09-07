@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 20:14",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja Avimelekh (Abimelek) otti lammaita ja karjaa ja palvelijoita ja palvelijattaria ja antoi Avrahamille, ja hän palautti hänelle ⟨את⟩ Saran, hänen vaimonsa.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ja otti"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "lammaita"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ja karjaa"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "ja palvelijoita"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "ja palvelijattaria"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ja antoi"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahamille"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja hän palautti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saran"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saran"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hänen vaimonsa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:12:52.759030896Z",
+  "model": "glm-5.3"
+}

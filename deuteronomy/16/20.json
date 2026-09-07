@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Oikeus, oikeutta tavoittele, että saisit elää ja perisit ⟨את⟩ maan, jonka Jahve, sinun Elohimisi, antaa sinulle.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Oikeus"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "oikeutta"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "tavoittele"
+    },
+    {
+      "surface": "למען",
+      "gloss": "että"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "saisit elää"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "ja perisit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimisi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "antaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    }
+  ],
+  "timestamp": "2026-09-06T22:29:44.212324847Z",
+  "model": "glm-5.3"
+}

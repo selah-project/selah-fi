@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 3:11",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja polttakoon pappi sen alttarilla: ⟨se on⟩ ruokaa, tuliuhrina Jahvelle.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "Ja polttakoon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pappi"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "alttarilla"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ruokaa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tuliuhrina"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    }
+  ],
+  "timestamp": "2026-09-06T21:47:15.573866927Z",
+  "model": "glm-5.3"
+}

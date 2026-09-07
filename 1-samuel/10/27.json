@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 10:27",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Mutta Belialin pojat sanoivat: ”Kuinka tämä meitä pelastaisi?” Ja he halveksivat häntä eivätkä tuoneet hänelle lahjaa; ja hän oli kuin mykkä.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ja pojat"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belialin"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "sanoivat"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kuinka"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "pelastaisi meitä"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "ja halveksivat häntä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "tuoneet"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "lahjaa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja hän oli"
+    },
+    {
+      "surface": "כמחריש",
+      "gloss": "kuin mykkä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:07:42.013940395Z",
+  "model": "glm-5.3"
+}

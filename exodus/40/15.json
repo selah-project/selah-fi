@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ja voit ⟨את⟩ heidät, niin kuin voitit ⟨את⟩ heidän isänsä, ja he toimivat pappina minulle; ja se tapahtuu ollakseen heille heidän voitelunsa pappeudeksi iankaikkisesti heidän sukupolvilleen.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "ja sinä voit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ heidät",
+      "marks": "heidät"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "sinä voitit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän isänsä"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "heidän isänsä"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "ja he toimivat pappina"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ja tapahtuu"
+    },
+    {
+      "surface": "להית",
+      "gloss": "ollakseen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "heidän voitelunsa"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "pappeudeksi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "heidän sukupolvilleen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:47:05.106859522Z",
+  "model": "glm-5.3"
+}

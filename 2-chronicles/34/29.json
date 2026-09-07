@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "Ja kuningas lähetti ja kokosi ⟨את⟩ kaikki Yehudan (Juudan) ja Jerushalajimin (Jerusalemin) vanhimmat.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ja kuningas lähetti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "ja kokosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vanhimmat"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudan"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ja Jerushalajimin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:56:10.956985544Z",
+  "model": "glm-5.3"
+}

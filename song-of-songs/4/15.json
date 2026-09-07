@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 4:15",
+  "book": "song-of-songs",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Lähde puutarhoista, elävän veden kaivo ja virrat ⟨ jotka virtaavat ⟩ Libanonista.",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "Lähde"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "puutarhoista"
+    },
+    {
+      "surface": "באר",
+      "gloss": "kaivo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "veden"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "elävän"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "ja virrat"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-sta"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Libanonista"
+    }
+  ],
+  "timestamp": "2026-09-07T06:35:53.687940037Z",
+  "model": "glm-5.3"
+}

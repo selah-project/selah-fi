@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 49:24",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 49,
+  "translation": "Otetaanko saalis väkevältä pois, tai pelastuuko oikeamielisen vanki?",
+  "tokens": [
+    {
+      "surface": "היקח",
+      "gloss": "otetaanko"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "väkevältä"
+    },
+    {
+      "surface": "מלקוח",
+      "gloss": "saalis"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "tai"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "vanki"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "oikeamielisen"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "pelastuuko"
+    }
+  ],
+  "timestamp": "2026-09-07T00:17:18.730694633Z",
+  "model": "glm-5.3"
+}

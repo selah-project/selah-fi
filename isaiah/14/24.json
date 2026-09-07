@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 14:24",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Jahve Sebaot on vannonut sanoen: Niinkuin minä suunnittelin, niin on tapahtunut, ja niinkuin minä neuvoin, niin se pysyy.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "on vannonut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niinkuin"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "minä suunnittelin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "on tapahtunut"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "ja niinkuin"
+    },
+    {
+      "surface": "יעצתי",
+      "gloss": "minä neuvoin"
+    },
+    {
+      "surface": "היא",
+      "gloss": "se"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "pysyy"
+    }
+  ],
+  "timestamp": "2026-09-07T00:03:53.466379649Z",
+  "model": "glm-5.3"
+}

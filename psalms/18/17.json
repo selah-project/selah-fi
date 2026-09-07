@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 18:17",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Hän lähetti korkeudesta, hän otti minut, hän veti minut ulos monista vesistä.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Hän lähetti"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "korkeudesta"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "hän otti minut"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "hän veti minut ulos"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "vesistä"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "monista"
+    }
+  ],
+  "timestamp": "2026-09-07T01:58:21.585563167Z",
+  "model": "glm-5.3"
+}

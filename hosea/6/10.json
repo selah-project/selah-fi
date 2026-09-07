@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 6:10",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Israelin talossa minä näin kauhistuttavan asian: siellä Efraimin haureus, Israel ⟨on⟩ saastainen.",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "talossa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "minä näin"
+    },
+    {
+      "surface": "שעריריה",
+      "gloss": "kauhistuttavan asian"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "haureus"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efraimin"
+    },
+    {
+      "surface": "נטמא",
+      "gloss": "saastainen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-07T01:19:16.435378156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Hur siitti ⟨את⟩ Urin, ja Uri siitti ⟨את⟩ Betsalelin.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "Ja Hur"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urin"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Urin"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "ja Uri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betsalelin"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalelin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:11:52.083505312Z",
+  "model": "glm-5.3"
+}

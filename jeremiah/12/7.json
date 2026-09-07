@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Minä hylkäsin ⟨את⟩ taloni, minä jätin ⟨את⟩ perintöosani; minä annoin ⟨את⟩ nefeshini rakkaan hänen vihollistensa käteen.",
+  "tokens": [
+    {
+      "surface": "עזבתי",
+      "gloss": "Minä hylkäsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taloni"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "taloni"
+    },
+    {
+      "surface": "נטשתי",
+      "gloss": "minä jätin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perintöosani"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "perintöosani"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "minä annoin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefeshini rakkaan"
+    },
+    {
+      "surface": "ידדות",
+      "gloss": "rakkaan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshini"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "käteen"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "hänen vihollistensa"
+    }
+  ],
+  "timestamp": "2026-09-07T00:30:55.174640973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 5:13",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja Kenan eli ⟨את⟩ Mahalalelin synnytettyään neljäkymmentä vuotta ja kahdeksansataa vuotta, ja hän synnytti poikia ja tyttäriä.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "eli"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "synnytettyään"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "synnytettyään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mahalalelin"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalelin"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "neljäkymmentä"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ja kahdeksansataa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sataa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ja hän synnytti"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "poikia"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ja tyttäriä"
+    }
+  ],
+  "timestamp": "2026-09-07T07:21:08.556135150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja Avraham (Aabraham) ⟨oli⟩ sata vuotta vanha, kun hänelle syntyi ⟨את⟩ Jitshak (Iisak), hänen poikansa.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Ja Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "sata"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "syntyessä"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hänen poikansa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:12:20.511124803Z",
+  "model": "glm-5.3"
+}

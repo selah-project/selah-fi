@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Vuoden vanha ⟨oli⟩ Shaul (Saul) ryhtyessään kuninkaaksi, ja kaksi vuotta hän hallitsi Israelin yli.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "vuoden vanha"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuoden"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "ryhtyessään kuninkaaksi"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "ja kaksi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hallitsi"
+    },
+    {
+      "surface": "על",
+      "gloss": "yli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:09:44.051715847Z",
+  "model": "glm-5.3"
+}

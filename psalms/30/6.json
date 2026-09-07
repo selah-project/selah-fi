@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Sillä hetki ⟨on⟩ hänen vihansa, elämä ⟨on⟩ hänen suosiossaan; illalla yöpyy itku, ja aamulle ⟨tulee⟩ riemu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "hetki"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "hänen vihassaan"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "elämä"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "hänen suosiossaan"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "illalla"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "yöpyy"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "itku"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "ja aamulle"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "riemu"
+    }
+  ],
+  "timestamp": "2026-09-07T02:01:45.105252622Z",
+  "model": "glm-5.3"
+}

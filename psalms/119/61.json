@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 119:61",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Jumalattomien köydet ovat kietoneet minut ympärilleen; Toraasi minä en ole unohtanut.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "köydet"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jumalattomien"
+    },
+    {
+      "surface": "עודני",
+      "gloss": "ovat kietoneet minut"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Toraasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ole unohtanut"
+    }
+  ],
+  "timestamp": "2026-09-07T02:46:38.127147039Z",
+  "model": "glm-5.3"
+}

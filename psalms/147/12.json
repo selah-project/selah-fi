@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 147,
+  "translation": "Ylistä, Jerushalajim (Jerusalem), ⟨את⟩ Jahve; kiitä, Tsijon (Siion), Elohimiasi.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "Ylistä"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "kiitä"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimiasi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijon"
+    }
+  ],
+  "timestamp": "2026-09-07T02:55:43.164566955Z",
+  "model": "glm-5.3"
+}

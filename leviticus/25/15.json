@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 25:15",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Vuosien luvun mukaan jovelin jälkeen osta toveriltasi ⟨את⟩; satojen vuosien luvun mukaan hän myy sinulle.",
+  "tokens": [
+    {
+      "surface": "במספר",
+      "gloss": "luvun mukaan"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vuosien"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "jälkeen"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "jovelin"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "osta"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "toveriltasi"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "toveriltasi"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "luvun mukaan"
+    },
+    {
+      "surface": "שני",
+      "gloss": "vuosien"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "satojen"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "hän myy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    }
+  ],
+  "timestamp": "2026-09-06T21:59:39.920029930Z",
+  "model": "glm-5.3"
+}

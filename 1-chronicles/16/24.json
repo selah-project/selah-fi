@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 16:24",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Kertokaa kansojen keskuudessa ⟨את⟩ hänen kunniansa, kaikkien kansojen keskuudessa hänen ihmeensä.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "kertokaa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kansojen keskuudessa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen kunniansa"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "hänen kunniansa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaikkien"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "kansojen keskuudessa"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "hänen ihmeensä"
+    }
+  ],
+  "timestamp": "2026-09-07T05:19:32.188335973Z",
+  "model": "glm-5.3"
+}

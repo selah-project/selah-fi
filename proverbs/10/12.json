@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 10:12",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Viha herättää riidat, mutta rakkaus peittää kaikki rikkomukset.",
+  "tokens": [
+    {
+      "surface": "שנאה",
+      "gloss": "viha"
+    },
+    {
+      "surface": "תעורר",
+      "gloss": "herättää"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "riidat"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mutta yli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkien"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "rikkomusten"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "peittää"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "rakkaus"
+    }
+  ],
+  "timestamp": "2026-09-07T03:04:30.633642447Z",
+  "model": "glm-5.3"
+}

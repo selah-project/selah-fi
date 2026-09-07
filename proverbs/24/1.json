@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Älä kadehdi pahoja miehiä äläkä halua olla ⟨את⟩ heidän kanssaan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "kadehdi"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "pahoja miehiä"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pahoja"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "äläkä"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "halua"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "olla"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ heidän kanssaan",
+      "marks": "heidän kanssaan"
+    }
+  ],
+  "timestamp": "2026-09-07T03:16:09.958348178Z",
+  "model": "glm-5.3"
+}

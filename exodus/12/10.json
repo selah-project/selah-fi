@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Älkää jättäkö siitä mitään aamuun asti, ja se, mitä siitä jää aamuun asti, polttakaa tulessa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "älkäkö"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "jättäkö"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "siitä"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "aamuun"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "ja se jäänyt"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "siitä"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "aamuun"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulessa"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "poltatte"
+    }
+  ],
+  "timestamp": "2026-09-06T21:33:02.140177026Z",
+  "model": "glm-5.3"
+}

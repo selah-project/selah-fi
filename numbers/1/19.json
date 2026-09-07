@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Kuten Jahve oli käskenyt ⟨את⟩ Moshea, niin hän laski heidät Siinain erämaassa.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Kuten"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oli käskenyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshea"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "niin hän laski heidät"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "erämaassa"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Siinain"
+    }
+  ],
+  "timestamp": "2026-09-06T22:02:08.586275440Z",
+  "model": "glm-5.3"
+}

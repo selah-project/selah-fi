@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 142,
+  "translation": "Huusin sinun puoleesi, Jahve; minä sanoin: sinä ⟨olet⟩ turvani, osani elävien maassa.",
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "Huusin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinun puoleesi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sanoin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "turvani"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "osani"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "elävien"
+    }
+  ],
+  "timestamp": "2026-09-07T04:34:07.616545100Z",
+  "model": "glm-5.3"
+}

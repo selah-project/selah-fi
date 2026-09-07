@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 4:25",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja kohen ottaa sormellaan verta syntiuhrista ja panee sen polttouhrialttarin sarviin, ja ⟨את⟩ sen veren hän vuodattaa polttouhrialttarin perustaan.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Ja ottaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "verta"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syntiuhrista"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "sormellaan"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ja panee"
+    },
+    {
+      "surface": "על",
+      "gloss": "–lle"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "sarviin"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "polttouhri-"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen veren"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sen veren"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "hän vuodattaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "juurelle"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "perustaan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "polttouhrin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:49:05.825622139Z",
+  "model": "glm-5.3"
+}

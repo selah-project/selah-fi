@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 84,
+  "translation": "Onnelliset ne, jotka asuvat sinun huoneessasi; yhä he ylistävät sinua. Sela.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Onnelliset"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ne, jotka asuvat"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "sinun huoneessasi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yhä"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "he ylistävät sinua"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-07T02:29:36.547477657Z",
+  "model": "glm-5.3"
+}

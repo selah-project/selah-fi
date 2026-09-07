@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja hän puhui kolmetuhatta sananlaskua, ja hänen laulunsa ⟨olivat⟩ tuhat ja viisi.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ja hän puhui"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tuhatta"
+    },
+    {
+      "surface": "משל",
+      "gloss": "sananlaskua"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja olivat"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "hänen laulunsa"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "viisi"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "ja tuhat"
+    }
+  ],
+  "timestamp": "2026-09-06T23:34:34.024377348Z",
+  "model": "glm-5.3"
+}

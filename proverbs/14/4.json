@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Kun härkiä ei ole, on karsina tyhjä, ja Runsas sato tulee härän voimasta.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "Kun ... ei ole"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "härkiä"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "karsina"
+    },
+    {
+      "surface": "בר",
+      "gloss": "tyhjä"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ja Runsas"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "sato"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "voimasta"
+    },
+    {
+      "surface": "שור",
+      "gloss": "härän"
+    }
+  ],
+  "timestamp": "2026-09-07T03:08:02.219144395Z",
+  "model": "glm-5.3"
+}

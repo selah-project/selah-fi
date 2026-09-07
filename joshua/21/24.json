@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "⟨את⟩ Aijalonin ja ⟨את⟩ sen laidasmaat, ⟨את⟩ Gat-Rimmonin ja ⟨את⟩ sen laidasmaat — kaupunkeja neljä.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aijalonin"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Aijalonin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "laidasmaat"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sen laidasmaat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat-Rimmonin"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "-Rimmonin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "laidasmaat"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sen laidasmaat"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kaupunkeja"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "neljä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:47:51.193949020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 11:1",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja Yiftah (Jefta) giladilainen oli voimamies, ja hän ⟨oli⟩ naisen, porton, poika; ja Gilad siitti ⟨את⟩ Yiftahin.",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "Ja Yiftah"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "giladilainen"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "voimamies"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "voiman"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ja hän"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "naisen"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "porton"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ja siitti"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yiftahin"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftahin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:59:37.189836708Z",
+  "model": "glm-5.3"
+}

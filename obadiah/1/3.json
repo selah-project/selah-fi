@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "obadiah 1:3",
+  "book": "obadiah",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Sydämesi ylpeys petti sinut, sinä joka asut kallionhalkeamissa, korkealla sijaitsevassa asuinsijassa, joka sanoo sydämessään: ”Kuka vie minut alas maahan?”",
+  "tokens": [
+    {
+      "surface": "זדון",
+      "gloss": "ylpeys"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "sydämesi"
+    },
+    {
+      "surface": "השיאך",
+      "gloss": "petti sinut"
+    },
+    {
+      "surface": "שכני",
+      "gloss": "sinä joka asut"
+    },
+    {
+      "surface": "בחגוי",
+      "gloss": "kallionhalkeamissa"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "kallion"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "korkealla"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "asuinsijassaan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "sydämessään"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kuka"
+    },
+    {
+      "surface": "יורדני",
+      "gloss": "vie minut alas"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maahan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:32:17.068561436Z",
+  "model": "glm-5.3"
+}

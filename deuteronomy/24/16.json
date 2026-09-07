@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Isiä ei panna kuolemaan lasten tähden, eikä lapsia panna kuolemaan isien tähden; jokainen mies pannaan kuolemaan oman syntinsä tähden.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "panna kuolemaan"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "isiä"
+    },
+    {
+      "surface": "על",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "eikä lapsia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "panna kuolemaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "isien"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jokainen mies"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "oman syntinsä"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "pannaan kuolemaan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:34:09.240444888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja minä käskeän ⟨את⟩ siunaukseni teille kuudentena vuotena, ja se tekee ⟨את⟩ sadon kolmelle vuodelle.",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "Ja minä käskeän"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siunaukseni"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "siunaukseni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "vuotena"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "kuudentena"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "ja se tekee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadon"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "sadon"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "kolmelle"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "vuodelle"
+    }
+  ],
+  "timestamp": "2026-09-06T21:58:45.090821628Z",
+  "model": "glm-5.3"
+}

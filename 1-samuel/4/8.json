@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Voi meitä! Kuka pelastaa meidät näiden mahtavien Elohimien kädestä? Nämä ovat ne Elohimit, jotka löivät ⟨את⟩ Mitsrajimin (Egyptin) jokaisella lyönnillä erämaassa!",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "Voi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meitä"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kuka"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "pelastaa meidät"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kädestä"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimien"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "mahtavien"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "näiden"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Nämä"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ovat ne"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimit"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "jotka löivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajimin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "jokaisella"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "lyönnillä"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "erämaassa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:06:38.678541225Z",
+  "model": "glm-5.3"
+}

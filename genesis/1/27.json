@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja loi Elohim ⟨את⟩ ihmisen kuvansa mukaan; Elohimin kuvassa loi ⟨את⟩ hänet; mieheksi ja naiseksi loi ⟨את⟩ heidät.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "Ja loi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihmisen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihmisen"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "kuvansa mukaan"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "kuvassa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "loi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mieheksi"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "ja naiseksi"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "loi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ heidät"
+    }
+  ],
+  "timestamp": "2026-09-06T21:04:41.729532362Z",
+  "model": "glm-5.3"
+}

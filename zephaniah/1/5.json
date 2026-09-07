@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "ja ⟨את⟩ ne, jotka kumartuvat katoilla taivaan joukoille, ja ⟨את⟩ ne, jotka kumartuvat, vannovat Jahvelle ja vannovat Malkamin kautta",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "ne, jotka kumartuvat katoilla"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "ne, jotka kumartuvat"
+    },
+    {
+      "surface": "על",
+      "gloss": "katoilla"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "katot"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "joukoille"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "ne, jotka kumartuvat ja vannovat"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "ne, jotka kumartuvat"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "vannoivat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "ja vannoivat"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "Malkamin kautta"
+    }
+  ],
+  "timestamp": "2026-09-07T01:42:17.110058227Z",
+  "model": "glm-5.3"
+}

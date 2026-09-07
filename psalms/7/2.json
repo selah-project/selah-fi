@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Jahve, Elohimini, sinuun minä turvasin: pelasta minut kaikista vainoojistani ja vapahda minut.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimini"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinuun"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "turvasin"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "pelasta minut"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kaikista"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "vainoojistani"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "ja vapahda minut"
+    }
+  ],
+  "timestamp": "2026-09-07T01:52:28.503861563Z",
+  "model": "glm-5.3"
+}

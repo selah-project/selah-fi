@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 14:5",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Kuten Jahve oli käskenyt ⟨את⟩ Moshea (Mooses), niin tekivät Israelin pojat, ja he jakoivat ⟨את⟩ maan.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Kuten"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oli käskenyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshea (Mooses)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "tekivät"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ויחלקו",
+      "gloss": "ja he jakoivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:45:48.105759182Z",
+  "model": "glm-5.3"
+}

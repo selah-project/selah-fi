@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 26:25",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Kun hän suosii äänensä, älä usko häneen, sillä seitsemän kauhistusta ⟨on⟩ hänen sydämessään.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kun"
+    },
+    {
+      "surface": "יחנן",
+      "gloss": "suosii"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "äänensä"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תאמן",
+      "gloss": "usko"
+    },
+    {
+      "surface": "בו",
+      "gloss": "häneen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seitsemän"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "kauhistusta"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "hänen sydämessään"
+    }
+  ],
+  "timestamp": "2026-09-07T03:18:10.903507423Z",
+  "model": "glm-5.3"
+}

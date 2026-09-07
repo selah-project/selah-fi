@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 51:2",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 51,
+  "translation": "Katsokaa Avrahamia (Aabraham), isäänne, ja Sarahia, joka teidät synnytti, sillä yhtenä minä kutsuin hänet, ja siunasin hänet ja monistin hänet.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "Katsokaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨kohti⟩"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamia"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "isäänne"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja ⟨kohti⟩"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarahia"
+    },
+    {
+      "surface": "תחוללכם",
+      "gloss": "joka teidät synnytti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yhtenä"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "minä kutsuin hänet"
+    },
+    {
+      "surface": "ואברכהו",
+      "gloss": "ja siunasin hänet"
+    },
+    {
+      "surface": "וארבהו",
+      "gloss": "ja monistin hänet"
+    }
+  ],
+  "timestamp": "2026-09-07T00:19:48.195326814Z",
+  "model": "glm-5.3"
+}

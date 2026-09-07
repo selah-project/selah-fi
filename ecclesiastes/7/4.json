@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Viisaiden sydän on surun talossa, ja hullujen sydän ilon talossa.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "sydän"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "viisaiden"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "talossa"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "surun"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ja sydän"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "hullujen"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "talossa"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ilon"
+    }
+  ],
+  "timestamp": "2026-09-07T04:38:52.621650799Z",
+  "model": "glm-5.3"
+}

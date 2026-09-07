@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja tapahtui päivien kuluttua, että Ammonin pojat sotivat Israelin kanssa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "päivien kuluttua"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "että sotivat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammonin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:59:37.245761895Z",
+  "model": "glm-5.3"
+}

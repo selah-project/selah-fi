@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 31:5",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Ja Israelin tuhansista luovutettiin tuhat kutakin heimoa kohden, kaksitoistatuhat sotaan varustautunutta sotaväkeä.",
+  "tokens": [
+    {
+      "surface": "וימסרו",
+      "gloss": "ja luovutettiin"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "tuhansista"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhat"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "kutakin heimoa kohden"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "toista"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhatta"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "varustautunutta"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "sotaväkeä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:20:02.304247685Z",
+  "model": "glm-5.3"
+}

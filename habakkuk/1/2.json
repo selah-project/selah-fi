@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Kuinka kauan, Jahve, minä huudan, etkä sinä kuule? Minä huudan sinun luoksesi väkivallasta, etkä sinä pelasta?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kuinka kauan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "minä huudan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "etkä"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "kuule"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "minä huudan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinun luoksesi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "väkivallasta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "etkä"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "pelasta"
+    }
+  ],
+  "timestamp": "2026-09-07T01:39:16.206317001Z",
+  "model": "glm-5.3"
+}

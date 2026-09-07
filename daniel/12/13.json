@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 12:13",
+  "book": "daniel",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja sinä, mene ⟨lopun⟩ ajaksi, ja lepää, ja nouse perintöosaasi päivien lopussa.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ja sinä"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mene"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "⟨lopun⟩ ajaksi"
+    },
+    {
+      "surface": "ותנוח",
+      "gloss": "ja lepää"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ja nouse"
+    },
+    {
+      "surface": "לגרלך",
+      "gloss": "perintöosaasi"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "loppuun"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "päivien"
+    }
+  ],
+  "timestamp": "2026-09-07T04:53:24.345873626Z",
+  "model": "glm-5.3"
+}

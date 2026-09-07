@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 68,
+  "translation": "Sinun laumasi asui siinä; sinä, Elohim, valmistit hyvyydessäsi köyhälle.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "Sinun laumasi"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "asui"
+    },
+    {
+      "surface": "בה",
+      "gloss": "siinä"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "valmistit"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "hyvyydessäsi"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "köyhälle"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-07T02:19:08.320040592Z",
+  "model": "glm-5.3"
+}

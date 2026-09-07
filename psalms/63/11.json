@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 63,
+  "translation": "Heidät syöstään miekan käsiin, šaakaleiden osuus heistä tulee.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "heidät syöstään"
+    },
+    {
+      "surface": "על",
+      "gloss": "valtaan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "käsiin"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "miekka"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "osuus"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "šaakaleiden"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "heistä tulee"
+    }
+  ],
+  "timestamp": "2026-09-07T02:16:00.143290298Z",
+  "model": "glm-5.3"
+}

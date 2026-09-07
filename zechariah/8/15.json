@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "niin olen palannut ja aioin näinä päivinä tehdä hyvää ⟨את⟩ Jerushalajimille (Jerusalem) ja ⟨את⟩ Jehudan heimolle: älkää pelätkö.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "olen palannut"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "aioin"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "päivinä"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "näinä"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "tehdä hyvää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerushalajimille"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimille"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Jehudan heimolle"
+    },
+    {
+      "surface": "בית",
+      "gloss": "heimolle"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "pelätkö"
+    }
+  ],
+  "timestamp": "2026-09-07T01:46:38.276631659Z",
+  "model": "glm-5.3"
+}

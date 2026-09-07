@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ja sinä tuot ⟨את⟩ Aharonin (Aaronin) ja ⟨את⟩ hänen poikansa kohtaamisteltan ovelle, ja peset ⟨את⟩ heidät vedellä.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "ja tuot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharonin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonin (Aaronin)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen poikansa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ovelle⟩"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ovelle"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kohtaamis-"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "ja peset"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "heidät"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vedellä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:47:06.980827553Z",
+  "model": "glm-5.3"
+}

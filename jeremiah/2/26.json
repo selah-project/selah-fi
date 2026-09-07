@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 2:26",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Kuin varkaan häpeä, kun hänet tavataan, niin Israelin heimo joutui häpeään — he, heidän kuninkaansa, päämiehensä, pappinsa ja profeettansa.",
+  "tokens": [
+    {
+      "surface": "כבשת",
+      "gloss": "Kuin … häpeä"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "varaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "hänet tavataan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "הבישו",
+      "gloss": "joutui häpeään"
+    },
+    {
+      "surface": "בית",
+      "gloss": "heimon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "המה",
+      "gloss": "he"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "heidän kuninkaansa"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "päämiehensä"
+    },
+    {
+      "surface": "וכהניהם",
+      "gloss": "ja pappinsa"
+    },
+    {
+      "surface": "ונביאיהם",
+      "gloss": "ja profeettansa"
+    }
+  ],
+  "timestamp": "2026-09-07T00:23:15.297191292Z",
+  "model": "glm-5.3"
+}

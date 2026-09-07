@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 27:40",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ja miekkasi varassa sinä elät, ja ⟨את⟩ veljeäsi sinä palvelet; ja tapahtuu, kun irtautut, että murrot hänen ikeensä pois niskastasi.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ja … varassa"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "miekkasi"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "elät"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "veljeäsi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "veljeäsi"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "palvelet"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ja tapahtuu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kun"
+    },
+    {
+      "surface": "תריד",
+      "gloss": "irtautut"
+    },
+    {
+      "surface": "ופרקת",
+      "gloss": "ja murrot"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "hänen ikeensä"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "pois"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "niskastasi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:17:04.340963041Z",
+  "model": "glm-5.3"
+}

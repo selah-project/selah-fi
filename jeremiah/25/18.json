@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 25:18",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "⟨את⟩ Jerushalajimin (Jerusalem) ja ⟨את⟩ Jehudan (Juuda) kaupungit ja ⟨את⟩ sen kuninkaat, ⟨את⟩ sen ruhtinaat, antaakseni ⟨את⟩ heidät autiouteksi, hämmästykseksi, vihellykseksi ja kiroukseksi, niinkuin tänä päivänä.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerushalajimin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaupungit"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kaupungit"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen kuninkaat"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "sen kuninkaat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen ruhtinaat"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "sen ruhtinaat"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "antaakseni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ heidät"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "autiouteksi"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "hämmästykseksi"
+    },
+    {
+      "surface": "לשרקה",
+      "gloss": "vihellykseksi"
+    },
+    {
+      "surface": "ולקללה",
+      "gloss": "ja kiroukseksi"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "niinkuin päivänä"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tänä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:36:04.754020662Z",
+  "model": "glm-5.3"
+}

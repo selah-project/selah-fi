@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 29:11",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja koko näky on tullut teille kuin sinetöidyn kirjan sanat, jonka he antavat ⟨את⟩ sen sille, joka tuntee kirjan, sanoen: ”Lue, pyydän, tämä” — ja hän sanoo: ”En voi, sillä se ⟨on⟩ sinetöity.”",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ja on tullut"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "חזות",
+      "gloss": "näky"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "כדברי",
+      "gloss": "kuin sanat"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "kirjan"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "sinetöidyn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "he antavat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sen (kirjan)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sille joka"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "tuntevalle"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "kirjan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Lue"
+    },
+    {
+      "surface": "נא",
+      "gloss": "pyydän"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ja hän sanoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "voi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "sinetöity"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se ⟨on⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T00:09:27.288299143Z",
+  "model": "glm-5.3"
+}

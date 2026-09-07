@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 11:31",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Sillä te ylitätte ⟨את⟩ Yardenin mennäksenne ottamaan ⟨את⟩ maan, jonka Jahve, Elohiminne, teille antaa; ja te otatte ⟨את⟩ sen haltuun ja asutte siinä.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "te"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ylitätte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardenin"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardenin"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "mennäksenne"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "ottamaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminne"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "antaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "ja te otatte"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sen haltuun"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "ja asutte"
+    },
+    {
+      "surface": "בה",
+      "gloss": "siinä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:27:58.173736749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 24:2",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja Bilam kohotti ⟨את⟩ silmänsä ja näki ⟨את⟩ Israelin asuvan heimoittain, ja Elohimin henki tuli hänen päällensä.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Ja kohotti"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "silmänsä"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "silmänsä"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ja näki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "asuvan"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "heimoittain"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hänen päällensä"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "henki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:16:27.584372032Z",
+  "model": "glm-5.3"
+}

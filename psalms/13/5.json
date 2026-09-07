@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 13:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Että ei viholliseni sanoisi: ”Minä voitin hänet”, ja ahdistajani iloitsevat, kun minä horjun.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "että ei"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sanoisi"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "viholliseni"
+    },
+    {
+      "surface": "יכלתיו",
+      "gloss": "minä voitin hänet"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ahdistajani"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "iloitsevat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "minä horjun"
+    }
+  ],
+  "timestamp": "2026-09-07T01:54:21.911519535Z",
+  "model": "glm-5.3"
+}

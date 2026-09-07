@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Mutta Haman hillitsi itsensä ja meni kotiinsa ja lähetti ja nouti ⟨את⟩ ystävänsä ja ⟨את⟩ Zereshin, vaimonsa.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "mutta hillitsi itsensä"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "ja meni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kotiinsa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kotiinsa"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ja lähetti"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ja nouti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ystävänsä"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "ystävänsä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zereshin"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vaimonsa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:41:51.555772098Z",
+  "model": "glm-5.3"
+}

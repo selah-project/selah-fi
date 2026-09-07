@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 11:3",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja Jahve antoi ⟨את⟩ kansan suosion mitsrajilaisten silmissä; myös mies Moshe ⟨oli⟩ suuri sangen Mitsrajimin maassa, Paron palvelijoiden silmissä ja kansan silmissä.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ja antoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansan suosion"
+    },
+    {
+      "surface": "חן",
+      "gloss": "suosion"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "silmissä"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "mitsrajilaisten"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suuri"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "silmissä"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "palvelijoiden"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "ja silmissä"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:32:56.448081564Z",
+  "model": "glm-5.3"
+}

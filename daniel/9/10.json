@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 9:10",
+  "book": "daniel",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "ja emme kuulleet Jahven, Elohimimme, ääntä, niin että olisimme vaeltaneet hänen Toroissaan, jotka hän antoi meidän eteemme palveliensa naviensa kautta.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "emme"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "kuulleet"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ääntä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimme"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "vaeltamaan"
+    },
+    {
+      "surface": "בתורתיו",
+      "gloss": "Toroissaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "antoi"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "meidän eteemme"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kautta"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "palveliensa"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "naviensa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:51:49.441339229Z",
+  "model": "glm-5.3"
+}

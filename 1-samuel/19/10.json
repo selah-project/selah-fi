@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 19:10",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja Shaul yritti lyödä keihäällä Davidia seinään, mutta hän väistyi Shaulin edestä, ja hän löi ⟨את⟩ keihään seinään; ja David pakeni ja pelastui sinä yönä.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "Ja yritti"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "lyödä"
+    },
+    {
+      "surface": "בחנית",
+      "gloss": "keihäällä"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Davidia"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "ja seinään"
+    },
+    {
+      "surface": "ויפטר",
+      "gloss": "mutta hän väistyi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "edestä"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulin"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ja hän löi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keihään"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "keihään"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "seinään"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ja David"
+    },
+    {
+      "surface": "נס",
+      "gloss": "pakeni"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "ja pelastui"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "sinä yönä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sinä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:12:58.890932427Z",
+  "model": "glm-5.3"
+}

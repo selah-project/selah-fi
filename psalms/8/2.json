@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Jahve, Adonainme, kuinka mahtava ⟨on⟩ nimesi koko maassa, joka annat valtasi taivaan ylle.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonainme"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kuinka"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "mahtava"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nimesi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "annat"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "valtasi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ylle"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:53:18.067225378Z",
+  "model": "glm-5.3"
+}

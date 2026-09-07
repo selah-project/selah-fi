@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Sillä sinä asetat hänet siunauksiksi iankaikkisesti; sinä ilahutat häntä ilolla ⟨את⟩ kasvojesi ⟨edessä⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "asetat hänet"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "siunauksiksi"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "ilahutat häntä"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ilolla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasvojesi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "kasvojesi"
+    }
+  ],
+  "timestamp": "2026-09-07T01:58:33.055478423Z",
+  "model": "glm-5.3"
+}

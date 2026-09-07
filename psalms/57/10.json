@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 57,
+  "translation": "Minä kiitän sinua kansojen keskuudessa, Adonai; minä veisaan sinulle ⟨kansakuntien⟩ ⟨keskuudessa⟩.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Minä kiitän sinua"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "kansojen keskuudessa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "minä veisaan sinulle"
+    },
+    {
+      "surface": "בל",
+      "gloss": "⟨kansakuntien⟩"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "⟨keskuudessa⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T02:12:19.228041115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 20:5",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Älä kumarra niitä äläkä palvele niitä, sillä minä, Jahve, Elohimisi, olen kade El, joka rankaisee isien pahat teot lapsille, kolmanteen ja neljänteen polveen, niiden kohdalla, jotka vihaavat minua.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "kumarra"
+    },
+    {
+      "surface": "להם",
+      "gloss": "niitä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "äläkä"
+    },
+    {
+      "surface": "תעבדם",
+      "gloss": "palvele niitä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimisi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "kade"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "rankaisee"
+    },
+    {
+      "surface": "עון",
+      "gloss": "pahat teot"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "isien"
+    },
+    {
+      "surface": "על",
+      "gloss": "lapsille"
+    },
+    {
+      "surface": "בנים",
+      "gloss": ""
+    },
+    {
+      "surface": "על",
+      "gloss": "kolmanteen"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "polveen"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja neljänteen"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "polveen"
+    },
+    {
+      "surface": "לשנאי",
+      "gloss": "niiden kohdalla, jotka vihaavat minua"
+    }
+  ],
+  "timestamp": "2026-09-06T21:35:03.743903606Z",
+  "model": "glm-5.3"
+}

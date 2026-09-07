@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 14:19",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja kohen toimittaa ⟨את⟩ chatat‑uhri‑uhrin (syntiuhri) ja sovittaa puhdistettavan hänen saastaisuudestaan, ja sen jälkeen hän teurastaa ⟨את⟩ olah‑uhri‑uhrin (polttouhri).",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ja toimittaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chatat‑uhri‑uhrin"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "chatat‑uhri‑uhrin"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ja sovittaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "puolesta"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "puhdistettavan"
+    },
+    {
+      "surface": "מטמאתו",
+      "gloss": "hänen saastaisuudestaan"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ja sen jälkeen"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "teurastaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olah‑uhri‑uhrin"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olah‑uhri‑uhrin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:53:05.633736027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja tapahtui kymmenen päivän kuluttua, että Jahve löi ⟨את⟩ Nabalin, ja hän kuoli.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "noin kymmenen"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "päivää"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "ja löi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nabalin"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ja hän kuoli"
+    }
+  ],
+  "timestamp": "2026-09-06T23:16:20.015123819Z",
+  "model": "glm-5.3"
+}

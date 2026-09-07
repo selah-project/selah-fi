@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-samuel 20:40",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja Jehonatan antoi ⟨את⟩ varusteensa pojalle, joka hänellä oli, ja sanoi hänelle: ”Mene, vie kaupunkiin.”",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ja antoi"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "varusteensa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "varusteensa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pojalle"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "pojalle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänellä"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Mene"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "vie"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupunkiin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:14:26.676838835Z",
+  "model": "glm-5.3"
+}

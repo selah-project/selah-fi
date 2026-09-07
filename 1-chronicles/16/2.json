@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Kun David oli lopettanut ⟨את⟩ polttouhrin ja rauhanuhrien uhraamisen, hän siunasi ⟨את⟩ kansan Jahven nimessä.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "kun oli lopettanut"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "uhraamisen"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "polttouhrin"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "ja rauhanuhrien"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "hän siunasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nimessä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-07T05:20:32.541022863Z",
+  "model": "glm-5.3"
+}

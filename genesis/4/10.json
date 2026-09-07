@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja hän sanoi: ”Mitä olet tehnyt? Veljesi veren ääni huutaa minulle maasta.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mitä"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "olet tehnyt"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ääni"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "veren"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "veljesi"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "huutaa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-sta"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "maasta"
+    }
+  ],
+  "timestamp": "2026-09-06T21:04:19.913004407Z",
+  "model": "glm-5.3"
+}

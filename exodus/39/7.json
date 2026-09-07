@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 39:7",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 39,
+  "translation": "Ja hän pani ⟨את⟩ ne ephodin olkakappaleille, muiston kiviksi Israelin pojille — niin kuin Jahve käski ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ja hän pani"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ne",
+      "marks": "kivet"
+    },
+    {
+      "surface": "על",
+      "gloss": "jälkeen"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "olkakappaleille"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ephodin"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "kiviksi"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "muiston"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pojille"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "käski"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-06T21:46:36.732697635Z",
+  "model": "glm-5.3"
+}

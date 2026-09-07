@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Sillä niinkuin orjantappurain ritinä padan alla, niin ⟨on⟩ hullun nauru; ja tämäkin ⟨on⟩ hebel (tyhjänpäiväisyys).",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "niinkuin ... ääni"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "orjantappurain"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alla"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "padan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "nauru"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "hullun"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja ... myös"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel (tyhjänpäiväisyys)"
+    }
+  ],
+  "timestamp": "2026-09-07T04:38:15.874341814Z",
+  "model": "glm-5.3"
+}

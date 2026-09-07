@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 14:6",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Pilkkuritous etsii viisautta, eikä sitä ole, ja tieto ⟨on⟩ helppoa ymmärtäväiselle.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "etsii"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "Pilkkuritous"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "viisautta"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä sitä ole"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ja tieto"
+    },
+    {
+      "surface": "לנבון",
+      "gloss": "ymmärtäväiselle"
+    },
+    {
+      "surface": "נקל",
+      "gloss": "helppoa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:08:04.749503858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Avigail synnytti ⟨את⟩ Amasan, ja Amasan isä ⟨oli⟩ Jeter ishmaelilainen.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "Ja Avigail"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amasan"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasan"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "ja isä"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasan"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Jeter"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "ishmaelilainen"
+    }
+  ],
+  "timestamp": "2026-09-07T05:11:52.080214266Z",
+  "model": "glm-5.3"
+}

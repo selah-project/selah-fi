@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 21:11",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Taakka: Duma. Minulle huutaa Seiristä (Seir): Vartija, mitä yöstä? Vartija, mitä yöstä?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Taakka"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "Duma"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Minulle"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "huutaa"
+    },
+    {
+      "surface": "משעיר",
+      "gloss": "Seiristä"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Vartija"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "מלילה",
+      "gloss": "yöstä"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Vartija"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "מליל",
+      "gloss": "yöstä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:05:25.136254041Z",
+  "model": "glm-5.3"
+}

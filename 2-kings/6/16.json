@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja hän sanoi: Älä pelkää, sillä lukuisammat ovat ne, jotka ovat ⟨את⟩ meidän kanssamme, kuin ne, jotka ovat heidän kanssaan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "pelkää"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "lukuisammat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ meidän kanssamme"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "kuin ne jotka"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ heidät"
+    }
+  ],
+  "timestamp": "2026-09-06T23:49:20.211497277Z",
+  "model": "glm-5.3"
+}

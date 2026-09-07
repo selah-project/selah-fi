@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "jolla ⟨ei ole⟩ päällikköä, valvojaa eikä hallitsijaa",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "jolla"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "päällikköä"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "valvojaa"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "eikä hallitsijaa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:03:04.273142723Z",
+  "model": "glm-5.3"
+}

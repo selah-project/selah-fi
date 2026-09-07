@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "ja ⟨את⟩ Kedemotin ja ⟨את⟩ sen laidunmaat, ja ⟨את⟩ Meyfa'atin ja ⟨את⟩ sen laidunmaat.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Kedemotin"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Kedemotin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen laidunmaat"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "sen laidunmaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Meyfa'atin"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Meyfa'atin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen laidunmaat"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "sen laidunmaat"
+    }
+  ],
+  "timestamp": "2026-09-07T05:15:53.371661272Z",
+  "model": "glm-5.3"
+}

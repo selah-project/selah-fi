@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Kertokaa siitä lapsillenne, ja lapsenne kertokoot sitä lapsilleen, ja heidän lapsensa toiselle sukupolvelle.",
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "siitä"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "lapsillenne"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "Kertokaa"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "ja lapsenne"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "lapsilleen"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "ja heidän lapsensa"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "sukupolvelle"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "toiselle"
+    }
+  ],
+  "timestamp": "2026-09-07T01:25:01.237404673Z",
+  "model": "glm-5.3"
+}

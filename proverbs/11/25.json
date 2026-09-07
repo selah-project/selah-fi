@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Siunauksen Nefesh ⟨on⟩ lihottu, ja kastelija — myös hänet kastellaan.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "Nefesh"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "siunauksen"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "lihottu"
+    },
+    {
+      "surface": "ומרוה",
+      "gloss": "ja kastelija"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "יורא",
+      "gloss": "kastellaan"
+    }
+  ],
+  "timestamp": "2026-09-07T03:05:46.070840232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja tapahtui seuraavana päivänä, että filistealaiset tulivat riisumaan ⟨את⟩ kaatuneita, ja he löysivät ⟨את⟩ Shaulin ja ⟨את⟩ hänen poikansa kaatuneina Gilboan vuorella.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja tapahtui"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "seuraavana päivänä"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "että tulivat"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistealaiset"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "riisumaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaatuneita"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "kaatuneita"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "ja he löysivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaulin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen poikansa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "kaatuneina"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "vuorella"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Gilboan"
+    }
+  ],
+  "timestamp": "2026-09-07T05:17:46.869538131Z",
+  "model": "glm-5.3"
+}

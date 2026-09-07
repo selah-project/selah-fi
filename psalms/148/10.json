@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 148,
+  "translation": "Pedot ja kaikki karjaeläimet, matelevat eliöt ja siipiset linnut",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "pedot"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "karjaeläimet"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "matelevat eliöt"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "ja linnut"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "siipiset"
+    }
+  ],
+  "timestamp": "2026-09-07T02:55:23.916299709Z",
+  "model": "glm-5.3"
+}

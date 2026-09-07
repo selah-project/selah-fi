@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Mutta sen puun, joka antaa tuntea hyvän ja pahan, älä syö siitä, sillä sinä päivänä, jona syöt siitä, kuolemalla sinä kuolet.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "Mutta sen puun"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "joka antaa tuntea"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvän"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "ja pahan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "syö"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "siitä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sinä päivänä"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "jona syöt"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "siitä"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kuolemalla"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "kuolet"
+    }
+  ],
+  "timestamp": "2026-09-06T21:04:46.133469350Z",
+  "model": "glm-5.3"
+}

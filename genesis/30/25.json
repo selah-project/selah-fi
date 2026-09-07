@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja tapahtui, kun Rahel oli synnyttänyt ⟨את⟩ Josef (Joosef), että Ja'akov sanoi Lavanille: Päästä minut, että lähtisin paikkaani ja maani.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "oli synnyttänyt"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "että sanoi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavanille"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "päästä minut"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "että lähtisin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "paikkaani"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "ja maani"
+    }
+  ],
+  "timestamp": "2026-09-06T21:17:06.839152116Z",
+  "model": "glm-5.3"
+}

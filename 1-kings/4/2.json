@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja nämä olivat ylimykset, jotka hänellä olivat: Azarjahu, Tsadokin poika, kohen (pappi).",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ja nämä"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "ylimykset"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänellä olivat"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "Azarjahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadokin"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen (pappi)"
+    }
+  ],
+  "timestamp": "2026-09-07T04:22:33.125249170Z",
+  "model": "glm-5.3"
+}

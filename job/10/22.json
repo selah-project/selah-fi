@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 10:22",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Pilkkopimeänä oleva maa, kuin pimeys itse, kuoleman varjo, ilman mitään järjestystä, ja sen paiste on kuin pimeys.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "עיפתה",
+      "gloss": "Pilkkopimeänä oleva"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kuin"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "pimeys itse"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "kuoleman varjo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ilman mitään"
+    },
+    {
+      "surface": "סדרים",
+      "gloss": "järjestystä"
+    },
+    {
+      "surface": "ותפע",
+      "gloss": "ja sen paiste on"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kuin"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "pimeys"
+    }
+  ],
+  "timestamp": "2026-09-07T03:28:17.986862517Z",
+  "model": "glm-5.3"
+}

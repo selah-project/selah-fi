@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Kaikkialla kulkevat jumalattoret, kun alhaisuutta korotetaan ihmisten lasten keskuudessa.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "kaikkialla"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jumalattoret"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "kulkevat"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "kun"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "alhaisuutta"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ihmisten lasten"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmisten"
+    }
+  ],
+  "timestamp": "2026-09-07T01:54:05.622323412Z",
+  "model": "glm-5.3"
+}

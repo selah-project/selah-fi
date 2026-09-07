@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 15:30",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Ei hän väisty pois pimeydestä, hänen versonsa kuivattaa liekki, ja hän väistyy hänen suunsa tuulessa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ei"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "väisty"
+    },
+    {
+      "surface": "מני",
+      "gloss": "pois"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pimeydestä"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "hänen versonsa"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "kuivattaa"
+    },
+    {
+      "surface": "שלהבת",
+      "gloss": "liekki"
+    },
+    {
+      "surface": "ויסור",
+      "gloss": "ja väistyy"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "tuulessa"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "hänen suunsa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:34:42.416448753Z",
+  "model": "glm-5.3"
+}

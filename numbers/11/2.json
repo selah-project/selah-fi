@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja kansa huusi Moshea (Mooses) kohden, ja Moshe rukoili Jahvea, ja tuli sammui.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "Ja huusi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshea"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "ja rukoili"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "ja sammui"
+    },
+    {
+      "surface": "האש",
+      "gloss": "tuli"
+    }
+  ],
+  "timestamp": "2026-09-06T22:07:44.793486080Z",
+  "model": "glm-5.3"
+}

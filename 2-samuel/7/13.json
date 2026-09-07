@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 7:13",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Hän rakentaa huoneen nimelleni, ja minä vahvistan ⟨את⟩ valtaistuimen hänen valtakunnalleen iankaikkisuuteen asti.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Hän"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "rakentaa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "nimelleni"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "ja minä vahvistan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "valtaistuimen"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "valtaistuimen"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "hänen valtakunnalleen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iankaikkisuuteen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:21:09.713165468Z",
+  "model": "glm-5.3"
+}

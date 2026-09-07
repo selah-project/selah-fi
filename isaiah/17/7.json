@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 17:7",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Sinä päivänä ihminen katsoo tekijäänsä, ja hänen silmänsä näkevät Israelin Pyhän.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Sinä päivänä"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "ישעה",
+      "gloss": "katsoo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihminen"
+    },
+    {
+      "surface": "על",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "tekijäänsä"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "ja hänen silmänsä"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Pyhää"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "näkevät"
+    }
+  ],
+  "timestamp": "2026-09-07T00:06:17.471966120Z",
+  "model": "glm-5.3"
+}

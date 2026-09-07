@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Jahve sanoi kalalle, ja se oksensi ⟨את⟩ Jonan kuivalle maalle.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "kalalle"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "ja se oksensi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonan"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maalle"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "kuivalle maalle"
+    }
+  ],
+  "timestamp": "2026-09-07T01:35:36.588964849Z",
+  "model": "glm-5.3"
+}

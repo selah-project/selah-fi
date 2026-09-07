@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 25:8",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Kysy ⟨את⟩ nuorukaisiltasi, ja he kertovat sinulle, ja nuorukaiset löytävät armon sinun silmissäsi, sillä hyvään päivään me olemme tulleet; anna nyt ⟨את⟩ se, mitä kätesi löytää, palvelijoillesi ja pojallesi Davidille.”",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Kysy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nuorukaisiltasi"
+    },
+    {
+      "surface": "נעריך",
+      "gloss": "nuorukaisiltasi"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ja he kertovat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "ja nuorukaiset löytävät"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "nuorukaiset"
+    },
+    {
+      "surface": "חן",
+      "gloss": "armon"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "sinun silmissäsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "על",
+      "gloss": "hyvään"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivään"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvään"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "me olemme tulleet"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "anna"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se, mitä kätesi löytää"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se, mitä"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "kätesi löytää"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kätesi"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "palvelijoillesi"
+    },
+    {
+      "surface": "ולבנך",
+      "gloss": "ja pojallesi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidille"
+    }
+  ],
+  "timestamp": "2026-09-06T23:15:32.248022171Z",
+  "model": "glm-5.3"
+}

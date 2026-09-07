@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 7:10",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja päämiehet toimittivat ⟨את⟩ alttarin vihkimisen sinä päivänä, jona se voideltiin ⟨את⟩ hänet; ja päämiehet toivat ⟨את⟩ uhrilahjansa alttarin eteen.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "toimittivat"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "päämiehet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alttarin vihkimisen"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "vihkimisen"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sinä päivänä"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "voideltiin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "toivat"
+    },
+    {
+      "surface": "הנשיאם",
+      "gloss": "päämiehet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uhrilahjansa"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "uhrilahjansa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:05:31.074511988Z",
+  "model": "glm-5.3"
+}

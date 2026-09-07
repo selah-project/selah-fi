@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 34:17",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "Jahven kasvot ⟨ovat⟩ niitä vastaan, jotka tekevät pahaa, kadottaakseen heidän muistonsa maasta.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "kasvot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "niitä vastaan, jotka tekevät"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pahaa"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "kadottaakseen"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "heidän muistonsa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:32:52.815956046Z",
+  "model": "glm-5.3"
+}

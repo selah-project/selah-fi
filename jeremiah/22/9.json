@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 22:9",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja he vastaavat: Siksi että he hylkäsivät ⟨את⟩ Jahven, Elohiminsa, liiton, ja kumarsivat muita jumalia ja palvelivat niitä.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "ja he vastaavat"
+    },
+    {
+      "surface": "על",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "että"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "he hylkäsivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liiton"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "liiton"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohiminsa"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ja kumarsivat"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "jumalia"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "muihin"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "ja palvelivat niitä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:32:42.858493234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 100,
+  "translation": "Palvelkaa ⟨את⟩ Jahvea ilolla, tulkaa hänen kasvojensa eteen riemulaululla.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Palvelkaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ilolla"
+    },
+    {
+      "surface": "באו",
+      "gloss": "tulkaa"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "hänen kasvojensa eteen"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "riemulaululla"
+    }
+  ],
+  "timestamp": "2026-09-07T02:36:29.290779917Z",
+  "model": "glm-5.3"
+}

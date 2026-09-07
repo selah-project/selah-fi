@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja kirjoittakaa ne talosi ovipuihin ja portteihisi.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "Ja kirjoittakaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "ovipuihin"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "talosi"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "ja portteihisi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:27:55.116051158Z",
+  "model": "glm-5.3"
+}

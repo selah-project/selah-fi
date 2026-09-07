@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 9:10",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja sinä viljelet hänelle ⟨את⟩ maata, sinä ja poikasi ja palvelijasi, ja tuot sisään, ja herrasi pojalle on leipää, ja hän syö sen; ja Mefivoshet (Mefiboset), herrasi poika, syö alati leipää minun pöytäni ääressä. Ja Tsiballa oli viisitoista poikaa ja kaksikymmentä palvelijaa.",
+  "tokens": [
+    {
+      "surface": "ועבדת",
+      "gloss": "Ja sinä viljelet"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "maata"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "ja poikasi"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "ja palvelijasi"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "ja tuot sisään"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ja on"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "pojalle"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "herrasi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ja hän syö"
+    },
+    {
+      "surface": "ומפיבשת",
+      "gloss": "ja Mefivoshet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "herrasi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "syö"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "alati"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    },
+    {
+      "surface": "על",
+      "gloss": "ääressä"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "pöytäni"
+    },
+    {
+      "surface": "ולציבא",
+      "gloss": "Ja Tsiballa"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "viisitoista"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-toista"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "poikaa"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ja kaksikymmentä"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "palvelijaa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:21:49.592389275Z",
+  "model": "glm-5.3"
+}

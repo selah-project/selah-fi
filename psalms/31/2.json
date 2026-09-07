@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Sinuun, Jahve, minä turvaudun; älköön minun ikinä tarvitse hävetä; vanhurskaudessasi pelasta minut.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Sinuun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "minä turvaudun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älköön"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "hävetä"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ikinä"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "vanhurskaudessasi"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "pelasta minut"
+    }
+  ],
+  "timestamp": "2026-09-07T04:31:03.787507483Z",
+  "model": "glm-5.3"
+}

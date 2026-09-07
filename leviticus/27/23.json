@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 27:23",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "ja kohen laskee hänelle ⟨את⟩ määrän sinun arviostasi juhlavuoden vuoteen asti, ja hän antaa ⟨את⟩ sinun arviosi sinä päivänä, pyhän Jahvelle.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "ja laskee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "määrän"
+    },
+    {
+      "surface": "מכסת",
+      "gloss": "määrä"
+    },
+    {
+      "surface": "הערכך",
+      "gloss": "sinun arviosi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "vuoteen"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "juhlavuoden"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ja antaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinun arviosi"
+    },
+    {
+      "surface": "הערכך",
+      "gloss": "sinun arviosi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhä"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    }
+  ],
+  "timestamp": "2026-09-06T22:01:54.903785648Z",
+  "model": "glm-5.3"
+}

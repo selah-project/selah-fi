@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 1:4",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja neito oli hyvin kaunis, ja hänestä tuli kuninkaalle hoitajatar, ja hän palveli häntä, mutta kuningas ei tuntenut häntä.",
+  "tokens": [
+    {
+      "surface": "והנערה",
+      "gloss": "Ja neito"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "kaunis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hyvin"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "—"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ja hänestä tuli"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuninkaalle"
+    },
+    {
+      "surface": "סכנת",
+      "gloss": "hoitajatar"
+    },
+    {
+      "surface": "ותשרתהו",
+      "gloss": "ja hän palveli häntä"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "mutta kuningas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "tunnut häntä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:32:12.271388802Z",
+  "model": "glm-5.3"
+}

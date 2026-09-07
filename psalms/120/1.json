@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 120,
+  "translation": "Nousulaulu. Jahvelle huusin ahdistuksessani, ja hän vastasi minua.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "laulu"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Nousu-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "ahdistuksessani"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minua"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "huusin"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "ja hän vastasi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:48:20.397306043Z",
+  "model": "glm-5.3"
+}

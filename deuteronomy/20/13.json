@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 20:13",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja Jahve, sinun Elohimisi, antaa sen käsiisi, ja sinä lyöt ⟨את⟩ kaikki sen miespuoliset miekan suulla.",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "antaa sen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sinun Elohimisi"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "käsiisi"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "ja sinä lyöt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki sen miespuoliset"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "זכורה",
+      "gloss": "sen miespuoliset"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "suulla"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "miekan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:32:12.217832347Z",
+  "model": "glm-5.3"
+}

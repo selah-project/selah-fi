@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 8:7",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja sammakot väistyvät sinusta ja taloistasi, palvelijoistasi ja kansastasi — vain jokeen ne jäävät.",
+  "tokens": [
+    {
+      "surface": "וסרו",
+      "gloss": "Ja väistyvät"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "sammakot"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "sinusta"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "ja taloistasi"
+    },
+    {
+      "surface": "ומעבדיך",
+      "gloss": "ja palvelijoistasi"
+    },
+    {
+      "surface": "ומעמך",
+      "gloss": "ja kansastasi"
+    },
+    {
+      "surface": "רק",
+      "gloss": "vain"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "jokeen"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "ne jäävät"
+    }
+  ],
+  "timestamp": "2026-09-06T21:31:33.576031201Z",
+  "model": "glm-5.3"
+}

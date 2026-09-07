@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 86,
+  "translation": "Käänny minun puoleeni ja armahda minua, anna voimasi palveljallesi ja anna pelastus palvelijattaresi pojalle.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Käänny"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minun puoleeni"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ja armahda minua"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "anna"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "voimasi"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "palveljallesi"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "ja anna pelastus"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "pojalle"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "palvelijattaresi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:28:57.235075156Z",
+  "model": "glm-5.3"
+}

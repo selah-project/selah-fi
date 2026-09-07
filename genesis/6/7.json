@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja Jahve sanoi: ”Pyyhin pois ⟨את⟩ ihmisen, jonka olen luonut, maan pinnalta — ihmisestä karjaeläimeen, matelevaan olentoon ja taivaan lintuun — sillä minä kadutin, että olen tehnyt heidät.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "pyyhin pois"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihmisen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihmisen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "olen luonut"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "pinnalta"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pinnan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "maan"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "ihmisestä"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "karjaeläimeen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "matelevaan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ja asti"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "lintuun"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "minä kadutin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "olen tehnyt heidät"
+    }
+  ],
+  "timestamp": "2026-09-06T21:06:47.288111741Z",
+  "model": "glm-5.3"
+}

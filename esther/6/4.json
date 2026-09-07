@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 6:4",
+  "book": "esther",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja kuningas sanoi: kuka on esipihalla? Ja Haman oli tullut kuninkaan talon ulkopihaan sanoakseen kuninkaalle, että ⟨את⟩ Mordehai ripustettaisiin puuhun, jonka hän oli valmistanut hänelle.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja kuningas sanoi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "on esipihalla"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "Ja Haman"
+    },
+    {
+      "surface": "בא",
+      "gloss": "oli tullut"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "pihaan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "taloon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "ulko-"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoakseen"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuninkaalle"
+    },
+    {
+      "surface": "לתלות",
+      "gloss": "että ripustettaisiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordehai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehai"
+    },
+    {
+      "surface": "על",
+      "gloss": "puuhun"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "puun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "hän oli valmistanut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    }
+  ],
+  "timestamp": "2026-09-07T04:41:57.277089925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja viidenkymmenen vuoden iästä hän palaa pois palveluksen asemapalveluksesta, eikä hän palvele enää.",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "ja iästä"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "viidenkymmenen"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuoden"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "hän palaa"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "pois asemapalveluksesta"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "palveluksen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "hän palvele"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enää"
+    }
+  ],
+  "timestamp": "2026-09-06T22:06:09.167111607Z",
+  "model": "glm-5.3"
+}

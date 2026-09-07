@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "”Mies, maan herra, puhui ⟨את⟩ meidän kanssamme ankarasti ja asetti meidät ⟨את⟩ vakoojiksi ⟨את⟩ maata vakoamaan.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "puhui"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "herra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ meidän kanssamme"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "ankarasti"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ja asetti"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ meidät",
+      "marks": "vakoojiksi"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "vakoojiksi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maata"
+    }
+  ],
+  "timestamp": "2026-09-06T21:25:34.541252115Z",
+  "model": "glm-5.3"
+}

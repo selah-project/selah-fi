@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Älkää sortako ⟨את⟩ kunkin lähimmäistään, ja pelkää sinä Elohimiasi, sillä minä olen Jahve, Elohiminne.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "älkää…ko"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "sortako"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kunkin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lähimmäistään"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "lähimmäistään"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "ja pelkää"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohimiasi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminne"
+    }
+  ],
+  "timestamp": "2026-09-06T21:59:34.180848302Z",
+  "model": "glm-5.3"
+}

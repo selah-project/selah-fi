@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 6:5",
+  "book": "nehemiah",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja Sanballat lähetti minulle samoin sanoin viidennen kerran ⟨את⟩ palvelijansa, ja avoin kirje oli hänen kädessään.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ja lähetti"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "סנבלט",
+      "gloss": "Sanballat"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "samoin sanoin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "kerran"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "viidennen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palvelijansa"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "palvelijansa"
+    },
+    {
+      "surface": "ואגרת",
+      "gloss": "ja kirje"
+    },
+    {
+      "surface": "פתוחה",
+      "gloss": "avoin"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "kädessään"
+    }
+  ],
+  "timestamp": "2026-09-07T05:04:55.788680861Z",
+  "model": "glm-5.3"
+}

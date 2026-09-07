@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Jahve, Elohiminne, on ⟨את⟩ teidät monistanut, ja katso, te ⟨olette⟩ tänään niin kuin taivaan tähdet paljoudeltaan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminne"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "on monistanut"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät",
+      "marks": "teidät"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "ja katso, te"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tänään"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "niin kuin tähdet"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "paljoudeltaan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:22:21.022080047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 16:27",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja ⟨את⟩ syntiuhrin härän ja ⟨את⟩ syntiuhrin pukin, joiden veri vietiin ⟨את⟩ niiden veren sovittamaan pyhäkköön, hän vie ulos leirin ulkopuolelle, ja he polttavat tulessa ⟨את⟩ niiden nahat ja ⟨את⟩ niiden lihan ja ⟨את⟩ niiden ulosteet.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "syntiuhrin härän"
+    },
+    {
+      "surface": "פר",
+      "gloss": "härän"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syntiuhrin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "syntiuhrin pukin"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "pukin"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syntiuhrin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joiden"
+    },
+    {
+      "surface": "הובא",
+      "gloss": "vietiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niiden veren"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "niiden veren"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "sovittamaan"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "pyhäkköön"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "hän vie ulos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulos"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ulkopuolelle"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "leirin"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "ja he polttavat"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulessa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niiden nahat"
+    },
+    {
+      "surface": "ערתם",
+      "gloss": "niiden nahat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "niiden lihan"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "niiden lihan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "niiden ulosteet"
+    },
+    {
+      "surface": "פרשם",
+      "gloss": "niiden ulosteet"
+    }
+  ],
+  "timestamp": "2026-09-06T21:56:11.899556237Z",
+  "model": "glm-5.3"
+}

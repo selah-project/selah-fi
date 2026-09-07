@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Jokainen pappien miehistä syököön sen; pyhässä paikassa se syötäköön; pyhä pyhimmistä se ⟨on⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Jokainen"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mies"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "pappien joukossa"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "syököön sen"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "paikassa"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "pyhässä"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "syötäköön"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhä"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "pyhimmistä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-09-06T21:48:32.538120348Z",
+  "model": "glm-5.3"
+}

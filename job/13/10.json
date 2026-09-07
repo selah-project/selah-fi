@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Hän nuhtelee varmasti ⟨את⟩ teidät, jos salassa nostatte kasvoja.",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "varmasti"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "hän nuhtelee"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät",
+      "marks": "teidät"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "salassa"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "kasvoja"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "nostatte"
+    }
+  ],
+  "timestamp": "2026-09-07T03:28:53.688580187Z",
+  "model": "glm-5.3"
+}

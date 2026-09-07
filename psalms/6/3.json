@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ole minulle armollinen, Jahve, sillä minä näännyn; paranna minut, Jahve, sillä luuni ovat pelästyneet.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ole minulle armollinen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "näännyn"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "paranna minut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "ovat pelästyneet"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "luuni"
+    }
+  ],
+  "timestamp": "2026-09-07T01:51:51.738746036Z",
+  "model": "glm-5.3"
+}

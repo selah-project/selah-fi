@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 23:22",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Sillä ei oltu tehty tällaista pesahia päivinä tuomareita, jotka tuomitsivat ⟨את⟩ Israelia, eikä kaikkina päivinä Israelin kuninkaita eikä Jehudan (Juudan) kuninkaita.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "oltu tehty"
+    },
+    {
+      "surface": "כפסח",
+      "gloss": "tällaista pesahia"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "מימי",
+      "gloss": "päivinä"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "tuomareita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "tuomitsivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelia"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "eikä kaikkina"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päivinä"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kuninkaita"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "eikä kuninkaita"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:58:08.244110766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 18:6",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja he jakoivat ⟨את⟩ maan keskenään kulkemista varten: Ahav kulki yhdellä tiellä yksin, ja Ovadjahu kulki yhdellä tiellä yksin.",
+  "tokens": [
+    {
+      "surface": "ויחלקו",
+      "gloss": "Ja he jakoivat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "keskenään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "kulkemista varten"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sitä"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "kulki"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yhdellä tiellä"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yhdellä"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yksin"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "ja Ovadjahu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "kulki"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yhdellä tiellä"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yhdellä"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yksin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:42:52.216504502Z",
+  "model": "glm-5.3"
+}

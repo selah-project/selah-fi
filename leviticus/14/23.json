@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 14:23",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja hän tuo ⟨את⟩ ne kahdeksantena päivänä puhdistuksekseen papin luo, kohti kokouksen asuntoteltan ovea, Jahven edessä.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "Ja hän tuo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ne"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "kahdeksantena"
+    },
+    {
+      "surface": "לטהרתו",
+      "gloss": "puhdistuksekseen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "papin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ovea"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "asuntoteltan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kokouksen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-06T21:53:22.231641631Z",
+  "model": "glm-5.3"
+}

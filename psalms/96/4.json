@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 96,
+  "translation": "Sillä suuri on Jahve ja ylistettävä suuresti, peljättävä on hän kaikkia jumalia ylemmä.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suuri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "ja ylistettävä"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "suuresti"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "peljättävä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "על",
+      "gloss": "ylemä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkia"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jumalia"
+    }
+  ],
+  "timestamp": "2026-09-07T02:33:44.580970926Z",
+  "model": "glm-5.3"
+}

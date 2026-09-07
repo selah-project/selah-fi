@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 22:28",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Älä siirrä muinaistarajaa (ikuista rajamerkkiä), jonka sinun isäsi ovat tehneet",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "siirrä"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "raja"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ikuista (muinaista)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jota"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ovat tehneet"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "sinun isäsi"
+    }
+  ],
+  "timestamp": "2026-09-07T03:16:48.622532805Z",
+  "model": "glm-5.3"
+}

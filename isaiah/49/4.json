@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 49,
+  "translation": "Mutta minä sanoin: Turhaan minä olen väsyneenä tehnyt työtä, tyhjyyteen ja turhuuteen olen kuluttanut voimani — kuitenkin minun oikeuteni on Jahven ⟨את⟩, ja minun palkkani Elohimini ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mutta minä"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sanoin"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "Turhaan"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "olen väsyneenä tehnyt työtä"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "tyhjyyteen"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "ja turhuuteen"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "voimani"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "olen kuluttanut"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "kuitenkin"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "minun oikeuteni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "on Jahve"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "ja minun palkkani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimini"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "on Elohimini"
+    }
+  ],
+  "timestamp": "2026-09-07T00:17:31.558011291Z",
+  "model": "glm-5.3"
+}

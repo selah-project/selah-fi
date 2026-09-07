@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja Jahve kuuli Hizkiyahua ja paransi ⟨את⟩ kansan.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Ja kuuli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Hizkiyahua"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "ja paransi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    }
+  ],
+  "timestamp": "2026-09-07T05:50:50.216507608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Ei hän huuda, eikä hän kohota, eikä hän anna äänensä kuulua kadulla.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "hän huuda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "hän kohota"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "hän anna kuulua"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "kadulla"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "äänensä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:15:37.522436592Z",
+  "model": "glm-5.3"
+}

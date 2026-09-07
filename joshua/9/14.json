@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja miehet ottivat heidän elintarvikkeitaan, mutta Jahven suulta he eivät kysyneet neuvoa.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ja ottivat"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "heidän elintarvikkeitaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Jahven suun"
+    },
+    {
+      "surface": "פי",
+      "gloss": "suulta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "kysyneet"
+    }
+  ],
+  "timestamp": "2026-09-06T22:41:38.954169111Z",
+  "model": "glm-5.3"
+}

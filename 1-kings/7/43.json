@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "ja ⟨את⟩ jalustat kymmenen, ja ⟨את⟩ pesualtaat kymmenen jalustojen päällä",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "jalustat"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "jalustat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kymmenen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "pesualtaat"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "pesualtaat"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kymmenen"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "jalustojen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:34:59.151030838Z",
+  "model": "glm-5.3"
+}

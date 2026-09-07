@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "ja ⟨את⟩ Arvadi ja ⟨את⟩ Tsemar ja ⟨את⟩ Hamat, ja jälkeenpäin hajosivat kenaanilaisen sukukunnat",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Arvadi"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "Arvadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Tsemar"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "Tsemar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Hamat"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ja jälkeenpäin"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "hajosivat"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "sukukunnat"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kenaanilaisen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:12.734082349Z",
+  "model": "glm-5.3"
+}

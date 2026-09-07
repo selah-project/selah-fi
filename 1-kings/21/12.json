@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 21:12",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "He julistivat paaston ja asettivat ⟨את⟩ Navotin kansan johtoon.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "He julistivat"
+    },
+    {
+      "surface": "צום",
+      "gloss": "paaston"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "ja asettivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Navotin"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navotin"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "johtoon"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:44:09.715710427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 14:2",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Joka vaeltaa suoruudessaan, pelkää Jahvea, ja kiero teissään halveksii häntä.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "Joka vaeltaa"
+    },
+    {
+      "surface": "בישרו",
+      "gloss": "suoruudessaan"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "pelkää"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "ונלוז",
+      "gloss": "ja kiero"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "teissään"
+    },
+    {
+      "surface": "בוזהו",
+      "gloss": "halveksii häntä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:08:02.218576329Z",
+  "model": "glm-5.3"
+}

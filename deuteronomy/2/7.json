@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 2:7",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Sillä Jahve, Elohimisi, on siunannut sinua kaikessa kättesi työssä; hän tunsi ⟨את⟩ kulkemisesi tässä suuressa erämaassa. Nämä neljäkymmentä vuotta Jahve, Elohimisi, on ollut sinun kanssasi; sinulta ei ole puuttunut mitään.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimisi"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "on siunannut sinua"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaikessa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "työssä"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kättesi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tunsi"
+    },
+    {
+      "surface": "לכתך",
+      "gloss": "kulkemisesi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erämaan"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "erämaan"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "suuressa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tässä"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Nämä"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "neljäkymmentä"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimisi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sinun kanssasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "חסרת",
+      "gloss": "ole puuttunut"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mitään"
+    }
+  ],
+  "timestamp": "2026-09-06T22:24:01.978710642Z",
+  "model": "glm-5.3"
+}

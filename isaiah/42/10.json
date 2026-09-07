@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Laulakaa Jahvelle (HERRA) uusi laulu, hänen ylistystään maan ääristä, meren laskeutujat ja kaikki mitä siinä on, saaret ja niiden asukkaat!",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Laulakaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "laulu"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "uusi"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "hänen ylistystään"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ääristä"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "laskeutujat"
+    },
+    {
+      "surface": "הים",
+      "gloss": "meren"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ja kaikki mitä siinä on"
+    },
+    {
+      "surface": "איים",
+      "gloss": "saaret"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "ja niiden asukkaat"
+    }
+  ],
+  "timestamp": "2026-09-07T00:14:17.074350834Z",
+  "model": "glm-5.3"
+}

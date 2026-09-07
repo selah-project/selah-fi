@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 140,
+  "translation": "Kielen mies ei saa sijaa maassa; väkivallan miestä paha ajaa takaa isku iskulta.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "kielen"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "saa sijaa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "väkivallan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "paha"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "ajaa takaa häntä"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "isku iskulta"
+    }
+  ],
+  "timestamp": "2026-09-07T02:52:26.243405937Z",
+  "model": "glm-5.3"
+}

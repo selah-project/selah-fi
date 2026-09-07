@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 51,
+  "translation": "Sinä puhdistat minut synnistä iisopilla, ja minä puhdistun; sinä peset minut, ja lumivalkeammaksi minä valkenen.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "sinä puhdistat minut synnistä"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "iisopilla"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "ja minä puhdistun"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "sinä peset minut"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "ja lumivalkeammaksi"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "minä valkenen"
+    }
+  ],
+  "timestamp": "2026-09-07T02:12:25.886329795Z",
+  "model": "glm-5.3"
+}

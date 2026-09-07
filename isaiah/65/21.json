@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 65:21",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 65,
+  "translation": "Ja he rakentavat taloja ja asuvat ⟨niissä⟩, ja he istuttavat viinitarhoja ja syövät ⟨niiden⟩ hedelmät.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "ja he rakentavat"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "taloja"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ja asuvat"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "ja he istuttavat"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "viinitarhoja"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ja syövät"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "hedelmät"
+    }
+  ],
+  "timestamp": "2026-09-07T00:22:28.056203991Z",
+  "model": "glm-5.3"
+}

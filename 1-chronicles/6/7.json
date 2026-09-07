@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 6:7",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Kehatin pojat: Aminadav hänen poikansa, Korach hänen poikansa, Asir hänen poikansa.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehatin"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadav"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "Asir"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hänen poikansa"
+    }
+  ],
+  "timestamp": "2026-09-07T05:13:47.143736528Z",
+  "model": "glm-5.3"
+}

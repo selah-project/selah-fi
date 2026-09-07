@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 31:23",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Ja hän antoi käskyn ⟨את⟩ Jehoshualle (Joosua), Nunin pojalle, ja sanoi: ”Ole vahva ja rohkea, sillä sinä tuot ⟨את⟩ Israelin pojat siihen maahan, jonka heille olen vannonut, ja minä olen sinun kanssasi.”",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Ja hän antoi käskyn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoshualle"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshualle"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojalle"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nunin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "Ole vahva"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "ja rohkea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "tuot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin pojat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "olen vannonut"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ja minä"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "olen"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sinun kanssasi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:38:47.294316349Z",
+  "model": "glm-5.3"
+}

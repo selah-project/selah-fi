@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 17:15",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja jokainen nefesh, joka syö raatoa tai petoeläimen raatelemaa, olkoonpa syntyperäinen tai muukalainen, pesköön vaatteensa ja peseytyköön vedessä, ja hän ⟨on⟩ saastainen iltaan asti, ja sitten hän ⟨on⟩ puhdas.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ja jokainen"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "syö"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "raatoa"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "tai petoeläimen raatelemaa"
+    },
+    {
+      "surface": "באזרח",
+      "gloss": "olkoonpa syntyperäinen"
+    },
+    {
+      "surface": "ובגר",
+      "gloss": "tai muukalainen"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "pesköön"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "vaatteensa"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "peseytyköön"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vedessä"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "saastainen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "iltaan"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "puhdas"
+    }
+  ],
+  "timestamp": "2026-09-06T21:55:18.435939267Z",
+  "model": "glm-5.3"
+}

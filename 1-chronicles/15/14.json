@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 15:14",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Ja pyhittivät itsensä papit ja leviläiset tuodakseen ylös ⟨את⟩ Jahven, Israelin Elohimin, arkin.",
+  "tokens": [
+    {
+      "surface": "ויתקדשו",
+      "gloss": "ja pyhittivät itsensä"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "papit"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ja leviläiset"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "tuodakseen ylös"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven, Israelin Elohimin, arkin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:21:24.228172945Z",
+  "model": "glm-5.3"
+}

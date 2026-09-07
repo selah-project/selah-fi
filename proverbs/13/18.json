@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 13:18",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Köyhyys ja häpeä ⟨kohtaavat⟩ kurituksen hylkäävän, mutta nuhdetta vaalivaa kunnioitetaan.",
+  "tokens": [
+    {
+      "surface": "ריש",
+      "gloss": "köyhyys"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "ja häpeä"
+    },
+    {
+      "surface": "פורע",
+      "gloss": "hylkäävän"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "kurituksen"
+    },
+    {
+      "surface": "ושומר",
+      "gloss": "mutta vaalivaa"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "nuhdetta"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "kunnioitetaan"
+    }
+  ],
+  "timestamp": "2026-09-07T03:08:00.479315176Z",
+  "model": "glm-5.3"
+}

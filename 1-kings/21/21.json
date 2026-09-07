@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 21:21",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Katso, tuon sinun päällesi pahan ja hävitän jälkeesi, ja hävitän Ahavista (Ahab) seinälle virtsaavan sekä suljetun että jätetyn Israelissa.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "מבי",
+      "gloss": "tuon"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinun päällesi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pahan"
+    },
+    {
+      "surface": "ובערתי",
+      "gloss": "ja hävitän"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "jälkeesi"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ja hävitan"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "Ahavista"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "seinälle virtsaavan"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "seinälle"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "ja suljetun"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "ja jätetyn"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israelissa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:43:33.350784323Z",
+  "model": "glm-5.3"
+}

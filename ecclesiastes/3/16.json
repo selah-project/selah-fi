@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja vielä näin auringon alla: oikeuden paikassa ⟨on⟩ siellä vääryys, ja vanhurskauden paikassa ⟨on⟩ siellä vääryys.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Ja vielä"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "näin"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alla"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "auringon"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "paikassa"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "oikeuden"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "vääryys"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "ja paikassa"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "vanhurskauden"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "vääryys"
+    }
+  ],
+  "timestamp": "2026-09-07T04:05:51.965473069Z",
+  "model": "glm-5.3"
+}

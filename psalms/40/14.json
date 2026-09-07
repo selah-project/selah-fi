@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 40:14",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ole sinuutunut siihen, Jahve, että pelastat minut; Jahve, avukseni — kiiruhda!",
+  "tokens": [
+    {
+      "surface": "רצה",
+      "gloss": "Ole sinuutunut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "että pelastat minut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "avukseni"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "kiiruhda"
+    }
+  ],
+  "timestamp": "2026-09-07T02:07:52.112485045Z",
+  "model": "glm-5.3"
+}

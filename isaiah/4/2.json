@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 4:2",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Sinä päivänä on Jahven verso koristukseksi ja kirkkaudeksi, ja maan hedelmä ylpeydeksi ja kauneudeksi Israelin pelastuneille.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "on"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "verso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "koristukseksi"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "ja kirkkaudeksi"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "ja hedelmä"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "לגאון",
+      "gloss": "ylpeydeksi"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "ja kauneudeksi"
+    },
+    {
+      "surface": "לפליטת",
+      "gloss": "pelastuneille"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-07T00:02:16.562220160Z",
+  "model": "glm-5.3"
+}

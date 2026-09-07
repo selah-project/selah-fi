@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja ⟨את⟩ meren hän asetti oikean puolen olkapäältä itään, etelää vastapäätä.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "meren"
+    },
+    {
+      "surface": "הים",
+      "gloss": "meren"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "asetti"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "olkapäältä"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "oikean puolen"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "itään"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "vastapäätä"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "etelää"
+    }
+  ],
+  "timestamp": "2026-09-07T05:31:15.151169729Z",
+  "model": "glm-5.3"
+}

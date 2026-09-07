@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zephaniah 2:11",
+  "book": "zephaniah",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Peljättävä ⟨on⟩ Jahve heidän yllään, sillä hän näännyttää ⟨את⟩ kaikki maan jumalat, ja kumartuvat hänen eteensä kukin paikastaan, kaikki kansojen saaret.",
+  "tokens": [
+    {
+      "surface": "נורא",
+      "gloss": "Peljättävä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "heidän yllään"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "רזה",
+      "gloss": "näännyttää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki maan jumalat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "jumalat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ja kumartuvat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänen eteensä"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kukin"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "paikastaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "איי",
+      "gloss": "saaret"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kansojen"
+    }
+  ],
+  "timestamp": "2026-09-07T01:41:19.142109223Z",
+  "model": "glm-5.3"
+}

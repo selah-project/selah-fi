@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja ⟨את⟩ sian, koska se jakaa kavion ja on kavion särmällä särmän, mutta märehdintää se ei märehti — saastainen se on teille.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sian"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "sian"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "jakaa"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "kavio"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "ja särmällä"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "särmän"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "kavion"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ja se"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "märehdintää"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "märehti"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "saastainen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    }
+  ],
+  "timestamp": "2026-09-06T21:50:51.919529491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 6:8",
+  "book": "esther",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "tuokoon kuninkaallisen vaatteen, johon kuningas on pukeutunut, ja hevosen, jota kuningas on ratsastanut, ja ⟨se⟩, että kuninkaallinen kruunu pannaan sen päähän —",
+  "tokens": [
+    {
+      "surface": "יביאו",
+      "gloss": "tuokoon"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "vaatteen"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "kuninkaallisen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "johon"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "on pukeutunut"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siihen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "ja hevosen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jota"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "on ratsastanut"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sen selässä"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ja ⟨se⟩ että"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "pannaan"
+    },
+    {
+      "surface": "כתר",
+      "gloss": "kruunu"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "kuninkaallinen"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "sen päähän"
+    }
+  ],
+  "timestamp": "2026-09-07T04:40:59.843452733Z",
+  "model": "glm-5.3"
+}

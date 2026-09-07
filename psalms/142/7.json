@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 142:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 142,
+  "translation": "Kuuntele huutoani, sillä minä olen hyvin lannistunut; pelasta minut vainoojistani, sillä he ovat minua väkevämpiä.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Kuuntele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "huutoani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "olen lannistunut"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hyvin"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "pelasta minut"
+    },
+    {
+      "surface": "מרדפי",
+      "gloss": "vainoojistani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "he ovat väkeviä"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minua"
+    }
+  ],
+  "timestamp": "2026-09-07T04:34:07.618765535Z",
+  "model": "glm-5.3"
+}

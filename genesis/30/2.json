@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 30:2",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja Ja'akovin viha syttyi Rahelia vastaan, ja hän sanoi: ”Olenko minä Elohimin sijassa, ⟨hän⟩ joka on pidättänyt sinulta kohdun hedelmän?”",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ja syttyi viha"
+    },
+    {
+      "surface": "אף",
+      "gloss": "viha (sananm. sierain)"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akovin"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "Rahelia vastaan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "Olenko … sijassa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "on pidättänyt"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "sinulta"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "hedelmän"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "kohdun"
+    }
+  ],
+  "timestamp": "2026-09-06T21:17:20.782980772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 146,
+  "translation": "joka tekee oikeuden sorretuille, joka antaa leipää nälkäisille; Jahve päästää sidotut.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "tekee"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "oikeuden"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "sorretuille"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "antaa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "nälkäisille"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "päästää"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "sidotut"
+    }
+  ],
+  "timestamp": "2026-09-07T02:58:08.807872176Z",
+  "model": "glm-5.3"
+}

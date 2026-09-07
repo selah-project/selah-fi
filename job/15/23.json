@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 15:23",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Leivän etsijänä hän vaeltaa — missä se on? Hän tietää, että pimeyden päivä on valmiina hänen kädessään.",
+  "tokens": [
+    {
+      "surface": "נדד",
+      "gloss": "hän vaeltaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "leivän"
+    },
+    {
+      "surface": "איה",
+      "gloss": "missä"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "hän tietää"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "on valmiina"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "hänen kädessään"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivä"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pimeyden"
+    }
+  ],
+  "timestamp": "2026-09-07T03:33:14.821837176Z",
+  "model": "glm-5.3"
+}

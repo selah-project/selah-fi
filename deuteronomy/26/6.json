@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 26:6",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja Mitsrajimilaiset pahoinpitelivät ⟨את⟩ meidät ja nöyryyttivät meitä ja panivat meidän päällemme raskasta pakkotyötä.",
+  "tokens": [
+    {
+      "surface": "וירעו",
+      "gloss": "Ja pahoinpitelivät"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ meidät",
+      "marks": "meidät (את + pronomini)"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "Mitsrajimilaiset"
+    },
+    {
+      "surface": "ויענונו",
+      "gloss": "ja nöyryyttivät meitä"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ja panivat"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "meidän päällemme"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "pakkotyötä"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "raskasta"
+    }
+  ],
+  "timestamp": "2026-09-06T22:34:18.653685223Z",
+  "model": "glm-5.3"
+}

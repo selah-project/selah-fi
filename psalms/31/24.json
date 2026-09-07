@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Rakastakaa ⟨את⟩ Jahvea, kaikki hänen hasidansa (hurskaansa): uskollisia Jahve varjelee, ja hän maksaa ylen määrin takaisin ylpeyden tekijälle.",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "Rakastakaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "hänen hasidansa"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "uskollisia"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "varjelee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "ja maksaa takaisin"
+    },
+    {
+      "surface": "על",
+      "gloss": "ylen"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "määrin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tekijälle"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "ylpeyden"
+    }
+  ],
+  "timestamp": "2026-09-07T02:05:51.480504421Z",
+  "model": "glm-5.3"
+}

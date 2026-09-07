@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Ja Novah (Nobah) lähti ja valtasi ⟨את⟩ Kenatin (Kenat) ja ⟨את⟩ sen tytäret, ja hän kutsui sitä Novahiksi omalla nimellään.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "Ja Novah"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "lähti"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ja valtasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenatin"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenatin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen tytäret"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "sen tytäret"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ja hän kutsui"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sitä"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Novahiksi"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "omalla nimellään"
+    }
+  ],
+  "timestamp": "2026-09-07T06:29:01.264883109Z",
+  "model": "glm-5.3"
+}

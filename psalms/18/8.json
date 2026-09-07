@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja maa järkyttyi ja vapisi, ja vuorten perustukset järkkyivät ja liikkuivat, sillä hänen vihansa syttyi.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "ja järkyttyi"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "ja vapisi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "ja perustukset"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "vuorten"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "järkkyivät"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "ja liikkuivat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "vihansa syttyi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänellä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:57:37.957947048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja Ever eli neljä vuotta ja kolmekymmentä vuotta, ja hän sai ⟨את⟩ Pelegin.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "eli"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "neljä"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ja kolmekymmentä"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ja hän sai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelegin"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Pelegin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:01.364140855Z",
+  "model": "glm-5.3"
+}

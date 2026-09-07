@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 3:1",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja Jehoram, Ahavin poika, hallitsi Israelia Shomronissa (Samaria) Jehoshafatin, Yehudan kuninkaan, kahdeksantenatoista hallitusvuonna, ja hän hallitsi kaksitoista vuotta.",
+  "tokens": [
+    {
+      "surface": "ויהורם",
+      "gloss": "Ja Jehoram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahavin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hallitsi"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelia"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Shomronissa (Samaria)"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "vuonna"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "kahdeksan-"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-toista"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "Jehoshafatin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudan"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ja hän hallitsi"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "kaksi-"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-toista"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    }
+  ],
+  "timestamp": "2026-09-07T05:58:32.268468607Z",
+  "model": "glm-5.3"
+}

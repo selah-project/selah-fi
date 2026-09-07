@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 1:15",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja otin ⟨את⟩ heimojenne päämiehet, miehiä, viisaita ja tunnettuja, ja asetin heidät ⟨את⟩ teidän yllemme päälliköiksi — tuhannenpäälliköitä ja sadanpäälliköitä ja viidenkymmenenpäälliköitä ja kymmenenpäälliköitä sekä virkamiehiä heimoillenne.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Ja otin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heimojenne päämiehet"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "päämiehet"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "heimojenne"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "miehiä"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "viisaita"
+    },
+    {
+      "surface": "וידעים",
+      "gloss": "ja tunnettuja"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "ja asetin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "heidät"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "päälliköiksi"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "teidän yllemme"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "päälliköitä"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tuhannen"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ja päälliköitä"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sadan"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ja päälliköitä"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "viidenkymmenen"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ja päälliköitä"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "kymmenen"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "sekä virkamiehiä"
+    },
+    {
+      "surface": "לשבטיכם",
+      "gloss": "heimoillenne"
+    }
+  ],
+  "timestamp": "2026-09-06T22:23:30.244412138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 8:10",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja Toi lähetti ⟨את⟩ Joramin, poikansa, kuningas Davidin luo kysymään hänelle rauhaa ja siunaamaan häntä siitä, että hän oli sotinut Hadadezeria vastaan ja lyönyt tämän; sillä Hadadezer oli ollut Toille sotien mies. Ja hänen kädessään olivat astiat hopeasta ja astiat kullasta ja astiat vaskesta.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ja lähetti"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "Toi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joramin, poikansa"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Joramin"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "poikansa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "kysymään"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "rauhaa"
+    },
+    {
+      "surface": "ולברכו",
+      "gloss": "ja siunaamaan häntä"
+    },
+    {
+      "surface": "על",
+      "gloss": "siitä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "että"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "oli sotinut"
+    },
+    {
+      "surface": "בהדדעזר",
+      "gloss": "Hadadezeria vastaan"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "ja lyönyt tämän"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "sotien"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "Toille"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oli ollut"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "ja hänen kädessään"
+    },
+    {
+      "surface": "היו",
+      "gloss": "olivat"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "astiat"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "hopeasta"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "ja astiat"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kullasta"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "ja astiat"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "vaskesta"
+    }
+  ],
+  "timestamp": "2026-09-06T23:21:13.194339652Z",
+  "model": "glm-5.3"
+}

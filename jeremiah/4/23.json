@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Minä näin ⟨את⟩ maan, ja katso: tohu va bohu; ja taivasta kohti — ei niiden valoa.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "näin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tohu"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "va bohu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja kohti"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivasta"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "valoaan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:24:56.644791813Z",
+  "model": "glm-5.3"
+}

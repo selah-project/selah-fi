@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Jos hän tulee sisään omin päin, hän lähtee omin päin; jos hänellä on vaimo, hänen vaimonsa lähtee hänen mukanaan.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "omin päin"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "hän tulee sisään"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "omin päin"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "hän lähtee"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "on haltija"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "vaimosta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "lähtee"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hänen vaimonsa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hänen mukanaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:38:14.312993575Z",
+  "model": "glm-5.3"
+}

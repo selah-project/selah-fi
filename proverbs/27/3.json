@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Kivi on painava ja hiekan kuorma, mutta hullun viha on painavampi kuin ne molemmat.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "painava"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kivi"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "ja kuorma"
+    },
+    {
+      "surface": "החול",
+      "gloss": "hiekan"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "mutta viha"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "hullun"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "painavampi"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "kuin ne molemmat"
+    }
+  ],
+  "timestamp": "2026-09-07T03:19:41.315687874Z",
+  "model": "glm-5.3"
+}

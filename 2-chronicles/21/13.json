@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 21:13",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "sinä kävit Israelin kuninkaiden tietä ja saatoit ⟨את⟩ Jehudan ja ⟨את⟩ Jerushalajimin asukkaat haureuteen, niin kuin Beit Ahabin huoneen haureus, ja myös ⟨את⟩ isäsi huoneen veljesi, jotka ⟨olivat⟩ parempia kuin sinä, ne sinä tapoit.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "ja sinä kävit"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tietä"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kuninkaiden"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ותזנה",
+      "gloss": "ja saatoit haureuteen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehudan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Jerushalajimin asukkaat"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "asukkaat"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimin"
+    },
+    {
+      "surface": "כהזנות",
+      "gloss": "niin kuin haureus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahavin"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja myös"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veljesi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "veljesi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "isäsi"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "jotka parempia"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kuin sinä"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "sinä tapoit"
+    }
+  ],
+  "timestamp": "2026-09-07T05:42:18.111455870Z",
+  "model": "glm-5.3"
+}

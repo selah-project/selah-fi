@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 27:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ja nyt pääni korottuu vihamiesteni yläpuolelle, jotka ovat ympärilläni, ja minä uhraan hänen teltassaan riemun uhreja, minä veisaan ja soitan Jahvelle.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ja nyt"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "korottuu"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "pääni"
+    },
+    {
+      "surface": "על",
+      "gloss": "yläpuolelle"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "vihamiesteni"
+    },
+    {
+      "surface": "סביבותי",
+      "gloss": "jotka ovat ympärilläni"
+    },
+    {
+      "surface": "ואזבחה",
+      "gloss": "ja minä uhraan"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "hänen teltassaan"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "uhreja"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "riemun"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "minä veisaan"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ja soitan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    }
+  ],
+  "timestamp": "2026-09-07T02:01:47.866187261Z",
+  "model": "glm-5.3"
+}

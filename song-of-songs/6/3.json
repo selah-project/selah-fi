@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Minä kuulun rakastetulleni, ja rakastettuni kuuluu minulle — hän, joka laiduntaa liljojen keskellä.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Minä"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "rakastetulleni (kuulun)"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "ja rakastettuni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle (kuuluu)"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "hän, joka laiduntaa"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "liljojen keskellä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:54:49.417354360Z",
+  "model": "glm-5.3"
+}

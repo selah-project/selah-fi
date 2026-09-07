@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 28:1",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Pahat pakenevat, vaikka ketään ei ajaa takaa, mutta vanhurskaat ⟨rovat⟩ nuoren leijonan tavoin.",
+  "tokens": [
+    {
+      "surface": "נסו",
+      "gloss": "pakenevat"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "vaikka ketään ei"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "ajaa takaa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "pahat"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "mutta vanhurskaat"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "nuoren leijonan tavoin"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "⟨rovat⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T03:20:10.276564808Z",
+  "model": "glm-5.3"
+}

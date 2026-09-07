@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 14:10",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja kuningas sanoi: se, joka puhuu sinulle ⟨sanan⟩, tuo hän⟨e⟩t minulle, eikä hän lisää enää koskea sinuun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "se, joka puhuu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "והבאתו",
+      "gloss": "ja tuo hänet"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "lisää"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enää"
+    },
+    {
+      "surface": "לגעת",
+      "gloss": "koskea"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinuun"
+    }
+  ],
+  "timestamp": "2026-09-06T23:23:58.806736316Z",
+  "model": "glm-5.3"
+}

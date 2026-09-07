@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 15:2",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Ja tämä ⟨on⟩ shemittahin asia: jokaisen velan haltija luovuttaa kätensä ⟨anteeksiantoon⟩, jonka hän on lainannut lähimmäiselleen; hän ei saa ajaa takaa ⟨את⟩ lähimmäisensä eikä ⟨את⟩ veljensä, sillä shemittah on julistettu Jahvelle.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Ja tämä"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asia"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "shemittahin"
+    },
+    {
+      "surface": "שמוט",
+      "gloss": "luovuttaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokaisen"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "haltija"
+    },
+    {
+      "surface": "משה",
+      "gloss": "velan"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kätensä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "ישה",
+      "gloss": "on lainannut"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "lähimmäiselleen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "saa ajaa takaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lähimmäisensä"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "lähimmäisensä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "eikä ⟨את⟩",
+      "marks": "veljensä"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "veljensä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "on julistettu"
+    },
+    {
+      "surface": "שמטה",
+      "gloss": "shemittah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    }
+  ],
+  "timestamp": "2026-09-06T22:30:28.431914080Z",
+  "model": "glm-5.3"
+}

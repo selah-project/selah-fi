@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 74,
+  "translation": "Sinä avasit lähteen ja puron, sinä kuivattain ijokset, pysyvät virrat.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sinä"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "avasit"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "lähteen"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "ja puron"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "kuivattain"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "virrat"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "pysyvät"
+    }
+  ],
+  "timestamp": "2026-09-07T02:22:33.022175733Z",
+  "model": "glm-5.3"
+}

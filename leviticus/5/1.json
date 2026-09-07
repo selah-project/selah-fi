@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja jos nefesh (sielu) tekee syntiä ja kuulee kirouksen äänen, ja hän ⟨on⟩ todistaja, olkoonpa nähnyt tai tietävä, jos hän ei ilmoita, hän kantakoon vääryytensä.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "Ja jos nefesh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "tekee syntiä"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "ja kuulee"
+    },
+    {
+      "surface": "קול",
+      "gloss": "äänen"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kirouksen"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ja hän"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨on⟩ todistaja"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nähnyt"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tietävä"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ilmoita"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "hän kantakoon"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "vääryytensä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:50:05.085608875Z",
+  "model": "glm-5.3"
+}

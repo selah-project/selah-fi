@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Myöskin kaikkiin sanoihin, joita puhutaan, älä anna sydäntäsi, ettet kuulisi ⟨את⟩ palvelijasi kiroustavan sinua.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Myöskin"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kaikkiin"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sanoihin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joita"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "puhutaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "anna"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "sydäntäsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ettet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "kuulisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palvelijasi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "palvelijasi"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "kiroustavan sinua"
+    }
+  ],
+  "timestamp": "2026-09-07T04:37:42.783727790Z",
+  "model": "glm-5.3"
+}

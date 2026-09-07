@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 10:19",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Paljon sanoja — rikkomus ei lakkaa; mutta huuliansa hillitsevä on ymmärtäväinen.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "paljon"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "sanoja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "lakkaa"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "rikkomus"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "mutta joka hillitsee"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "huuliansa"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "on ymmärtäväinen"
+    }
+  ],
+  "timestamp": "2026-09-07T04:35:20.473628681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Sillä on palannut Jahve ⟨את⟩ Ja'akovin ⟨(Jaakobin)⟩ ylpeyden, niinkuin Israelin ylpeyden, sillä tyhjentäjät ovat tyhjentäneet ⟨את⟩ heidän oksansa ja ⟨את⟩ heidän viinipuun rungonsa he ovat turmelleet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "שב",
+      "gloss": "on palannut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ja'akovin ylpeyden"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ylpeyden"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akovin"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "niinkuin ylpeyden"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "ovat tyhjentäneet"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "tyhjentäjät"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "ja heidän oksansa"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "he ovat turmelleet"
+    }
+  ],
+  "timestamp": "2026-09-07T04:30:23.952101281Z",
+  "model": "glm-5.3"
+}

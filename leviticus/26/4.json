@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 26:4",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "niin minä annan sateenne ajallaan, ja maa antaa saduikkensa, ja kedon puut antavat hedelmänsä.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "niin minä annan"
+    },
+    {
+      "surface": "גשמיכם",
+      "gloss": "sateenne"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "ajallaan"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "ja antaa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "saduikkensa"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ja kedon puut"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "kedon"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "antavat"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "hedelmänsä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:00:21.366721091Z",
+  "model": "glm-5.3"
+}

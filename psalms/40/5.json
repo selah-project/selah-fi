@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Autuas ⟨on⟩ se mies, joka pani Jahven turvakseen eikä kääntynyt röyhkeiden puoleen eikä valheeseen harhailijoiden.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Autuas"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "mies"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "turvakseen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "kääntynyt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "puoleen"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "röyhkeiden"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "eikä harhailijoiden"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "valheeseen"
+    }
+  ],
+  "timestamp": "2026-09-07T02:08:48.210750148Z",
+  "model": "glm-5.3"
+}

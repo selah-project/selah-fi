@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Isäsi alastomuutta ja äitisi alastomuutta älä paljasta: äitisi ⟨on⟩ hän — älä paljasta hänen alastomuuttaan.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "alastomuutta"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "isäsi"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "ja alastomuutta"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "äitisi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "paljasta"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "äitisi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "paljasta"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "hänen alastomuuttaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:54:40.672704504Z",
+  "model": "glm-5.3"
+}

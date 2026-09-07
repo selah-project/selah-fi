@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Sinä olet antanut ilon sydämeeni siitä ajasta, jona heidän viljansa ja viininsä runsastuivat.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Sinä olet antanut"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ilon"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "sydämeeni"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "siitä ajasta"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "heidän viljansa"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "ja viininsä"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "runsastuivat"
+    }
+  ],
+  "timestamp": "2026-09-07T01:51:54.342655601Z",
+  "model": "glm-5.3"
+}

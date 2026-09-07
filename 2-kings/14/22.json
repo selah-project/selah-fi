@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 14:22",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Hän rakensi ⟨את⟩ Eilatin ja palautti sen Jehudalle sen jälkeen, kun kuningas lepäsi isiensä kanssa.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Hän"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "rakensi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eilatin"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Eilatin"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "ja palautti sen"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Jehudalle"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sen jälkeen kun"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "lepäsi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "isiensä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:54:03.427582427Z",
+  "model": "glm-5.3"
+}

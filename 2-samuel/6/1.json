@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja kokosi jälleen David ⟨את⟩ kaikki valitut Israelissa, kolmekymmentä tuhatta.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "kokosi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jälleen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki valitut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "valitut"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israelissa"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "kolmekymmentä"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhatta"
+    }
+  ],
+  "timestamp": "2026-09-06T23:22:49.053497977Z",
+  "model": "glm-5.3"
+}

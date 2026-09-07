@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 36:10",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 36,
+  "translation": "Vuoden vaihtuessa kuningas Nevukhadnetsar lähetti ⟨noutamaan⟩ ja toi hänet Babyloniin yhdessä Jahven huoneen haluttujen astioiden kanssa, ja hän teki ⟨את⟩ Tsidkijahun, veljensä, kuninkaaksi Jehudan ja Jerushalajimin yli.",
+  "tokens": [
+    {
+      "surface": "ולתשובת",
+      "gloss": "vuoden vaihtuessa"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "vuoden"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "lähetti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevukhadnetsar"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "ja toi hänet"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babyloniin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yhdessä"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "astiat"
+    },
+    {
+      "surface": "חמדת",
+      "gloss": "haluttujen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ja teki kuninkaaksi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidkijahun"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkijahun"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "veljensä"
+    },
+    {
+      "surface": "על",
+      "gloss": "yli"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ja Jerushalajimin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:54:54.109572531Z",
+  "model": "glm-5.3"
+}

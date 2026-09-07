@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 32:27",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Ja hän sanoi: ”Päästä minut, sillä aamunkoitto on noussut.” Mutta hän sanoi: ”En päästä sinua, ellet siunaa minua.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "päästä minut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "on noussut"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "aamunkoitto"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mutta hän sanoi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "päästä sinua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ellet"
+    },
+    {
+      "surface": "אם",
+      "gloss": "(poikkeukseksi)"
+    },
+    {
+      "surface": "ברכתני",
+      "gloss": "siunaa minua"
+    }
+  ],
+  "timestamp": "2026-09-06T21:18:15.191744319Z",
+  "model": "glm-5.3"
+}

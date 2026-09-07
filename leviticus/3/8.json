@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 3:8",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja hän laskee kätensä ⟨את⟩ uhrinsa pään päälle ja teurastaa ⟨את⟩ ⟨אתו⟩ kokousmajan eteen, ja Aharonin pojat roiskuttavat ⟨את⟩ sen veren alttarille ympäri.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "ja hän laskee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kätensä"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kätensä"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pään"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "uhrinsa"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ja teurastaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "marks": "sen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "majan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kokousmajan"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "ja roiskuttavat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen veren"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sen veren"
+    },
+    {
+      "surface": "על",
+      "gloss": "-lle"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarille"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympäri"
+    }
+  ],
+  "timestamp": "2026-09-07T07:21:08.720543726Z",
+  "model": "glm-5.3"
+}

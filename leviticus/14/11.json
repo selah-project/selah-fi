@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja puhdistava kohen asettaa ⟨את⟩ miehen, jota puhdistetaan, ja ⟨את⟩ ne, Jahven eteen, ilmestysmajan sisäänkäynnille.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "Ja asettaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "puhdistava"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miehen, jota puhdistetaan"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "jota puhdistetaan"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ja ⟨את⟩ ne",
+      "marks": "ne (uhrieläimet ja uhrit)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sisäänkäynnille"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "majan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ilmestys-"
+    }
+  ],
+  "timestamp": "2026-09-06T21:53:16.263503061Z",
+  "model": "glm-5.3"
+}

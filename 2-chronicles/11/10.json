@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "ja ⟨את⟩ Tsorahin ja ⟨את⟩ Aijalonin ja ⟨את⟩ Hevronin, jotka ⟨olivat⟩ Yehudassa ja Binyaminissa, linnoitettuja kaupunkeja",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Tsorahin"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsorah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Aijalonin"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Aijalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Hevronin"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yehudassa"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "ja Binyaminissa"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kaupunkeja"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "linnoitettuja"
+    }
+  ],
+  "timestamp": "2026-09-07T05:34:08.349693189Z",
+  "model": "glm-5.3"
+}

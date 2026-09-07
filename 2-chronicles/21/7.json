@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 21:7",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Mutta Jahve ei tahtonut hävittää ⟨את⟩ Daavidin (Daavid) sukua liiton tähden, jonka hän oli leikannut Daavidin kanssa, ja niin kuin hän oli sanonut antavansa hänelle lampun ja hänen pojilleen kaikkina päivinä.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mutta ei"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "tahtonut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "hävittää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daavidin suku"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suku"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daavidin"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "liiton"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "oli leikannut"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Daavidin"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "ja niin kuin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oli sanonut"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "antavansa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "lampun"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ja hänen pojilleen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkina"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "päivinä"
+    }
+  ],
+  "timestamp": "2026-09-07T05:43:05.466208272Z",
+  "model": "glm-5.3"
+}

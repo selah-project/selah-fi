@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 16:13",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja tapahtui ehtoon mennessä, että viiriäiset nousivat ja peittivät ⟨את⟩ leirin; ja aamulla oli kasteen laskeutuminen leirin ympärillä.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja tapahtui"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ehtoon"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "ja nousivat"
+    },
+    {
+      "surface": "השלו",
+      "gloss": "viiriäiset"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "ja peittivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leirin"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "leirin"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "ja aamulla"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "laskeutuminen"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "kasteen"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympärillä"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "leirin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:36:44.344436529Z",
+  "model": "glm-5.3"
+}

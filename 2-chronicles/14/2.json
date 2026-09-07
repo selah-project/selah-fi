@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja hän poisti ⟨את⟩ vieraiden alttarit ja korkeat paikat, ja hän mursi ⟨את⟩ patsaat, ja hän kaatoi ⟨את⟩ Ashera-pylväät.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "Ja hän poisti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vieraiden alttarit"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "alttarit"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "vieraiden"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "ja korkeat paikat"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "ja hän mursi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patsaat"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "patsaat"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "ja hän kaatoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashera-pylväät"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Ashera-pylväät"
+    }
+  ],
+  "timestamp": "2026-09-07T05:38:41.629055488Z",
+  "model": "glm-5.3"
+}

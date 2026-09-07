@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 105,
+  "translation": "He pyysivät, ja hän toi selavia (viiriäisiä), ja taivaan leipää hän antoi heidän kylläistyä.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "he pyysivät"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ja hän toi"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "selavia (viiriäisiä)"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "ja taivaan leipää"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "hän antoi heidän kylläistyä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:38:16.366633686Z",
+  "model": "glm-5.3"
+}

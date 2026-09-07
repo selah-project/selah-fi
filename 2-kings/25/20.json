@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja Nevuzaradan, henkivartijoiden päällikkö, otti ⟨את⟩ heidät ja vei ⟨את⟩ heidät Babylonin kuninkaan luo Rivlaan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ja otti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ heidät",
+      "marks": "heidät"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nevuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "päällikkö"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "henkivartijoiden"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ja vei"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ heidät",
+      "marks": "heidät"
+    },
+    {
+      "surface": "על",
+      "gloss": "luo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylonin"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Rivlaan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:00:24.755334895Z",
+  "model": "glm-5.3"
+}

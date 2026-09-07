@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "On olemassa paha, jonka olen nähnyt auringon alla, ja se ⟨on⟩ raskas ihmisten päällä.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "On olemassa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "paha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "olen nähnyt"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alla"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "auringon"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "ja raskas"
+    },
+    {
+      "surface": "היא",
+      "gloss": "se"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihmisten"
+    }
+  ],
+  "timestamp": "2026-09-07T04:39:07.453395306Z",
+  "model": "glm-5.3"
+}

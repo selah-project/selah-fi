@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja Ahav (Ahab) ilmoitti Izevelille ⟨את⟩ kaiken, mitä Eliyahu (Elias) oli tehnyt, ja ⟨את⟩ kaiken, mitä hän oli surmannut — ⟨את⟩ kaikki profeetat miekalla.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Ja ilmoitti"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "Izevelille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teki"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaiken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "surmasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "profeetat"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "miekalla"
+    }
+  ],
+  "timestamp": "2026-09-07T04:25:08.764973061Z",
+  "model": "glm-5.3"
+}

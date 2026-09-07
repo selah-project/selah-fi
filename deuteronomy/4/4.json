@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Mutta te, jotka pidätte kiinni Jahvesta, teidän Elohimistanne, olette elossa, te kaikki tänä päivänä.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Mutta te"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "jotka pidätte kiinni"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvesta"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "teidän Elohimistanne"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "olette elossa"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "te kaikki"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tänä päivänä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:25:07.672112373Z",
+  "model": "glm-5.3"
+}

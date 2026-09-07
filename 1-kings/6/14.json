@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja Shelomo (Salomo) rakensi ⟨את⟩ talon ja sai sen valmiiksi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ja rakensi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "talon"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "ja sai sen valmiiksi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:35:07.880052240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Älä kyntä härällä ja aasilla yhdessä.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "kyntä"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "härällä"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "ja aasilla"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "yhdessä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:31:35.473362473Z",
+  "model": "glm-5.3"
+}

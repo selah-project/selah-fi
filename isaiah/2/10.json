@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 2:10",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Mene kallioon ja kätkeydy pölyyn, Jahven kauhun edestä ja hänen mahtinsa loisteen edestä.",
+  "tokens": [
+    {
+      "surface": "בוא",
+      "gloss": "mene"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "kallioon"
+    },
+    {
+      "surface": "והטמן",
+      "gloss": "ja kätkeydy"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "pölyyn"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "edestä"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "kauhun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "ja loisteen"
+    },
+    {
+      "surface": "גאנו",
+      "gloss": "hänen mahtinsa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:59:23.035225732Z",
+  "model": "glm-5.3"
+}

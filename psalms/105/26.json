@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 105,
+  "translation": "Hän lähetti Moshen (Mooses), palvelijansa, ja Aharonin (Aaron), jonka hän valitsi.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "lähetti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshen"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "palvelijansa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "valitsi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hänet"
+    }
+  ],
+  "timestamp": "2026-09-07T02:39:17.846724949Z",
+  "model": "glm-5.3"
+}

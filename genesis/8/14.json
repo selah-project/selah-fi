@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja toisen kuukauden kuukauden kahdentenakymmenentenäseitsemäntenä päivänä ⟨oli⟩ maa kuiva.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "ja kuukaudessa"
+    },
+    {
+      "surface": "השני",
+      "gloss": "toisen"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "seitsemänentenä"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ja kahdennenkymmenennen"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "kuukauden"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "oli kuiva"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:06:18.705997576Z",
+  "model": "glm-5.3"
+}

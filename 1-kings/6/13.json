@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja minä asuan Israelin lasten keskellä enkä hylkää ⟨את⟩ kansaani Israelia.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "ja minä asun"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keskellä"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "hylkää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansaani"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kansaani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelia"
+    }
+  ],
+  "timestamp": "2026-09-06T23:35:07.879363968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Ikuisesti, Jahve, sanasi ⟨on⟩ pystyssä taivaissa.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "Ikuisesti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "sanasi"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "⟨on⟩ pystyssä"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "taivaissa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:46:43.504802432Z",
+  "model": "glm-5.3"
+}

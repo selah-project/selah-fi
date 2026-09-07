@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 149,
+  "translation": "Ylistäkööt hänen nimeään tanssissa, rummun ja kanteleen kanssa soittakoot hänelle.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Ylistäkööt"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hänen nimeään"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "tanssissa"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "rummun"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ja kanteleen"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "soittakoot"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    }
+  ],
+  "timestamp": "2026-09-07T02:56:59.023952926Z",
+  "model": "glm-5.3"
+}

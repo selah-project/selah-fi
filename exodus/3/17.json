@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 3:17",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja minä sanoin: Minä nostan ⟨את⟩ teidät ylös Mitsrajimin (Egyptin) ahdistuksesta kenaanilaisen ja hittiläisen ja emorilaisen ja perissiläisen ja hivviläisen ja jebusilaisen maahan, maahan, joka vuotaa maitoa ja hunajaa.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ja minä sanoin"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "minä nostan ylös"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät",
+      "marks": "teidät"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "ahdistuksesta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kenaanilaisen"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "ja hittiläisen"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "ja emorilaisen"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ja perissiläisen"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "ja hivviläisen"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ja jebusilaisen"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "joka vuotaa"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "maitoa"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ja hunajaa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:31:01.391720024Z",
+  "model": "glm-5.3"
+}

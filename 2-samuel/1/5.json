@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja David sanoi nuorukaiselle, joka hänelle kertoi: Mistä tiedät, että Shaul (Saul) ja Jehonatan, hänen poikansa, ovat kuolleet?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nuorukaiselle"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "nuorukaiselle"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "joka kertoi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "איך",
+      "gloss": "Mistä"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tiedät"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ovat kuolleet"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "ja Jehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hänen poikansa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:18:44.598246249Z",
+  "model": "glm-5.3"
+}

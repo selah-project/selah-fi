@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja he vartioivat ⟨את⟩ hänen vartiovuoronsa ja ⟨את⟩ koko seurakunnan vartiovuoron ilmestysmajan edessä, tehdäkseen ⟨את⟩ Mishkanin (asumuksen) palveluksen.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "ja he vartioivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen vartiovuoronsa"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "hänen vartiovuoronsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "koko seurakunnan vartiovuoron"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "vartiovuoron"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "seurakunnan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "majan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kohtaamisen"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "tehdäkseen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkanin palveluksen"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "palveluksen"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:03:34.209052514Z",
+  "model": "glm-5.3"
+}

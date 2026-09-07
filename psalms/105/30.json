@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 105,
+  "translation": "Vilisi heidän maansa sammakoita, heidän kuningastensa kammioissa.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "vilisi"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "heidän maansa"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "sammakoita"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "kammioissa"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "heidän kuningastensa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:38:54.149342518Z",
+  "model": "glm-5.3"
+}

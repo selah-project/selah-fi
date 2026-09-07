@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 21:8",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja Israelin pojat antoivat leviläisille ⟨את⟩ nämä kaupungit ja ⟨את⟩ niiden laitumet, niin kuin Jahve oli käskenyt Moshen ( Mooseksen) käden kautta, arvalla.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Ja antoivat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "leviläisille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nämä kaupungit"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "kaupungit"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "niiden laitumet"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "niiden laitumet"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oli käskenyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käden kautta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshen"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "arvalla"
+    }
+  ],
+  "timestamp": "2026-09-06T22:48:10.798669749Z",
+  "model": "glm-5.3"
+}

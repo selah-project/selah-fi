@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "ja he vartioivat ⟨את⟩ vartiopaikan, kokoontumisen teltan, ja ⟨את⟩ vartiopaikan pyhän, ja vartiopaikan Aharonin (Aaronin) poikien, heidän veljiensä, Jahven huoneen palvelukseen",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "ja he vartioivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vartiopaikan"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "vartiopaikan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kokoontumisen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "vartiopaikan"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "vartiopaikan"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pyhän"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "ja vartiopaikan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikien"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonin"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "heidän veljiensä"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "palvelukseen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-07T05:27:03.598748463Z",
+  "model": "glm-5.3"
+}

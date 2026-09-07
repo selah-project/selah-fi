@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 10:11",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja Jahve sanoi minulle: Nouse, lähde marssimaan kansan edellä, että he tulevat ja perivät ⟨את⟩ maan, jonka olen vannonut heidän isillensä antaakseni heille.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Nouse"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lähde"
+    },
+    {
+      "surface": "למסע",
+      "gloss": "marssimaan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edellä"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "että he tulevat"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "ja perivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "olen vannonut"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "heidän isillensä"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "antaakseni"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    }
+  ],
+  "timestamp": "2026-09-06T22:26:51.941358585Z",
+  "model": "glm-5.3"
+}

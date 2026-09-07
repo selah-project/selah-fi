@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Kuka ⟨on⟩ viisaan kaltainen, ja kuka tuntee sanan selityksen? Ihmisen viisaus valaisee hänen kasvonsa, ja hänen kasvojensa kovuus muuttuu.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kuka"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "viisaan kaltainen"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ja kuka"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "tuntee"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "selityksen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sanan"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "viisaus"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmisen"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "valaisee"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "hänen kasvonsa"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ja kovuus"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "hänen kasvojensa"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "muuttuu"
+    }
+  ],
+  "timestamp": "2026-09-07T04:38:25.062066900Z",
+  "model": "glm-5.3"
+}

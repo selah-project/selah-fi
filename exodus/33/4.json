@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Ja kansa kuuli ⟨את⟩ tämän pahan sanoman, ja he murehtivat, eikä kukaan pannut koristeitaan päälleen.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Ja kuuli"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän sanoman"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sanoman"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "pahan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "ja he murehtivat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "pannut"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kukaan"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "koristeitaan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "päälleen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:43:51.725335327Z",
+  "model": "glm-5.3"
+}

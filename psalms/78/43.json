@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 78:43",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 78,
+  "translation": "jolloin hän asetti merkkinsä Mitsrajimissa ⟨ja⟩ ihmeensä Tsoanin kedolla.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "jolloin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hän asetti"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrajimissa"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "merkkinsä"
+    },
+    {
+      "surface": "ומופתיו",
+      "gloss": "ja ihmeensä"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kedolla"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsoanin"
+    }
+  ],
+  "timestamp": "2026-09-07T02:26:54.206606367Z",
+  "model": "glm-5.3"
+}

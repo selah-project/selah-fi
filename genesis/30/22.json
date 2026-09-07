@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 30:22",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja Elohim muisti ⟨את⟩ Rahelin, ja Elohim kuuli häntä, ja avasi ⟨את⟩ hänen kohtunsa.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "Ja muisti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rahelin"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahelin"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ja kuuli"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "häntä"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "ja avasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen kohtunsa"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "hänen kohtunsa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:16:00.668532390Z",
+  "model": "glm-5.3"
+}

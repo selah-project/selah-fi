@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 14:43",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja jos tauti palaa ja puhkeaa talossa sen jälkeen, kun ⟨את⟩ kivet on poistettu ja talo on kaavutettu ⟨את⟩ ja sen jälkeen, kun se on rapautettu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ja jos"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "palaa"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "tauti"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "ja puhkeaa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "talossa"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sen jälkeen"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "on poistettu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kivet"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kivet"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ja sen jälkeen"
+    },
+    {
+      "surface": "הקצות",
+      "gloss": "kaavuttamisen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "talo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "talo"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ja sen jälkeen"
+    },
+    {
+      "surface": "הטוח",
+      "gloss": "rapauttamisen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:53:48.997458182Z",
+  "model": "glm-5.3"
+}

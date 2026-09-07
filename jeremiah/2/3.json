@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 2:3",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Israel ⟨oli⟩ pyhä Jahvelle, hänen sadonsa ensihedelmä; kaikki sen syöjät joutuivat syyllisiksi, pahuus tuli heidän päällensä, Jahven neitsaus.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "pyhä"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ensihedelmä"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "hänen sadonsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "sen syöjät"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "joutuivat syyllisiksi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pahuus"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "heidän päällensä"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "neitsaus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-07T00:23:24.954850385Z",
+  "model": "glm-5.3"
+}

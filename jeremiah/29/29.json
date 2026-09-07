@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja Tsefanja (Sefanja) kohen luki ⟨את⟩ tämän kirjeen Yirmejahun (Jeremia), navin, korviin.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ja luki"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanja"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen (pappi)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän kirjeen"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "kirjeen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "korviin"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmejahun"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "navin (profeetan)"
+    }
+  ],
+  "timestamp": "2026-09-07T00:38:52.913133135Z",
+  "model": "glm-5.3"
+}

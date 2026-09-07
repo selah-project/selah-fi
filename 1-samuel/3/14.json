@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja siksi minä olen vannonut Elin huoneelle, ettei Elin huoneen pahuutta soviteta ⟨koskaan⟩ uhrilla eikä ruokauhrilla asti ikuisuuteen.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "Ja siksi"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "minä olen vannonut"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "huoneelle"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "että ei"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "soviteta"
+    },
+    {
+      "surface": "עון",
+      "gloss": "pahuutta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elin"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "uhrilla"
+    },
+    {
+      "surface": "ובמנחה",
+      "gloss": "eikä ruokauhrilla"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ikuisuuteen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:06:16.312160856Z",
+  "model": "glm-5.3"
+}

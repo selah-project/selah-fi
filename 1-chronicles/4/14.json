@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 4:14",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja Meonotai synnytti ⟨את⟩ Ofra; ja Serajah synnytti ⟨את⟩ Yoavin, Ge Harashimin (käsityöläisten laakson) isän; sillä käsityöläisiä he olivat.",
+  "tokens": [
+    {
+      "surface": "ומעונתי",
+      "gloss": "Ja Meonotai"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ofran"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "Ofran"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "ja Serajah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoavin"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoavin"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "isän"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "Ge Harashimin"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "…"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "käsityöläisiä"
+    },
+    {
+      "surface": "היו",
+      "gloss": "he olivat"
+    }
+  ],
+  "timestamp": "2026-09-07T05:12:51.430026667Z",
+  "model": "glm-5.3"
+}

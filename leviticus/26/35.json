@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Kaikkina autiuden päivinä ⟨se⟩ lepää ⟨את⟩ sen, minkä se ei levännyt teidän sapateissanne, kun te asuitte sen päällä.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päivinä"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "autiuden"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "lepää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen, minkä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minkä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "levännyt"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "teidän sapateissanne"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "teidän asuessanne"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sen päällä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:14:29.344348142Z",
+  "model": "glm-5.3"
+}

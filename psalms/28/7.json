@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Jahve ⟨on⟩ minun voimani ja kilpeni; häneen sydämeni luotti, ja minä saan apua, ja sydämeni riemuitsee, ja veisuullani minä kiitän häntä.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "minun voimani"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "ja kilpeni"
+    },
+    {
+      "surface": "בו",
+      "gloss": "häneen"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "luotti"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sydämeni"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "ja minä saan apua"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "ja riemuitsee"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sydämeni"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "ja veisuullani"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "minä kiitän häntä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:01:35.527376698Z",
+  "model": "glm-5.3"
+}

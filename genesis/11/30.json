@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja Sarai ⟨oli⟩ lapiton, ei hänellä ⟨ollut⟩ lasta.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ja oli"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "lapiton"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hänellä"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "lasta"
+    }
+  ],
+  "timestamp": "2026-09-06T21:09:30.586359575Z",
+  "model": "glm-5.3"
+}

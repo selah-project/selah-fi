@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 36:19",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 36,
+  "translation": "Ja he polttivat ⟨את⟩ Elohimin talon ja hajottivat ⟨את⟩ Jerushalajimin (Jerusalem) muurin, ja kaikki sen palatsit he polttivat tulessa, ja kaikki sen rakkaat esineet — tuhotakseen.",
+  "tokens": [
+    {
+      "surface": "וישרפו",
+      "gloss": "ja he polttivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimin talon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "וינתצו",
+      "gloss": "ja he hajottivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerushalajimin muurin"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "muurin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimin (Jerusalem)"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "sen palatsit"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "he polttivat"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulessa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "esineet"
+    },
+    {
+      "surface": "מחמדיה",
+      "gloss": "sen rakkaat"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "tuhotakseen"
+    }
+  ],
+  "timestamp": "2026-09-07T05:55:36.175514945Z",
+  "model": "glm-5.3"
+}

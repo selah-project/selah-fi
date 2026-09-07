@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 44:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 44,
+  "translation": "Sillä ei omalla miekallaan he perivät ⟨את⟩ maan, eikä heidän käsivartensa pelastanut heitä; vaan sinun oikea kätesi ja käsivartesi ja kasvojesi valo — sillä sinä heitä suosit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "בחרבם",
+      "gloss": "omalla miekallaan"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "he perivät",
+      "marks": "maankohteen merkintä"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "וזרועם",
+      "gloss": "eikä heidän käsivartensa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "pelastanut"
+    },
+    {
+      "surface": "למו",
+      "gloss": "heitä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vaan"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "sinun oikea kätesi"
+    },
+    {
+      "surface": "וזרועך",
+      "gloss": "ja käsivartesi"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ja valo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "kasvojesi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "רציתם",
+      "gloss": "sinä heitä suosit"
+    }
+  ],
+  "timestamp": "2026-09-07T07:21:08.623243703Z",
+  "model": "glm-5.3"
+}

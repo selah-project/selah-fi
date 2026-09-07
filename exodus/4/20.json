@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja Moshe otti ⟨את⟩ vaimonsa ja ⟨את⟩ poikansa ja nosti heidät aasin selkään, ja hän palasi Mitsrajimin maahan; ja Moshe otti ⟨את⟩ Elohimin sauvan käteensä.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "otti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaimonsa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vaimonsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "poikansa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "poikansa"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "nosti heidät ratsaille"
+    },
+    {
+      "surface": "על",
+      "gloss": "selkään"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "aasin"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "palasi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "otti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimin sauvan"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "sauvan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "käteensä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:30:22.911345060Z",
+  "model": "glm-5.3"
+}

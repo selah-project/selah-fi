@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 119:51",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Ylpeät ovat pilkanneet minua sietämättömästi, mutta Torastasi (Toora) minä en ole poikennut.",
+  "tokens": [
+    {
+      "surface": "זדים",
+      "gloss": "Ylpeät"
+    },
+    {
+      "surface": "הליצני",
+      "gloss": "ovat pilkanneet minua"
+    },
+    {
+      "surface": "עד",
+      "gloss": "—"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sietämättömästi"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "Torastasi (Toora)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "ole poikennut"
+    }
+  ],
+  "timestamp": "2026-09-07T02:45:37.314428073Z",
+  "model": "glm-5.3"
+}

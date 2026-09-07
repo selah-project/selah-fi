@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 25:3",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Onko lukumäärää hänen joukoilleensa, ja kenen päällä ei nouse hänen valonsa?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "Onko"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "lukumäärää"
+    },
+    {
+      "surface": "לגדודיו",
+      "gloss": "hänen joukoilleensa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja kenen päällä"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kenen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "nouse"
+    },
+    {
+      "surface": "אורהו",
+      "gloss": "hänen valonsa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:40:21.862307448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 28:4",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Toran hylkijät ylistävät pahaa, mutta Toran varjelevat käyvät heitä vastaan.",
+  "tokens": [
+    {
+      "surface": "עזבי",
+      "gloss": "hylkijät"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Toran"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "ylistävät"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "pahaa"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "mutta ... varjelevat"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Toran"
+    },
+    {
+      "surface": "יתגרו",
+      "gloss": "käyvät vastaan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "heitä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:20:10.283732644Z",
+  "model": "glm-5.3"
+}

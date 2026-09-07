@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 18:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ahdistuksessani minä kutsuin Jahvea ja huusin Elohimini ⟨puoleen⟩. Hän kuuli ääneni temppelistään, ja huutoni tuli hänen edessään hänen korviinsa.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "ahdistuksessani"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "minä kutsuin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja ⟨puoleen⟩"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimini"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "huusin"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "hän kuuli"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "temppelistään"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ääneni"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "ja huutoni"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "hänen edessään"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "hänen korviinsa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:57:37.957473905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Ja jokainen satula, jolla vuotava ajaa, tulee epäpuhtaaksi.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ja jokainen"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "satula"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jota"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "ajaa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sen päällä"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "vuotava"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "tulee epäpuhtaaksi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:54:58.687547004Z",
+  "model": "glm-5.3"
+}

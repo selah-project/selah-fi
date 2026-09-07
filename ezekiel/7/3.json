@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 7:3",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Nyt ⟨tulee⟩ loppu sinun päällesi, ja minä lähetän vihani sinun päällesi, ja minä tuomitsen sinut teitesi mukaan, ja minä panen sinun päällesi ⟨את⟩ kaikki kauhistuksesi.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Nyt"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "loppu"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sinun päällesi"
+    },
+    {
+      "surface": "ושלחתי",
+      "gloss": "ja minä lähetän"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "vihani"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinun päällesi"
+    },
+    {
+      "surface": "ושפטתיך",
+      "gloss": "ja minä tuomitsen sinut"
+    },
+    {
+      "surface": "כדרכיך",
+      "gloss": "teitesi mukaan"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ja minä panen"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sinun päällesi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki kauhistuksesi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "kauhistuksesi"
+    }
+  ],
+  "timestamp": "2026-09-07T00:54:25.474468459Z",
+  "model": "glm-5.3"
+}

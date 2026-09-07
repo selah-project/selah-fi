@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja hän nousi keskellä yötä ja otti ⟨את⟩ poikani siveltäni, kun orjattaresi nukkui, ja pani hänet makaamaan syliinsä, ja ⟨את⟩ kuolleen poikansa hän pani makaamaan syliini.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "ja nousi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keskellä"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "yötä"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ja otti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poikani"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikani"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "siveltäni"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "kun orjattaresi"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "nukkui"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "pani hänet makaamaan"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "syliinsä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kuolleen poikansa"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "poikansa"
+    },
+    {
+      "surface": "המת",
+      "gloss": "kuolleen"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "hän pani makaamaan"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "syliini"
+    }
+  ],
+  "timestamp": "2026-09-06T23:33:49.673217471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 18:16",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Siihen aikaan Hizkijah leikkasi irti ⟨את⟩ Jahven temppelin ovien ovet ja ⟨את⟩ ovipylväät, jotka Hizkijah, Jehudan kuningas, oli päällystänyt, ja antoi ne Ashurin kuninkaalle.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Siihen aikaan"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "silloin"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "leikkasi irti"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizkijah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovien ovet"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "ovet"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "temppelin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "ovipylväät"
+    },
+    {
+      "surface": "האמנות",
+      "gloss": "ovipylväät"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "oli päällystänyt"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizkijah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "ja antoi ne"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuninkaalle"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashurin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:55:40.703655149Z",
+  "model": "glm-5.3"
+}

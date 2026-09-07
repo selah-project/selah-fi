@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja he panivat ⟨את⟩ Jahven arkin vaunuun, ja ⟨את⟩ arkun, ja ⟨את⟩ kultahiiret ja ⟨את⟩ kuvat heidän paiseistaan.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "Ja he panivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven arkin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אל",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "vaunun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "arkun"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "arkun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kultahiiret"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "hiiret"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kulta-"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kuvat heidän paiseistaan"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "kuvat"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "heidän paiseistaan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:20:14.986720405Z",
+  "model": "glm-5.3"
+}

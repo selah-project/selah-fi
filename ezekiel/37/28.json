@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 37:28",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Ja kansat tietävät, että minä olen Jahve, ⟨joka⟩ pyhittää ⟨את⟩ Israelin, kun pyhäkköni ⟨on⟩ keskellään iankaikkisesti.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ja tietävät"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kansat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "pyhittäen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "kun … on"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "pyhäkköni"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "keskellään"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iankaikkisesti"
+    }
+  ],
+  "timestamp": "2026-09-07T01:13:45.037153195Z",
+  "model": "glm-5.3"
+}

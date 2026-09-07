@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Shimron-Meronin kuningas, yksi; Akshafin kuningas, yksi;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shimron-"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "Meronin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "Akshafin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yksi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:44:22.275031838Z",
+  "model": "glm-5.3"
+}

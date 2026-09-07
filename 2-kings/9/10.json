@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja ⟨את⟩ Isebelin syövät koirat Jisreelin (Jisreelin) palstalla, eikä ⟨ole⟩ ketään hautaamaan. Ja ⟨hän⟩ avasi oven ja pakeni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Isebelin"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Isebelin"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "syövät"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "koirat"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "palstalla"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jisreelin"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "ketään hautaamaan"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "ja avasi"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "oven"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "pakeni"
+    }
+  ],
+  "timestamp": "2026-09-06T23:50:09.992232632Z",
+  "model": "glm-5.3"
+}

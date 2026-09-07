@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Kivi ja kivi, eefa ja eefa — myös molemmat ⟨ovat⟩ Jahven kauhistus.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "Kivi"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ja kivi"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "eefa"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "ja eefa"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "kauhistus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "molemmat"
+    }
+  ],
+  "timestamp": "2026-09-07T03:11:24.058582510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 21:4",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja sen kaupungin vanhimmat vievät ⟨את⟩ vasikan alas jyrkkään laaksoon, jossa ei viljellä eikä kylvetä, ja katkaisevat siellä ⟨את⟩ vasikan niskan laaksossa.",
+  "tokens": [
+    {
+      "surface": "והורדו",
+      "gloss": "ja vievät alas"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vanhimmat"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vasikan"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "vasikan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laaksoon"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "laaksoon"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "jyrkkään"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jossa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "viljellä"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siinä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "kylvetä"
+    },
+    {
+      "surface": "וערפו",
+      "gloss": "ja katkaisevat niskan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vasikan"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "vasikan"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "laaksossa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:32:53.565126418Z",
+  "model": "glm-5.3"
+}

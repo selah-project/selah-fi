@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 83,
+  "translation": "Kuin tuli polttaa metsän, ja kuin liekki sytyttää vuoret.",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "Kuin tuli"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "polttaa"
+    },
+    {
+      "surface": "יער",
+      "gloss": "metsän"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "ja kuin liekki"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "sytyttää"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "vuoret"
+    }
+  ],
+  "timestamp": "2026-09-07T04:33:02.788247606Z",
+  "model": "glm-5.3"
+}

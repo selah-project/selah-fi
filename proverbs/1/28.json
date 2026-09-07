@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 1:28",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Silloin he huutavat minua, enkä minä vastaa; he etsivät minua varhain aamusta, eivätkä he minua löydä.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "silloin"
+    },
+    {
+      "surface": "יקראנני",
+      "gloss": "he huutavat minua"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "minä vastaa"
+    },
+    {
+      "surface": "ישחרנני",
+      "gloss": "he etsivät minua varhain aamusta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "he minua löydä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:00:58.855602278Z",
+  "model": "glm-5.3"
+}

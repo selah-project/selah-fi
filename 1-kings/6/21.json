@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 6:21",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja Shelomo (Salomo) verhoi ⟨את⟩ temppelin sisäpuolelta puhtaalla kullalla, ja hän kuljutti kultaketjuja Debirin eteen, ja hän verhoi sen kullalla.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "verhoi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "temppelin"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "temppelin"
+    },
+    {
+      "surface": "מפנימה",
+      "gloss": "sisäpuolelta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kulla"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "puhtaalla"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "kuljutti"
+    },
+    {
+      "surface": "ברתיקות",
+      "gloss": "kultaketjuja"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kulta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "Debirin"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "verhoi sen"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kullalla"
+    }
+  ],
+  "timestamp": "2026-09-06T23:34:31.964763976Z",
+  "model": "glm-5.3"
+}

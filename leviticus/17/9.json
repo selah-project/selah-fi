@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 17:9",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "eikä tuo sitä kohtaamisteltan sisäänkäynnille tehdäkseen ⟨את⟩ sen Jahvelle — hävitetään se mies, se, omasta kansastaan.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "eikä… mihinkään"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sisäänkäynnille"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kohtaamis(-)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "tuo sitä"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "tehdäkseen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sen"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "ja hävitetään"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "se mies"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "omasta kansastaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:55:53.349075274Z",
+  "model": "glm-5.3"
+}

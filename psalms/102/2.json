@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 102,
+  "translation": "Jahve, kuule rukoukseni, ja huutoni tulkoon sinun luoksesi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "kuule"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "rukoukseni"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "ja huutoni"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinun luoksesi"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "tulkoon"
+    }
+  ],
+  "timestamp": "2026-09-07T02:35:54.412875192Z",
+  "model": "glm-5.3"
+}

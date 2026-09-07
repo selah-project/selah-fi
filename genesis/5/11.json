@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 5:11",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja kaikiksi Enoshin päiviksi tuli viisi vuotta ja yhdeksänsataa vuotta, ja hän kuoli.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikiksi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päiviksi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enoshin"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "viisi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ja yhdeksänsataa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yhdeksänsataa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "kuoli"
+    }
+  ],
+  "timestamp": "2026-09-06T21:04:33.669660717Z",
+  "model": "glm-5.3"
+}

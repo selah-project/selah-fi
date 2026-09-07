@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 5:41",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja Jehotsadak (Joojadak) meni pakkosiirtolaisuuteen, kun Jahve kuljetti ⟨את⟩ Jehudan (Juudan) ja Jerushalajimin (Jerusalemin) Nebukadnetsarin käden kautta.",
+  "tokens": [
+    {
+      "surface": "ויהוצדק",
+      "gloss": "Ja Jehotsadak"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "meni"
+    },
+    {
+      "surface": "בהגלות",
+      "gloss": "pakkosiirtolaisuuteen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehudan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ja Jerushalajimin"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käden kautta"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nebukadnetsarin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:12:02.005178924Z",
+  "model": "glm-5.3"
+}

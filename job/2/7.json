@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 2:7",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja ha-satan lähti ⟨את⟩ ⟨מאת⟩ Jahven kasvojen edestä, ja hän löi ⟨את⟩ Ijovin (Job) pahalla märkärupialla kantapäästä hänen päälakensa asti.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Ja lähti"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ha-satan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ⟨מאת⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kasvojen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ja löi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijovin"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijovin"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "märkärupialla"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pahalla"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "pohjasta"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "jalkansa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "hänen päälakensa"
+    }
+  ],
+  "timestamp": "2026-09-07T07:21:08.662144644Z",
+  "model": "glm-5.3"
+}

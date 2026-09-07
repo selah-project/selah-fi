@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 55,
+  "translation": "El kuulee ja vastaa heitä ⟨ahdistaa heitä⟩, hän, joka istuu muinaisista ajoista. Selah. Heillä, joilla ei ole muutoksia, ei ole pelkoa Elohimia kohtaan.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "kuulee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "ja vastaa heitä"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "joka istuu"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "muinaisista ajoista"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "muutoksia"
+    },
+    {
+      "surface": "למו",
+      "gloss": "heillä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "he pelkää"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimia"
+    }
+  ],
+  "timestamp": "2026-09-07T02:14:16.892361782Z",
+  "model": "glm-5.3"
+}

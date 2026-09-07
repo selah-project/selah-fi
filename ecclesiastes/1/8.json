@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Kaikki sanat ovat väsyttäviä — ei ihminen voi puhua ⟨niitä loppuun⟩; ei silmä kyllästy katsomasta, eikä korva täyty kuulemisesta.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kaikki"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "väsyttäviä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "voi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ihminen"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "puhua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "kyllästy"
+    },
+    {
+      "surface": "עין",
+      "gloss": "silmä"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "katsomasta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "täyty"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "korva"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "kuulemisesta"
+    }
+  ],
+  "timestamp": "2026-09-07T04:06:57.414276260Z",
+  "model": "glm-5.3"
+}

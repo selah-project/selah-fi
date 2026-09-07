@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 1:4",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja tapahtui päivänä, että Elkana uhrasi ja antoi Pinenalle, vaimolleen, ja kaikille hänen pojilleen ja tyttärilleen annokset.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja tapahtui"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "ja uhrasi"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ja antoi"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "Pinenalle"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vaimolleen"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ja kaikille"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "pojilleen"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "ja tyttärilleen"
+    },
+    {
+      "surface": "מנות",
+      "gloss": "annokset"
+    }
+  ],
+  "timestamp": "2026-09-06T23:05:01.609090185Z",
+  "model": "glm-5.3"
+}

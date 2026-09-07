@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 13:5",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja David kokosi ⟨את⟩ koko Israelin, Shihorista Mitsrajimissa (Egyptistä) Hamatin tulon rajalle asti, tuomaan ⟨את⟩ Elohimin arkin Kirjat-Jearimista.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "Ja kokosi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko Israelin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-sta"
+    },
+    {
+      "surface": "שיחור",
+      "gloss": "Shihor"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ja ... asti"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "tulon"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "tuomaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimin arkin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Jearimista"
+    }
+  ],
+  "timestamp": "2026-09-07T05:21:31.378109031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Sano viisaudelle: ”Sinä ⟨olet⟩ sisareni”, ja ymmärrykselle kutsu omaiseksi.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Sano"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "viisaudelle"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "sisareni"
+    },
+    {
+      "surface": "את",
+      "gloss": "sinä",
+      "marks": "sisareni"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "ja ymmärrykselle"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "ymmärrykselle"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "kutsu"
+    }
+  ],
+  "timestamp": "2026-09-07T03:05:02.854965489Z",
+  "model": "glm-5.3"
+}

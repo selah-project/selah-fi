@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja hänen veljensä nimi ⟨oli⟩ Juval (Jubal); hän ⟨oli⟩ kaikkien kannelta ja huilua käsittelevien isä.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Ja nimi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hänen veljensä"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Juval"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "isä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkien"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "käsittelevien"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kannelta"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "ja huilua"
+    }
+  ],
+  "timestamp": "2026-09-06T21:05:17.338025890Z",
+  "model": "glm-5.3"
+}

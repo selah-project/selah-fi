@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Yhdentoista päivän ⟨matka⟩ ⟨on⟩ Horebista, Seirin vuoren tietä, Kadesh-Barneaan asti.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "yksi-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "toista"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivän"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "Horebista"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tietä"
+    },
+    {
+      "surface": "הר",
+      "gloss": "vuoren"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seirin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barneaan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:23:51.120494514Z",
+  "model": "glm-5.3"
+}

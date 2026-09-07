@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ei sovi tyhmälle ylellisyys, eikä palvelimelle ⟨sopi⟩ hallita ruhtinaita — ⟨paljon vähemmän⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "sopi"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "tyhmälle"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "ylellisyys"
+    },
+    {
+      "surface": "אף",
+      "gloss": "myös"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "palvelijalle"
+    },
+    {
+      "surface": "משל",
+      "gloss": "hallita"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "ruhtinaita"
+    }
+  ],
+  "timestamp": "2026-09-07T03:11:45.192822632Z",
+  "model": "glm-5.3"
+}

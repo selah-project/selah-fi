@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 16:6",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Olemme kuulleet Moabin ylpeyden — ylpeä hän on ylenmäärin —: hänen ylpeytensä ja hänen korskeutensa ja hänen vihansa; ei ⟨ole⟩ niin hänen valheiden kanssa.",
+  "tokens": [
+    {
+      "surface": "שמענו",
+      "gloss": "olemme kuulleet"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ylpeyden"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabin"
+    },
+    {
+      "surface": "גא",
+      "gloss": "ylpeä"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ylenmäärin"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "hänen ylpeytensä"
+    },
+    {
+      "surface": "וגאונו",
+      "gloss": "ja hänen korskeutensa"
+    },
+    {
+      "surface": "ועברתו",
+      "gloss": "ja hänen vihansa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "hänen valheensa"
+    }
+  ],
+  "timestamp": "2026-09-07T00:06:31.727149390Z",
+  "model": "glm-5.3"
+}

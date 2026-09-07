@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 139,
+  "translation": "Minne minä menisin sinun henkesi luota, ja minne minä pakenisin sinun kasvoistasi?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Minne"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "minä menisin"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "sinun henkesi luota"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "ja minne"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "sinun kasvoistasi"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "minä pakenisin"
+    }
+  ],
+  "timestamp": "2026-09-07T02:52:48.743960778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "ettei maa oksenna teitä ulos ⟨את⟩, kun te epäpuhtaaksi tehdessänne saastutatte ⟨את⟩ sen — niin kuin se oksensi ulos ⟨את⟩ kansan, joka on teitä ennen.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ettei"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "oksentaa ulos"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät",
+      "marks": "teidät"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "teidän epäpuhtaaksi tehdessänne"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "se oksensi ulos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansan"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "on teitä ennen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:54:54.707837767Z",
+  "model": "glm-5.3"
+}

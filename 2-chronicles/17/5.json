@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 17:5",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja Jahve vahvisti ⟨את⟩ kuningaskunnan hänen kädessään, ja koko Jehuda antoi lahjaa Jehoshafatille, ja hänelle tuli rikkautta ja kunniaa runsaasti.",
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "Ja vahvisti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuningaskunnan"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kuningaskunnan"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "hänen kädessään"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ja antoivat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "lahjaa"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "Jehoshafatille"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "rikkautta"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ja kunniaa"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "runsasti"
+    }
+  ],
+  "timestamp": "2026-09-07T05:40:06.340217276Z",
+  "model": "glm-5.3"
+}

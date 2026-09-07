@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Pituudeltaan sata kyynärää, pohjoisen ovea vasten, ja leveys oli viisikymmentä kyynärää.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "vasten"
+    },
+    {
+      "surface": "פני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "pituus"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "sata"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ovi"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "pohjoisen"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "ja leveys"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "viisikymmentä"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kyynärää"
+    }
+  ],
+  "timestamp": "2026-09-07T01:15:32.720307932Z",
+  "model": "glm-5.3"
+}

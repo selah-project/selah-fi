@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 115,
+  "translation": "Siunattuja te olette Jahven, taivaan ja maan tekijän.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "siunattuja"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "te"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tekijän"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ja maan"
+    }
+  ],
+  "timestamp": "2026-09-07T02:45:02.915055922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 17:6",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja korpit toivat hänelle leipää ja lihaa aamulla, ja leipää ja lihaa illalla, ja purosta hän joi.",
+  "tokens": [
+    {
+      "surface": "והערבים",
+      "gloss": "Ja korpit"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "toivat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "ja lihaa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamulla"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "ja leipää"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "ja lihaa"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "illalla"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ja …sta"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "purosta"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "hän joi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:41:14.690313062Z",
+  "model": "glm-5.3"
+}

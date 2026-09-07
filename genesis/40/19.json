@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 40:19",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Kolmen päivän kuluessa Paro nostaa ⟨את⟩ pääsi sinusta, ja hän ripustaa ⟨את⟩ ⟨אותך⟩ sinut puuhun, ja linnut syövävät ⟨את⟩ lihasi sinusta.",
+  "tokens": [
+    {
+      "surface": "בעוד",
+      "gloss": "Kulussa"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kolmen"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivän"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "nostaa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pääsi"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "pääsi"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "sinusta"
+    },
+    {
+      "surface": "ותלה",
+      "gloss": "ja ripustaa"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ⟨אותך⟩",
+      "marks": "sinut"
+    },
+    {
+      "surface": "על",
+      "gloss": "puuhun"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "puuhun"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ja syövävät"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "linnut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lihasi"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "lihasi"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "sinusta"
+    }
+  ],
+  "timestamp": "2026-09-06T21:22:46.423406390Z",
+  "model": "glm-5.3"
+}

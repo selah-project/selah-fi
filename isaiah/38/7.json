@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 38,
+  "translation": "Ja tämä olkoon sinulle merkki ⟨את⟩ Jahven taholta, että Jahve tekee ⟨את⟩ tämän sanan, jonka hän on puhunut.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Ja tämä"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "האות",
+      "gloss": "merkki"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ taholta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "että"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tekee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän sanan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sanan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "on puhunut"
+    }
+  ],
+  "timestamp": "2026-09-07T00:12:49.460335314Z",
+  "model": "glm-5.3"
+}

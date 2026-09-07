@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja nyt: kirottu olet sinä maasta, joka avasi ⟨את⟩ suunsa ottamaan ⟨את⟩ veljesi veren kädestäsi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ja nyt"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "kirottu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "olet sinä"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-sta"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "avasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suunsa"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "suunsa"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ottamaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veljesi veren"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "veren"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "veljesi"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "kädestäsi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:04:19.913432779Z",
+  "model": "glm-5.3"
+}

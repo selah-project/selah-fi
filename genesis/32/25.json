@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Ja Ja'akov (Jaakob) jäi yksinään, ja mies paini hänen kanssaan aamunkoiton nousuun asti.",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "ja jäi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akov (Jaakob)"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yksinään"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "ja paini"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hänen kanssaan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "nousuun"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "aamunkoiton"
+    }
+  ],
+  "timestamp": "2026-09-06T21:18:15.190782665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 14:8",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Mutta minun veljeni, jotka nousivat kanssani, saivat ⟨את⟩ kansan sydämen sulamaan; minä kuitenkin seurasin täysin Jahvea, Elohimiani.",
+  "tokens": [
+    {
+      "surface": "ואחי",
+      "gloss": "Mutta minun veljeni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "nousivat"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kanssani"
+    },
+    {
+      "surface": "המסיו",
+      "gloss": "saivat sulamaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansan sydämen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sydämen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "minä kuitenkin"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "seurasin täysin"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimiani"
+    }
+  ],
+  "timestamp": "2026-09-06T22:45:48.107716018Z",
+  "model": "glm-5.3"
+}

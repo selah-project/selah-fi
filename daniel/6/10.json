@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 6:10",
+  "book": "daniel",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Kaiken tämän vuoksi kuningas Darjavesh (Dareios) allekirjoitti kirjoituksen ja kiellon.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "vuoksi"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "Darjavesh (Dareios)"
+    },
+    {
+      "surface": "רשם",
+      "gloss": "allekirjoitti"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "kirjoituksen"
+    },
+    {
+      "surface": "ואסרא",
+      "gloss": "ja kiellon"
+    }
+  ],
+  "timestamp": "2026-09-07T04:47:33.399419411Z",
+  "model": "glm-5.3"
+}

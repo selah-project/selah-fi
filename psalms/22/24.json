@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Jahvea pelätäkää, ylistäkää häntä; koko Ja'akovin (Jaakob) siemen kunnioittakoon häntä, ja väistäkää häntä peläten koko Israelin siemen.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "pelätäkää"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ylistäkää häntä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "siemen"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akovin (Jaakob)"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "kunnioittakoon häntä"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "ja väistäkää häntä peläten"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "häntä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "siemen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-07T01:57:17.034713221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 12:6",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ottakoot papit ⟨את⟩ itselleen, kukin ⟨את⟩ luota tuttavaltaan, ja he vahvistakoot ⟨את⟩ huoneen aukkoa, kaikkialla, missä aukkoa siellä löytyy.",
+  "tokens": [
+    {
+      "surface": "יקחו",
+      "gloss": "ottakoot"
+    },
+    {
+      "surface": "להם",
+      "gloss": "itselleen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "papit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kukin"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ luota",
+      "marks": "tuttavaltaan"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "tuttavaltaan"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ja he"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "vahvistakoot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huoneen aukkoa"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "aukko"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kaikkialla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "missä"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "löytyy"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "aukko"
+    }
+  ],
+  "timestamp": "2026-09-06T23:54:07.836929192Z",
+  "model": "glm-5.3"
+}

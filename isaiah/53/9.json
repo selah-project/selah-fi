@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 53,
+  "translation": "Hänelle annettiin ⟨את⟩ jumalattomien hauta ja ⟨את⟩ rikkaalle vuoteen hänen kuollessaan, koska ei väkivaltaa hän tehnyt eikä petosta ollut hänen suussaan.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "annettiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jumalattomien"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jumalattomien"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "hauta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "rikkaalle"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "hänen kuollessaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "koska"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "väkivaltaa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "petosta"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "hänen suussaan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:18:46.694525743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 3:6",
+  "book": "amos",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Jos shofar kaikuu kaupungissa, eikö kansa vavahtaisi? Jos kaupungissa ⟨on⟩ paha, eikö Jahve ole sitä tehnyt?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jos"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "kaikuu"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kaupungissa"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ja kansa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "vavahtaisi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Jos"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "tapahtuu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "paha"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kaupungissa"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "eikö Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ole tehnyt"
+    }
+  ],
+  "timestamp": "2026-09-07T01:26:27.687975410Z",
+  "model": "glm-5.3"
+}

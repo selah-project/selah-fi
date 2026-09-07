@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "ja että Ja'akov kuunteli isäänsä ja äitiänsä ja meni Paddan-Aramiin.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "kuunteli"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akov"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isäänsä"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "äitiänsä"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ja meni"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Paddan-"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramiin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:16:13.496402175Z",
+  "model": "glm-5.3"
+}

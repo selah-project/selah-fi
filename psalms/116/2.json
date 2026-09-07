@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 116,
+  "translation": "Koska ⟨hän⟩ kallisti korvansa minun puoleeni, ja päivinäni minä kutsun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "kallisti"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "korvansa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minun puoleeni"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "ja päivinäni"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "minä kutsun"
+    }
+  ],
+  "timestamp": "2026-09-07T02:45:10.555261594Z",
+  "model": "glm-5.3"
+}

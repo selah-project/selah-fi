@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 5:4",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Kolmekymmentä vuotta vanha ⟨oli⟩ David tullessaan kuninkaaksi, ja neljäkymmentä vuotta hän hallitsi.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "poika \/ -vanha"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "kolmekymmentä"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "tullessaan kuninkaaksi"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "neljäkymmentä"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hän hallitsi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:21:54.301598096Z",
+  "model": "glm-5.3"
+}

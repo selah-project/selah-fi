@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja minä opetin Efraimin kävelemään, otin heidät heidän käsivarsiltaan, mutta he eivät tienneet, että minä paransin heidät.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "ja minä"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "opetin kävelemään"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efraimin"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "otin heidät"
+    },
+    {
+      "surface": "על",
+      "gloss": "heidän käsivarsiltaan"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "heidän käsivarsiltaan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mutta eivät"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tienneet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "paransin heidät"
+    }
+  ],
+  "timestamp": "2026-09-07T01:23:33.418073821Z",
+  "model": "glm-5.3"
+}

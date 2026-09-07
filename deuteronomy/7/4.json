@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "sillä hän kääntää pois ⟨את⟩ poikasi minun jäljestäni, ja he palvelevat muita jumalia; ja Jahven viha syttyy teihin, ja hän hävittää sinut nopeasti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "kääntää pois"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poikasi"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "poikasi"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "minun jäljestäni"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "ja he palvelevat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jumalia"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "muita"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "ja syttyy"
+    },
+    {
+      "surface": "אף",
+      "gloss": "viha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "teihin"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "ja hän hävittää sinut"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "nopeasti"
+    }
+  ],
+  "timestamp": "2026-09-06T22:26:31.897153170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 36:20",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 36,
+  "translation": "Nämä ovat Seirin horiitin poikia, maan asukkaita: Lotan ja Shoval ja Tsiveon ja Ana.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Nämä"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikia"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seirin"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "horiitin"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "asukkaita"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Lotan"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "ja Shoval"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "ja Tsiveon"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "ja Ana"
+    }
+  ],
+  "timestamp": "2026-09-06T21:20:26.860287905Z",
+  "model": "glm-5.3"
+}

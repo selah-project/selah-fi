@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 14:8",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja Jahve lujisti ⟨את⟩ Paron, Mitsrajimin kuninkaan, sydämen, ja hän ajoi Israelin lapsia takaa, ja Israelin lapset lähtivät kohotettua kättä pitkin.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Ja lujisti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paron sydämen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sydämen"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "ja hän ajoi takaa"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "perässä"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lapsia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ja lapset"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "lähtivät"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kädellä"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "kohotetulla"
+    }
+  ],
+  "timestamp": "2026-09-06T21:33:42.266542658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 3:10",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja hän teki pyhimmän pyhässä kaksi kerubia, veistotyötä, ja he päällystivät ⟨את⟩ ne kullalla.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ja hän teki"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "talossa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhän"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "pyhistä"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerubit"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "työ"
+    },
+    {
+      "surface": "צעצעים",
+      "gloss": "veisto"
+    },
+    {
+      "surface": "ויצפו",
+      "gloss": "ja he päällystivät"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ne",
+      "marks": "ne (kerubit), jotka päällystettiin kullalla"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kullalla"
+    }
+  ],
+  "timestamp": "2026-09-07T05:30:59.431483328Z",
+  "model": "glm-5.3"
+}

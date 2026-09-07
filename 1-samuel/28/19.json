@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 28:19",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Ja Jahve antaa myös ⟨את⟩ Israelin sinun kanssasi filistealaisten käteen; ja huomenna sinä ja poikasi olette minun kanssani; myös ⟨את⟩ Israelin leirin Jahve antaa filistealaisten käteen.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ja antaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sinun kanssasi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käteen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistealaisten"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "ja huomenna"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "ja poikasi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "minun kanssani"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin leirin"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "leirin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "antaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käteen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistealaisten"
+    }
+  ],
+  "timestamp": "2026-09-06T23:17:59.635394898Z",
+  "model": "glm-5.3"
+}

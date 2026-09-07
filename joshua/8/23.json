@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 8:23",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja ⟨את⟩ Ain kuninkaan he ottivat kiinni elävänä, ja veivät ⟨את⟩ hänet Jehoshuan luo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Ain kuninkaan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ain"
+    },
+    {
+      "surface": "תפשו",
+      "gloss": "he ottivat kiinni"
+    },
+    {
+      "surface": "חי",
+      "gloss": "elävänä"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "ja veivät"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshuan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:42:49.843557971Z",
+  "model": "glm-5.3"
+}

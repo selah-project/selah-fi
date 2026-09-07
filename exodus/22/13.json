@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 22:13",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja jos mies kysyy jotakin lähimmäiseltään ja se murtuu tai kuolee — omistajansa ei ⟨ole⟩ sen kanssa — hän maksaa kokonaan, hän maksaa ⟨sen⟩ korvauksen.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ja jos"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "kysyy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "häneltä"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "lähimmäiseltään"
+    },
+    {
+      "surface": "ונשבר",
+      "gloss": "ja murtuu"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "מת",
+      "gloss": "kuolee"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "omistajansa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sen kanssa"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "kokonaan"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "hän maksaa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:37:53.827243912Z",
+  "model": "glm-5.3"
+}

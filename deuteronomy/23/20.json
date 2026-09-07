@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Älä ota korkoa veljeltäsi: korkoa rahasta, korkoa ruoasta, korkoa kaikesta, mikä korkona annetaan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "ota korkoa"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "veljeltäsi"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "korkoa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "rahasta"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "korkoa"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ruoasta"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "korkoa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mikä"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "korkona annetaan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:34:11.906088393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja Adamin päivät olivat, sen jälkeen kun hän siitti ⟨את⟩ Shetin, kahdeksansataa vuotta, ja hän siitti poikia ja tyttäriä.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ja olivat"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päivät"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adamin"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sen jälkeen kun"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "hän siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shetin"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shetin"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "kahdeksan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "sataa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ja siitti"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "poikia"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ja tyttäriä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:05:29.511907847Z",
+  "model": "glm-5.3"
+}

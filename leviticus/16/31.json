@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Shabbat (sapatti), leposhabbat, se on teille, ja nöyryyttäkää ⟨את⟩ nefeshenne — iankaikkainen säädös.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "leposhabbat"
+    },
+    {
+      "surface": "היא",
+      "gloss": "se on"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "ja nöyryyttäkää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefeshenne"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "nefeshenne"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "säädös"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iankaikkinen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:55:39.119047315Z",
+  "model": "glm-5.3"
+}

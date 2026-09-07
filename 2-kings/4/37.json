@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-kings 4:37",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja hän tuli sisään ja lankesi hänen jalkojensa juureen ja kumartui maahan, ja hän nosti ⟨את⟩ poikansa ja lähti ulos.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "Ja hän tuli"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "ja lankesi"
+    },
+    {
+      "surface": "על",
+      "gloss": "juureen"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "hänen jalkojensa"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "ja kumartui"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "ja hän nosti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poikansa"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "poikansa"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "ja lähti ulos"
+    }
+  ],
+  "timestamp": "2026-09-06T23:49:13.087064488Z",
+  "model": "glm-5.3"
+}

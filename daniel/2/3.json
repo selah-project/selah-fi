@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja sanoi heille kuningas: ”Unta minä näin, ja henkeni järkkyy tietämään ⟨את⟩ unen.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "unta"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "näin unta"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "ja järkkyy"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "henkeni"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "tietämään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unen"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "uni"
+    }
+  ],
+  "timestamp": "2026-09-07T04:44:23.826858749Z",
+  "model": "glm-5.3"
+}

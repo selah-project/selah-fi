@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Ja minä otin ⟨את⟩ ostokirjan, ⟨את⟩ sinetöidyn, joka sisälsi käskyn ja määräykset, ja ⟨את⟩ avoimen.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Ja minä otin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ostokirjan"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kirjan"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "osto-"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinetöidyn"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "sinetöidyn"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "käskyn"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "ja määräykset"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "avoimen"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "avoimen"
+    }
+  ],
+  "timestamp": "2026-09-07T00:39:54.779814281Z",
+  "model": "glm-5.3"
+}

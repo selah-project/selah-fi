@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja Shushanin ⟨linnassa⟩ judalaiset löivät kuoliaaksi ja tuhosivat viisisataa miestä.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "ja Shushanissa"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "⟨linnassa⟩"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "löivät kuoliaaksi"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "juutalaiset"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "ja tuhosivat"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "viisi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sataa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miestä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:43:31.237592513Z",
+  "model": "glm-5.3"
+}

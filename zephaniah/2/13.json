@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zephaniah 2:13",
+  "book": "zephaniah",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja hän ojentaa kätensä pohjoisen yli ja hävittää ⟨את⟩ Ashurin (Assyria), ja hän asettaa ⟨את⟩ Nineven (Ninive) autioksi, kuivaksi kuin erämaa.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "ja hän ojentaa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kätensä"
+    },
+    {
+      "surface": "על",
+      "gloss": "yli"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "pohjoisen"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "ja hävittää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashurin"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashurin"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ja asettaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nineven"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineven"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "autioksi"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "kuivaksi"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "kuin erämaa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:40:45.558977706Z",
+  "model": "glm-5.3"
+}

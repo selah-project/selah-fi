@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja Noach siitti kolme poikaa: ⟨את⟩ Shemin (Seemin), ⟨את⟩ Hamin (Haamin) ja ⟨את⟩ Jafetin (Jaafetin).",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "Ja siitti"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "poikaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shemin (Seemin)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hamin"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Hamin (Haamin)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Jafetin"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Jafetin (Jaafetin)"
+    }
+  ],
+  "timestamp": "2026-09-06T21:06:13.311194861Z",
+  "model": "glm-5.3"
+}

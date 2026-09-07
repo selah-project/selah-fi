@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 147,
+  "translation": "Hän lähettää sanansa maahan; erittäin nopeasti juoksee hänen sanansa.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "lähettää"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "sanansa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "erittäin"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "nopeasti"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "juoksee"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "hänen sanansa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:56:10.535124283Z",
+  "model": "glm-5.3"
+}

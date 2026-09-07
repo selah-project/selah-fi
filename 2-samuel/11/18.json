@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja Joab lähetti ⟨sanansaattajan⟩ ja ilmoitti Davidille ⟨את⟩ kaikki sodan tapahtumat.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ja lähetti"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ja ilmoitti"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki sodan tapahtumat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tapahtumat"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "sodan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:24:41.196986154Z",
+  "model": "glm-5.3"
+}

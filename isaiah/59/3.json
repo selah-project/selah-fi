@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 59:3",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 59,
+  "translation": "Sillä teidän kätenne ⟨on⟩ tahrattu verellä, ja teidän sormenne pahalla; teidän huulenne ovat puhuneet valhetta, teidän kielenne mutertaa vääryyttä.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "teidän kätenne"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "on tahrattu"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "verellä"
+    },
+    {
+      "surface": "ואצבעותיכם",
+      "gloss": "ja teidän sormenne"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "pahalla"
+    },
+    {
+      "surface": "שפתותיכם",
+      "gloss": "teidän huulenne"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ovat puhuneet"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "valhetta"
+    },
+    {
+      "surface": "לשונכם",
+      "gloss": "teidän kielenne"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "vääryyttä"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "mutertaa"
+    }
+  ],
+  "timestamp": "2026-09-07T00:21:12.692336876Z",
+  "model": "glm-5.3"
+}

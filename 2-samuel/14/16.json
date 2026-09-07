@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 14:16",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Sillä kuningas kuulee pelastaakseen ⟨את⟩ palvelijattarensa miehen kädestä, joka olisi hävittämässä ⟨את⟩ minua ja ⟨את⟩ poikani yhdessä Elohimin perintömaasta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "kuulee"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "pelastaakseen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palvelijattarensa"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "palvelijattarensa"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "kädestä"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "hävittääkseen"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "minua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "poikani"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikani"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "yhdessä"
+    },
+    {
+      "surface": "מנחלת",
+      "gloss": "perintömaasta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:24:59.115604728Z",
+  "model": "glm-5.3"
+}

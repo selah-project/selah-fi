@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 118:12",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 118,
+  "translation": "Ne ympäröivät minut kuin mehiläiset — ne sammuivat kuin tulen orjanteet — Jahven nimessä minä totisesti hävitän heidät.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "ne ympäröivät minut"
+    },
+    {
+      "surface": "כדבורים",
+      "gloss": "kuin mehiläiset"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "sammuivat"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "kuin tulen"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "orjanteet"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nimessä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "כי",
+      "gloss": "totisesti"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "hävitän heidät"
+    }
+  ],
+  "timestamp": "2026-09-07T02:44:03.891377601Z",
+  "model": "glm-5.3"
+}

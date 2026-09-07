@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja voideltu kohen (pappi) ottaa härän verestä ja tuo ⟨את⟩ sen kokouksen telttaan.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ja ottaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "voideltu"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "verestä"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "härän"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "ja tuo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sen",
+      "marks": "sen (veren)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "telttaan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltta"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kokouksen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:49:30.919102727Z",
+  "model": "glm-5.3"
+}

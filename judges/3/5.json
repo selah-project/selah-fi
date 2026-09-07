@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 3:5",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja Israelin pojat asuivat kanaanilaisen, heettiläisen, emorilaisen, perissiläisen, hivviläisen ja jebusilaisen keskellä.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ja ... pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "asuvoivat"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "keskellä"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaanilaisen"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "heettiläisen"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "ja emorilaisen"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ja perissiläisen"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "ja hivviläisen"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ja jebusilaisen"
+    }
+  ],
+  "timestamp": "2026-09-06T22:50:45.060825833Z",
+  "model": "glm-5.3"
+}

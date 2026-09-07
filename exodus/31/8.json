@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "ja ⟨את⟩ pöydän ja ⟨את⟩ sen astiat, ja ⟨את⟩ puhdaslampuiston ja ⟨את⟩ kaikki sen astiat, ja ⟨את⟩ suitsutusalttarin",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "pöydän"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "pöydän"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen astiat"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sen astiat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "puhdaslampuiston"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "lampuiston"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "puhtaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "sen astiat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "suitsutusalttarin"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "suitsutuksen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:42:14.316310949Z",
+  "model": "glm-5.3"
+}

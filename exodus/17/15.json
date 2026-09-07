@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja Moshe rakensi alttarin ja kutsui sen nimeksi Jahve-Nissi (Jahve on minun lippuni).",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Ja rakensi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ja kutsui"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sen nimeksi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Nissi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:35:16.219430604Z",
+  "model": "glm-5.3"
+}

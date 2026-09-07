@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja hän löi ⟨את⟩ Moabin; ja moabilaisista tuli palvelijoita Davidille, minchaa kantavia ⟨verotuojia⟩.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Ja hän löi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moabin"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabin"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ja he olivat"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "moabilaiset"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "palvelijoita"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Davidille"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "kantavia"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minchaa ⟨veroa⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T05:22:39.699390228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 37:19",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "ja panivat ⟨את⟩ näiden kansojen jumalat tuleen, sillä eivät ne jumalia olleet, vaan ihmiskäsien tekoa, puuta ja kiveä; ja ne he hävittivät.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "ja panivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "näiden kansojen jumalat"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "näiden kansojen jumalat"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tuleen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jumalia"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vaan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vaan"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "tekoa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "käsiin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmis"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "puuta"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ja kiveä"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "ja ne he hävittivät"
+    }
+  ],
+  "timestamp": "2026-09-07T00:12:45.095768203Z",
+  "model": "glm-5.3"
+}

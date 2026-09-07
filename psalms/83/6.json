@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 83,
+  "translation": "Sillä he neuvottivat sydämessään yhdessä, sinua vastaan he tekivät liiton ⟨Berit⟩ (liitto).",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "he neuvottivat"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sydämessään"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "yhdessä"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sinua vastaan"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "liiton ⟨Berit⟩"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "he tekivät"
+    }
+  ],
+  "timestamp": "2026-09-07T04:33:05.516471494Z",
+  "model": "glm-5.3"
+}

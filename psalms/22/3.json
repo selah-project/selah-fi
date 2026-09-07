@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Elohimini, minä huudan päivällä, etkä vastaa, ja yöllä, eikä minulle ⟨ole⟩ hiljaisuutta.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimini"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "minä huudan"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "päivällä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "etkä"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "vastaa"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ja yöllä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "hiljaisuutta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    }
+  ],
+  "timestamp": "2026-09-07T01:58:20.613679533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 1:20",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja tapahtui päivien kiertäessä, että Hana tuli raskaaksi ja synnytti pojan, ja hän kutsui ⟨את⟩ hänen nimeään Shemuel (Saamuel), sillä Jahvelta minä pyysin häntä.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "לתקפות",
+      "gloss": "kiertäessä"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "päivien"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "että tuli raskaaksi"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ja synnytti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ja kutsui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen nimeään"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hänen nimeään"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel (Saamuel)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Jahvelta"
+    },
+    {
+      "surface": "שאלתיו",
+      "gloss": "minä pyysin häntä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:05:05.920687102Z",
+  "model": "glm-5.3"
+}

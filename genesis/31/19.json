@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 31:19",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Ja Lavan (Laban) meni keritsemään ⟨את⟩ lampaansa, ja Rahel (Raakel) varasti ⟨את⟩ terafimit (jumalankuvat), jotka kuuluivat hänen isälleen.",
+  "tokens": [
+    {
+      "surface": "ולבן",
+      "gloss": "Ja Lavan"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "meni"
+    },
+    {
+      "surface": "לגזז",
+      "gloss": "keritsemään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lampaansa"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "lampaansa"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "ja varasti"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terafimit"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafimit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "hänen isälleen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:18:11.876541830Z",
+  "model": "glm-5.3"
+}

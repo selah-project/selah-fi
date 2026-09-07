@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 6:31",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja ⟨את⟩ sisäpyhkköön sisäänkäynnin hän teki oviin oliivipuusta: kynnyksensä ja pylväänsä ⟨olivat⟩ viidennes ⟨seinästä⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sisäpyhkköön sisäänkäynnin"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sisäänkäynnin"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "sisäpyhkköön"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hän teki"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "ovet"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "puusta"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "oliivi-"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "kynnyksensä"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "pylväänsä"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "viidennes"
+    }
+  ],
+  "timestamp": "2026-09-06T23:35:12.918014175Z",
+  "model": "glm-5.3"
+}

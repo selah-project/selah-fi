@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja David oli silloin linnoituksessa, ja Pelishtiläisten varuskunta oli silloin Beit-Lechemissä.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "ja David"
+    },
+    {
+      "surface": "אז",
+      "gloss": "silloin"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "linnoituksessa"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "ja varuskunta"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtiläisten"
+    },
+    {
+      "surface": "אז",
+      "gloss": "silloin"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechemissä"
+    }
+  ],
+  "timestamp": "2026-09-07T05:17:17.267558502Z",
+  "model": "glm-5.3"
+}

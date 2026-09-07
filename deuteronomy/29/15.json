@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Sillä te tiedätte ⟨את⟩ sen, missä me asuimme Mitsrajimin ⟨Egyptin⟩ maassa, ja ⟨את⟩ sen, että me kuljimme kansojen keskellä, joiden läpi te kuljitte —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "te"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "tiedätte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen, missä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "asuimme"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim ⟨Egypti⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen, että"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "kuljimme"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "keskellä"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kansojen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joiden"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "kuljitte läpi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:36:05.013515117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 5:17",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Sinä tiedät ⟨את⟩ Davidin (Daavid), isäni: hän ei voinut rakentaa huonetta Jahve Elohimsa nimelle sotien tähden, jotka häntä ympäröivät, kunnes Jahve antoi ⟨את⟩ heidät hänen jalkojensa pohjien alle.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sinä"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tiedät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "isäni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "voinut"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "rakentaa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huonetta"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "nimelle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohimsa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "sotien"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "סבבהו",
+      "gloss": "ympäröivät"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "תת",
+      "gloss": "antoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "heidät"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alle"
+    },
+    {
+      "surface": "כפות",
+      "gloss": "pohjien"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "hänen jalkojensa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:36:03.443145273Z",
+  "model": "glm-5.3"
+}

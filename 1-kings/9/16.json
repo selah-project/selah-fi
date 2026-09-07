@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 9:16",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Paro (farao), Mitsrajimin (Egypti) kuningas, nousi ylös ja valtasi ⟨את⟩ Gezerin ja poltti sen tulessa, ja ⟨את⟩ kaanaalaisen, joka asui kaupungissa, hän tappoi; ja hän antoi sen myötäjäisinä tyttärelleen, Shelomon vaimolle.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paro (farao)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin (Egypti)"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "nousi ylös"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ja valtasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezerin"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezerin"
+    },
+    {
+      "surface": "וישרפה",
+      "gloss": "ja poltti sen"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulessa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaanaalaisen"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kaanaalaisen"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "joka asui"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kaupungissa"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "hän tappoi"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "ja hän antoi sen"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "myötäjäisinä"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "tyttärelleen"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vaimolle"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomon"
+    }
+  ],
+  "timestamp": "2026-09-06T23:38:53.234593344Z",
+  "model": "glm-5.3"
+}

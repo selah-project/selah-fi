@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 34:5",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "Sillä juovuksissa on miekkani taivaassa; katso, Edomin päälle se laskeutuu ja kiroukseni kansan päälle tuomioksi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "רותה",
+      "gloss": "juovuksissa"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "taivaassa"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "miekkani"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "katso"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomin"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "se laskeutuu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja ... päälle"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "kiroukseni"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "tuomioksi"
+    }
+  ],
+  "timestamp": "2026-09-07T00:11:56.922222747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ja sinä tuot sisään ⟨את⟩ pöydän ja järjestät ⟨את⟩ sen järjestyksen, ja sinä tuot sisään ⟨את⟩ menoran ja sytytät ⟨את⟩ sen lamput.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "ja sinä tuot sisään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pöydän"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "pöydän"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "ja sinä järjestät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen järjestyksen"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "sen järjestyksen"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "ja sinä tuot sisään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menoran"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menoran"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "ja sinä sytytät (nostat ylös)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen lamput"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "sen lamput"
+    }
+  ],
+  "timestamp": "2026-09-06T21:47:23.545352641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Älä ota häneltä ⟨את⟩ korkoa eikä lisää, vaan pelkää Elohimiasi, ja veljesi elää sinun kanssasi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ota"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "häneltä ⟨את⟩",
+      "marks": "korkoa"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "korkoa"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "eikä lisää"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "vaan pelkää"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohimiasi"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ja elää"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "veljesi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sinun kanssasi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:59:16.173198040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja kuningas vastasi ja sanoi: ”Antakaa hänelle ⟨את⟩ eläväksi syntyneen lapsen älkääkä surmatko häntä — hän ⟨on⟩ hänen äitinsä.”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ja vastasi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "antakaa"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eläväksi syntyneen lapsen"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "eläväksi syntyneen lapsen"
+    },
+    {
+      "surface": "החי",
+      "gloss": "elävä"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "älkääkä surmatko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "surmatko häntä"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "hänen äitinsä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:33:57.741122279Z",
+  "model": "glm-5.3"
+}

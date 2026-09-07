@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 140,
+  "translation": "Älä anna, Jahve, jumalattoman toiveita; älä toteuta hänen juontaansi, etteivät he ylenisi. Sela.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "anna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "toiveita"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "jumalattoman"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "juonensa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "toteuta"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "ylenisivät"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-07T02:52:26.241004667Z",
+  "model": "glm-5.3"
+}

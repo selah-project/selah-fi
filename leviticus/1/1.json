@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja hän kutsui Moshea (Mooses), ja Jahve puhui hänelle kokousmajasta sanoen:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ja hän kutsui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…a kohti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshea"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ja puhui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "majasta"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kokouksen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:48:17.043132538Z",
+  "model": "glm-5.3"
+}

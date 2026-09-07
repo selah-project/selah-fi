@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 17:1",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Älä teurasta Jahvelle, Elohimillesi, härkää tai lammasta, jossa on vika, mitään pahaa — sillä se on Jahven, Elohimisi, kauhistus.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "teurasta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimillesi"
+    },
+    {
+      "surface": "שור",
+      "gloss": "härkä"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "tai lammas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jossa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "on"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siinä"
+    },
+    {
+      "surface": "מום",
+      "gloss": "vika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mitään"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asiaa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pahaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "kauhistus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimisi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se on"
+    }
+  ],
+  "timestamp": "2026-09-06T22:32:58.378709259Z",
+  "model": "glm-5.3"
+}

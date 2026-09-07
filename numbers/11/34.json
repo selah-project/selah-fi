@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 11:34",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja hän kutsui ⟨את⟩ sen paikan nimeksi Kivrot ha-Taava (Himon haudat), sillä siellä he hautasivat ⟨את⟩ kansan, joka himoitsi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ja hän kutsui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen paikan nimen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimeksi"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "paikan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sen"
+    },
+    {
+      "surface": "קברות",
+      "gloss": "Kivrot"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "ha-Taava"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "he hautasivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "המתאוים",
+      "gloss": "joka himoitsi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:09:14.932622252Z",
+  "model": "glm-5.3"
+}

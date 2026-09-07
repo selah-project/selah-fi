@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ja hän sanoi: Sinäkö ⟨olet⟩ tämä, poikani Esav? Ja hän sanoi: Minä olen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sinäkö"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikani"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Minä olen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:16:12.117545495Z",
+  "model": "glm-5.3"
+}

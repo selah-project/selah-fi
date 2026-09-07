@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Kun viholliseni kääntyvät pakoon, he kompastuvat ja hukkuvat sinun kasvoistasi.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "kun kääntyvät"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "viholliseni"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "pakoon"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "he kompastuvat"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "ja hukkuvat"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "sinun kasvoistasi"
+    }
+  ],
+  "timestamp": "2026-09-07T01:56:09.937129569Z",
+  "model": "glm-5.3"
+}

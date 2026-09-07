@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Voi paimenia, jotka hävittävät ja hajottavat ⟨את⟩ laumaa laitumeltani, sanoo Jahve.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Voi"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "paimenia"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "hävittävät"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "ja hajottavat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laumaa"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "laumaa"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "laitumeltani"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-07T00:33:57.664530104Z",
+  "model": "glm-5.3"
+}

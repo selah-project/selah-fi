@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 5:3",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja ashdodilaiset nousivat varhain seuraavana aamuna, ja katso: Dagon ⟨oli⟩ kaatunut kasvoilleen maahan Jahven arkin eteen. Ja he ottivat ⟨את⟩ Dagonin ja panivat ⟨את⟩ sen takaisin paikalleen.",
+  "tokens": [
+    {
+      "surface": "וישכמו",
+      "gloss": "Ja nousivat varhain"
+    },
+    {
+      "surface": "אשדודים",
+      "gloss": "ashdodilaiset"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "seuraavana aamuna"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "kaatunut"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "kasvoilleen"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "Ja he ottivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dagonin"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagonin"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ja panivat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sen",
+      "marks": "sen (Dagonin), kohde paikalleen"
+    },
+    {
+      "surface": "למקומו",
+      "gloss": "takaisin paikalleen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:06:54.074840751Z",
+  "model": "glm-5.3"
+}

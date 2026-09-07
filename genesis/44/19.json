@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 44,
+  "translation": "”Herrani kysyi ⟨את⟩ palvelijoiltaan sanoen: Onko teillä isä tai veli?”",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "herrani"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "kysyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palvelijoiltaan"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "palvelijoiltaan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "היש",
+      "gloss": "onko"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teillä"
+    },
+    {
+      "surface": "אב",
+      "gloss": "isä"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "אח",
+      "gloss": "veli"
+    }
+  ],
+  "timestamp": "2026-09-06T21:25:37.594898235Z",
+  "model": "glm-5.3"
+}

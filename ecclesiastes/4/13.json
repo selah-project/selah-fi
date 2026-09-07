@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Parempi on köyhä ja viisas nuori kuin vanha ja typerä kuningas, joka ei enää osaa ottaa varoitusta.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "parempi"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nuori"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "köyhä"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "ja viisas"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "kun kuningas"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "vanha"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ja typerä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "osaa"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "ottaa varoitusta"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enää"
+    }
+  ],
+  "timestamp": "2026-09-07T04:05:47.515001671Z",
+  "model": "glm-5.3"
+}

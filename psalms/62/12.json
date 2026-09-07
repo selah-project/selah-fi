@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 62,
+  "translation": "Kerran on puhunut Elohim, kahdesti tämän olen kuullut: että voima ⟨on⟩ Elohimilla.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Kerran"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "on puhunut"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "kahdesti"
+    },
+    {
+      "surface": "זו",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "olen kuullut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "עז",
+      "gloss": "voima"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimilla"
+    }
+  ],
+  "timestamp": "2026-09-07T02:16:17.489356534Z",
+  "model": "glm-5.3"
+}

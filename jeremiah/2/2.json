@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 2:2",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Mene ja huuda Jerushalajimin (Jerusalem) korviin sanoen: Näin sanoi Jahve: Minä muistan sinun nuoruutesi hesedin (uskollisen laupeuden), morsiusaimesi rakkauden, sinun vaelluksesi minun jälkeenni erämaassa, maassa, jota ei kylvetty.",
+  "tokens": [
+    {
+      "surface": "הלך",
+      "gloss": "Mene"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "ja huuda"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "korviin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Näin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "Minä muistan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinun"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedin"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "nuoruutesi"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "rakkauden"
+    },
+    {
+      "surface": "כלולתיך",
+      "gloss": "morsiusaimesi"
+    },
+    {
+      "surface": "לכתך",
+      "gloss": "sinun vaelluksesi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": " jälkeenni"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "erämaassa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "זרועה",
+      "gloss": "kylvetty"
+    }
+  ],
+  "timestamp": "2026-09-07T00:23:24.954491236Z",
+  "model": "glm-5.3"
+}

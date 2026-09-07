@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 46:24",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 46,
+  "translation": "Ja hän sanoi minulle: Nämä ovat keittotalot, joissa temppelin palvelijat keittävät ⟨את⟩ kansan uhrin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nämä ovat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "talot"
+    },
+    {
+      "surface": "המבשלים",
+      "gloss": "keitto-"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joissa"
+    },
+    {
+      "surface": "יבשלו",
+      "gloss": "keittävät"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "palvelijat"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "temppelin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansan uhrin (totaaliobjekti, genetiivi)"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "uhrin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:16:48.896224801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 17:16",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Jauhojastin ei loppunut eikä öljyastia vähentynyt Jahven sanan mukaan, jonka hän puhui Elian kautta.",
+  "tokens": [
+    {
+      "surface": "כד",
+      "gloss": "Jauhojastin"
+    },
+    {
+      "surface": "הקמח",
+      "gloss": "jauhoja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "loppunut"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "eikä öljyastia"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "öljy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "vähentynyt"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sanan mukaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hän puhui"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kautta"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elian"
+    }
+  ],
+  "timestamp": "2026-09-06T23:41:37.432823737Z",
+  "model": "glm-5.3"
+}

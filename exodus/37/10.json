@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Ja hän teki ⟨את⟩ pöydän akasiapuusta ⟨shittim⟩: kaksi kyynärää oli sen pituus ja yksi kyynärä sen leveys ja yksi kyynärä ja puoli sen korkeus.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ja hän teki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pöydän"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "pöydän"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "puusta"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasiapuusta ⟨shittim⟩"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "kaksi kyynärää"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "sen pituus"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ja yksi kyynärä"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "sen leveys"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ja yksi kyynärä"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ja puoli"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "sen korkeus"
+    }
+  ],
+  "timestamp": "2026-09-07T06:33:43.181538974Z",
+  "model": "glm-5.3"
+}

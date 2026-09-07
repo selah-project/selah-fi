@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 9:11",
+  "book": "zechariah",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Myös sinä — sinun Beritisi (liittosi) veressä minä lähetin vankisi ulos kuilusta, jossa ei ole vettä.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Myös"
+    },
+    {
+      "surface": "את",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "veressä"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "sinun Beritisi"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "minä lähetin"
+    },
+    {
+      "surface": "אסיריך",
+      "gloss": "vankisi"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "kuilusta"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vettä"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siinä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:47:55.975873533Z",
+  "model": "glm-5.3"
+}

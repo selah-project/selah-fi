@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Mies Elkanah nousi ylös koko talonsa kanssa, uhraamaan Jahvelle ⟨את⟩ vuosittaisen uhrin ja ⟨את⟩ lupauksensa.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "nousi ylös"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "talonsa"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "uhraamaan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vuosittaisen uhrin"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "uhrin"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "vuosittaisen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "lupauksensa"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "lupauksensa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:05:10.073501134Z",
+  "model": "glm-5.3"
+}

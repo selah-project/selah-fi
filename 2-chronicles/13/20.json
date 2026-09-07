@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 13:20",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ei Jarobeam enää saanut voimaa takaisin Avijan päivinä, ja Jahve löi hänet, ja hän kuoli.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "saanut takaisin"
+    },
+    {
+      "surface": "כח",
+      "gloss": "voimaa"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobeam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enää"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "päivinä"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "Avijan"
+    },
+    {
+      "surface": "ויגפהו",
+      "gloss": "ja löi hänet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ja kuoli"
+    }
+  ],
+  "timestamp": "2026-09-07T05:40:37.836981111Z",
+  "model": "glm-5.3"
+}

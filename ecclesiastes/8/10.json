@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 8:10",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja niin olen nähnyt jumalattomia haudattuina: he tulivat, ja pyhästä paikasta he vaelsivat, ja heidät unohdettiin kaupungissa, jossa näin he olivat toimineet. Myös tämä ⟨on⟩ turhuus.",
+  "tokens": [
+    {
+      "surface": "ובכן",
+      "gloss": "Ja niin"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "olen nähnyt"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jumalattomia"
+    },
+    {
+      "surface": "קברים",
+      "gloss": "haudattuina"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "he tulivat"
+    },
+    {
+      "surface": "וממקום",
+      "gloss": "ja paikasta"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "pyhästä"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "he vaelsivat"
+    },
+    {
+      "surface": "וישתכחו",
+      "gloss": "ja heidät unohdettiin"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kaupungissa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jossa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "näin"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "he olivat toimineet"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Myös"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "turhuus"
+    }
+  ],
+  "timestamp": "2026-09-07T04:39:01.639598073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja Hatak lähti Mordekain luo, kaupungin aukiolle, joka oli kuninkaan portin edessä.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ja lähti"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekain"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aukiolle"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "aukio"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "שער",
+      "gloss": "portin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:42:34.740358404Z",
+  "model": "glm-5.3"
+}

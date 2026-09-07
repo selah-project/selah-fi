@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 13:43",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja kohen (pappi) katsoo häntä ⟨את⟩, ja katso: jos lyönnin kohouma on valkoinen punertava hänen takakaljuudessaan tai otsakaljuudessaan, niin kuin Tsaraatin näkö ihon lihassa —",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Ja katsoo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "häntä"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "kohouma"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "lyönnin"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "valkoinen"
+    },
+    {
+      "surface": "אדמדמת",
+      "gloss": "punertava"
+    },
+    {
+      "surface": "בקרחתו",
+      "gloss": "hänen takakaljuudessaan"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "בגבחתו",
+      "gloss": "hänen otsakaljuudessaan"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "niin kuin näkö"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "Tsaraatin"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ihon"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "liha"
+    }
+  ],
+  "timestamp": "2026-09-06T21:52:41.518338133Z",
+  "model": "glm-5.3"
+}

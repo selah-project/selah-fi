@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 11:6",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja miekka vaivaa hänen kaupunkejaan ja kuluttaa hänen salvansa ja ahmii ⟨heitä⟩ — omien neuvomiensa tähden.",
+  "tokens": [
+    {
+      "surface": "וחלה",
+      "gloss": "vaivaa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "miekka"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "hänen kaupunkejaan"
+    },
+    {
+      "surface": "וכלתה",
+      "gloss": "kuluttaa"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "hänen salvansa"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ahmii"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "heidän neuvomiensa tähden"
+    }
+  ],
+  "timestamp": "2026-09-07T01:24:36.207245173Z",
+  "model": "glm-5.3"
+}

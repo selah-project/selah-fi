@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja jos sinun mincha-uhrisi on pannussa (kattilassa) keitettävä, se tehdään hienosta jauhosta öljyssä.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ja jos"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "mincha-uhrisi"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "pannussa (kattilassa)"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": ""
+    },
+    {
+      "surface": "סלת",
+      "gloss": "hienosta jauhosta"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "öljyssä"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tehdään"
+    }
+  ],
+  "timestamp": "2026-09-06T21:47:35.663990377Z",
+  "model": "glm-5.3"
+}

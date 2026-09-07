@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja he pysyivät istumassa kolme vuotta: ei sotaa Aramin (Syyria) ja Israelin välillä.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Ja he pysyivät istumassa"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "sotaa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "välillä"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramin"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja välillä"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:46:52.033481812Z",
+  "model": "glm-5.3"
+}

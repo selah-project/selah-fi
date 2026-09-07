@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 16:6",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja Asa, kuningas, otti ⟨את⟩ koko Jehudan (Juudan), ja he kantoivat pois ⟨את⟩ Raman kivet ja ⟨את⟩ sen puut, jotka Baasha oli rakentanut, ja hän rakensi niillä ⟨את⟩ Ghibean ja ⟨את⟩ Mitspan.",
+  "tokens": [
+    {
+      "surface": "ואסא",
+      "gloss": "Ja Asa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "otti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko Jehudan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ja he kantoivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raman kivet"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "kivet"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Raman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen puut"
+    },
+    {
+      "surface": "עציה",
+      "gloss": "sen puut"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "rakensi"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ja hän rakensi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "niillä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ghibean"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Ghibea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Mitspan"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitspan"
+    }
+  ],
+  "timestamp": "2026-09-07T05:40:53.294156782Z",
+  "model": "glm-5.3"
+}

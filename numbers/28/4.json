@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "⟨את⟩ yhden karitsan tee aamulla, ja ⟨את⟩ toisen karitsan tee iltojen välissä.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yhden karitsan"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "karitsan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yhden"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tee"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamulla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "toisen karitsan"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "karitsan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "toisen"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tee"
+    },
+    {
+      "surface": "בין",
+      "gloss": "välissä"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "iltojen"
+    }
+  ],
+  "timestamp": "2026-09-06T22:17:53.564613658Z",
+  "model": "glm-5.3"
+}

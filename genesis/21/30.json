@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 21:30",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja ⟨hän⟩ sanoi: Sillä ⟨את⟩ seitsemän uuhta sinä otat minun kädestäni, jotta ne olisivat minulle todistuksena, että minä kaivin ⟨את⟩ tämän kaivon.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja ⟨hän⟩ sanoi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seitsemän uuhta"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seitsemän"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "uuhta"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "sinä otat"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "minun kädestäni"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "jotta"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olisivat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "todistuksena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "חפרתי",
+      "gloss": "minä kaivin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän kaivon"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "kaivon"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämän"
+    }
+  ],
+  "timestamp": "2026-09-06T21:12:52.282335695Z",
+  "model": "glm-5.3"
+}

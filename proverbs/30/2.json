@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 30:2",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Kyllä, eläimäisempi kuin ⟨mikään⟩ mies minä olen, eikä minulla ole ihmisen ymmärrystä.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kyllä"
+    },
+    {
+      "surface": "בער",
+      "gloss": "eläimäisempi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "kuin ⟨mikään⟩ mies"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "בינת",
+      "gloss": "ymmärrystä"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmisen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulla"
+    }
+  ],
+  "timestamp": "2026-09-07T03:21:22.766565127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 150,
+  "translation": "Ylistäkää häntä kimeillä symbaaleilla, ylistäkää häntä riemukiljahduksen symbaaleilla.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Ylistäkää häntä"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "symbaaleilla"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kimeillä"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ylistäkää häntä"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "symbaaleilla"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "riemukiljahduksen"
+    }
+  ],
+  "timestamp": "2026-09-07T02:56:02.050621264Z",
+  "model": "glm-5.3"
+}

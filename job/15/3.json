@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 15:3",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Väittääkö ⟨hän⟩ sanalla, joka ei kelpaa, ja puheilla, joissa ei ole hyötyä?",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "väittääkö"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "sanalla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יסכון",
+      "gloss": "kelpaa"
+    },
+    {
+      "surface": "ומלים",
+      "gloss": "ja puheilla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "ole hyötyä"
+    },
+    {
+      "surface": "בם",
+      "gloss": "joissa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:34:07.222368309Z",
+  "model": "glm-5.3"
+}

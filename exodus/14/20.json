@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 14:20",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja se tuli Mitsrajimin leirin ja Israelin leirin väliin, ja siellä ⟨oli⟩ pilvi ja pimeys, ja se valaisi ⟨את⟩ yötä, eikä toinen lähestynyt toista koko yön.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ja se tuli"
+    },
+    {
+      "surface": "בין",
+      "gloss": "väliin"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "leirin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "leirin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja oli"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "pilvi"
+    },
+    {
+      "surface": "והחשך",
+      "gloss": "ja pimeys"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "ja se valaisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yön"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "yön"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "lähestynyt"
+    },
+    {
+      "surface": "זה",
+      "gloss": "toinen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "toista"
+    },
+    {
+      "surface": "זה",
+      "gloss": "toista"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "yön"
+    }
+  ],
+  "timestamp": "2026-09-06T21:34:54.400187015Z",
+  "model": "glm-5.3"
+}

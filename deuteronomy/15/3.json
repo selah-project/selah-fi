@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Muukalaiselta ⟨את⟩ saat periä, mutta sen, mikä sinulla on veljesi ⟨את⟩ kanssa, sinun kätesi luovuttaa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muukalaiselta"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "muukalaiselta"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "saat periä"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "mutta se mikä"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "on"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ kanssa"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "veljesi"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "luovuttaa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kätesi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:30:28.432234957Z",
+  "model": "glm-5.3"
+}

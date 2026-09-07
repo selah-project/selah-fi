@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 23:24",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Älä kumarra heidän jumaliaan äläkä palvele niitä, älä tee niin kuin heidän tekonsa, vaan hävittämällä sinä hävität ne ja murskaamalla murskaat heidän pystykivensä.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "kumarra"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "heidän jumaliaan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "äläkä"
+    },
+    {
+      "surface": "תעבדם",
+      "gloss": "palvele niitä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tee"
+    },
+    {
+      "surface": "כמעשיהם",
+      "gloss": "niin kuin heidän tekonsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vaan"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "hävittämällä"
+    },
+    {
+      "surface": "תהרסם",
+      "gloss": "sinä hävität ne"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "ja murskaamalla"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "murskaat"
+    },
+    {
+      "surface": "מצבתיהם",
+      "gloss": "heidän pystykivensä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:37:45.942991952Z",
+  "model": "glm-5.3"
+}

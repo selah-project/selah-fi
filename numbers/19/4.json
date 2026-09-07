@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 19:4",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja ottaa Elazar, kohen, hänen verestään sormeensa ja vihmoo hänen vertaan kohti ilmestyskodin etuovea seitsemän kertaa.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Ja ottaa"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen (pappi)"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "hänen verestään"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "sormeensa"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "ja vihmoo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "suoraan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "etuovea"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kodin"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ilmestys-"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "hänen vertaan"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seitsemän"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kertaa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:14:43.427587850Z",
+  "model": "glm-5.3"
+}

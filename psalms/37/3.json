@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Turvaa Jahveen ja tee hyvää; asu maassa ja kaitse uskollisuutta.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Turvaa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahveen"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ja tee"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvää"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "asu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ja kaitse"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "uskollisuutta"
+    }
+  ],
+  "timestamp": "2026-09-07T06:30:53.082667082Z",
+  "model": "glm-5.3"
+}

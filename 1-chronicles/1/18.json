@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja Arpakhshad synnytti ⟨את⟩ Shalahin, ja Shalah synnytti ⟨את⟩ Everin.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Ja Arpakhshad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shalahin"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shalahin"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ja Shalah"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Everin"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Everin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:10:47.419120822Z",
+  "model": "glm-5.3"
+}

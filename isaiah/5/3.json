@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja nyt, Jerushalajimin (Jerusalemin) asukkaat ja Jehudan (Juudan) miehet, tuomitkaa minun ja viinitarhani välillä.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ja nyt"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "asukkaat"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimin (Jerusalemin)"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ja miehet"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan (Juudan)"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "tuomitkaa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨nyt⟩"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "minun"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "viinitarhani välillä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:03:08.414317088Z",
+  "model": "glm-5.3"
+}

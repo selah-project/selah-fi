@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 19:13",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "sillä me hävitätämme ⟨את⟩ tämän paikan, sillä suureksi on kasvanut heidän huutonsa ⟨את⟩ Jahven kasvojen edessä, ja Jahve on lähettänyt meidät hävittämään sen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "משחתים",
+      "gloss": "hävitätämme"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän paikan"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "paikan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "suureksi on kasvanut"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "heidän huutonsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven kasvojen"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kasvojen edessä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "וישלחנו",
+      "gloss": "on lähettänyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשחתה",
+      "gloss": "hävittämään sen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:11:35.581588683Z",
+  "model": "glm-5.3"
+}

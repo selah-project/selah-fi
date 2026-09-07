@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 19:10",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja hän sanoi: Kiivastuen olen kiivastunut Jahven, Sebaotin Elohimin, puolesta, sillä Israelin pojat ovat hylänneet ⟨את⟩ beritisi, sinun alttarisi he ovat hajottaneet, ja ⟨את⟩ navisi he ovat tappaneet miekalla, ja minä olen jäänyt jäljelle, minä yksinäni, ja he etsivät ⟨את⟩ nefeshini ottaakseen sen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "Kiivastuen"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "olen kiivastunut"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Sebaotin Elohimin"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaotin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ovat hylänneet"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "beritisi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beritisi"
+    },
+    {
+      "surface": "מזבחתיך",
+      "gloss": "alttarisi"
+    },
+    {
+      "surface": "הרסו",
+      "gloss": "he ovat hajottaneet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "navisi"
+    },
+    {
+      "surface": "נביאיך",
+      "gloss": "navisi"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "he ovat tappaneet"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "miekalla"
+    },
+    {
+      "surface": "ואותר",
+      "gloss": "ja minä jäin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "yksinäni"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "ja he etsivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefeshini"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshini"
+    },
+    {
+      "surface": "לקחתה",
+      "gloss": "ottaakseen sen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:43:49.009561463Z",
+  "model": "glm-5.3"
+}

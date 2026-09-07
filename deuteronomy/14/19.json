@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 14:19",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja kaikki siivekäs äyrinäinen on saastainen teille: niitä ei saa syödä.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "äyrinäinen"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "siivekäs"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "saastainen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "saa syödä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:29:00.672346Z",
+  "model": "glm-5.3"
+}

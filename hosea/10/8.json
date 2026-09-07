@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 10:8",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja hävitetään Avenin uhrauskukkulat, Israelin synti; ohdake ja orjantappura nousee niiden alttareille. Ja he sanovat vuorille: ”Peittäkää meidät!” — ja kukkuloille: ”Laskeutukaa meidän päällemme!”",
+  "tokens": [
+    {
+      "surface": "ונשמדו",
+      "gloss": "ja hävitetään"
+    },
+    {
+      "surface": "במות",
+      "gloss": "uhrauskukkulat"
+    },
+    {
+      "surface": "און",
+      "gloss": "Avenin"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "synti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "קוץ",
+      "gloss": "ohdake"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "ja orjantappura"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "nousee"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "niiden alttareille"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ja he sanovat"
+    },
+    {
+      "surface": "להרים",
+      "gloss": "vuorille"
+    },
+    {
+      "surface": "כסונו",
+      "gloss": "peittäkää meidät"
+    },
+    {
+      "surface": "ולגבעות",
+      "gloss": "ja kukkuloille"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "laskeutukaa"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "meidän päällemme"
+    }
+  ],
+  "timestamp": "2026-09-07T01:24:10.449834469Z",
+  "model": "glm-5.3"
+}

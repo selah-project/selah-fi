@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 35:7",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 35,
+  "translation": "Ja minä teen Seirin vuoresta aution ja hävitetyksen, ja hävitän siitä kulkevan ja palaavan.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ja minä teen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seirin vuoren"
+    },
+    {
+      "surface": "הר",
+      "gloss": "vuoren"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seirin"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "autioksi"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "ja hävitetyksi"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ja hävitän"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "siitä"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kulkevan"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ja palaavan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:11:32.501330320Z",
+  "model": "glm-5.3"
+}

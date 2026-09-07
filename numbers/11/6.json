@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 11:6",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja nyt nefeshimme ⟨on⟩ kuiva: ei mitään — paitsi mana, meidän silmiemme ⟨edessä⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ja nyt"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nefeshimme"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "kuiva"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mitään"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "muuta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "paitsi"
+    },
+    {
+      "surface": "המן",
+      "gloss": "mana"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "meidän silmiemme"
+    }
+  ],
+  "timestamp": "2026-09-06T22:07:34.975745166Z",
+  "model": "glm-5.3"
+}

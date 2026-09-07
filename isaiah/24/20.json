@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 24:20",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Horjuen horjuu maa kuin juoppo, ja keinuu kuin yöpymaja, ja sen kapina painaa raskaana sen päälle, ja se putoaa eikä nouse enää.",
+  "tokens": [
+    {
+      "surface": "נוע",
+      "gloss": "horjuen"
+    },
+    {
+      "surface": "תנוע",
+      "gloss": "horjuu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "kuin juoppo"
+    },
+    {
+      "surface": "והתנודדה",
+      "gloss": "ja keinuu"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "kuin yöpymaja"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "ja painaa raskaana"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sen päälle"
+    },
+    {
+      "surface": "פשעה",
+      "gloss": "sen kapina"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "ja putoaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "תסיף",
+      "gloss": "enää"
+    },
+    {
+      "surface": "קום",
+      "gloss": "nouse"
+    }
+  ],
+  "timestamp": "2026-09-07T00:08:11.638876513Z",
+  "model": "glm-5.3"
+}

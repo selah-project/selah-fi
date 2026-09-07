@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 17:1",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja Jehoshafat (Josafat), hänen poikansa, tuli kuninkaaksi hänen sijaansa, ja hän vahvisti itsensä Israelia vastaan.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "tuli kuninkaaksi"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoshafat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "hänen sijaansa"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "ja hän vahvisti itsensä"
+    },
+    {
+      "surface": "על",
+      "gloss": "vastaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelia"
+    }
+  ],
+  "timestamp": "2026-09-07T05:38:53.004034063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 12:4",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Silloin Jiftah kokosi ⟨את⟩ kaikki Gileadin miehet ja soti ⟨את⟩ Efraimia vastaan, ja Gileadin miehet löivät ⟨את⟩ Efraimin, koska he sanoivat: Pakolaisia Efraimista te gileadilaiset olette, Efraimin keskellä ja Menashen keskellä.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "kokosi"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki Gileadin miehet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileadin"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ja soti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efraimia"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimia vastaan"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ja löivät"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileadin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efraimin"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "he sanoivat"
+    },
+    {
+      "surface": "פליטי",
+      "gloss": "pakolaisia"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimista"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "te"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "gileadilaiset"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keskellä"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimin"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ja keskellä"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashen"
+    }
+  ],
+  "timestamp": "2026-09-07T04:21:33.132863574Z",
+  "model": "glm-5.3"
+}

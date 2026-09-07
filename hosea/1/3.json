@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja hän meni ja otti ⟨את⟩ Gomerin (Goomerin), Diblajimin tyttären, ja hän tuli raskaaksi ja synnytti hänelle pojan.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ja hän meni"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ja otti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gomerin"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomerin"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tyttären"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "Diblajimin"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ja hän tuli raskaaksi"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ja synnytti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:21:59.438304289Z",
+  "model": "glm-5.3"
+}

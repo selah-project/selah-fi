@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 18:3",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja minä menin alas savenvalajan taloon, ja katso, hän teki työtä pyörien päällä.",
+  "tokens": [
+    {
+      "surface": "וארד",
+      "gloss": "Ja minä menin alas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "taloon"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "savenvalajan"
+    },
+    {
+      "surface": "והנהו",
+      "gloss": "ja katso, hän"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teki"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "työtä"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "pyörien"
+    }
+  ],
+  "timestamp": "2026-09-07T00:33:25.161928890Z",
+  "model": "glm-5.3"
+}

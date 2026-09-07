@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 37:32",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Ja he lähettivät ⟨את⟩ monivärisen paidan ja toivat sen isälleen ja sanoivat: Tämän me löysimme; tunnista ⟨nyt⟩, onko tämä poikasi paita vai ei.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Ja he lähettivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "monivärisen paidan"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "paidan"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "monivärisen"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ja toivat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "isälleen"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "isälleen"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ja sanoivat"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Tämän"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "me löysimme"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "tunnista"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨nyt⟩"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "paita"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "poikasi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    }
+  ],
+  "timestamp": "2026-09-06T21:21:53.916977165Z",
+  "model": "glm-5.3"
+}

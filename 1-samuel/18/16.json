@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Mutta koko Israel ja Jehuda rakastivat ⟨את⟩ Davidia, sillä hän lähti ja tuli heidän edessään.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "mutta koko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "rakastivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidia"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "lähti"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "heidän edessään"
+    }
+  ],
+  "timestamp": "2026-09-06T23:12:34.737795268Z",
+  "model": "glm-5.3"
+}

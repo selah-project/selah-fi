@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 40:17",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "ja ylin kori oli täynnä kaikkea Paron (farao) leivottua ruokaa, leipurin työtä; ja lintu söi ⟨את⟩ ⟨אתם⟩ ne korista, pääni päältä.",
+  "tokens": [
+    {
+      "surface": "ובסל",
+      "gloss": "ja ylin kori"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "ylin"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kaikkea"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "ruokaa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "työtä"
+    },
+    {
+      "surface": "אפה",
+      "gloss": "leipurin"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "ja lintu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "söi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "marks": "ne"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-sta"
+    },
+    {
+      "surface": "הסל",
+      "gloss": "korista"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "päältä"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "pääni"
+    }
+  ],
+  "timestamp": "2026-09-07T07:21:08.580303175Z",
+  "model": "glm-5.3"
+}

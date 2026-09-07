@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 48,
+  "translation": "Olemme ajatelleet, Elohim, hesediäsi (liiton rakkautta) temppelisi keskellä.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "olemme ajatelleet"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesediäsi"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "keskellä"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "temppelisi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:09:33.018939724Z",
+  "model": "glm-5.3"
+}

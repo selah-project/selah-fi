@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 19:27",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja Avraham (Aabraham) nousi aikaisin aamulla siihen paikkaan, jossa hän oli seissut siinä ⟨את⟩ Jahven kasvojen ⟨edessä⟩.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "nousi aikaisin"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham (Aabraham)"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamulla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "siihen"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "paikkaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jossa"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "oli seissut"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siinä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven kasvojen"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kasvojen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-06T21:11:14.706065961Z",
+  "model": "glm-5.3"
+}

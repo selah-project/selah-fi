@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja tapahtui, kun kaikki sotamiehet olivat kuolleet kansan keskeltä, ⟨kuolleet loppuun⟩ —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kun"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "olivat loppuun kuolleet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "sodan (sotamiehet)"
+    },
+    {
+      "surface": "למות",
+      "gloss": "kuolemaan"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "keskeltä"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:22:25.009536351Z",
+  "model": "glm-5.3"
+}

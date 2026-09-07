@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 39,
+  "translation": "Ja hän teki ⟨את⟩ efodin: kultaa, sinistä ja purppuraa ja karmesiininmatoa ja kaksinkertaiseksi kierrettyä pellavaa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ja hän teki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efodin"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodin"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kultaa"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "sinistä"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ja purppuraa"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "ja karmesiininmatoa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "punaista"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ja pellavaa"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "kierrettynä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:13:10.218560485Z",
+  "model": "glm-5.3"
+}

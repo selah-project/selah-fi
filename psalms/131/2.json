@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 131,
+  "translation": "Eikö olekin niin: minä olen tasoittanut ja hiljentänyt Nefeshini ⟨sieluni⟩ kuin vieroitetun lapsen hänen äitinsä luona; kuin vieroitettu lapsi on minun Nefeshini ⟨sieluni⟩ minussa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eikö"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olekin niin"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "olen tasoittanut"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "ja hiljentänyt"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshini"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "kuin vieroitetun lapsen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "hänen äitinsä luona"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "hänen äitinsä"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "kuin vieroitettu lapsi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "minussa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshini"
+    }
+  ],
+  "timestamp": "2026-09-07T04:33:10.188307195Z",
+  "model": "glm-5.3"
+}

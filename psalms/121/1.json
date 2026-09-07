@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 121,
+  "translation": "Laulu nousuista. Kohotan silmäni vuorille — mistä apuni tulee?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Laulu"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "nousuista"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "Kohotan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "silmäni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vuorille"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "—"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "mistä"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "tulee"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "apuni"
+    }
+  ],
+  "timestamp": "2026-09-07T06:36:07.636620678Z",
+  "model": "glm-5.3"
+}

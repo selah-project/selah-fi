@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ja sinä voit ⟨את⟩ altaan ja ⟨את⟩ sen jalustan, ja pyhität ⟨את⟩ sen.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "ja voit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altaan"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "altaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen jalustan"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "sen jalustan"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ja pyhität"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:47:06.980574288Z",
+  "model": "glm-5.3"
+}

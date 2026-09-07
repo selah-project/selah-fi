@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 12:27",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja Joav lähetti sanansaattajia Davidin (Daavid) luo ja sanoi: ”Minä olen taistellut Rabbahia vastaan, ja myös minä olen valloittanut ⟨את⟩ vesikaupungin.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ja hän lähetti"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "sanansaattajia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "נלחמתי",
+      "gloss": "Minä olen taistellut"
+    },
+    {
+      "surface": "ברבה",
+      "gloss": "Rabbahia vastaan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ja myös"
+    },
+    {
+      "surface": "לכדתי",
+      "gloss": "minä olen valloittanut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vesikaupungin"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "המים",
+      "gloss": "veden"
+    }
+  ],
+  "timestamp": "2026-09-07T04:20:56.961030537Z",
+  "model": "glm-5.3"
+}

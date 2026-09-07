@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 12:2",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja he sanoivat: Onkohan Jahve puhunut vain Moshen kanssa? Eikö hän ole puhunut myös meidän kanssamme? Ja Jahve kuuli.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ja he sanoivat"
+    },
+    {
+      "surface": "הרק",
+      "gloss": "Onkohan"
+    },
+    {
+      "surface": "אך",
+      "gloss": "vain"
+    },
+    {
+      "surface": "במשה",
+      "gloss": "Moshen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "puhunut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Eikö"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "meidän kanssamme"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "puhunut"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "Ja kuuli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-06T22:10:19.660190223Z",
+  "model": "glm-5.3"
+}

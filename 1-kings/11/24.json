@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 11:24",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja hän kokosi miehiä luokseen, ja hänestä tuli joukon päällikkö, kun David surmasi ⟨את⟩ heidät; ja he menivät Damaskokseen ja asettuivat sinne ja hallitsivat Damaskoksessa.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "Ja kokosi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "luokseen"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "miehiä"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja hänestä tuli"
+    },
+    {
+      "surface": "שר",
+      "gloss": "päällikkö"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "joukon"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "kun surmasi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "heidät"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ja he menivät"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaskokseen"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ja asettuivat"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sinne"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "ja hallitsivat"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "Damaskoksessa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:39:18.951499793Z",
+  "model": "glm-5.3"
+}

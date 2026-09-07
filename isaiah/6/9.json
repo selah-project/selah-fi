@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja hän sanoi: Mene ja sano tälle kansalle: Kuulkaa kuulematta älkääkä ymmärtäkö, ja katsokaa näkemättä älkääkä tietäkö.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Mene"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ja sano"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kansalle"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tälle"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Kuulkaa"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "kuulematta"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "älkääkö"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "ymmärtäkö"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ja katsokaa"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "näkemättä"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "älkääkö"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "tietäkö"
+    }
+  ],
+  "timestamp": "2026-09-07T00:02:50.724389988Z",
+  "model": "glm-5.3"
+}

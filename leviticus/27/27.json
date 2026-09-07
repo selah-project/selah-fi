@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 27:27",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ja jos ⟨se on⟩ epäpuhtaista karjasta, se lunastetaan arviosi mukaan, ja siihen lisätään sen viidesosa; ja jos sitä ei lunasteta, se myydään arviosi mukaan.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ja jos"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "karjasta"
+    },
+    {
+      "surface": "הטמאה",
+      "gloss": "epäpuhtaasta"
+    },
+    {
+      "surface": "ופדה",
+      "gloss": "se lunastetaan"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "arviosi mukaan"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ja siihen lisätään"
+    },
+    {
+      "surface": "חמשתו",
+      "gloss": "sen viidesosa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sen päälle"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "Ja jos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "sitä lunasteta"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "se myydään"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "arviosi mukaan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:01:31.221600595Z",
+  "model": "glm-5.3"
+}

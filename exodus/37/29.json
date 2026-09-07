@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 37:29",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Ja hän teki ⟨את⟩ voitelun pyhän öljyn ja ⟨את⟩ puhdanne suitsukkeiden suitsutuksen, voiteenvalmistajan työn.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ja hän teki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "voitelun pyhän öljyn"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "öljyn"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "voitelun"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhän"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "suitsukkeiden suitsutuksen"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "suitsutuksen"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "suitsukkeiden"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "puhdanne"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "työn"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "voiteenvalmistajan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:44:31.648646623Z",
+  "model": "glm-5.3"
+}

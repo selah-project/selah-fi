@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja me huusimme Jahvea, meidän isiemme Elohimia, ja Jahve kuuli ⟨את⟩ äänemme ja näki ⟨את⟩ kurjuutemme ja ⟨את⟩ vaivamme ja ⟨את⟩ ahdistuksemme.",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "Ja me huusimme"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimia"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "meidän isiemme"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ja kuuli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "äänemme"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "äänemme"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ja näki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurjuutemme"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "kurjuutemme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "vaivamme"
+    },
+    {
+      "surface": "עמלנו",
+      "gloss": "vaivamme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "ahdistuksemme"
+    },
+    {
+      "surface": "לחצנו",
+      "gloss": "ahdistuksemme"
+    }
+  ],
+  "timestamp": "2026-09-06T22:34:18.653870806Z",
+  "model": "glm-5.3"
+}

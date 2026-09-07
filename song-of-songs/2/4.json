@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Hän toi minut viinihuoneeseen, ja hänen lippunsa ylläni ⟨on⟩ rakkaus.",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "Hän toi minut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨huoneeseen⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "viinihuoneen"
+    },
+    {
+      "surface": "היין",
+      "gloss": "viinin"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "ja hänen lippunsa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ylläni"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "rakkaus"
+    }
+  ],
+  "timestamp": "2026-09-07T03:54:51.715287642Z",
+  "model": "glm-5.3"
+}

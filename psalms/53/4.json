@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 53,
+  "translation": "Kaikki ovat kääntyneet pois, yhdessä he ovat turmeltuneet; ei ole ketään hyvää tekevää, ei edes yhtäkään.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Kaikki"
+    },
+    {
+      "surface": "סג",
+      "gloss": "ovat kääntyneet pois"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "yhdessä"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "ovat turmeltuneet"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tekevää"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvää"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "גם",
+      "gloss": "edes"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yhtäkään"
+    }
+  ],
+  "timestamp": "2026-09-07T02:13:01.547720790Z",
+  "model": "glm-5.3"
+}

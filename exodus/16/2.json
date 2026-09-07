@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja koko Israelin lasten seurakunta valitti Moshea (Mooses) ja Aharonia (Aaron) vastaan autiomaassa.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "Ja he valittivat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "seurakunta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "על",
+      "gloss": "vastaan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshea (Mooses)"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonia (Aaron)"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "autiomaassa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:35:00.374573058Z",
+  "model": "glm-5.3"
+}

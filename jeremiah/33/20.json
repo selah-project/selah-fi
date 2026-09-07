@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Näin sanoi Jahve: jos te murritte ⟨את⟩ liittoni päivän ja ⟨את⟩ liittoni yön, niin ettei olisi päivää eikä yötä ajallaan,",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Näin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "te murritte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liittoni päivän"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "liittoni"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päivän"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "liittoni yön"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "liittoni"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "yön"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "niin ettei"
+    },
+    {
+      "surface": "היות",
+      "gloss": "olisi"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "päivää"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "eikä yötä"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "ajallaan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:39:29.206479746Z",
+  "model": "glm-5.3"
+}

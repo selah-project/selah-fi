@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja he vartioivat ⟨את⟩ kaikki ilmestysmajan astiat ja ⟨את⟩ Israelin lasten vartiovuoron, tehdäkseen ⟨את⟩ Mishkanin palveluksen.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "ja he vartioivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki ilmestysmajan astiat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "astiat"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "majan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ilmestyksen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Israelin lasten vartiovuoron"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "vartiovuoron"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "tehdäkseen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkanin palveluksen"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "palveluksen"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:03:34.209253184Z",
+  "model": "glm-5.3"
+}

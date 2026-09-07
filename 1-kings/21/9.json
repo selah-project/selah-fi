@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 21:9",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja hän kirjoitti kirjeissä sanoen: Julistakaa paasto, ja asettakaa ⟨את⟩ Navot (Naabot) kansan johtoon.",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "Ja hän kirjoitti"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "kirjeissä"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "Julistakaa"
+    },
+    {
+      "surface": "צום",
+      "gloss": "paasto"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "ja asettakaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Navot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "johtoon"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:44:09.714783698Z",
+  "model": "glm-5.3"
+}

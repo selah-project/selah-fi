@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja kuningas sanoi hänelle: ”Mitä sinulla ⟨on⟩?” Hän sanoi: ”Totisesti, nainen, leski minä ⟨olen⟩, ja mieheni kuoli.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulla"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "totisesti"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "nainen"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "leski"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ja kuoli"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "mieheni"
+    }
+  ],
+  "timestamp": "2026-09-07T04:21:43.009611304Z",
+  "model": "glm-5.3"
+}

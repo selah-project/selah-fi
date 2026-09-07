@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 28:10",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Shabbatin polttouhri sen Shabbatinsa mukaisesti, jatkuvan polttouhrin päälle, ja sen juomauhri.",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "polttouhri"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabbatin"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "sen Shabbatinsa mukaisesti"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "polttouhrin"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "jatkuvan"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "ja sen juomauhri"
+    }
+  ],
+  "timestamp": "2026-09-06T22:17:02.482927585Z",
+  "model": "glm-5.3"
+}

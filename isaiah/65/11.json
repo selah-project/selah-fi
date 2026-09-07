@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 65:11",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 65,
+  "translation": "Mutta te, jotka hylkäätte Jahven, jotka unohdatte ⟨את⟩ pyhän vuoreni, jotka katatte pöydän Gadille ja täytätte Menille sekoitettua viiniä:",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Mutta te"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "jotka hylkäätte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "השכחים",
+      "gloss": "jotka unohdatte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pyhän vuoreni"
+    },
+    {
+      "surface": "הר",
+      "gloss": "vuoreni"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "pyhän"
+    },
+    {
+      "surface": "הערכים",
+      "gloss": "jotka katatte"
+    },
+    {
+      "surface": "לגד",
+      "gloss": "Gadille"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "pöydän"
+    },
+    {
+      "surface": "והממלאים",
+      "gloss": "ja jotka täytätte"
+    },
+    {
+      "surface": "למני",
+      "gloss": "Menille"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "sekoitettua viiniä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:22:29.895003427Z",
+  "model": "glm-5.3"
+}

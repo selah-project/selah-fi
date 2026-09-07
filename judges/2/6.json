@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 2:6",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Jehoshua lähetti ⟨את⟩ kansan, ja Israelin pojat lähtivät, kukin omaan perintöönsä, valtaamaan ⟨את⟩ maan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ja lähetti"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ja he lähtivät"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kukin"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "omaan perintöönsä"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "valtaamaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:50:16.858500042Z",
+  "model": "glm-5.3"
+}

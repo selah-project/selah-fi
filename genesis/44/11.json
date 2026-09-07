@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 44,
+  "translation": "Ja he kiiruhtivat ja laskivat jokainen ⟨את⟩ säkkinsä maahan, ja jokainen avasi säkkinsä.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "ja he kiiruhtivat"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "ja he laskivat alas"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jokainen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "säkkinsä"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "säkkinsä"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "ja he avasivat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jokainen"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "säkkinsä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:24:32.517576695Z",
+  "model": "glm-5.3"
+}

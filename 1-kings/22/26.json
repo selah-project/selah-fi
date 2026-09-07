@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 22:26",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja Israelin kuningas sanoi: Ottakaa ⟨את⟩ Mikajahu ja viekää hänet takaisin Amonin (Aamon), kaupungin päällikön, ja Joashin (Jooas), kuninkaan pojan, luo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Ottakaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikajahu"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikajahu"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "ja viekää hänet takaisin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amonin"
+    },
+    {
+      "surface": "שר",
+      "gloss": "päällikön"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joashin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:46:24.572728133Z",
+  "model": "glm-5.3"
+}

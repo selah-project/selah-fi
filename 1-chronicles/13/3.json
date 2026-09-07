@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "ja tuodaan ⟨את⟩ meidän Elohimmemme arkki luoksemme, sillä emme sitä kysyneet Shaulin päivinä.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "ja tuodaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meidän Elohimmemme arkki"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkki"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "meidän Elohimmemme"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "luoksemme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "kysyneet sitä"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "päivinä"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:21:33.173823050Z",
+  "model": "glm-5.3"
+}

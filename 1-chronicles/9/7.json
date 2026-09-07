@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 9:7",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja Binjaminin pojista: Sallu, Meshullamin poika, Hodavjan poika, Hasenuan poika.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "Ja ...:sta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjaminin"
+    },
+    {
+      "surface": "סלוא",
+      "gloss": "Sallu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Meshullamin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "הודויה",
+      "gloss": "Hodavjan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "Hasenuan"
+    }
+  ],
+  "timestamp": "2026-09-07T05:16:03.086956729Z",
+  "model": "glm-5.3"
+}

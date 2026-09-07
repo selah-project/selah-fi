@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ja ⟨את⟩ hänen poikansa sinä tuot lähelle, ja sinä puetat ⟨את⟩ heidät kuttaneihin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen poikansa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "sinä tuot lähelle"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "ja sinä puetat"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ heidät",
+      "marks": "kuttaneihin"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kuttaneihin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:47:05.106545908Z",
+  "model": "glm-5.3"
+}

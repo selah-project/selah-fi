@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 20:24",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Alttarin maasta tee minulle, ja uhraa sen päällä ⟨את⟩ polttouhrisi ja ⟨את⟩ rauhanuhrisi, ⟨את⟩ lampaasi ja ⟨את⟩ karjasi; jokaisessa paikassa, jossa saatan ⟨את⟩ nimeni muistetuksi, minä tulen sinun luoksesi ja siunaan sinua.",
+  "tokens": [
+    {
+      "surface": "מזבח",
+      "gloss": "Alttarin"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "וזבחת",
+      "gloss": "ja uhraa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sen päällä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "polttouhrisi"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "polttouhrisi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "rauhanuhrisi"
+    },
+    {
+      "surface": "שלמיך",
+      "gloss": "rauhanuhrisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lampaasi"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "lampaasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "karjasi"
+    },
+    {
+      "surface": "בקרך",
+      "gloss": "karjasi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "jokaisessa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "paikassa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jossa"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "saatan muistetuksi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nimeni"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "nimeni"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "tulen"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinun luoksesi"
+    },
+    {
+      "surface": "וברכתיך",
+      "gloss": "ja siunaan sinua"
+    }
+  ],
+  "timestamp": "2026-09-06T21:36:25.525575897Z",
+  "model": "glm-5.3"
+}

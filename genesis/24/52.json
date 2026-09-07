@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 24:52",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja tapahtui, kun Avrahamin palvelija kuuli ⟨את⟩ heidän sanansa, hän kumartui maahan Jahvelle.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kun"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kuuli"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "palvelija"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän sanansa"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "heidän sanansa"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "hän kumartui"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    }
+  ],
+  "timestamp": "2026-09-06T21:14:26.101059170Z",
+  "model": "glm-5.3"
+}

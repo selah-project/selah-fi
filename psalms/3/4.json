@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Mutta sinä, Jahve, ⟨olet⟩ kilpi minun ympärilläni, kunniani ja pääni korottaja.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "mutta sinä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "kilpi"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "minun ympärilläni"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "kunniani"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "ja ... korottaja"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "pääni"
+    }
+  ],
+  "timestamp": "2026-09-07T01:52:18.437181735Z",
+  "model": "glm-5.3"
+}

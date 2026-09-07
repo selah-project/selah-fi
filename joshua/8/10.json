@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja Jehoshua nousi varhain aamulla ja katselmoi ⟨את⟩ kansan, ja hän ja Israelin vanhimmat nousivat kansan edessä HaAihin.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "ja nousi varhain"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamulla"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "ja katselmoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ja nousi ylös"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "ja vanhimmat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "העי",
+      "gloss": "HaAihin"
+    }
+  ],
+  "timestamp": "2026-09-07T04:17:04.852664163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja Jahve oli paljastanut Shmuelin korvan ⟨את⟩ yhtä päivää ennen Shaulin (Saul) tuloa, sanoen:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ja Jahve"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "oli paljastanut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korvan"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "korvan"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuelin"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivää"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yhtä"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ennen"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "tuloa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulin (Saul)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:09:01.612994660Z",
+  "model": "glm-5.3"
+}

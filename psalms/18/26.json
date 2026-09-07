@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Hurskaan kanssa ⟨toimit⟩ hurskaasti, nuhteettoman kanssa ⟨toimit⟩ nuhteettomasti.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "hurskas"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "toimit hurskaasti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "nuhteeton mies"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "nuhteeton"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "toimit nuhteettomasti"
+    }
+  ],
+  "timestamp": "2026-09-07T01:57:55.220456461Z",
+  "model": "glm-5.3"
+}

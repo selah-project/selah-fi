@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja Shemuel makasi aamuun asti ja avasi ⟨את⟩ Jahven huoneen ovet; ja Shemuel pelkäsi ilmoittaa ⟨את⟩ näyn Elille.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Ja makasi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "aamuun"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "ja avasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven huoneen ovet"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "ovet"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "ja Shemuel"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "pelkäsi"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "ilmoittaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "näyn"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "näyn"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elille"
+    }
+  ],
+  "timestamp": "2026-09-06T23:06:16.312994131Z",
+  "model": "glm-5.3"
+}

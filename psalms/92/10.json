@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 92,
+  "translation": "Sillä katso, vihollisesi, Jahve; sillä katso, vihollisesi häviävät, kaikki pahan tekijät hajaantuvat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "katso"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "vihollisesi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "katso"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "vihollisesi"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "häviävät"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "hajaantuvat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "tekijät"
+    },
+    {
+      "surface": "און",
+      "gloss": "pahan"
+    }
+  ],
+  "timestamp": "2026-09-07T02:32:11.909009086Z",
+  "model": "glm-5.3"
+}

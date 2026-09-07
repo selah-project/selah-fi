@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "⟨את⟩ Jahvea, Elohimiasi, sinä pelkäät, ⟨את⟩ ja häntä sinä palvelet, ja hänen nimessään sinä vannot.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimiasi"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "sinä pelkäät"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ ja häntä"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "sinä palvelet"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "ja hänen nimessään"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "sinä vannot"
+    }
+  ],
+  "timestamp": "2026-09-06T22:24:44.239684200Z",
+  "model": "glm-5.3"
+}

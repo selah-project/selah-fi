@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 11:17",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja Jehojada teki ⟨את⟩ liiton (Berit) Jahven ja kuninkaan välille ja kansan välille, että he olisivat kansana Jahvelle, sekä kuninkaan ja kansan välille.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "teki"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liiton"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "liiton (Berit)"
+    },
+    {
+      "surface": "בין",
+      "gloss": "välille"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja välille"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja välille"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "että he olisivat"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kansana"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "sekä välille"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja välille"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:53:14.954426567Z",
+  "model": "glm-5.3"
+}

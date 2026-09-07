@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Ja Ravshake palasi ja löi ⟨את⟩ Ashurin kuninkaan sotivan Livnahaa vastaan, sillä hän oli kuullut, että hän oli lähtenyt Lakishista.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "palasi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav(päällikkö)"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "shake"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "ja löi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashurin kuninkaan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashurin"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "sotivan"
+    },
+    {
+      "surface": "על",
+      "gloss": "vastaan"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livnahaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kuullut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "lähtenyt"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "Lakishista"
+    }
+  ],
+  "timestamp": "2026-09-07T00:12:08.053494408Z",
+  "model": "glm-5.3"
+}

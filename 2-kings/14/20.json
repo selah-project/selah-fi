@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja he nostivat ⟨את⟩ hänet hevosten selkään, ja hänet haudattiin Jerushalajimiin isiensä kanssa, Davidin kaupunkiin.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "Ja he nostivat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet",
+      "marks": "hänet (totaaliobjekti)"
+    },
+    {
+      "surface": "על",
+      "gloss": "selkään"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "hevosten"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ja hänet haudattiin"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerushalajimiin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "isiensä"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kaupunkiin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:53:55.530098846Z",
+  "model": "glm-5.3"
+}

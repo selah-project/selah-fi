@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 18:17",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Naisen ja hänen tyttärensä alastomuutta älä paljasta; ⟨את⟩ hänen poikansa tytärtä ja ⟨את⟩ hänen tyttärensä tytärtä älä ota paljistaaksesi hänen alastomuuttaan — hänen lähisukulaisiaan he ⟨ovat⟩; haureus se ⟨on⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "alastomuutta"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "naisen"
+    },
+    {
+      "surface": "ובתה",
+      "gloss": "ja hänen tyttärensä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "paljasta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tytärtä"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tytärtä"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "tytärtä"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tytärtä"
+    },
+    {
+      "surface": "בתה",
+      "gloss": "hänen tyttärensä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ota"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "paljistaaksesi"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "hänen alastomuuttaan"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "hänen lähisukulaisiaan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "he ⟨ovat⟩"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "haureus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se ⟨on⟩"
+    }
+  ],
+  "timestamp": "2026-09-06T21:54:39.055116829Z",
+  "model": "glm-5.3"
+}

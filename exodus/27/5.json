@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ja sinä panet ⟨את⟩ sen alttarin reunuksen alle, alhaalta, ja verkko ⟨on⟩ alttarin puoliväliin asti.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "Ja sinä panet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ sen",
+      "marks": "sen (verkko)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alle"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "reunuksen"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "alhaalta"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ja ⟨on⟩"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "verkko"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "puoliväliin"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarin"
+    }
+  ],
+  "timestamp": "2026-09-07T04:10:24.661462165Z",
+  "model": "glm-5.3"
+}

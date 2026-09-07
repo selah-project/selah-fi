@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja Ahav kutsui Ovadjaun (Obadja), joka oli talon pää, ja Ovadjau pelkäsi ⟨את⟩ Jahvea suuresti.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ja kutsui"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Ovadjaun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "על",
+      "gloss": "pää"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "ja Ovadjau"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "pelkäsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "suuresti"
+    }
+  ],
+  "timestamp": "2026-09-06T23:42:51.859554104Z",
+  "model": "glm-5.3"
+}

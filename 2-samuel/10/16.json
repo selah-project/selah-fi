@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 10:16",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja Hadadezer lähetti ja toi ⟨את⟩ Aramin, joka oli joen tuolla puolen, ja he tulivat Helamiin; ja Shovakh, Hadadezerin sotajoukon päämies, ⟨oli⟩ heidän edellään.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "lähetti"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "toi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aramin"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "tuolla puolen"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "joen"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ja he tulivat"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "Helamiin"
+    },
+    {
+      "surface": "ושובך",
+      "gloss": "ja Shovakh"
+    },
+    {
+      "surface": "שר",
+      "gloss": "päämies"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "sotajoukon"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezerin"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "heidän edellään"
+    }
+  ],
+  "timestamp": "2026-09-06T23:23:18.060598819Z",
+  "model": "glm-5.3"
+}

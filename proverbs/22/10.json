@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Aja ulos pilkkaajan, ja riita lähtee, ja riitely ja häpeä lakkaavat.",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "aja ulos"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "pilkkaaja"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ja lähtee"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "riita"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "ja lakkaavat"
+    },
+    {
+      "surface": "דין",
+      "gloss": "riitely"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "ja häpeä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:11:23.661907743Z",
+  "model": "glm-5.3"
+}

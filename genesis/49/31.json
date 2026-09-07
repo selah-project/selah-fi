@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 49,
+  "translation": "Sinne he hautasivat ⟨את⟩ Avrahamin ja ⟨את⟩ Sarahin (Saara), hänen vaimonsa; sinne he hautasivat ⟨את⟩ Jitshakin ja ⟨את⟩ Rivkan (Rebekka), hänen vaimonsa; ja sinne minä hautasin ⟨את⟩ Lean (Lea).",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "sinne"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "he hautasivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamin"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Sarahin"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarahin"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hänen vaimonsa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sinne"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "he hautasivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitshakin"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshakin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Rivkan"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivkan"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hänen vaimonsa"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ja sinne"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "minä hautasin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lean"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lean"
+    }
+  ],
+  "timestamp": "2026-09-06T21:28:37.646445128Z",
+  "model": "glm-5.3"
+}

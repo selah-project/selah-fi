@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja Arpakshad siitti ⟨את⟩ Shelahin, ja Shelah siitti ⟨את⟩ Eberin.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Arpakshad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelahin"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelahin"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ja Shelah"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eberin"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eberin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:12.565876717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 125,
+  "translation": "Nousulaulu. Jahveen luottavaiset ⟨ovat⟩ kuin vuori Tsijon: ei ⟨se⟩ horju, iankaikkisesti ⟨se⟩ asuu.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Laulu"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "nousuista"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "luottavaiset"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahveen"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "kuin vuori"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "horju"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "asuu"
+    }
+  ],
+  "timestamp": "2026-09-07T02:51:04.572616213Z",
+  "model": "glm-5.3"
+}

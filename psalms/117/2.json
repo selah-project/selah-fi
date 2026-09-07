@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 117,
+  "translation": "Sillä hänen hedensä ⟨on⟩ vahva meidän yllämme, ja Jahven emet ⟨kestää⟩ iankaikkisesti; kehkaa Jah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "⟨on⟩ vahva"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "meidän yllämme"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hänen hedensä"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ja emet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "kehkaa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-07T02:43:50.010052914Z",
+  "model": "glm-5.3"
+}

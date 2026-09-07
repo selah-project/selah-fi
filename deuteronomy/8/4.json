@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Vaatteesi ei kulunut sinulta, eikä jalkasi turvonnut — nämä neljäkymmentä vuotta.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "Vaatteesi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "kulunut"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "sinulta"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "eikä jalkasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "turvonnut"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "neljäkymmentä"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    }
+  ],
+  "timestamp": "2026-09-06T22:28:37.094503339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 23:13",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Älä kiellä lapselta kuritusta, sillä kun lyöt häntä sauvalla, hän ei kuole.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "kiellä"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "lapselta"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "kuritusta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "lyöt häntä"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "sauvalla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "kuole"
+    }
+  ],
+  "timestamp": "2026-09-07T03:14:43.559286287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja hän poltti ⟨את⟩ Jahven huoneen ja ⟨את⟩ kuninkaan huoneen ja ⟨את⟩ kaikki Jerushalajimin (Jerusalem) huoneet; ja ⟨את⟩ jokaisen suuren huoneen hän poltti tulessa.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "Ja hän poltti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven huoneen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kuninkaan huoneen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki Jerushalajimin huoneet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "huoneet"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "jokaisen suuren huoneen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokaisen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suuren"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "hän poltti"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulessa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:59:58.738251926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 15:16",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Ja sotaa oli Asan ja Israelin kuninkaan Baashan välillä kaikkina heidän päivinään.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Ja sotaa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "בין",
+      "gloss": "välillä"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baashan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkina"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "heidän päivinään"
+    }
+  ],
+  "timestamp": "2026-09-06T23:41:23.284855726Z",
+  "model": "glm-5.3"
+}

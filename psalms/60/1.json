@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 60,
+  "translation": "Johtajalle, Susan-Edutin mukaan, miktam, Davidin ⟨Daavidin⟩, opettamista varten.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Johtajalle"
+    },
+    {
+      "surface": "על",
+      "gloss": "mukaan"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Susan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Edut"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "opettamista varten"
+    }
+  ],
+  "timestamp": "2026-09-07T02:16:59.119911978Z",
+  "model": "glm-5.3"
+}

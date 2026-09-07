@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 89,
+  "translation": "Ei vihollinen häntä kiusaa, eikä vääryyden poika häntä paina.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ei"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "kiusaa"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "vihollinen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "häntä"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "eikä poika"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "vääryyden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "paina häntä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:33:40.697117915Z",
+  "model": "glm-5.3"
+}

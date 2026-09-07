@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 20:18",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja hän sanoi: ”Jos he ovat lähteneet liikkeelle rauhan takia, ottakaa heidät elävänä kiinni; ja jos he ovat lähteneet liikkeelle sotaa varten, ottakaa heidät elävänä kiinni.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "rauhan takia"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "he ovat lähteneet liikkeelle"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "ottakaa heidät kiinni"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "elävänä"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ja jos"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sotaa varten"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "he ovat lähteneet liikkeelle"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "elävänä"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "ottakaa heidät kiinni"
+    }
+  ],
+  "timestamp": "2026-09-06T23:44:28.479453369Z",
+  "model": "glm-5.3"
+}

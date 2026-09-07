@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 2:4",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Riitakaa äitinne kanssa, riitakaa, sillä hän ei ole minun vaimoni, enkä minä ole hänen miehensä; ja hän poistakoon haureutensa kasvoiltaan ja aviorikoksensa rintojensa välistä.",
+  "tokens": [
+    {
+      "surface": "ריבו",
+      "gloss": "Riitakaa"
+    },
+    {
+      "surface": "באמכם",
+      "gloss": "äitinne kanssa"
+    },
+    {
+      "surface": "ריבו",
+      "gloss": "riitakaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "ole minun vaimoni"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "enkä minä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "hänen miehensä"
+    },
+    {
+      "surface": "ותסר",
+      "gloss": "ja hän poistakoon"
+    },
+    {
+      "surface": "זנוניה",
+      "gloss": "haireutensa"
+    },
+    {
+      "surface": "מפניה",
+      "gloss": "kasvoiltaan"
+    },
+    {
+      "surface": "ונאפופיה",
+      "gloss": "ja aviorikoksensa"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "välistä"
+    },
+    {
+      "surface": "שדיה",
+      "gloss": "rintojensa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:21:38.945370756Z",
+  "model": "glm-5.3"
+}

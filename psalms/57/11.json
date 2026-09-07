@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 57,
+  "translation": "Sillä suuri on taivaaseen asti sinun hesedisi (armosi), ja pilviin asti sinun totuutesi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "suuri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "taivaaseen"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sinun hesedisi (armosi)"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ja asti"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "pilviin"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "sinun totuutesi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:12:19.229392934Z",
+  "model": "glm-5.3"
+}

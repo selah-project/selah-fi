@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 132,
+  "translation": "Sillä Jahve on valinnut Tsijonin, hän on sitä halajnut asuinsijakseen itselleen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "on valinnut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsijonin"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "on sitä halajnut"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "asuinsijakseen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "itselleen"
+    }
+  ],
+  "timestamp": "2026-09-07T02:49:52.207809199Z",
+  "model": "glm-5.3"
+}

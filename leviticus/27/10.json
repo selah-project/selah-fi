@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ei sitä saa vaihtaa eikä vaihtaa ⟨את⟩ sitä, hyvää pahaan tai pahaa hyvään; ja jos hän todella vaihtaa eläimen eläimeen, niin se ja sen vaihdettu ⟨on⟩ pyhä.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "saa vaihtaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "vaihtaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sitä"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvää"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "pahaan"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pahaa"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "hyvään"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ja jos"
+    },
+    {
+      "surface": "המר",
+      "gloss": "vaihtaa"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "vaihtaa"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "eläimen"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "eläimeen"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "niin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "ja sen vaihdettu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "on"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:01:46.474124993Z",
+  "model": "glm-5.3"
+}

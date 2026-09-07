@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 16:25",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja Omri teki sen, mikä pahaa on Jahven silmissä, ja pahuutti enemmän kuin kaikki, jotka olivat ennen häntä.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "teki"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "sen, mikä pahaa on"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "silmien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "ja pahuutti"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "enemmän kuin kaikki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ennen häntä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:24:28.967955603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 84:12",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 84,
+  "translation": "Sillä aurinko ja kilpi ⟨on⟩ Jahve Elohim; armon ja kunnian antaa Jahve, ei hän kiellä hyvää niiltä, jotka vaeltavat nuhteettomuudessa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "aurinko"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "ja kilpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חן",
+      "gloss": "armon"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ja kunnian"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "antaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ימנע",
+      "gloss": "hän kiellä"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvää"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "niiltä, jotka vaeltavat"
+    },
+    {
+      "surface": "בתמים",
+      "gloss": "nuhteettomuudessa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:28:42.237365678Z",
+  "model": "glm-5.3"
+}

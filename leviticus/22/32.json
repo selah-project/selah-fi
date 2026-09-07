@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Älkää sitä turmelko, minun pyhän nimeni ⟨את⟩, vaan pyhittäkää minut Israelin lasten keskellä: minä ⟨olen⟩ Jahve, joka pyhitän teidät.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "turmelko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nimeni (minun pyhän nimeni)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimeni"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "pyhän"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "pyhittäkää minut"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keskellä"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "joka pyhitän teidät"
+    }
+  ],
+  "timestamp": "2026-09-06T21:57:38.622460850Z",
+  "model": "glm-5.3"
+}

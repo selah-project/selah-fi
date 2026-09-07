@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 3:10",
+  "book": "amos",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja eivät tiedä tehdä oikein, sanoo Jahve, ne, jotka tallettavat väkivaltaa ja ryöstöä linnoituksissaan.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ja eivät"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tietävät"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "tehdä"
+    },
+    {
+      "surface": "נכחה",
+      "gloss": "oikein"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "האוצרים",
+      "gloss": "ne, jotka tallettavat"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "väkivaltaa"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "ja ryöstöä"
+    },
+    {
+      "surface": "בארמנותיהם",
+      "gloss": "linnoituksissaan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:26:19.259869967Z",
+  "model": "glm-5.3"
+}

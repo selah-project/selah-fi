@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Jahve sanoi ha-satanille: Katso, hän on kädessäsi; vain ⟨את⟩ nefeshnsä varjele.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ha-satanille"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "kädessäsi"
+    },
+    {
+      "surface": "אך",
+      "gloss": "vain"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefeshnsä"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefeshnsä"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "varjele"
+    }
+  ],
+  "timestamp": "2026-09-07T04:35:50.919621276Z",
+  "model": "glm-5.3"
+}

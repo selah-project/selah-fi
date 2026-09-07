@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 12:38",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja myös paljon sekaväkeä lähti ⟨את⟩ heidän mukanaan, ja lampaita ja nautoja — sangen suuri karja.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ja myös"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "sekaväkeä"
+    },
+    {
+      "surface": "רב",
+      "gloss": "paljon"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "lähti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ heidän mukanaan"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ja lampaita"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ja nautoja"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "karjaa"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "suuri"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:33:29.079875465Z",
+  "model": "glm-5.3"
+}

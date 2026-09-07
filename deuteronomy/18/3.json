@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 18:3",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja tämä olkoon koheneitten oikeus ⟨את⟩ kansalta, ⟨את⟩ uhraajilta — olkoon härkä tai lammas — ja annettakoon kohenille ylälapa ja leukaluut ja pötsi.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Ja tämä"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olkoon"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "oikeus"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "koheneitten"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩-verran kansalta",
+      "marks": "kansalta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansalta"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩-verran uhraajilta",
+      "marks": "uhraajilta"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "uhraajilta"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "uhri"
+    },
+    {
+      "surface": "אם",
+      "gloss": "olkoon"
+    },
+    {
+      "surface": "שור",
+      "gloss": "härkä"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tai"
+    },
+    {
+      "surface": "שה",
+      "gloss": "lammas"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ja annettakoon"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kohenille"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "ylälapa"
+    },
+    {
+      "surface": "והלחיים",
+      "gloss": "ja leukaluut"
+    },
+    {
+      "surface": "והקבה",
+      "gloss": "ja pötsi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:33:14.891216013Z",
+  "model": "glm-5.3"
+}

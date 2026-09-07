@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 13:3",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja Jahven viha syttyi Israelia vastaan, ja hän antoi heidät Haza'elin, Aramin kuninkaan, käteen ja Ben-Hadadin, Haza'elin pojan, käteen, kaikkina päivinä.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "sytytti"
+    },
+    {
+      "surface": "אף",
+      "gloss": "viha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israelia vastaan"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "ja hän antoi heidät"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käteen"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Haza'elin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramin"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ja käteen"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadadin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Haza'elin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkina"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "päivinä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:54:13.764683196Z",
+  "model": "glm-5.3"
+}

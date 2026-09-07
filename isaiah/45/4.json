@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 45:4",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 45,
+  "translation": "Ja'akovin (Jaakob), palvelijani, ja Israelin, valittuni, tähden minä kutsun sinua nimelläsi, annan sinulle lisänimen, vaikka et minua tuntenut.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "palvelijani"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akovin (Jaakob)"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ja Israelin"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "valittuni"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "minä kutsun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinua"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "nimelläsi"
+    },
+    {
+      "surface": "אכנך",
+      "gloss": "annan sinulle lisänimen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ettei"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "tuntenut minua"
+    }
+  ],
+  "timestamp": "2026-09-07T00:17:32.097913120Z",
+  "model": "glm-5.3"
+}

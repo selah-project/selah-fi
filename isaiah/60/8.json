@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 60,
+  "translation": "Ketkä nämä ovat, jotka lentävät kuin pilvi, ja kuin kyyhkyset ikkunoihinsa?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ketkä"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "kuin pilvi"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "he lentävät"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "ja kuin kyyhkyset"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "ikkunoihinsa"
+    }
+  ],
+  "timestamp": "2026-09-07T00:20:41.917178573Z",
+  "model": "glm-5.3"
+}

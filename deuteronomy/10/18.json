@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 10:18",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Tekee orvon ja lesken oikeuden ja rakastaa muukalaista antaakseen hänelle leipää ja vaatetta.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Tekee"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "oikeuden"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "orvon"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "ja lesken"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "ja rakastaa"
+    },
+    {
+      "surface": "גר",
+      "gloss": "muukalaista"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "antaakseen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "ja vaatetta"
+    }
+  ],
+  "timestamp": "2026-09-06T22:27:16.507197432Z",
+  "model": "glm-5.3"
+}

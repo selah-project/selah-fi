@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Sanoin minä sydämessäni: ⟨את⟩ vanhurskaan ja ⟨את⟩ jumalattoman tuomitsee Elohim, sillä aika ⟨on⟩ jokaiselle halulle, ja jokaiselle teolle siellä.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Sanoin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "sydämessäni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhurskaan"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "vanhurskaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "jumalattoman"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "jumalattoman"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "tuomitsee"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "עת",
+      "gloss": "aika"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "jokaiselle"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "halulle"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja ⟨–lle⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokaiselle"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "teolle"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:06:05.982911142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 23:38",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Shabbaten, Jahven shabbattien, lisäksi — ⟨ei⟩ paljasta {Muoto: 'paitsi'} — paitsi lahjojenne, ja paitsi kaikkien neder-lupaustenne, ja paitsi kaikkien vapaaehtoisten nedava-lahjojenne, jotka annatte Jahvelle.",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "paitsi"
+    },
+    {
+      "surface": "שבתת",
+      "gloss": "shabbattien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ומלבד",
+      "gloss": "ja paitsi"
+    },
+    {
+      "surface": "מתנותיכם",
+      "gloss": "lahjojenne"
+    },
+    {
+      "surface": "ומלבד",
+      "gloss": "ja paitsi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkien"
+    },
+    {
+      "surface": "נדריכם",
+      "gloss": "neder-lupaustenne"
+    },
+    {
+      "surface": "ומלבד",
+      "gloss": "ja paitsi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkien"
+    },
+    {
+      "surface": "נדבותיכם",
+      "gloss": "vapaaehtoisten nedava-lahjojenne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "annatte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    }
+  ],
+  "timestamp": "2026-09-06T22:00:34.890481747Z",
+  "model": "glm-5.3"
+}

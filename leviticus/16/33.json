@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja hän sovittaa ⟨את⟩ pyhyyden pyhäkön ja ⟨את⟩ kokouksen teltan, ja ⟨את⟩ alttarin hän sovittaa; ja pappien ja koko seurakunnan kansan puolesta hän sovittaa.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "sovittaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pyhyyden pyhäkön"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "pyhäkön"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pyhyyden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kokouksen teltan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kokouksen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "alttarin"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "hän sovittaa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja … puolesta"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "pappien"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja … puolesta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "seurakunnan"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "hän sovittaa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:54:29.059521712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 3:2",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja hän teki pahan Jahven silmissä, ei kuitenkaan niin kuin isänsä äläkä äitinsä, sillä hän poisti ⟨את⟩ Baalin pystyteen, jonka hänen isänsä oli tehnyt.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "Ja hän teki"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "pahan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "silmissä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ei kuitenkaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "כאביו",
+      "gloss": "niin kuin isänsä"
+    },
+    {
+      "surface": "וכאמו",
+      "gloss": "äläkä äitinsä"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "sillä hän poisti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalin pystyteen"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "pystyteen"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baalin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "oli tehnyt"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hänen isänsä"
+    }
+  ],
+  "timestamp": "2026-09-07T05:58:32.269551863Z",
+  "model": "glm-5.3"
+}

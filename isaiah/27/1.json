@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 27:1",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Sinä päivänä rankaisee Jahve miekallaan, kovalla ja suurella ja väkevällä, Livjatanin, käärmettä pakenevaa, ja Livjatanin, käärmettä kiemurtelevaa; ja hän tappaa ⟨את⟩ merenhirviön, joka on meressä.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Sinä päivänä"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "rankaisee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בחרבו",
+      "gloss": "miekallaan"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "kovalla"
+    },
+    {
+      "surface": "והגדולה",
+      "gloss": "ja suurella"
+    },
+    {
+      "surface": "והחזקה",
+      "gloss": "ja väkevällä"
+    },
+    {
+      "surface": "על",
+      "gloss": "…a"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "Livjatanin"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "käärmettä"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "pakenevaa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "Livjatanin"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "käärmettä"
+    },
+    {
+      "surface": "עקלתון",
+      "gloss": "kiemurtelevaa"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "ja hän tappaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "merenhirviön"
+    },
+    {
+      "surface": "התנין",
+      "gloss": "merenhirviön"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "בים",
+      "gloss": "on meressä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:08:40.526097711Z",
+  "model": "glm-5.3"
+}

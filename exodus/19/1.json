@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 19:1",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Kolmannessa kuussa Israelin lasten lähdöstä Mitsrajimin (Egyptin) maasta, samana päivänä he tulivat Sinajin (Siinain) erämaahan.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "Kolmannessa kuussa"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "kolmannessa"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "lähdöstä"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "samana päivänä"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "samana"
+    },
+    {
+      "surface": "באו",
+      "gloss": "he tulivat"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "erämaahan"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinajin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:36:14.743519106Z",
+  "model": "glm-5.3"
+}

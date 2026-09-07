@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 94,
+  "translation": "Hän, joka istutti korvan, eikö hän kuule? Hän, joka muovasi silmän, eikö hän näe?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "joka istutti"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "korvan"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "eikö"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "hän kuule"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hän, joka"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "muovasi"
+    },
+    {
+      "surface": "עין",
+      "gloss": "silmän"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "eikö"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "hän näe"
+    }
+  ],
+  "timestamp": "2026-09-07T02:32:24.052956713Z",
+  "model": "glm-5.3"
+}

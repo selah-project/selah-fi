@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 15:2",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Silloin David sanoi: ”Ei ⟨ole⟩ kantamista ⟨את⟩ Elohimin arkkia, paitsi leeviläiset, sillä heidät on valinnut Jahve kantamaan ⟨את⟩ Jahven arkkia ja palvelemaan häntä iankaikkisesti.”",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "silloin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "kantamista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimin arkkia"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkkia"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אם",
+      "gloss": "paitsi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leeviläiset"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "בם",
+      "gloss": "heidät"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "on valinnut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "kantamaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven arkkia"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkkia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ולשרתו",
+      "gloss": "ja palvelemaan häntä"
+    },
+    {
+      "surface": "עד",
+      "gloss": "—"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iankaikkisesti"
+    }
+  ],
+  "timestamp": "2026-09-07T05:21:07.003070723Z",
+  "model": "glm-5.3"
+}

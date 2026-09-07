@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 95,
+  "translation": "Neljäkymmentä vuotta minä inhosin sitä sukupolvea ja sanoin: Kansa ⟨on⟩ he, jonka sydän eksyy, ja he eivät tunne minun teitäni.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "Neljäkymmentä"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "inhosin"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "sitä sukupolvea"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ja sanoin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "Kansa"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "eksyy"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "sydän"
+    },
+    {
+      "surface": "הם",
+      "gloss": "he"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ja he"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tunne"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "minun teitäni"
+    }
+  ],
+  "timestamp": "2026-09-07T02:32:21.886624970Z",
+  "model": "glm-5.3"
+}

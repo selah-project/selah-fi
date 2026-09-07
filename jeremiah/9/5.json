@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 9:5",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Asuimesi ⟨on⟩ petoksen keskellä; petoksesta he kieltäytyvät tuntemasta ⟨את⟩ minua, sanoo Jahve.",
+  "tokens": [
+    {
+      "surface": "שבתך",
+      "gloss": "asuimesi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keskellä"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "petoksen"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "petoksesta"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "he kieltäytyvät"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tuntemasta"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ minua"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-07T00:28:28.793230510Z",
+  "model": "glm-5.3"
+}

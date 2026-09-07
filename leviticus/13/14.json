@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja päivänä, jona hänessä nähdään elävää lihaa, hän ⟨on⟩ saastainen.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ja päivänä"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "nähdään"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hänessä"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "lihaa"
+    },
+    {
+      "surface": "חי",
+      "gloss": "elävää"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "hän on saastainen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:52:16.808403620Z",
+  "model": "glm-5.3"
+}

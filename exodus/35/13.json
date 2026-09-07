@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 35,
+  "translation": "⟨את⟩ pöydän ja ⟨את⟩ sen kantotuikit ja ⟨את⟩ kaikki sen astiat ja ⟨את⟩ kasvojoten leivän",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pöydän"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "pöydän"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen kantotuikit (בדיו)"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "sen kantotuikit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki sen astiat (כל כליו)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sen astiat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kasvojoten leivän (לחם הפנים)"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leivän"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "kasvojen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:43:58.053790213Z",
+  "model": "glm-5.3"
+}

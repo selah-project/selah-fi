@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja te palvelette ⟨את⟩ Jahvea, Elohimianne, ja hän siunaa ⟨את⟩ leipäsi ja ⟨את⟩ vetesi, ja minä poistan taudin keskeltäsi.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "Ja te palvelette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimianne"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "ja hän siunaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leipäsi"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "leipäsi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "vetesi"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "vetesi"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "ja minä poistan"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "taudin"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "keskeltäsi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:37:51.615415310Z",
+  "model": "glm-5.3"
+}

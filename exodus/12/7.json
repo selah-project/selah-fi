@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja he ottakoot verta ja pankoot sitä kahden ovipylvään päälle ja yläparrun päälle, niihin taloihin, joissa he ⟨את⟩ sen syövät.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "Ja he ottakoot"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ta"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "verta"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ja pankoot"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kahden"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "ovipylvään"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "yläparrun"
+    },
+    {
+      "surface": "על",
+      "gloss": "pii-"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "niihin taloihin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joissa"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "he syövät"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sen",
+      "marks": "sen"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "niissä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:33:02.850006131Z",
+  "model": "glm-5.3"
+}

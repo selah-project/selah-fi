@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 48:14",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 48,
+  "translation": "Kokoutukaa kaikki te ja kuulkaa: kuka heistä julisti ⟨את⟩ nämä? Jahve rakastaa häntä; hän toteuttaa tahtonsa Babylonia kohtaan, ja hänen käsivartensa kasdealaisia vastaan.",
+  "tokens": [
+    {
+      "surface": "הקבצו",
+      "gloss": "kokoutukaa"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "kaikki te"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "ja kuulkaa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "heistä"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "julisti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "näitä"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "rakastaa häntä"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hän tekee"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "tahtonsa"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "Babylonia kohtaan"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "ja hänen käsivartensa"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "kasdealaisia vastaan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:16:37.820410409Z",
+  "model": "glm-5.3"
+}

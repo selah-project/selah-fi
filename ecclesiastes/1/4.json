@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Sukupolvi menee, ja sukupolvi tulee, ja maa seisoo iäti.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Sukupolvi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "menee"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ja sukupolvi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tulee"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ja maa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iäti"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "seisoo"
+    }
+  ],
+  "timestamp": "2026-09-07T04:05:52.755355855Z",
+  "model": "glm-5.3"
+}

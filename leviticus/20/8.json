@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja noudattakaa ⟨את⟩ säädökseni ja tehkää ⟨את⟩ ne: minä ⟨olen⟩ Jahve, joka teidät pyhitän.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ja noudattakaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "säädökseni"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "säädökseni"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ja tehkää"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ne"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "joka teidät pyhitän"
+    }
+  ],
+  "timestamp": "2026-09-06T21:56:51.321455365Z",
+  "model": "glm-5.3"
+}

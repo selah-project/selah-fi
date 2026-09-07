@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja Sarah kielsi sanoen: ”En minä nauranut” — sillä hän pelkäsi. Ja hän sanoi: ”Ei, vaan sinä nauroit.”",
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "Ja kielsi"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "minä nauranut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "hän pelkäsi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vaan"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "sinä nauroit"
+    }
+  ],
+  "timestamp": "2026-09-06T21:10:40.884867111Z",
+  "model": "glm-5.3"
+}

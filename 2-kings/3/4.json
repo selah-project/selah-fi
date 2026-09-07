@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja Mesha, Moabin kuningas, oli lampaankasvattaja, ja hän toi Israelin kuninkaalle sata tuhatta karitsaa ja sata tuhatta oinasta, villa.",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "Ja Mesha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "lampaankasvattaja"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "ja hän toi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuninkaalle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sata"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhatta"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "karitsaa"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ja sata"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhatta"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "oinasta"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "villa"
+    }
+  ],
+  "timestamp": "2026-09-07T05:59:15.044235814Z",
+  "model": "glm-5.3"
+}

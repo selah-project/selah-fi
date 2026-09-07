@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 120,
+  "translation": "Sankarin terävät nuolet, niin myös retamikivien hiilet.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "nuolet"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "sankarin"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "terävät"
+    },
+    {
+      "surface": "עם",
+      "gloss": "niin myös"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "hiilet"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "retamikivien"
+    }
+  ],
+  "timestamp": "2026-09-07T02:48:20.400404665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 22:11",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja kohen, jos hän ostaa nefeshin, ostoksen hopeallaan, hän saa syödä siitä; ja hänen talossaan syntynyt — he syövät hänen leivästään.",
+  "tokens": [
+    {
+      "surface": "וכהן",
+      "gloss": "Ja kohen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jos"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "ostaa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefeshin"
+    },
+    {
+      "surface": "קנין",
+      "gloss": "ostoksen"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "hopeallaan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "saa syödä"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siitä"
+    },
+    {
+      "surface": "ויליד",
+      "gloss": "ja syntynyt"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hänen talossaan"
+    },
+    {
+      "surface": "הם",
+      "gloss": "he"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "syövät"
+    },
+    {
+      "surface": "בלחמו",
+      "gloss": "hänen leivästään"
+    }
+  ],
+  "timestamp": "2026-09-06T21:57:20.034962602Z",
+  "model": "glm-5.3"
+}

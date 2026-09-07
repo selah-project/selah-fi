@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "ja ⟨את⟩ Poratan ⟨את⟩ Adaljan ja ⟨את⟩ Aridatan",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Poratan"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "Poratan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Adaljan"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "Adaljan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Aridatan"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "Aridatan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:43:31.238049382Z",
+  "model": "glm-5.3"
+}

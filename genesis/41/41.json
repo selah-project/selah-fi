@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 41:41",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 41,
+  "translation": "Ja Paro (farao) sanoi Josefille (Joosef): Katso, minä olen pannut ⟨את⟩ sinut koko Mitsrajimin (Egyptin) maan yli.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…lle"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "katso"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "minä olen pannut"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sinut",
+      "marks": "sinut"
+    },
+    {
+      "surface": "על",
+      "gloss": "yli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-09-06T21:24:06.869402445Z",
+  "model": "glm-5.3"
+}

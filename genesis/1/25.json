@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja teki Elohim ⟨את⟩ maan eläimet lajiensa mukaan ja ⟨את⟩ karjaeläimet lajiensa mukaan ja ⟨את⟩ kaiken maan matelevaiset lajiensa mukaan; ja Elohim näki, että ⟨se⟩ oli hyvä.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ja teki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maan eläimet"
+    },
+    {
+      "surface": "חית",
+      "gloss": "eläimet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "lajiensa mukaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "karjaeläimet"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "karjaeläimet"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "lajiensa mukaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaiken maan matelevaiset"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "matelevaiset"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "maan"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "lajiensa mukaan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ja näki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:04:41.728044971Z",
+  "model": "glm-5.3"
+}

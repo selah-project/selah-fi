@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 4:8",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja ⟨את⟩ kaikki syntiuhrihärän rasvan hän nostaa siitä pois: ⟨את⟩ rasvan, joka peittää sisälmykset, ja ⟨את⟩ kaiken rasvan, joka on sisälmyksien päällä.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki syntiuhrihärän rasvan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "rasvan"
+    },
+    {
+      "surface": "פר",
+      "gloss": "härän"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syntiuhri-"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "hän nostaa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "siitä pois"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rasvan, joka peittää sisälmykset"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "rasvan"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "joka peittää"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "sisälmykset"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaiken rasvan, joka on sisälmyksien päällä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "rasvan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "sisälmyksien"
+    }
+  ],
+  "timestamp": "2026-09-06T21:49:30.919841639Z",
+  "model": "glm-5.3"
+}

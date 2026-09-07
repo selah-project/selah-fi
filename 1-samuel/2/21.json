@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 2:21",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Sillä Jahve muisti ⟨את⟩ Hanan, ja hän tuli raskaaksi ja synnytti kolme poikaa ja kaksi tytärtä; ja nuori Shmuel (Samuel) kasvoi Jahven kanssa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "muisti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hanan"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hanan"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ja tuli raskaaksi"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ja synnytti"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "poikaa"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "ja kaksi"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "tytärtä"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "ja kasvoi"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "nuori"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-06T23:04:28.040074214Z",
+  "model": "glm-5.3"
+}

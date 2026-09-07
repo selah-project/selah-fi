@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 9:9",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "joka tekee Ashin, Kesilin ja Kimahin ja etelän kammiot",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "tekee"
+    },
+    {
+      "surface": "עש",
+      "gloss": "Ash (Otavan tähdistö)"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "Kesil (Orion)"
+    },
+    {
+      "surface": "וכימה",
+      "gloss": "ja Kimah (Seulaset)"
+    },
+    {
+      "surface": "וחדרי",
+      "gloss": "ja kammiot"
+    },
+    {
+      "surface": "תמן",
+      "gloss": "etelän"
+    }
+  ],
+  "timestamp": "2026-09-07T03:26:09.339624509Z",
+  "model": "glm-5.3"
+}

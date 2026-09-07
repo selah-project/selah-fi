@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 3:14",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Jahve tulee tuomiin kansansa vanhimpien ja sen ruhtinasten kanssa; ja te — te olette kuluttaneet viinitarhan, köyhän ryöstö on taloissanne.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "tuomiin"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "tulee"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vanhimpien"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kansansa"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "ja sen ruhtinasten"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ja te"
+    },
+    {
+      "surface": "בערתם",
+      "gloss": "te olette kuluttaneet"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "viinitarhan"
+    },
+    {
+      "surface": "גזלת",
+      "gloss": "ryöstö"
+    },
+    {
+      "surface": "העני",
+      "gloss": "köyhän"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "taloissanne"
+    }
+  ],
+  "timestamp": "2026-09-07T00:02:01.486951906Z",
+  "model": "glm-5.3"
+}

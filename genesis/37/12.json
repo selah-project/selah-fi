@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Ja hänen veljensä menivät kaitsemaan ⟨את⟩ isänsä karjaa Shekemiin ⟨(Sikem)⟩.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "Ja menivät"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hänen veljensä"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "kaitsemaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karjaa"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "karjaa"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "isänsä"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "Shekemiin (Sikem)"
+    }
+  ],
+  "timestamp": "2026-09-06T21:20:16.712435357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Jahve, pelasta kuningas! Vastatkoon meitä se päivänä, jona me huudamme.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "pelasta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "vastatkoon meitä"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sinä päivänä"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "jona me huudamme"
+    }
+  ],
+  "timestamp": "2026-09-07T01:56:45.517237864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Joka rakastaa rahaa, ei tule ravituksi rahalla, ja joka rakastaa runsautta, ⟨ei⟩ tuloa — myös tämä on hevel (turhuus).",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "rakastaa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "rahaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "tule ravituksi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "rahalla"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ja joka"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "rakastaa"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "runsautta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "tuloa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    }
+  ],
+  "timestamp": "2026-09-07T05:57:54.855878308Z",
+  "model": "glm-5.3"
+}

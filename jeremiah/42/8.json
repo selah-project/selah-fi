@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 42:8",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Ja hän kutsui Yohananin (Johanan), Kareahin pojan, ja kaikki sotajoukkojen päälliköt, jotka ⟨את⟩ olivat hänen seurassaan, ja koko kansan, pienimmästä aina suurimpaan.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ja hän kutsui"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yohananin (Johanan)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Kareahin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "päälliköt"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "sotajoukkojen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ olivat hänen seurassaan",
+      "marks": "sotajoukkojen päälliköt"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ja koko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "למקטן",
+      "gloss": "pienimmästä"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "aina"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suurimpaan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:45:26.087648695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 12:17",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Hänen kotinsa vanhimmat nousivat hänen luokseen nostamaan hänet maasta, mutta hän ei suostunut eikä syönyt ⟨את⟩ heidän kanssaan leipää.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "nousivat"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vanhimmat"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hänen kotinsa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hänen luokseen"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "nostamaan hänet"
+    },
+    {
+      "surface": "מן",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mutta ei"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "suostunut"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "syönyt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ heidän kanssaan",
+      "marks": "leipää"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    }
+  ],
+  "timestamp": "2026-09-06T23:24:23.383184179Z",
+  "model": "glm-5.3"
+}

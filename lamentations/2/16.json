@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 2:16",
+  "book": "lamentations",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Avasivat suunsa sinua vastaan kaikki vihollisesi; vihelsivät ja kiristivät hammasta; he sanoivat: 'Nielimme ⟨hänet⟩! Totta, tämä on päivä, jota odotimme — löysimme ⟨sen⟩, näimme ⟨sen⟩.'",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "avasivat"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sinua vastaan"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "suunsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "vihollisesi"
+    },
+    {
+      "surface": "שרקו",
+      "gloss": "vihelsivät"
+    },
+    {
+      "surface": "ויחרקו",
+      "gloss": "ja kiristivät"
+    },
+    {
+      "surface": "שן",
+      "gloss": "hammasta"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "sanoivat"
+    },
+    {
+      "surface": "בלענו",
+      "gloss": "nielimme"
+    },
+    {
+      "surface": "אך",
+      "gloss": "totta"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "היום",
+      "gloss": "on päivä"
+    },
+    {
+      "surface": "שקוינהו",
+      "gloss": "jota odotimme"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "löysimme"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "näimme"
+    }
+  ],
+  "timestamp": "2026-09-07T04:03:19.427736251Z",
+  "model": "glm-5.3"
+}

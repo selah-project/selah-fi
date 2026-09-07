@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Sillä yovel ⟨on⟩ se: pyhä ⟨on⟩ se teille; pellosta te syötte ⟨את⟩ sen sadon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "yovel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhä"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "on"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-sta"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pelto"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "syötte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen sadon"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "sen sadon"
+    }
+  ],
+  "timestamp": "2026-09-06T21:59:59.023084418Z",
+  "model": "glm-5.3"
+}

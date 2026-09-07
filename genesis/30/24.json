@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja hän kutsui ⟨את⟩ hänen nimensä Josef (Joosef) sanoen: Lisätköön Jahve minulle toisen pojan.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "Ja hän kutsui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen nimensä"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hänen nimensä"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "Lisätköön"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "toisen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:16:00.670232884Z",
+  "model": "glm-5.3"
+}

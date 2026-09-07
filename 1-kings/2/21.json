@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja hän sanoi: annettakoon ⟨את⟩ Avishag (Abisag), shunamilainen, veljellesi Adonijahulle vaimoksi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "annettakoon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avishag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Avishag"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "shunamilainen"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "Adonijahulle"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "veljellesi"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "vaimoksi"
+    }
+  ],
+  "timestamp": "2026-09-07T04:23:20.872690404Z",
+  "model": "glm-5.3"
+}

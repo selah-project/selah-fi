@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja tapahtui, kun Shelomo (Salomo) oli saanut valmiiksi ⟨את⟩ Jahven talon ja ⟨את⟩ kuninkaan talon rakentamisen sekä ⟨את⟩ kaiken halun, jonka Shelomo halusi toteuttaa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "kun oli saanut valmiiksi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "rakentaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven talon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kuninkaan talon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaiken halun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "halun"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "halusi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "toteuttaa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:38:15.035804443Z",
+  "model": "glm-5.3"
+}

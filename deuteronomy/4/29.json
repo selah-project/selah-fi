@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 4:29",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja sieltä te etsitte ⟨את⟩ Jahvea, Elohimianne, ja te löydätte hänet, kun etsitte häntä kaikesta sydämestänne ja koko nefeshistanne.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "ja te etsitte"
+    },
+    {
+      "surface": "משם",
+      "gloss": "sieltä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimianne"
+    },
+    {
+      "surface": "ומצאת",
+      "gloss": "ja te löydätte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "etsitte häntä"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaikesta"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "sydämestänne"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ja koko"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nefeshistanne"
+    }
+  ],
+  "timestamp": "2026-09-06T22:25:39.033751486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "ja sydämesi ylpistyy, ja unohdat ⟨את⟩ Jahven, Elohimesi, joka vei sinut ulos Mitsrajimin (Egyptin) maasta, orjuuden talosta",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "ja ylpistyy"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "sydämesi"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "ja unohdat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimesi"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "joka vei sinut ulos"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin (Egyptin)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "talosta"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "orjuuden"
+    }
+  ],
+  "timestamp": "2026-09-06T22:26:49.998405890Z",
+  "model": "glm-5.3"
+}

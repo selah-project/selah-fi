@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja Israelin kuningas sanoi palvelijoilleen: Tiedättekö, että Ramot-Gilad (Ramot Gilead) on meidän, ja me vaikenemme ⟨את⟩ sen ottamasta Aramin kuninkaan kädestä?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "palvelijoilleen (elon suunta: 'älä')"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "palvelijoilleen"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Tiedättekö"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meidän"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ja me"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "vaikenemme"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "ottamasta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sen"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kädestä"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:46:52.034214995Z",
+  "model": "glm-5.3"
+}

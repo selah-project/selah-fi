@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 3:1",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Sillä katso, Adonai, Jahve Sebaot, ottaa Jerushalajimista (Jerusalem) ja Jehudasta (Juuda) pois tuen ja kepin, kaiken leivän tuen ja kaiken veden tuen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "katso"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaot"
+    },
+    {
+      "surface": "מסיר",
+      "gloss": "ottaa pois"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Jerushalajimista"
+    },
+    {
+      "surface": "ומיהודה",
+      "gloss": "ja Jehudasta"
+    },
+    {
+      "surface": "משען",
+      "gloss": "tuen"
+    },
+    {
+      "surface": "ומשענה",
+      "gloss": "ja kepin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "משען",
+      "gloss": "tuen"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leivän"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaiken"
+    },
+    {
+      "surface": "משען",
+      "gloss": "tuen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "veden"
+    }
+  ],
+  "timestamp": "2026-09-07T00:01:11.688635044Z",
+  "model": "glm-5.3"
+}

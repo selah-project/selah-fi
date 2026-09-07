@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-kings 11:34",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Enkä minä ota ⟨את⟩ koko kuningaskuntaa hänen kädestään, sillä ruhtinaaksi minä asetan hänet koko hänen elinpäivikseen, Davidin, palvelijani, tähden — hänet minä valitsin ⟨את⟩ hänet —, joka piti minun käskyni ja minun säädökseni.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Enkä"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "minä ota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko kuningaskunnan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kuningaskunnan"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "hänen kädestään"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ruhtinaaksi"
+    },
+    {
+      "surface": "אשתנו",
+      "gloss": "minä asetan hänet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päivät"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "hänen elämänsä"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "palvelijani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jota"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "minä valitsin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet",
+      "marks": "Davidin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "piti"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "minun käskyni"
+    },
+    {
+      "surface": "וחקתי",
+      "gloss": "ja minun säädökseni"
+    }
+  ],
+  "timestamp": "2026-09-06T23:40:07.967120109Z",
+  "model": "glm-5.3"
+}

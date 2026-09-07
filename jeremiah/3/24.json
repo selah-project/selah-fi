@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 3:24",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja häpeä söi ⟨את⟩ isiemme työn nuoruudestamme lähtien: ⟨את⟩ heidän lampaansa ja ⟨את⟩ heidän karjansa, ⟨את⟩ heidän poikansa ja ⟨את⟩ heidän tyttärensä.",
+  "tokens": [
+    {
+      "surface": "והבשת",
+      "gloss": "Ja häpeä"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "söi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isiemme työn"
+    },
+    {
+      "surface": "יגיע",
+      "gloss": "työn"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "isiemme"
+    },
+    {
+      "surface": "מנעורינו",
+      "gloss": "nuoruudestamme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän lampaansa"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "heidän lampaansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "heidän karjansa"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "heidän karjansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän poikansa"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "heidän poikansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "heidän tyttärensä"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "heidän tyttärensä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:24:59.785027813Z",
+  "model": "glm-5.3"
+}

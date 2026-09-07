@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "ja Moshe lähestyköön yksin Jahvea, eivätkä he lähestykö, eikä kansa nousko hänen kanssaan.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "ja lähestyköön"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yksin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(luo)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "והם",
+      "gloss": "eivätkä he"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "lähestykö"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "eikä kansa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "nousko"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hänen kanssaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:38:36.595693315Z",
+  "model": "glm-5.3"
+}

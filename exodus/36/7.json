@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 36,
+  "translation": "Ja työaine riitti kaikkeen työhön, sen tekemiseen ⟨את⟩, ja jäi yli.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "Ja työaine"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "דים",
+      "gloss": "riittävästi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kaikkeen"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "työhön"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "tekemään"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ sen",
+      "marks": "sen (työn)"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "ja jäi yli"
+    }
+  ],
+  "timestamp": "2026-09-06T21:46:12.478058683Z",
+  "model": "glm-5.3"
+}

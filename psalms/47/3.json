@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 47,
+  "translation": "Sillä Jahve, Elyon ⟨on⟩ peljättävä, suuri kuningas koko maan yli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "peljättävä"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suuren"
+    },
+    {
+      "surface": "על",
+      "gloss": "yli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-07T02:10:19.623547540Z",
+  "model": "glm-5.3"
+}

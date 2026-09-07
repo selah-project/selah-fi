@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 40:27",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ja hän suitsutti sen päällä mausteiden suitsuketta, niin kuin Jahve oli käskenyt ⟨את⟩ Moshea.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "suitsutti"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sen päällä"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "suitsuketta"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "mausteiden"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oli käskenyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshea"
+    }
+  ],
+  "timestamp": "2026-09-06T21:47:05.554319450Z",
+  "model": "glm-5.3"
+}

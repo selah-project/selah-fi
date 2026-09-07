@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 10:15",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja Israelin lapset sanoivat Jahvelle: »Me olemme rikkoneet. Tee sinä meille kaikki, mikä on hyvää sinun silmissäsi; vain pelasta meidät, pyydämme, vielä tämä päivä.»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ja sanoivat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lapset"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "olemme rikkoneet"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tee"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meille"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "hyvää"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "sinun silmissäsi"
+    },
+    {
+      "surface": "אך",
+      "gloss": "vain"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "pelasta meidät"
+    },
+    {
+      "surface": "נא",
+      "gloss": "pyydämme"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tämä päivä"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:56:16.869804572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 14:7",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja he palasivat ja tulivat En-Mishpatiin — se ⟨on⟩ Kadesh — ja he löivät ⟨את⟩ koko amalekkilaisten maan ja myös ⟨את⟩ amorilaiset, jotka asuivat Hatsetson-Tamarissa.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ja he palasivat"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ja tulivat"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "עין",
+      "gloss": "En-"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "Mishpatiin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ja he löivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko amalekkilaisten maan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "maan"
+    },
+    {
+      "surface": "העמלקי",
+      "gloss": "amalekkilaisten"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja myös"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amorilaiset"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "amorilaiset"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "jotka asuivat"
+    },
+    {
+      "surface": "בחצצן",
+      "gloss": "Hatsetson-"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamarissa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:09:08.372274757Z",
+  "model": "glm-5.3"
+}

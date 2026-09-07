@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 16:3",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Älä syö sen kanssa hapatettua; seitsemän päivää syö sen kanssa matsota, köyhyyden leipää, sillä kiireellä lähdit maasta Mitsrajimista, jotta muistaisit ⟨את⟩ päivän, jona lähdit maasta Mitsrajimista, kaikkina elämäsi päivinä.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "syö"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sen kanssa"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "hapatettua"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seitsemän"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivää"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "syö"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sen kanssa"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "matsota"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    },
+    {
+      "surface": "עני",
+      "gloss": "köyhyyden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "kiireellä"
+    },
+    {
+      "surface": "יצאת",
+      "gloss": "lähdit"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimista"
+    },
+    {
+      "surface": "למען",
+      "gloss": "jotta"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "muistaisit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "päivän"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivän"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "jona lähdit"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimista"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkina"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päivinä"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "elämäsi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:30:29.235379372Z",
+  "model": "glm-5.3"
+}

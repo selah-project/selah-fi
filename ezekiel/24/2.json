@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 24:2",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ihmisen poika, kirjoita itsellesi ⟨את⟩ nimen tästä päivästä, ⟨את⟩ juuri tämän päivän: Babylonin kuningas asettui Jerushalajimia ⟨vastaan⟩ juuri tänä päivänä.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Ihmisen"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "kirjoita"
+    },
+    {
+      "surface": "לך",
+      "gloss": "itsellesi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nimen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimen"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päivästä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "juuri tämän päivän"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "juuri"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päivän"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "סמך",
+      "gloss": "asettui"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylonin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨vastaan⟩"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimia"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "juuri"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tänä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:04:45.469911458Z",
+  "model": "glm-5.3"
+}

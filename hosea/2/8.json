@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Sen tähden, katso, minä sulen ⟨את⟩ sinun tiesi orjantappuroilla, ja rakennan ⟨את⟩ hänen aidansa, eikä hän löydä polkujaan.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "sen tähden"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "katso, minä"
+    },
+    {
+      "surface": "שך",
+      "gloss": "sulen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinun tiesi"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "sinun tiesi"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "orjantappuroilla"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "ja rakennan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen aidansa"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "aidan"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "ja hänen polkunsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "löydä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:20:33.534101751Z",
+  "model": "glm-5.3"
+}

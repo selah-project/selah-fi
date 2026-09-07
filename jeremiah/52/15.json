@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 52:15",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 52,
+  "translation": "Ja köyhistä kansasta ja ⟨את⟩ kansan jäännöksestä, jotka jäivät kaupunkiin, ja ⟨את⟩ karanneista, jotka olivat karanneet Babelin kuninkaan luo, ja ⟨את⟩ muun joukon jäännöksestä — nämä pakkosiirrätti Nevuzaradan, teurastajien päällikkö.",
+  "tokens": [
+    {
+      "surface": "ומדלות",
+      "gloss": "ja köyhistä"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansasta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kansan jäännöksestä"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "jäännöksestä"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "jotka jäivät"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kaupunkiin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "karanneista"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "karanneista"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "olivat karanneet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babelin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "muun joukon jäännöksestä"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "jäännöksestä"
+    },
+    {
+      "surface": "האמון",
+      "gloss": "muun joukon"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "pakkosiirrätti"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nevuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "päällikkö"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "teurastajien"
+    }
+  ],
+  "timestamp": "2026-09-07T00:51:15.559484837Z",
+  "model": "glm-5.3"
+}

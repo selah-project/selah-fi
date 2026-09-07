@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Mene, puhu Parolle (farao), Mitsrajimin (Egypti) kuninkaalle, että hän päästää ⟨את⟩ Israelin lapset maastaan.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "Mene"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "puhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−lle"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaalle"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "että hän päästää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin lapset"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lapset"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "maastaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:29:22.974867630Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja Ashurin kuningas karkotti ⟨את⟩ Israelin Ashuriin ja asutti heidät Halahiin (Hala) ja Haboriin, Gozanin joen varrelle, ja Median kaupunkeihin.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Ja karkotti"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashurin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "Ashuriin"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "ja asutti"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "Halahiin"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "ja Haboriin"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "joen"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozanin"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "ja kaupunkeihin"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Median"
+    }
+  ],
+  "timestamp": "2026-09-06T23:55:25.222192104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 6:5",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja tapahtui: kun yksi kaatoi parrua, putosi ⟨את⟩ rauta veteen, ja hän huusi ja sanoi: ”Voi, herrani! Ja se ⟨on⟩ lainattu!”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "kaatoi"
+    },
+    {
+      "surface": "הקורה",
+      "gloss": "parrua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "rauta"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "rauta"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "putosi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "veteen"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vesi"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "ja hän huusi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Voi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "herrani"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ja se"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "lainattu"
+    }
+  ],
+  "timestamp": "2026-09-06T23:48:24.245196736Z",
+  "model": "glm-5.3"
+}

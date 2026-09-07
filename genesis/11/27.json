@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja nämä ovat Terachin sukupolvet: Terach siitti ⟨את⟩ Avramin, ⟨את⟩ Nahorin ja ⟨את⟩ Haranin, ja Haran siitti ⟨את⟩ Lotin.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ja nämä"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "sukupolvet"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terachin"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terach"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avramin"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramin (Abram)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahorin"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahorin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Haranin"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haranin"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "ja Haran"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lotin"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lotin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:00.779952191Z",
+  "model": "glm-5.3"
+}

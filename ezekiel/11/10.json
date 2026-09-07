@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Miekkaan te kaadutte; Israelin rajalla minä tuomitsen teidät ⟨את⟩ teidät, ja te tulette tuntemaan, että minä olen Jahve.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "miekkaan"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "te kaadutte"
+    },
+    {
+      "surface": "על",
+      "gloss": "−:lla (rajalla)"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "rajalla"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "minä tuomitsen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät",
+      "marks": "teidät"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ja te tulette tuntemaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-07T00:55:01.775251982Z",
+  "model": "glm-5.3"
+}

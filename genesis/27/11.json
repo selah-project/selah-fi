@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 27:11",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ja Ja'akov sanoi Rivkalle, äidilleen: Katso, Esav, veljeni, on karvainen mies, ja minä olen sileä mies.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-lle"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "äidilleen"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "veljeni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "שער",
+      "gloss": "karvainen"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ja minä"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "sileä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:16:48.064509548Z",
+  "model": "glm-5.3"
+}

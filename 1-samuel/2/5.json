@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 2:5",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Kylläiset ovat palkanneet itsensä leivällä, ja nälkäiset ovat lakannut; hedelmätön on synnyttänyt seitsemän, ja monilapsinen on riutunut.",
+  "tokens": [
+    {
+      "surface": "שבעים",
+      "gloss": "Kylläiset"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "leivällä"
+    },
+    {
+      "surface": "נשכרו",
+      "gloss": "ovat palkanneet itsensä"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "ja nälkäiset"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "ovat lakannut"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "hedelmätön"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "on synnyttänyt"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "seitsemän"
+    },
+    {
+      "surface": "ורבת",
+      "gloss": "ja monilapsinen"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "lapsia"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "on riutunut"
+    }
+  ],
+  "timestamp": "2026-09-06T23:03:56.396642313Z",
+  "model": "glm-5.3"
+}

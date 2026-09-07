@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja hän rakensi ⟨את⟩ kivistä alttarin Jahven nimessä, ja hän teki vallihaudan alttarin ympärille, kahden sea-mitan siemenvetoisen kokoiseksi.",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "Ja rakensi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kivet"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kivet"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nimessä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ja teki"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "vallihaudan"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "kokoiseksi kuin"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "kaksi sea-mittaa"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "siementä"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympärille"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "alttarin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:44:02.369419406Z",
+  "model": "glm-5.3"
+}

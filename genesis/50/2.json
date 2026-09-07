@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 50:2",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 50,
+  "translation": "Ja Josef käski ⟨את⟩ palvelijansa, ⟨את⟩ lääkärit, balsamoimaan ⟨את⟩ isänsä; ja lääkärit balsamoivat ⟨את⟩ Israelin.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ja käski"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palvelijansa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "palvelijansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lääkärit"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "lääkärit"
+    },
+    {
+      "surface": "לחנט",
+      "gloss": "balsamoimaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isänsä"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isänsä"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "ja balsamoivat"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "lääkärit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:28:58.093109685Z",
+  "model": "glm-5.3"
+}

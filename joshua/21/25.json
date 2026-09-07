@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 21:25",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja Menashshehin heimon puolesta osasta ⟨את⟩ Taanakhin ja ⟨את⟩ sen laidanmaat ja ⟨את⟩ Gat-Rimmonin ja ⟨את⟩ sen laidanmaat, kaksi kaupunkia.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "ja puolesta osasta"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "heimon"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashshehin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taanakhin"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Taanakhin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen laidanmaat"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sen laidanmaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Gat-Rimmonin"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimmonin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen laidanmaat"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sen laidanmaat"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kaupunkia"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "kaksi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:48:29.950535006Z",
+  "model": "glm-5.3"
+}

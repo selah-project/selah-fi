@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja hän lähetti lähettiläitä Akhabin (Ahab), Israelin kuninkaan, luo kaupunkiin.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ja hän lähetti"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "lähettiläitä"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akhabin (Ahab)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "kaupunkiin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:44:32.246000331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 1:29",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja kuningas vannoi ja sanoi: Niin totta kuin Jahve elää, joka lunasti ⟨את⟩ nefeshini kaikesta ahdingosta —",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "ja vannoi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "elää"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "lunasti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefeshini"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshini"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kaikesta"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ahdingosta"
+    }
+  ],
+  "timestamp": "2026-09-06T23:32:29.748035533Z",
+  "model": "glm-5.3"
+}

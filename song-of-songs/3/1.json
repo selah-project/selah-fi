@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 3:1",
+  "book": "song-of-songs",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Vuoteeni päällä öisin minä etsin ⟨את⟩ häntä, jota rakastaa Nefeshini (elämävoimani); minä etsin häntä, enkä löytänyt.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "vuoteeni"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "öisin"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "etsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänet"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "jota rakastaa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshini"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "etsin häntä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "löytänyt"
+    }
+  ],
+  "timestamp": "2026-09-07T03:55:21.911761852Z",
+  "model": "glm-5.3"
+}

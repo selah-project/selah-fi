@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 14:24",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja tapahtui aamuvahdin aikana, että Jahve katsoi tulen ja pilven patsaasta Mitsrajimin leiriin, ja hän hämmensi ⟨את⟩ Mitsrajimin leirin.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja tapahtui"
+    },
+    {
+      "surface": "באשמרת",
+      "gloss": "vahdin aikana"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "aamu-"
+    },
+    {
+      "surface": "וישקף",
+      "gloss": "ja katsoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "leiriä"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "patsaasta"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tulen"
+    },
+    {
+      "surface": "וענן",
+      "gloss": "ja pilven"
+    },
+    {
+      "surface": "ויהם",
+      "gloss": "ja hämmensi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajimin leirin"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "leirin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:33:10.415606793Z",
+  "model": "glm-5.3"
+}

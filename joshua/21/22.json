@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 21:22",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "ja ⟨את⟩ Kivtsajimin ja ⟨את⟩ sen laidasmaat, ja ⟨את⟩ Beit-Horonin (Bet-Horon) ja ⟨את⟩ sen laidasmaat — kaupunkeja neljä.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Kivtsajimin"
+    },
+    {
+      "surface": "קבצים",
+      "gloss": "Kivtsajimin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "laidasmaat"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sen laidasmaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Beit-Horonin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "-Horonin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "laidasmaat"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sen laidasmaat"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kaupunkeja"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "neljä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:47:51.192478669Z",
+  "model": "glm-5.3"
+}

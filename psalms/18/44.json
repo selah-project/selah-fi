@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 18:44",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Sinä pelastat minut kansan riidoista, sinä asetat minut kansakuntien pääksi; kansa, jota en tuntenut, palvelee minua.",
+  "tokens": [
+    {
+      "surface": "תפלטני",
+      "gloss": "Sinä pelastat minut"
+    },
+    {
+      "surface": "מריבי",
+      "gloss": "riidoista"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "sinä asetat minut"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "pääksi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kansakuntien"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "minä tuntenut"
+    },
+    {
+      "surface": "יעבדוני",
+      "gloss": "palvelee minua"
+    }
+  ],
+  "timestamp": "2026-09-07T01:58:04.505134782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Lähetäkää karitsa maan hallitsijalle, Selasta autiomaahan, tyttären Tsijonin vuorelle.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "Lähetäkää"
+    },
+    {
+      "surface": "כר",
+      "gloss": "karitsa"
+    },
+    {
+      "surface": "משל",
+      "gloss": "hallitsijalle"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "Selasta"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "autiomaahan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "הר",
+      "gloss": "vuorelle"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tyttären"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijonin"
+    }
+  ],
+  "timestamp": "2026-09-07T00:06:27.701301556Z",
+  "model": "glm-5.3"
+}

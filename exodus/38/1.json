@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 38,
+  "translation": "Ja hän teki ⟨את⟩ polttouhrialttarin akasiapuusta: viisi kyynärää sen pituus ja viisi kyynärää sen leveys, neliskanttina, ja kolme kyynärää sen korkeus.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ja hän teki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "polttouhrialttarin"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alttari"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "polttouhri"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "puusta"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "viisi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "sen pituus"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ja viisi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "sen leveys"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "neliskanttina"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ja kolme"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "sen korkeus"
+    }
+  ],
+  "timestamp": "2026-09-06T21:45:53.782287139Z",
+  "model": "glm-5.3"
+}

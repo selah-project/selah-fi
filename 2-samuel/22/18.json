@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 22:18",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Hän pelasti minut vihollisistani, väkevistä, minua vihaavista, sillä ne olivat minua väkevämmät.",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "pelasti minut"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "vihollisistani"
+    },
+    {
+      "surface": "עז",
+      "gloss": "väkevistä"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "minua vihaavista"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "ne olivat väkevät"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minua ... verraten"
+    }
+  ],
+  "timestamp": "2026-09-06T23:30:45.364194448Z",
+  "model": "glm-5.3"
+}

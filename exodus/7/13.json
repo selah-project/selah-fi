@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 7:13",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja Paron sydän voimistui, eikä hän kuunnellut heitä, niin kuin Jahve oli puhunut.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Ja voimistui"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sydän"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kuunnellut"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "heitä"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oli puhunut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-06T21:30:35.215416579Z",
+  "model": "glm-5.3"
+}

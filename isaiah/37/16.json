@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 37:16",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Jahve Sebaot, Israelin Elohim, joka istut kerubien ⟨päällä⟩, sinä ⟨olet⟩ Elohim, yksin sinä, kaikille maan valtakunnille; sinä teit ⟨את⟩ taivaan ja ⟨את⟩ maan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "istut"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerubien"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨se⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "yksin sinä"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kaikille"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "valtakunnille"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "teit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taivaan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "maan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-07T06:29:32.153625868Z",
+  "model": "glm-5.3"
+}

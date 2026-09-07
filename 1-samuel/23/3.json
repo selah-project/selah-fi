@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 23:3",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja Davidin miehet sanoivat hänelle: ”Katso, me täällä Jehudassa (Juudassa) pelkäämme — ja vielä: jos me menemme Ke'ilaan, pelistiläisten rivistöjä vastaan!”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ja sanoivat"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "me"
+    },
+    {
+      "surface": "פה",
+      "gloss": "täällä"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Jehudassa"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "pelkäämme"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ja vielä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jos"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "menemme"
+    },
+    {
+      "surface": "קעלה",
+      "gloss": "Ke'ilaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vastaan"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "rivistöjä"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelistiläisten"
+    }
+  ],
+  "timestamp": "2026-09-06T23:15:00.622100973Z",
+  "model": "glm-5.3"
+}

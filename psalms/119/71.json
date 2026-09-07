@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Hyvä minulle, että minä kuritettiin — jotta oppisin sinun säädöksesi.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "hyvä"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "minä kuritettiin"
+    },
+    {
+      "surface": "למען",
+      "gloss": "jotta"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "oppisin"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "sinun säädöksesi"
+    }
+  ],
+  "timestamp": "2026-09-07T04:33:22.753292996Z",
+  "model": "glm-5.3"
+}

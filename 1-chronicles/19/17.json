@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 19:17",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Kun se ilmoitettiin Davidille, kokosi hän ⟨את⟩ koko Israelin ja ylitti Jordanin ja tuli heidän luokseen ja järjestäytyi heitä vastaan; ja kun David oli järjestäytynyt taisteluun Aramia (Syyria) vastaan, he taistelivat häntä vastaan.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ilmoitettiin"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Davidille"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "kokosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko Israelin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ylitti"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanin"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "heidän luokseen"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "järjestäytyi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "heitä vastaan"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "järjestäytyi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "kohtaamaan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramia"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "taistelu"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "he taistelivat"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "häntä vastaan"
+    }
+  ],
+  "timestamp": "2026-09-07T05:22:19.251304391Z",
+  "model": "glm-5.3"
+}

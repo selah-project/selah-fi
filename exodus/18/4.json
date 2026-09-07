@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja toisen nimi oli Eliezer, sillä isäni Elohim ⟨oli⟩ avukseni, ja hän pelasti minut Paron (farao) miekasta.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Ja nimi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "toisen"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eliezer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "isäni"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "avukseni"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "ja pelasti minut"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "miekasta"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    }
+  ],
+  "timestamp": "2026-09-06T21:36:46.404410884Z",
+  "model": "glm-5.3"
+}

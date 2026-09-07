@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 15:5",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Vain jos totisesti kuuntelet Jahven, Elohimisi, ääntä, noudattaaksesi ja tehdäksesi ⟨את⟩ koko tämän käskyn, jonka minä käsken sinulle tänään —",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Vain"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "totisesti"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "kuuntelet"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ääntä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimisi"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "noudattaaksesi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "tekemään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko tämän käskyn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "käskyn"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "käsken"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tänään"
+    }
+  ],
+  "timestamp": "2026-09-06T22:30:11.932450435Z",
+  "model": "glm-5.3"
+}

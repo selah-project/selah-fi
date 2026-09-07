@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 105,
+  "translation": "Te Avrahamin (Aabraham) siementä, hänen palvelijansa, Ja'akovin (Jaakob) lapsia, hänen valittujaan.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "siementä"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamin"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "hänen palvelijansa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lapsia"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akovin"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "hänen valittujaan"
+    }
+  ],
+  "timestamp": "2026-09-07T02:38:28.654399905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Minä vanhurskaudessa näen sinun kasvosi, minä kyllästyn herätessäni sinun hahmosi kaltaisuudesta.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Minä"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "vanhurskaudessa"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "näen"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sinun kasvosi"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "minä kyllästyn"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "herätessäni"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "sinun hahmosi kaltaisuudesta"
+    }
+  ],
+  "timestamp": "2026-09-07T01:54:49.621728694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Käteenni luovutan henkeni; sinä olet lunastanut ⟨את⟩ minut, Jahve, El totuuden.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "Käteenni"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "luovutan"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "henkeni"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "sinä olet lunastanut"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "minut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "totuuden"
+    }
+  ],
+  "timestamp": "2026-09-07T02:02:15.266342386Z",
+  "model": "glm-5.3"
+}

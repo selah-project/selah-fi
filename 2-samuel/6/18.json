@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 6:18",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Kun David oli saanut päätökseen polttouhrien ja rauhanuhrien uhraamisen, hän siunasi ⟨את⟩ kansan Jahve Sebaotin nimessä.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "ja kun … oli saanut päätökseen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "uhraamisesta"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "polttouhrin"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "ja rauhanuhrien"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "siunasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nimessä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaotin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:22:09.042178638Z",
+  "model": "glm-5.3"
+}

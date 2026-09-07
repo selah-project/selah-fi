@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "ja hän antakoon sinulle ⟨את⟩ Avrahamin (Aabrahamin) siunauksen, sinulle ja sinun siemenellesi ⟨את⟩ kanssasi, periäksesi ⟨את⟩ maan majapaikkojasi, jonka Elohim antoi Avrahamille.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ja antakoon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siunauksen"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "siunauksen"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "ja sinun siemenellesi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kanssasi"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "periäksesi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "majapaikkojasi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "antoi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahamille"
+    }
+  ],
+  "timestamp": "2026-09-06T21:17:37.262605429Z",
+  "model": "glm-5.3"
+}

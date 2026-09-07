@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 101,
+  "translation": "Silmäni ⟨ovat⟩ maan uskollisten ⟨kohdalla⟩, asuakseen kanssani; joka vaellaa täydellisessä tiessä, hän palvelkaa minua.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "silmäni"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "uskollisten"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "asuakseen"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "kanssani"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "vaeltava"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tiessä"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "täydellisessä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "palvelkaa minua"
+    }
+  ],
+  "timestamp": "2026-09-07T02:37:09.419478616Z",
+  "model": "glm-5.3"
+}

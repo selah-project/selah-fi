@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja tapahtui, kun kuningaskunta oli vahvistunut hänen varassaan, että hän surmasi ⟨את⟩ palvelijansa, ne jotka olivat surmanneet ⟨את⟩ kuninkaan, hänen isänsä.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja tapahtui"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kun"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "oli vahvistunut"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kuningaskunta"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hänen varassaan"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "että hän surmasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palvelijansa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "palvelijansa"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "ne jotka surmasivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuninkaan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hänen isänsä"
+    }
+  ],
+  "timestamp": "2026-09-07T05:45:22.026775446Z",
+  "model": "glm-5.3"
+}

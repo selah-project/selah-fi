@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja juutalaiset ottivat vastaan ⟨את⟩ sen, mihin he olivat ryhtyneet tekemään, ja ⟨את⟩ sen, minkä Mordehai oli kirjoittanut heille.",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "Ja ottivat vastaan"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "juutalaiset"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mihin"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "olivat ryhtyneet"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "tekemään"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minkä"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "oli kirjoittanut"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehai"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "heille"
+    }
+  ],
+  "timestamp": "2026-09-07T04:44:01.682478410Z",
+  "model": "glm-5.3"
+}

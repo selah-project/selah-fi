@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "ja ⟨את⟩ koko Naftalin ja ⟨את⟩ Efraimin maan ja Menashen, ja ⟨את⟩ koko Jehudan maan, viimeistä merta myöten;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "koko Naftalin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftalin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Efraimin maan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimin"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "ja Menashen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "koko Jehudan maan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "myöten"
+    },
+    {
+      "surface": "הים",
+      "gloss": "merta"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "viimeistä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:38:46.442081711Z",
+  "model": "glm-5.3"
+}

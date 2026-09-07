@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja tapahtui kahdeksantena päivänä: Moshe (Mooses) kutsui Aharonin (Aaron) ja hänen poikansa ja Israelin vanhimmat.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "kahdeksantena"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kutsui"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharonin"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ja hänen poikansa"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "ja vanhimmat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-07T06:31:53.888933285Z",
+  "model": "glm-5.3"
+}

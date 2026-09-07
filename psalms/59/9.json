@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 59,
+  "translation": "Mutta sinä, Jahve, naurat heille, pilkkaat kaikkia kansakuntia.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Mutta sinä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "naurat"
+    },
+    {
+      "surface": "למו",
+      "gloss": "heille"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "pilkkaat"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kaikkia"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kansakuntia"
+    }
+  ],
+  "timestamp": "2026-09-07T02:15:54.006728354Z",
+  "model": "glm-5.3"
+}

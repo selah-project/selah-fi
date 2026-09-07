@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 13:8",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "kansojen jumalista, jotka ovat ympärillänne, jotka ovat lähellä teitä tai kaukana teistä, maan ääredestä maan ääreen asti.",
+  "tokens": [
+    {
+      "surface": "מאלהי",
+      "gloss": "jumalista"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "kansojen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "ympärillänne"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "lähellä olevat"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "teihin"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "הרחקים",
+      "gloss": "kaukana olevat"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "teistä"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "äärdestä"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ja asti"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "ääreeseen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:30:44.754830148Z",
+  "model": "glm-5.3"
+}

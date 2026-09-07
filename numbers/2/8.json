@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 2:8",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "ja hänen joukkonsa ja lasketut miehensä: seitsemän ja viisituhatta ja neljäsataa.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ja hänen joukkonsa"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "ja hänen laskettunsa"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "seitsemän"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ja viisikymmentä"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhatta"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ja neljä"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sataa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:02:28.749237610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "sillä paikassa, jonne he karkoittivat ⟨את⟩ ⟨אתו⟩ hänet, siellä hän kuolee, eikä hän näe ⟨את⟩ tätä maata enää.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "paikassa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonne"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "he karkoittivat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "marks": "hänet"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "hän kuolee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "tätä maata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maata"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tätä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "hän näe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enää"
+    }
+  ],
+  "timestamp": "2026-09-07T07:21:08.608295380Z",
+  "model": "glm-5.3"
+}

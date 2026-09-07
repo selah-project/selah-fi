@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 71,
+  "translation": "Tulkoon suuni täyteen ylistystäsi, koko päivän kirkkauttasi.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "Tulkoon täyteen"
+    },
+    {
+      "surface": "פי",
+      "gloss": "suuni"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ylistystäsi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päivän"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "kirkkauttasi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:18:28.289409787Z",
+  "model": "glm-5.3"
+}

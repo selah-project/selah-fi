@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Kaikki, jolla ei ole eväkkeitä eikä suomusia vesissä, inhottava se on teille.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jolla"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siltä"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "eväkkeitä"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "eikä suomusia"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vesissä"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "inhottava"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    }
+  ],
+  "timestamp": "2026-09-06T21:50:32.900545184Z",
+  "model": "glm-5.3"
+}

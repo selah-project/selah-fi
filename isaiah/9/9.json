@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 9:9",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Tiilet ovat pudonneet, mutta hakatusta kivestä rakentakamme; sykomoorit on kaadettu, mutta setrejä pankoot tilalle.",
+  "tokens": [
+    {
+      "surface": "לבנים",
+      "gloss": "tiilet"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ovat pudonneet"
+    },
+    {
+      "surface": "וגזית",
+      "gloss": "mutta hakattu kivi"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "rakentakamme"
+    },
+    {
+      "surface": "שקמים",
+      "gloss": "sykomoorit"
+    },
+    {
+      "surface": "גדעו",
+      "gloss": "on kaadettu"
+    },
+    {
+      "surface": "וארזים",
+      "gloss": "mutta setrit"
+    },
+    {
+      "surface": "נחליף",
+      "gloss": "vaihtakoot"
+    }
+  ],
+  "timestamp": "2026-09-07T04:25:22.492996760Z",
+  "model": "glm-5.3"
+}

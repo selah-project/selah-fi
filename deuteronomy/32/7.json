@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 32:7",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Muista ikiaikojen päiviä, ymmärrä sukupolvien vuodet, sukupolvi sukupolvelta; kysy isältäsi, ja hän julistaa sinulle, vanhimmiltasi, ja he sanovat sinulle.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Muista"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "päiviä"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ikiaikojen"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "ymmärrä"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "vuodet"
+    },
+    {
+      "surface": "דור",
+      "gloss": "sukupolvien"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ja sukupolvi"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "kysy"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "isältäsi"
+    },
+    {
+      "surface": "ויגדך",
+      "gloss": "ja hän julistaa sinulle"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "vanhimmiltasi"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ja he sanovat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    }
+  ],
+  "timestamp": "2026-09-07T04:16:09.440381256Z",
+  "model": "glm-5.3"
+}

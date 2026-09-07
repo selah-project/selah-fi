@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 30:10",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja lesken ja erotetun lupaus — kaikki, minkä hän sitoi nefeshensa päälle, pysyy voimassa hänen päällään.",
+  "tokens": [
+    {
+      "surface": "ונדר",
+      "gloss": "Ja ... lupaus"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "lesken"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "ja erotetun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minkä"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "hän sitoi"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "nefeshensa"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "pysyy voimassa"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "hänen päällään"
+    }
+  ],
+  "timestamp": "2026-09-06T22:19:38.217140113Z",
+  "model": "glm-5.3"
+}

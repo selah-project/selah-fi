@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 106,
+  "translation": "Ja Jahven viha syttyi hänen kansaansa vastaan, ja hän kauhistui ⟨את⟩ perintöään.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "syttyi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "viha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "hänen kansaansa vastaan"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "ja hän kauhistui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perintöään"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "perintöään"
+    }
+  ],
+  "timestamp": "2026-09-07T02:38:22.813637036Z",
+  "model": "glm-5.3"
+}

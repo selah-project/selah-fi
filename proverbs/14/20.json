@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 14:20",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Vielä omaa ystäväänsäkin vihaa köyhä, mutta rikkaita rakastavia on monia.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "vielä"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "omaa ystäväänsä"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "vihaa"
+    },
+    {
+      "surface": "רש",
+      "gloss": "köyhä"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "mutta rakastavia"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "rikasta"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "onia"
+    }
+  ],
+  "timestamp": "2026-09-07T03:07:57.512919585Z",
+  "model": "glm-5.3"
+}

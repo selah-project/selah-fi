@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja hän katselmoi ⟨את⟩ maakuntien päämiehien nuoret, ja heitä oli kaksisataakolmekymmentäkaksi; ja heidän jälkeensä hän katselmoi ⟨את⟩ koko kansan, kaikki Israelin pojat, seitsemäntuhatta.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Ja hän katselmoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maakuntien päämiehien nuoret"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "nuoret"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "päämiehien"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "maakuntien"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ja heitä oli"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "kaksisataa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ja kolmekymmentä"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "ja heidän jälkeensä"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "katselmoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko kansan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seitsemän"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tuhatta"
+    }
+  ],
+  "timestamp": "2026-09-06T23:44:44.941561812Z",
+  "model": "glm-5.3"
+}

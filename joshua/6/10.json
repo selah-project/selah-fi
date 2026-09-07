@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 6:10",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja ⟨את⟩ kansan Jehoshua oli käskenyt sanoen: Älkää huutako, älkääkä antako ⟨את⟩ ääntänne kuulua, älköön suustanne lähteko sana, siihen päivään asti, jona sanon teille: Huudakaa! Silloin te huudatte.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kansan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oli käskenyt"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "huutako"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "תשמיעו",
+      "gloss": "antako kuulua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ääntänne"
+    },
+    {
+      "surface": "קולכם",
+      "gloss": "ääntänne"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lähteköön"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "suustanne"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sana"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivään"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "sanon"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Huudakaa"
+    },
+    {
+      "surface": "והריעתם",
+      "gloss": "Silloin te huudatte"
+    }
+  ],
+  "timestamp": "2026-09-07T04:16:32.733420924Z",
+  "model": "glm-5.3"
+}

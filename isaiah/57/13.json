@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 57:13",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 57,
+  "translation": "Kun huudat, pelastakoot sinut kokoontumisesi, ja tuuli kantaa ⟨את⟩ ne kaikki pois, tyhjyys vie ne; mutta joka minuun turvaa, hän perii maan ja omistaa pyhän vuoreni.",
+  "tokens": [
+    {
+      "surface": "בזעקך",
+      "gloss": "kun huudat"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "pelastakoon sinut"
+    },
+    {
+      "surface": "קבוציך",
+      "gloss": "kokoontumisesi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "ne kaikki"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ne kaikki"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "kantaa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "tuuli"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "vie"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "tyhjyys"
+    },
+    {
+      "surface": "והחוסה",
+      "gloss": "ja joka turvaa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "minuun"
+    },
+    {
+      "surface": "ינחל",
+      "gloss": "perii"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "ja omistaa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "vuoren"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "pyhyyteni"
+    }
+  ],
+  "timestamp": "2026-09-07T00:21:52.663471573Z",
+  "model": "glm-5.3"
+}

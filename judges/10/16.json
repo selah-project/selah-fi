@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja he poistivat ⟨את⟩ vieraiden jumalien ⟨jumalat⟩ keskuudestaan ja palvelivat ⟨את⟩ Jahvea; ja hänen nefeshinsa kävi lyhyeksi Israelin vaivasta.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "Ja he poistivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vieraiden jumalien"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "jumalien"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "vieraiden"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "keskuudestaan"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ja palvelivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "ja kävi lyhyeksi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "hänen nefeshinsa"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "vaivasta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:56:16.870835445Z",
+  "model": "glm-5.3"
+}

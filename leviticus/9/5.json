@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 9:5",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja he toivat ⟨את⟩ sen, minkä Moshe (Mooses) oli käskenyt, ilmestysmajan kasvojen eteen, ja koko seurakunta lähestyi ja seisoi Jahven edessä.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "toivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen, minkä Moshe oli käskenyt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minkä"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "käskenyt"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kasvojen"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "majan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ilmestyksen"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "lähestyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "seurakunta"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "seisoivat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-06T21:51:23.838652891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 8:5",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja vedet vähenivät yhä vähenevöiksi kymmenenteen kuukauteen asti; kymmenennessä kuussa, kuukauden ensimmäisenä päivänä, näkyivät vuorten huiput.",
+  "tokens": [
+    {
+      "surface": "והמים",
+      "gloss": "Ja vedet"
+    },
+    {
+      "surface": "היו",
+      "gloss": "olivat"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "yhä menevöiksi"
+    },
+    {
+      "surface": "וחסור",
+      "gloss": "ja vähenevöiksi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "kuukauteen"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "kymmenenteen"
+    },
+    {
+      "surface": "בעשירי",
+      "gloss": "kymmenennessä kuussa"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ensimmäisenä päivänä"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "kuukauden"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "näkyivät"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "huiput"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "vuorten"
+    }
+  ],
+  "timestamp": "2026-09-06T21:06:35.627824345Z",
+  "model": "glm-5.3"
+}

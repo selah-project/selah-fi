@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Kerran minä puhuin, enkä vastaa; ja kahdesti, enkä lisää.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Kerran"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "minä puhuin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "vastaan"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ja kahdesti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "lisää"
+    }
+  ],
+  "timestamp": "2026-09-07T03:50:17.190068145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja teuraat ⟨את⟩ härän Jahven edessä, kokouksen teltan ovella.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "Ja teuraat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "härän"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "härän"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ovella"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kokouksen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:40:54.532236122Z",
+  "model": "glm-5.3"
+}

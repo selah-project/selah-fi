@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja hän rakensi ⟨את⟩ talon ja sai sen valmiiksi, ja hän verhoi ⟨את⟩ talon hirsillä ja riveillä setripuuta.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ja hän rakensi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "talon"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "ja sai sen valmiiksi"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "ja hän verhoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "talon"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "hirsillä"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "ja riveillä"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "setripuusta"
+    }
+  ],
+  "timestamp": "2026-09-06T23:34:36.054366665Z",
+  "model": "glm-5.3"
+}

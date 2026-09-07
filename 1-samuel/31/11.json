@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Ja Jabesh Giladin asukkaat kuulivat ⟨את⟩ sen, mitä Pelishtim olivat tehneet Shaulille.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "kuulivat"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "siitä"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "asukkaat"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Jabeshin"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen, mitä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "olivat tehneet"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaulille"
+    }
+  ],
+  "timestamp": "2026-09-06T23:19:09.004553944Z",
+  "model": "glm-5.3"
+}

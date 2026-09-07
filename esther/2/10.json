@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ester ei ilmoittanut ⟨את⟩ kansaansa eikä ⟨את⟩ sukuaan, sillä Mordechai oli käskenyt häntä, ettei hän saisi ilmoittaa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ilmoittanut"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansaansa"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "kansaansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "eikä ⟨את⟩",
+      "marks": "sukuaan"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "sukuaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oli käskenyt"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "häntä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "että"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "saisi ilmoittaa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:41:11.271960151Z",
+  "model": "glm-5.3"
+}

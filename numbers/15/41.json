@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 15:41",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Minä ⟨olen⟩ Jahve, Elohiminne (teidän Jumalanne), joka vein ⟨את⟩ teidät ulos maasta Mitsrajimista (Egyptistä), ollakseni teille Elohimiksi: minä ⟨olen⟩ Jahve, Elohiminne.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "vein ulos"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät",
+      "marks": "את + suffiksi -khem: pronomini 'teidät', ei pelkkä objektimerkki"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimista"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ollakseni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimiksi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminne"
+    }
+  ],
+  "timestamp": "2026-09-06T22:10:44.355428326Z",
+  "model": "glm-5.3"
+}

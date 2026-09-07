@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja tapahtui Shaulin (Saulin) kuoleman jälkeen, että David (Daavid) palasi Amalekin lyömisestä ⟨את⟩ Amalekia vastaan, ja David asui Tsiklagissa kaksi päivää.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "jälkeen"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kuoleman"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulin"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "että David"
+    },
+    {
+      "surface": "שב",
+      "gloss": "palasi"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "lyömisestä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalekia"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "Amalekia"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja asui"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "Tsiklagissa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivää"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kaksi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:20:19.408605036Z",
+  "model": "glm-5.3"
+}

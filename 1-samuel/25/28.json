@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 25:28",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Kanna, rukoilen, palvelijattaresi rikkomus, sillä Jahve tekee varmasti herralleni pysyvän huoneen; sillä Jahven sotia herrani on sotinut, eikä pahaa löydy sinusta kaikkina elinpäivinäsi.",
+  "tokens": [
+    {
+      "surface": "שא",
+      "gloss": "Kanna"
+    },
+    {
+      "surface": "נא",
+      "gloss": "rukoilen"
+    },
+    {
+      "surface": "לפשע",
+      "gloss": "rikkomus"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "palvelijattaresi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tekee varmasti"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tekee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "herralleni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "pysyvän"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "sotia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "herrani"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "on sotinut"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "eikä pahaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "löydy"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinusta"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "kaikkina elinpäivinäsi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:15:53.110158612Z",
+  "model": "glm-5.3"
+}

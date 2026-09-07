@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 3:4",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "ja minä panen nuoret heidän johtajikseen, ja uhmaajat hallitsevat heitä.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ja minä panen"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "nuoret"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "heidän johtajikseen"
+    },
+    {
+      "surface": "ותעלולים",
+      "gloss": "ja uhmaajat"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "hallitsevat"
+    },
+    {
+      "surface": "בם",
+      "gloss": "heitä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:01:11.691160927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Sillä heidän sydämensä miettii väkivaltaa, ja heidän huulensa puhuvat turmiota.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "שד",
+      "gloss": "väkivaltaa"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "miettii"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "heidän sydämensä"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "ja turmiota"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "heidän huulensa"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "puhuvat"
+    }
+  ],
+  "timestamp": "2026-09-07T03:16:09.959139963Z",
+  "model": "glm-5.3"
+}

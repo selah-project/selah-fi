@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Hän kantaa siunauksen ⟨את⟩ Jahvelta ja vanhurskauden ⟨את⟩ pelastuksensa Elohimilta.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "kantaa"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "siunauksen"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ Jahvelta",
+      "marks": "siunauksen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvelta"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ja vanhurskauden"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "Elohimilta"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "pelastuksensa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:00:45.930491522Z",
+  "model": "glm-5.3"
+}

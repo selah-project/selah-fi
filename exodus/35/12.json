@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 35,
+  "translation": "⟨את⟩ arkin ja ⟨את⟩ sen sauvojen, ⟨את⟩ arkin kannen ja ⟨את⟩ esiripun verhon;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkin"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arkin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen sauvojen"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "sen sauvojen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkin kannen"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "arkin kannen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "esiripun verhon"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "verhon"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "esiripun"
+    }
+  ],
+  "timestamp": "2026-09-06T21:42:57.271857770Z",
+  "model": "glm-5.3"
+}

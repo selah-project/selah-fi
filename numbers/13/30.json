@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 13:30",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja Kalev vaikenutti ⟨את⟩ kansan Moshen edessä ja sanoi: ”Nousemme ylös, ja me perimme ⟨את⟩ sen, sillä pystymme siihen.”",
+  "tokens": [
+    {
+      "surface": "ויהס",
+      "gloss": "Ja vaikenutti"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "nouse ylös"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "nousemme"
+    },
+    {
+      "surface": "וירשנו",
+      "gloss": "ja perimme"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ sen",
+      "marks": "sen (maa)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "pystymme"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "siihen"
+    },
+    {
+      "surface": "לה",
+      "gloss": "siihen"
+    }
+  ],
+  "timestamp": "2026-09-06T22:10:07.693614152Z",
+  "model": "glm-5.3"
+}

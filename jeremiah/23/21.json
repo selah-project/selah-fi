@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "En minä lähettänyt ⟨את⟩ profeettoja, ja he juoksivat; en minä puhunut heille, ja he profetoivat.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "En"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "minä lähettänyt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "profeettoja"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "profeettoja"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ja he"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "juoksivat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "minä puhunut"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ja he"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "profetoivat"
+    }
+  ],
+  "timestamp": "2026-09-07T00:34:39.942182271Z",
+  "model": "glm-5.3"
+}

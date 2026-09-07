@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Murskattua kaislaa hän ei särje, ja himmeää pellavankaania hän ei sammuta; totuudessa hän vie oikeuden julki.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "kaislaa"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "murskattua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ישבור",
+      "gloss": "hän särje"
+    },
+    {
+      "surface": "ופשתה",
+      "gloss": "ja pellavankaania"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "himmeää"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יכבנה",
+      "gloss": "hän sammuta"
+    },
+    {
+      "surface": "לאמת",
+      "gloss": "totuudessa"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "hän vie julki"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "oikeuden"
+    }
+  ],
+  "timestamp": "2026-09-07T00:15:37.522928594Z",
+  "model": "glm-5.3"
+}

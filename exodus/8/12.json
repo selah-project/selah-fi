@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja Jahve sanoi Moshelle: Sano Aharonille: Ojenna ⟨את⟩ sauvasi ja lyö ⟨את⟩ maan tomua, ja siitä tulee sääskiä koko Mitsrajimin maassa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-lle"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshelle"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Sano"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-lle"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonille"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Ojenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sauvasi"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "sauvasi"
+    },
+    {
+      "surface": "והך",
+      "gloss": "ja lyö"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maan tomua"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "tomua"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ja siitä tulee"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "sääskiä"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:31:26.715239122Z",
+  "model": "glm-5.3"
+}

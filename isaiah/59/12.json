@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 59:12",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 59,
+  "translation": "Sillä rikosmurteemme ovat lisääntyneet sinun edessäsi, ja syntimme todistavat meitä vastaan; sillä rikosmurteemme ovat ⟨את⟩ kanssamme, ja pahat tekemme me tunnemme ne.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ovat lisääntyneet"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "rikosmurteemme"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "sinun edessäsi"
+    },
+    {
+      "surface": "וחטאותינו",
+      "gloss": "ja syntimme"
+    },
+    {
+      "surface": "ענתה",
+      "gloss": "todistavat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "meitä vastaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "rikosmurteemme"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "kanssamme"
+    },
+    {
+      "surface": "ועונתינו",
+      "gloss": "ja pahat tekemme"
+    },
+    {
+      "surface": "ידענום",
+      "gloss": "me tunnemme ne"
+    }
+  ],
+  "timestamp": "2026-09-07T00:20:24.426496350Z",
+  "model": "glm-5.3"
+}

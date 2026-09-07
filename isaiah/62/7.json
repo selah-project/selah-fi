@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 62:7",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 62,
+  "translation": "älkääkä antako hänelle lepoa, ennen kuin hän perustaa ja ennen kuin hän asettaa ⟨את⟩ Jerushalajimin kiitokseksi maan päällä.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "älkääkä"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "antako"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "lepoa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ennen kuin"
+    },
+    {
+      "surface": "יכונן",
+      "gloss": "hän perustaa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ja ennen kuin"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "hän asettaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerushalajimin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimin"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "kiitokseksi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maan päällä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:21:42.706097398Z",
+  "model": "glm-5.3"
+}

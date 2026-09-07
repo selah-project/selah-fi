@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Sillä ei hän halveksinut eikä kironnut nöyryn ahdistusta, eikä kätkenyt häneltä kasvojaan, ja kun hän huusi hänen puoleensa, hän kuuli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "halveksinut"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "kironnut"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "ahdistusta"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nöyryn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "kätkenyt"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "kasvojaan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "häneltä"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "ja kun hän huusi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänen puoleensa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hän kuuli"
+    }
+  ],
+  "timestamp": "2026-09-07T01:58:32.913916458Z",
+  "model": "glm-5.3"
+}

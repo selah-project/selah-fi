@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja käskin ⟨את⟩ teitä tuolloin ⟨את⟩ kaikki ne asiat, jotka teidän tuli tehdä.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "ja käskin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teitä"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "aikana"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tuolloin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki ne asiat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "asiat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "teidän tuli tehdä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:23:31.400480511Z",
+  "model": "glm-5.3"
+}

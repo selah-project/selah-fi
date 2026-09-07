@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 3:21",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Jotka odottavat kuolemaa, eikä sitä tule, ja kaivavat sitä kätkettyjen ⟨aarteiden⟩ joukosta.",
+  "tokens": [
+    {
+      "surface": "המחכים",
+      "gloss": "jotka odottavat"
+    },
+    {
+      "surface": "למות",
+      "gloss": "kuolemaa"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "eikä sitä tule"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "ja kaivavat sitä"
+    },
+    {
+      "surface": "ממטמונים",
+      "gloss": "kätkettyjen ⟨aarteiden⟩ joukosta"
+    }
+  ],
+  "timestamp": "2026-09-07T03:22:15.688938416Z",
+  "model": "glm-5.3"
+}

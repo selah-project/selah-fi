@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 66,
+  "translation": "Vääryyttä, jos näin sydämessäni, ei Adonai kuulisi.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "vääryyttä"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "näin"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "sydämessäni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "kuulisi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-09-07T02:16:55.861173017Z",
+  "model": "glm-5.3"
+}

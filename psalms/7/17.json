@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Hänen vaivansa palatkoon hänen omaan päähänsä, ja hänen väkivaltansa laskekoon hänen omaan päälakeensa.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "palatkoon"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "hänen vaivansa"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "hänen päähänsä"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja ⟨päälle⟩"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "hänen päälakeensa"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "hänen väkivaltansa"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "laskekoon"
+    }
+  ],
+  "timestamp": "2026-09-07T01:50:40.487620753Z",
+  "model": "glm-5.3"
+}

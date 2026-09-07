@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 6:3",
+  "book": "zechariah",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja kolmannessa vaunussa ⟨olivat⟩ valkoiset hevoset, ja neljännessessä vaunussa kirjavat, voimakkaat hevoset.",
+  "tokens": [
+    {
+      "surface": "ובמרכבה",
+      "gloss": "Ja kolmannessa vaunussa"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "kolmannessa"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "hevoset"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "valkoiset"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "ja neljännessessä vaunussa"
+    },
+    {
+      "surface": "הרבעית",
+      "gloss": "neljännessessä"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "hevoset"
+    },
+    {
+      "surface": "ברדים",
+      "gloss": "kirjavat"
+    },
+    {
+      "surface": "אמצים",
+      "gloss": "voimakkaat"
+    }
+  ],
+  "timestamp": "2026-09-07T01:45:35.875610728Z",
+  "model": "glm-5.3"
+}

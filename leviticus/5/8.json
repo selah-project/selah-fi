@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja hän tuo ⟨את⟩ ne kohenin luo, ja hän tuo esiin ⟨את⟩ sen, joka on synninuhriksi, ensin, ja nypäisee ⟨את⟩ sen pään suoraan niskan tyvestä, eikä erota sitä.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "Ja hän tuo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenin"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ja hän tuo esiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen, joka on synninuhriksi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "synninuhriksi"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "ensin"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "ja hän nypäisee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen pään"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "pään"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "suoraan"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "sen niskan tyvestä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "erota sitä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:50:00.211653789Z",
+  "model": "glm-5.3"
+}

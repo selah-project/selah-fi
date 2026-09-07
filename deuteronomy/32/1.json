@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Kuulkaa, taivaat, ja minä puhun, ja kuulkoon maa suuni sanat.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "Kuulkaa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaat"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ja minä puhun"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "ja kuulkoon"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "פי",
+      "gloss": "suuni"
+    }
+  ],
+  "timestamp": "2026-09-07T05:59:24.618959726Z",
+  "model": "glm-5.3"
+}

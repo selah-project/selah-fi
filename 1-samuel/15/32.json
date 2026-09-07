@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 15:32",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Ja Shmuel sanoi: Tuokaa minulle ⟨את⟩ Agag, Amalekin kuningas. Ja Agag tuli hänen luokseen notkeasti, ja Agag sanoi: Totisesti kuoleman katkeruus on väistynyt.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja ... sanoi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "הגישו",
+      "gloss": "Tuokaa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalekin"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "Ja ... tuli"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänen luokseen"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מעדנת",
+      "gloss": "notkeasti"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ... sanoi"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "Totisesti"
+    },
+    {
+      "surface": "סר",
+      "gloss": "on väistynyt"
+    },
+    {
+      "surface": "מר",
+      "gloss": "katkeruus"
+    },
+    {
+      "surface": "המות",
+      "gloss": "kuoleman"
+    }
+  ],
+  "timestamp": "2026-09-06T23:10:26.227984111Z",
+  "model": "glm-5.3"
+}

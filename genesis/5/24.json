@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja Hanokh vaelsi Elohimin ⟨את⟩ kanssa, eikä häntä enää ollut, sillä Elohim otti ⟨את⟩ hänet.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "vaelsi"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanokh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ kanssa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "eikä häntä enää ollut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "otti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet",
+      "marks": "hänet"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-06T21:06:45.637215569Z",
+  "model": "glm-5.3"
+}

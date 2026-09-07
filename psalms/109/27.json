@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 109,
+  "translation": "Ja he tietävät, että sinun kätesi ⟨on⟩ tämä — sinä, Jahve, teit sen.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Ja he tietävät"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "sinun kätesi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "teit sen"
+    }
+  ],
+  "timestamp": "2026-09-07T02:41:53.906051133Z",
+  "model": "glm-5.3"
+}

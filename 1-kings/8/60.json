@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-kings 8:60",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "jotta kaikki maan kansat tietäisivät, että Jahve ⟨on⟩ Elohim, ei ketään muuta.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "jotta"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tietäisivät"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kansat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": ""
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ketään muuta"
+    }
+  ],
+  "timestamp": "2026-09-06T23:36:56.359941305Z",
+  "model": "glm-5.3"
+}

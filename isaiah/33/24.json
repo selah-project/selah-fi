@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 33:24",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Ei asukas sano: 'Olen sairas'; kansa, joka siinä asuu, on pahkeudestaan anteeksi annettu.",
+  "tokens": [
+    {
+      "surface": "ובל",
+      "gloss": "Ei"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sano"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "asukas"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "Olen sairas"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "joka asuu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "siinä"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "on anteeksi annettu"
+    },
+    {
+      "surface": "עון",
+      "gloss": "pahkeudestaan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:10:17.586001340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja sanansaattaja meni ja tuli ja ilmoitti Davidille (Daavid) ⟨את⟩ kaiken, minkä Joav (Joab) oli häntä käskenyt.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ja … meni"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "sanansaattaja"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ilmoitti"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minkä"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "oli häntä käskenyt"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    }
+  ],
+  "timestamp": "2026-09-06T23:23:29.785623156Z",
+  "model": "glm-5.3"
+}

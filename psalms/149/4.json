@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 149,
+  "translation": "Sillä Jahve iloitsee ⟨omasta⟩ kansastaan, hän kaunistaa nöyriät pelastuksella.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "iloitsee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "kansastaan"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "hän kaunistaa"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "nöyriät"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "pelastuksella"
+    }
+  ],
+  "timestamp": "2026-09-07T02:56:59.024142072Z",
+  "model": "glm-5.3"
+}

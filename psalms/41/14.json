@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 41,
+  "translation": "Siunattu olkoon Jahve, Israelin Elohim, iankaikkisesta iankaikkiseen ⟨asti⟩, aamen ja aamen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Siunattu olkoon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "iankaikkisesta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "iankaikkiseen"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "aamen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "ja aamen"
+    }
+  ],
+  "timestamp": "2026-09-07T04:32:57.015294171Z",
+  "model": "glm-5.3"
+}

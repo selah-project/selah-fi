@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Sillä jumalattomat hukkuvat, ja Jahven viholliset niinkuin oinaiden rasva: he katoavat, savuna he katoavat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jumalattomat"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "hukkuvat"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "ja viholliset"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "niinkuin rasva"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "oinaiden"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "he katoavat"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "savuna"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "he katoavat"
+    }
+  ],
+  "timestamp": "2026-09-07T02:06:40.819133811Z",
+  "model": "glm-5.3"
+}

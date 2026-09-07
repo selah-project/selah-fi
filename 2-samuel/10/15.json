@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 10:15",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja Aram näki, että se oli lyöty Israelin edessä, ja he kokoontuivat yhteen.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "näki"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "oli lyöty"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ja he kokoontuivat"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "yhteen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:23:18.059948334Z",
+  "model": "glm-5.3"
+}

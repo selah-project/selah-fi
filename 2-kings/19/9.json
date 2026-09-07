@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 19:9",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja hän kuuli Tirhakasta (Tirhaka), Kushin kuninkaasta, sanoen: Katso, hän on lähtenyt sotimaan ⟨את⟩ sinua vastaan; ja hän palasi ja lähetti sanansaattajia Hizkiyyahun (Hiskia) luo sanoen:",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ja hän kuuli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuulua"
+    },
+    {
+      "surface": "תרהקה",
+      "gloss": "Tirhakasta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaasta"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kushin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "hän on lähtenyt"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "sotimaan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sinua vastaan",
+      "marks": "sinua"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja hän palasi"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ja lähetti"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "sanansaattajia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyyahun"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:55:22.331745143Z",
+  "model": "glm-5.3"
+}

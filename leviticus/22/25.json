@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 22:25",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja vieraan kädestä älkää tuoko ⟨את⟩ leipää, teidän Elohiminne ⟨leipää⟩, yhdestäkään näistä, sillä niiden turmeltuneisuus on niissä: vika on niissä — eivät ne teille kelpaa.",
+  "tokens": [
+    {
+      "surface": "ומיד",
+      "gloss": "ja kädestä"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "vieras"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "tuoko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leipää"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "teidän Elohiminne"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "yhdestäkään"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "näistä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "niiden turmeltuneisuus"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "on niissä"
+    },
+    {
+      "surface": "מום",
+      "gloss": "vika"
+    },
+    {
+      "surface": "בם",
+      "gloss": "on niissä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "kelpaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    }
+  ],
+  "timestamp": "2026-09-06T21:57:19.795395268Z",
+  "model": "glm-5.3"
+}

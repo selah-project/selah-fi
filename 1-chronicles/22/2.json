@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 22:2",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja David sanoi koota ⟨את⟩ muukalaiset, jotka olivat Israelin maassa, ja hän asetti kivenhakkaajia hakkaamaan hakattuja kiviä rakentamaan Elohimin huone.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכנוס",
+      "gloss": "koota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muukalaiset"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "muukalaiset"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ja hän asetti"
+    },
+    {
+      "surface": "חצבים",
+      "gloss": "kivenhakkaajia"
+    },
+    {
+      "surface": "לחצוב",
+      "gloss": "hakkaamaan"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "kiviä"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "hakattuja"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "rakentamaan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huone"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:24:35.674103389Z",
+  "model": "glm-5.3"
+}

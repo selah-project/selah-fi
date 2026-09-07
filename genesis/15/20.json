@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 15:20",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "ja ⟨את⟩ heettiläiset ja ⟨את⟩ perisiläiset ja ⟨את⟩ refiläiset,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "heettiläiset"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "heettiläiset"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "perisiläiset"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "perisiläiset"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "refiläiset"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "refiläiset"
+    }
+  ],
+  "timestamp": "2026-09-06T21:11:11.833808040Z",
+  "model": "glm-5.3"
+}

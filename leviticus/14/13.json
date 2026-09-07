@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 14:13",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja hän teurastaa ⟨את⟩ karitsan siinä paikassa, missä teurastetaan ⟨את⟩ syntiuhri ja ⟨את⟩ polttouhri, pyhässä paikassa; sillä niin kuin syntiuhri, asham-uhri ⟨on⟩ kohenin ⟨omaisuutta⟩: qodesh qodashim ⟨se on⟩.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "Ja hän teurastaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karitsan"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "karitsan"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "siinä paikassa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "missä"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "teurastetaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syntiuhri"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syntiuhri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "polttouhri"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "polttouhri"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "paikassa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pyhän"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "niin kuin syntiuhri"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "asham-uhri"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kohenille"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qodesh"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "qodashim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se ⟨on⟩"
+    }
+  ],
+  "timestamp": "2026-09-06T21:53:51.916229054Z",
+  "model": "glm-5.3"
+}

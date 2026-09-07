@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Vastasi Satan ⟨את⟩ Jahvea ja sanoi: ilmaiseksi pelkää Iyov (Job) Elohimia.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "vastasi"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "ilmaiseksi"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "pelkää"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimia"
+    }
+  ],
+  "timestamp": "2026-09-07T03:23:22.989247283Z",
+  "model": "glm-5.3"
+}

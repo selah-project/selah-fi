@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 19:11",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja Shaul lähetti lähetit Davidin taloon vartioidakseen häntä ja tappaakseen hänet aamulla; ja Mikal, hänen vaimonsa, ilmoitti Davidille sanoen: Jos et pelasta ⟨את⟩ henkeäsi tänä yönä, huomenna sinut tapetaan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ja lähetti"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "lähetit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "talo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "לשמרו",
+      "gloss": "vartioidakseen häntä"
+    },
+    {
+      "surface": "ולהמיתו",
+      "gloss": "ja tappaakseen hänet"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamulla"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "ja ilmoitti"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidille"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hänen vaimonsa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Jos"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "et"
+    },
+    {
+      "surface": "ממלט",
+      "gloss": "pelasta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "henkesi"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "henkeäsi"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "tänä yönä"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "huomenna"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "מומת",
+      "gloss": "sinut tapetaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:12:58.891825421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "ja ⟨את⟩ strutsin ja ⟨את⟩ yöpöllön ja ⟨את⟩ lokin ja ⟨את⟩ haukan, lajeineen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "struksettaren"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tytär"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "struksettaren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "yöpöllön"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "yöpöllö"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "lokin"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "lokki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "haukan"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "haukka"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "lajeineen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:50:32.595154181Z",
+  "model": "glm-5.3"
+}

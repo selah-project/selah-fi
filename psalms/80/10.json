@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 80,
+  "translation": "Sinä raivasit tilaa sen edestä, ja se juurrutti juurensa ja täytti maan.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "sinä raivasit"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "sen edestä"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "ja se juurrutti"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "juurensa"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ja täytti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-07T02:25:14.897829893Z",
+  "model": "glm-5.3"
+}

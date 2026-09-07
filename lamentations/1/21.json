@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 1:21",
+  "book": "lamentations",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "He kuulivat, että minä olen huokaissut — ei minulla lohduttajaa ⟨ole⟩. Kaikki viholliseni kuulivat onnettomuuteni; he iloitivat, koska sinä teit ⟨sen⟩. Sinä toit päivän, sinä kutsuit ⟨sen⟩, ja he tulevat olemaan niin kuin minä.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "He kuulivat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "נאנחה",
+      "gloss": "olen huokaissut"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "lohduttajaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Kaikki"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "viholliseni"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kuulivat"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "onnettomuuteni"
+    },
+    {
+      "surface": "ששו",
+      "gloss": "he iloitivat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "teit"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "toit"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivän"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "kutsuit"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ja he tulevat olemaan"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "niin kuin minä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:01:26.767920345Z",
+  "model": "glm-5.3"
+}

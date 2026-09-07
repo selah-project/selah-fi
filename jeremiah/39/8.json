@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 39:8",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 39,
+  "translation": "Ja ⟨את⟩ kuninkaan talon ja ⟨את⟩ kansan talon polttivat kasdit tulella, ja ⟨את⟩ Jerushalajimin (Jerusalem) muurit revittiin maahan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kuninkaan talon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kansan talon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "polttivat"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "kasdit"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulella"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Jerushalajimin muurit"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "muurit"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimin"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "revittiin"
+    }
+  ],
+  "timestamp": "2026-09-07T00:42:38.914420551Z",
+  "model": "glm-5.3"
+}

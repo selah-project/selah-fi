@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 11:9",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja Jahve vihastui Shelomoon (Salomo), koska hänen sydämensä oli kääntynyt pois Jahvesta, Israelin Elohimista, joka oli näyttäytynyt hänelle kahdesti.",
+  "tokens": [
+    {
+      "surface": "ויתאנף",
+      "gloss": "Ja vihastui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "Shelomoon (Salomo)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "oli kääntynyt"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "hänen sydämensä"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "pois"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvesta"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimista"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "joka oli näyttäytynyt"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kahdesti"
+    }
+  ],
+  "timestamp": "2026-09-06T23:39:20.071318219Z",
+  "model": "glm-5.3"
+}

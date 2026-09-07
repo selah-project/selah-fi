@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Ja minä lähetän sinun edellesi mal'akhin, ja minä ajan ⟨את⟩ kenaanilaisen, emorilaisen ja hittiläisen ja perissiläisen, hivviläisen ja jebusilaisen.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Ja minä lähetän"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sinun edellesi"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mal'akhin"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "ja minä ajan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenaanilaisen"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kenaanilaisen"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emorilaisen"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "ja hittiläisen"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ja perissiläisen"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "hivviläisen"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ja jebusilaisen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:43:51.724280218Z",
+  "model": "glm-5.3"
+}

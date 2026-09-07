@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Etkö juuri nyt kutsunut minua: Isäni, sinä ⟨olet⟩ nuoruuteni ohjaaja?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "etkö"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "juuri nyt"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "kutsunut"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minua"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Isäni"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ohjaaja"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "nuoruuteni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:24:32.448459010Z",
+  "model": "glm-5.3"
+}

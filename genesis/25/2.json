@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja hän synnytti hänelle ⟨את⟩ Zimranin ja ⟨את⟩ Jokshandin ⟨את⟩ Medanin ja ⟨את⟩ Midjanin ja ⟨את⟩ Jishbakin ja ⟨את⟩ Shuahin.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ja hän synnytti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimranin"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimranin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Jokshandin"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Jokshandin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Medanin"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Medanin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Midjanin"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjanin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Jishbakin"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "Jishbakin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Shuahin"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "Shuahin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:14:07.275358217Z",
+  "model": "glm-5.3"
+}

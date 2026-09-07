@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja hän sanoi Jehudalle (Juudalle) etsiä ⟨את⟩ Jahvea, heidän isiensä Elohimia, ja tehdä Toran (Tooran) ja käskyn.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Jehudalle (Juudalle)"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "etsiä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimia"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "heidän isiensä"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "ja tehdä"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Toran (Tooran)"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "ja käskyn"
+    }
+  ],
+  "timestamp": "2026-09-07T05:38:41.629327961Z",
+  "model": "glm-5.3"
+}

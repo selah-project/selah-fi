@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 49:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 49,
+  "translation": "Ne, jotka luottavat voimaansa, ja runsauteen rikkauttaan kerskaavat ⟨siitä⟩.",
+  "tokens": [
+    {
+      "surface": "הבטחים",
+      "gloss": "Ne, jotka luottavat"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨siihen⟩"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "voimaansa"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "ja runsauteen"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "rikkauttaan"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "kerskaavat"
+    }
+  ],
+  "timestamp": "2026-09-07T02:10:03.811035232Z",
+  "model": "glm-5.3"
+}

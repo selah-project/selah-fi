@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 12:9",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Älkää syökö siitä mitään raakaa, älkääkä vedessä keitettynä keitettyä, vaan tulessa paistettuna; sen pää jalkojensa päällä ja sisäelintensä päällä.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Älkää"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "syökö"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "siitä"
+    },
+    {
+      "surface": "נא",
+      "gloss": "raakaa"
+    },
+    {
+      "surface": "ובשל",
+      "gloss": "älkäkä keitettynä"
+    },
+    {
+      "surface": "מבשל",
+      "gloss": "keitettynä"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vedessä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vaan"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "צלי",
+      "gloss": "paistettuna"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tulessa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "sen pää"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "jalkojensa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja päällä"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "sisäelintensä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:33:02.139379860Z",
+  "model": "glm-5.3"
+}

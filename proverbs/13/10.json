@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Vain ylpeydestä syntyy riita, mutta ⟨את⟩ neuvonpitäjien ⟨on⟩ viisaus.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Vain"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "ylpeydestä"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "syntyy"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "riita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mutta ⟨את⟩",
+      "marks": "neuvonpitäjien"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "neuvonpitäjien"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "viisaus"
+    }
+  ],
+  "timestamp": "2026-09-07T03:06:46.247602358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 18:19",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "He riensivät minua vastaan onnettomuuteni päivänä, ja Jahve tuli tukeni.",
+  "tokens": [
+    {
+      "surface": "יקדמוני",
+      "gloss": "He riensivät minua vastaan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "אידי",
+      "gloss": "onnettomuuteni"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja hän tuli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למשען",
+      "gloss": "tukeni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    }
+  ],
+  "timestamp": "2026-09-07T01:58:21.586165946Z",
+  "model": "glm-5.3"
+}

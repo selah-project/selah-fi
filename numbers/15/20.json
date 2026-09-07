@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Ensimmäisestä taikinastanne nostakaa leivonnaisen kohennuksena; niinkuin puimatantereen kohennuksen, niin nostakaa ⟨את⟩ sen.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "ensimmäisestä"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "taikinastanne"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "leivonnainen"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "nostakaa"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "kohennuksena"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "niinkuin kohennuksen"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "puimatantereen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "nostakaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sen (leivonnainen)"
+    }
+  ],
+  "timestamp": "2026-09-06T22:11:33.348314145Z",
+  "model": "glm-5.3"
+}

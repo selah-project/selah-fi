@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Jahven säädökset ⟨ovat⟩ oikeat, ne ilahduttavat sydäntä; Jahven käsky ⟨on⟩ puhdas, se valaisee silmiä.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "säädökset"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "oikeat"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "ilahduttavat"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sydäntä"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "käsky"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "puhdas"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "valaisee"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "silmiä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:56:53.083335532Z",
+  "model": "glm-5.3"
+}

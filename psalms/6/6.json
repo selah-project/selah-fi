@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Sillä kuolemassa ei ole sinun muistoasi; Sheolissa — kuka kiittää sinua?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "במות",
+      "gloss": "kuolemassa"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "sinun muistoasi"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "Sheolissa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "kiittää"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinua"
+    }
+  ],
+  "timestamp": "2026-09-07T01:51:23.100852230Z",
+  "model": "glm-5.3"
+}

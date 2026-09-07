@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ei ole puhetta eikä sanoja, ei kuulu heidän ääntään.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Ei ole"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "puhetta"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "sanoja"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "kuulu"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "heidän ääntään"
+    }
+  ],
+  "timestamp": "2026-09-07T01:59:10.833047223Z",
+  "model": "glm-5.3"
+}

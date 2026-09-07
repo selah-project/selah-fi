@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Kuoronjohtajalle, gittiläisellä ⟨soitolla⟩; Davidin (Daavidin) psalmi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kuoronjohtajalle"
+    },
+    {
+      "surface": "על",
+      "gloss": "gittiläisellä"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "⟨soitolla⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalmi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidin"
+    }
+  ],
+  "timestamp": "2026-09-07T01:53:18.066624485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "ja sisarensa, neitsyt, joka on häntä lähellä ja joka ei ollut miehelle — hänen puolestaan hän saa tehdä itsensä epäpuhtaaksi.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "ja sisarensa"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "neitsyt"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "lähellä"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "häntä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ollut"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "miehelle"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hänen puolestaan"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "hän saa tehdä itsensä epäpuhtaaksi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:57:20.512099995Z",
+  "model": "glm-5.3"
+}

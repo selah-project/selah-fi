@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 6:5",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja minä asetan ⟨את⟩ Israelin poikien ruumiit heidän epäjumaliansa eteen, ja hajotan ⟨את⟩ luunne alttarienne ympärille.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Ja minä asetan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin poikien ruumiit"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "ruumiit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikien"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "heidän epäjumaliansa"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "ja hajotan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "luunne"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "luunne"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "ympärille"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "alttarienne"
+    }
+  ],
+  "timestamp": "2026-09-07T00:52:28.021307894Z",
+  "model": "glm-5.3"
+}

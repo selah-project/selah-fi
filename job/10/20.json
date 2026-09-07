@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 10:20",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Eivätkö päiväni ole vähät? Lakkaa ⟨se⟩, käännä ⟨katseesi⟩ minusta pois, ja kirkastuisin hieman.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "eivätkö"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "vähät"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päiväni"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "lakkaa"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "käännä pois"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minusta"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "ja kirkastuisin"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "hieman"
+    }
+  ],
+  "timestamp": "2026-09-07T03:29:45.253809939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja tämä ⟨on⟩ se uhri, jonka te otatte ⟨את⟩ heiltä: kultaa, hopeaa ja vaskea.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Ja tämä"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "se uhri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "te otatte"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ heiltä"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kultaa"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ja hopeaa"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "ja vaskea"
+    }
+  ],
+  "timestamp": "2026-09-06T21:39:26.076015035Z",
+  "model": "glm-5.3"
+}

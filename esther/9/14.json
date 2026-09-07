@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 9:14",
+  "book": "esther",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja kuningas sanoi tehdä niin, ja säädös annettiin Shushanissa, ja ⟨את⟩ Hamanin kymmenen poikaa he ripustivat.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "להעשות",
+      "gloss": "tehdä"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "ותנתן",
+      "gloss": "ja annettiin"
+    },
+    {
+      "surface": "דת",
+      "gloss": "säädös"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "Shushanissa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Hamanin kymmenen poikaa"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "kymmenen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikaa"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamanin"
+    },
+    {
+      "surface": "תלו",
+      "gloss": "he ripustivat"
+    }
+  ],
+  "timestamp": "2026-09-07T04:44:54.317445617Z",
+  "model": "glm-5.3"
+}

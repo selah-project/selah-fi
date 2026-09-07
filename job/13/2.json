@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 13:2",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Kuten te tiedätte, tiedän myös minä; en minä jää teitä alle.",
+  "tokens": [
+    {
+      "surface": "כדעתכם",
+      "gloss": "Kuten te tiedätte"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "tiedän"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "jää ... alle"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "teitä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:30:37.157699460Z",
+  "model": "glm-5.3"
+}

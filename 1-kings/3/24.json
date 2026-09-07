@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 3:24",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja kuningas sanoi: Tuokaa minulle miekka. Ja he toivat miekan kuninkaan eteen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Tuokaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "miekka"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ja he toivat"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "miekan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:33:15.678249027Z",
+  "model": "glm-5.3"
+}

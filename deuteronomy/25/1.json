@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Kun miesten välillä syntyy riita ja he käyvät oikeuden ääreen ja heidät tuomitaan, niin he julistakoot ⟨את⟩ syyttömän syyttömäksi ja ⟨את⟩ syyllisen syylliseksi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kun"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "syntyy"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "riita"
+    },
+    {
+      "surface": "בין",
+      "gloss": "välillä"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "miesten"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "ja he käyvät"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ääreen"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "oikeuden"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "ja heidät tuomitaan"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "ja he julistakoot syyttömäksi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syyttömän"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "syyttömän"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "ja he julistakoon syylliseksi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syyllisen"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "syyllisen"
+    }
+  ],
+  "timestamp": "2026-09-06T22:34:44.079703905Z",
+  "model": "glm-5.3"
+}

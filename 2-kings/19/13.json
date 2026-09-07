@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 19:13",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Missä on Hamatin (Hamat) kuningas ja Arpadin (Arfad) kuningas ja Sepharvajimin kaupungin kuningas, Hena ja Ivva?”",
+  "tokens": [
+    {
+      "surface": "איו",
+      "gloss": "Missä on"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamatin"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ja kuninkaan"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Arpadin"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ja kuninkaan"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Sepharvajimin"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "ja Ivva"
+    }
+  ],
+  "timestamp": "2026-09-06T23:56:08.550838594Z",
+  "model": "glm-5.3"
+}

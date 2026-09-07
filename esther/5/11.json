@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 5:11",
+  "book": "esther",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja Haman kertoi heille ⟨את⟩ rikkautensa kunnian ja poikiensa paljouden ja ⟨את⟩ kaiken, mihin kuningas oli hänet suureksi tehnyt, ja ⟨את⟩ sen, mihin hän oli kohottanut hänet ruhtinaiden ja kuninkaan palvelijoiden ylle.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "ja kertoi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rikkautensa kunnian"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kunniaksi"
+    },
+    {
+      "surface": "עשרו",
+      "gloss": "rikkautensa"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ja paljouden"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "poikiensa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mihin"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "oli suureksi tehnyt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sen mihin"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "oli kohottanut"
+    },
+    {
+      "surface": "על",
+      "gloss": "ylle"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "ruhtinaiden"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "ja palvelijoiden"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:41:51.558064336Z",
+  "model": "glm-5.3"
+}

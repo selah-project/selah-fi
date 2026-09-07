@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 12:16",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Eivätkä he tehneet tiliä ⟨את⟩ miehistä, joille he antoivat ⟨את⟩ rahan käsiinsä antaakseen sen työntekijöille; sillä uskollisesti he toimivat.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Eivätkä"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "he tehneet tiliä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miehistä"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "miehistä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joille"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "he antoivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rahan"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "rahan"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "käsiinsä"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "antaakseen"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "työntekijöille"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "työn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "uskollisesti"
+    },
+    {
+      "surface": "הם",
+      "gloss": "he"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "toimivat"
+    }
+  ],
+  "timestamp": "2026-09-06T23:53:37.612396068Z",
+  "model": "glm-5.3"
+}

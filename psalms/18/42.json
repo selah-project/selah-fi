@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "He huusivat, mutta ei ollut pelastajaa — Jahveen ⟨asti⟩, mutta hän ei vastannut heitä.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "He huusivat"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mutta ei ollut"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "pelastajaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨asti⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mutta ei"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "hän vastannut heitä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:58:04.502560155Z",
+  "model": "glm-5.3"
+}

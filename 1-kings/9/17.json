@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja Shelomo (Salomo) rakensi ⟨את⟩ Gezerin (Geser) ja ⟨את⟩ Beit Horonin alemman.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Ja rakensi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezerin"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezerin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Beit Horonin alemman"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "alempi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:38:01.751613295Z",
+  "model": "glm-5.3"
+}

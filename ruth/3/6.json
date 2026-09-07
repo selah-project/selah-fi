@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja hän meni alas latoalueelle ja teki kaiken, mitä hänen anoppinsa oli käskenyt.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "Ja hän meni alas"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "ladoalueelle"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "ja teki"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "oli käskenyt"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "hänen anoppinsa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:35:07.739985011Z",
+  "model": "glm-5.3"
+}

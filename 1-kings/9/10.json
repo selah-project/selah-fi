@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 9:10",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja tapahtui kahdenkymmenen vuoden lopulla, jona Shelomo (Salomo) rakensi ⟨את⟩ molemmat talot: ⟨את⟩ Jahven talon ja ⟨את⟩ kuninkaan talon.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "lopulla"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kahdenkymmenen"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuoden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jona"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "rakensi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molemmat talot"
+    },
+    {
+      "surface": "שני",
+      "gloss": "molemmat"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "talot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven talon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kuninkaan talon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:24:30.276180981Z",
+  "model": "glm-5.3"
+}

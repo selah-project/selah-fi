@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 21:12",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Vartija sanoi: Tulee aamu, ja myös yö. Jos te kysytte, kysykää; kääntykää, tulkaa.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Vartija"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tulee"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "aamu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja myös"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "yö"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Jos"
+    },
+    {
+      "surface": "תבעיון",
+      "gloss": "te kysytte"
+    },
+    {
+      "surface": "בעיו",
+      "gloss": "kysykää"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "kääntykää"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "tulkaa"
+    }
+  ],
+  "timestamp": "2026-09-07T00:05:25.137029204Z",
+  "model": "glm-5.3"
+}

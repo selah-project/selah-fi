@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 8:18",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja minä otin ⟨את⟩ leeviläiset jokaisen esikoisen sijaan Israelin lapsista.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Ja minä otin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leeviläiset"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leeviläiset"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sijaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokaisen"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "esikoisen"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "lapsista"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:07:45.237078897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 41,
+  "translation": "Sinä etsit heitä enkään löydä heitä — kahnauksesi miehet; sotasi miehet tulevat olemaan kuin ei-mitään ja kuin tyhjyyttä.",
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "etsit heitä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "löydä heitä"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "kahnauksesi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "tulevat olemaan"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "kuin ei-mitään"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "ja kuin tyhjyyttä"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "sotasi"
+    }
+  ],
+  "timestamp": "2026-09-07T00:14:25.622252313Z",
+  "model": "glm-5.3"
+}

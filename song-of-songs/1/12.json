@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Niin kauan kuin kuningas ⟨on⟩ vuoteellaan, nardini antoi tuoksunsa.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Niin kauan kuin"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "kun kuningas"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "vuoteellaan"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "nardini"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "antoi"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "tuoksunsa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:35:17.355048111Z",
+  "model": "glm-5.3"
+}

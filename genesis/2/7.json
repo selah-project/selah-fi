@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Jahve Elohim muovasi ⟨את⟩ ihmisen maan tomusta ja puhalsi hänen sieraimiinsa elämän hengen, ja niin ihmisestä tuli elävä nefesh (sielu).",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "Ja muovasi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihmisen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihmisen"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "tomua"
+    },
+    {
+      "surface": "מן",
+      "gloss": "maan (min)"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tomusta"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "ja puhalsi"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "sieraimiinsa"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "hengen"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "elämän"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihmisestä"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "eläväksi nefeshiksi"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "elävä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:04:25.078222971Z",
+  "model": "glm-5.3"
+}

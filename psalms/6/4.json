@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja minun nefeshini on sangen hämmentynyt; mutta sinä, Jahve — kuinka kauan?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Ja minun nefeshini"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "on hämmentynyt"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mutta sinä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuinka"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kauan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:51:51.739179436Z",
+  "model": "glm-5.3"
+}

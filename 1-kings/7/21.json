@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 7:21",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja hän pystytti ⟨את⟩ pylväät temppelin eteiseen, ja hän pystytti ⟨את⟩ oikean pylvään ja kutsui ⟨את⟩ sen nimen Jakhin, ja hän pystytti ⟨את⟩ vasemman pylvään ja kutsui ⟨את⟩ sen nimen Boaz.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ja hän pystytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pylväät"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "pylväät"
+    },
+    {
+      "surface": "לאלם",
+      "gloss": "eteiseen"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "temppelin"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ja hän pystytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oikean pylvään"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "pylvään"
+    },
+    {
+      "surface": "הימני",
+      "gloss": "oikean"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ja hän kutsui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen nimen"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sen nimen"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Jakhin"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ja hän pystytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vasemman pylvään"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "pylvään"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "vasemman"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ja hän kutsui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen nimen"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sen nimen"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-09-06T23:35:58.684076628Z",
+  "model": "glm-5.3"
+}

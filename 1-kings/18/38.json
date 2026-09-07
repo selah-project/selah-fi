@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-kings 18:38",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja Jahven tuli putosi ja kulutti ⟨את⟩ polttouhrin ja ⟨את⟩ puut ja ⟨את⟩ kivet ja ⟨את⟩ pölyn, ja ⟨את⟩ veden, joka oli ojassa, se nuoli.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "ja putosi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ja kulutti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "polttouhrin"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "polttouhrin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "puut"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "puut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kivet"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kivet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "pölyn"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "pölyn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "veden"
+    },
+    {
+      "surface": "המים",
+      "gloss": "veden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "בתעלה",
+      "gloss": "ojassa"
+    },
+    {
+      "surface": "לחכה",
+      "gloss": "se nuoli"
+    }
+  ],
+  "timestamp": "2026-09-06T23:44:03.850198827Z",
+  "model": "glm-5.3"
+}

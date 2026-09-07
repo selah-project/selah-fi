@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 6:10",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja David ei suostunut siirtämään ⟨את⟩ Jahven arkkua luokseen Davidin kaupunkiin, vaan David käänsi sen Oved-Edomin (Obed-Edom) gatilaisen taloon.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "suostunut"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "siirtämään"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "luokseen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkkua"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkkua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kaupunkiin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "vaan käänsi sen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בית",
+      "gloss": "taloon"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomin"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "gatilaisen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:21:40.535127627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Jumalattomat panivat paulan minulle, ja käskyistäsi en ole eksynyt.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "panivat"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jumalattomat"
+    },
+    {
+      "surface": "פח",
+      "gloss": "paulan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "ja käskyistäsi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "ole eksynyt"
+    }
+  ],
+  "timestamp": "2026-09-07T02:47:35.873245802Z",
+  "model": "glm-5.3"
+}

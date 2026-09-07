@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 15:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Hopeaansa hän ei anna korkoa vastaan, eikä lahjusta viattoman vahingoksi ota; nämä asiat tekevä ei horju iankaikkisesti.",
+  "tokens": [
+    {
+      "surface": "כספו",
+      "gloss": "hopeaansa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "anna"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "korkoa vastaan"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "eikä lahjusta"
+    },
+    {
+      "surface": "על",
+      "gloss": "vahingoksi"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "viattoman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ota"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tekevä"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "horju"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iankaikkisesti"
+    }
+  ],
+  "timestamp": "2026-09-07T01:54:05.210225501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja ⟨את⟩ hänen poikansa tuot lähelle, ja puet heidät kutonetteihin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ja ⟨את⟩",
+      "marks": "hänen poikansa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "tuot lähelle"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "ja puet"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kutonetteihin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:40:57.820287570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja Yojada siitti ⟨את⟩ Yonatanin, ja Yonatan siitti ⟨את⟩ Yadduan.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "Ja Yojada"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatanin"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatanin"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "ja Yonatan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yadduan"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Yadduan"
+    }
+  ],
+  "timestamp": "2026-09-07T05:08:31.204112145Z",
+  "model": "glm-5.3"
+}

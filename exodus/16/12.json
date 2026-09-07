@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 16:12",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "”Olen kuullut ⟨את⟩ Israelin lasten valitukset. Puhu heille ja sano: Kahden illan välissä te syötte lihaa, ja aamulla te kylläistytte leivästä; ja te tulette tuntemaan, että minä ⟨olen⟩ Jahve, Elohiminne.”",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Olen kuullut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin lasten valitukset"
+    },
+    {
+      "surface": "תלונת",
+      "gloss": "valitukset"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Puhu"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ja sano"
+    },
+    {
+      "surface": "בין",
+      "gloss": "Kahden ... välissä"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "illan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "te syötte"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "lihaa"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "ja aamulla"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "te kylläistytte"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leivästä"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ja te tulette tuntemaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminne"
+    }
+  ],
+  "timestamp": "2026-09-06T21:35:23.253958097Z",
+  "model": "glm-5.3"
+}

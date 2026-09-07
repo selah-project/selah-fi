@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 37:13",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Ja hän valoi sille neljä rengasta kultaa, ja hän pani ⟨את⟩ renkaat neljän kulman kohdalle, jotka ovat sen neljässä jalassa.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "valoi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sille"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "neljä"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "rengasta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kultaa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "pani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "renkaat"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "renkaat"
+    },
+    {
+      "surface": "על",
+      "gloss": "kohdalle"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "neljän"
+    },
+    {
+      "surface": "הפאת",
+      "gloss": "kulman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "לארבע",
+      "gloss": "neljään"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "jalkaansa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:45:49.532728636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 103,
+  "translation": "Mutta Jahven hesed ⟨on⟩ iankaikkisuudesta iankaikkisuuteen niiden yllä, jotka häntä pelkäävät, ja hänen vanhursautensa lasten lapsille.",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "Mutta hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "iankaikkisuudesta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ja"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iankaikkisuuteen"
+    },
+    {
+      "surface": "על",
+      "gloss": "yllä"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "niiden, jotka häntä pelkäävät"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ja hänen vanhursautensa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "lapsille"
+    }
+  ],
+  "timestamp": "2026-09-07T02:36:10.311349279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 29:5",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja hän sanoi heille: Kuulkaa minua, leeviläiset! Pyhittäkää nyt itsenne ja pyhittäkää ⟨את⟩ Jahven, teidän isienne Elohimin, talo, ja viekää ulos ⟨את⟩ saastaisuuden pyhäköstä.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "Kuulkaa minua"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviiläiset"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "pyhittäkää itsenne"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "ja pyhittäkää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "talon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "teidän isienne"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "ja viekää ulos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saastaisuuden"
+    },
+    {
+      "surface": "הנדה",
+      "gloss": "saastaisuuden"
+    },
+    {
+      "surface": "מן",
+      "gloss": "pois"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pyhäköstä"
+    }
+  ],
+  "timestamp": "2026-09-07T05:46:22.018204549Z",
+  "model": "glm-5.3"
+}

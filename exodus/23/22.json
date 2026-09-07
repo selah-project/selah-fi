@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "sillä jos kuulet, tarkkaan kuulet hänen ääntänsä ja teet kaiken, mitä minä puhun, niin minä vihamiehenä vainoan ⟨את⟩ vihollisianne ja ahdistan ⟨את⟩ ahdistajianne.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kuulet, tarkkaan"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "kuulet"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "hänen ääntänsä"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ja teet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "minä puhun"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "niin minä vihamiehenä vainoan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vihollisianne"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "vihollisianne"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "ja ahdistan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahdistajianne"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "ahdistajianne"
+    }
+  ],
+  "timestamp": "2026-09-06T21:37:45.942559180Z",
+  "model": "glm-5.3"
+}

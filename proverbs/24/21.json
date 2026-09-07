@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Pelkää ⟨את⟩ Jahvea, poikani, ja kuningasta, ja muuttuvien kanssa älä sekaannu.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "Pelkää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikani"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ja kuningasta"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "muuttuvien"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "sekaannu"
+    }
+  ],
+  "timestamp": "2026-09-07T03:16:19.089025295Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 33:4",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Ja Esav juoksi häntä vastaan ja halasi häntä ja lankesi hänen kaulaansa ja suuteli häntä, ja he itkivät.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "juoksi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "häntä vastaan"
+    },
+    {
+      "surface": "ויחבקהו",
+      "gloss": "halasi häntä"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "lankesi"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "kaulaansa"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "suuteli häntä"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "he itkivät"
+    }
+  ],
+  "timestamp": "2026-09-06T21:19:34.835317707Z",
+  "model": "glm-5.3"
+}

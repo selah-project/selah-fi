@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 21:6",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "niin hänen herransa vie hänet Elohimin eteen ja vie hänet oven tai ovipuilun luokse, ja hänen herransa lävistää ⟨את⟩ hänen korvansa poralla, ja hän palvelee häntä ikuisesti.",
+  "tokens": [
+    {
+      "surface": "והגישו",
+      "gloss": "vie"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "hänen herransa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "והגישו",
+      "gloss": "ja vie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luokse"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "oven"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luokse"
+    },
+    {
+      "surface": "המזוזה",
+      "gloss": "ovipuilun"
+    },
+    {
+      "surface": "ורצע",
+      "gloss": "ja lävistää"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "hänen herransa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen korvansa"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "hänen korvansa"
+    },
+    {
+      "surface": "במרצע",
+      "gloss": "poralla"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "ja hän palvelee"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ikuisesti"
+    }
+  ],
+  "timestamp": "2026-09-06T21:37:40.387224980Z",
+  "model": "glm-5.3"
+}

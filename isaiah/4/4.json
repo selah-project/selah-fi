@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Kun Adonai on pesseet ⟨את⟩ Tsijonin tytärtäreen saastan ja huuhtonut ⟨את⟩ Jerushalajimin veret sen keskeltä — tuomiolla ja polton hengellä.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kun"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "pesee"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsijonin tytärtäreen saastan"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "saastan"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "tytärtäreen"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijonin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Jerushalajimin veret"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "veret"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimin"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "huuhtonut"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "sen keskeltä"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "hengellä"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "tuomion"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "ja hengellä"
+    },
+    {
+      "surface": "בער",
+      "gloss": "polton"
+    }
+  ],
+  "timestamp": "2026-09-07T00:02:16.564490681Z",
+  "model": "glm-5.3"
+}

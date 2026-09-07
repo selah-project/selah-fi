@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 18:23",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Sillä kaikki hänen oikeusmääräyksensä ⟨ovat⟩ minun edessäni, enkä minä kääntänyt hänen säädöksiään pois itsestäni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "hänen oikeusmääräyksensä"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "minun edessäni"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "ja hänen säädöksensä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "kääntänyt pois"
+    },
+    {
+      "surface": "מני",
+      "gloss": "itsestäni"
+    }
+  ],
+  "timestamp": "2026-09-07T01:56:58.532779221Z",
+  "model": "glm-5.3"
+}

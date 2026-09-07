@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 6:3",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja Jahve sanoi: ”Ei minun henkeni pysy ihmisessä iankaikkisesti, koska hän ⟨on⟩ liha; ja hänen päivänsä olkoot sata ja kaksikymmentä vuotta.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ידון",
+      "gloss": "pysy"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "henkeni"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ihmisessä"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "בשגם",
+      "gloss": "koska"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "liha"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ja olkoot"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "hänen päivänsä"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sata"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ja kaksikymmentä"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    }
+  ],
+  "timestamp": "2026-09-06T21:07:44.858816052Z",
+  "model": "glm-5.3"
+}

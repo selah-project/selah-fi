@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja Avraham (Aabraham) matkusti, kulkea eteenpäin ja matkusta, etelään päin.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "Ja matkusti"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "kulkea eteenpäin"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "ja matkusta"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "etelään päin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:27.497687777Z",
+  "model": "glm-5.3"
+}

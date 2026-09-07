@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 108,
+  "translation": "Kuka ⟨on⟩ se, joka vie minut muurattuun kaupunkiin? Kuka ⟨on⟩ se, joka johtaa minut Edomiin?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "vie minut"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kaupunkiin"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "muurattuun"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "johtaa minut"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Edomiin"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-07T02:41:22.985090152Z",
+  "model": "glm-5.3"
+}

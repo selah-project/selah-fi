@@ -1,0 +1,151 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 24:11",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja tapahtui, hetkellä jolloin toivat ⟨את⟩ arkin kuninkaan virkamiehelle leviiläisten käden kautta, ja kun he näkivät, että hopeaa oli paljon, kuninkaan kirjuri ja ylipapin virkailija tulivat ja tyhjensivät ⟨את⟩ arkin ja nostivat sen ja palauttivat sen takaisin paikkaansa. Näin he tekivät päivästä päivään, ja he kokosivat hopeaa suuren määrän.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "hetkellä"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "toivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkin"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arkin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-lle"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "virkamiehelle"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käden kautta"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviiläisten"
+    },
+    {
+      "surface": "וכראותם",
+      "gloss": "ja kun he näkivät"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "רב",
+      "gloss": "paljon"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "hopeaa"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "kirjuri"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "ופקיד",
+      "gloss": "ja virkailija"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "papin"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ylipapin"
+    },
+    {
+      "surface": "ויערו",
+      "gloss": "ja tyhjensivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkin"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arkin"
+    },
+    {
+      "surface": "וישאהו",
+      "gloss": "ja nostivat sen"
+    },
+    {
+      "surface": "וישיבהו",
+      "gloss": "ja palauttivat sen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "takaisin"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "paikkaansa"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Näin"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "he tekivät"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "päivästä"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivään"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ja he kokosivat"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "hopeaa"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "suuren määrän"
+    }
+  ],
+  "timestamp": "2026-09-07T05:45:57.475490801Z",
+  "model": "glm-5.3"
+}

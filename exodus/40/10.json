@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ja sinä voit ⟨את⟩ polttouhrialttarin ja ⟨את⟩ kaikki sen astiat, ja pyhität ⟨את⟩ alttarin, ja alttari ⟨on⟩ pyhä pyhistä.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "ja voit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "polttouhrialttarin"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "polttouhran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sen astiat"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ja pyhität"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alttarin"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ja ⟨on⟩"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttari"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhä"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "pyhistä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:47:06.980354130Z",
+  "model": "glm-5.3"
+}

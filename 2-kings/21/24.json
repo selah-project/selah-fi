@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 21:24",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja maan kansa löi kuoliaaksi ⟨את⟩ kaikki ne, jotka olivat tehneet salaliiton kuningas Amonia vastaan, ja maan kansa teki kuninkaaksi ⟨את⟩ Jehoshiahun (Joosia), hänen poikansa, hänen sijaansa.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Ja ... löi kuoliaaksi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki ne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki ne"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "jotka olivat tehneet salaliiton"
+    },
+    {
+      "surface": "על",
+      "gloss": "vastaan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amonia"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "ja ... teki kuninkaaksi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoshiahun"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Jehoshiahun"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "hänen sijaansa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:57:19.258282035Z",
+  "model": "glm-5.3"
+}

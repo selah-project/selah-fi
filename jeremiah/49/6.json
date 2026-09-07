@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 49,
+  "translation": "Ja sen jälkeen minä palautan ⟨את⟩ Ammonin poikien pakkosiirtolaisuuden, sanoo Jahve.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Ja jälkeen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sen"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "palautan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ammonin poikien pakkosiirtolaisuuden"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "pakkosiirtolaisuuden"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikien"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammonin"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-07T00:47:52.141439316Z",
+  "model": "glm-5.3"
+}

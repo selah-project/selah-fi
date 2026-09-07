@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 19:32",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Harmaapäisyyden edessä nouskaa, ja vanhuksen kasvoja kunnioittakaa, ja peljätkää Elohimianne; minä olen Jahve.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "harmaapäisyyden"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "nouskaa"
+    },
+    {
+      "surface": "והדרת",
+      "gloss": "ja kunnioittakaa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kasvoja"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "vanhus"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "ja peljätkää"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohimianne"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä olen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-06T21:56:40.173734471Z",
+  "model": "glm-5.3"
+}

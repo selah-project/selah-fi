@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 8:11",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja he paransivat ⟨את⟩ murtuman, kansani tyttären murtuman, mitättömästi, sanoen: ”Rauha, rauha!” — eikä rauhaa ole.",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "Ja he paransivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "murtuman"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "murtuman"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tyttären"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kansani"
+    },
+    {
+      "surface": "על",
+      "gloss": "läpeksi"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "kevyesti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Rauha"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rauha"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rauhaa on"
+    }
+  ],
+  "timestamp": "2026-09-07T00:27:51.476638062Z",
+  "model": "glm-5.3"
+}

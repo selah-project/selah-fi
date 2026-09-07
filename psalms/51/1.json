@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 51,
+  "translation": "Kuoronjohtajalle; Davidin (Daavid) psalmi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kuoronjohtajalle"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalmi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidin"
+    }
+  ],
+  "timestamp": "2026-09-07T02:14:36.772609325Z",
+  "model": "glm-5.3"
+}

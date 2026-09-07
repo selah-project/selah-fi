@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja te pidätte ⟨את⟩ pyhän vartioinnin ja ⟨את⟩ alttarin vartioinnin, eikä ole enää vihaa Israelin lasten päälle.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ja te pidätte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pyhän vartioinnin"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "vartioinnin"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pyhän"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "alttarin vartioinnin"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "vartioinnin"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ole"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enää"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "vihaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:13:02.684839758Z",
+  "model": "glm-5.3"
+}

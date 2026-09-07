@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja ⟨את⟩ nämä te pidätteinäävinä linnuista: niitä ei saa syödä, ne ovatinäävöittäviä: ⟨את⟩ kotkan ja ⟨את⟩ partakorppikotkan ja ⟨את⟩ kalasääsken.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "näitä"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "te pidätteinäävinä"
+    },
+    {
+      "surface": "מן",
+      "gloss": "joukosta"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "linnuista"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "saa syödä"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "inäävöitettävä"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kotkan"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "kotka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "partakorppikotkan"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "partakorppikotka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kalasääsken"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "kalasääski"
+    }
+  ],
+  "timestamp": "2026-09-06T21:50:32.593584019Z",
+  "model": "glm-5.3"
+}

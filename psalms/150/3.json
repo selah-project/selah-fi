@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 150,
+  "translation": "Kunnioittakaa häntä pasuunan pauhuulla, kunnioittakaa häntä nabla ja kinnorilla.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Kunnioittakaa häntä"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "pauhuulla"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "pasuunan"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "kunnioittakaa häntä"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "nabla"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ja kinnorilla"
+    }
+  ],
+  "timestamp": "2026-09-07T02:56:58.955431361Z",
+  "model": "glm-5.3"
+}

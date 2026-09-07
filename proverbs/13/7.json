@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 13:7",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Joku tekee itsensä rikkaaksi, eikä hänellä ole mitään; joku tekee itsensä köyhäksi, ja hänellä on suuri omaisuus.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "on sellainen"
+    },
+    {
+      "surface": "מתעשר",
+      "gloss": "tekee itsensä rikkaaksi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä hänellä ole"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mitään"
+    },
+    {
+      "surface": "מתרושש",
+      "gloss": "tekee itsensä köyhäksi"
+    },
+    {
+      "surface": "והון",
+      "gloss": "ja omaisuus"
+    },
+    {
+      "surface": "רב",
+      "gloss": "suuri"
+    }
+  ],
+  "timestamp": "2026-09-07T03:06:11.496498087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 4:20",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Jehuda ja Israel ⟨olivat⟩ monilukuiset, niin kuin hiekka, joka on meren rannalla, runsauden vuoksi — he söivät ja joivat ja iloitsivat.",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ja Israel"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "monilukuiset"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "niin kuin hiekka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "הים",
+      "gloss": "meren"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "runsauden vuoksi"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "he söivät"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ja joivat"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "ja iloitsivat"
+    }
+  ],
+  "timestamp": "2026-09-06T23:34:19.622277169Z",
+  "model": "glm-5.3"
+}

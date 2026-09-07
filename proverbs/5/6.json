@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 5:6",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Elämän polkua — ettei hän sitä tasoittaisi; horjuvat hänen polkunsa, ei hän sitä tiedä.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "polkua"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "elämän"
+    },
+    {
+      "surface": "פן",
+      "gloss": "että ei"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "hän tasoittaisi"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "horjuvat"
+    },
+    {
+      "surface": "מעגלתיה",
+      "gloss": "hänen polkunsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "hän tietäisi"
+    }
+  ],
+  "timestamp": "2026-09-07T03:01:12.272329449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "obadiah 1:17",
+  "book": "obadiah",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja Tsijonin (Siionin) vuorella ⟨on⟩ pelastunut jäännös, ja se tulee pyhäksi, ja Ja'akovin (Jaakob) huone perii ⟨את⟩ perintömaansa.",
+  "tokens": [
+    {
+      "surface": "ובהר",
+      "gloss": "vuorella"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijonin"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "פליטה",
+      "gloss": "pelastunut jäännös"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ja se on"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhä"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "ja he perivät"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huone"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akovin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perintömaansa"
+    },
+    {
+      "surface": "מורשיהם",
+      "gloss": "perintömaansa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:31:56.825170653Z",
+  "model": "glm-5.3"
+}

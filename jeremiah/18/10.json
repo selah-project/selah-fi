@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 18:10",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "ja se tekee sitä, mikä on pahaa minun silmissäni, niin ettei se kuule minun ääntäni, niin minä kadun sitä hyvää, jonka sanoin tekeväni ⟨את⟩ hänet hyväksi.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ja se tekee"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "pahaa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "minun silmissäni"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "että ei"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kuule"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "minun ääntäni"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "niin kadun minä"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "hyvää"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sanoin"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "tekeväni hyväksi"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ hänet",
+      "marks": "hänet"
+    }
+  ],
+  "timestamp": "2026-09-07T00:32:24.104821123Z",
+  "model": "glm-5.3"
+}

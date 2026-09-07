@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Ylpeät kaivoivat minulle kuoppia, jotka eivät ole Torasi mukaan.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "Kaivoivat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "Ylpeät"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "kuoppia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "Torasi mukaan"
+    }
+  ],
+  "timestamp": "2026-09-07T02:46:54.628841634Z",
+  "model": "glm-5.3"
+}

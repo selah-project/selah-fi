@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 3:2",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja hän alkoi rakentaa toisessa kuukaudessa, toisena ⟨päivänä⟩, neljäntenä vuotena hänen kuninkuudestaan.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "alkoi"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "rakentaa"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "kuukaudessa"
+    },
+    {
+      "surface": "השני",
+      "gloss": "toisessa"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "toisena ⟨päivänä⟩"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "vuotena"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "neljäntenä"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "hän kuninkuudestaan"
+    }
+  ],
+  "timestamp": "2026-09-07T05:32:04.103092363Z",
+  "model": "glm-5.3"
+}

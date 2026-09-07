@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Murtunut ⟨on⟩ tohun kaupunki; suljettu ⟨on⟩ jokainen talo sisäänpääsyltä.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "murtunut"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "kaupunki"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tohun (tyhjyyden, autiouden)"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "suljettu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokainen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "talo"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "sisäänpääsyltä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:07:36.331122660Z",
+  "model": "glm-5.3"
+}

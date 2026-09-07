@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Ja Josef (Joosef) näki unen ja kertoi sen veljilleen, ja he vihasivat ⟨את⟩ häntä vielä enemmän.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "ja näki unen"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "unen"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ja kertoi"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "veljilleen"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "ja he lisäsivät"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vielä"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "vihata"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ häntä",
+      "marks": "häntä (hän)"
+    }
+  ],
+  "timestamp": "2026-09-06T21:21:32.246256571Z",
+  "model": "glm-5.3"
+}

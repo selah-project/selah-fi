@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Daavidin ⟨psalmi⟩. Sinun luoksesi, Jahve, Nefeshini minä nostan.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Daavidin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Sinun luoksesi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshini"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "minä nostan"
+    }
+  ],
+  "timestamp": "2026-09-07T02:01:12.085494864Z",
+  "model": "glm-5.3"
+}

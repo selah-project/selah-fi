@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja kuuli Tou (Toi), Hamatin kuningas, että David (Daavid) oli lyönyt ⟨את⟩ koko Hadadezerin sotajoukon, Tsoban kuninkaan.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Ja kuuli"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "Tou"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamatin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "oli lyönyt"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko Hadadezerin sotajoukon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sotajoukon"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezerin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsoban"
+    }
+  ],
+  "timestamp": "2026-09-07T05:23:15.207401879Z",
+  "model": "glm-5.3"
+}

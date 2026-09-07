@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 105,
+  "translation": "sanoen: ”Sinulle minä annan ⟨את⟩ Kenaanin maan, köydenä perintönänne.”",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "minä annan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaanin maan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaanin"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "köydenä"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "perintönänne"
+    }
+  ],
+  "timestamp": "2026-09-07T02:38:10.938049141Z",
+  "model": "glm-5.3"
+}

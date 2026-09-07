@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 2:18",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja sanoi Jahve Elohim: ”Ei ⟨ole⟩ hyvä ihmisen ollessa yksin; teen hänelle avun, hänen vastaansa.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ei"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvä"
+    },
+    {
+      "surface": "היות",
+      "gloss": "ollessa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihmisen"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yksin"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "teen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "avun"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "hänen vastaansa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:04:46.134238714Z",
+  "model": "glm-5.3"
+}

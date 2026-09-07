@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 38,
+  "translation": "ja ⟨את⟩ esikartanon jalustat ympäriltä ja ⟨את⟩ esikartanon portin jalustat ja ⟨את⟩ kaikki pyhäkköteltan paalut ja ⟨את⟩ kaikki esikartanon paalut ympäriltä.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "esikartanon jalustat"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "jalustat"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "esikartanon"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympäriltä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "portin jalustat"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "jalustat"
+    },
+    {
+      "surface": "שער",
+      "gloss": "portin"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "esikartanon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki pyhäkköteltan paalut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "paalut"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "pyhäkköteltan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki esikartanon paalut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "paalut"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "esikartanon"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympäriltä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:45:38.919202223Z",
+  "model": "glm-5.3"
+}

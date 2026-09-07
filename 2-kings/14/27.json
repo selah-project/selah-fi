@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 14:27",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Eikä Jahve puhunut pyyhkivänsä pois ⟨את⟩ Israelin nimeä taivaan alta, vaan pelasti heidät Jerovamin, Joashin pojan, käden kautta.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Eikä"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "puhui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "pyyhkivänsä pois"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin nimen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "alta"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "pelasti heidät"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käden kautta"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jerovamin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joashin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:54:30.270832043Z",
+  "model": "glm-5.3"
+}

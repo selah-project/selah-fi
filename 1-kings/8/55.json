@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja hän seisoi ja siunasi ⟨את⟩ koko Israelin seurkunnan suurella äänellä sanoen:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Ja hän seisoi"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ja siunasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko Israelin seurkunnan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "seurkunnan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "קול",
+      "gloss": "äänellä"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suurella"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:37:53.650995045Z",
+  "model": "glm-5.3"
+}

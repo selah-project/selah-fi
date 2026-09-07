@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joel 2:26",
+  "book": "joel",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja te syötte syöden ja kyllästytte, ja te ylistätte ⟨את⟩ Jahven, Elohimienne, nimeä, joka teki teidän kanssanne ihmeellisesti; eikä kansani joudu ikinä häpeään.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "Ja te syötte"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "syöden"
+    },
+    {
+      "surface": "ושבוע",
+      "gloss": "ja kyllästytte"
+    },
+    {
+      "surface": "והללתם",
+      "gloss": "ja te ylistätte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven, Elohimienne, nimeä"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimeä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimienne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teki"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "teidän kanssanne"
+    },
+    {
+      "surface": "להפליא",
+      "gloss": "ihmeellisesti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "joudu häpeään"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kansani"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ikinä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:25:46.595064989Z",
+  "model": "glm-5.3"
+}

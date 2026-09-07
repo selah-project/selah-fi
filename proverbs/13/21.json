@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Syntisiä ajaa takaa paha, mutta ⟨את⟩ vanhurskaita hän palkitsee hyvällä.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "syntisiä"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "ajaa takaa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "paha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mutta ⟨את⟩",
+      "marks": "vanhurskaita"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "vanhurskaita"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "hän palkitsee"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvällä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:06:46.314403163Z",
+  "model": "glm-5.3"
+}

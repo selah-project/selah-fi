@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Viisaus vahvistaa viisaalle enemmän kuin kymmenen valtajaa, jotka olivat kaupungissa.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "viisaus"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "vahvistaa"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "viisaalle"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "enemmän kuin kymmenen"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "valtajaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "היו",
+      "gloss": "olivat"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kaupungissa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:39:10.688507757Z",
+  "model": "glm-5.3"
+}

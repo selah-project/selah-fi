@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja sinä, Jahve, älä ole kaukana; voimani, avukseni rientäkään.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ja sinä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ole kaukana"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "voimani"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "avukseni"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "rientäkään"
+    }
+  ],
+  "timestamp": "2026-09-07T01:58:12.552795266Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 7:8",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Sillä Jahven rakkaudesta ⟨את⟩ teitä kohtaan ja sen valan ⟨את⟩ pitämisestä, jonka hän vannoi isillenne, Jahve johdatti ⟨את⟩ teidät ulos vahvalla kädellä ja lunasti sinut orjuuden huoneesta, Paron (farao), Mitsrajimin (Egypti) kuninkaan, kädestä.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מאהבת",
+      "gloss": "rakkaudesta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teitä kohtaan"
+    },
+    {
+      "surface": "ומשמרו",
+      "gloss": "ja sen pitämisestä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "valan"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "valan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "hän vannoi"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "isillenne"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "johdatti ulos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kädellä"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "vahvalla"
+    },
+    {
+      "surface": "ויפדך",
+      "gloss": "ja lunasti sinut"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "huoneesta"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "orjuuden"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kädestä"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:26:11.978300719Z",
+  "model": "glm-5.3"
+}

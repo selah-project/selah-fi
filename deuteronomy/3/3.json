@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja Jahve, meidän Elohimimme, antoi meidän käsiimme myös ⟨את⟩ Ogin, Bashanin kuninkaan, ja ⟨את⟩ koko hänen kansansa; ja me löimme hänet, siihen asti ettei hänelle jäänyt eloonjäänyttä.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ja antoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "meidän Elohimimme"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "meidän käsiimme"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ogin, Bashanin kuninkaan"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Ogin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashanin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "koko hänen kansansa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hänen kansansa"
+    },
+    {
+      "surface": "ונכהו",
+      "gloss": "ja me löimme hänet"
+    },
+    {
+      "surface": "עד",
+      "gloss": "siihen asti"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "että ei"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "jättänyt \/ jäänyt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "elonjäänyttä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:24:23.292319494Z",
+  "model": "glm-5.3"
+}

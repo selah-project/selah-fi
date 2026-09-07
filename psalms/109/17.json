@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 109,
+  "translation": "Ja hän rakasti kirousta, ja se tuli hänen päällensä, eikä hän halunnut siunausta, ja se etääntyi hänestä.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "Ja hän rakasti"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "kirousta"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "ja se tuli hänen päällensä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "hän halunnut"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "siunausta"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "ja se etääntyi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "hänestä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:42:09.682621935Z",
+  "model": "glm-5.3"
+}

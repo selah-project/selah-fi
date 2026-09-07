@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 13:4",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja koko Israel kuuli sanoen: Shaul on lyönyt ⟨את⟩ filistealaisten vartioaseman, ja myös Israel hajosi pahalta filistealaisten keskuudessa; ja kansa huudettiin koolle Shaulin perässä Gilgaliin (Gilgal).",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ja koko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kuuli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "on lyönyt"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistealaisten vartioaseman"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "vartioaseman"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistealaisten"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja myös"
+    },
+    {
+      "surface": "נבאש",
+      "gloss": "hajosi pahalta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "filistealaisten keskuudessa"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "ja huudettiin koolle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "perässä"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulin"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgaliin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:09:44.057628886Z",
+  "model": "glm-5.3"
+}

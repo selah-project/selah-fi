@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja hänen jälkeensä tuomitsi ⟨את⟩ Israelia Ivtsan, Beit-Lehemistä ⟨(Betlehem)⟩.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Ja tuomitsi"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "hänen jälkeensä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelia"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ivtsan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehemistä ⟨(Betlehem)⟩"
+    }
+  ],
+  "timestamp": "2026-09-06T22:58:54.575457798Z",
+  "model": "glm-5.3"
+}

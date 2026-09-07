@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 37:8",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Yksi kerubi päästä tältä puolelta, ja yksi kerubi päästä tuolta puolelta; kapporetista hän teki ⟨את⟩ kerubit sen molemmista päistä.",
+  "tokens": [
+    {
+      "surface": "כרוב",
+      "gloss": "Yksi kerubi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "päästä"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "tältä puolelta"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "ja yksi kerubi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "päästä"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "tuolta puolelta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…sta (kapporetista)"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kapporetista"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hän teki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerubit"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerubit"
+    },
+    {
+      "surface": "משני",
+      "gloss": "sen molemmista"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "päistä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:44:55.787858282Z",
+  "model": "glm-5.3"
+}

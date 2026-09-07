@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 10:33",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Silloin nousi Horam, Gezerin kuningas, auttamaan ⟨את⟩ Lakishia, ja Jehoshua löi hänet ja ⟨את⟩ hänen kansansa, kunnes hän ei jättänyt hänelle selviytyjää.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Silloin"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "nousi"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "Horam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezerin"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "auttamaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lakishia"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Lakishia"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "löi hänet"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen kansansa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kansansa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ei"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "jättänyt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "selviytyjää"
+    }
+  ],
+  "timestamp": "2026-09-06T22:45:56.686254176Z",
+  "model": "glm-5.3"
+}

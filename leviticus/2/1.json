@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 2:1",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja kun nefesh tuo lähelle korban-minchan Jahvelle, hienojauhoa olkoon hänen korbaninsa, ja hän kaatkoon sen päälle öljyä ja pankoon sen päälle suitsutusta.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "Ja nefesh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "tuopi lähelle"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "korban"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minchan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "hienojauhoa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olkoon"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "hänen korbaninsa"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "ja kaatkoon"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sen päälle"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "öljyä"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ja pankoon"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sen päälle"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "suitsutusta"
+    }
+  ],
+  "timestamp": "2026-09-06T21:48:23.530211377Z",
+  "model": "glm-5.3"
+}

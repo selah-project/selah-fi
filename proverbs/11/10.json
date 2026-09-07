@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Vanhurskaiden menestyessä kaupunki riemuitsee, ja jumalattomien kadotessa ⟨on⟩ riemunkiljahdus.",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "menestyessä"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "vanhurskaiden"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "riemuitsee"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "kaupunki"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "ja kadotessa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jumalattomien"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "riemunkiljahdus"
+    }
+  ],
+  "timestamp": "2026-09-07T03:06:05.567076310Z",
+  "model": "glm-5.3"
+}

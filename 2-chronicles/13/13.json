@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 13:13",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja Yarov'am (Jerobeam) kiersi ⟨את⟩ väijytyksen tulemaan heidän takoaan, ja he olivat Yehudan edessä ja väijytys heidän takanaan.",
+  "tokens": [
+    {
+      "surface": "וירבעם",
+      "gloss": "Ja Yarov'am"
+    },
+    {
+      "surface": "הסב",
+      "gloss": "kiersi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "väijytyksen"
+    },
+    {
+      "surface": "המארב",
+      "gloss": "väijytyksen"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "tulemaan"
+    },
+    {
+      "surface": "מאחריהם",
+      "gloss": "heidän takoaan"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ja he olivat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "והמארב",
+      "gloss": "ja väijytys"
+    },
+    {
+      "surface": "מאחריהם",
+      "gloss": "heidän takanaan"
+    }
+  ],
+  "timestamp": "2026-09-07T05:35:57.950987208Z",
+  "model": "glm-5.3"
+}

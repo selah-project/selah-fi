@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja Mikal laski ⟨את⟩ Davidin alas ikkunasta, ja hän meni ja pakeni ja pelastui.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "Ja laski alas"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ikkunasta"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "ikkunan"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ja hän meni"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "ja pakeni"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "ja pelastui"
+    }
+  ],
+  "timestamp": "2026-09-06T23:12:58.892432741Z",
+  "model": "glm-5.3"
+}

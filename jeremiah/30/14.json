@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 30:14",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Kaikki rakastajasi ovat unohtaneet ⟨את⟩ sinut, sinua he eivät etsi; sillä vihollisen iskulla minä löin sinua, armottoman kurituksen — suuren pahantekosi tähden, voimakkaita ⟨ovat⟩ syntisi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "מאהביך",
+      "gloss": "rakastajasi"
+    },
+    {
+      "surface": "שכחוך",
+      "gloss": "ovat unohtaneet sinut"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ sinut",
+      "marks": "pronominimuoto: את + suffiksi, ei merkki vaan 'sinut'"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "ידרשו",
+      "gloss": "etsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מכת",
+      "gloss": "iskulla"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "vihollisen"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "minä löin sinua"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "kurituksen"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "armottoman"
+    },
+    {
+      "surface": "על",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "רב",
+      "gloss": "suuren"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "pahantekosi"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "voimakkaita"
+    },
+    {
+      "surface": "חטאתיך",
+      "gloss": "syntisi"
+    }
+  ],
+  "timestamp": "2026-09-07T00:38:27.598755762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja hän sanoi heille: ”Olkoon niin Jahve teidän kanssanne, kuten minä päästän ⟨את⟩ teidät ja ⟨את⟩ pikkulapsenne; katsokaa, sillä paha ⟨on⟩ kasvojenne edessä.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "olkoon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "teidän kanssanne"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kuten"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "minä päästän"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "pikkulapsenne"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "pikkulapsenne"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "katsokaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "paha"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "kasvojenne"
+    }
+  ],
+  "timestamp": "2026-09-06T21:32:22.874860968Z",
+  "model": "glm-5.3"
+}

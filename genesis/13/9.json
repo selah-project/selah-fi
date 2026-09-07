@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Eikö koko maa ⟨ole⟩ sinun edessäsi? Erkaa, ole hyvä, minusta: jos vasemmalle, minä oikealle; ja jos oikealle, minä vasemmalle.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Eikö"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sinun edessäsi"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "erkaa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ole hyvä"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "minusta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "vasemmalle"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "ja minä oikealle"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ja jos"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "oikealle"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "ja minä vasemmalle"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:34.961607356Z",
+  "model": "glm-5.3"
+}

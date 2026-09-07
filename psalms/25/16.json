@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Käänny puoleeni ja ole minulle armollinen, sillä yksinäinen ja kurja minä olen.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "käänny"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "puoleeni"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ja ole minulle armollinen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "yksinäinen"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "ja kurja"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä olen"
+    }
+  ],
+  "timestamp": "2026-09-07T04:29:29.336773631Z",
+  "model": "glm-5.3"
+}

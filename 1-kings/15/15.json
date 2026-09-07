@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Ja hän toi ⟨את⟩ isänsä pyhitetyt lahjat ja omat pyhitetyt lahjansa Jahven huoneeseen: hopeaa, kultaa ja astioita.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ja hän toi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isänsä pyhitetyt lahjat"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "isänsä pyhitetyt lahjat"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isänsä"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "ja omat pyhitetyt lahjansa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneeseen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "hopeaa"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "kultaa"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "ja astioita"
+    }
+  ],
+  "timestamp": "2026-09-06T23:41:23.284670422Z",
+  "model": "glm-5.3"
+}

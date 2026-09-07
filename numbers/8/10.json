@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 8:10",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja sinä saatat ⟨את⟩ leviiläiset Jahven eteen, ja Israelin pojat panevat ⟨את⟩ kätensä leviiläisten päälle.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "ja sinä saatat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leviiläiset"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviiläiset"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "ja panevat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kätensä"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "kätensä"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviiläisten"
+    }
+  ],
+  "timestamp": "2026-09-06T22:06:36.123423472Z",
+  "model": "glm-5.3"
+}

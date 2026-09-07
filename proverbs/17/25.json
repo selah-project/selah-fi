@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 17:25",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Kauna isälleen ⟨on⟩ tyhmä poika, ja katkeruus hänelle, joka synnytti hänet.",
+  "tokens": [
+    {
+      "surface": "כעס",
+      "gloss": "Kauna"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "isälleen"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "tyhmä"
+    },
+    {
+      "surface": "וממר",
+      "gloss": "ja katkeruus"
+    },
+    {
+      "surface": "ליולדתו",
+      "gloss": "hänelle, joka synnytti hänet"
+    }
+  ],
+  "timestamp": "2026-09-07T03:10:45.926117545Z",
+  "model": "glm-5.3"
+}

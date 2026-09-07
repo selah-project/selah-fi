@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja Shemu'el saattoi lähelle ⟨את⟩ kaikki Israelin heimot, ja Binyaminin heimo otettiin.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ja saattoi lähelle"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki Israelin heimot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "heimot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ja otettiin"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "heimo"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyaminin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:08:00.344862638Z",
+  "model": "glm-5.3"
+}

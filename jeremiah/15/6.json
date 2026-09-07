@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 15:6",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Sinä hylkäsit ⟨את⟩ minut, sanoo Jahve: taaksepäin sinä käyt, ja minä ojensin ⟨את⟩ käteni sinua vastaan ja sinut hävittäen — minä väsyin armahtamasta.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "Sinä"
+    },
+    {
+      "surface": "נטשת",
+      "gloss": "hylkäsit"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "minut"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "taaksepäin"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "sinä käyt"
+    },
+    {
+      "surface": "ואט",
+      "gloss": "ja minä ojensin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "käteni"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "käteni"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sinua vastaan"
+    },
+    {
+      "surface": "ואשחיתך",
+      "gloss": "ja sinut hävittäen"
+    },
+    {
+      "surface": "נלאיתי",
+      "gloss": "minä väsyin"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "armahtamasta"
+    }
+  ],
+  "timestamp": "2026-09-07T00:30:00.905873291Z",
+  "model": "glm-5.3"
+}

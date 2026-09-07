@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "ja ⟨את⟩ Holonin ja ⟨את⟩ sen laidunmaat, ja ⟨את⟩ Devirin (Debirin) ja ⟨את⟩ sen laidunmaat.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Holonin"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Holonin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen laidunmaat"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sen laidunmaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Devirin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devirin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen laidunmaat"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sen laidunmaat"
+    }
+  ],
+  "timestamp": "2026-09-06T22:48:21.614492113Z",
+  "model": "glm-5.3"
+}

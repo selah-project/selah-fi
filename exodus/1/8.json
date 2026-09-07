@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Nousi uusi kuningas Mitsrajimin (Egyptin) yli, joka ei tuntenut ⟨את⟩ Josefia.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Nousi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "uusi"
+    },
+    {
+      "surface": "על",
+      "gloss": "yli"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin (Egyptin)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tuntenut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josefia"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefia"
+    }
+  ],
+  "timestamp": "2026-09-06T21:27:44.142129824Z",
+  "model": "glm-5.3"
+}

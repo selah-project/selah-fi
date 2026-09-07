@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 35,
+  "translation": "Kaikki luuni sanovat: Jahve, kuka ⟨on⟩ sinun kaltaisesi, joka pelastat köyhän hänelle väkevältä, ja köyhän ja kurjan hänen ryöstäjältään!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "luuni"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "sanovat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "sinun kaltaisesi"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "pelastat"
+    },
+    {
+      "surface": "עני",
+      "gloss": "köyhän"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "hänelle väkevältä"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "häneltä"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "ja köyhän"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ja kurjan"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "hänen ryöstäjältään"
+    }
+  ],
+  "timestamp": "2026-09-07T02:03:49.078368549Z",
+  "model": "glm-5.3"
+}

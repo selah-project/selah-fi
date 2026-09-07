@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja kun olet syönyt ja ravitset itsesi, siunaa ⟨את⟩ Jahvea, Elohimiasi, hyvästä maasta, jonka hän on antanut sinulle.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "ja kun olet syönyt"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "ja ravitset itsesi"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "siunaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimiasi"
+    },
+    {
+      "surface": "על",
+      "gloss": "hyvästä maasta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "hyvästä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "hän on antanut"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    }
+  ],
+  "timestamp": "2026-09-06T22:26:31.283535658Z",
+  "model": "glm-5.3"
+}

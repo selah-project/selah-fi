@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja Elohim sanoi Bilamille: ”Et saa mennä heidän mukaansa. Et saa kiroata ⟨את⟩ kansaa, sillä se on siunattu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ille"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilamille"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Et"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "saa mennä"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "heidän mukaansa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Et"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "saa kiroata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "siunattu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se on"
+    }
+  ],
+  "timestamp": "2026-09-06T22:14:26.602313663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja hänen sisarensa Hammoleket synnytti ⟨את⟩ Ishodin sekä ⟨את⟩ Aviezerin ja ⟨את⟩ Mahlan.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "Ja hänen sisarensa"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "Hammoleket"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ishodin"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "Ishodin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sekä ⟨את⟩",
+      "marks": "Aviezerin"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Aviezerin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Mahlan"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Mahlan"
+    }
+  ],
+  "timestamp": "2026-09-07T05:15:08.790600875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 26:5",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Vastaa tyhmälle hänen tyhmyytensä mukaan, ettei hän olisi viisas omien silmiensä mukaan.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Vastaa"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "tyhmälle"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "hänen tyhmyytensä mukaan"
+    },
+    {
+      "surface": "פן",
+      "gloss": "etti"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olisi"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "viisas"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "omien silmiensä mukaan"
+    }
+  ],
+  "timestamp": "2026-09-07T03:17:08.224801688Z",
+  "model": "glm-5.3"
+}

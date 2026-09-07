@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Käännä minulta pois pilkka ja halveksunta, sillä sinun todistuksiasi minä olen varjellut.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Käännä pois"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "minulta"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "pilkka"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "ja halveksunta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "sinun todistuksiasi"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "olen varjellut"
+    }
+  ],
+  "timestamp": "2026-09-07T02:45:30.164755015Z",
+  "model": "glm-5.3"
+}

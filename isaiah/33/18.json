@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 33:18",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Sinun sydämesi mietiskeli kauhua: missä on kirjuri? Missä on punnitsija? Missä on se, joka laski ⟨את⟩ tornit?",
+  "tokens": [
+    {
+      "surface": "לבך",
+      "gloss": "sinun sydämesi"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "mietiskeli"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "kauhua"
+    },
+    {
+      "surface": "איה",
+      "gloss": "missä on"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kirjuri"
+    },
+    {
+      "surface": "איה",
+      "gloss": "missä on"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "punnitsija"
+    },
+    {
+      "surface": "איה",
+      "gloss": "missä on"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "se, joka laski"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tornit"
+    },
+    {
+      "surface": "המגדלים",
+      "gloss": "tornit"
+    }
+  ],
+  "timestamp": "2026-09-07T00:09:43.379775262Z",
+  "model": "glm-5.3"
+}

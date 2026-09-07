@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Älä anna ⟨את⟩ palvelijatartasi olla Belialin tytär, sillä runsuudesta puheestani ja kiivastuksistani minä olen puhunut tähän asti.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "anna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palvelijatartasi"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "palvelijatartasi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "olla"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tytär"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belial"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "runsuudesta"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "puheestani"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "ja kiivastuksistani"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "olen puhunut"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tähän"
+    }
+  ],
+  "timestamp": "2026-09-06T23:04:46.110285309Z",
+  "model": "glm-5.3"
+}

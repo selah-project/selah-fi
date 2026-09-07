@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 3:32",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja leviläisten päämiesten päämies ⟨on⟩ Elazar, kohen Aharonin poika, ⟨kaitsijana⟩ pyhyyden vartioinnin vartijoille.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "ja päämies"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "päämiesten"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "leviläisten"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonin"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "kaitsintana"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "vartijoiden"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "vartioinnin"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pyhyyden"
+    }
+  ],
+  "timestamp": "2026-09-06T22:03:16.487233834Z",
+  "model": "glm-5.3"
+}

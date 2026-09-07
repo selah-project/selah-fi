@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 38,
+  "translation": "Olen voipunut ja ylen murskattu; karjun sydämeni huokauksesta.",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "olen voipunut"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "ja ylen murskattu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yli (määrään asti)"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ylipäänsä"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "karjun"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "huokauksesta"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sydämeni"
+    }
+  ],
+  "timestamp": "2026-09-07T02:07:05.478308720Z",
+  "model": "glm-5.3"
+}

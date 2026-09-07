@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja Jehoshua (Joosua) käski ⟨את⟩ kansan esimiehiä sanoen:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Ja käski"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansan esimiehiä"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "esimiehiä"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    }
+  ],
+  "timestamp": "2026-09-06T22:39:49.581491651Z",
+  "model": "glm-5.3"
+}

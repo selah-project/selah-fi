@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja he vastasivat ⟨את⟩ Jehoshuaa (Joosua) sanoen: Kaiken, minkä sinä olet käskenyt meidän tehdä, me teemme, ja minne ikinä sinä meidät lähetät, sinne me menemme.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Ja he vastasivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoshuaa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshuaa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minkä"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "käskit meitä"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "me teemme"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja minne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkialle minne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "missä"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "lähetät meidät"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "me menemme"
+    }
+  ],
+  "timestamp": "2026-09-06T22:40:59.448107338Z",
+  "model": "glm-5.3"
+}

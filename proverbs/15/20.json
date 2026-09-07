@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 15:20",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Viisas poika ilahduttaa isää, mutta tyhmä ihminen halveksii äitiänsä.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "Viisas"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ilahduttaa"
+    },
+    {
+      "surface": "אב",
+      "gloss": "isää"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "mutta tyhmä"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihminen"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "halveksii"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "äitiänsä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:36:46.215129496Z",
+  "model": "glm-5.3"
+}

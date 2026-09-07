@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Jumalaton himoitsee pahojen verkkoa, mutta vanhurskasten juuri ⟨antaa⟩ ⟨satoa⟩.",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "himoitsee"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "jumalaton"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "verkko"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "pahojen"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "mutta juuri"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "vanhurskasten"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "antaa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:06:29.169579376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja Avshai, Tserujan poika, löi ⟨את⟩ Edomin Suolalaaksossa, kahdeksantoista tuhatta.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "Ja Avshai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tserujan"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "löi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomin"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomin"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "laaksossa"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Suola-"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "kahdeksan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "toista"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhatta"
+    }
+  ],
+  "timestamp": "2026-09-07T05:23:15.218879407Z",
+  "model": "glm-5.3"
+}

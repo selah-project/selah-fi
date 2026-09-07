@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 146,
+  "translation": "Ylistän Jahvea elämäni päivinä, veisaen Elohimilleni niin kauan kuin olen.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "Ylistän"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "elämäni päivinä"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "veisaen"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohimilleni"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "niin kauan kuin olen"
+    }
+  ],
+  "timestamp": "2026-09-07T02:57:12.822522913Z",
+  "model": "glm-5.3"
+}

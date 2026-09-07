@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja heprealaiset ylittivät ⟨את⟩ Jordanin, Gadin ja Gileadin maahan; ja Shaul (Saul) oli vielä Gilgalissa, ja kaikki kansa vapisi hänen perässään.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "Ja heprealaiset"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ylittivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordanin"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadin"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "ja Gileadin"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ja Shaul"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "oli vielä"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "Gilgalissa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "vapisi"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "hänen perässään"
+    }
+  ],
+  "timestamp": "2026-09-06T23:08:27.263950388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja Moshe kuuli, ja se oli hyvä hänen silmissään.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Ja kuuli"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "ja se oli hyvä"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "hänen silmissään"
+    }
+  ],
+  "timestamp": "2026-09-06T21:52:25.377878715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "vaan totisesti avaa ⟨את⟩ kätesi hänelle, ja lainaa totisesti hänelle kylliksi hänen puutteeseensa, sitä mikä häneltä puuttuu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vaan"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "totisesti"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "avaat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kätesi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kätesi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "ja totisesti"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "lainaat hänelle"
+    },
+    {
+      "surface": "די",
+      "gloss": "kylliksi"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "hänen puutteeseensa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sitä"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "puuttuu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "häneltä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:30:11.933691336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 150,
+  "translation": "Kunnioittakaa häntä hänen voimateoissaan, kunnioittakaa häntä hänen suuruutensa runsauden mukaan.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Kunnioittakaa häntä"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "hänen voimateoissaan"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "kunnioittakaa häntä"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "runsauden mukaan"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "hänen suuruutensa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:56:58.955163149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 49,
+  "translation": "Asti isiensä sukupolveen hän saapuu; iankaikkisesti he eivät näe valoa.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "saapuu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Asti"
+    },
+    {
+      "surface": "דור",
+      "gloss": "sukupolveen"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "isiensä"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "näe"
+    },
+    {
+      "surface": "אור",
+      "gloss": "valoa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:10:26.140959200Z",
+  "model": "glm-5.3"
+}

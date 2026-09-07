@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Hänen miehensä sydän luottaa häneen, ja saalista ei häneltä puutu.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "luottaa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "häneen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sydän"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "hänen miehensä"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "ja saalista"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "puutu"
+    }
+  ],
+  "timestamp": "2026-09-07T03:21:22.157260208Z",
+  "model": "glm-5.3"
+}

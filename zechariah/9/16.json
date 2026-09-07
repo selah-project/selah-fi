@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 9:16",
+  "book": "zechariah",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja Jahve, heidän Elohiminsa, pelastaa heidät sinä päivänä kuin kansansa laumana, sillä he ovat kuin kruunun kivet, loistaen häin maansa yllä.",
+  "tokens": [
+    {
+      "surface": "והושיעם",
+      "gloss": "Ja pelastaa heidät"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "heidän Elohiminsa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "kuin lauma"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kansansa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "kivet"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "kruunun"
+    },
+    {
+      "surface": "מתנוססות",
+      "gloss": "loistaen kohoavat"
+    },
+    {
+      "surface": "על",
+      "gloss": "yli"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "hänen maansa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:47:49.669123139Z",
+  "model": "glm-5.3"
+}

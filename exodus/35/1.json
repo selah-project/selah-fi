@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 35,
+  "translation": "Ja kokosi Moshe (Mooses) ⟨את⟩ koko Israelin lasten seurakunnan ja sanoi heille: Nämä ovat sanat, jotka Jahve on käskenyt tehdä ⟨את⟩ ne.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "Ja kokosi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko Israelin lasten seurakunnan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "seurakunnan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Nämä"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "on käskenyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "tehdä"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ne"
+    }
+  ],
+  "timestamp": "2026-09-06T21:44:24.522063369Z",
+  "model": "glm-5.3"
+}

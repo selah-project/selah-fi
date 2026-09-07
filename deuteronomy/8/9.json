@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 8:9",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Maa, jossa et syö leipää köyhyydessä, ei sinulta puutu siinä mitään; maa, jonka kivet ovat rautaa ja jonka vuorista sinä louhit kuparia.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jossa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "במסכנת",
+      "gloss": "köyhyydessä"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "syöt"
+    },
+    {
+      "surface": "בה",
+      "gloss": "siinä"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "puutu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mitään"
+    },
+    {
+      "surface": "בה",
+      "gloss": "siinä"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "sen kivet"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "rautaa"
+    },
+    {
+      "surface": "ומהרריה",
+      "gloss": "ja sen vuorista"
+    },
+    {
+      "surface": "תחצב",
+      "gloss": "louhit"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kuparia"
+    }
+  ],
+  "timestamp": "2026-09-06T22:26:31.282308446Z",
+  "model": "glm-5.3"
+}

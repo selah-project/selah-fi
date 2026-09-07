@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 14:30",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja Jahve pelasti sinä päivänä ⟨את⟩ Israelin Mitsrajimin (Egyptin) kädestä, ja Israel näki ⟨את⟩ Mitsrajimin kuolleena meren rannalla.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "Ja pelasti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sinä päivänä"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "siinä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kädestä"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ja näki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajimin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "מת",
+      "gloss": "kuolleena"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "שפת",
+      "gloss": "rannalla"
+    },
+    {
+      "surface": "הים",
+      "gloss": "meren"
+    }
+  ],
+  "timestamp": "2026-09-06T21:33:59.184006492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Älä kiiruhda lähteä hänen kasvojensa edestä, älä jää seisoen pahaan asiaan, sillä kaiken, mitä hän haluaa, hän tekee.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "kiiruhda"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "hänen kasvojensa edestä"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "lähteä\/mene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "äällä"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "jää seisoen"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "asiaan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pahaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "hän haluaa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hän tekee"
+    }
+  ],
+  "timestamp": "2026-09-07T04:38:25.062811120Z",
+  "model": "glm-5.3"
+}

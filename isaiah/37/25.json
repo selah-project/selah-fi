@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Minä kaivoin ja join vettä, ja jalkojeni pohjilla minä kuivannan kaikki Mitsorin (Egyptin) virrat.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Minä"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "kaivoin"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "ja join"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vettä"
+    },
+    {
+      "surface": "ואחרב",
+      "gloss": "ja kuivannan"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "pohjilla"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "jalkojeni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "virrat"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Mitsorin (Egyptin)"
+    }
+  ],
+  "timestamp": "2026-09-07T00:13:03.556058825Z",
+  "model": "glm-5.3"
+}

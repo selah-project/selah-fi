@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "deuteronomy 28:36",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Jahve vie ⟨את⟩ sinut ja ⟨את⟩ kuninkaasi, jonka asetat yllesi, kansan luo, jota et ole tuntenut sinä enkä — sinä etkä isäsi; ja siellä sinä palvelet muita jumalia, puuta ja kiveä.",
+  "tokens": [
+    {
+      "surface": "יולך",
+      "gloss": "vie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "sinut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kuninkaasi"
+    },
+    {
+      "surface": "מלכך",
+      "gloss": "kuninkaasi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "asetat"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "yllesi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jota"
+    },
+    {
+      "surface": "לא",
+      "gloss": "et"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ole tuntenut"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "ואבתיך",
+      "gloss": "eivätkä isäsi"
+    },
+    {
+      "surface": "ועבדת",
+      "gloss": "ja palvelet"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jumalia"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "muita"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "puuta"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ja kiveä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:35:53.472941104Z",
+  "model": "glm-5.3"
+}

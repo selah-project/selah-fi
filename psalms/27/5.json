@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Sillä hän kätkee minut majansa sisään pahana päivänä, hän peittää minut telttansa kätköön, kallion päälle hän korottaa minut.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "hän kätkee minut"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "majansa sisään"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pahana"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "hän peittää minut"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "kätköön"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "telttansa"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "kallion päälle"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "hän korottaa minut"
+    }
+  ],
+  "timestamp": "2026-09-07T02:01:47.865187122Z",
+  "model": "glm-5.3"
+}

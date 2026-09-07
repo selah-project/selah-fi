@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja ⟨את⟩ talonsa rakensi Shelomo (Salomo) kolmetoista vuotta, ja hän sai valmiiksi ⟨את⟩ koko talonsa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "talonsa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "talonsa"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "rakensi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "kolme-"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-toista"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "ja hän sai valmiiksi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko talonsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "talonsa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:35:41.237264675Z",
+  "model": "glm-5.3"
+}

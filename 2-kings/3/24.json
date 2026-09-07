@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 3:24",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja he tulivat Israelin leiriin, ja Israel nousi ja löi ⟨את⟩ Moavia, ja he pakenivat heidän edestään; ja he tunkeutuivat siihen ja löivät ⟨את⟩ Moavia.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ja he tulivat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "leiriin"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "leiri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "ja nousivat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ja löi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moavia"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moavia"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ja he pakenivat"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "heidän edestään"
+    },
+    {
+      "surface": "ויבו",
+      "gloss": "ja he tunkeutuivat"
+    },
+    {
+      "surface": "בה",
+      "gloss": "siihen"
+    },
+    {
+      "surface": "והכות",
+      "gloss": "lyömään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moavia"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moavia"
+    }
+  ],
+  "timestamp": "2026-09-06T23:48:07.670863090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Myös nefesh, jolla ei ole tietoa, ei ⟨ole⟩ hyvä, ja joka jaloillaan kiirehtii, tekee syntiä.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Myös"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ilman"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tietoa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvä"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "ja kiirehtii"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "jaloillaan"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "tekee syntiä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:13:19.549520333Z",
+  "model": "glm-5.3"
+}

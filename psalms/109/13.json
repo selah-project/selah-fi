@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 109,
+  "translation": "Olkoon hänen loppunsa hävittettäväksi; toisessa sukupolvessa pyyhkiköön heidän nimensä pois.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Olkoon"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "hänen loppunsa"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "hävittettäväksi"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "sukupolvessa"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "toisessa"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "pyyhkiköön pois"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "heidän nimensä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:41:56.585091105Z",
+  "model": "glm-5.3"
+}

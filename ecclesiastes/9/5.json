@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 9:5",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Sillä elävät tietävät, että he kuolevat, mutta kuolleet eivät tiedä mitään, eikä heillä ole enää palkkaa, sillä heidän muistonsa on unohdettu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "elävät"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "tietävät"
+    },
+    {
+      "surface": "שימתו",
+      "gloss": "että he kuolevat"
+    },
+    {
+      "surface": "והמתים",
+      "gloss": "mutta kuolleet"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "tiedä"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "mitään"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä ole"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enää"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heillä"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "palkkaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "on unohdettu"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "heidän muistonsa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:38:45.901249006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 22:5",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Sillä kuoleman murtajat ympäröivät minut, Belialin purot peljästyttivät minut.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "אפפני",
+      "gloss": "ympäröivät minut"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "murtajat"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kuoleman"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "purot"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belialin"
+    },
+    {
+      "surface": "יבעתני",
+      "gloss": "peljästyttivät minut"
+    }
+  ],
+  "timestamp": "2026-09-06T23:29:17.006343304Z",
+  "model": "glm-5.3"
+}

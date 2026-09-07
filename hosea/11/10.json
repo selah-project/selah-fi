@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 11:10",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Jahven jälkeen he kulkevat; kuin leijona hän karjuu — sillä hän karjuu, ja lapset vavahtavat merestä.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "jälkeen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "he kulkevat"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "kuin leijona"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "hän karjuu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "karjuu"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "ja vavahtavat"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "lapset"
+    },
+    {
+      "surface": "מים",
+      "gloss": "merestä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:22:44.555506756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 15:35",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Ja Jahve sanoi Moshelle: Kuolemalla kuoltakoon se mies; kivittäköön ⟨את⟩ hänet kivillä koko seurakunta, leirin ulkopuolelle.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-lle"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshelle"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kuolemalla"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "kuoltakoon"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "se mies"
+    },
+    {
+      "surface": "רגום",
+      "gloss": "kivittäköön"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänen",
+      "marks": "hänet (se mies)"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "kivillä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "seurakunta"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ulkopuolelle"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "leirin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:11:15.811576036Z",
+  "model": "glm-5.3"
+}

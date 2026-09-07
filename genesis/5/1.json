@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 5:1",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Tämä on kirja Adamin sukupolvesta. Päivänä, jona Elohim loi ihmisen, Elohimin kaltaisuuden mukaan hän teki ⟨את⟩ hänet.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Tämä"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kirja"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "sukupolvesta"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adamin"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "Päivänä"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "loi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmisen"
+    },
+    {
+      "surface": "בדמות",
+      "gloss": "kaltaisuuden mukaan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet",
+      "marks": "hänet"
+    }
+  ],
+  "timestamp": "2026-09-06T21:05:29.510763754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 109,
+  "translation": "Älköön hänellä olko hesediä venyttäjää, ja älköön olko hänen orpoillensa armahtajaa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Älköön"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "olko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänellä"
+    },
+    {
+      "surface": "משך",
+      "gloss": "venyttäjää"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja älköön"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "olko"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "armahtajaa"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "hänen orpoillensa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:41:43.117092559Z",
+  "model": "glm-5.3"
+}

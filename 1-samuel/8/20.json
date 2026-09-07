@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 8:20",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "ja mekin olemme niin kuin kaikki kansat, ja kuninkaamme tuomitsee meidät, ja hän käy meidän edellämme ja taistelee ⟨את⟩ sotamme.",
+  "tokens": [
+    {
+      "surface": "והיינו",
+      "gloss": "ja olemme"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mekin"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "me"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "niin kuin kaikki"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kansat"
+    },
+    {
+      "surface": "ושפטנו",
+      "gloss": "ja tuomitsee"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "kuninkaamme"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ja käy"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "meidän edellämme"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "ja taistelee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sotamme"
+    },
+    {
+      "surface": "מלחמתנו",
+      "gloss": "sotamme"
+    }
+  ],
+  "timestamp": "2026-09-06T23:06:00.983679594Z",
+  "model": "glm-5.3"
+}

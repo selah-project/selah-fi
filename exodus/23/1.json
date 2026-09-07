@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Älä nosta väärää sanomaa; älä pane kättäsi jumalattoman kanssa, niin että tulisit väkivaltaiseksi todistajaksi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "nosta"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sanomaa"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "väärää"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "pane"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kättäsi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "jumalattoman"
+    },
+    {
+      "surface": "להית",
+      "gloss": "niin että tulisit"
+    },
+    {
+      "surface": "עד",
+      "gloss": "todistajaksi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "väkivaltaiseksi"
+    }
+  ],
+  "timestamp": "2026-09-07T04:09:23.005338769Z",
+  "model": "glm-5.3"
+}

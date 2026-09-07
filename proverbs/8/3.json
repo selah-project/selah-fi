@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Porttien vierellä, kaupungin suulla, sisäänkäyntien ovilla hän huutaa.",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "Porttien vierellä"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "porttien"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "suulla"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "sisäänkäyntien"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "ovilla"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "hän huutaa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:04:03.249505249Z",
+  "model": "glm-5.3"
+}

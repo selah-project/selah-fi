@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Eikö tämä tee tätä sinullesi itsellesi, koska hylkäsit ⟨את⟩ Jahven, Elohimisi, silloin kun hän kuljetti sinua tiellä?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Eikö"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tee"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinullesi itsellesi"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "hylkäsit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimisi"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "silloin kun"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "kuljetti sinua"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tiellä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:24:05.754002332Z",
+  "model": "glm-5.3"
+}

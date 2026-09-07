@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 14:44",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja kohen (pappi) tulee ja katsoo, ja katso: tauti on levinnyt talossa — syövyttävää tsaraatia (spitaalia) se ⟨on⟩ talossa; epäpuhas se ⟨on⟩.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ja tulee"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen (pappi)"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ja katsoo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "on levinnyt"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "tauti"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "talossa"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraatia (spitaalia)"
+    },
+    {
+      "surface": "ממארת",
+      "gloss": "syövyttävää"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "talossa"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "epäpuhas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-09-06T21:53:48.998002360Z",
+  "model": "glm-5.3"
+}

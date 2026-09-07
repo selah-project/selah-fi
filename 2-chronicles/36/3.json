@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 36,
+  "translation": "Ja Mitsrajimin (Egyptin) kuningas syrjäytti hänet Jerushalajimissa ja langetti ⟨את⟩ maalle sakon: sata talenttia hopeaa ja talentti kultaa.",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "ja syrjäytti hänet"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerushalajimissa"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "ja langetti sakon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maalle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sata"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talenttia"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "hopeaa"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "ja talentti"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kultaa"
+    }
+  ],
+  "timestamp": "2026-09-07T05:55:43.786770344Z",
+  "model": "glm-5.3"
+}

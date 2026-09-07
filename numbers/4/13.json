@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 4:13",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja he poistavat tuhkan ⟨את⟩ alttarilta ja levittävät sen päälle purppuravaatteen.",
+  "tokens": [
+    {
+      "surface": "ודשנו",
+      "gloss": "ja he poistavat tuhkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alttarilta"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarilta"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "ja levittävät"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sen päälle"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "vaatteen"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "purppura"
+    }
+  ],
+  "timestamp": "2026-09-06T22:04:06.735332396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 9:13",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja ⟨את⟩ polttouhrin he toimittivat hänelle, paloiksi jaettuna, ja ⟨את⟩ pään, ja hän savusti ⟨את⟩ ne alttarilla.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "polttouhrin"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "polttouhrin"
+    },
+    {
+      "surface": "המציאו",
+      "gloss": "he toimittivat"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "paloiksi jaettuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "pään"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "pään"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ja hän savusti"
+    },
+    {
+      "surface": "על",
+      "gloss": "yläpuolella"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:50:21.591709450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Hän kohtelee häntä hyvällä eikä pahalla, kaikkina elämänsä päivinä.",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "hän kohtelee häntä"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvällä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pahalla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkina"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päivinä"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "elämänsä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:21:22.157612307Z",
+  "model": "glm-5.3"
+}

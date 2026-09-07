@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 4:1",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja minä käännyin, minä, ja näin ⟨את⟩ kaikki sorretut, joita sorretaan auringon alla, ja katso: sorrettujen kyyneleitä, eikä heillä ollut lohduttajaa, ja heidän sortajiensa kädessä oli voima, eikä heillä ollut lohduttajaa.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "ja minä käännyin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ja näin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki sorretut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "העשקים",
+      "gloss": "sorretut"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joita"
+    },
+    {
+      "surface": "נעשים",
+      "gloss": "sorretaan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alla"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "auringon"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "דמעת",
+      "gloss": "kyyneleitä"
+    },
+    {
+      "surface": "העשקים",
+      "gloss": "sorrettujen"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heillä"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "lohduttajaa"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ja kädessä"
+    },
+    {
+      "surface": "עשקיהם",
+      "gloss": "heidän sortajiensa"
+    },
+    {
+      "surface": "כח",
+      "gloss": "voima"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heillä"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "lohduttajaa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:06:57.649877878Z",
+  "model": "glm-5.3"
+}

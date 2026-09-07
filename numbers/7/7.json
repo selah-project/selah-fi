@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "⟨את⟩ kaksi vaunua ja ⟨את⟩ neljä karjaeläintä hän antoi Gereshonin pojille (Gershonin pojille), heidän palveluksensa mukaan.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaksi vaunua"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "vaunua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "neljä karjaeläintä"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "neljä"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "karjaeläintä"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "hän antoi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pojille"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gereshonin"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "mukaan"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "heidän palveluksensa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:04:27.796613601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 44,
+  "translation": "Ja he versovat ruohon keskellä, kuin pajut vesien virtojen varrella.",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "Ja he versovat"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "keskellä"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ruohon"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "kuin pajut"
+    },
+    {
+      "surface": "על",
+      "gloss": "varrella"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "virtojen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vesien"
+    }
+  ],
+  "timestamp": "2026-09-07T00:15:31.615280734Z",
+  "model": "glm-5.3"
+}

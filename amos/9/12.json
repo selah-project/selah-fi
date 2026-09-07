@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 9:12",
+  "book": "amos",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "jotta he perivät ⟨את⟩ Edomin jäännöksen ja kaikki ne kansat, joille minun nimeni on kutsuttu, sanoo Jahve, joka tekee tämän.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "jotta"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "perivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomin jäännöksen"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "jäännöksen"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kansat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joille"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "on kutsuttu"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "nimeni"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "heidän ylleen"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sanoo (oraakkeli)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tekee"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tämän"
+    }
+  ],
+  "timestamp": "2026-09-07T01:30:00.994419711Z",
+  "model": "glm-5.3"
+}

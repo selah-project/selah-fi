@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja kuningas verhosi ⟨את⟩ kasvonsa, ja kuningas huusi suurella äänellä: Poikani, Avshalom (Absalom)! Avshalom, poikani, poikani!",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ja kuningas"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "verhosi hitaasti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasvonsa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "kasvonsa"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "ja hän huusi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "קול",
+      "gloss": "äänellä"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suurella"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikani"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikani"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikani"
+    }
+  ],
+  "timestamp": "2026-09-07T04:24:12.573583331Z",
+  "model": "glm-5.3"
+}

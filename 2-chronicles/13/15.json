@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 13:15",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja Yehudan miehet nostivat sotahuudon, ja kun Yehudan miehet nostivat huudon, Elohim löi ⟨את⟩ Yarov'amin ja koko Israelin Avijan ja Yehudan edessä.",
+  "tokens": [
+    {
+      "surface": "ויריעו",
+      "gloss": "nostivat sotahuudon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudan"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja ⟨tapahtui⟩"
+    },
+    {
+      "surface": "בהריע",
+      "gloss": "kun nostivat huudon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudan"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "löi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarov'amin"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarov'amin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja koko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Avijan"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ja Yehudan"
+    }
+  ],
+  "timestamp": "2026-09-07T05:35:57.952234114Z",
+  "model": "glm-5.3"
+}

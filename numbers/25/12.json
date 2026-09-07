@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Sen tähden sano: Katso, minä annan hänelle ⟨את⟩ liittoni, shalom (rauha).",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Sen tähden"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sano"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Katso, minä"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "annan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liittoni"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "liittoni"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom (rauha)"
+    }
+  ],
+  "timestamp": "2026-09-06T22:15:22.157027410Z",
+  "model": "glm-5.3"
+}

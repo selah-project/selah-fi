@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 19:11",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Katso, sinä kuulit ⟨את⟩ sen, minkä Ashurin kuninkaat tekivät kaikille maille hävittääkseen ne kokonaan — ja sinä pelastut?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "kuulit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen, minkä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minkä"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "tekivät"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kuninkaat"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashurin"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kaikille"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "maille"
+    },
+    {
+      "surface": "להחרימם",
+      "gloss": "hävittääkseen ne kokonaan"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ja sinä"
+    },
+    {
+      "surface": "תנצל",
+      "gloss": "pelastut"
+    }
+  ],
+  "timestamp": "2026-09-06T23:55:22.332779860Z",
+  "model": "glm-5.3"
+}

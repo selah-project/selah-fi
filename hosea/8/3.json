@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Israel hylkäsi hyvän; vihollinen ajaa häntä takaa.",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "hylkäsi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvän"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "vihollinen"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "ajaa takaa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:23:24.747164812Z",
+  "model": "glm-5.3"
+}

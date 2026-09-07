@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 8:6",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja kuningas kysyi naiselta, ja hän kertoi hänelle; ja kuningas antoi hänelle yhden eunukin sanoen: Palauta ⟨את⟩ kaikki, mikä hänellä ⟨on⟩, ja ⟨את⟩ kaikki pellon tuotteet siitä päivästä, jona hän jätti ⟨את⟩ maan, tähän päivään asti.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Ja kysyi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "naiselta"
+    },
+    {
+      "surface": "ותספר",
+      "gloss": "ja kertoi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ja antoi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "eunukin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yhden"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "Palauta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki, mikä hänellä on"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mikä"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hänellä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki pellon tuotteet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "tuotteet"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pellon"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "siitä päivästä"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "jona hän jätti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tähän päivään"
+    }
+  ],
+  "timestamp": "2026-09-06T23:52:19.035831788Z",
+  "model": "glm-5.3"
+}

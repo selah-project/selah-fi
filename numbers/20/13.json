@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 20:13",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Nämä ovat Meriban vedet, joissa Israelin pojat riitelivät ⟨את⟩ Jahvea vastaan, ja hän pyhittyi heissä.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Nämä"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vedet"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriban"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joissa"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "riitelivät"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ja pyhittyi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "heissä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:13:43.529413641Z",
+  "model": "glm-5.3"
+}

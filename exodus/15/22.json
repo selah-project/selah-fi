@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 15:22",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Ja Moshe (Mooses) saattoi ⟨את⟩ Israelin liikkeelle ruokomerestä, ja he lähtivät Shurin (Suurin) erämaahan, ja he vaelsivat kolme päivää erämaassa, eivätkä he löytäneet vettä.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "ja saattoi liikkeelle"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "מים",
+      "gloss": "merestä"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ruoko-"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "ja he lähtivät"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…aan"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "erämaahan"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shurin"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ja he vaelsivat"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivää"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "erämaassa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "he löytäneet"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vettä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:33:38.255049134Z",
+  "model": "glm-5.3"
+}

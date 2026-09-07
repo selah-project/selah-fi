@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 39:6",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 39,
+  "translation": "Ja he tekivät ⟨את⟩ shoham-kivet, kultasidoksiin asetettuina, sinetin kaiverrusten tavoin kaiverrettuina, Israelin poikien nimillä.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ja he tekivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shoham-kivet"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "kivet"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "shoham-"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "asetettuina"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "sidoksiin"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kulta-"
+    },
+    {
+      "surface": "מפתחת",
+      "gloss": "kaiverrettuina"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "kaiverruksin"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "sinetin"
+    },
+    {
+      "surface": "על",
+      "gloss": "näillä"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nimillä"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikien"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:46:36.732406093Z",
+  "model": "glm-5.3"
+}

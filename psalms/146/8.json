@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 146,
+  "translation": "Jahve avaa sokeiden silmät, Jahve kohottaa kumartuneet, Jahve rakastaa vanhurskaita.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "avaa"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "sokeiden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "kohottaa"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "kumartuneet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "rakastaa"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "vanhurskaat"
+    }
+  ],
+  "timestamp": "2026-09-07T02:58:08.809000624Z",
+  "model": "glm-5.3"
+}

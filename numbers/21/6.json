@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 21:6",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja Jahve lähetti kansan keskelle ⟨את⟩ käärmeet, sarafit, ja ne puraisivat ⟨את⟩ kansaa, ja kuoli paljon kansaa Israelista.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ja lähetti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "kansan keskelle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "käärmeet, sarafit"
+    },
+    {
+      "surface": "הנחשים",
+      "gloss": "käärmeet"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "sarafit"
+    },
+    {
+      "surface": "וינשכו",
+      "gloss": "ja ne puraisivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansaa"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ja kuoli"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansaa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "paljon"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Israelista"
+    }
+  ],
+  "timestamp": "2026-09-06T22:14:40.425811527Z",
+  "model": "glm-5.3"
+}

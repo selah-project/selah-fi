@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 3:13",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja minä olen ilmoittanut hänelle, että minä tuomitsen ⟨את⟩ hänen huoneensa asti ikuisuuteen pahuudesta, jonka hän tiesi: että hänen poikansa kirosivat itselleen, eikä hän nuhdellut heitä.",
+  "tokens": [
+    {
+      "surface": "והגדתי",
+      "gloss": "Ja minä olen ilmoittanut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "tuomitsen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen huoneensa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hänen huoneensa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ikuisuuteen"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "pahuudesta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "hän tiesi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "מקללים",
+      "gloss": "kirosivat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "itselleen"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "hän nuhdellut"
+    },
+    {
+      "surface": "בם",
+      "gloss": "heitä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:06:16.311116643Z",
+  "model": "glm-5.3"
+}

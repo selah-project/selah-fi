@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 33:18",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Kun vanhurskas kääntyy vanhurskaudestaan ja tekee vääryyden, hän kuolee niissä.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "kun kääntyy"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "vanhurskas"
+    },
+    {
+      "surface": "מצדקתו",
+      "gloss": "vanhurskaudestaan"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ja tekee"
+    },
+    {
+      "surface": "עול",
+      "gloss": "vääryyden"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ja kuolee"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "niissä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:08:33.505585126Z",
+  "model": "glm-5.3"
+}

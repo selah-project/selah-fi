@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Katso, kuningas hallitsee kuninkaana vanhursauteen, ja päämiehet hallitsevat oikeuden mukaisesti.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "vanhursauteen"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "hallitsee kuninkaana"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "ja päämiesten"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "oikeuteen"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "he hallitsevat"
+    }
+  ],
+  "timestamp": "2026-09-07T00:10:03.283219722Z",
+  "model": "glm-5.3"
+}

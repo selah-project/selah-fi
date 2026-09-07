@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja minä sanoin teillä tuona aikana sanoen: en minä voi yksinäni kantaa ⟨את⟩ teitä.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ja minä sanoin"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "tuona"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "aikana"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "minä voi"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "yksinäni"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "kantaa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teitä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:22:21.021555846Z",
+  "model": "glm-5.3"
+}

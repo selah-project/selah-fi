@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 7:27",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja jos kieltäydyt päästämästä ⟨heitä⟩, katso, minä lyön ⟨את⟩ koko rajamaasi sammakoilla.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ja jos"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "kieltäydyt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "päästämästä"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "katso"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "lyön"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko rajamaasi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "rajamaasi"
+    },
+    {
+      "surface": "בצפרדעים",
+      "gloss": "sammakoilla"
+    }
+  ],
+  "timestamp": "2026-09-06T21:32:13.397687118Z",
+  "model": "glm-5.3"
+}

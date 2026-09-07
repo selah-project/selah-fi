@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 30:3",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja sinä päällystät ⟨את⟩ sen puhtaalla kullalla: ⟨את⟩ sen katon ja ⟨את⟩ sen seinät ympäriltä ja ⟨את⟩ sen sarvet; ja sinä teet sille kultaisen kruunun ympärille.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "Ja sinä päällystät"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sen"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kulta"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pudas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen katon"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "sen katto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen seinät"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "sen seinät"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympäriltä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen sarvet"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "sen sarvet"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ja sinä teet"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sille"
+    },
+    {
+      "surface": "זר",
+      "gloss": "kruunu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kulta-"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympärille"
+    }
+  ],
+  "timestamp": "2026-09-06T21:41:27.565184394Z",
+  "model": "glm-5.3"
+}

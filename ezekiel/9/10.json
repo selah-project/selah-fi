@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 9:10",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja myös minä: silmäni ei sääli, enkä minä armahda; heidän tien heidän päähänsä minä annan.”",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ja myös"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "sääli"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "silmäni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "אחמל",
+      "gloss": "armahda"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "heidän tien"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "heidän päähänsä"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "minä annan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:55:02.531361147Z",
+  "model": "glm-5.3"
+}

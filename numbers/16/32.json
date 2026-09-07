@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 16:32",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja maa avasi ⟨את⟩ suunsa ja nielaisi ⟨את⟩ heidät ja ⟨את⟩ heidän kotinsa ja ⟨את⟩ kaiken Korahin väen ja ⟨את⟩ kaiken omaisuuden.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "ja avasi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suunsa"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "suunsa"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "ja nielaisi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ heidät"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "heidän kotinsa"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "heidän kotinsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaiken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "väen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka olivat"
+    },
+    {
+      "surface": "לקרח",
+      "gloss": "Korahin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaiken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "omaisuuden"
+    }
+  ],
+  "timestamp": "2026-09-06T22:12:12.738880181Z",
+  "model": "glm-5.3"
+}

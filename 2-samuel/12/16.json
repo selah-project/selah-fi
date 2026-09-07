@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja David etsi ⟨את⟩ Elohimia pojan puolesta, ja David paastosi paaston, ja hän meni sisään ja yöpyi ja makasi maassa.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "Ja etsi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimia"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimia"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "pojan puolesta"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "paastosi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "צום",
+      "gloss": "paaston"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "meni sisään"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "ja yöpyi"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "ja makasi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "maassa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:23:17.832323041Z",
+  "model": "glm-5.3"
+}

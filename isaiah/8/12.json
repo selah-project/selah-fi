@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 8:12",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Älkää sanoko 'salaliittoa' siitä kaikesta, mitä tämä kansa sanoo salaliitoksi, älkääkä ⟨את⟩ sen pelkoa pelätkö älkääkä paisutko sitä hirviöksi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Älkää"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "sanoko"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "'salaliittoa'"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "siitä kaikesta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "salaliitoksi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen pelkoa"
+    },
+    {
+      "surface": "מוראו",
+      "gloss": "sen pelkoa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "pelätkö"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "älkäkä"
+    },
+    {
+      "surface": "תעריצו",
+      "gloss": "paisutko sitä hirviöksi"
+    }
+  ],
+  "timestamp": "2026-09-07T00:02:13.534968063Z",
+  "model": "glm-5.3"
+}

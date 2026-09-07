@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 23:12",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja hän asettui lohkon keskelle ja pelasti sen ja löi ⟨את⟩ filistealaiset; ja Jahve teki suuren pelastuksen.",
+  "tokens": [
+    {
+      "surface": "ויתיצב",
+      "gloss": "ja asettui"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keskelle"
+    },
+    {
+      "surface": "החלקה",
+      "gloss": "lohkon"
+    },
+    {
+      "surface": "ויצילה",
+      "gloss": "ja pelasti sen"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ja löi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistealaiset"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistealaiset"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ja teki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "pelastuksen"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "suuren"
+    }
+  ],
+  "timestamp": "2026-09-06T23:31:46.511142664Z",
+  "model": "glm-5.3"
+}

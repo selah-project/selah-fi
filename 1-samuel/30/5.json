@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 30:5",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja Daavidin (David) kaksi vaimoa vietiin vangiksi: Ahinoam, jizre'eliläinen, ja Avigajil (Abigail), Navalin (Nabal) vaimo, karmelilainen.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "ja kaksi"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "vaimoa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daavidin"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "vietiin vangiksi"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Ahinoam"
+    },
+    {
+      "surface": "היזרעלית",
+      "gloss": "jizre'eliläinen"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "ja Avigajil"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vaimo"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Navalin"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "karmelilainen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:17:06.243506886Z",
+  "model": "glm-5.3"
+}

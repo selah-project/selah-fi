@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 12:6",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja Shemuel sanoi kansalle: Jahve ⟨on⟩ se, joka teki ⟨את⟩ Moshen (Mooses) ja ⟨את⟩ Aharonin (Aaron), ja joka toi ⟨את⟩ esi-isänne ylös maasta Mitsrajimista (Egypti).",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kansalle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshen (Mooses)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Aharonin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonin (Aaron)"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ja joka"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "toi ylös"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "esi-isänne"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "esi-isänne"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimista (Egypti)"
+    }
+  ],
+  "timestamp": "2026-09-06T23:08:34.849993416Z",
+  "model": "glm-5.3"
+}

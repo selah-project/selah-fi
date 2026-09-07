@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja nämä ovat oikeuskäskyt, jotka sinä asetat heidän eteensä.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ja nämä"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "oikeuskäskyt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "asetat"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "heidän eteensä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:38:14.312382344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 10:12",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja kuningas teki almug-puista ⟨את⟩ kaiteen Jahven temppeliin ja kuninkaan palatsiin, sekä kanteleita ja nablia laulajille; ei ole tullut sellaisia almug-puita, eikä ole nähty, tähän päivään asti.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ja teki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "almug-puista"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "almug-puista [alku]"
+    },
+    {
+      "surface": "האלמגים",
+      "gloss": "almug-puista"
+    },
+    {
+      "surface": "מסעד",
+      "gloss": "kaiteen"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "temppeliin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "ja palatsiin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "וכנרות",
+      "gloss": "sekä kanteleita"
+    },
+    {
+      "surface": "ונבלים",
+      "gloss": "ja nablia"
+    },
+    {
+      "surface": "לשרים",
+      "gloss": "laulajille"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ole tullut"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sellaisia"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "puita [alku]"
+    },
+    {
+      "surface": "אלמגים",
+      "gloss": "almug-puita"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ole nähty"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päivään"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tähän"
+    }
+  ],
+  "timestamp": "2026-09-06T23:37:00.106631931Z",
+  "model": "glm-5.3"
+}

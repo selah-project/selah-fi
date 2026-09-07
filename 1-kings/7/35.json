@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 7:35",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja jalustan päällä puolikyynärän korkuinen pyöreä rengas ympäri; ja jalustan päällä sen kädensijat ja sen reunukset — siitä itsestään.",
+  "tokens": [
+    {
+      "surface": "ובראש",
+      "gloss": "Ja päällä"
+    },
+    {
+      "surface": "המכונה",
+      "gloss": "jalustan"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "puolikyynärän"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "kyynärän"
+    },
+    {
+      "surface": "קומה",
+      "gloss": "korkuinen"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "pyöreä"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympäri"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "Ja päällä"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "päässä"
+    },
+    {
+      "surface": "המכנה",
+      "gloss": "jalustan"
+    },
+    {
+      "surface": "ידתיה",
+      "gloss": "sen kädensijat"
+    },
+    {
+      "surface": "ומסגרתיה",
+      "gloss": "ja sen reunukset"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "siitä itsestään"
+    }
+  ],
+  "timestamp": "2026-09-06T23:35:03.524474684Z",
+  "model": "glm-5.3"
+}

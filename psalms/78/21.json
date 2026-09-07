@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 78:21",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 78,
+  "translation": "Sentähden Jahve kuuli, ja hän vihastui, ja tuli syttyi Ja'akovissa (Jaakobissa), ja myös viha nousi Israelia vastaan.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Sentähden"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kuuli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "ja hän vihastui"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "syttyi"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Ja'akovissa"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja myös"
+    },
+    {
+      "surface": "אף",
+      "gloss": "viha"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "nousi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israelia vastaan"
+    }
+  ],
+  "timestamp": "2026-09-07T06:30:29.032509641Z",
+  "model": "glm-5.3"
+}

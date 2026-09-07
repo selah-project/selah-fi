@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 9:10",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja Jahve antoi minulle ⟨את⟩ kaksi kiven taulua, Elohimin sormella kirjoitetut, ja niissä ⟨oli⟩ kaikkien sanojen mukaan, jotka Jahve puhui teidän kanssanne vuorella tulen keskeltä kokouksen päivänä.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ja antoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaksi kiven taulua"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "לוחת",
+      "gloss": "taulua"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kiven"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "kirjoitetut"
+    },
+    {
+      "surface": "באצבע",
+      "gloss": "sormella"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "ja niissä"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kaikkien … mukaan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sanojen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "puhui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "teidän kanssanne"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "vuorella"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "keskeltä"
+    },
+    {
+      "surface": "האש",
+      "gloss": "tulen"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "kokouksen"
+    }
+  ],
+  "timestamp": "2026-09-06T22:28:27.392646994Z",
+  "model": "glm-5.3"
+}

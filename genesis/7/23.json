@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 7:23",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja ⟨hän⟩ pyyhki pois ⟨את⟩ kaiken elävän, joka oli maan pinnalla, ihmisestä karjaeläimiin, matelijoihin ja taivaan lintuihin; ne pyyhittiin pois maasta. Ja jäljelle jäi vain Noach (Nooa) ja ⟨את⟩ ne, jotka olivat hänen kanssaan arkissa.",
+  "tokens": [
+    {
+      "surface": "וימח",
+      "gloss": "Ja pyyhki pois"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken elävän, joka oli maan pinnalla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "היקום",
+      "gloss": "elävän"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "פני",
+      "gloss": "pinnalla"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "maan"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "ihmisestä"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "karjaeläimiin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "matelijoihin"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ja asti"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "lintuihin"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "וימחו",
+      "gloss": "ja ne pyyhittiin pois"
+    },
+    {
+      "surface": "מן",
+      "gloss": "pois"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "וישאר",
+      "gloss": "ja jäljelle jäi"
+    },
+    {
+      "surface": "אך",
+      "gloss": "vain"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ja ne, jotka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänen kanssaan"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "arkissa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:07:10.047437421Z",
+  "model": "glm-5.3"
+}

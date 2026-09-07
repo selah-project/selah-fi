@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja perustus ⟨oli⟩ kalliita kiviä, suuria kiviä, kymmenen kyynärän kiviä ja kahdeksan kyynärän kiviä.",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "Ja perustus"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kiviä"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "kalliita"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kiviä"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "suuria"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "kiviä"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kymmenen"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kyynärän"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "ja kiviä"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "kahdeksan"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kyynärän"
+    }
+  ],
+  "timestamp": "2026-09-06T23:34:38.078595076Z",
+  "model": "glm-5.3"
+}

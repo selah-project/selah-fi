@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 5:12",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja minä ⟨olen⟩ Efraimille niinkuin koiperhonen ja Yehudan talolle niinkuin mätäneminen.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ja minä"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "niinkuin koiperhonen"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efraimille"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "ja niinkuin mätäneminen"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "talolle"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:19:39.642251218Z",
+  "model": "glm-5.3"
+}

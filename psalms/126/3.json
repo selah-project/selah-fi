@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 126,
+  "translation": "Suuria on Jahve tehnyt meidän kanssamme; me olemme iloisia.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "suuria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "tehnyt"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "meidän kanssamme"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "olemme"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "iloisia"
+    }
+  ],
+  "timestamp": "2026-09-07T02:50:35.920496830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja hän sanoi Avrahamille: Aja pois tämä orjatar ja ⟨את⟩ hänen poikansa, sillä ei orjattaren poika peri yhdessä poikani, Jitshakin (Iisak), kanssa.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahamille"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "aja pois"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "tämä orjatar"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen poikansa"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "peri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "orjattaren"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yhdessä"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikani"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshakin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:12:17.165796120Z",
+  "model": "glm-5.3"
+}

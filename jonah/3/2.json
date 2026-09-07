@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Nouse, mene Niniveen, siihen suureen kaupunkiin, ja julista sille ⟨את⟩ julistuksen, jonka minä puhun sinulle.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Nouse"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Niniveen"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "siihen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "suureen kaupunkiin"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "suureen"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "ja julista"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "sille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "julistuksen"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "julistuksen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "puhun"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinulle"
+    }
+  ],
+  "timestamp": "2026-09-07T01:33:55.374487655Z",
+  "model": "glm-5.3"
+}

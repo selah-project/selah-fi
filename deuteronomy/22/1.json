@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Älä näe ⟨את⟩ veljesi härkää tai ⟨את⟩ lammastansa ajettuna pois äläkä piiloudu niiltä: palauta ne ehdottomasti veljellesi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "näe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veljesi härän"
+    },
+    {
+      "surface": "שור",
+      "gloss": "härkä"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "veljesi"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lammastansa"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "lammasta"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "ajettuna pois"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "äläkä piiloudu"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "niiltä"
+    },
+    {
+      "surface": "השב",
+      "gloss": "ehdottomasti palauta"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "ne veljellesi"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "palautat"
+    }
+  ],
+  "timestamp": "2026-09-06T22:33:20.530560693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 10:13",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja te syötte ⟨את⟩ sen pyhässä paikassa, sillä se ⟨on⟩ sinun osuutesi ja sinun poikiesi osuus Jahven tuliuhreista; sillä näin minulle on käsketty.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "Ja te syötte"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sen"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "paikassa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhässä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "חקך",
+      "gloss": "sinun osuutesi"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "ja osuus"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "sinun poikiesi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se ⟨on⟩"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "tuliuhreista"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "כן",
+      "gloss": "näin"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "minulle on käsketty"
+    }
+  ],
+  "timestamp": "2026-09-06T21:51:27.888874480Z",
+  "model": "glm-5.3"
+}

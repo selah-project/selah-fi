@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 15:16",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Ja tapahtuu, että kun hän sanoo sinulle: En lähde luotasi, koska hän rakastaa sinua ja ⟨את⟩ taloasi, koska hänellä on hyvä olla sinun kanssasi —",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ja tapahtuu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että kun"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "hän sanoo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "lähde"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "luotasi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "hän rakastaa sinua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "taloasi"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "taloasi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvä"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sinun kanssasi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:29:32.288195890Z",
+  "model": "glm-5.3"
+}

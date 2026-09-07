@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 17:27",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja kaikki hänen talonsa miehet, talossa syntyneet ja hopealla ostetut ⟨את⟩ muukalaisen pojalta, ympärileikattiin ⟨את⟩ hänen kanssaan.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hänen talonsa"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "syntyneet"
+    },
+    {
+      "surface": "בית",
+      "gloss": "talossa"
+    },
+    {
+      "surface": "ומקנת",
+      "gloss": "ja ostetut"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "hopealla"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ... luota",
+      "marks": "muukalaisen pojalta"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "muukalainen"
+    },
+    {
+      "surface": "נמלו",
+      "gloss": "ympärileikattiin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänen kanssaan",
+      "marks": "Avraham"
+    }
+  ],
+  "timestamp": "2026-09-06T21:10:03.125607256Z",
+  "model": "glm-5.3"
+}

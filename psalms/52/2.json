@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 52,
+  "translation": "Kun Doeg (Doeg), edomilainen, tuli ja ilmoitti sen Shaulille (Saul) ja sanoi hänelle: ”David (Daavid) on tullut Ahimelekin (Ahimelik) huoneeseen.”",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Kun tuli"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Doeg (Doeg)"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "edomilainen"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ja ilmoitti"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaulille (Saul)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "בא",
+      "gloss": "on tullut"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David (Daavid)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huoneeseen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huone"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimelekin (Ahimelik)"
+    }
+  ],
+  "timestamp": "2026-09-07T02:13:37.903071612Z",
+  "model": "glm-5.3"
+}

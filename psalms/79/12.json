@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 79,
+  "translation": "Ja anna takaisin naapureillemme seitsemänkertaisesti heidän syliinsä heidän herjansa, jolla he herjasivat sinua, Adonai.",
+  "tokens": [
+    {
+      "surface": "והשב",
+      "gloss": "Ja anna takaisin"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "naapureillemme"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "seitsemänkertaisesti"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "heidän syliinsä"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "heidän herjansa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jolla"
+    },
+    {
+      "surface": "חרפוך",
+      "gloss": "he herjasivat sinua"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-09-07T02:25:14.434677731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 5:10",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja Enosh eli ⟨את⟩ Kenanin siittämisen jälkeen viisitoista vuotta ja kahdeksansataa vuotta, ja hän siitti poikia ja tyttäriä.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "eli"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "jälkeen"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "siittämisen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenanin"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenanin"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "viisitoista"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "viisitoista"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ja kahdeksansataa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "kahdeksansataa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "poikia"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ja tyttäriä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:04:33.669313927Z",
+  "model": "glm-5.3"
+}

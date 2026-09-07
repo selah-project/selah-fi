@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 137,
+  "translation": "Sillä siellä vangitsijamme pyysivät meiltä laulun sanoja, ja riistäjämme iloa: ”Laulakaa meille laulu Tsijonista.”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "pyysivät meiltä"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "vangitsijamme"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanoja"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "laulun"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "ja riistäjämme"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "iloa"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "laulatkaa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meille"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "laulu"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijonista"
+    }
+  ],
+  "timestamp": "2026-09-07T02:53:46.450391334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Korotettu on Jahve, sillä hän asuu korkeudessa; hän täytti Tsijonin ⟨Siionin⟩ oikeudella ja vanhurskaudella.",
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "Korotettu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "asuu"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "korkeudessa"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "täytti"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijonin (Siionin)"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "oikeudella"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ja vanhurskaudella"
+    }
+  ],
+  "timestamp": "2026-09-07T00:09:16.369210262Z",
+  "model": "glm-5.3"
+}

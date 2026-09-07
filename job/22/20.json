@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 22:20",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Eikö vastustajamme ole hävitetty, ja heidän ylijäämänsä tulen ⟨on⟩ syönyt?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eikö"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kieltosana"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "hävitetty"
+    },
+    {
+      "surface": "קימנו",
+      "gloss": "vastustajamme"
+    },
+    {
+      "surface": "ויתרם",
+      "gloss": "ja heidän ylijäämänsä"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "⟨on⟩ syönyt"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tulen"
+    }
+  ],
+  "timestamp": "2026-09-07T03:37:02.855609666Z",
+  "model": "glm-5.3"
+}

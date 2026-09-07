@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 69,
+  "translation": "Pimenkööt heidän silmänsä näkemästä, ja heidän lanteensa horiskoot alati.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "pimenkööt"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "heidän silmänsä"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "näkemästä"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "ja heidän lanteensa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "alati"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "horiskoot"
+    }
+  ],
+  "timestamp": "2026-09-07T02:18:09.681191670Z",
+  "model": "glm-5.3"
+}

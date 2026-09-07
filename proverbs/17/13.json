@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 17:13",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Joka palauttaa pahaa hyvän sijaan, ei paha väisty hänen talostaan.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "joka palauttaa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pahaa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hyvän sijaan"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "hyvän"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תמיש",
+      "gloss": "väisty"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "paha"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "hänen talostaan"
+    }
+  ],
+  "timestamp": "2026-09-07T03:10:05.416069445Z",
+  "model": "glm-5.3"
+}

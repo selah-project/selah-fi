@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 79,
+  "translation": "Kuinka kauan, Jahve? Oletko vihastunut iankaikkisesti? Palaaanko kuin tuli sinun kiivautesi?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Kuinka"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kauan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "oletko vihastunut"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "palaako"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kuin"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "sinun kiivautesi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:25:31.451308391Z",
+  "model": "glm-5.3"
+}

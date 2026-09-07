@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 121,
+  "translation": "Päivällä aurinko ei lyö sinua, eikä kuu yöllä.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "päivällä"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "aurinko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "lyö sinua"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "eikä kuu"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "yöllä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:48:53.789380425Z",
+  "model": "glm-5.3"
+}

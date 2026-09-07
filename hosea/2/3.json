@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Sanokaa veljillenne: ”Ammi” (kansani), ja sisarillenne: ”Ruhama” (armahdettu).",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Sanokaa"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "veljillenne"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ammi (kansani)"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "ja sisarillenne"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhama (armahdettu)"
+    }
+  ],
+  "timestamp": "2026-09-07T01:21:38.944230993Z",
+  "model": "glm-5.3"
+}

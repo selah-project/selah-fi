@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 95,
+  "translation": "Jonka kädessä ovat maan syvyydet, ja jonka ovat vuorten huiput.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "kädessään"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "syvyydet"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "ja huiput"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "vuorten"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jonka"
+    }
+  ],
+  "timestamp": "2026-09-07T02:32:59.757806733Z",
+  "model": "glm-5.3"
+}

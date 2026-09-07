@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja auringon lasketessa hän tulee puhtaaksi, ja sen jälkeen hän syö pyhistä, sillä se ⟨on⟩ hänen leipänsä.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ja lasketessa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "aurinko"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ja tulee puhtaaksi"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ja sen jälkeen"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "hän syö"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mistä"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "pyhistä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "hänen leipänsä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-09-06T21:56:46.479859999Z",
+  "model": "glm-5.3"
+}

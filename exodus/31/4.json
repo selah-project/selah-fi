@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "suunnittelemaan suunnitelmia, tekemään työtä kullasta ja hopeasta ja vaskesta.",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "suunnittelemaan"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "suunnitelmia"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "tekemään työtä"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "kullasta"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "ja hopeasta"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "ja vaskesta"
+    }
+  ],
+  "timestamp": "2026-09-06T21:41:58.051231290Z",
+  "model": "glm-5.3"
+}

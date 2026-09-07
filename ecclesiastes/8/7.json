@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Sillä hän ei tiedä, mitä tapahtuu, sillä milloin se tapahtuu — kuka ilmoittaa hänelle?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tietävä"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "tapahtuu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "milloin"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tapahtuu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ilmoittaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    }
+  ],
+  "timestamp": "2026-09-07T04:38:57.592166222Z",
+  "model": "glm-5.3"
+}

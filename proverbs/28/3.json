@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Köyhä mies, joka sortaa köyhiä, ⟨on⟩ kuin rankkasade, joka pyyhkii pois, eikä leipää ⟨jää⟩.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "mies"
+    },
+    {
+      "surface": "רש",
+      "gloss": "köyhä"
+    },
+    {
+      "surface": "ועשק",
+      "gloss": "joka sortaa"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "köyhiä"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "sade"
+    },
+    {
+      "surface": "סחף",
+      "gloss": "joka pyyhkii pois"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    }
+  ],
+  "timestamp": "2026-09-07T03:20:10.281870942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 2:14",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja kolmannen joen nimi ⟨on⟩ Hidekel (Tiikris), se ⟨on⟩ se, joka kulkee Assurin (Assyrian) itäpuolella; ja neljäs joki, se ⟨on⟩ Perat (Eufrat).",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Ja nimen"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "joen"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "kolmannen"
+    },
+    {
+      "surface": "חדקל",
+      "gloss": "Hidekel (Tiikris)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "joka kulkee"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "itäpuolella"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assurin (Assyrian)"
+    },
+    {
+      "surface": "והנהר",
+      "gloss": "ja joki"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "neljäs"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perat (Eufrat)"
+    }
+  ],
+  "timestamp": "2026-09-06T21:04:16.267583012Z",
+  "model": "glm-5.3"
+}

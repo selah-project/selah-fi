@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 38,
+  "translation": "Ja hän tuli raskaaksi ja synnytti pojan, ja hän kutsui ⟨את⟩ hänen nimensä Er.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "Ja hän tuli raskaaksi"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ja synnytti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ja hän kutsui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen nimensä"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hänen nimensä"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    }
+  ],
+  "timestamp": "2026-09-06T21:22:18.263826259Z",
+  "model": "glm-5.3"
+}

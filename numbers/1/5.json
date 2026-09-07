@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja nämä ovat nimet niiden miesten, jotka seisovat ⟨את⟩ kanssanne: Re'uvenille (Ruuben) Elitsur, Shede'urin poika.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ja nämä"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ovat nimet"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "niiden miesten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "seisovat"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kanssanne",
+      "marks": "kanssanne"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "Re'uvenille"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elitsur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Shede'urin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:01:03.251998621Z",
+  "model": "glm-5.3"
+}

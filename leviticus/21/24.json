@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 21:24",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja Moshe (Mooses) puhui Aharonille ja hänen pojilleen ja kaikille Israelin pojille.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ja puhui"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…lle"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonille"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja …lle"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pojilleen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja …lle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikille"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojille"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:57:17.639443552Z",
+  "model": "glm-5.3"
+}

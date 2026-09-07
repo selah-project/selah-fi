@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Tänään te lähdette, Aviv-kuussa.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "tänään"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "te"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "lähdette"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "kuussa"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Aviv"
+    }
+  ],
+  "timestamp": "2026-09-06T21:34:00.145463333Z",
+  "model": "glm-5.3"
+}

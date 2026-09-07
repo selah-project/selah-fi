@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja minä ylistin ⟨את⟩ kuolleita, jotka jo ovat kuolleet, enemmän ⟨eläviä⟩, jotka vielä elävät.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "ja minä ylistin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuolleita"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "kuolleita"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "jotka jo"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ovat kuolleet"
+    },
+    {
+      "surface": "מן",
+      "gloss": "enemmän kuin"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "eläviä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "המה",
+      "gloss": "vielä"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "elävät"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "tähän asti"
+    }
+  ],
+  "timestamp": "2026-09-07T04:06:57.650251211Z",
+  "model": "glm-5.3"
+}

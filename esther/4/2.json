@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja hän tuli aina kuninkaan portin eteen, sillä ei ollut lupa tulla kuninkaan portille säkkivaatteessa.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "ja hän tuli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aina"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eten"
+    },
+    {
+      "surface": "שער",
+      "gloss": "portin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ollut"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "lupa tulla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "שער",
+      "gloss": "portille"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "säkkivaatteessa"
+    },
+    {
+      "surface": "שק",
+      "gloss": "säkki"
+    }
+  ],
+  "timestamp": "2026-09-07T04:41:45.074811133Z",
+  "model": "glm-5.3"
+}

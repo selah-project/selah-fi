@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 11:2",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Kuulkaa ⟨את⟩ tämän Beritin (liiton) sanat, ja puhukaa ne Juudan miehille ja Jerushalajimin (Jerusalem) asukkaille:",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Kuulkaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän Beritin sanat"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "tämän Beritin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "ודברתם",
+      "gloss": "ja puhukaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "miehille"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehille"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juudan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja asukkaille"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "asukkaille"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimin"
+    }
+  ],
+  "timestamp": "2026-09-07T00:29:03.768234836Z",
+  "model": "glm-5.3"
+}

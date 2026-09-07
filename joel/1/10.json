@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Hävitetty on peltomaa, suree maa, sillä hävitetty on vilja, kuivettunut on viini, nääntyy öljy.",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "hävitetty on"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "peltomaa"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "suree"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "hävitetty on"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "vilja"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "kuivettunut on"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "viini"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "nääntyy"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "öljy"
+    }
+  ],
+  "timestamp": "2026-09-07T01:27:23.625707882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 1:5",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "S.aira: ja lähettipalvelijat palasivat hänen luokseen, ja hän sanoi heille: mikä tämä on, että te palasitte?",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "palasivat"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "lähettipalvelijat"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänen luokseen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mikä"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "te palasitte"
+    }
+  ],
+  "timestamp": "2026-09-06T23:47:30.972477033Z",
+  "model": "glm-5.3"
+}

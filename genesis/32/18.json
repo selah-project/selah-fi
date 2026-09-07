@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 32:18",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Ja hän käski ⟨את⟩ ensimmäistä sanoen: ”Kun veljeni Esav kohtaa sinut ja kysyy sinulta sanoen: Kenen sinä olet, ja minne sinä menet, ja kenen nämä ovat, jotka ovat sinun edelläsi,”",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "käski"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ensimmäistä"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ensimmäistä"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "יפגשך",
+      "gloss": "kohtaa sinut"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "veljeni"
+    },
+    {
+      "surface": "ושאלך",
+      "gloss": "kysyy sinulta"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "למי",
+      "gloss": "kenen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "minne"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "menet"
+    },
+    {
+      "surface": "ולמי",
+      "gloss": "kenen"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "edelläsi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:19:10.969152671Z",
+  "model": "glm-5.3"
+}

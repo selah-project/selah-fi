@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 43:24",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 43,
+  "translation": "Ja mies vei ⟨את⟩ miehet Josefins taloon (Joosef), ja hän antoi vettä, ja he pesivät jalkansa, ja hän antoi rehua heidän aaseilleen.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ja vei"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mielet"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mielet"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "taloon"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefins (Joosef)"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ja hän antoi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vettä"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "ja he pesivät"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "jalkansa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ja hän antoi"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "rehua"
+    },
+    {
+      "surface": "לחמריהם",
+      "gloss": "heidän aaseilleen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:25:14.917724567Z",
+  "model": "glm-5.3"
+}

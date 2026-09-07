@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Seuralainen minä olen kaikille, jotka sinua pelkäävät, ja niille, jotka sinun käskyjäsi pitävät.",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "Seuralainen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kaikille"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "sinua pelkäävät"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "ja niille, jotka pitävät"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "käskyjäsi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:46:38.127960547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 28:16",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "ja ⟨את⟩ kullan paino näkkyleipäpöydille, pöydälle ja pöydälle, ja hopeaa hopean pöydille.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kullan"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kullan"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "paino"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "pöydille"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "näkkyleipä-"
+    },
+    {
+      "surface": "לשלחן",
+      "gloss": "pöydälle"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "ja pöydälle"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ja hopeaa"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "pöydille"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "hopea-"
+    }
+  ],
+  "timestamp": "2026-09-07T05:28:19.219634765Z",
+  "model": "glm-5.3"
+}

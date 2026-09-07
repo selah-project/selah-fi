@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Sen tähden eivät jumalattomat nouse tuomiossa, eivätkä syntiset vanhurskaiden seurakunnassa.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "nouse"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jumalattomat"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "tuomiossa"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "eivätkä syntiset"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "seurakunnassa"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "vanhurskaiden"
+    }
+  ],
+  "timestamp": "2026-09-07T01:50:32.006327080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja hän asetti hänen ylleen ⟨את⟩ rintakorun, ja hän pani rintakoruun ⟨את⟩ Urimin ja ⟨את⟩ Tumimin.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Ja hän asetti"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hänen ylleen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rintakorun"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "rintakorun"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ja hän pani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rintakoruun"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "rintakoruun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urimin"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Urimin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Tumimin"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Tumimin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:51:34.330063372Z",
+  "model": "glm-5.3"
+}

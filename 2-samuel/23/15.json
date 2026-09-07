@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 23:15",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja David kaipasi ja sanoi: kuka juottaisi minut vedellä Beit Lechemin kaivosta, joka on portilla?",
+  "tokens": [
+    {
+      "surface": "ויתאוה",
+      "gloss": "Ja kaipasi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "juottaisi minut"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vedellä"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "kaivosta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechemin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "on portilla"
+    }
+  ],
+  "timestamp": "2026-09-06T23:31:28.628654845Z",
+  "model": "glm-5.3"
+}

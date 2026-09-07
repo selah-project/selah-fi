@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja kohen antoi sadasten päälliköille ⟨את⟩ keihäät ja ⟨את⟩ kilvet, jotka olivat kuningas Davidin ja jotka olivat Jahven talossa.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ja antoi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "päälliköille"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "sadasten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keihäät"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "keihäät"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kilvet"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "kilvet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuninkaalle"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "talossa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-06T23:52:56.270470733Z",
+  "model": "glm-5.3"
+}

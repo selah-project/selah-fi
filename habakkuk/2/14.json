@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 2:14",
+  "book": "habakkuk",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Sillä maa täyttyy tunteakseen ⟨את⟩ Jahven kirkkauden, niin kuin vedet peittävät yli meren.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "täyttyy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "tunteakseen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven kirkkauden"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kirkkauden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "niin kuin vedet"
+    },
+    {
+      "surface": "יכסו",
+      "gloss": "peittävät"
+    },
+    {
+      "surface": "על",
+      "gloss": "yli"
+    },
+    {
+      "surface": "ים",
+      "gloss": "meren"
+    }
+  ],
+  "timestamp": "2026-09-07T01:39:19.296061173Z",
+  "model": "glm-5.3"
+}

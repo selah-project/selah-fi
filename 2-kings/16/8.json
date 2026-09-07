@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja Ahaz otti ⟨את⟩ hopean ja ⟨את⟩ kullan, joka löydettiin Jahven huoneesta ja kuninkaan huoneen varastohuoneista, ja lähetti lahjuksena Ashurin kuninkaalle.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ja otti"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hopean"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "hopean"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kullan"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "joka löydettiin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneesta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "ja varastohuoneista"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ja lähetti"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuninkaalle"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashurin"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "lahjuksena"
+    }
+  ],
+  "timestamp": "2026-09-06T23:56:05.040406Z",
+  "model": "glm-5.3"
+}

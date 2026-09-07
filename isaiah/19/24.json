@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 19:24",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Sinä päivänä on Israel oleva kolmas Mitsrajimille ja Asshurille, siunaus maan keskellä.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sinä päivänä"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "jona"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "on oleva"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "שלישיה",
+      "gloss": "kolmas"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Mitsrajimille"
+    },
+    {
+      "surface": "ולאשור",
+      "gloss": "ja Asshurille"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "siunaus"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "keskellä"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:05:59.963002950Z",
+  "model": "glm-5.3"
+}

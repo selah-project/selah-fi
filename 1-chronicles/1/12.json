@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "ja ⟨את⟩ patrusilaiset ja ⟨את⟩ kaslukhilaiset — joista lähtivät liikkeelle filistealaiset — ja ⟨את⟩ kaftorilaiset.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "patrusilaiset"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "patrusilaiset"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaslukhilaiset"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "kaslukhilaiset"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joista"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "lähtivät liikkeelle"
+    },
+    {
+      "surface": "משם",
+      "gloss": "sieltä"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistealaiset"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaftorilaiset"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "kaftorilaiset"
+    }
+  ],
+  "timestamp": "2026-09-07T05:10:58.949274528Z",
+  "model": "glm-5.3"
+}

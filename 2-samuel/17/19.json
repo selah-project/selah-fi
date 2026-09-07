@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 17:19",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja nainen otti ja levitti ⟨את⟩ peitteen kaivon suulle jaoittelemaan, ja hän levitti sen päälle jauhettua viljaa, eikä asia tullut ilmi.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "otti"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "nainen"
+    },
+    {
+      "surface": "ותפרש",
+      "gloss": "ja levitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peitteen"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "peitteen"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "פני",
+      "gloss": "suulle"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "kaivon"
+    },
+    {
+      "surface": "ותשטח",
+      "gloss": "ja levitti"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sen päälle"
+    },
+    {
+      "surface": "הרפות",
+      "gloss": "jauhottua viljaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "tullut ilmi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asia"
+    }
+  ],
+  "timestamp": "2026-09-06T23:26:57.765270720Z",
+  "model": "glm-5.3"
+}

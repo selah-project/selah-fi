@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja kaikki Israelin vanhimmat tulivat, ja papit nostivat ⟨את⟩ arkun.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ja tulivat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vanhimmat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ja nostivat"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "papit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkun"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arkun"
+    }
+  ],
+  "timestamp": "2026-09-06T23:37:03.417029658Z",
+  "model": "glm-5.3"
+}

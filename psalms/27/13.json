@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 27:13",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Jos en olisi uskonut nähdä Jahven hyvyyttä elävien maassa —",
+  "tokens": [
+    {
+      "surface": "לולא",
+      "gloss": "jos en olisi"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "uskonut"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "nähdä"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "hyvyyttä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "elävien"
+    }
+  ],
+  "timestamp": "2026-09-07T02:00:00.924300135Z",
+  "model": "glm-5.3"
+}

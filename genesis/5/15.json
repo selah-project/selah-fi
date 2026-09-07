@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja Mahalalel eli viisi vuotta ja kuusikymmentä vuotta, ja hän synnytti ⟨את⟩ Jeredin.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "eli"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "viisi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ja kuusikymmentä"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ja hän synnytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeredin"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Jeredin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:04:59.903847525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Kelvoton on halveksittava hänen silmissään, mutta ⟨את⟩ Jahven pelääjiä hän kunnioittaa; hän on vannut vahingoittaakseen eikä muuta.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "Kelvoton"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "hänen silmissään"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "on halveksittava"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Jahven pelääjiä"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "pelääjiä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "kunnioittaa"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "on vannut"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "vahingoittaakseen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "muuta"
+    }
+  ],
+  "timestamp": "2026-09-07T01:56:14.884160682Z",
+  "model": "glm-5.3"
+}

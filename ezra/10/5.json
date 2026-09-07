@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 10:5",
+  "book": "ezra",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Silloin nousi Ezra ja vannotti ⟨את⟩ pappien päämiehet, leeviläiset ja koko Israelin tekemään tämän sanan mukaan, ja he vannoivat.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "nousi"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ja vannotti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pappien päämiehet"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "päämiehet"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "pappien"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leeviläiset"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja koko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "tekemään"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sanan mukaan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "ja he vannoivat"
+    }
+  ],
+  "timestamp": "2026-09-07T05:00:22.414932634Z",
+  "model": "glm-5.3"
+}

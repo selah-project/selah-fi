@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 6:21",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja saviastia, jossa se on keitetty, rikotaan; ja jos se on keitetty vaskiastiassa, se hangataan ja huuhdotaan vedellä.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "ja astia"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "savi-"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jossa"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "se keitetään"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siinä"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "rikotaan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ja jos"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "astiassa"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "vaski"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "on keitetty"
+    },
+    {
+      "surface": "ומרק",
+      "gloss": "ja hangataan"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "ja huuhdotaan"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vedellä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:48:08.084011566Z",
+  "model": "glm-5.3"
+}

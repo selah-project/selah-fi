@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 105,
+  "translation": "jonka hän leikkasi ⟨את⟩ Avrahamin (Aabrahamin) kanssa, ja valansa Jitshakille (Iisakille),",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "leikkasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamin"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamin (Aabrahamin)"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "ja valansa"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "Jitshakille (Iisakille)"
+    }
+  ],
+  "timestamp": "2026-09-07T02:38:10.937413674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 23:10",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja Shimin pojat: Jahat, Zina ja Je'ush ja Beria. Nämä olivat Shimin poikia, neljä.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ja pojat"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimin"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Jahat"
+    },
+    {
+      "surface": "זינא",
+      "gloss": "Zina"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "ja Je'ush"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "ja Beria"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikia"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimin"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "neljä"
+    }
+  ],
+  "timestamp": "2026-09-07T05:25:44.918219952Z",
+  "model": "glm-5.3"
+}

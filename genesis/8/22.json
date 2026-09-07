@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 8:22",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Yhä, kaikki maan päivät: kylvö ja sadonkorjuu, ja kylmä ja helle, ja kesä ja talvi, ja päivä ja yö — eivät ne lakkaa.”",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Yhä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päivät"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kylvö"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "ja sadonkorjuu"
+    },
+    {
+      "surface": "וקר",
+      "gloss": "ja kylmä"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "ja helle"
+    },
+    {
+      "surface": "וקיץ",
+      "gloss": "ja kesä"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "ja talvi"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "ja päivä"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ja yö"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "ישבתו",
+      "gloss": "lakkaa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:05:59.496999689Z",
+  "model": "glm-5.3"
+}

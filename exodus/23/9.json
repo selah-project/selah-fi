@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja muukalaista älä ahdista, sillä te tiedätte ⟨את⟩ muukalaisen nefeshin (elämänhengen), sillä muukalaisia olitte Mitsrajimin (Egyptin) maassa.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "ja muukalaista"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "ahdista"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "te"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "tiedätte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muukalaisen nefeshin"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefish"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "muukalaisen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "muukalaisia"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "olitte"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:37:37.492327394Z",
+  "model": "glm-5.3"
+}

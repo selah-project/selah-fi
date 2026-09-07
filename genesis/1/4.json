@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja näki Elohim ⟨את⟩ valon, että se oli hyvä, ja erotti Elohim valon ja pimeyden toisistaan.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ja näki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "valon"
+    },
+    {
+      "surface": "האור",
+      "gloss": "valon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvä"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "ja erotti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "toisistaan"
+    },
+    {
+      "surface": "האור",
+      "gloss": "valon"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "pimeyden"
+    }
+  ],
+  "timestamp": "2026-09-06T21:05:00.695374125Z",
+  "model": "glm-5.3"
+}

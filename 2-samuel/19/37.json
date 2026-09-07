@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 19:37",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Vähän matkaa ylittää palvelijasi ⟨את⟩ Jardenin, ⟨את⟩ kuninkaan, ja miksi kuningas maksaisi minulle tällaisen palkkion?",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "Vähän matkaa"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ylittää"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "palvelijasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jardenin"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jardenin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuninkaan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ja miksi"
+    },
+    {
+      "surface": "יגמלני",
+      "gloss": "maksaisi minulle"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "הגמולה",
+      "gloss": "palkkion"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tällaisen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:28:43.322926402Z",
+  "model": "glm-5.3"
+}

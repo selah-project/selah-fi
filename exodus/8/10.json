@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja he kasasivat ⟨את⟩ niitä keoiksi, keoiksi, ja maa alkoi haista.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "Ja he kasasivat"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "niitä (sammakot)"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "keoiksi"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "keoiksi"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "ja alkoi haista"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:31:26.714183033Z",
+  "model": "glm-5.3"
+}

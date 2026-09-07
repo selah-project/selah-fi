@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 140,
+  "translation": "Palohiiliä pudottakoon heidän päälleen, tuleen heidät heitettäköön, syvennyksiin — jotteivat he nousisi.",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "pudottakoon"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "heidän päälleen"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "palohiiliä"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tuleen"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "heitettäköön heidät"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "syvennyksiin"
+    },
+    {
+      "surface": "בל",
+      "gloss": "jotteivat"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "he nousisi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:52:26.242731984Z",
+  "model": "glm-5.3"
+}

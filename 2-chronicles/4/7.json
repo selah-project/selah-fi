@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 4:7",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja hän teki ⟨את⟩ kymmenen kultaista menoraa niiden määräyksen mukaan ja asetti temppeliin viisi oikealle ja viisi vasemmalle.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ja hän teki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kymmenen kultaista menoraa"
+    },
+    {
+      "surface": "מנרות",
+      "gloss": "menoraa"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kultaista"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kymmenen"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "niiden määräyksen mukaan"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ja hän asetti"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "temppeliin"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "viisi"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "oikealle"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ja viisi"
+    },
+    {
+      "surface": "משמאול",
+      "gloss": "vasemmalle"
+    }
+  ],
+  "timestamp": "2026-09-07T05:30:59.158215356Z",
+  "model": "glm-5.3"
+}

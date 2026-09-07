@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 12:29",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja David (Daavid) kokosi ⟨את⟩ koko kansan ja lähti Rabbahiin (Rabba), ja hän sotimi sitä vastaan ja valtasi sen.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "ja kokosi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko kansan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ja lähti"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "Rabbahiin"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ja sotimi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sitä vastaan"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "ja valtasi sen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:23:59.256175871Z",
+  "model": "glm-5.3"
+}

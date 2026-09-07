@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja olkoon Jahve tuomariksi ja tuomitkoon minun ja sinun välilläsi, ja näköön ja käyköön ⟨את⟩ oikeudenkäyntini ja vapauttakoon minut sinun kädestäsi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ja olkoon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "tuomariksi"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "ja tuomitkoon"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "minun ja"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "sinun välilläsi"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ja näköön"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "ja käyköön"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oikeudenkäyntini"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "oikeudenkäyntini"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "ja vapauttakoon minut"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "sinun kädestäsi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:14:40.570440449Z",
+  "model": "glm-5.3"
+}

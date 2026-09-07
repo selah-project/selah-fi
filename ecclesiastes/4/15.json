@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Minä näin ⟨את⟩ kaikki elävät, jotka kulkevat auringon alla, toisen nuoren kanssa, joka nousee hänen sijaansa.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "minä näin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki elävät"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "elävät"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "jotka kulkevat"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alla"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "auringon"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "nuoren"
+    },
+    {
+      "surface": "השני",
+      "gloss": "toisen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "nousee"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "hänen sijaansa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:05:47.515572740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja hän tuo shelamim-uhrista tuliuhrin Jahvelle: ⟨את⟩ rasvan, joka peittää ⟨את⟩ sisälmykset, ja ⟨את⟩ kaiken rasvan, joka on sisälmyksien päällä.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "Ja hän tuo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "uhrista"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "shelamim-"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tuliuhrin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rasvan"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "rasvan"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "joka peittää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sisälmykset"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "sisälmykset"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaiken rasvan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "rasvan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "sisälmyksien"
+    }
+  ],
+  "timestamp": "2026-09-06T21:48:04.728061303Z",
+  "model": "glm-5.3"
+}

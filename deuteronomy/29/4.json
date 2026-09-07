@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja minä johdin teitä neljäkymmentä vuotta erämaassa; vaatteenne eivät kuluneet teidän päällänne, eikä kenkäsi kulunut jalkaasi.",
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "ja minä johdin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät",
+      "marks": "neljäkymmentä vuotta"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "neljäkymmentä"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "erämaassa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "kuluneet"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "vaatteenne"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "teidän päällänne"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "eikä kenkäsi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "kulunut"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "jalkaasi ⟨päältä⟩"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "jalkaasi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:36:56.434279592Z",
+  "model": "glm-5.3"
+}

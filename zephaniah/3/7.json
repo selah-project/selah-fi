@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zephaniah 3:7",
+  "book": "zephaniah",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Minä sanoin: ainoastaan pelkää ⟨את⟩ minua, ota vastaan kuritusta, niin ei katkaistaisi hänen asuinsijaansa — kaiken sen tähden, mitä minä olen hänen päällensä pannut — mutta totisesti he nousivat varhain, turmelivat kaikki tekonsa.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Minä sanoin"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ainoastaan"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "pelkää"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ minua",
+      "marks": "minua"
+    },
+    {
+      "surface": "תקחי",
+      "gloss": "ota vastaan"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "kuritusta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "niin ei"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "katkaistaisi"
+    },
+    {
+      "surface": "מעונה",
+      "gloss": "hänen asuinsijaansa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "minä olen... pannut"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "hänen päällensä"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "mutta totisesti"
+    },
+    {
+      "surface": "השכימו",
+      "gloss": "he nousivat varhain"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "turmelivat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "tekonsa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:43:24.256391251Z",
+  "model": "glm-5.3"
+}

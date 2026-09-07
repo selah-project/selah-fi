@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-samuel 22:42",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "He etsivät apua katseellaan, mutta pelastajaa ei ollut; Jahvea ⟨kohti⟩ — mutta hän ei vastannut heitä.",
+  "tokens": [
+    {
+      "surface": "ישעו",
+      "gloss": "He etsivät apua katseellaan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mutta ei ollut"
+    },
+    {
+      "surface": "משיע",
+      "gloss": "pelastajaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "hän vastannut heitä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:31:02.557429504Z",
+  "model": "glm-5.3"
+}

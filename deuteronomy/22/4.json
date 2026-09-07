@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 22:4",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Älä näe ⟨את⟩ veljesi aasia tai hänen härkäänsä kaatumassa tielle äläkä piiloudu niiltä: nosta ne ehdottomasti hänen kanssaan ylös.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "näe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veljesi aasin"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "aasi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "veljesi"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "שורו",
+      "gloss": "hänen härkäänsä"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "kaatumassa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tielle"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "äläkä piiloudu"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "niiltä"
+    },
+    {
+      "surface": "הקם",
+      "gloss": "ehdottomasti nosta"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hänen kanssaan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:33:20.531906924Z",
+  "model": "glm-5.3"
+}

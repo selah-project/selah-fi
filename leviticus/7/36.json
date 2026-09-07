@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 7:36",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "jonka Jahve käski antaa heille päivänä, jona hän voitei heidät ⟨את⟩, Israelin poikien ⟨את⟩-luota — ikuisena säädöksenä heidän sukupolvilleen.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "käski"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "antamaan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "jona hän voitei"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "heidät ⟨את⟩",
+      "marks": "Israelin poikien ⟨את⟩-luota"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩-luota"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikien"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "säädöksenä"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ikuisena"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "heidän sukupolvilleen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:49:16.836993557Z",
+  "model": "glm-5.3"
+}

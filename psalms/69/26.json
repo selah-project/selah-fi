@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 69:26",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 69,
+  "translation": "Tulkoon heidän linnoituksensa autioksi, ja heidän majoissaansa älköön asujaa olko.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "Tulkoon"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "heidän linnoituksensa"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "autioksi"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "heidän majoissaansa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älköön"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "olko"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "asujaa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:19:29.456696836Z",
+  "model": "glm-5.3"
+}

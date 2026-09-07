@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 22:1",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja David sanoi: Tämä on se — Jahve Elohimin huone, ja tämä ⟨on⟩ polttouhrialttari Israelille.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Tämä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on se"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huone"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ja tämä"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alttari"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "polttouhrille"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israelille"
+    }
+  ],
+  "timestamp": "2026-09-07T05:24:35.670143766Z",
+  "model": "glm-5.3"
+}

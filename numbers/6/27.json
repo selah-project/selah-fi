@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 6:27",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja he panoivat ⟨את⟩ nimeni Israelin lapsille, ja minä siunaan heitä.",
+  "tokens": [
+    {
+      "surface": "ושמו",
+      "gloss": "Ja he panoivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nimeni"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "nimeni"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Israelin lapsille"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ja minä"
+    },
+    {
+      "surface": "אברכם",
+      "gloss": "siunaan heitä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:04:25.155946889Z",
+  "model": "glm-5.3"
+}

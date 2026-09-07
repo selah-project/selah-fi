@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja he nostivat ⟨את⟩ Yonan (Joona) ja heittivät hänet mereen, ja meri asettui raivostaan.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "ja he nostivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonan"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonan"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "ja heittivät hänet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…een"
+    },
+    {
+      "surface": "הים",
+      "gloss": "meri"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ja asettui"
+    },
+    {
+      "surface": "הים",
+      "gloss": "meri"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "raivostaan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:34:16.282291937Z",
+  "model": "glm-5.3"
+}

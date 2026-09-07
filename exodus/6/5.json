@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja myös minä olen kuullut ⟨את⟩ Israelin poikien huokauksen, joita Mitsrajim (Egypti) orjuuttaa, ⟨את⟩ heidät, ja minä muistin ⟨את⟩ liittoni.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ja myös"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "olen kuullut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin poikien huokauksen"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "huokauksen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikien"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joita"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "orjuuttaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ heidät"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "ja minä muistin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liittoni"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "liittoni"
+    }
+  ],
+  "timestamp": "2026-09-06T21:31:00.286110956Z",
+  "model": "glm-5.3"
+}

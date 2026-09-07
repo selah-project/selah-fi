@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Jahven, teidän Elohiminne, jälkeen te kävelkää, ja ⟨את⟩ häntä te pelätäkää, ja ⟨את⟩ hänen käskyjään te noudattakaa, ja hänen ääneensä te kuulkaa, ja ⟨את⟩ häntä te palvelkaa, ja häneen te kiinnittykää.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "jälkeen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "teidän Elohiminne"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "te kävelkää"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "ja ⟨את⟩ häntä",
+      "marks": "hän (pelättava kohde)"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "te pelätäkää"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen käskyjään"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "hänen käskyjään"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "te noudattakaa"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "ja hänen ääneensä"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "te kuulkaa"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "ja ⟨את⟩ häntä",
+      "marks": "hän (palveltava kohde)"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "te palvelkaa"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "ja häneen"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "te kiinnittykää"
+    }
+  ],
+  "timestamp": "2026-09-06T22:30:44.753468621Z",
+  "model": "glm-5.3"
+}

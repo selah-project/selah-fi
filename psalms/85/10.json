@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 85,
+  "translation": "Varmasti ⟨on⟩ hänen pelastuksensa lähellä niitä, jotka häntä pelkäävät, niin että kirkkaus asuu meidän maassamme.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Varmasti"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "lähellä"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "niitä, jotka häntä pelkäävät"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "hänen pelastuksensa"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "asua"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kirkkaus"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "meidän maassamme"
+    }
+  ],
+  "timestamp": "2026-09-07T02:28:58.360369904Z",
+  "model": "glm-5.3"
+}

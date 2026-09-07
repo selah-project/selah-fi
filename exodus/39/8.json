@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 39:8",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 39,
+  "translation": "Ja hän teki ⟨את⟩ rintakorun, kuviokutojan työtä, ephodin tekotavan mukaan: kultaa, sinipurppuraa, purpuraa, karmesiinpunaista ja kerrattua pellavaa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ja hän teki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rintakoru"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "rintakoru"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "työ"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "kuviokutojan"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "tekotavan mukaan"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "ephodin"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kultaa"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "sinipurppuraa"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "purpuraa"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "karmesiini-"
+    },
+    {
+      "surface": "שני",
+      "gloss": "punaista"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "pellavaa"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "kerrattua"
+    }
+  ],
+  "timestamp": "2026-09-06T21:46:36.732983868Z",
+  "model": "glm-5.3"
+}

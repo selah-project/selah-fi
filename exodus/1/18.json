@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 1:18",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja Mitsrajimin kuningas kutsui kätilöt ja sanoi heille: miksi te teitte tämän asian ja piditte ⟨את⟩ poikalapset hengissä?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "kutsui"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "kätilöt"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "להן",
+      "gloss": "heille"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "miksi"
+    },
+    {
+      "surface": "עשיתן",
+      "gloss": "teitte"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asian"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "piditte hengissä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poikalapset"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "poikalapset"
+    }
+  ],
+  "timestamp": "2026-09-06T21:28:42.101450330Z",
+  "model": "glm-5.3"
+}

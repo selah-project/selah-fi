@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 34:13",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "Ja Ja'akovin (Jaakobin) pojat vastasivat ⟨את⟩ Shekemiä (Sikemiä) ja ⟨את⟩ Hamoria (Hemoria), hänen isäänsä, petoksella, ja he puhuivat, koska hän oli saastuttanut ⟨את⟩ Dinan, heidän sisarensa.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "vastasivat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akovin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekemiä"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemiä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Hamoria"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamoria"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hänen isäänsä"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "petoksella"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ja he puhuivat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koska"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "saastutti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dinan"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinan"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "heidän sisarensa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:20:43.467879694Z",
+  "model": "glm-5.3"
+}

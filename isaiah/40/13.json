@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Kuka on mitannut ⟨את⟩ Jahven hengen, ja mikä mies on hänen neuvonsa hänelle tiettäväksi tehnyt?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kuka"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "on mitannut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven hengen"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hengen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ja mikä mies"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "hänen neuvonsa"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "hänelle tiettäväksi tehnyt"
+    }
+  ],
+  "timestamp": "2026-09-07T00:14:50.700697929Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joel 2:25",
+  "book": "joel",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja minä korvaan teille ⟨את⟩ vuodet, jotka söi sirkka, toukka ja syöjä ja katkaisija — minun suuri sotajoukkoni, jonka minä lähetin teidän keskuuteenne.",
+  "tokens": [
+    {
+      "surface": "ושלמתי",
+      "gloss": "Ja minä korvaan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vuodet"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "vuodet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "söi"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "sirkka"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "toukka"
+    },
+    {
+      "surface": "והחסיל",
+      "gloss": "ja syöjä"
+    },
+    {
+      "surface": "והגזם",
+      "gloss": "ja katkaisija"
+    },
+    {
+      "surface": "חילי",
+      "gloss": "minun sotajoukkoni"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "suuri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "minä lähetin"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "teidän keskuuteenne"
+    }
+  ],
+  "timestamp": "2026-09-07T01:25:46.594375041Z",
+  "model": "glm-5.3"
+}

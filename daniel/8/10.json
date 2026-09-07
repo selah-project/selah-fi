@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 8:10",
+  "book": "daniel",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja se kasvoi taivaan joukkoon asti, ja se syöksi maahan ⟨osan⟩ joukosta ja tähtistä ja polki ne.",
+  "tokens": [
+    {
+      "surface": "ותגדל",
+      "gloss": "ja se kasvoi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "joukkoon"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "ja se syöksi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨osan⟩ joukosta"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "joukosta"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ja ... tähtistä"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "tähtiä"
+    },
+    {
+      "surface": "ותרמסם",
+      "gloss": "ja polki ne"
+    }
+  ],
+  "timestamp": "2026-09-07T04:50:21.801575218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 32:4",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Ja kiirehtivien sydän ymmärtää tietoa, ja änkyttävien kieli kiirehtii puhumaan selkeästi.",
+  "tokens": [
+    {
+      "surface": "ולבב",
+      "gloss": "Ja sydän"
+    },
+    {
+      "surface": "נמהרים",
+      "gloss": "kiirehtivien"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ymmärtää"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "tietoa"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "ja kieli"
+    },
+    {
+      "surface": "עלגים",
+      "gloss": "änkyttävien"
+    },
+    {
+      "surface": "תמהר",
+      "gloss": "kiirehtii"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "puhumaan"
+    },
+    {
+      "surface": "צחות",
+      "gloss": "selkeästi"
+    }
+  ],
+  "timestamp": "2026-09-07T00:10:03.286628540Z",
+  "model": "glm-5.3"
+}

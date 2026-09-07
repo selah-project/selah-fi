@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 1:6",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Eikä hänen isänsä ollut häntä murheuttanut hänen päivinään sanoen: ”Miksi näin teit?” Ja hänkin oli sangen komea näöltään, ja hänen äitinsä synnytti ⟨את⟩ hänet Avshalomin jälkeen.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ei"
+    },
+    {
+      "surface": "עצבו",
+      "gloss": "murheuttanut"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hänen isänsä"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "hänen päivinään"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Miksi"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "näin"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "teit"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "Ja hänkin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "sangen komea"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "näöltään"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangen"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "ja ⟨את⟩ hänet",
+      "marks": "hänet"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "jälkeen"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalomin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:31:53.491503728Z",
+  "model": "glm-5.3"
+}

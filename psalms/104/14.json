@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 104,
+  "translation": "Hän kasvattaa ruohon karjaeläimille ja yrtit ihmisen työtä varten, tuodakseen leipää esiin maasta.",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "kasvattaa"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ruoho"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "karjaeläimille"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "ja yrtit"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "työtä varten"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihmisen"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "tuodakseen esiin"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maasta"
+    }
+  ],
+  "timestamp": "2026-09-07T02:36:56.188266919Z",
+  "model": "glm-5.3"
+}

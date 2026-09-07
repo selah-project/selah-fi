@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Silmäni ovat uupuneet ⟨ikävöiden⟩ sinun pelastustasi ja sinun vanhurskautesi sanaa.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Silmäni"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ovat uupuneet"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "sinun pelastustasi"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "ja sanaa"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "sinun vanhurskautesi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:47:36.989795940Z",
+  "model": "glm-5.3"
+}

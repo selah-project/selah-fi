@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 66:7",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 66,
+  "translation": "Ennen kuin hän synnytyskivuissa kiemurteli, hän synnytti; ennen kuin tuska tuli hänen päällensä, hän synnytti poikalapsen.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Ennen kuin"
+    },
+    {
+      "surface": "תחיל",
+      "gloss": "kiemurteli synnytyskivuissa"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "hän synnytti"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ennen kuin"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "tuska"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hänen päällensä"
+    },
+    {
+      "surface": "והמליטה",
+      "gloss": "hän synnyitti"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "poikalapsen"
+    }
+  ],
+  "timestamp": "2026-09-07T00:22:34.698795835Z",
+  "model": "glm-5.3"
+}

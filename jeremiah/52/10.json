@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 52:10",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 52,
+  "translation": "Ja Babelin kuningas teurasti ⟨את⟩ Tsidkijahun (Sidkian) pojat hänen silmiensä edessä, ja myös ⟨את⟩ kaikki Jehudan ruhtinaat hän teurasti Rivlassa.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "ja teurasti"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babelin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidkijahun pojat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkijahun"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "hänen silmiensä edessä"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja myös"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki Jehudan ruhtinaat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ruhtinaat"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "שחט",
+      "gloss": "teurasti"
+    },
+    {
+      "surface": "ברבלתה",
+      "gloss": "Rivlassa"
+    }
+  ],
+  "timestamp": "2026-09-07T00:50:56.312611931Z",
+  "model": "glm-5.3"
+}

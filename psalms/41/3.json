@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 41,
+  "translation": "Jahve varjelee hänet ja pitää hänet hengissä; hän ⟨on⟩ autuas maan päällä, älä anna häntä vihollistensa nefeshin valtaan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "varjelee hänet"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "ja pitää hänet hengissä"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "on autuas"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maan päällä"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "anna häntä"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "nefeshin"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "vihollistensa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:07:48.754009300Z",
+  "model": "glm-5.3"
+}

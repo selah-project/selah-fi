@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja Yoav nousi ja meni Geshuriin ja toi ⟨את⟩ Avshalomin Jerushalajimiin (Jerusalemiin).",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ja nousi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ja meni"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "Geshuriin"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ja toi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalomin"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalomin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimiin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:27:26.216608568Z",
+  "model": "glm-5.3"
+}

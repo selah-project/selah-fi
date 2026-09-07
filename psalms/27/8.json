@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Sinulle sanoi sydämeni: ”Etsikää minun kasvojani” — ⟨את⟩ kasvojasi, Jahve, minä etsin.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sydämeni"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "etsikää"
+    },
+    {
+      "surface": "פני",
+      "gloss": "minun kasvojani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasvojasi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "kasvojasi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "minä etsin"
+    }
+  ],
+  "timestamp": "2026-09-07T02:01:47.867508764Z",
+  "model": "glm-5.3"
+}

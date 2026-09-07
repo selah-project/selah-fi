@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 9:5",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja he tekivät ⟨את⟩ pesah-uhrein ensimmäisessä kuussa, kuukauden neljäntenätoista päivänä, ilta-aikojen välillä, Sinain erämaassa; niin kuin Jahve oli käskenyt ⟨את⟩ Moshea (Mooses), niin tekivät Israelin pojat.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Ja he tekivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesah-uhrin"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesah-uhrein"
+    },
+    {
+      "surface": "בראשון",
+      "gloss": "ensimmäisessä"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "neljäntenä"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "toista"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "kuukauden"
+    },
+    {
+      "surface": "בין",
+      "gloss": "välillä"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "ilta-aikojen"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "erämaassa"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinain"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "niin kuin kaikki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oli käskenyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshea"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "tekivät"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:06:59.881857395Z",
+  "model": "glm-5.3"
+}

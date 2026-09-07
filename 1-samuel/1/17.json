@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 1:17",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja Eli vastasi ja sanoi: Mene rauhassa, ja Israelin Elohim antakoon ⟨את⟩ pyyntösi, jonka olet pyytänyt häneltä.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Ja vastasi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Mene"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "rauhassa"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ja … Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "antakoon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pyyntösi"
+    },
+    {
+      "surface": "שלתך",
+      "gloss": "pyyntösi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "olet pyytänyt"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "häneltä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:05:05.914507456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Jalkani on seissyt tasaisella maalla; seurakuntien keskellä minä siunaan Jahvea.",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "Jalkani"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "on seissut"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "tasaisella maalla"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "seurakuntien keskellä"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "minä siunaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    }
+  ],
+  "timestamp": "2026-09-07T01:59:52.601947936Z",
+  "model": "glm-5.3"
+}

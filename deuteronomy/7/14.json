@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Siunattu ⟨olet⟩ sinä kaikkia kansoja enemmän; ei sinusta löydy hedelmätöntä, miestä eikä naista, eikä karjaeläimistäsi.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "siunattu"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨olet⟩ sinä"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kaikkia … enemmän"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "kansoja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "löydy"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinusta"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "hedelmätöntä miestä"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "eikä hedelmätöntä naista"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "eikä karjaeläimistäsi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:28:30.226867220Z",
+  "model": "glm-5.3"
+}

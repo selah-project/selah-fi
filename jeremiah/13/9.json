@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Näin sanoi Jahve: samalla tavalla minä turmelen ⟨את⟩ Jehudan (Juuda) ylpeyden ja ⟨את⟩ Jerushalajimin (Jerusalem) suuren ylpeyden.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Näin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "samalla tavalla"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "minä turmelen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehudan ylpeyden"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ylpeyden"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Jerushalajimin suuren ylpeyden"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ylpeyden"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimin"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "suuren"
+    }
+  ],
+  "timestamp": "2026-09-07T00:31:05.332008949Z",
+  "model": "glm-5.3"
+}

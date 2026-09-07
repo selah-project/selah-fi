@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Turhuus turhuuksien, sanoi Kohelet (Saarnaaja), kaikki ⟨on⟩ turhuutta.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Turhuus"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "turhuuksien"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "turhuutta"
+    }
+  ],
+  "timestamp": "2026-09-07T04:38:42.515740458Z",
+  "model": "glm-5.3"
+}

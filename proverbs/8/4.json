@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Teitä, miehet, minä kutsun, ja ääneni ⟨suuntautuu⟩ ihmislapsille.",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "Teitä"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "minä kutsun"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "ja ääneni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨suuntautuu⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ihmislapsille"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmis-"
+    }
+  ],
+  "timestamp": "2026-09-07T03:04:03.249908127Z",
+  "model": "glm-5.3"
+}

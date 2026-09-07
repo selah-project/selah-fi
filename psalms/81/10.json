@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 81,
+  "translation": "Vierasta jumalaa ei olko sinussa, äläkä kumarra vieraalle jumalalle.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olko"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinussa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jumalaa"
+    },
+    {
+      "surface": "זר",
+      "gloss": "vierasta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "äläkä"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "kumarra"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "jumalalle"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "vieraalle"
+    }
+  ],
+  "timestamp": "2026-09-07T02:24:44.325793875Z",
+  "model": "glm-5.3"
+}

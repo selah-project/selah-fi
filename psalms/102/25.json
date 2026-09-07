@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 102,
+  "translation": "Minä sanoin: Elini, älä vie minua pois päivieni keskellä; vuotesi ⟨ovat⟩ sukupolvien sukupolvien ⟨ajan⟩.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Minä sanoin"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Elini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "vie minua pois"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "keskellä"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päivieni"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "sukupolvien"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "sukupolvien"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "vuotesi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:36:35.219248280Z",
+  "model": "glm-5.3"
+}

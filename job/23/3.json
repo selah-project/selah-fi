@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 23:3",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Kuka antaisi, että tietäisin ja löytäisin hänet, ja tulisin hänen istuimensa ääreen!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kuka"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "antaisi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "että tietäisin"
+    },
+    {
+      "surface": "ואמצאהו",
+      "gloss": "ja löytäisin hänet"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ja tulisin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "תכונתו",
+      "gloss": "hänen istuimensa ääreen"
+    }
+  ],
+  "timestamp": "2026-09-07T03:38:30.190951453Z",
+  "model": "glm-5.3"
+}

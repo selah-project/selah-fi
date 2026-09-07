@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja Asherin (Aser) heimosta ⟨את⟩ Mishalin ja ⟨את⟩ sen laidusmaat, ⟨את⟩ Avdonin ja ⟨את⟩ sen laidusmaat.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Ja heimosta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asherin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishalin"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "Mishalin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen laidusmaat"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sen laidusmaat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avdonin"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdonin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen laidusmaat"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sen laidusmaat"
+    }
+  ],
+  "timestamp": "2026-09-06T22:48:28.679680204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 7:14",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Hyvyyden päivänä ole hyvässä, ja pahan päivänä katso: myös ⟨את⟩ tätä vastapäätä tuota teki Elohim, siksi ettei ihminen löytäisi mitään jälkeensä.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Päivänä"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "hyvyyden"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ole"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "hyvässä"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ja päivänä"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pahan"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "katso"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tätä"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tätä"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "vastapäätä"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tuota"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "siksi"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "että"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "ettei"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "löytäisi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihminen"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "jälkeensä"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "mitään"
+    }
+  ],
+  "timestamp": "2026-09-07T04:38:09.706635262Z",
+  "model": "glm-5.3"
+}

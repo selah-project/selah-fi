@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 6:4",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja hän sanoi: ”Kiitetty olkoon Jahve, Israelin Elohim, joka puhui suullaan ⟨את⟩ Davidille (Daavid), isälleni, ja täytti käsillään ⟨sen⟩ sanoen:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Kiitetty olkoon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "puhui"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "suullaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidille, isälleni"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidille"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "isälleni"
+    },
+    {
+      "surface": "ובידיו",
+      "gloss": "ja käsillään"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "täytti ⟨sen⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    }
+  ],
+  "timestamp": "2026-09-07T05:32:06.459735625Z",
+  "model": "glm-5.3"
+}

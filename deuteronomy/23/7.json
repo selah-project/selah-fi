@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Älä etsi heidän rauhaansa emmekä heidän menestystään kaikkina elinpäivinäsi, iankaikkisesti.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "etsi"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "heidän rauhaansa"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "eikä heidän menestystään"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkina"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "elinpäivinäsi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iankaikkisesti"
+    }
+  ],
+  "timestamp": "2026-09-06T22:33:51.156340536Z",
+  "model": "glm-5.3"
+}

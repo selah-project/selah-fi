@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 19:11",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja Avshalom, jonka me voidelimme itsemme päälle, kuoli taistelussa, ja nyt miksi te vaikenette tuomaan takaisin ⟨את⟩ kuninkaan?",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "Ja Avshalom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "משחנו",
+      "gloss": "me voidelimme"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "itsemme päälle"
+    },
+    {
+      "surface": "מת",
+      "gloss": "kuoli"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "taistelussa"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ja nyt"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miksi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "te"
+    },
+    {
+      "surface": "מחרשים",
+      "gloss": "vaikenette"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "tuomaan takaisin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuninkaan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:29:14.973492331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja Jahven käsi oli raskas ashdodilaisten päällä, ja hän hävitti heidät ja löi ⟨את⟩ heidät paiseilla ⟨את⟩ Ashdodin ja ⟨את⟩ sen rajat.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "oli raskas"
+    },
+    {
+      "surface": "יד",
+      "gloss": "käsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אל",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "ashdodilaisille"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "ja hän hävitti"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ja löi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "heidät (paiseilla lyötyinä)"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "paiseilla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashdodin"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdodin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen rajat"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "sen rajat"
+    }
+  ],
+  "timestamp": "2026-09-06T23:07:23.383136420Z",
+  "model": "glm-5.3"
+}

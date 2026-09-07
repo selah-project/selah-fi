@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 8:20",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Hänen päivinään kapinoitti Edom Jehudan käden alta, ja he panivat heidän päällensä kuninkaan.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "hänen päivinään"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "kapinoitti"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "alta"
+    },
+    {
+      "surface": "יד",
+      "gloss": "käden"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "panivat kuninkaan"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "heidän päällensä"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:50:29.964624887Z",
+  "model": "glm-5.3"
+}

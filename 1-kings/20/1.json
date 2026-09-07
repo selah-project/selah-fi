@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 20:1",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja Ben-Hadad, Aramin kuningas, kokosi ⟨את⟩ koko sotajoukkonsa, ja kolmekymmentä ja kaksi kuningasta ⟨את⟩ hänen kanssaan, ja hevosia ja vaunuja, ja hän nousi ja piiritti Shomeronia ja taisteli sitä vastaan.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "Ja Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramin"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "kokosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko sotajoukkonsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "sotajoukkonsa"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ja kolmekymmentä"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningasta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänen kanssaan"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "ja hevosia"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "ja vaunuja"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ja hän nousi"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "ja piiritti"
+    },
+    {
+      "surface": "על",
+      "gloss": "vasten"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeronia"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ja taisteli"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sitä vastaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:44:32.245560644Z",
+  "model": "glm-5.3"
+}

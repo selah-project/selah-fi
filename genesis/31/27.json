@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 31:27",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Miksi lähdit salaa ja petosit ⟨את⟩ minua, etkö ilmoittanut minulle, niin että olisin päästänyt sinut lähtöön ilolla ja lauluilla, rummun ja kanteleen soittaen?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "miksi"
+    },
+    {
+      "surface": "נחבאת",
+      "gloss": "lähdit salaa"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "pakoon"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "ja petosit"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ minua",
+      "marks": "minua"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja et"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "ilmoittanut"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "niin että olisin päästänyt sinut"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ilolla"
+    },
+    {
+      "surface": "ובשרים",
+      "gloss": "ja lauluilla"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "rummulla"
+    },
+    {
+      "surface": "ובכנור",
+      "gloss": "ja kanteleella"
+    }
+  ],
+  "timestamp": "2026-09-06T21:18:47.193444391Z",
+  "model": "glm-5.3"
+}

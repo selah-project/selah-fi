@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 14:16",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Koska Jahve ei voinut tuoda ⟨את⟩ tätä kansaa siihen maahan, jonka hän heille vannoi, sentähden hän teurasti heidät erämaahan.",
+  "tokens": [
+    {
+      "surface": "מבלתי",
+      "gloss": "koska ei"
+    },
+    {
+      "surface": "יכלת",
+      "gloss": "voinut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "tuoda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tätä kansaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansaa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tätä"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "hän vannoi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "וישחטם",
+      "gloss": "sentähden hän teurasti heidät"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "erämaahan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:09:19.075721599Z",
+  "model": "glm-5.3"
+}

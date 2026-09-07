@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 50:16",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 50,
+  "translation": "Ja he antoivat käskyn Joselin luo sanoen: ”Isäsi käski ennen kuolemaansa sanoen:",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "antoivat käskyn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joselin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "isäsi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "käski"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ennen"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "kuolemaansa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:28:30.251988374Z",
+  "model": "glm-5.3"
+}

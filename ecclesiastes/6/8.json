@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Sillä mitä viisaalla on enemmän kuin tyhmällä, mitä köyhällä, joka tietää kulkea elävien edessä?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "enemmän"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "viisaalla"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuin"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "tyhmällä"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "köyhällä"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "joka tietää"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "kulkea"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "elävien"
+    }
+  ],
+  "timestamp": "2026-09-07T04:38:16.786045354Z",
+  "model": "glm-5.3"
+}

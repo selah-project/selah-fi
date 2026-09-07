@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Mutta Jahve heitti suuren tuulen mereen, ja meressä ⟨oli⟩ suuri myrsky, ja alus ⟨oli⟩ lähellä särkyä.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Mutta Jahve"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "heitti"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "tuulen"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "suuren"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mereen"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mereen"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "סער",
+      "gloss": "myrsky"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suuri"
+    },
+    {
+      "surface": "בים",
+      "gloss": "meressä"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "ja alus"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "arveli"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "särkymään"
+    }
+  ],
+  "timestamp": "2026-09-07T01:34:46.832543193Z",
+  "model": "glm-5.3"
+}

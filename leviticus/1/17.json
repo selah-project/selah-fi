@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 1:17",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja hän halkaisee ⟨את⟩ sen siivistään, ei erota sitä; ja kohen (pappi) savustaa ⟨את⟩ sen alttarille puun päälle, joka on tulen päällä; polttouhri se ⟨on⟩, tuleuhri, miellyttävä tuoksu Jahvelle.",
+  "tokens": [
+    {
+      "surface": "ושסע",
+      "gloss": "Ja hän halkaisee"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sen"
+    },
+    {
+      "surface": "בכנפיו",
+      "gloss": "siivistään"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "erota"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "ja savustaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "alttarille"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "puun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "האש",
+      "gloss": "tulen"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "polttouhri"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tuleuhri"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "tuoksu"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "miellyttävä"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    }
+  ],
+  "timestamp": "2026-09-06T21:46:31.174724613Z",
+  "model": "glm-5.3"
+}

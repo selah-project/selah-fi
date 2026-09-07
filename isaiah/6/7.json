@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja hän kosketti sitä minun suuhuni ja sanoi: Katso, tämä on koskettanut sinun huuliasi, ja sinun pahaluontosi ⟨on⟩ poistettu ja sinun syntisi ⟨on⟩ sovitettu.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "ja hän kosketti"
+    },
+    {
+      "surface": "על",
+      "gloss": "-hun"
+    },
+    {
+      "surface": "פי",
+      "gloss": "minun suuhuni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "katso"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "on koskettanut"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ia"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "sinun huuliasi"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "ja ⟨on⟩ poistettu"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "sinun pahaluontosi"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "ja sinun syntisi"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "⟨on⟩ sovitettu"
+    }
+  ],
+  "timestamp": "2026-09-07T00:02:56.042049577Z",
+  "model": "glm-5.3"
+}

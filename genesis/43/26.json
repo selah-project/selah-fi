@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 43:26",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 43,
+  "translation": "Ja Josef tuli taloon, ja he toivat hänelle ⟨את⟩ lahjan, joka oli heidän kädessään, taloon, ja he kumarsivat hänelle maahan asti.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ja tuli"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "taloon"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ja he toivat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahjan"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "lahjan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "heidän kädessään"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "taloon"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ja he kumarsivat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "maahan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:24:54.402301153Z",
+  "model": "glm-5.3"
+}

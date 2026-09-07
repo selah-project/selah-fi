@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Jahve yksin johti häntä, eikä hänen kanssaan ollut vierasta jumalaa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "yksin"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "johti häntä"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hänen kanssaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jumalaa"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "vierasta"
+    }
+  ],
+  "timestamp": "2026-09-06T22:37:33.493138586Z",
+  "model": "glm-5.3"
+}

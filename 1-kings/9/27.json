@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 9:27",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja Hiram lähetti laivastossa ⟨את⟩ palvelijansa, laivojen miehiä, meren taitavia, Shelomon palvelijoiden kanssa.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ja lähetti"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "באני",
+      "gloss": "laivastossa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palvelijansa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "palvelijansa"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "miehiä"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "laivojen"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "taitavia"
+    },
+    {
+      "surface": "הים",
+      "gloss": "merta"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "palvelijoiden"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomon"
+    }
+  ],
+  "timestamp": "2026-09-06T23:38:37.014325041Z",
+  "model": "glm-5.3"
+}

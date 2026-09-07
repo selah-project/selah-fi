@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 1:11",
+  "book": "habakkuk",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Silloin tuuli kulkee ohi ja menee menojaan, ja hän tulee syylliseksi: tämä hänen voimansa ⟨on⟩ hänen jumalansa.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Silloin"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "kulkee ohi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "tuuli"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ja menee menojaan"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "ja hän tulee syylliseksi"
+    },
+    {
+      "surface": "זו",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "hänen voimansa"
+    },
+    {
+      "surface": "לאלהו",
+      "gloss": "hänen jumalansa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:37:33.824465538Z",
+  "model": "glm-5.3"
+}

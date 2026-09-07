@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Kuulkaa Jahven sanan, Sedomin hallitsijat; antakaa korvat meidän Elohimimme Toralle (Toora), kansa Amorah!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Kuulkaa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "hallitsijat"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedomin"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "antakaa korvat"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Toralle"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "meidän Elohimimme"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorah"
+    }
+  ],
+  "timestamp": "2026-09-07T00:00:06.559042556Z",
+  "model": "glm-5.3"
+}

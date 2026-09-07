@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 19:3",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja te annatte ⟨את⟩ hänet Elazarille (Eleasar), kohenille (pappi), ja hän vie ⟨את⟩ hänet leirin ulkopuolelle ja teurastaa ⟨את⟩ hänet hänen näkyvillään.",
+  "tokens": [
+    {
+      "surface": "ונתתם",
+      "gloss": "Ja te annatte"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hänet (lehmän)"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazarille (Eleasar)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenille (pappi)"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "ja hän vie"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hänet (leirin ulkopuolelle)"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ulkopuolelle"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "leirin"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ja teurastaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hänet (hänen näkyvillään)"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "hänen näkyvillään"
+    }
+  ],
+  "timestamp": "2026-09-06T22:14:43.427257474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 97,
+  "translation": "Tuli kulkee hänen edellään ja polttaa hänen vihollisensa ympäriltä.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "hänen edellään"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "kulkee"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "ja polttaa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympäriltä"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "hänen vihollisensa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:34:15.979677522Z",
+  "model": "glm-5.3"
+}

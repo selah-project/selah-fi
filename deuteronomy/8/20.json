@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 8:20",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Niin kuin kansat, jotka Jahve hävittää teidän edestänne, niin te kadoatte, seurauksena siitä, ettette kuuntele Jahven, Elohimienne, ääntä.",
+  "tokens": [
+    {
+      "surface": "כגוים",
+      "gloss": "niin kuin kansat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאביד",
+      "gloss": "hävittää"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "teidän edestänne"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "te kadoatte"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "seurauksena siitä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "et"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "te kuuntele"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "äänellä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimienne"
+    }
+  ],
+  "timestamp": "2026-09-07T04:16:16.643676870Z",
+  "model": "glm-5.3"
+}

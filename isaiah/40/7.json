@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ruoho kuivuu, kukka lakastuu, sillä Jahven henki puhaltaa siihen; totisesti, kansa ⟨on⟩ ruohoa.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "kuivuu"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "Ruoho"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "lakastuu"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "kukka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "henki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "puhaltaa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siihen"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "totisesti"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ruohoa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    }
+  ],
+  "timestamp": "2026-09-07T00:13:54.527813007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 19:17",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja hän kohotti silmänsä ja näki ⟨את⟩ miehen, matkalaisen, kaupungin torilla; ja vanha mies sanoi: Minne sinä menet, ja mistä sinä tulet?",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Ja hän kohotti"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "silmänsä"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ja näki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miehen"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "הארח",
+      "gloss": "matkalaisen"
+    },
+    {
+      "surface": "ברחב",
+      "gloss": "torilla"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "vanha"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "minne"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "sinä menet"
+    },
+    {
+      "surface": "ומאין",
+      "gloss": "ja mistä"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "sinä tulet"
+    }
+  ],
+  "timestamp": "2026-09-06T23:01:57.430090004Z",
+  "model": "glm-5.3"
+}

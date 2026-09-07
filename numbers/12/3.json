@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja mies Moshe oli hyvin nöyrä, enemmän kuin kaikki ihmiset, jotka ovat maan pinnalla.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "Ja mies"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "nöyrä"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hyvin"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "enemmän kuin kaikki"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihmiset"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pinnalla"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:10:19.660415689Z",
+  "model": "glm-5.3"
+}

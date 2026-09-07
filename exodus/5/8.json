@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 5:8",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja ⟨את⟩ tiilien määrän, jonka he tekevät, eilen ja toissapäivän, pankaa heidän päällensä älkääkä vähentäkö siitä mitään, sillä he ovat velttoja; sentähden he huutavat sanoen: Menkäämme, uhraakoon me Elohimillemme.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "tiilien määrän"
+    },
+    {
+      "surface": "מתכנת",
+      "gloss": "määrän"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "tiilien"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "הם",
+      "gloss": "he"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "tekevät"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "eilen"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "toissapäivän"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "pankaa"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "heidän päällensä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תגרעו",
+      "gloss": "vähentäkö"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "siitä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "נרפים",
+      "gloss": "velttoja"
+    },
+    {
+      "surface": "הם",
+      "gloss": "he"
+    },
+    {
+      "surface": "על",
+      "gloss": "sen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "perusteella"
+    },
+    {
+      "surface": "הם",
+      "gloss": "he"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "huutavat"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "Menkäämme"
+    },
+    {
+      "surface": "נזבחה",
+      "gloss": "uhraakoon me"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Elohimillemme"
+    }
+  ],
+  "timestamp": "2026-09-06T21:31:03.171882387Z",
+  "model": "glm-5.3"
+}

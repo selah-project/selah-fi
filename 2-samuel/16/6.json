@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja hän heitti kiviä ⟨את⟩ Davidia ja ⟨את⟩ kaikkia kuningas Davidin palvelijoita; ja kaikki kansa ja kaikki sankarit ⟨olivat⟩ hänen oikealla puolellaan ja hänen vasemmalla puolellaan.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "Ja hän heitti kiviä"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "kivillä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidia"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikkia kuningas Davidin palvelijoita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkia"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "palvelijoita"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "sankarit"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "hänen oikealla puolellaan"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "ja hänen vasemmalla puolellaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:26:33.447467005Z",
+  "model": "glm-5.3"
+}

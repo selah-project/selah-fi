@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 34:12",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "Sen ylhäisistä ei siellä ole ketään; kuningaskuntaa he kutsuvat ⟨puhkeamaan⟩, ja kaikki sen ruhtinaat ovat ⟨viimeistänsä myöten⟩ lopussa.",
+  "tokens": [
+    {
+      "surface": "חריה",
+      "gloss": "sen ylhäiset"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ja ei ole"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "מלוכה",
+      "gloss": "kuningaskuntaa"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "he kutsuvat"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "sen ruhtinaat"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ovat"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "loppu"
+    }
+  ],
+  "timestamp": "2026-09-07T00:11:35.584252267Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 7:5",
+  "book": "ezra",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "poika Avishuan, poika Pinhasin, poika Elazarin, poika Aharonin (Aaron), papin pää",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Avishuan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinhasin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazarin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonin"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "papin"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "pää"
+    }
+  ],
+  "timestamp": "2026-09-07T06:00:58.766741174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 38,
+  "translation": "Sillä sinua, Jahve, minä odotin; sinä vastaat, Adonai, Elohimini.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "minä odotin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "vastaat"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimini"
+    }
+  ],
+  "timestamp": "2026-09-07T02:07:03.966978109Z",
+  "model": "glm-5.3"
+}

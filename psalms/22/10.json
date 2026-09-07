@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Sillä sinä ⟨olet se, joka⟩ vedit minut esiin kohdusta, sinä panit minut turvaamaan äitini rintojen varaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "vedit minut esiin"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "kohdusta"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "panit minut turvaamaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "varaan"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "rintojen"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "äitini"
+    }
+  ],
+  "timestamp": "2026-09-07T01:57:39.116660912Z",
+  "model": "glm-5.3"
+}

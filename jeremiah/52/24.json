@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 52:24",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 52,
+  "translation": "Ja teilittäjien päämies otti ⟨את⟩ Serajahin, pääkohenin, ja ⟨את⟩ Tsefanjan, toisen kohenin, ja ⟨את⟩ kolme kynnyksen vartijaa.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ja otti"
+    },
+    {
+      "surface": "רב",
+      "gloss": "päämies"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "teilittäjien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serajahin"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serajahin"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohenin"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "pää-"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Tsefanjan"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanjan"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohenin"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "toisen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kolme kynnyksen vartijaa"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "vartijaa"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "kynnyksen"
+    }
+  ],
+  "timestamp": "2026-09-07T00:50:41.236258878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 16:31",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja Israelin heimo kutsui ⟨את⟩ sen nimeksi man; ja se ⟨oli⟩ kuin korianterin siemen, valkoinen, ja sen maku ⟨oli⟩ kuin hunajassa tehdyllä vohvelilla.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "Ja kutsui"
+    },
+    {
+      "surface": "בית",
+      "gloss": "heimo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen nimen"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nimen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "man"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ja se"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "kuin siemen"
+    },
+    {
+      "surface": "גד",
+      "gloss": "korianterin"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "valkoinen"
+    },
+    {
+      "surface": "וטעמו",
+      "gloss": "ja sen maku"
+    },
+    {
+      "surface": "כצפיחת",
+      "gloss": "kuin vohvelilla"
+    },
+    {
+      "surface": "בדבש",
+      "gloss": "hunajassa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:36:21.484953020Z",
+  "model": "glm-5.3"
+}

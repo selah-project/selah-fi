@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 13:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Mutta minä olen turvautunut sinun hesediisi (armoosi); sydämeni iloitsee sinun pelastuksestasi. Minä veisaan Jahvelle, sillä hän on tehnyt minulle hyvää.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mutta minä"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "sinun hesediisi"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "olen turvautunut"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "iloitsee"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sydämeni"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "sinun pelastuksestasi"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "minä veisaan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "on tehnyt hyvää"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "minulle"
+    }
+  ],
+  "timestamp": "2026-09-07T01:54:21.912490966Z",
+  "model": "glm-5.3"
+}

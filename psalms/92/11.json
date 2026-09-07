@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 92,
+  "translation": "Ja sinä korotat sarveni kuin reem-villihärän ⟨sarven⟩; minut on voideltu tuoreella öljyllä.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "ja sinä korotat"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "kuin villihärkä"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "sarveni"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "minut on voideltu"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "öljyllä"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "tuoreella"
+    }
+  ],
+  "timestamp": "2026-09-07T02:32:11.909324376Z",
+  "model": "glm-5.3"
+}

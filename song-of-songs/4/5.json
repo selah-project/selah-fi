@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 4:5",
+  "book": "song-of-songs",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Kaksi rintaasi on kuin kaksi vasaa, kaksosia gasellinaaraan, jotka laiduntavat liljoissa.",
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "rintasi"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "kuin kaksi"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "vasaa"
+    },
+    {
+      "surface": "תאומי",
+      "gloss": "kaksosia"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "gasellinaaraan"
+    },
+    {
+      "surface": "הרועים",
+      "gloss": "jotka laiduntavat"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "liljoissa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:55:49.665340841Z",
+  "model": "glm-5.3"
+}

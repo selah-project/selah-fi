@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 17:6",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja vaskisäärisuojat olivat hänen jaloissaan, ja vaskikeihäs oli hänen olkapäidensä välissä.",
+  "tokens": [
+    {
+      "surface": "ומצחת",
+      "gloss": "ja vaskisäärisuojat"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "vaski-"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "hänen jaloissaan"
+    },
+    {
+      "surface": "וכידון",
+      "gloss": "ja vaskikeihäs"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "vaski-"
+    },
+    {
+      "surface": "בין",
+      "gloss": "välissä"
+    },
+    {
+      "surface": "כתפיו",
+      "gloss": "hänen olkapäidensä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:10:27.697662678Z",
+  "model": "glm-5.3"
+}

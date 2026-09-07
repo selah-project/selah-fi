@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 18:19",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja nyt lähetä ja kokoa luokseni ⟨את⟩ koko Israel Karmelin vuorelle, ja ⟨את⟩ Baalin profeetat, neljäsataaviisikymmentä, ja Asheran profeetat, neljäsataa, jotka syövät Isebelin (Iisabel) pöydästä.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ja nyt"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "lähetä"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "kokoa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "luokseni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vuorelle"
+    },
+    {
+      "surface": "הר",
+      "gloss": "vuorelle"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmelin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Baalin profeetat"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "profeetat"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baalin"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "neljä"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sataa"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "viisikymmentä"
+    },
+    {
+      "surface": "ונביאי",
+      "gloss": "ja profeetat"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Asheran"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "neljä"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sataa"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "jotka syövät"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "pöydästä"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Isebelin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:44:08.298400536Z",
+  "model": "glm-5.3"
+}

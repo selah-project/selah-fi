@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja he jäävät hämmälle ja häpeävät Kushia (Etiopiaa), toivoaan, ja ⟨mistä⟩ Mitsrajimista (Egyptistä), ylpeytensä.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "ja he jäävät hämmälle"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "ja häpeävät"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "Kushia"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "toivoaan"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ja ⟨mistä⟩"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimista"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "ylpeytensä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:05:29.975746382Z",
+  "model": "glm-5.3"
+}

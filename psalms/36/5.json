@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 36,
+  "translation": "Vääryyttä hän punoo vuoteellaan; hän asettautuu tielle, joka ei ole hyvä; pahaa hän ei hylkää.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "vääryyttä"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "hän punoo"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "vuoteellaan"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "hän asettautuu"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tielle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvä"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pahaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "hän hylkää"
+    }
+  ],
+  "timestamp": "2026-09-07T02:04:57.061165088Z",
+  "model": "glm-5.3"
+}

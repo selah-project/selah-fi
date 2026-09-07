@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 23:22",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Mutta jos he olisivat seisseet minun neuvossani, he olisivat saattaneet ⟨את⟩ kansani kuulemaan sanojani ja kääntäneet kansani pois sen pahalta tieltä ja sen tekojen pahuudesta.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mutta jos"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "olisivat seisseet"
+    },
+    {
+      "surface": "בסודי",
+      "gloss": "minun neuvossani"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "olisivat saattaneet kuulemaan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanojani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansani"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kansani"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "ja kääntäneet heidät pois"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "sen tieltä"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "pahalta"
+    },
+    {
+      "surface": "ומרע",
+      "gloss": "ja pahuudesta"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "sen tekojen"
+    }
+  ],
+  "timestamp": "2026-09-07T00:34:39.942625379Z",
+  "model": "glm-5.3"
+}

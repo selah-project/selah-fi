@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 4:4",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja hän tuo ⟨את⟩ härän ilmestyskodin ovelle Jahven eteen, ja painaa ⟨את⟩ kätensä härän päähän, ja teurastaa ⟨את⟩ härän Jahven eteen.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "ja hän tuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "härän"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "härän"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...lle"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ovelle"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kodin"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ilmestys-"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "ja painaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kätensä"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kätensä"
+    },
+    {
+      "surface": "על",
+      "gloss": "...hon"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "päähän"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "härän"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ja teurastaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "härän"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "härän"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-06T21:48:03.480095005Z",
+  "model": "glm-5.3"
+}

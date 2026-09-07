@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Nämä ⟨ovat⟩ Israelin pojat: Re'uven (Ruuben), Shimon (Simeon), Levi ja Yehudah (Juuda), Yissakhar ja Zevulun.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Nämä"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Re'uven"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ja Yehudah"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissakhar"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "ja Zevulun"
+    }
+  ],
+  "timestamp": "2026-09-07T05:11:52.431554914Z",
+  "model": "glm-5.3"
+}

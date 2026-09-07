@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 97,
+  "translation": "Sillä sinä, Jahve, ⟨olet⟩ korkein koko maan yllä, ylen korkealle sinä olet noussut kaikkien jumalien yli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "korkein"
+    },
+    {
+      "surface": "על",
+      "gloss": "yllä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ylen"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "olet noussut"
+    },
+    {
+      "surface": "על",
+      "gloss": "ylönsä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkien"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jumalien"
+    }
+  ],
+  "timestamp": "2026-09-07T02:35:37.240737652Z",
+  "model": "glm-5.3"
+}

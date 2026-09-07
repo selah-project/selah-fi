@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja ⟨את⟩ lihan ja ⟨את⟩ nahan hän poltti tulessa leirin ulkopuolella.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "lihan"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "lihan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "nahan"
+    },
+    {
+      "surface": "העור",
+      "gloss": "nahan"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "hän poltti"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulessa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ulkopuolella"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "leirin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:50:23.884271238Z",
+  "model": "glm-5.3"
+}

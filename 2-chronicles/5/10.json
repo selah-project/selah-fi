@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 5:10",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Arkissa ei ollut mitään muuta kuin kaksi taulua, jotka Moshe (Mooses) oli pannut sinne Horebissa, kun Jahve teki liiton Israelin lasten kanssa heidän lähtiessään Mitsrajimista (Egyptistä).",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ei ollut"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "arkissa"
+    },
+    {
+      "surface": "רק",
+      "gloss": "muuta kuin"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "הלחות",
+      "gloss": "taulua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joita"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "oli pannut"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mooses)"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "Horebissa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kun"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "teki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "lähtiessään"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrajimista (Egyptistä)"
+    }
+  ],
+  "timestamp": "2026-09-07T05:33:25.588558684Z",
+  "model": "glm-5.3"
+}

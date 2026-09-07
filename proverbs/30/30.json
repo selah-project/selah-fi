@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 30:30",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Leijona, väkevin eläimistä, joka ei käänny minkään edestä;",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "Leijona"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "väkevin"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "eläimistä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "käänny"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "edestä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minkään"
+    }
+  ],
+  "timestamp": "2026-09-07T03:20:55.045801033Z",
+  "model": "glm-5.3"
+}

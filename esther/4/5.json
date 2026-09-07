@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 4:5",
+  "book": "esther",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja Ester kutsui ⟨luokseen⟩ Hatakin, kuninkaan kamaripalvelijoista sen, jonka tämä oli asettanut hänen eteensä, ja käski hänen ⟨mennä⟩ Mordekain luo tietääkseen, mitä tämä oli ja miksi tämä oli.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "ja kutsui"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "Hatakin"
+    },
+    {
+      "surface": "מסריסי",
+      "gloss": "kamaripalvelijoista"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sen, jonka"
+    },
+    {
+      "surface": "העמיד",
+      "gloss": "oli asettanut"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "hänen eteensä"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "ja käski hänen"
+    },
+    {
+      "surface": "על",
+      "gloss": "luo"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekain"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "tietääkseen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä oli"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja miksi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä oli"
+    }
+  ],
+  "timestamp": "2026-09-07T04:42:34.739662728Z",
+  "model": "glm-5.3"
+}

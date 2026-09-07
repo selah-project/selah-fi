@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 5:28",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja Jahve kuuli ⟨את⟩ teidän sanojenne äänen, kun te puhuitte minulle; ja Jahve sanoi minulle: Minä olen kuullut ⟨את⟩ tämän kansan sanojen äänen, jonka he puhuivat sinulle; hyvin he ovat puhuneet kaiken, mitä he puhuivat.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Ja kuuli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "äänen"
+    },
+    {
+      "surface": "קול",
+      "gloss": "äänen"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "teidän sanojenne"
+    },
+    {
+      "surface": "בדברכם",
+      "gloss": "kun te puhuitte"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "olen kuullut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "äänen"
+    },
+    {
+      "surface": "קול",
+      "gloss": "äänen"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanojen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "he puhuivat"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "hyvin he ovat puhuneet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "he puhuivat"
+    }
+  ],
+  "timestamp": "2026-09-06T22:25:32.062546751Z",
+  "model": "glm-5.3"
+}

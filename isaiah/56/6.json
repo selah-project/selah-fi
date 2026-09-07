@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 56:6",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 56,
+  "translation": "Ja muukalaisen pojat, jotka liittyvät Jahveen palvellakseen häntä ja rakastaakseen ⟨את⟩ Jahven nimeä, ollakseen hänelle palvelijoiksi: jokainen, joka pitää Shabbatin (sapatin) profanoimatta sitä, ja jotka pitävät kiinni beritistani (liitostani) —",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ja ... pojat"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "muukalaisen"
+    },
+    {
+      "surface": "הנלוים",
+      "gloss": "jotka liittyvät"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveen"
+    },
+    {
+      "surface": "לשרתו",
+      "gloss": "palvellakseen"
+    },
+    {
+      "surface": "ולאהבה",
+      "gloss": "ja rakastaakseen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven nimeä"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimeä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ollakseen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "palvelijoiksi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokainen"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "joka pitää"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabbatin"
+    },
+    {
+      "surface": "מחללו",
+      "gloss": "profanoimatta sitä"
+    },
+    {
+      "surface": "ומחזיקים",
+      "gloss": "ja jotka pitävät kiinni"
+    },
+    {
+      "surface": "בבריתי",
+      "gloss": "beritistani"
+    }
+  ],
+  "timestamp": "2026-09-07T00:19:46.551176340Z",
+  "model": "glm-5.3"
+}

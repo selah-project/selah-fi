@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 3:18",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja tapahtui, kun hän oli saattanut loppuun ⟨את⟩ lahjan tuomisen, että hän lähetti pois ⟨את⟩ kansan, lahjan kantajat.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "tapahtui"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kun"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "saattanut loppuun"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "tuomisen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahjan"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "lahjan"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "lähetettyään pois"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "kantajat"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "lahjan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:55:03.872678722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 17:16",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja minä siunaan ⟨את⟩ häntä, ja myös minä annan hänestä sinulle pojan; ja minä siunaan häntä, ja hänestä tulee kansoja — kansojen kuninkaat hänen siittään olkoot.",
+  "tokens": [
+    {
+      "surface": "וברכתי",
+      "gloss": "Ja siunaan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "häntä"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja myös"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "annan"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "hänestä"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "וברכתיה",
+      "gloss": "ja siunaan häntä"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ja hän tulee"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "kansoiksi"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kuninkaat"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "kansojen"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "hänen siittään"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olkoot"
+    }
+  ],
+  "timestamp": "2026-09-06T21:10:12.596527872Z",
+  "model": "glm-5.3"
+}

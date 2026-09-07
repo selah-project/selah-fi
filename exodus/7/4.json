@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 7:4",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja Paro ei kuule teitä, ja minä panen ⟨את⟩ käteni Mitsrajimin päälle ja vien ulos ⟨את⟩ joukkoni, ⟨את⟩ kansani, Israelin pojat, Mitsrajimin maasta suurilla tuomioilla.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ja ei"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "kuule"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "teitä"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ja minä panen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "käteni"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "käteni"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrajimin päälle"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "ja vien ulos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "joukkoni"
+    },
+    {
+      "surface": "צבאתי",
+      "gloss": "joukkoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansani"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kansani"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "בשפטים",
+      "gloss": "tuomioilla"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "suurilla"
+    }
+  ],
+  "timestamp": "2026-09-06T21:31:14.437025338Z",
+  "model": "glm-5.3"
+}

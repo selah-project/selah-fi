@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja hän näytti heille ⟨את⟩ kaupungin sisäänkäynnin, ja he löivät ⟨את⟩ kaupungin miekan suulla, ja ⟨את⟩ miehen ja ⟨את⟩ koko perheensä he lähettivät pois.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "näytti heille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaupungin sisäänkäynnin"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "sisäänkäynnin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "löivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaupungin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "suulla"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "miekan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "miehen"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "koko perheensä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "perheensä"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "lähettivät pois"
+    }
+  ],
+  "timestamp": "2026-09-06T22:51:06.264206227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 77:13",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 77,
+  "translation": "Ja minä mietin kaikkea toimintaasi, ja tekijöistäsi minä puhun.",
+  "tokens": [
+    {
+      "surface": "והגיתי",
+      "gloss": "Ja minä mietin"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaikkea"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "toimintaasi"
+    },
+    {
+      "surface": "ובעלילותיך",
+      "gloss": "ja tekijöistäsi"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "minä puhun"
+    }
+  ],
+  "timestamp": "2026-09-07T02:22:09.990080613Z",
+  "model": "glm-5.3"
+}

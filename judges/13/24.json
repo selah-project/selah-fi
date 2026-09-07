@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "judges 13:24",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja nainen synnytti pojan, ja hän kutsui ⟨את⟩ hänen nimensä Shimshoniksi; ja poika kasvoi, ja Jahve siunasi häntä.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ja synnytti"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "nainen"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ja kutsui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen nimensä"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hänen nimensä"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Shimshoniksi"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "ja kasvoi"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "poika"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "ja siunasi häntä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-06T22:59:43.311548424Z",
+  "model": "glm-5.3"
+}

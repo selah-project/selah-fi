@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Minun silmäni ⟨ovat⟩ alati Jahvea kohti, sillä hän tuo minun jalkani ulos verkosta.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "minun silmäni"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "alati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "tuo ulos"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "verkosta"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "minun jalkani"
+    }
+  ],
+  "timestamp": "2026-09-07T04:29:29.333861082Z",
+  "model": "glm-5.3"
+}

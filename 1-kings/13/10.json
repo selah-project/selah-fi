@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja hän lähti toista tietä eikä palannut sitä tietä, jota hän oli tullut Beit Eliin (Betel).",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ja hän lähti"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tietä"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "toista"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "שב",
+      "gloss": "palannut"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sitä tietä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jota"
+    },
+    {
+      "surface": "בא",
+      "gloss": "oli tullut"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sitä"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-06T23:39:13.761044257Z",
+  "model": "glm-5.3"
+}

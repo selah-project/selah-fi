@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 20:17",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ei ⟨ole⟩ teille taistella tässä; asettukaa, seiskaa ja katsokaa ⟨את⟩ Jahven pelastusta, joka ⟨on⟩ teidän kanssanne, Jehuda (Juuda) ja Jerushalajim (Jerusalem)! Älkää pelätkö älkääkä lannistuko; huomenna lähtekää heidän edelleen, sillä Jahve ⟨on⟩ teidän kanssanne.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "taistella"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "tässä"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "asettukaa"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "seiskaa"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ja katsokaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven pelastusta"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "pelastusta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "teidän kanssanne"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ja Jerushalajim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "pelätkö"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "älkäkä"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "lannistuko"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "huomenna"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "lähtekää"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "heidän edelleen"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "sillä Jahve"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "teidän kanssanne"
+    }
+  ],
+  "timestamp": "2026-09-07T05:44:45.792672129Z",
+  "model": "glm-5.3"
+}

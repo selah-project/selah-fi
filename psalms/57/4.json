@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 57,
+  "translation": "Hän lähettää taivaasta ja pelastaa minut; hän häpäisee sen, joka minua ahmii. Selah. Elohim lähettää hesedinsä ja totuutensa.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Hän lähettää"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "taivaasta"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "ja pelastaa minut"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "hän häpäisee"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "sen, joka minua ahmii"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "lähettää"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedinsä"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "ja totuutensa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:14:04.392527388Z",
+  "model": "glm-5.3"
+}

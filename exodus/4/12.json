@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja nyt mene, ja minä olen sinun suusi kanssa, ja minä opetan sinulle, mitä sinun on puhuttava.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ja nyt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mene"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ja minä"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "olen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "suusi"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "ja minä opetan sinulle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "sinä puhut"
+    }
+  ],
+  "timestamp": "2026-09-06T21:30:33.546456013Z",
+  "model": "glm-5.3"
+}

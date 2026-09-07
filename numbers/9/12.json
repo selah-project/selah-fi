@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Eivät he jätä siitä mitään aamuun asti, eivätkä murskaa siitä luuta; koko pesahin säädöksen mukaan he tekevät ⟨את⟩ sen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Eivät"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "jätä"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "siitä"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "aamuun"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "ja luuta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "murskaa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siitä"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "säädöksen"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesahin"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "tekevät"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sen",
+      "marks": "sen (pesah)"
+    }
+  ],
+  "timestamp": "2026-09-06T22:07:11.502851650Z",
+  "model": "glm-5.3"
+}

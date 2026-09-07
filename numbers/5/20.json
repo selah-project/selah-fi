@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 5:20",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Mutta sinä — koska olet poikennut miehesi alta ja koska olet saastunut, ja joku mies on antanut sinuun ⟨את⟩ makuunsa toisen, miehesi muun kuin miehesi ohella —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Mutta sinä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "שטית",
+      "gloss": "olet poikennut"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alta"
+    },
+    {
+      "surface": "אישך",
+      "gloss": "miehesi"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ja koska"
+    },
+    {
+      "surface": "נטמאת",
+      "gloss": "olet saastunut"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "on antanut"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinuun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makuunsa"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "makuunsa"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "muun kuin … ohella"
+    },
+    {
+      "surface": "אישך",
+      "gloss": "miehesi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:05:51.789477726Z",
+  "model": "glm-5.3"
+}

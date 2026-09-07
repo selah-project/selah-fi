@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja rakensi Jahve Elohim ⟨את⟩ kylkiluun, jonka hän oli ottanut ihmestä, naiseksi, ja toi hänet ihmisen luo.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ja rakensi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kylkiluun"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "kylkiluun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "hän oli ottanut"
+    },
+    {
+      "surface": "מן",
+      "gloss": "–sta"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihmisestä"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "naiseksi"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "ja toi hänet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihmisen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:04:41.075621763Z",
+  "model": "glm-5.3"
+}

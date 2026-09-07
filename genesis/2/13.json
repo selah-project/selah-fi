@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja toisen joen nimi ⟨on⟩ Gichon (Giihon), se ⟨on⟩ se, joka kiertää ⟨את⟩ koko Kushin (Etiopian) maan.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Ja nimen"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "joen"
+    },
+    {
+      "surface": "השני",
+      "gloss": "toisen"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Gichon (Giihon)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "joka kiertää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko Kushin maan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kushin (Etiopian)"
+    }
+  ],
+  "timestamp": "2026-09-06T21:04:16.266877348Z",
+  "model": "glm-5.3"
+}

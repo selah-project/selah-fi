@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 9:13",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "⟨את⟩ jouseni olen antanut pilveen, ja se on oleva merkiksi Beritistä (liitosta) minun ja maan välillä.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jouseni"
+    },
+    {
+      "surface": "קשתי",
+      "gloss": "jouseni"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "olen antanut"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "pilveen"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ja se on oleva"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "merkiksi"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Beritistä (liitosta)"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "minun"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan välillä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:06:57.039923389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja sinä asetat pöydän päälle kasvojen leivän, minun kasvojeni eteen, jatkuvasti.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Ja sinä asetat"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "pöydän"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leivän"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "kasvojen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "jatkuvasti"
+    }
+  ],
+  "timestamp": "2026-09-06T21:39:48.704361258Z",
+  "model": "glm-5.3"
+}

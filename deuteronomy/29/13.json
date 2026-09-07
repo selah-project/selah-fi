@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ei ainoastaan ⟨את⟩ teidän kanssanne minä leikkaan ⟨את⟩ tämän liiton ja ⟨את⟩ tämän valan —",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidän kanssanne",
+      "marks": "teidän kanssanne"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "ainoastaan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "leikkaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän liiton"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "tämän liiton"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "tämän valan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tämän valan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämän"
+    }
+  ],
+  "timestamp": "2026-09-06T22:36:05.012183624Z",
+  "model": "glm-5.3"
+}

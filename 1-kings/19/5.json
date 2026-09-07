@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 19:5",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja hän heittäytyi maata ja nukkui yhden rotsempensaan alla; ja katso, enkeli kosketti häntä ja sanoi hänelle: Nouse, syö.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ja hän heittäytyi maata"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "ja nukkui"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alle"
+    },
+    {
+      "surface": "רתם",
+      "gloss": "rotsempensaan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yhden"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "enkeli"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "kosketti"
+    },
+    {
+      "surface": "בו",
+      "gloss": "häntä"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "קום",
+      "gloss": "nouse"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "syö"
+    }
+  ],
+  "timestamp": "2026-09-06T23:43:33.517973543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Nousi David, ja hän kulki, hän ja kuusisataa miestä, jotka olivat hänen kanssaan, Akishin (Akis), Maokhin (Maok) pojan, Gatin (Gat) kuninkaan luo.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Nousi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ja kulki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ja kuusi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sataa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miestä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hänen kanssaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-n luo"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akishin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "Maokhin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gatin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:17:45.231153648Z",
+  "model": "glm-5.3"
+}

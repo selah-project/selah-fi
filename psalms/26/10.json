@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "joiden käsissä on paha suunnitelma ja joiden oikea käsi on täynnä lahjuksia.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "joiden"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "käsissä"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "paha suunnitelma"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "ja joiden oikea käsi"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "on täynnä"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "lahjuksia"
+    }
+  ],
+  "timestamp": "2026-09-07T01:59:52.600790153Z",
+  "model": "glm-5.3"
+}

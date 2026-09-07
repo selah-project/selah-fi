@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 20:25",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja sinä, määrää itsellesi joukko, niin kuin se joukko, joka kaatui ⟨את⟩ sinulta, hevonen niin kuin hevonen ja vaunut niin kuin vaunut, ja me taistelemme ⟨את⟩ heidät tasangolla — emmekö ole väkevämpiä kuin he? Ja hän kuuli heidän äänensä ja teki niin.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ja sinä"
+    },
+    {
+      "surface": "תמנה",
+      "gloss": "määrää"
+    },
+    {
+      "surface": "לך",
+      "gloss": "itsellesi"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "joukko"
+    },
+    {
+      "surface": "כחיל",
+      "gloss": "niin kuin joukon"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "kaatuneen"
+    },
+    {
+      "surface": "מאותך",
+      "gloss": "⟨את⟩ sinulta"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "ja hevonen"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "niin kuin hevonen"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "ja vaunut"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "niin kuin vaunut"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "ja me taistelemme"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "heidät"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "tasangolla"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eikö"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emme"
+    },
+    {
+      "surface": "נחזק",
+      "gloss": "ole väkevämpiä"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kuin he"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ja hän kuuli"
+    },
+    {
+      "surface": "לקלם",
+      "gloss": "heidän äänensä"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ja teki"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:45:12.128243362Z",
+  "model": "glm-5.3"
+}

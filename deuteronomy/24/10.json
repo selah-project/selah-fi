@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Kun annat lähimmäisellesi lainaa, mitään velkaa, älä mene hänen taloonsa ottamaan hänen panttiaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kun"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "annat lainaa"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "lähimmäisellesi"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "lainaa"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "mitään"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "mene"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hänen taloonsa"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "ottamaan panttia"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "hänen panttiaan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:33:42.892904785Z",
+  "model": "glm-5.3"
+}

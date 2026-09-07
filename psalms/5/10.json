@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Sillä heidän suussaan ⟨ei⟩ ole luotettavaa; heidän sisimpänsä ⟨on⟩ turmiota; heidän kurkkunsa ⟨on⟩ avoin hauta; heidän kielensä liukastelee.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "heidän suussaan"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "luotettavaa"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "heidän sisimpänsä"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "turmiota"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "hauta"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "avoin"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "heidän kurkkunsa"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "heidän kielensä"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "liukastelee"
+    }
+  ],
+  "timestamp": "2026-09-07T01:50:40.029224791Z",
+  "model": "glm-5.3"
+}

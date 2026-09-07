@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 8:24",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "joka pidät palvelijallesi Davidille (Daavid), isälleni, ⟨את⟩ sen, minkä hänelle puhuit; sinä puhuit suullasi, ja sinun kätesi on täyttänyt sen niin kuin tänä päivänä.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "pidät"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "palvelijallesi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidille"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "isälleni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen, minkä hänelle puhuit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sen mitä"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "puhuit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "ja puhuit"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "suullasi"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "ja kädelläsi"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "täytit"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "niin kuin tänä"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "päivänä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:37:54.218623665Z",
+  "model": "glm-5.3"
+}

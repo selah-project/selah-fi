@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 6:25",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja kymmenen kyynärää ⟨oli⟩ toinen kerub, yksi mitta ja yksi muoto molemmille kerubeille.",
+  "tokens": [
+    {
+      "surface": "ועשר",
+      "gloss": "Ja kymmenen"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "kerub"
+    },
+    {
+      "surface": "השני",
+      "gloss": "toinen"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "mitta"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "וקצב",
+      "gloss": "ja muoto"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "molemmille"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerubeille"
+    }
+  ],
+  "timestamp": "2026-09-06T23:35:05.806137676Z",
+  "model": "glm-5.3"
+}

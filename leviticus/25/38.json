@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 25:38",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Minä ⟨olen⟩ Jahve, Elohiminne, joka vein ⟨את⟩ teidät maasta Mitsrajimista (Egypti), antaakseni teille ⟨את⟩ maan Kenaanin, ollakseni teille Elohimiksi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "vein"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimista"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "antaakseni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maan Kenaanin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaanin"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ollakseni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimiksi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:59:22.113480862Z",
+  "model": "glm-5.3"
+}

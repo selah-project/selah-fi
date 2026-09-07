@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja hän sanoi heille: Tunteatteko ⟨את⟩ Lavanin (Laban), Nahorin pojan? Ja he sanoivat: Me tunnemme ⟨hänet⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Tunteatteko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lavanin"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavanin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahorin"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ja he sanoivat"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "Me tunnemme"
+    }
+  ],
+  "timestamp": "2026-09-06T21:16:30.202102957Z",
+  "model": "glm-5.3"
+}

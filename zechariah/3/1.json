@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 3:1",
+  "book": "zechariah",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja hän näytti minulle ⟨את⟩ Jehoshuan (Joosua), ylipapin, seisomassa Jahven enkelin edessä, ja ha-satan seisoi hänen oikealla puolellaan syyttääkseen häntä.",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "ja hän näytti minulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoshuan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshuan (Joosua)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pappi"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ylipappi"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "seisomassa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "enkelin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "והשטן",
+      "gloss": "ja ha-satan"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "seisoi"
+    },
+    {
+      "surface": "על",
+      "gloss": "puolellaan"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "oikealla"
+    },
+    {
+      "surface": "לשטנו",
+      "gloss": "syyttääkseen häntä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:44:22.161023317Z",
+  "model": "glm-5.3"
+}

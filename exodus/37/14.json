@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Vastapäätä reunusta olivat ⟨את⟩ renkaat, asuinsijoja sauvoille, ⟨את⟩ pöytää kantamaan.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "vastapäätä"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "reunusta"
+    },
+    {
+      "surface": "היו",
+      "gloss": "olivat"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "renkaat"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "asuinsijoja"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "sauvoille"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "kantamaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pöytää"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "pöytää"
+    }
+  ],
+  "timestamp": "2026-09-06T21:45:49.533590479Z",
+  "model": "glm-5.3"
+}

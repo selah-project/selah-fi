@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Mutta vehnä ja spelttivehnä eivät saaneet lyötyä, sillä ne olivat myöhäisiä.”",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "Mutta vehnä"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "ja spelttivehnä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "saaneet lyötyä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "myöhäisiä"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ne"
+    }
+  ],
+  "timestamp": "2026-09-06T21:31:24.269803494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 15:7",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Viisaiden huulet sirottelevat tietoa, mutta tyhmien sydän ⟨ei⟩ ⟨tee⟩ niin.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "huulet"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "viisaiden"
+    },
+    {
+      "surface": "יזרו",
+      "gloss": "sirottelevat"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tietoa"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "mutta sydän"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "tyhmien"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    }
+  ],
+  "timestamp": "2026-09-07T03:08:58.543322546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 28:11",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "sillä pilkkaavilla huulilla ja toisella kielellä hän puhuu tälle kansalle.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "בלעגי",
+      "gloss": "pilkkaavilla"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "huulilla"
+    },
+    {
+      "surface": "ובלשון",
+      "gloss": "ja kielellä"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "toisella"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "hän puhuu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-lle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansalle"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tälle"
+    }
+  ],
+  "timestamp": "2026-09-07T00:07:58.594739426Z",
+  "model": "glm-5.3"
+}

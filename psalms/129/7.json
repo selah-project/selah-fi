@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 129,
+  "translation": "Josta ei leikkaaja täytä kättään eikä lyhteiden sitojan syliään.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "Josta ei"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "täytä"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "kättään"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "leikkaaja"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "eikä ... syliään"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "lyhteiden sitojan"
+    }
+  ],
+  "timestamp": "2026-09-07T02:50:20.543238574Z",
+  "model": "glm-5.3"
+}

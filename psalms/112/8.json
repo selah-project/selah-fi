@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 112,
+  "translation": "Vahvistettu ⟨on⟩ hänen sydämensä, hän ei pelkää, kunnes hän näkee vastustajansa.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "Vahvistettu"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hänen sydämensä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "pelkää"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יראה",
+      "gloss": "näkee"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "vastustajansa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:42:50.017442475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 25:11",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Yovel ⟨on⟩ se: viideskymmenes vuosi olkoon teille älkää kylväkö älkääkä leikatko ⟨את⟩ sen itsekasvaneita älkääkä poimiko ⟨את⟩ sen erilleen jätettyjä rypäleitä.",
+  "tokens": [
+    {
+      "surface": "יובל",
+      "gloss": "yovel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "vuosi"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "viidennenkymmenen"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuoden"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olkoon"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תזרעו",
+      "gloss": "kylväkö"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "älkäänkä"
+    },
+    {
+      "surface": "תקצרו",
+      "gloss": "leikatko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen itsekasvaneita"
+    },
+    {
+      "surface": "ספיחיה",
+      "gloss": "itsekasvaneita"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "älkäänkä"
+    },
+    {
+      "surface": "תבצרו",
+      "gloss": "poimiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen erilleen jätettyjä rypäleitä"
+    },
+    {
+      "surface": "נזריה",
+      "gloss": "erilleen jätettyjä rypäleitä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:59:59.022808802Z",
+  "model": "glm-5.3"
+}

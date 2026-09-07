@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja te varjelette ⟨את⟩ minun säädökseni ja ⟨את⟩ minun oikeuteni, ettekä tee yhtään yhtä kaikista näistä kauhistuksista — ei syntyperäinen eikä muukalainen, joka muukana teidän keskellänne.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ja te varjelette"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minun säädökseni"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "minun säädökseni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "minun oikeuteni"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "minun oikeuteni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ettekä"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "tehdä"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "yhtään yhtä kaikista"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "kauhistuksista"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "näistä"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "syntyperäinen"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "ja muukalainen"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "joka muukana"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "teidän keskellänne"
+    }
+  ],
+  "timestamp": "2026-09-06T21:54:54.707396892Z",
+  "model": "glm-5.3"
+}

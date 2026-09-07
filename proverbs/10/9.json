@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Joka kävelee eheydessä, kulkee turvassa, mutta joka tekee polkunsa kiemurteleviksi, hänet tullaan tuntemaan.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "kävelee"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "eheydessä"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "kulkee"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "turvassa"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "mutta joka tekee kiemurteleviksi"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "polkunsa"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "tullaan tuntemaan"
+    }
+  ],
+  "timestamp": "2026-09-07T03:04:30.632527690Z",
+  "model": "glm-5.3"
+}

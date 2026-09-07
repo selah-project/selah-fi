@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 25:5",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja Kasdimin (kaldealaisten) sotajoukko ajoi kuningasta takaa, ja he saavuttivat ⟨את⟩ hänet Jerikon (Jeriko) lakeuksilla, ja kaikki hänen sotajoukkonsa pirstoutui pois hänen luotaan.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "ja ajoivat takaa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sotajoukko"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdimin (kaldealaiset)"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "jälkeen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "ja saavuttivat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet",
+      "marks": "Jerikon lakeuksilla"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "lakeuksilla"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Jerikon (Jeriko)"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "hänen sotajoukkonsa"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "pirstoutui"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "pois hänen luotaan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:24:05.128216522Z",
+  "model": "glm-5.3"
+}

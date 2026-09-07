@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 42:4",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Ei hän heikkene eikä murskaannu, ennen kuin hän on asettanut oikeuden maahan; ja saaret odottavat hänen Toraansa (Toora).",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יכהה",
+      "gloss": "hän heikkene"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "hän murskaannu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ennen kuin"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "hän asettanut"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "oikeuden"
+    },
+    {
+      "surface": "ולתורתו",
+      "gloss": "ja hänen Toraansa"
+    },
+    {
+      "surface": "איים",
+      "gloss": "saaret"
+    },
+    {
+      "surface": "ייחילו",
+      "gloss": "odottavat"
+    }
+  ],
+  "timestamp": "2026-09-07T00:15:37.523367444Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 106,
+  "translation": "Mutta hän pelasti heidät nimensä tähden, tehdäkseen tunnetuksi ⟨את⟩ voimansa.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "Mutta hän pelasti heidät"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nimensä"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "tehdäkseen tunnetuksi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "voimansa"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "voimansa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:39:00.361291592Z",
+  "model": "glm-5.3"
+}

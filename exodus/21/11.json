@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 21:11",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja jos näitä kolmea hän ei tee hänelle, lähteköön hän vapaasti, ilman rahaa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ja jos"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "kolmea"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "näitä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hän tee"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "lähteköön hän"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "vapaasti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ilman"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "rahaa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:37:08.787190568Z",
+  "model": "glm-5.3"
+}

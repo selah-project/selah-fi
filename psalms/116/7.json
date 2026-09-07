@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 116,
+  "translation": "Palaa lepäsijallesi, nefeshini, sillä Jahve on tehnyt sinulle hyvää.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "Palaa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshini"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "lepäsijallesi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "on tehnyt hyvää"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "sinulle"
+    }
+  ],
+  "timestamp": "2026-09-07T02:44:38.770515404Z",
+  "model": "glm-5.3"
+}

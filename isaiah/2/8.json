@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 2:8",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja heidän maansa tuli täyteen epäjumalia; oman kätensä teoksille he kumartuvat, sille, minkä heidän sormensa ovat tehneet.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "ja tuli täyteen"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "heidän maansa"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "epäjumalia"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "teoksille"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "kätensä"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "he kumartuvat"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "sille, minkä"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ovat tehneet"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "heidän sormensa"
+    }
+  ],
+  "timestamp": "2026-09-07T00:00:21.880091962Z",
+  "model": "glm-5.3"
+}

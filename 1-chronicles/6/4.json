@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 6:4",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Merarin pojat ⟨olivat⟩ Mahli ja Mushi. Ja nämä ⟨ovat⟩ leviiläisten sukukunnat isiensä mukaan.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merarin"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Mahli"
+    },
+    {
+      "surface": "ומשי",
+      "gloss": "ja Mushi"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "Ja nämä"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "sukukunnat"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "leviiläisten"
+    },
+    {
+      "surface": "לאבותיהם",
+      "gloss": "isiensä mukaan"
+    }
+  ],
+  "timestamp": "2026-09-07T05:13:24.887915432Z",
+  "model": "glm-5.3"
+}

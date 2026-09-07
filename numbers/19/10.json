@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 19:10",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja joka kokoaa ⟨את⟩ lehmän tuhkan, pesköön ⟨את⟩ vaatteensa ja olkoon saastainen iltaan asti; ja tämä olkoon Israelin lapsille ja heidän keskellään asuvalle muukalaiselle ikuinen säädös.",
+  "tokens": [
+    {
+      "surface": "וכבס",
+      "gloss": "Ja pesköön"
+    },
+    {
+      "surface": "האסף",
+      "gloss": "joka kokoaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lehmän tuhkan"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "tuhkan"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "lehmän"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaatteensa"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "vaatteensa"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ja olkoon saastainen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "iltaan"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ja olkoon"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "lapsille"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "ja muukalaiselle"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "joka asuu"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "heidän keskellään"
+    },
+    {
+      "surface": "לחקת",
+      "gloss": "säädökseksi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ikuiseksi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:13:48.658863996Z",
+  "model": "glm-5.3"
+}

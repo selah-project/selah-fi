@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 4:4",
+  "book": "esther",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja Esterin tytöt ja hänen henkivartijansa tulivat ja kertoivat sen hänelle, ja kuningatar järkyttyi kovin, ja hän lähetti vaatteita pukemaan ⟨את⟩ Mordekain ja ottamaan pois hänen säkkinsä hänen päältään, mutta hän ei ottanut vastaan.",
+  "tokens": [
+    {
+      "surface": "ותבואינה",
+      "gloss": "ja tulivat"
+    },
+    {
+      "surface": "נערות",
+      "gloss": "tytöt"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esterin"
+    },
+    {
+      "surface": "וסריסיה",
+      "gloss": "ja hänen henkivartijansa"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ja kertoivat"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "ותתחלחל",
+      "gloss": "ja järkyttyi"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "kuningatar"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kovin"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "ja hän lähetti"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "vaatteita"
+    },
+    {
+      "surface": "להלביש",
+      "gloss": "pukemaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordekain"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekain"
+    },
+    {
+      "surface": "ולהסיר",
+      "gloss": "ja ottamaan pois"
+    },
+    {
+      "surface": "שקו",
+      "gloss": "hänen säkkinsä"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "hänen päältään"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mutta ei"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "ottanut vastaan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:41:45.087011444Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 40:8",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ja he sanoivat hänelle: Unen me uneksimme, eikä ⟨את⟩ sen selitystä ole. Ja Josef sanoi heille: Eivätkö tulkinnat ⟨ole⟩ Elohimilla? Kertokaa minulle, pyydän.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ja he sanoivat"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "unen"
+    },
+    {
+      "surface": "חלמנו",
+      "gloss": "me uneksimme"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "selitystä"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sen",
+      "marks": "selitystä"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Eivätkö"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimilla"
+    },
+    {
+      "surface": "פתרנים",
+      "gloss": "tulkinnat"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "Kertokaa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "pyydän"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    }
+  ],
+  "timestamp": "2026-09-06T21:22:14.166326168Z",
+  "model": "glm-5.3"
+}

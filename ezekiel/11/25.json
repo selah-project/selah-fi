@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja minä puhuin pakkosiirtolaisille ⟨את⟩ kaikki Jahven sanat, jotka hän näytti minulle.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "ja minä puhuin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-lle"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "pakkosiirtolaisille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "näytti minulle"
+    }
+  ],
+  "timestamp": "2026-09-07T00:54:39.306412677Z",
+  "model": "glm-5.3"
+}

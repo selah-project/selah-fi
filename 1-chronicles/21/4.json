@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 21:4",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Mutta kuninkaan sana oli väkevä Joabia vastaan, ja Joab lähti ja kiersi koko Israelin halki ja tuli Jerushalajimiin (Jerusalem).",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "mutta … sana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "oli väkevä"
+    },
+    {
+      "surface": "על",
+      "gloss": "vastaan"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabia"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ja lähti"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ויתהלך",
+      "gloss": "ja kiersi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimiin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:23:52.935982732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 136:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 136,
+  "translation": "Hänelle, joka löi Mitsrajimin (Egyptin) esikoisia, sillä iankaikkisesti ⟨on⟩ hänen hesedinsä.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "Hänelle, joka löi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "בבכוריהם",
+      "gloss": "esikoisia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "⟨on⟩ hänen hesedinsä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:52:04.635097038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja Urija makasi kuninkaan talon sisäänkäynnillä ⟨את⟩ kaikkien herransa palvelijoiden kanssa, eikä hän mennyt alas kotiinsa.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ja makasi"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sisäänkäynnillä"
+    },
+    {
+      "surface": "בית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikkien herransa palvelijoiden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkien"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "palvelijoiden"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "herransa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "mennyt alas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kotiinsa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:24:34.207788040Z",
+  "model": "glm-5.3"
+}

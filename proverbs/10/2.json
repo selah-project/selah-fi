@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Vääryyden aarteet eivät hyödytä, mutta tsedaka (vanhurskaus) pelastaa kuolemasta.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "hyödytä"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "aarteet"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "vääryyden"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "mutta tsedaka"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "pelastaa"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "kuolemasta"
+    }
+  ],
+  "timestamp": "2026-09-07T03:05:16.183051306Z",
+  "model": "glm-5.3"
+}

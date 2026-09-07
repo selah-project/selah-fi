@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Aika etsiä ja aika menettää; aika pitää tallessa ja aika heittää pois.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Aika"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "etsiä"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ja aika"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "menettää"
+    },
+    {
+      "surface": "עת",
+      "gloss": "aika"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "pitää tallessa"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ja aika"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "heittää pois"
+    }
+  ],
+  "timestamp": "2026-09-07T04:05:02.444382942Z",
+  "model": "glm-5.3"
+}

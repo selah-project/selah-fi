@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Vannoitin ⟨את⟩ teidät, Jerushalajimin tyttäret, gasellien tai peltokauriiden kautta: älkää herättäkö älkääkä herätelkö ⟨את⟩ rakkautta, ennen kuin se tahtoo.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Vannoitin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät",
+      "marks": "Jerushalajimin tyttäret"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "tyttäret"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimin"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "gasellien"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "peltokauriiden"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "peltokauriiden"
+    },
+    {
+      "surface": "אם",
+      "gloss": "älköön"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "herättäkö"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "älköönkä"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "herätelkö"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rakkautta"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "rakkautta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ennen kuin"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "se tahtoo"
+    }
+  ],
+  "timestamp": "2026-09-07T03:55:29.239327308Z",
+  "model": "glm-5.3"
+}

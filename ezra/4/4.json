@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja tapahtui, että maan kansu raatoi Jehudan kansan käsiä ja pelotti ⟨את⟩ heitä pois rakentamasta.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja tapahtui"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "raatoi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "käsiä"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "ja pelotti"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ heitä",
+      "marks": "heitä (pois rakentamasta pelotetut)"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "pois rakentamasta"
+    }
+  ],
+  "timestamp": "2026-09-07T04:57:42.093854575Z",
+  "model": "glm-5.3"
+}

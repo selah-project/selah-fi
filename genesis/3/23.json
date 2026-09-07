@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja Jahve Elohim lähetti hänet Edenin (Eeden) puutarhasta työstämään ⟨את⟩ maata, josta hän oli otettu.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "Ja lähetti hänet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "puutarhasta"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edenin"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "työstämään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maata"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "maata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "josta"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "hän oli otettu"
+    },
+    {
+      "surface": "משם",
+      "gloss": "sieltä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:05:11.308333799Z",
+  "model": "glm-5.3"
+}

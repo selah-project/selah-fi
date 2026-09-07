@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 66:16",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 66,
+  "translation": "Sillä tulessa Jahve pitää tuomion, ja miekallaan ⟨את⟩ kaiken lihan, ja monta ⟨on⟩ Jahven kaatamia.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulessa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "pitää tuomion"
+    },
+    {
+      "surface": "ובחרבו",
+      "gloss": "ja miekallaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken lihan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "lihan"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ja monta"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "kaatamia\/surmatuita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-07T00:23:42.907727788Z",
+  "model": "glm-5.3"
+}

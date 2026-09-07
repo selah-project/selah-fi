@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 23:20",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja nousi ⟨on⟩ kenttä ja luola, joka siinä on, Avrahamille (Aabraham) omistukseksi ⟨את⟩ hautapaikaksi, lähteeksi ⟨את⟩ Hetin poikilta.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "nousi"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "kenttä"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "ja luola"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siinä"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahamille"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "omistukseksi"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "hautapaikka"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "lähteeksi ⟨את⟩",
+      "marks": "Hetin pojista"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Hetin"
+    }
+  ],
+  "timestamp": "2026-09-07T06:33:36.991837282Z",
+  "model": "glm-5.3"
+}

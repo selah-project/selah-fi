@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 20:18",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja mies, joka makaa naisen ⟨את⟩ kanssa, joka on sairas (kuukautisissa), ja paljastaa ⟨את⟩ hänen häpeänsä: ⟨את⟩ hänen lähteensä hän on paljastanut, ja hän on paljastanut ⟨את⟩ verensä lähteen; molemmat hävitetään kansansa keskeltä.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ja mies"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "makaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ kanssa",
+      "marks": "naisen"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "naisen"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "sairas (kuukautisissa)"
+    },
+    {
+      "surface": "וגלה",
+      "gloss": "ja paljastaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen häpeänsä"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "hänen häpeänsä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen lähteensä"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "hänen lähteensä"
+    },
+    {
+      "surface": "הערה",
+      "gloss": "on paljastanut"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ja hän"
+    },
+    {
+      "surface": "גלתה",
+      "gloss": "on paljastanut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "verensä lähteen"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "lähteen"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "verensä"
+    },
+    {
+      "surface": "ונכרתו",
+      "gloss": "ja molemmat hävitetään"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "molemmat"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "keskeltä"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "kansansa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:58:02.383652401Z",
+  "model": "glm-5.3"
+}

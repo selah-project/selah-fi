@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 7:18",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Pojat kokoavat puita ja isät sytyttävät ⟨את⟩ tulen, ja naiset vaivaivat taikinaa tehdäkseen uhrikakkuja taivaan kuningattarelle ja kaataakseen juomauhreja muille jumalille, saattaakseen minut suuttumukseen.",
+  "tokens": [
+    {
+      "surface": "הבנים",
+      "gloss": "Pojat"
+    },
+    {
+      "surface": "מלקטים",
+      "gloss": "kokoavat"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "puita"
+    },
+    {
+      "surface": "והאבות",
+      "gloss": "ja isät"
+    },
+    {
+      "surface": "מבערים",
+      "gloss": "sytyttävät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tulen"
+    },
+    {
+      "surface": "האש",
+      "gloss": "tulen"
+    },
+    {
+      "surface": "והנשים",
+      "gloss": "ja naiset"
+    },
+    {
+      "surface": "לשות",
+      "gloss": "vaivaivat"
+    },
+    {
+      "surface": "בצק",
+      "gloss": "taikinaa"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "tehdäkseen"
+    },
+    {
+      "surface": "כונים",
+      "gloss": "uhrikakkuja"
+    },
+    {
+      "surface": "למלכת",
+      "gloss": "kuningattarelle"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "והסך",
+      "gloss": "ja kaataakseen"
+    },
+    {
+      "surface": "נסכים",
+      "gloss": "juomauhreja"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "jumalille"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "muille"
+    },
+    {
+      "surface": "למען",
+      "gloss": "saattaakseen"
+    },
+    {
+      "surface": "הכעסני",
+      "gloss": "minut suuttumukseen"
+    }
+  ],
+  "timestamp": "2026-09-07T00:27:32.391352722Z",
+  "model": "glm-5.3"
+}

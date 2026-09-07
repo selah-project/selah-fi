@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 23:12",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja Ataljahu kuuli ⟨את⟩ äänen kansan, juoksijoiden ja ylistäjien, ⟨את⟩ kuningasta, ja hän tuli kansan luo Jahven taloon.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "ja kuuli"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Ataljahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "äänen"
+    },
+    {
+      "surface": "קול",
+      "gloss": "äänen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "juoksijoiden"
+    },
+    {
+      "surface": "והמהללים",
+      "gloss": "ja ylistäjien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuningasta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningasta"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "ja hän tuli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "taloon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-07T05:43:05.197592802Z",
+  "model": "glm-5.3"
+}

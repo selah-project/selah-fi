@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 9:22",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja kun Jehoram näki ⟨את⟩ Jehun, hän sanoi: ”Onko rauha, Jehu?” Ja hän sanoi: ”Mikä rauha, niin kauan kuin äitisi Isebelin haureudet ja hänen noitumisensa ovat niin moninaiset!”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja tapahtui"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "kun näki"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehoram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehun"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "onko rauha"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mikä"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "rauha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "niin kauan kuin"
+    },
+    {
+      "surface": "זנוני",
+      "gloss": "haureudet"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Isebelin"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "äitisi"
+    },
+    {
+      "surface": "וכשפיה",
+      "gloss": "ja hänen noitumisensa"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "moninaiset"
+    }
+  ],
+  "timestamp": "2026-09-06T23:50:47.961635344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 19:8",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja Ravshake (ylipäällikkö) palasi ja löysi Assurin kuninkaan ⟨את⟩ taistelemasta Livnaa vastaan, sillä hän oli kuullut, että tämä oli lähtenyt Lakhishista.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "palasi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav-"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "-shake"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "löysi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Assurin kuninkaan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assurin"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "taistelemasta"
+    },
+    {
+      "surface": "על",
+      "gloss": "vastaan"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livnaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hän oli kuullut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "oli lähtenyt"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "Lakhishista"
+    }
+  ],
+  "timestamp": "2026-09-06T23:55:56.515340897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 40:11",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ja hän mittasi ⟨את⟩ portin aukeaman leveyden, kymmenen kyynärää; portin pituus kolmetoista kyynärää.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "ja hän mittasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leveyden"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "leveys"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "aukeaman"
+    },
+    {
+      "surface": "השער",
+      "gloss": "portin"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kymmenen"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "pituus"
+    },
+    {
+      "surface": "השער",
+      "gloss": "portin"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "toista"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kyynärää"
+    }
+  ],
+  "timestamp": "2026-09-07T01:14:28.081805391Z",
+  "model": "glm-5.3"
+}

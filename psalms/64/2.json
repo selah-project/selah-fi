@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 64,
+  "translation": "Kuule, Elohim, ääneni valituksessani; vihollisen pelosta varjele elämäni.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Kuule"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ääneni"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "valituksessani"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "pelosta"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "vihollisen"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "varjele"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "elämäni"
+    }
+  ],
+  "timestamp": "2026-09-07T02:17:23.544142075Z",
+  "model": "glm-5.3"
+}

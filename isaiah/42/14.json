@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 42:14",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Olen vaiennut iänkaikkisesta, olen hiljaa, olen pidättänyt itseni; kuin synnyttävä vaimo minä huudan, minä puuskun ja huokaan yhtä aikaa.",
+  "tokens": [
+    {
+      "surface": "החשיתי",
+      "gloss": "olen vaiennut"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "iänkaikkisesta"
+    },
+    {
+      "surface": "אחריש",
+      "gloss": "olen hiljaa"
+    },
+    {
+      "surface": "אתאפק",
+      "gloss": "olen pidättänyt itseni"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "kuin synnyttävä vaimo"
+    },
+    {
+      "surface": "אפעה",
+      "gloss": "huudan"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "puuskun"
+    },
+    {
+      "surface": "ואשאף",
+      "gloss": "ja huokaan"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "yhtä aikaa"
+    }
+  ],
+  "timestamp": "2026-09-07T00:15:10.477054792Z",
+  "model": "glm-5.3"
+}

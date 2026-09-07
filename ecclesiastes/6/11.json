@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Sillä on paljon sanoja, jotka lisäävät hebeliä — mitä jääjälle ihmiselle?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "יש",
+      "gloss": "on"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "sanoja"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "paljon"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "jotka lisäävät"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebeliä"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "jääjälle"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ihmiselle"
+    }
+  ],
+  "timestamp": "2026-09-07T04:39:44.446869274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 81,
+  "translation": "Minä ⟨olen⟩ Jahve, Elohimisi, joka nosti sinut ylös Mitsrajimin (Egypti) maasta; avaa suusi auki, ja minä täytän sen.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimisi"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "joka nosti sinut ylös"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin (Egypti)"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "avaa auki"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "suusi"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "ja minä täytän sen"
+    }
+  ],
+  "timestamp": "2026-09-07T02:24:44.326080806Z",
+  "model": "glm-5.3"
+}

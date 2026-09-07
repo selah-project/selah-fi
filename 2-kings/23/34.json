@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-kings 23:34",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja Paro Nekoh teki kuninkaaksi ⟨את⟩ Elyakimin, Yoshiahun (Joosia) pojan, hänen isänsä Yoshiahun tilalle, ja hän muutti ⟨את⟩ hänen nimensä Yehoyakimiksi; ja ⟨את⟩ Yehoahazin hän otti, ja hän saapui Mitsrajimiin (Egypti) ja kuoli siellä.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "ja teki kuninkaaksi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "נכה",
+      "gloss": "Nekoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyakimin"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyakimin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiahun"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tilalle"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiahun"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hänen isänsä"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "ja hän muutti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen nimensä"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hänen nimensä"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakimiksi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Yehoahazin"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahazin"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "hän otti"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ja saapui"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimiin"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ja kuoli"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:00:16.593546109Z",
+  "model": "glm-5.3"
+}

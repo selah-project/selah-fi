@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja pelistiläinen sanoi: Minä häpäisen ⟨את⟩ Israelin taistelurivit tänä päivänä; antakaa minulle mies, ja taistellaan yhdessä.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "pelistiläinen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "härpäisen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin taistelurivit"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "taistelurivit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tänä"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "antakaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "ja taistellaan"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "yhdessä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:10:16.265689516Z",
+  "model": "glm-5.3"
+}

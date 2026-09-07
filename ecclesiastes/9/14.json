@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Pieni kaupunki ja vähän miehiä siinä, ja tuli sitä vastaan suuri kuningas, ja hän piiritti ⟨את⟩ sen, ja rakensi sitä vastaan suuria piiritysvarustuksia.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "kaupunki"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "pieni"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "ja miehiä"
+    },
+    {
+      "surface": "בה",
+      "gloss": "siinä"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "vähän"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "sitä vastaan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suuri"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "ja piiritti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sen (kaupungin)"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "ja rakensi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sitä vastaan"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "piiritysvarustuksia"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "suuria"
+    }
+  ],
+  "timestamp": "2026-09-07T04:38:18.094676675Z",
+  "model": "glm-5.3"
+}

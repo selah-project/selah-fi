@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 35:27",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 35,
+  "translation": "ja verenkostaja löytää ⟨את⟩ hänet pakopaikkansa kaupungin rajan ulkopuolelta ja surmaa verenkostaja ⟨את⟩ surmaajan — ei hänelle ole verisyyllisyyttä —",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "ja löytää"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "verenkostaja"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "veren"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ulkopuolelta"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "rajan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "pakopaikkansa"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "ja surmaa"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "verenkostaja"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "veren"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "surmaajan"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "surmaajan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "דם",
+      "gloss": "verisyyllisyyttä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:21:52.877180068Z",
+  "model": "glm-5.3"
+}

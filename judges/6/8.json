@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 6:8",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "että Jahve lähetti miehen, navi ⟨profeetan⟩, Israelin lapsille, ja hän sanoi heille: Näin sanoo Jahve, Israelin Elohim: Minä olen nostanut teidät ⟨את⟩ ylös Mitsrajimista ⟨Egyptistä⟩ ja tuonut teidät ⟨את⟩ ulos orjuuden huoneesta.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "että lähetti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "navi ⟨profeetan⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "בני",
+      "gloss": "lapsille"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Näin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Israelin Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": ""
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Minä"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "olen nostanut ylös"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "teidät ⟨את⟩",
+      "marks": "teidät (Mitsrajimista nostaminen)"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrajimista ⟨Egyptistä⟩"
+    },
+    {
+      "surface": "ואציא",
+      "gloss": "ja tuonut ulos"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "teidät ⟨את⟩",
+      "marks": "teidät (orjuuden huoneesta tuominen)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "huoneesta"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "orjuuden"
+    }
+  ],
+  "timestamp": "2026-09-06T22:54:49.316489092Z",
+  "model": "glm-5.3"
+}

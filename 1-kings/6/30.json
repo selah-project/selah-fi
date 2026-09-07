@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja ⟨את⟩ talon lattian hän päällysti kullalla, sisäpuolelta ja ulkopuolelle.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "talon lattian"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "lattian"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "talont"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "hän päällysti"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kullalla"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "sisäpuolelta"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "ja ulkopuolelle"
+    }
+  ],
+  "timestamp": "2026-09-06T23:35:12.917597329Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "Jahvessa ylpeilee Nefeshini; kuulkoot nöyrät ja iloitkoot.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvessa"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "ylpeilee"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshini"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "kuulkoot"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "nöyrät"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ja iloitkoot"
+    }
+  ],
+  "timestamp": "2026-09-07T04:31:49.436057576Z",
+  "model": "glm-5.3"
+}

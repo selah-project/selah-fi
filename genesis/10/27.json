@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "ja ⟨את⟩ Hadoramin ja ⟨את⟩ Uzalin ja ⟨את⟩ Diklan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Hadoramin"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Hadoramin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Uzalin"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "Uzalin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Diklan"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "Diklan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:51.552063906Z",
+  "model": "glm-5.3"
+}

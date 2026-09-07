@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja vedet palasivat maan päältä, mennen ja palaten, ja vedet vähenivät sadanviidenkymmenen päivän kuluttua.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "palasivat"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vedet"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "päältä"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "mennen"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "ja palaten"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "vähenivät"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vedet"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "kuluttua"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "viidenkymmenen"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ja sadan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivän"
+    }
+  ],
+  "timestamp": "2026-09-06T21:06:45.831829635Z",
+  "model": "glm-5.3"
+}

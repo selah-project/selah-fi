@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Ja Ja'akov (Jaakob) asui maassa, jossa hänen isänsä oli muukalainen, Kenaanin maassa.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Ja asui"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akov"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "muukalaisuudessa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hänen isänsä"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaanin"
+    }
+  ],
+  "timestamp": "2026-09-07T04:11:34.046415655Z",
+  "model": "glm-5.3"
+}

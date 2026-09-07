@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 62,
+  "translation": "Sillä sen kokoajat syövät sen ja ylistävät ⟨את⟩ Jahvea, ja sen kyyditsijät juovat sen pyhissä esikartoissani.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "sen kokoajat"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "syövät sen"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "ja ylistävät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "ja sen kokoajat"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "juovat sen"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "esikartoissa"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "pyhissäni"
+    }
+  ],
+  "timestamp": "2026-09-07T00:20:07.121811585Z",
+  "model": "glm-5.3"
+}

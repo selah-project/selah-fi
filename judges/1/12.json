@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 1:12",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja Kalev sanoi: se, joka lööö ⟨את⟩ Kirjat-Seferin ja valtaa sen, hänelle minä annan ⟨את⟩ Akhsan (Aksa), tyttäreni, vaimoksi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se, joka"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "lööö"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kirjat-Seferin"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Seferin"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "ja valtaa sen"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "annan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akhsan"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Akhsan"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "tyttäreni"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "vaimoksi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:49:50.755682673Z",
+  "model": "glm-5.3"
+}

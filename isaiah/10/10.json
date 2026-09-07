@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Niinkuin käteni on saavuttanut jumalten kuningaskunnat — ja niiden veistokuvat ⟨olivat paremmat kuin⟩ Jerushalajimin ja Shomeronin —",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "niinkuin"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "on saavuttanut"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "käteni"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "kuningaskunnat"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "jumalten"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "ja niiden veistokuvat"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Jerushalajimin"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "ja Shomeronin"
+    }
+  ],
+  "timestamp": "2026-09-07T00:03:37.512608702Z",
+  "model": "glm-5.3"
+}

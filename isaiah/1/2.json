@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Kuulkaa, taivaat, ja kuuntele, maa, sillä Jahve on puhunut: poikia minä olen kasvattanut ja korottanut, mutta he kapinoivat minua vastaan.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Kuulkaa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "taivaat"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "ja kuuntele"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "on puhunut"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "poikia"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "olen kasvattanut"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "ja korottanut"
+    },
+    {
+      "surface": "והם",
+      "gloss": "mutta he"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "kapinoivat"
+    },
+    {
+      "surface": "בי",
+      "gloss": "minua vastaan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:01:07.038187776Z",
+  "model": "glm-5.3"
+}

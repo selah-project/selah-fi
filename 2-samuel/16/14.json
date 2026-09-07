@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja kuningas ja kaikki kansa, joka ⟨oli⟩ ⟨את⟩ hänen seurassaan, saapuivat väsyneinä, ja he virkistyivät siellä.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ja saapui"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänen seurassaan",
+      "marks": "hänen seurassaan"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "väsyneinä"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "ja he virkistyivät"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:26:48.156773600Z",
+  "model": "glm-5.3"
+}

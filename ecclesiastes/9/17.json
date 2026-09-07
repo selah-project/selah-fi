@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Viisaisten sanat kuullaan hiljaisuudessa, enemmän kuin hallitsijan huuto tyhmien keskellä.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "viisaisten"
+    },
+    {
+      "surface": "בנחת",
+      "gloss": "hiljaisuudessa"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "kuullaan"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "enemmän kuin huuto"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "hallitsijan"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "tyhmien keskellä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:37:28.170056337Z",
+  "model": "glm-5.3"
+}

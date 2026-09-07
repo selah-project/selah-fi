@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Sillä miekkojen edestä he pakenivat, paljastetun miekan edestä, jännitetyn jousen edestä ja raskaan sodan edestä.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "edestä"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "miekkojen"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "he pakenivat"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "edestä"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "miekan"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "paljastetun"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ja edestä"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "jousen"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "jännitetyn"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ja edestä"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "raskaan"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "sodan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:05:39.995057165Z",
+  "model": "glm-5.3"
+}

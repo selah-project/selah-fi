@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Jos vaatetta lähimmäisesi otat pantiksi, auringon laskuun asti palauta ⟨se⟩ hänelle.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jos"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "pantiksi"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "otat pantiksi"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "vaatetta"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "läheisesi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "בא",
+      "gloss": "laskiessa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "auringon"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "palautat sen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    }
+  ],
+  "timestamp": "2026-09-07T04:09:54.629999207Z",
+  "model": "glm-5.3"
+}

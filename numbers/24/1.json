@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 24:1",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja Bilam (Bileam) näki, että Jahven silmissä ⟨oli⟩ hyvää siunata ⟨את⟩ Israelia, eikä hän lähtenyt enää kerta kerralta kohtaamaan ennusmerkkejä, vaan hän suuntasi kasvonsa kohti erämaata.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ja näki"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvää"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "silmissä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "siunata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelia"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "lähtenyt"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "kerta"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "kerralta"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "kohtaamaan"
+    },
+    {
+      "surface": "נחשים",
+      "gloss": "ennusmerkkejä"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "vaan hän suuntasi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "erämaata"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "kasvonsa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:16:27.583637731Z",
+  "model": "glm-5.3"
+}

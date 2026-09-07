@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 13:14",
+  "book": "nehemiah",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Muista minut, Elohimini, tämän tähden, äläkä pyyhi pois minun hesediäni ⟨laupeuttani⟩, jonka olen tehnyt Elohimini huoneessa ja sen vartioinnissa.",
+  "tokens": [
+    {
+      "surface": "זכרה",
+      "gloss": "muista"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minut"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimini"
+    },
+    {
+      "surface": "על",
+      "gloss": "tämän tähden"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "äläkö"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "pyyhi pois"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "minun hesediäni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "olen tehnyt"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "huoneessa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimini"
+    },
+    {
+      "surface": "ובמשמריו",
+      "gloss": "ja sen vartioinnissa"
+    }
+  ],
+  "timestamp": "2026-09-07T05:10:18.184306685Z",
+  "model": "glm-5.3"
+}

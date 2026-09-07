@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Nefeshemme ⟨sielumme⟩ on odottanut Jahvea: hän ⟨on⟩ meidän apumme ja meidän kilpemme.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Nefeshemme"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "on odottanut"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "meidän apumme"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "ja meidän kilpemme"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän ⟨on⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T02:03:57.787216983Z",
+  "model": "glm-5.3"
+}

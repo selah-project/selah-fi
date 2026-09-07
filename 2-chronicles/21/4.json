@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 21:4",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja Jehoram nousi isänsä valtakunnan päälle ja vahvisti itsensä ja tappoi ⟨את⟩ kaikki veljensä miekalla — ja myös ⟨joitakin⟩ Israelin päämiehistä.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ja nousi"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehoram"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "valtakunnan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isänsä"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "ja vahvisti itsensä"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "ja tappoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki veljensä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "veljensä"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "miekalla"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja myös"
+    },
+    {
+      "surface": "משרי",
+      "gloss": "päämiehistä"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:43:19.436115308Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 12:23",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Hän suurentaa kansoja ja hävittää ne; hän levittää kansoja laajalle ja hiljentää ne.",
+  "tokens": [
+    {
+      "surface": "משגיא",
+      "gloss": "Hän suurentaa"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "kansoja"
+    },
+    {
+      "surface": "ויאבדם",
+      "gloss": "ja hävittää ne"
+    },
+    {
+      "surface": "שטח",
+      "gloss": "levittää laajalle"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "kansoja"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "ja hiljentää ne"
+    }
+  ],
+  "timestamp": "2026-09-07T03:30:17.306772964Z",
+  "model": "glm-5.3"
+}

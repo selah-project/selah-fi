@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja jos ette kuule minua ettekä tee ⟨את⟩ kaikkia näitä käskyjä,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ja jos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "et"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "kuule"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minua"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ettekä"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "tee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikkia näitä käskyjä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkia"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "käskyjä"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "näitä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:14:44.273055406Z",
+  "model": "glm-5.3"
+}

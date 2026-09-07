@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Nämä ⟨ovat⟩ Shemin (Seemin) sukupolvet: Shem ⟨oli⟩ sata vuotta vanha ja sai ⟨את⟩ Arpakhshadin (Arpaksad) kaksi vuotta vedenpaisumuksen jälkeen.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Nämä"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "sukupolvet"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shemin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "vuotta vanha"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "sata"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ja sai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakhshadin"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakhshadin"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "kaksi vuotta"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "jälkeen"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "vedenpaisumuksen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:25.213694658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 5:3",
+  "book": "song-of-songs",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Olen riisunut ⟨את⟩ paitani — miten pukisin sen jälleen päälleni? Olen pesnyt ⟨את⟩ jalkani — miten tahraisin ne?",
+  "tokens": [
+    {
+      "surface": "פשטתי",
+      "gloss": "Olen riisunut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paitani"
+    },
+    {
+      "surface": "כתנתי",
+      "gloss": "paitani"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "miten"
+    },
+    {
+      "surface": "אלבשנה",
+      "gloss": "pukisin sen jälleen päälleni"
+    },
+    {
+      "surface": "רחצתי",
+      "gloss": "Olen pesnyt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalkani"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "jalkani"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "miten"
+    },
+    {
+      "surface": "אטנפם",
+      "gloss": "tahraisin ne"
+    }
+  ],
+  "timestamp": "2026-09-07T03:55:29.549189099Z",
+  "model": "glm-5.3"
+}

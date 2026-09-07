@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ruth 3:4",
+  "book": "ruth",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja käy näin: kun hän maatuu, huomaa ⟨את⟩ paikan, jossa hän makaa, ja mene ja paljasta hänen jalkapäänsä ja makaat siinä — ja hän kertoo sinulle ⟨את⟩ sen, mitä sinun on tehtävä.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja käy näin"
+    },
+    {
+      "surface": "בשכבו",
+      "gloss": "kun hän maatuu"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "huomaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paikan"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "paikan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jossa"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "hän makaa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sinne"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "ja mene"
+    },
+    {
+      "surface": "וגלית",
+      "gloss": "ja paljasta"
+    },
+    {
+      "surface": "מרגלתיו",
+      "gloss": "hänen jalkapäänsä"
+    },
+    {
+      "surface": "ושכבתי",
+      "gloss": "ja makaat"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ja hän"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "kertoo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen, mitä sinun on tehtävä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "תעשין",
+      "gloss": "sinun on tehtävä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:58:59.725119253Z",
+  "model": "glm-5.3"
+}

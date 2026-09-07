@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 19:8",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja jos Jahve, sinun Elohimisi, laajentaa ⟨את⟩ rajasi, niin kuin hän vannoi isillesi, ja antaa sinulle ⟨את⟩ koko maan, jonka hän puhui antavansa isillesi —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ja jos"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "laajentaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rajasi"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "rajasi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "vannoi"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "isillesi"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ja antaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko maan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "puhui"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "antaa"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "isillesi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:32:40.986698613Z",
+  "model": "glm-5.3"
+}

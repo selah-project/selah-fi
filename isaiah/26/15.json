@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 26:15",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Sinä lisäsit kansaa, Jahve, sinä lisäsit kansaa, sinä olet kunnioitettu, sinä laajensit kaiken maan ääret.",
+  "tokens": [
+    {
+      "surface": "יספת",
+      "gloss": "sinä lisäsit"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "kansaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יספת",
+      "gloss": "sinä lisäsit"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "kansaa"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "olet kunnioitettu"
+    },
+    {
+      "surface": "רחקת",
+      "gloss": "sinä laajensit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "ääret"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:07:37.812554294Z",
+  "model": "glm-5.3"
+}

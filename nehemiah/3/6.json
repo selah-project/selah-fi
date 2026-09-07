@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 3:6",
+  "book": "nehemiah",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja ⟨את⟩ vanhan portin vahvistivat Jojada, Paseahin poika, ja Meshullam, Besodjan poika; he panivat sen parrut ja pystyttivät sen ovet, sen lukot ja sen poikkipuut.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "vanhan portin"
+    },
+    {
+      "surface": "שער",
+      "gloss": "portin"
+    },
+    {
+      "surface": "הישנה",
+      "gloss": "vanhan"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "vahvistivat"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Jojada"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseahin"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "ja Meshullam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "בסודיה",
+      "gloss": "Besodjan"
+    },
+    {
+      "surface": "המה",
+      "gloss": "he"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "panivat sen parrut"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "ja pystyttivät"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "sen ovet"
+    },
+    {
+      "surface": "ומנעליו",
+      "gloss": "sen lukot"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "ja sen poikkipuut"
+    }
+  ],
+  "timestamp": "2026-09-07T05:03:08.812480368Z",
+  "model": "glm-5.3"
+}

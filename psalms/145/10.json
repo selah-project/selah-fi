@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 145,
+  "translation": "Kiittävät sinua, Jahve, kaikki sinun tekosi, ja hurskaasi siunaavat sinua.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Kiittävät sinua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "sinun tekosi"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "ja hurskaasi"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "siunaavat sinua"
+    }
+  ],
+  "timestamp": "2026-09-07T02:55:36.256717272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 55,
+  "translation": "Niele, Adonai, jaa heidän kielensä, sillä minä näen väkivallan ja riidan kaupungissa.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "Niele"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "jaa"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "heidän kielensä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "minä näen"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "väkivallan"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "ja riidan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kaupungissa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:13:01.243381620Z",
+  "model": "glm-5.3"
+}

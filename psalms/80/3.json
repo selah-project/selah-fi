@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 80,
+  "translation": "Efrajimin ja Binjaminin ja Menashe:n edessä herätä voimasi ⟨את⟩, ja tule pelastukseksi meille.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajimin"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ja Binjaminin"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "ja Menashe:n"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "herätä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "voimasi"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "voimasi"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "ja tule"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "pelastukseksi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meille"
+    }
+  ],
+  "timestamp": "2026-09-07T02:26:26.961911063Z",
+  "model": "glm-5.3"
+}

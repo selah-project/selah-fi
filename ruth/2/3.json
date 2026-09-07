@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 2:3",
+  "book": "ruth",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja hän meni ja tuli ja poimi kedolla leikkaajien jälkeen. Ja sattui hänen osakseen sattuma: kedon palsta ⟨kuului⟩ Boakselle, joka ⟨oli⟩ Elimelekin suvusta.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "Ja hän meni"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "ותלקט",
+      "gloss": "ja poimi"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kedolla"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "jälkeen"
+    },
+    {
+      "surface": "הקצרים",
+      "gloss": "leikkaajien"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "Ja sattui"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "hänen osakseen sattuma"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "palsta"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "kedon"
+    },
+    {
+      "surface": "לבעז",
+      "gloss": "Boakselle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "suvusta"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimelekin"
+    }
+  ],
+  "timestamp": "2026-09-07T03:59:15.905953549Z",
+  "model": "glm-5.3"
+}

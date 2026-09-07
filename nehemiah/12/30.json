@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja papit ja leviiläiset puhdistautuivat, ja he puhdistivat ⟨את⟩ kansan ja ⟨את⟩ portit ja ⟨את⟩ muurin.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "ja puhdistautuivat"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "papit"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ja leviiläiset"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "ja he puhdistivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "portit"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "portit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "muurin"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "muurin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:09:54.247227667Z",
+  "model": "glm-5.3"
+}

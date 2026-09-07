@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja Arnan kääntyi ja näki ⟨את⟩ enkelin, ja hänen neljä poikaansa hänen kanssaan piiloutuivat — ja Arnan pui vehnää.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Ja kääntyi"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ja näki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "enkelin"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "enkelin"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "ja neljä"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "poikaansa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hänen kanssaan"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "piiloutuivat"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "— ja Arnan"
+    },
+    {
+      "surface": "דש",
+      "gloss": "pui"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "vehnää"
+    }
+  ],
+  "timestamp": "2026-09-07T05:23:52.569787245Z",
+  "model": "glm-5.3"
+}

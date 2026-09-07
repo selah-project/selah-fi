@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Rakentakaa taloja ja asukaa ⟨niissä⟩, ja istuttakaa puutarhoja ja syökää ⟨את⟩ hedelmänsä.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "Rakentakaa"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "taloja"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ja asukaa"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "ja istuttakaa"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "puutarhoja"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ja syökää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hedelmänsä"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "hedelmänsä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:37:52.085568937Z",
+  "model": "glm-5.3"
+}

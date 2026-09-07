@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Ja tapahtui, kuningas Hizkijahun (Hiskia) kuullessa: hän repäisi ⟨את⟩ vaatteensa ja verhoutui säkkikankaaseen ja meni Jahven huoneeseen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "kuullessa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkijahun (Hiskia)"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "hän repäisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaatteensa"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "vaatteensa"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "verhoutui"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "säkkikankaaseen"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "meni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneeseen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-07T00:13:42.047643481Z",
+  "model": "glm-5.3"
+}

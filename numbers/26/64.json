@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 26:64",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja näiden joukossa ei ollut yhtään miestä niistä, jotka Moshe ja Aharon, pappi, laskivat ⟨את⟩ Israelin poikia Siinain erämaassa.",
+  "tokens": [
+    {
+      "surface": "ובאלה",
+      "gloss": "Ja näiden joukossa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ollut"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yhtään miestä"
+    },
+    {
+      "surface": "מפקודי",
+      "gloss": "niistä lasketuista"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ja Aharon (Aaron)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pappi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "laskivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin poikia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "erämaassa"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Siinai"
+    }
+  ],
+  "timestamp": "2026-09-06T22:17:42.883782697Z",
+  "model": "glm-5.3"
+}

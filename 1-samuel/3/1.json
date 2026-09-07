@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 3:1",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja poika Shemuël (Samuel) palveli ⟨את⟩ Jahvea Elin edessä, ja Jahven sana oli kallis niinä päivinä — näkyä ei ollut puhkeamassa esiin.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "Ja poika"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "palveli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ja sana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "kallis"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "päivinä"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "niinä"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ollut"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "näkyä"
+    },
+    {
+      "surface": "נפרץ",
+      "gloss": "puhkeamassa esiin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:05:16.029664335Z",
+  "model": "glm-5.3"
+}

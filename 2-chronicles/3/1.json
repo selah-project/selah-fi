@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 3:1",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja alkoi Shelomo (Salomo) rakentaa ⟨את⟩ Jahven huoneen Jerushalajimissa (Jerusalem), vuorella Morija, joka näyttäytyi Davidille (Daavid), hänen isälleen, siinä paikassa, jonka David oli valmistanut Arnanin (Ornan) jebusilaisen puimolla.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "alkoi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "rakentaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven huoneen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerushalajimissa"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "vuorella"
+    },
+    {
+      "surface": "המוריה",
+      "gloss": "Morija"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jossa"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "näyttäytyi"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Davidille"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "hänen isälleen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "oli valmistanut"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "siinä paikassa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "puimolla"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnanin"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "jebusilaisen"
+    }
+  ],
+  "timestamp": "2026-09-07T05:32:04.101073720Z",
+  "model": "glm-5.3"
+}

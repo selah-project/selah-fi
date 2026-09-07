@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja Hizkijah antoi ⟨את⟩ kaiken hopean, joka löytyi Jahven huoneesta ja kuninkaan huoneen varastoista.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ja antoi"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizkijah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken hopean"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "hopean"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "joka löytyi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneesta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "ja varastoista"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:55:40.703223144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja David teki niinkuin Elohim oli käskenyt häntä, ja he löivät ⟨את⟩ pelistiläisten leirin Giv'onista (Gibeon) aina Gezeriin asti.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ja teki"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niinkuin"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "oli käskenyt häntä"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ja löivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelistiläisten leirin"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "leirin"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelistiläisten"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "Giv'onista"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ja aina"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Gezeriin asti"
+    }
+  ],
+  "timestamp": "2026-09-07T05:20:37.732807683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 137,
+  "translation": "Babylonin virtien äärillä siellä istuimme, myös itkimme, kun muistimme ⟨את⟩ Tsijonin (Siionin).",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "äärillä"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "virtien"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylonin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "istuimme"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "itkimme"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "kun muistimme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsijonin"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijonin"
+    }
+  ],
+  "timestamp": "2026-09-07T02:53:46.448778008Z",
+  "model": "glm-5.3"
+}

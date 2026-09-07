@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 2:19",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja he sanoivat: mies, mistsärialainen, pelasti meidät paimenten kädestä, ja myös ammesti hän meidän edestämme ammentaen ja juotti ⟨את⟩ lauman.",
+  "tokens": [
+    {
+      "surface": "ותאמרן",
+      "gloss": "ja he sanoivat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "missärialainen"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "pelasti meidät"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kädestä"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "paimenten"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja myös"
+    },
+    {
+      "surface": "דלה",
+      "gloss": "ammesti"
+    },
+    {
+      "surface": "דלה",
+      "gloss": "ammentaen"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meidän edestämme"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "ja juotti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lauman"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "lauman"
+    }
+  ],
+  "timestamp": "2026-09-06T21:28:42.637760353Z",
+  "model": "glm-5.3"
+}

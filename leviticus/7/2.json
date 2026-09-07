@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Paikassa, jossa teurastetaan ⟨את⟩ polttouhrin, teurastettakoon ⟨את⟩ asham, ja ⟨את⟩ sen veren roiskuttakoon alttarin päälle ympäri.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "Paikassa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jossa"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "teurastetaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "polttouhrin"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "polttouhrin"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "teurastettakoon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ashamin"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ashamin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen veren"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sen veren"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "roiskuttakoon"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympäri"
+    }
+  ],
+  "timestamp": "2026-09-06T21:49:23.569131613Z",
+  "model": "glm-5.3"
+}

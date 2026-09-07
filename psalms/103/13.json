@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 103,
+  "translation": "Kuten isä armahtaa lapsia, armahtaa Jahve häntä pelkääviä.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "kuten armahtaa"
+    },
+    {
+      "surface": "אב",
+      "gloss": "isä"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "בנים",
+      "gloss": "lapsia"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "armahtaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "häntä pelkääviä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:35:58.921158783Z",
+  "model": "glm-5.3"
+}

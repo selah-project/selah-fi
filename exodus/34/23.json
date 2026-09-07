@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 34:23",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "Kolme kertaa vuodessa kaikki miespuolisesi näkyvät Adonai Jahven, Israelin Elohimin, kasvojen edessä.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "Kolme"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kertaa"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "vuodessa"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "näkyvät"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "miespuolisesi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasvot"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kasvot"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:43:15.305364851Z",
+  "model": "glm-5.3"
+}

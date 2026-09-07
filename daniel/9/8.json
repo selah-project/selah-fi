@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 9:8",
+  "book": "daniel",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Jahve, meille ⟨kuuluu⟩ kasvojen häpeä — kuninkaillemme, päämiehillemme ja isillemme —, koska teimme syntiä sinua vastaan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meille"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "häpeä"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "kasvojen"
+    },
+    {
+      "surface": "למלכינו",
+      "gloss": "kuninkaillemme"
+    },
+    {
+      "surface": "לשרינו",
+      "gloss": "päämiehillemme"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "ja isillemme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koska"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "teimme syntiä"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinua vastaan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:52:19.845125825Z",
+  "model": "glm-5.3"
+}

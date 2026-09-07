@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja he kertoivat Davidille (Daavid) sanoen: Katso, pelistiläiset (filistealaiset) taistelevat Ke'ilaa (Keila) vastaan, ja he ryöstävät ⟨את⟩ puimatantereita.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "Ja he kertoivat"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidille"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelistiläiset"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "taistelevat"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "Ke'ilaa vastaan"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ja he"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "ryöstävät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "puimatantereita"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "puimatantereita"
+    }
+  ],
+  "timestamp": "2026-09-06T23:15:00.620599615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 47:1",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 47,
+  "translation": "Se sana, joka oli Jahven, profeetta Yirmeyahulle (Jeremia), filistealaisia (Pelishtim) kohti, ennen kuin Paro löi ⟨את⟩ Azzan (Gaza).",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-lle"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahulle (Jeremia)"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profeetta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistealaisia (Pelishtim)"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ennen kuin"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "löi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azzan"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzan (Gaza)"
+    }
+  ],
+  "timestamp": "2026-09-07T00:46:37.219551869Z",
+  "model": "glm-5.3"
+}

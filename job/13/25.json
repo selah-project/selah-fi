@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Pelotteletko lehteä, jota tuuli ajaa, ja ⟨את⟩ kuivaa olkea ajatko takaa?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "lehteä"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "jota tuuli ajaa"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "pelotteletko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kuivaa olkea"
+    },
+    {
+      "surface": "קש",
+      "gloss": "olkea"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "kuivaa"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "ajatko takaa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:31:03.457936949Z",
+  "model": "glm-5.3"
+}

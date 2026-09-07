@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 23:7",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Valheellisesta asiasta pysy kaukana, ja viatonta ja vanhurskasta älä tapa, sillä en minä tee roistoa vanhurskaaksi.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "asiasta"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "valheellisesta"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "pysy kaukana"
+    },
+    {
+      "surface": "ונקי",
+      "gloss": "ja viaton"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ja vanhurskas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "tapa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "tee vanhurskaaksi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "roistoa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:37:14.446868774Z",
+  "model": "glm-5.3"
+}

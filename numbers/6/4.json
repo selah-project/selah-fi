@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 6:4",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Kaikki hänen erottautumisensa päivät hän ei syö mitään, mitä viiniköynnöksestä tehdään, siemenistä nahkaan asti.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kaikki"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päivät"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "hänen erottautumisensa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mitään"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tehdään"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "viiniköynnöksestä"
+    },
+    {
+      "surface": "היין",
+      "gloss": "viini-"
+    },
+    {
+      "surface": "מחרצנים",
+      "gloss": "siemenistä"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "… asti"
+    },
+    {
+      "surface": "זג",
+      "gloss": "nahkaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "hän syö"
+    }
+  ],
+  "timestamp": "2026-09-06T22:05:32.264177714Z",
+  "model": "glm-5.3"
+}

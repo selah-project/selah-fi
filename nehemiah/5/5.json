@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 5:5",
+  "book": "nehemiah",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja nyt: niinkuin meidän veljiemme liha ⟨on⟩ meidän lihamme, niinkuin heidän poikansa ⟨ovat⟩ meidän poikamme — ja katso, me orjuutamme ⟨את⟩ meidän poikamme ja ⟨את⟩ meidän tyttäremme orjiksi, ja meidän tyttäristämme on pantu orjuuteen, eikä meidän kädellämme ole valtaa; ja meidän peltojemme ja viinitarhojemme ⟨omistavat⟩ muut.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ja nyt"
+    },
+    {
+      "surface": "כבשר",
+      "gloss": "niinkuin liha"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "veljiemme"
+    },
+    {
+      "surface": "בשרנו",
+      "gloss": "lihamme"
+    },
+    {
+      "surface": "כבניהם",
+      "gloss": "niinkuin heidän"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "poikamme"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "me"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "orjuutamme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meidän poikamme"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "meidän poikamme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "meidän tyttäremme"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "meidän tyttäremme"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "orjiksi"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "ja on"
+    },
+    {
+      "surface": "מבנתינו",
+      "gloss": "meidän tyttäristämme"
+    },
+    {
+      "surface": "נכבשות",
+      "gloss": "orjuutettuja"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä ole"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "valtaa"
+    },
+    {
+      "surface": "ידנו",
+      "gloss": "kädellämme"
+    },
+    {
+      "surface": "ושדתינו",
+      "gloss": "ja meidän peltojemme"
+    },
+    {
+      "surface": "וכרמינו",
+      "gloss": "ja viinitarhojemme"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "muille"
+    }
+  ],
+  "timestamp": "2026-09-07T05:04:14.597518600Z",
+  "model": "glm-5.3"
+}

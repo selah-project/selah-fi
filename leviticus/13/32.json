@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 13:32",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja seitsemäntenä päivänä pappi katsoo ⟨את⟩ vaurion, ja katso, jos netek ei ole levinnyt eikä siinä ole keltaista karvaa eikä netekin näkö ole syvempi kuin iho,",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Ja katsoo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pappi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaurion"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "vaurion"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "seitsemäntenä"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "levinnyt"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "netek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ole"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siinä"
+    },
+    {
+      "surface": "שער",
+      "gloss": "karvaa"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "keltaista"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "eikä netekin näkö"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "netekin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ole"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "syvempi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuin"
+    },
+    {
+      "surface": "העור",
+      "gloss": "iho"
+    }
+  ],
+  "timestamp": "2026-09-07T04:14:48.692415697Z",
+  "model": "glm-5.3"
+}

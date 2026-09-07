@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Ja Moshe (Mooses) meni ja puhui ⟨את⟩ nämä sanat koko Israelille.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "meni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ja puhui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "näiden sanojen"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelille"
+    }
+  ],
+  "timestamp": "2026-09-06T22:38:24.855175632Z",
+  "model": "glm-5.3"
+}

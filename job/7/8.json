@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 7:8",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ei silmä, joka on minut nähnyt, minua enää tarkastele; sinun silmäsi ⟨on⟩ minussa, ja minua ei ⟨enää⟩ ⟨ole⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תשורני",
+      "gloss": "minua enää tarkastele"
+    },
+    {
+      "surface": "עין",
+      "gloss": "silmä"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "joka on minut nähnyt"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "sinun silmäsi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "minussa"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "ja minua ei ⟨enää⟩ ⟨ole⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T03:26:20.350751352Z",
+  "model": "glm-5.3"
+}

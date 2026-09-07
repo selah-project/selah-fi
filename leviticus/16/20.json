@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja kun hän on saattanut päätökseen ⟨את⟩ pyhäkön ja ⟨את⟩ ilmestysmajan ja ⟨את⟩ alttarin sovittamisen, hän tuo lähelle ⟨את⟩ elävän pukin.",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "ja kun hän on saattanut päätökseen"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "sovittamisen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pyhäkön"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pyhäkön"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "ilmestysmajan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ilmestysmajan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "(kokouksen)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "alttarin"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "hän tuo lähelle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elävän pukin"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "pukin"
+    },
+    {
+      "surface": "החי",
+      "gloss": "elävän"
+    }
+  ],
+  "timestamp": "2026-09-06T21:55:21.335405459Z",
+  "model": "glm-5.3"
+}

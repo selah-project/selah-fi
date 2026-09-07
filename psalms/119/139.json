@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Kuluttaa minut kiivauteni, sillä unohtivat sanasi vastustajani.",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "kuluttaa minut"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "kiivauteni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "unohtivat"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "sanasi"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "vastustajani"
+    }
+  ],
+  "timestamp": "2026-09-07T02:46:14.036742783Z",
+  "model": "glm-5.3"
+}

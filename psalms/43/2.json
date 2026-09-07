@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 43,
+  "translation": "Sillä sinä olet Elohimini, linnani; miksi minut hylkäsit? Miksi kuljen murheen pimeänä, vihollisen ahdistuksessa?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimini"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "linnani"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miksi"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "minut hylkäsit"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miksi"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "murheen pimeänä"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "kuljen"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "ahdistuksessa"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "vihollisen"
+    }
+  ],
+  "timestamp": "2026-09-07T02:08:24.764404297Z",
+  "model": "glm-5.3"
+}

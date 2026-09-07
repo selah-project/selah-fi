@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "daniel 5:6",
+  "book": "daniel",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Silloin kuninkaan kasvojen kirkkaus muuttui ja hänen ajatuksensa peljättivät häntä, niin että hänen lonkiensa nivelet irtoivat ja hänen polvensa lyövät toisiaan vasten.",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "silloin"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "זיוהי",
+      "gloss": "kasvojen kirkkaus"
+    },
+    {
+      "surface": "שנוהי",
+      "gloss": "muuttui"
+    },
+    {
+      "surface": "ורעינהי",
+      "gloss": "ja ajatuksensa"
+    },
+    {
+      "surface": "יבהלונה",
+      "gloss": "peljättivät häntä"
+    },
+    {
+      "surface": "וקטרי",
+      "gloss": "ja nivelet"
+    },
+    {
+      "surface": "חרצה",
+      "gloss": "lonkien"
+    },
+    {
+      "surface": "משתרין",
+      "gloss": "irtoivat"
+    },
+    {
+      "surface": "וארכבתה",
+      "gloss": "ja polvensa"
+    },
+    {
+      "surface": "דא",
+      "gloss": "toinen"
+    },
+    {
+      "surface": "לדא",
+      "gloss": "toistaan"
+    },
+    {
+      "surface": "נקשן",
+      "gloss": "lyivät yhteen"
+    }
+  ],
+  "timestamp": "2026-09-07T04:49:03.163298902Z",
+  "model": "glm-5.3"
+}

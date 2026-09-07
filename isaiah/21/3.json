@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 21:3",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Sentähden ovat lanteeni täynnä vääntelyä: synnytystuskat tarttuivat minuun kuin synnyttävän naisen tuskat; taipuin kuullessani, peljästyin nähdessäni.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ovat täynnä"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "lanteeni"
+    },
+    {
+      "surface": "חלחלה",
+      "gloss": "vääntelyä"
+    },
+    {
+      "surface": "צירים",
+      "gloss": "synnytystuskat"
+    },
+    {
+      "surface": "אחזוני",
+      "gloss": "tarttuivat minuun"
+    },
+    {
+      "surface": "כצירי",
+      "gloss": "kuin … tuskat"
+    },
+    {
+      "surface": "יולדה",
+      "gloss": "synnyttävän"
+    },
+    {
+      "surface": "נעויתי",
+      "gloss": "taipuin"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "kuullessani"
+    },
+    {
+      "surface": "נבהלתי",
+      "gloss": "peljästyin"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "nähdessäni"
+    }
+  ],
+  "timestamp": "2026-09-07T00:06:17.573569640Z",
+  "model": "glm-5.3"
+}

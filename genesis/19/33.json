@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 19:33",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja he juottivat ⟨את⟩ isäänsä viiniä sinä yönä, ja esikoistytär tuli ja makasi ⟨את⟩ isänsä kanssa, eikä hän tuntenut sitä hänen maatessaan eikä hänen nousiessaan.",
+  "tokens": [
+    {
+      "surface": "ותשקין",
+      "gloss": "ja he juottivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isäänsä"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "isäänsä"
+    },
+    {
+      "surface": "יין",
+      "gloss": "viiniä"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "sinä yönä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": ""
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "esikoistytär"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "makasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isänsä"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "isänsä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tuntenut"
+    },
+    {
+      "surface": "בשכבה",
+      "gloss": "hänen maatessaan"
+    },
+    {
+      "surface": "ובקומה",
+      "gloss": "hänen nousiessaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:13:10.190117989Z",
+  "model": "glm-5.3"
+}

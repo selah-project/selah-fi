@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja orjantappuroita ja ohdakkeita se kasvattaa sinulle, ja sinä syöt ⟨את⟩ pellon ruohon.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "Ja orjantappuroita"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "ja ohdakkeita"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "se kasvattaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "ja sinä syöt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pellon ruohon"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ruohon"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pellon"
+    }
+  ],
+  "timestamp": "2026-09-06T21:05:35.169987940Z",
+  "model": "glm-5.3"
+}

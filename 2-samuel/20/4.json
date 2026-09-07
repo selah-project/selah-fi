@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja kuningas sanoi Amasalle (Amasa): ”Kutsu minulle ⟨את⟩ Juudan miehet kolmen päivän kuluessa, ja sinä seiso täällä.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-lle"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasalle"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "kutsu kokoon"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Juudan miehet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juudan"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kolmen"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivän kuluessa"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ja sinä"
+    },
+    {
+      "surface": "פה",
+      "gloss": "täällä"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "seiso"
+    }
+  ],
+  "timestamp": "2026-09-06T23:30:07.734855656Z",
+  "model": "glm-5.3"
+}

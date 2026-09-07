@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "ja erotaksenne pyhän ja maallisen välillä, ja saastaisen ja puhtaan välillä.",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "ja erotaksenne"
+    },
+    {
+      "surface": "בין",
+      "gloss": "välillä"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pyhän"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja välillä"
+    },
+    {
+      "surface": "החל",
+      "gloss": "maallisen"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja välillä"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "saastaisen"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja välillä"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "puhtaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:50:46.284457112Z",
+  "model": "glm-5.3"
+}

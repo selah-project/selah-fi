@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 66,
+  "translation": "Koko maa kumartuu sinulle ja veisaa sinulle, veisaa sinun nimellesi. Selah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "kumartuu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "ja veisaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "veisaa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sinun nimellesi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-07T02:17:42.089221162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 44,
+  "translation": "Ja nyt kuule, Ja'akov (Jaakob), palvelijani, ja Israel, jonka olen valinnut:",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ja nyt"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kuule"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akov"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "palvelijani"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ja Israel"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "jonka olen valinnut"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hänet"
+    }
+  ],
+  "timestamp": "2026-09-07T00:15:31.611377400Z",
+  "model": "glm-5.3"
+}

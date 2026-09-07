@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja ihminen kumartui maahan ja mies painui matalaksi — älä nosta heitä.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "ja kumartui maahan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihminen"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "ja painui matalaksi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "älkäön"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "nostako"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heidät"
+    }
+  ],
+  "timestamp": "2026-09-06T23:59:23.034620087Z",
+  "model": "glm-5.3"
+}

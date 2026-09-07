@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 11:45",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Sillä minä olen Jahve, joka nostin ⟨את⟩ teidät Mitsrajimin (Egyptin) maasta ollakseni teidän Elohiminne, ja te olette pyhät, sillä pyhä minä olen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "joka nostin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät",
+      "marks": "teidät — pronomini, ei objektimerkki"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "להית",
+      "gloss": "ollakseni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teidän"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohiminne"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "ja te olette"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "pyhät"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "pyhä"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä olen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:50:30.901661272Z",
+  "model": "glm-5.3"
+}

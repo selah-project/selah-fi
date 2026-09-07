@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 112,
+  "translation": "Pimeydessä noussee valo oikeamielisille: armollinen ja laupias ja vanhurskas ⟨on hän⟩.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "noussee"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "pimeydessä"
+    },
+    {
+      "surface": "אור",
+      "gloss": "valo"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "oikeamielisille"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "armollinen"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "ja laupias"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ja vanhurskas"
+    }
+  ],
+  "timestamp": "2026-09-07T02:42:33.400127305Z",
+  "model": "glm-5.3"
+}

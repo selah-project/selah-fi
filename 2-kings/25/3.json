@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Kuukauden yhdeksentenä päivänä nälänhätä voimistui kaupungissa, eikä ollut leipää maan kansalle.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "yhdeksentenä"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "kuukauden (päivänä)"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "voimistui"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "nälänhätä"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kaupungissa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kansalle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:00:25.053537556Z",
+  "model": "glm-5.3"
+}

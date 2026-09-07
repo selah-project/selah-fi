@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 14:10",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja kahdeksantena päivänä hän ottaa kaksi virheettömää karitsaa ja yhden vuoden ikäisen virheettömän uuhikaritsan, ja kolme kymmenesosaa hienoa jauhoa jauhouhriksi, öljyyn sekoitettuna, ja yhden login öljyä.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Ja päivänä"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "kahdeksantena"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "hän ottaa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "karitsaa"
+    },
+    {
+      "surface": "תמימים",
+      "gloss": "virheettömät"
+    },
+    {
+      "surface": "וכבשה",
+      "gloss": "ja uuhikaritsa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "vuoden"
+    },
+    {
+      "surface": "שנתה",
+      "gloss": "ikäinen"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "virheetön"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ja kolme"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "kymmenesosaa"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "hienoa jauhoa"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "jauhouhriksi"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "sekoitettuna"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "öljyyn"
+    },
+    {
+      "surface": "ולג",
+      "gloss": "ja yksi log"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "öljyä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:53:16.263254615Z",
+  "model": "glm-5.3"
+}

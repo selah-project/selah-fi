@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 18:20",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Vain se navi, joka röyhkeästi puhuu sanan nimeeni — ⟨את⟩ sen, mitä en ole hänelle käskenyt puhua — ja joka puhuu muiden jumaliden nimessä, kuolee, se navi.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Vain"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "se navi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "יזיד",
+      "gloss": "röyhkeästi"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "puhuu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sanan"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "nimeeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen, mitä en ole hänelle käskenyt puhua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "צויתיו",
+      "gloss": "en ole hänelle käskenyt"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "puhua"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ja joka"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "puhuu"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nimessä"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jumaliden"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "muiden"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "kuolee"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "se navi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-09-06T22:31:26.580576674Z",
+  "model": "glm-5.3"
+}

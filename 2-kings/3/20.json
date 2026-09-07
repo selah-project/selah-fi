@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja aamulla, kun aamuuhri nousi, katso: vettä tuli tieltä Edomista, ja maa täyttyi ⟨את⟩ vedestä.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja tapahtui"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamulla"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "kun nousi"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "aamuuhri"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "katso"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vettä"
+    },
+    {
+      "surface": "באים",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "tieltä"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomista"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ja täyttyi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vedestä"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vedestä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:47:46.144197787Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 57,
+  "translation": "Minä julistan vanhursautesi, ja ⟨את⟩ tekosi — ne eivät hyödytä sinua.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Minä"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "julistaa"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "vanhursautesi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "tekosi"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "tekosi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "hyödytä sinua"
+    }
+  ],
+  "timestamp": "2026-09-07T00:19:14.777443215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "He inhoavat minua, he pitävät etäisyyden minusta, ja kasvojeni edessä eivät he pidättele sylkeänsä.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "he inhoavat minua"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "he pitävät etäisyyden"
+    },
+    {
+      "surface": "מני",
+      "gloss": "minusta"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ja kasvojeni edessä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "pidättele"
+    },
+    {
+      "surface": "רק",
+      "gloss": "sylkeänsä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:35:41.839200051Z",
+  "model": "glm-5.3"
+}

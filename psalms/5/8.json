@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Mutta minä, sinun hesed (armosi) runsaudessa tulen taloosi, kumartuen pyhään temppeliisi pelossa sinua kohtaan.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mutta minä"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "runsaudessa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sinun hesed (armesi)"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "tulen"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "taloosi"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "kumartuen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "temppeliisi"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "pyhään"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "pelossa sinua kohtaan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:50:48.028395615Z",
+  "model": "glm-5.3"
+}

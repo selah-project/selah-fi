@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Vain minua vastaan hän kääntyy, hän kääntää kättään yhä uudelleen koko päivän.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Vain"
+    },
+    {
+      "surface": "בי",
+      "gloss": "minua vastaan"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "hän kääntyy"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "hän kääntää"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kättään"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päivän"
+    }
+  ],
+  "timestamp": "2026-09-07T04:01:47.710480386Z",
+  "model": "glm-5.3"
+}

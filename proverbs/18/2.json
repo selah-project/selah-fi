@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 18:2",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ei halua kehittelijä ymmärrystä, vaan ⟨siihen, että⟩ hänen sydämensä paljastuisi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "halua"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "kehittelijä"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "ymmärrystä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vaan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨siihen, että⟩"
+    },
+    {
+      "surface": "בהתגלות",
+      "gloss": "paljastuisi"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hänen sydämensä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:10:57.497503580Z",
+  "model": "glm-5.3"
+}

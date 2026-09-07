@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja myös ⟨את⟩ orjanaisen pojan asetan kansaksi, sillä hän ⟨on⟩ sinun siementäsi.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ja myös"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orjanaisen pojan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "orjanaisen"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "kansaksi"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "asetan hänet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sinun siementäsi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    }
+  ],
+  "timestamp": "2026-09-06T21:12:51.704162603Z",
+  "model": "glm-5.3"
+}

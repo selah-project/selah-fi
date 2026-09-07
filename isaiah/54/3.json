@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 54,
+  "translation": "Sillä oikealle ja vasemmalle sinä puhkeat, ja sinun siemenesi perii kansat, ja autiot kaupungit asutetaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "oikealle"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "ja vasemmalle"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "sinä puhkeat"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "ja sinun siemenesi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kansat"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "perii"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "ja kaupungit"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "autiot"
+    },
+    {
+      "surface": "יושיבו",
+      "gloss": "asutetaan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:19:07.284049907Z",
+  "model": "glm-5.3"
+}

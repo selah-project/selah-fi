@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 16:10",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja Zimri tuli sisään ja löi häntä ja tappoi hänen, Asan, Jehudan (Juuda) kuninkaan, hallituksen kahdentena-kymmenentenä-seitsemäntenä vuonna, ja hän hallitsi hänen sijaansa.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ja tuli sisään"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "ja löi häntä"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "ja tappoi hänen"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "vuonna"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kahdentena-kymmenentenä"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "-ja-seitsemäntenä"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "Asan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan (Juuda)"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ja hän hallitsi"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "hänen sijaansa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:41:34.882962248Z",
+  "model": "glm-5.3"
+}

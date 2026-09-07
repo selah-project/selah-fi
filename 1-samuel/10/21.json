@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 10:21",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja hän lähetti lähelle ⟨את⟩ Binjaminin sukukunnan perheittäin, ja valituksi tuli Matrin perhe, ja valituksi tuli Shaul, Kishin (Kis) poika; ja he etsivät häntä, mutta häntä ei löytynyt.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Ja hän lähetti lähelle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Binjaminin sukukunnan"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "sukukunnan"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjaminin"
+    },
+    {
+      "surface": "למשפחתו",
+      "gloss": "perheittäin"
+    },
+    {
+      "surface": "ותלכד",
+      "gloss": "ja valituksi tuli"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "perhe"
+    },
+    {
+      "surface": "המטרי",
+      "gloss": "Matrin"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ja valituksi tuli"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Kishin"
+    },
+    {
+      "surface": "ויבקשהו",
+      "gloss": "ja he etsivät häntä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mutta ei"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "löytynyt"
+    }
+  ],
+  "timestamp": "2026-09-06T23:07:52.918633522Z",
+  "model": "glm-5.3"
+}

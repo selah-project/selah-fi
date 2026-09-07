@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 113,
+  "translation": "Korkea kaikkien kansojen yli ⟨on⟩ Jahve, taivaitten yli hänen kunniansa.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "Korkea"
+    },
+    {
+      "surface": "על",
+      "gloss": "yli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkien"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kansojen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "yli"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaitten"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "hänen kunniansa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:42:32.001699973Z",
+  "model": "glm-5.3"
+}

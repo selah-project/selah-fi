@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 25:12",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja nämä ovat Jishmaelin, Avrahamin pojan, polvet, jonka Hagar (Haagar), egyptiläinen, Saaran (Saaran) orjatar, synnytti Avrahamille.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ja nämä"
+    },
+    {
+      "surface": "תלדת",
+      "gloss": "polvet"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Jishmaelin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "egyptiläinen"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "orjatar"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saaran"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahamille"
+    }
+  ],
+  "timestamp": "2026-09-06T21:14:11.104625352Z",
+  "model": "glm-5.3"
+}

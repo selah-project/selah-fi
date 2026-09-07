@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 3:11",
+  "book": "habakkuk",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Aurinko ja kuu seisoivat asuinsijassaan; sinun nuoltesi valossa ne kulkivat, sinun keihääsi salamankirkkaudessa.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "aurinko"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "seisoivat"
+    },
+    {
+      "surface": "זבלה",
+      "gloss": "asuinsijassaan"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "valossa"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "nuoltesi"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "ne kulkivat"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "salamankirkkaudessa"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "salaman"
+    },
+    {
+      "surface": "חניתך",
+      "gloss": "keihääsi"
+    }
+  ],
+  "timestamp": "2026-09-07T01:40:16.589576023Z",
+  "model": "glm-5.3"
+}

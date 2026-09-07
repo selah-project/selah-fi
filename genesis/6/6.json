@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja Jahve katui, että hän oli tehnyt ⟨את⟩ ihmisen maassa, ja hän suri sydämessään.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "Ja katui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "oli tehnyt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihmisen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihmisen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "ja suri"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sydämessään"
+    }
+  ],
+  "timestamp": "2026-09-06T21:06:47.287745184Z",
+  "model": "glm-5.3"
+}

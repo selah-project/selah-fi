@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja Paro käski miehiä hänen suhteenan, ja he lähettivät ⟨את⟩ hänet ja ⟨את⟩ hänen vaimonsa ja ⟨את⟩ kaiken, mitä hänellä oli.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Ja käski"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hänen suhteenan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "miehiä"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ja he lähettivät"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hänet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen vaimonsa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hänen vaimonsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaiken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänellä oli"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:29.540144040Z",
+  "model": "glm-5.3"
+}

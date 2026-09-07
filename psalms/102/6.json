@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 102,
+  "translation": "Huokaukseni äänen tähden luuni ⟨on⟩ tarttunut lihaani.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "äänen tähden"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "huokaukseni"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "on tarttunut"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "luuni"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "lihaani"
+    }
+  ],
+  "timestamp": "2026-09-07T02:35:12.393749133Z",
+  "model": "glm-5.3"
+}

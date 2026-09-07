@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 5:14",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Päivällä he kohtaavat pimeyden, ja kuin yöllä he tunnustelevat keskipäivällä.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "päivällä"
+    },
+    {
+      "surface": "יפגשו",
+      "gloss": "he kohtaavat"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pimeyden"
+    },
+    {
+      "surface": "וכלילה",
+      "gloss": "ja kuin yöllä"
+    },
+    {
+      "surface": "ימששו",
+      "gloss": "he tunnustelevat"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "keskipäivällä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:27:08.163173863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 48,
+  "translation": "Itätuulella ⟨sinä⟩ murskaat Tarshishin laivat.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "tuulella"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "itä-"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "⟨sinä⟩ murskaat"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "laivat"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshishin"
+    }
+  ],
+  "timestamp": "2026-09-07T04:33:00.852670019Z",
+  "model": "glm-5.3"
+}

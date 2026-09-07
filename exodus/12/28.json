@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja Israelin lapset menivät ja tekivät; niin kuin Jahve oli käskenyt ⟨את⟩ Moshen (Mooses) ja ⟨את⟩ Aharonin (Aaron), niin he tekivät.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "Ja menivät"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ja tekivät"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oli käskenyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ja Aharonin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "he tekivät"
+    }
+  ],
+  "timestamp": "2026-09-06T21:34:21.379015354Z",
+  "model": "glm-5.3"
+}

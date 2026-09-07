@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja kahdeksantena päivänä ympärileikataan hänen esinahkansa liha.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Ja päivänä"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "kahdeksantena"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "ympärileikataan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "liha"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "hänen esinahkansa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:51:38.983976059Z",
+  "model": "glm-5.3"
+}

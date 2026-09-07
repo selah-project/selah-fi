@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Sillä sinä pelastat kurjan kansan, ja korkeat silmät sinä painat alas.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kurjan"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "pelastat"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "ja silmät"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "korkeat"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "painat alas"
+    }
+  ],
+  "timestamp": "2026-09-07T01:57:55.220861643Z",
+  "model": "glm-5.3"
+}

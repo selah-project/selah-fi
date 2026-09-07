@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 37:33",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Ja hän tunsi sen ja sanoi: ”Pojani paita! Paha peto on hänet syönyt. Revitty — revitty on Josef!”",
+  "tokens": [
+    {
+      "surface": "ויכירה",
+      "gloss": "tunsi sen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "paita"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikani"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "peto"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "paha"
+    },
+    {
+      "surface": "אכלתהו",
+      "gloss": "on syönyt hänet"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "revitty"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "revitty"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    }
+  ],
+  "timestamp": "2026-09-06T21:23:26.850912257Z",
+  "model": "glm-5.3"
+}

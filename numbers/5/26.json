@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 5:26",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja kohen rouhii uhrista kourallisen, ⟨את⟩ sen muiston, ja savuttaa ⟨את⟩ sen alttarilla, ja sitten hän juottaa ⟨את⟩ naiselle ⟨את⟩ veden.",
+  "tokens": [
+    {
+      "surface": "וקמץ",
+      "gloss": "Ja rouhii"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…sta"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "uhrin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muiston"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "sen muiston"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "ja savuttaa"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "alttarilla"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ja sitten"
+    },
+    {
+      "surface": "ישקה",
+      "gloss": "hän juottaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naiselle"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "naisen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veden"
+    },
+    {
+      "surface": "המים",
+      "gloss": "veden"
+    }
+  ],
+  "timestamp": "2026-09-06T22:05:21.171742593Z",
+  "model": "glm-5.3"
+}

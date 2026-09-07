@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 2:6",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja nyt: tehköön Jahve kanssanne hesedin ja emetin ⟨totuuden⟩, ja myös minä teen ⟨את⟩ teidän kanssanne tämän hyvän, koska te teitte tämän asian.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ja nyt"
+    },
+    {
+      "surface": "יעש",
+      "gloss": "tehköön"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "kanssanne"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedin"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ja emetin"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja myös"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "teen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "teidän kanssanne"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "hyvän"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koska"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "te teitte"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asian"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    }
+  ],
+  "timestamp": "2026-09-06T23:19:45.542725746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 9:7",
+  "book": "esther",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "ja ⟨את⟩ Parshandatan ⟨את⟩ Dalafonin ja ⟨את⟩ Aspatan",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Parshandatan"
+    },
+    {
+      "surface": "פרשנדתא",
+      "gloss": "Parshandatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Dalafonin"
+    },
+    {
+      "surface": "דלפון",
+      "gloss": "Dalafonin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Aspatan"
+    },
+    {
+      "surface": "אספתא",
+      "gloss": "Aspatan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:43:31.237830062Z",
+  "model": "glm-5.3"
+}

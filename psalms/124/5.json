@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 124,
+  "translation": "Silloin olisivat ylpeät vedet menneet yli Nefeshimme, silloin olisivat ne kulkeutuneet yli meidän sielumme.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "silloin"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "menneet yli"
+    },
+    {
+      "surface": "על",
+      "gloss": "yli"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "Nefeshimme"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vedet"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "ylpeät"
+    }
+  ],
+  "timestamp": "2026-09-07T02:49:25.090356837Z",
+  "model": "glm-5.3"
+}

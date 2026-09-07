@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja minä siunaan niitä, jotka siunaavat sinua, ja hänet, joka kiroaa sinua, minä kiroan; ja sinussa siunataan kaikki maan sukukunnat.",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "Ja minä siunaan"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "niitä, jotka siunaavat sinua"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "ja hänet, joka kiroaa sinua"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "minä kiroan"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "ja siunataan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinussa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "sukukunnat"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:09:28.721678625Z",
+  "model": "glm-5.3"
+}

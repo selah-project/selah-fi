@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja Aharon puhui ⟨את⟩ kaikki ne sanat, jotka Jahve oli puhunut Meshelle, ja ⟨hän⟩ teki merkit kansan silmien edessä.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ja puhui"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki ne sanat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oli puhunut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Meshelle"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ja teki"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "merkit"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "silmien edessä"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:30:10.708245480Z",
+  "model": "glm-5.3"
+}

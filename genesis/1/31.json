@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja näki Elohim ⟨את⟩ kaiken, minkä oli tehnyt, ja katso — ⟨se oli⟩ hyvin hyvää. Ja tuli ilta, ja tuli aamu: kuudes päivä.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ja näki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken (minkä oli tehnyt)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minkä"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "oli tehnyt"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvää"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hyvin"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tuli"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ilta"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "aamu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivä"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "kuudes"
+    }
+  ],
+  "timestamp": "2026-09-06T21:05:00.535933121Z",
+  "model": "glm-5.3"
+}

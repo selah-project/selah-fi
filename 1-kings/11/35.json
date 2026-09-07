@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 11:35",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja minä otan kuninkuuden hänen poikansa kädestä ja annan sen sinulle: ⟨את⟩ ne kymmenen heimoa.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "Ja minä otan"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "kuninkuuden"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kädestä"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "ja annan sen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne kymmenen heimoa"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "kymmenen"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "heimoa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:40:07.967805448Z",
+  "model": "glm-5.3"
+}

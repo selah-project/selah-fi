@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ja Moshe käski ⟨את⟩ kansan sinä päivänä sanoen:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Ja käski"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    }
+  ],
+  "timestamp": "2026-09-06T22:33:49.223045789Z",
+  "model": "glm-5.3"
+}

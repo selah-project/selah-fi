@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 27:5",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Minä olen tehnyt ⟨את⟩ maan, ⟨את⟩ ihmisen ja ⟨את⟩ karjaeläimet, jotka ovat maan pinnalla, voimallani suurella ja käsivarrellani ojennetulla, ja minä annan sen sille, joka on oikea silmissäni.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Minä"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "olen tehnyt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihmisen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihmisen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "karjaeläimet"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "karjaeläimet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pinnalla"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "בכחי",
+      "gloss": "voimallani"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "suurella"
+    },
+    {
+      "surface": "ובזרועי",
+      "gloss": "ja käsivarrellani"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "ojennetulla"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "ja annan sen"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "sille, joka"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "on oikea"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "silmissäni"
+    }
+  ],
+  "timestamp": "2026-09-07T00:36:47.315519911Z",
+  "model": "glm-5.3"
+}

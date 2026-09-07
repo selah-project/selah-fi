@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 63,
+  "translation": "Niin minä siunaan sinua elämässäni, sinun nimessäsi minä kohotan käteni.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Niin"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "minä siunaan sinua"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "elämässäni"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "sinun nimessäsi"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "minä kohotan"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "käteni"
+    }
+  ],
+  "timestamp": "2026-09-07T02:17:40.974875382Z",
+  "model": "glm-5.3"
+}

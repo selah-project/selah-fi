@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 40:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Uhria ja ruokalahjaa et halunnut; korvat kaivoit minulle; polttouhria ja syntiuhria et pyytänyt.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Uhria"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "ja ruokalahjaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "et"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "halunnut"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "korvat"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "kaivoit"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "polttouhria"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "ja syntiuhria"
+    },
+    {
+      "surface": "לא",
+      "gloss": "et"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "pyytänyt"
+    }
+  ],
+  "timestamp": "2026-09-07T02:08:48.211922880Z",
+  "model": "glm-5.3"
+}

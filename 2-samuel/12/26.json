@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja Joav taisteli Rabbassa, ammonilaisten ⟨lasta⟩, ja hän valtasi ⟨את⟩ kuninkaankaupungin.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "Ja Joav taisteli"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "Rabbassa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨lasta⟩"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ammonilaisten"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ja hän valtasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuninkaankaupungin"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "kuninkaan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:20:56.960670476Z",
+  "model": "glm-5.3"
+}

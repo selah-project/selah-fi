@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 45:11",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 45,
+  "translation": "Ja minä elätän ⟨את⟩ sinut siellä, sillä vielä on viisi vuotta nälänhätää, ettet sinä ja talosi ja kaikki, mikä sinulla on, köyhtyisi.",
+  "tokens": [
+    {
+      "surface": "וכלכלתי",
+      "gloss": "elätän"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "sinut"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vielä"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "viisi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "nälänhätää"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ettet"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "köyhtyisi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "ja talosi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mikä"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulla on"
+    }
+  ],
+  "timestamp": "2026-09-06T21:26:16.072132953Z",
+  "model": "glm-5.3"
+}

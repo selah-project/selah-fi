@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Jahve, voimassasi iloitsee kuningas, ja sinun pelastuksessasi — kuinka suuresti hän riemuitsee!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "voimassasi"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "iloitsee"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "ja sinun pelastuksessasi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kuinka"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "riemuitsee"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "suuresti"
+    }
+  ],
+  "timestamp": "2026-09-07T01:58:34.609914916Z",
+  "model": "glm-5.3"
+}

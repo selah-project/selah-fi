@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 6:14",
+  "book": "micah",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Sinä syöt, mutta et kyllästy, ja sysäyksesi ⟨on⟩ sisimmässäsi; ja sinä karkoitat, mutta et pelasta, ja minkä pelastat, sen minä annan miekalle.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "syöt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mutta et"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "kyllästy"
+    },
+    {
+      "surface": "וישחך",
+      "gloss": "ja sysäyksesi"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "sisimmässäsi"
+    },
+    {
+      "surface": "ותסג",
+      "gloss": "ja karkoitat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mutta et"
+    },
+    {
+      "surface": "תפליט",
+      "gloss": "pelasta"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ja minkä"
+    },
+    {
+      "surface": "תפלט",
+      "gloss": "pelastat"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "miekalle"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "annan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:37:21.272099392Z",
+  "model": "glm-5.3"
+}

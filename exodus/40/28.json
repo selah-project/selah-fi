@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ja hän asetti ⟨את⟩ sisäänkäynnin verhon Mishkaniin (pyhäkköön).",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "asetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "verhon"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "verhon"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "sisäänkäynnin"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Mishkaniin (pyhäkköön)"
+    }
+  ],
+  "timestamp": "2026-09-06T21:47:05.554543449Z",
+  "model": "glm-5.3"
+}

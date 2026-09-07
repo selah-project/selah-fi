@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja sinä voitetat sillä ⟨את⟩ kokousmajan ja ⟨את⟩ todistuksen arkin.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "ja sinä voitetat"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kokousmajan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "majan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kokous"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "todistuksen arkin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkin"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "todistuksen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:41:18.458389682Z",
+  "model": "glm-5.3"
+}

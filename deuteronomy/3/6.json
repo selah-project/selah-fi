@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 3:6",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja me tuhosimme ⟨את⟩ heidät täysin herem-tuholla, kuten teimme Sihonille, Heshbonin kuninkaalle — tuhosimme jokaisesta kaupungista miehet, naiset ja pienet lapset.",
+  "tokens": [
+    {
+      "surface": "ונחרם",
+      "gloss": "Ja me tuhosimme täysin"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ heidät",
+      "marks": "heidät"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kuten"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "teimme"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "Sihonille"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaalle"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Heshbonin"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "tuhosimme herem-tuholla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokaisesta"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kaupungista"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "naiset"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "ja pienet lapset"
+    }
+  ],
+  "timestamp": "2026-09-06T22:23:03.963869826Z",
+  "model": "glm-5.3"
+}

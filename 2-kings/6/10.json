@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 6:10",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja Israelin kuningas lähetti paikkaan, josta Elohimin mies oli hänelle puhunut, ja ⟨he⟩ varoittivat ⟨häntä⟩, ja hän varjeli itseään siellä — ei kerran eikä kahteen kertaan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ja lähetti"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "המקום",
+      "gloss": "paikkaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "josta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oli puhunut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "והזהירה",
+      "gloss": "ja varoittivat"
+    },
+    {
+      "surface": "ונשמר",
+      "gloss": "ja hän varjeli"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kerran"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eka"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "kahteen kertaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:49:26.624653416Z",
+  "model": "glm-5.3"
+}

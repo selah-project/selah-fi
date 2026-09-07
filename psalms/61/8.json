@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 61:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 61,
+  "translation": "Istuutukoon hän iäksi Elohimin kasvojen edessä; hesed (sitkeä laupeus) ja totuus määrätköön ne varjelemaan häntä.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "istuutukoon"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iäksi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kasvojen edessä"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ja totuus"
+    },
+    {
+      "surface": "מן",
+      "gloss": "määrätköön"
+    },
+    {
+      "surface": "ינצרהו",
+      "gloss": "varjelemaan häntä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:16:56.801961370Z",
+  "model": "glm-5.3"
+}

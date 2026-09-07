@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 55:10",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 55,
+  "translation": "Sillä niinkuin sade ja lumi laskeutuvat taivaasta, eivätkä palaa sinne, paitsi kun ne ovat kastelleet ⟨את⟩ maan ja saattaneet sen itämään ja kasvamaan, ja antaneet siementä kylväjälle ja leipää syöjälle,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niinkuin"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "laskeutuvat"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "sade"
+    },
+    {
+      "surface": "והשלג",
+      "gloss": "ja lumi"
+    },
+    {
+      "surface": "מן",
+      "gloss": ""
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaasta"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "eivätkä palaa sinne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "palaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אם",
+      "gloss": "paitsi kun"
+    },
+    {
+      "surface": "הרוה",
+      "gloss": "ovat kastelleet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "והולידה",
+      "gloss": "ja saattaneet sen itämään"
+    },
+    {
+      "surface": "והצמיחה",
+      "gloss": "ja kasvamaan"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ja antaneet"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "siementä"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "kylväjälle"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "ja leipää"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "syöjälle"
+    }
+  ],
+  "timestamp": "2026-09-07T00:19:11.997017268Z",
+  "model": "glm-5.3"
+}

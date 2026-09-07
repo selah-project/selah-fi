@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 18:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Savu nousi hänen sieraimistaan, ja tuli hänen suustaan söi; hiilet liekittyivät siitä.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "nousi"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "savu"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "hänen sieraimistaan"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "hänen suustaan"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "söi"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "hiilet"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "liekittyivät"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "siitä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:57:46.897103587Z",
+  "model": "glm-5.3"
+}

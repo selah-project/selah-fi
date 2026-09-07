@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 1:2",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Puhu Israelin pojille ja sano heille: kun joku teistä tuo korbanin (uhrin) Jahvelle — eläimistä, nautakarjasta tai pienkarjasta — tuokaa ⟨את⟩ korbaninne.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Puhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…lle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ja sanot"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihminen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "tuo"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "teistä"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "korbanin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…sta"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "eläimistä"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…sta"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "nautakarjasta"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ja …sta"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "pienkarjasta"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "tuokaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korbaninne"
+    },
+    {
+      "surface": "קרבנכם",
+      "gloss": "korbaninne"
+    }
+  ],
+  "timestamp": "2026-09-06T21:48:17.043795945Z",
+  "model": "glm-5.3"
+}

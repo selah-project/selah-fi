@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja Avraham (Aabraham) sanoi hänelle: Varo itseäsi, ettet vietäpoikaani ⟨את⟩ sinne takaisin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "Varo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "itseäsi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ettet"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "vietä takaisin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poikaani"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikaani"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sinne"
+    }
+  ],
+  "timestamp": "2026-09-06T21:13:46.544927649Z",
+  "model": "glm-5.3"
+}

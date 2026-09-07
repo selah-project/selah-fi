@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja ⟨את⟩ Aharonin (Aaron) ja ⟨את⟩ hänen poikansa sinä tuot kokouksen teltan sisäänkäynnin eteen, ja peset ⟨את⟩ heidät vedellä.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Aharonin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen poikansa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "sinä tuot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sisäänkäynnin"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kokouksen"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "ja peset"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ heidät",
+      "marks": "heidät"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vedellä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:42:01.959079870Z",
+  "model": "glm-5.3"
+}

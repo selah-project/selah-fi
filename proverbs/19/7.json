@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 19:7",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Kaikki köyhän veljet vihaavat häntä, vieläpä enemmän: hänen ystävänsä kulkevat kauas hänestä; hän ajaa sanoja takaa — mutta niitä ei ⟨ole⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kaikki"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "veljet"
+    },
+    {
+      "surface": "רש",
+      "gloss": "köyhän"
+    },
+    {
+      "surface": "שנאהו",
+      "gloss": "vihaavat häntä"
+    },
+    {
+      "surface": "אף",
+      "gloss": "vieläpa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "enemmän"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "hänen ystävänsä"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "kulkevat kauas"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "hänestä"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "ajaa takaa"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "sanoja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨ole⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T03:12:00.763223685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 2:19",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja pienen viitan teki hänelle hänen äitinsä ja toi sen hänelle vuodesta vuoteen, kun hän nousi ⟨את⟩ miehensä kanssa uhraamaan ⟨את⟩ vuotisen uhrin.",
+  "tokens": [
+    {
+      "surface": "ומעיל",
+      "gloss": "Ja viitta"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "pienen"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "teki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "hänen äitinsä"
+    },
+    {
+      "surface": "והעלתה",
+      "gloss": "ja toi ylös"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "vuodesta"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "vuoteen"
+    },
+    {
+      "surface": "בעלותה",
+      "gloss": "kun hän nousi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miehensä"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "miehensä"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "uhraamaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vuotisen uhrin"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "uhraus"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "vuotinen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:04:36.766289605Z",
+  "model": "glm-5.3"
+}

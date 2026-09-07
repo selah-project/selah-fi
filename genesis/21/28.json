@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja Avraham asetti ⟨את⟩ seitsemän lammasuuherta karjalaumasta erilleen.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "Ja asetti"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seitsemän lammasuuherta"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seitsemän"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "lammasuuherta"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "karjalaumasta"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "erilleen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:12:14.618128460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Samuel palveli ⟨את⟩ Jahven kasvojen edessä, nuori, vyötetty pellavaisella efodilla.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Ja Samuel"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "palveli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven kasvojen edessä"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kasvojen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "נער",
+      "gloss": "nuori"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "vyötetty"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "בד",
+      "gloss": "pellavainen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:04:36.764716999Z",
+  "model": "glm-5.3"
+}

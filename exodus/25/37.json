@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja tee ⟨את⟩ sen lamput, seitsemän, ja nosta ⟨את⟩ sen lamput ylös, niin että ne valaisevat sen etupuolta.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ja tee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen lamput"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "sen lamput"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "seitsemän"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "ja nosta ylös"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen lamput"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "sen lamput"
+    },
+    {
+      "surface": "והאיר",
+      "gloss": "ja valaisevat"
+    },
+    {
+      "surface": "על",
+      "gloss": "yllä"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "toisella puolella"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "sen etupuolta"
+    }
+  ],
+  "timestamp": "2026-09-06T21:39:06.415391095Z",
+  "model": "glm-5.3"
+}

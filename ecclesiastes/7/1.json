@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Parempi on hyvä nimi kuin hyvä voide, ja kuolinpäivä kuin päivä jona hän syntyi.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Parempi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimi"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "kuin voide"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvä"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "ja päivä"
+    },
+    {
+      "surface": "המות",
+      "gloss": "kuoleman"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "kuin päivä"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "hänen syntymänsä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:38:52.620610498Z",
+  "model": "glm-5.3"
+}

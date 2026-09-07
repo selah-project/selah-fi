@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja hän lähetti Natanin (Natan) profeetan kautta, ja hän kutsui ⟨את⟩ hänen nimensä Jedidja (Jedidja), Jahven tähden.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ja hän lähetti"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kautta"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natanin"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profeetan"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ja hän kutsui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen nimensä"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hänen nimensä"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "Jedidja"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-07T04:20:56.960197752Z",
+  "model": "glm-5.3"
+}

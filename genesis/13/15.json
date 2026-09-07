@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Sillä ⟨את⟩ koko maan, jonka sinä näet, sinulle minä annan sen, ja sinun siemenellesi, iankaikkisesti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko maan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "näet"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "minä annan sen"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "ja sinun siemenellesi"
+    },
+    {
+      "surface": "עד",
+      "gloss": ""
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iankaikkisesti"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:36.741245511Z",
+  "model": "glm-5.3"
+}

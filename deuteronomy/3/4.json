@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 3:4",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja me valtasimme ⟨את⟩ kaikki hänen kaupunkinsa siihen aikaan; ei ollut kaupunkia, jota me emme ⟨את⟩ heiltä ottaneet — kuusikymmentä kaupunkia, koko Argobin alue, Ogin kuningaskunta Bashanissa.",
+  "tokens": [
+    {
+      "surface": "ונלכד",
+      "gloss": "Ja me valtasimme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki hänen kaupunkinsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "hänen kaupunkinsa"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "siihen aikaan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "silloin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "kaupunkia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jota"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emme"
+    },
+    {
+      "surface": "לקחנו",
+      "gloss": "ottaneet"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ heiltä"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "kuusikymmentä"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kaupunkia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "alue"
+    },
+    {
+      "surface": "ארגב",
+      "gloss": "Argobin"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "kuningaskunta"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Ogin"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "Bashanissa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:24:23.292596088Z",
+  "model": "glm-5.3"
+}

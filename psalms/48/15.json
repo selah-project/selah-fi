@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 48,
+  "translation": "Sillä tämä ⟨on⟩ Elohim, Elohimimme, iankaikkisesti ja aina; hän johdattaa meitä kuolemaan asti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimme"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ja aina"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "johdattaa meitä"
+    },
+    {
+      "surface": "על",
+      "gloss": "asti"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kuolemaan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:32:53.504630382Z",
+  "model": "glm-5.3"
+}

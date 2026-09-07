@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja hän näki, että hän vahvistautui kulkemaan ⟨את⟩ hänen kanssanaan, ja hän lakkasi puhumasta hänelle.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "ja hän näki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "vahvistautui"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kulkemaan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ hänen kanssanaan",
+      "marks": "hänen kanssanaan"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "ja hän lakkasi"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "puhumasta"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "hänelle"
+    }
+  ],
+  "timestamp": "2026-09-07T04:00:13.680237665Z",
+  "model": "glm-5.3"
+}

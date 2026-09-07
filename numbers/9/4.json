@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja Moshe puhui Israelin pojille pesachin tekemisestä.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ja puhui"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pojille"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojille"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "tekemisestä"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesachin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:07:21.787738351Z",
+  "model": "glm-5.3"
+}

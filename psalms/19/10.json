@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Jahven pelko ⟨on⟩ puhdas, se pysyy ikuisesti; Jahven oikeudet ⟨ovat⟩ totuus, kaikki yhteensä vanhurskaita.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "pelko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "puhdas"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "pysyy"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ikuisesti"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "oikeudet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "totuus"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "vanhurskaita"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "yhteensä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:56:53.083806231Z",
+  "model": "glm-5.3"
+}

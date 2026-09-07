@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 57,
+  "translation": "Minä huudan Elohim Elyonia, Elia, joka minun puolestani saattaa ⟨sen⟩ päätökseen.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "Minä huudan"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimia"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eljon"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "joka saattaa päätökseen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "minun puolestani"
+    }
+  ],
+  "timestamp": "2026-09-07T02:14:04.391642986Z",
+  "model": "glm-5.3"
+}

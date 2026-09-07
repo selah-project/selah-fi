@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 22:18",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja Israelin kuningas sanoi Jehoshafatille: Eikö minä sanonut sinulle, ettei hän profetoi minusta hyvää vaan pahaa?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoshafatille"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Eikö"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sanonut"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יתנבא",
+      "gloss": "profetoi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "minusta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvää"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vaan"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "רע",
+      "gloss": "pahaa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:46:51.108416464Z",
+  "model": "glm-5.3"
+}

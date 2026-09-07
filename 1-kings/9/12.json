@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 9:12",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja Hiram lähti Tsorista nähdäkseen ⟨את⟩ kaupungit, jotka Shelomo oli antanut hänelle; eivätkä ne olleet oikeita hänen silmissään.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Ja lähti"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "Tsorista"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "nähdäkseen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaupungit"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "kaupungit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "antoi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "olleet oikeita"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "hänen silmissään"
+    }
+  ],
+  "timestamp": "2026-09-07T04:24:30.277349381Z",
+  "model": "glm-5.3"
+}

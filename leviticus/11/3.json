@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Kaikki, mikä eläimissä jakaa sorkan ja on sorkainsa halki halkaissut halkionsa ja nostaa ylös märehdynnettä — ⟨את⟩ sitä te saatte syödä.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kaikki"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "jakaa"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "sorkan"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "ja halkaissut"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "halkionsa"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "sorkainsa"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "nostaa ylös"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "märehdynnettä"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "eläimissä"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sitä"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "te saatte syödä"
+    }
+  ],
+  "timestamp": "2026-09-07T06:33:48.545030636Z",
+  "model": "glm-5.3"
+}

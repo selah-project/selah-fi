@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja hän pani ⟨את⟩ hänen ruumiinsa hautaansa, ja he valittivat häntä: ”Voi, veljeni!”",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "ja hän pani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen ruumiinsa"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "hänen ruumiinsa"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "hautaansa"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "ja he valittivat"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "häntä"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Voi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "veljeni"
+    }
+  ],
+  "timestamp": "2026-09-06T23:40:49.600810011Z",
+  "model": "glm-5.3"
+}

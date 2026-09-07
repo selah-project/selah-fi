@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Kunnioita Jahvea ⟨את⟩ varastasi ensimmäisistä ja kaikesta sadostasi.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Kunnioita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "varastasi"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "ensimmäisistä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikesta"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "sadostasi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:59:15.375715850Z",
+  "model": "glm-5.3"
+}

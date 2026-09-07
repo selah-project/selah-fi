@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 10:21",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja myös Shemille syntyi ⟨lapsia⟩ — hän ⟨on⟩ kaikkien Eberin poikien isä, Jefetin veli, se vanhempi.",
+  "tokens": [
+    {
+      "surface": "ולשם",
+      "gloss": "Shemille"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "syntyi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "isä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkien"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikien"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eberin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "veli"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Jefetin"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "vanhempi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:12.565025142Z",
+  "model": "glm-5.3"
+}

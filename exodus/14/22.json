@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 14:22",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja Israelin pojat menivät meren keskelle kuivaa maata ⟨pitkin⟩, ja vedet ⟨olivat⟩ heille muurina heidän oikealla puolellaan ja vasemmalla puolellaan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ja menivät"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keskelle"
+    },
+    {
+      "surface": "הים",
+      "gloss": "meren"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "kuivaa maata pitkin"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "ja vedet"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "muurina"
+    },
+    {
+      "surface": "מימינם",
+      "gloss": "heidän oikealla puolellaan"
+    },
+    {
+      "surface": "ומשמאלם",
+      "gloss": "ja vasemmalla puolellaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:33:10.415209083Z",
+  "model": "glm-5.3"
+}

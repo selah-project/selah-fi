@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 40:31",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Mutta Jahvea odottavat saavat uuden voiman: he kohoavat siivin kuin kotkat, he juoksevat eivätkä väsy, he kulkevat eivätkä uupu.",
+  "tokens": [
+    {
+      "surface": "וקוי",
+      "gloss": "mutta odottavat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "יחליפו",
+      "gloss": "saavat uuden"
+    },
+    {
+      "surface": "כח",
+      "gloss": "voiman"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "he kohoavat"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "siivin"
+    },
+    {
+      "surface": "כנשרים",
+      "gloss": "kuin kotkat"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "he juoksevat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "ייגעו",
+      "gloss": "väsy"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "he kulkevat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "ייעפו",
+      "gloss": "uupu"
+    }
+  ],
+  "timestamp": "2026-09-07T00:14:42.547352301Z",
+  "model": "glm-5.3"
+}

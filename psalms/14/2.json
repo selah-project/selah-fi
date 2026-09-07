@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Jahve taivaasta katsoi alas ihmislapsien päälle nähdäkseen, onko ymmärtävää, etsivää ⟨את⟩ Elohimia.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "taivaasta"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "katsoi alas"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lapsien"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmis"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "nähdäkseen"
+    },
+    {
+      "surface": "היש",
+      "gloss": "onko"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ymmärtävää"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "etsivää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimia"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimia"
+    }
+  ],
+  "timestamp": "2026-09-07T01:55:40.605555851Z",
+  "model": "glm-5.3"
+}

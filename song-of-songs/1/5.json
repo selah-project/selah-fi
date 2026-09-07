@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 1:5",
+  "book": "song-of-songs",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Musta minä olen ja kaunis, Jerushalajimin tyttäret, kuin Kedarin teltat, kuin Shelomon verhot.",
+  "tokens": [
+    {
+      "surface": "שחורה",
+      "gloss": "Musta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä olen"
+    },
+    {
+      "surface": "ונאוה",
+      "gloss": "ja kaunis"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "tyttäret"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimin"
+    },
+    {
+      "surface": "כאהלי",
+      "gloss": "kuin teltat"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedarin"
+    },
+    {
+      "surface": "כיריעות",
+      "gloss": "kuin verhot"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomon"
+    }
+  ],
+  "timestamp": "2026-09-07T04:36:33.800417706Z",
+  "model": "glm-5.3"
+}

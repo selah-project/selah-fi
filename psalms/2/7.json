@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Kerron säädöksestä: Jahve on sanonut minulle: ”Sinä olet poikani, tänä päivänä minä olen synnyttänyt sinut.”",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Kerron"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "חק",
+      "gloss": "säädöksestä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "on sanonut"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikani"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tänä päivänä"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "olen synnyttänyt sinut"
+    }
+  ],
+  "timestamp": "2026-09-07T01:52:21.318071285Z",
+  "model": "glm-5.3"
+}

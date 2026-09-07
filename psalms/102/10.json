@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 102,
+  "translation": "Sillä tuhkaa kuin leipää minä söin, ja juomani itkulla minä sekoitin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "tuhkaa"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "kuin leipää"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "minä söin"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "ja juomani"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "itkulla"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "minä sekoitin"
+    }
+  ],
+  "timestamp": "2026-09-07T02:35:11.103864451Z",
+  "model": "glm-5.3"
+}

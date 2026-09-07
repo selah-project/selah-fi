@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 3:5",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja Aharonin (Aaronin) pojat savustavat ⟨את⟩ ⟨אתו⟩ alttarilla polttouhrien päällä, jotka ovat puiden päällä, jotka ovat tulen päällä — tuliuhri, tuoksu, lepo Jahvelle.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "ja savustavat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "marks": "sen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonin"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "alttarilla"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "polttouhrien"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ovat puiden päällä"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "puiden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ovat tulen päällä"
+    },
+    {
+      "surface": "האש",
+      "gloss": "tulen"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tuliuhri"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "tuoksu"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "lepo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    }
+  ],
+  "timestamp": "2026-09-07T07:21:08.724575071Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 51,
+  "translation": "Pese minut perinpohjin pahoistani, ja syntini puhdista minut.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "perinpohjin"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "pese minut"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "pahoistani"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "ja syntini"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "puhdista minut"
+    }
+  ],
+  "timestamp": "2026-09-07T02:14:36.774957790Z",
+  "model": "glm-5.3"
+}

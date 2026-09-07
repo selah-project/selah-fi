@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 6:1",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Tulkaa, ja palatkaamme Jahven luo, sillä hän repi ja hän parantaa meidät; hän löi ja hän sitoo meidät umpeen.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Tulkaa"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "ja palatkaamme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "repi"
+    },
+    {
+      "surface": "וירפאנו",
+      "gloss": "ja parantaa meidät"
+    },
+    {
+      "surface": "יך",
+      "gloss": "löi"
+    },
+    {
+      "surface": "ויחבשנו",
+      "gloss": "ja sitoo meidät umpeen"
+    }
+  ],
+  "timestamp": "2026-09-07T04:30:26.766851118Z",
+  "model": "glm-5.3"
+}

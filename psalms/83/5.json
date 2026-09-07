@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 83,
+  "translation": "He sanoivat: ”Tulkaa, hävitetkäämme heidät kansana, älköön Israelin nimi enää muistettako.”",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "He sanoivat"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Tulkaa"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "hävitetkäämme heidät"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "kansana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "älköön"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "muistettako"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enää"
+    }
+  ],
+  "timestamp": "2026-09-07T04:33:05.515268520Z",
+  "model": "glm-5.3"
+}

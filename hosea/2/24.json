@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja maa vastaa ⟨את⟩ viljalle ja ⟨את⟩ viinille ja ⟨את⟩ öljylle, ja ne vastaavat ⟨את⟩ Jizreelin (Jisreelin).",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "ja maa"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "vastaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viljalle"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "viljalle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "viinille"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "viinille"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "öljylle"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "öljylle"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ja ne"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "vastaavat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jizreelin"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreelin (Jisreelin)"
+    }
+  ],
+  "timestamp": "2026-09-07T01:20:24.149233950Z",
+  "model": "glm-5.3"
+}

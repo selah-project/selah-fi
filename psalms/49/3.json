@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 49,
+  "translation": "Sekä ihmislapset että miehen pojat, yhdessä rikas ja köyhä.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Sekä"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lapset"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmis-"
+    },
+    {
+      "surface": "גם",
+      "gloss": "että"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "yhdessä"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "rikas"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ja köyhä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:11:23.881704636Z",
+  "model": "glm-5.3"
+}

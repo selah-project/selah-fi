@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Viisaan suun sanat ⟨ovat⟩ armollisia, ja tyhmän huulet nielevät hänet.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "פי",
+      "gloss": "suun"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "viisaan"
+    },
+    {
+      "surface": "חן",
+      "gloss": "armollisia"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "ja huulet"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "tyhmän"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "nielevät hänet"
+    }
+  ],
+  "timestamp": "2026-09-07T04:37:51.749307238Z",
+  "model": "glm-5.3"
+}

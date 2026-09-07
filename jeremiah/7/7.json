@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 7:7",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "niin minä annan ⟨את⟩ teidät asua tässä paikassa, maassa, jonka annoin teidän isillenne, iankaikkisuudesta ja hamaan iankaikkisuuteen.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "annan asua"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "tässä paikassa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "annoin"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "teidän isillenne"
+    },
+    {
+      "surface": "למן",
+      "gloss": "…stä"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iankaikkisuudesta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ja hamaan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iankaikkisuuteen"
+    }
+  ],
+  "timestamp": "2026-09-07T00:25:42.926084320Z",
+  "model": "glm-5.3"
+}

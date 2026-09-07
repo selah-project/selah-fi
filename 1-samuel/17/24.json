@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 17:24",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja jokainen Israelin mies, kun he näkivät ⟨את⟩ miehen, pakenivat hänen edestään ja pelkäsivät kovin.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ja jokainen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "בראותם",
+      "gloss": "kun he näkivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miehen"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "pakenivat"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "hänen edestään"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ja pelkäsivät"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kovin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:10:53.462701717Z",
+  "model": "glm-5.3"
+}

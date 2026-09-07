@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 33:16",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Ja hän kunnosti ⟨את⟩ Jahven alttarin ja uhrasi sen päällä rauhanuhreja ja kiitosuhreja, ja hän käski Jehudan palvella ⟨את⟩ Jahvea, Israelin Elohimia.",
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "Ja hän kunnosti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven alttarin"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "ja uhrasi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sen päällä"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "uhreja"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "rauhan-"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "ja kiitosuhreja"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän käski"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "לעבוד",
+      "gloss": "palvella"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:52:50.031184597Z",
+  "model": "glm-5.3"
+}

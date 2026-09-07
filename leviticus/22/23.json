@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja härän tai lampaan, ylipitkän tai jääneen lyhyeksi, vapaaehtoislahjana saat tehdä ⟨את⟩ sen, mutta lupaukseksi ei kelpaa.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "Ja härän"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "tai lampaan"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "ylipitkän"
+    },
+    {
+      "surface": "וקלוט",
+      "gloss": "tai jääneen lyhyeksi"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "vapaaehtoislahjana"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "saat tehdä"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sen (ylipitkän tai lyhyeksi jääneen eläimen)"
+    },
+    {
+      "surface": "ולנדר",
+      "gloss": "lupaukseksi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "kelpaa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:57:40.244805383Z",
+  "model": "glm-5.3"
+}

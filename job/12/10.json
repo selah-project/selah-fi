@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Jonka kädessä ⟨on⟩ kaiken elävän Nefesh ja kaiken ihmisen lihan henki.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Jonka"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "kädessään"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Nefesh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "חי",
+      "gloss": "elävän"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ja henki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "lihan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ihmisen"
+    }
+  ],
+  "timestamp": "2026-09-07T03:28:42.108587118Z",
+  "model": "glm-5.3"
+}

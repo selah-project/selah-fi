@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ja sinä asetat ⟨את⟩ pesu altaan kokousteltan ja alttarin välille, ja sinä pannoitat siihen vettä.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ja sinä asetat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesu altaan"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "altaan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "välille"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kokouksen"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja välille"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ja sinä asetat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sinne"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vettä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:46:47.402522780Z",
+  "model": "glm-5.3"
+}

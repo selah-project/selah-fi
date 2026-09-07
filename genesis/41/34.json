@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 41:34",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 41,
+  "translation": "Tehköön Paro näin ja asettakoon valvojia maan ylle, ja viidesosittakoon ⟨את⟩ Mitsrajimin maan seitsemänä runsauden vuotena.",
+  "tokens": [
+    {
+      "surface": "יעשה",
+      "gloss": "Tehköön"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "ja asettakoon"
+    },
+    {
+      "surface": "פקדים",
+      "gloss": "valvojia"
+    },
+    {
+      "surface": "על",
+      "gloss": "ylle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ja viidesosittakoon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajimin maan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "seitsemänä"
+    },
+    {
+      "surface": "שני",
+      "gloss": "vuotena"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "runsauden"
+    }
+  ],
+  "timestamp": "2026-09-06T21:24:04.288249606Z",
+  "model": "glm-5.3"
+}

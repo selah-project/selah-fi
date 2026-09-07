@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja kohenin tytär — jos hän profanoi itsensä haureudella, ⟨את⟩ isäänsä hän profanoi; tulessa hänet poltettakoon.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Ja tytär"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohenin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jos"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "profanoi itsensä"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "haureudella"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isäänsä"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "isäänsä"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "profanoi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulessa"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "poltettakoon"
+    }
+  ],
+  "timestamp": "2026-09-06T21:57:41.298547705Z",
+  "model": "glm-5.3"
+}

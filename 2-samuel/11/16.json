@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja tapahtui, kun Joav piiritti kaupunkia, että hän asetti ⟨את⟩ Urijan paikkaan, jonka hän tiesi väkeviä miehiä olevan siellä.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja tapahtui"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "kun hän piiritti"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…kaupunkia"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupunkia"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "että hän asetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urijan"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urijan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…paikkaan"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "paikkaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "hän tiesi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "miehiä"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "väkeviä"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:24:43.121695754Z",
+  "model": "glm-5.3"
+}

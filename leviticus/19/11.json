@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 19:11",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Älkää varastoko, älkää kieltäkö, älkää valehtelko toinen toisellenne.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תגנבו",
+      "gloss": "varastoko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תכחשו",
+      "gloss": "kieltäkö"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תשקרו",
+      "gloss": "valehtelko"
+    },
+    {
+      "surface": "איש",
+      "gloss": "toinen"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "toiselleen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:55:35.563337167Z",
+  "model": "glm-5.3"
+}

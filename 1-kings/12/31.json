@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 12:31",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja hän teki ⟨את⟩ uhrikumpujen temppelin ja teki pappeja kansan reunoilta, jotka eivät olleet Levin pojista.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ja hän teki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uhrikumpujen temppelin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "temppelin"
+    },
+    {
+      "surface": "במות",
+      "gloss": "uhrikumpujen"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ja teki"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "pappeja"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "reunoilta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "היו",
+      "gloss": "olleet"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "pojista"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:40:23.593691016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 11:25",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja jokainen, joka kantaa niiden raatoa, pesköön vaatteensa ja olkoon epäpuhdas iltaan asti.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ja jokainen"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "joka kantaa"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "niiden raatoa"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "pesköön"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "vaatteensa"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ja olkoon epäpuhdas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "iltaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:51:29.243016232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja Samuel puhui ⟨את⟩ kaikki Jahven sanat kansalle, joka pyysi häneltä ⟨את⟩ kuningasta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja puhui"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-lle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansalle"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "joka pyysi"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "häneltä ⟨את⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkasta"
+    }
+  ],
+  "timestamp": "2026-09-06T23:06:15.149783125Z",
+  "model": "glm-5.3"
+}

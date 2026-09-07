@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 22:26",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja me sanoimme: tehkäämme nyt meille rakentaaksemme ⟨את⟩ alttarin, ei polttouhriksi eikä uhriksi.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "Ja me sanoimme"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "tehkäämme"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meille"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "rakentaaksemme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alttarin"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "לעולה",
+      "gloss": "polttouhriksi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "uhriksi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:49:08.965531117Z",
+  "model": "glm-5.3"
+}

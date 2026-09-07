@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 15:9",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Mitä sinä tiedät, ettemme me tiedä? Mitä sinä ymmärrät, mitä ei ole meidän kanssamme?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Mitä"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "sinä tiedät"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ette"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "me tiedä"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "sinä ymmärrät"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "meidän kanssamme"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-09-07T04:35:45.828128666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja David otti ⟨את⟩ filistealaisen pään ja toi sen Jerushalajimiin (Jerusalem), ja ⟨את⟩ hänen varusteensa hän panoi telttaansa.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "otti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistealaisen pään"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pään"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filistealaisen"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "toi sen"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimiin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen varusteensa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "hänen varusteensa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "panoi"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "telttaansa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:12:17.126131497Z",
+  "model": "glm-5.3"
+}

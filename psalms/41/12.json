@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 41,
+  "translation": "Tästä minä tiedän, että sinä mielistyt minuun: että viholliseni ei riemuitse minun ylitseni.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "tästä"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "minä tiedän"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "mielistyt"
+    },
+    {
+      "surface": "בי",
+      "gloss": "minuun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "riemuitse"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "viholliseni"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "minun ylitseni"
+    }
+  ],
+  "timestamp": "2026-09-07T02:07:05.592979891Z",
+  "model": "glm-5.3"
+}

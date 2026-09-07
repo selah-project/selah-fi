@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ja Josef (Joosef) tuli heidän luokseen aamulla ja näki ⟨את⟩ heidät, ja katso, he olivat pahantuulisia.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ja tuli"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "heidän luokseen"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamulla"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ja näki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ heidät",
+      "marks": "he olivat pahantuulisia"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "pahantuulisia"
+    }
+  ],
+  "timestamp": "2026-09-06T21:22:14.165087153Z",
+  "model": "glm-5.3"
+}

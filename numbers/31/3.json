@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 31:3",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Ja Moshe puhui kansalle sanoen: ”Varustakaa keskuudestanne ⟨את⟩ ⟨מאתכם⟩ miehiä sotaväkeen, ja olkoot he Midiania vastaan tuomaan Jahven koston Midianille.”",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ja puhui"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-lle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansalle"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "החלצו",
+      "gloss": "varustakaa"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩ ⟨מאתכם⟩",
+      "marks": "keskuudestanne"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "miehiä"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "sotaväkeen"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ja olkoot"
+    },
+    {
+      "surface": "על",
+      "gloss": "vastaan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiania"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "tuomaan"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "koston"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "Midianille"
+    }
+  ],
+  "timestamp": "2026-09-07T07:21:08.753834366Z",
+  "model": "glm-5.3"
+}

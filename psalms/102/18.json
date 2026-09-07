@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 102,
+  "translation": "Hän kääntyi hylättyjen rukouksen puoleen eikä halveksinut ⟨את⟩ heidän rukoustaan.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Hän kääntyi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "puoleen"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "rukouksen"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "hylättyjen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "halveksinut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän rukoustaan"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "heidän rukoustaan"
+    }
+  ],
+  "timestamp": "2026-09-07T02:35:58.808527285Z",
+  "model": "glm-5.3"
+}

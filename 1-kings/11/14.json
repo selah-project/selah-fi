@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja herätti Jahve vastustajan Shelomolle (Salomo): ⟨את⟩ Hadadin (Hadad) edomilaisen — kuninkaan siemenestä ⟨on⟩ hän — Edomissa.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ja herätti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "vastustajan"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Shelomolle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadin edomilaisen"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadadin"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "edomilaisen"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "siemenestä"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Edomissa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:39:29.242209101Z",
+  "model": "glm-5.3"
+}

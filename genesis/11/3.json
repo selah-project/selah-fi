@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 11:3",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja he sanoivat kukin lähimmäiselleen: Tulkaa, tehkäämme tiiliä ja polttakaamme ne poltetuiksi. Ja tiilestä tuli heille kivi, ja bitumi oli heille laastiksi.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ja he sanoivat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kukin"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "lähimmäiselleen"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "Tulkaa"
+    },
+    {
+      "surface": "נלבנה",
+      "gloss": "tehkäämme tiiliä"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "tiiliä"
+    },
+    {
+      "surface": "ונשרפה",
+      "gloss": "ja polttakaamme"
+    },
+    {
+      "surface": "לשרפה",
+      "gloss": "poltetuiksi"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ja siitä tuli"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heidän"
+    },
+    {
+      "surface": "הלבנה",
+      "gloss": "tiili"
+    },
+    {
+      "surface": "לאבן",
+      "gloss": "kiveksi"
+    },
+    {
+      "surface": "והחמר",
+      "gloss": "ja bitumi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heidän"
+    },
+    {
+      "surface": "לחמר",
+      "gloss": "laastiksi"
+    }
+  ],
+  "timestamp": "2026-09-07T06:33:45.426726035Z",
+  "model": "glm-5.3"
+}

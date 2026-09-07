@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Sillä sinä edeltäät häntä hyvillä siunauksilla, sinä panet hänen päähänsä kruunun puhtaasta kullasta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "sinä edeltäät häntä"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "siunauksilla"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvillä"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "sinä panet"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "hänen päähänsä"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "kruunun"
+    },
+    {
+      "surface": "פז",
+      "gloss": "puhtaasta kullasta"
+    }
+  ],
+  "timestamp": "2026-09-07T01:58:34.610792333Z",
+  "model": "glm-5.3"
+}

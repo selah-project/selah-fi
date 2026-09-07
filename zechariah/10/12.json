@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 10:12",
+  "book": "zechariah",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja minä vahvistan heidät Jahvessa, ja hänen nimessään he vaeltavat, sanoo Jahve.",
+  "tokens": [
+    {
+      "surface": "וגברתים",
+      "gloss": "ja minä vahvistan heidät"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvessa"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "ja hänen nimessään"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "he vaeltavat"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-07T01:47:17.839605323Z",
+  "model": "glm-5.3"
+}

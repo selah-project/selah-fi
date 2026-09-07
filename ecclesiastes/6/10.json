@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 6:10",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Mikä ⟨on⟩ oleva — sen nimi on jo kauan kutsuttu, ja se on tiedossa, mitä ihminen on; eikä hän voi riidellä sen kanssa, joka on häntä väkevämpi.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Mikä"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "⟨on⟩ oleva"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "jo kauan"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "on kutsuttu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sen nimi"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "ja se on tiedossa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän on"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihminen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "hän voi"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "riidellä"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sen kanssa"
+    },
+    {
+      "surface": "שהתקיף",
+      "gloss": "joka on väkevämpi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuin hän"
+    }
+  ],
+  "timestamp": "2026-09-07T04:39:44.444363164Z",
+  "model": "glm-5.3"
+}

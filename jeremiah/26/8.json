@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 26:8",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja tapahtui, kun Yirmejahu oli lopettanut puhua ⟨את⟩ kaiken, mitä Jahve oli käskenyt hänen puhua kaikelle kansalle, niin papit ja profeetat ja kaikki kansa ottivat ⟨את⟩ hänet kiinni sanoen: ”Kuoleman sinä kuolet.”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "kun oli lopettanut"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmejahu"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "puhua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oli käskenyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "puhua"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikelle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansalle"
+    },
+    {
+      "surface": "ויתפשו",
+      "gloss": "niin ottivat kiinni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet",
+      "marks": "Yirmejahu (objektipronomini, ei merkkimuoto)"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "papit"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "ja profeetat"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "מות",
+      "gloss": "Kuoleman"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "sinä kuolet"
+    }
+  ],
+  "timestamp": "2026-09-07T04:27:01.613408514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 37:15",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Ja mies löysi hänet, ja katso, hän harhaili pellolla; ja mies kysyi häneltä sanoen: ”Mitä sinä etsit?”",
+  "tokens": [
+    {
+      "surface": "וימצאהו",
+      "gloss": "Ja löysi hänet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "harhaili"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "pellolla"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "ja kysyi häneltä"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mitä"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "sinä etsit"
+    }
+  ],
+  "timestamp": "2026-09-06T21:21:00.820206691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 39:7",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 39,
+  "translation": "Ja ⟨את⟩ Tsidkijahon silmät hän sokaisi, ja hän sitoi hänet vaskikahleihin tuodakseen hänet ⟨את⟩ Babeliin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Tsidkijahon silmät"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "silmät"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkijahon"
+    },
+    {
+      "surface": "עור",
+      "gloss": "sokaisi"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "sitoi hänet"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "vaskikahleihin"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "tuodakseen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hänet"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babeliin"
+    }
+  ],
+  "timestamp": "2026-09-07T00:42:38.913733887Z",
+  "model": "glm-5.3"
+}

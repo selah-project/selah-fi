@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 8:16",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Mehukas hän ⟨on⟩ auringon edessä, ja hänen puutarhansa ylle hänen versonsa versoutuu ulos.",
+  "tokens": [
+    {
+      "surface": "רטב",
+      "gloss": "Mehukas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "auringon"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja ylle"
+    },
+    {
+      "surface": "גנתו",
+      "gloss": "hänen puutarhansa"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "hänen versonsa"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "versoutuu ulos"
+    }
+  ],
+  "timestamp": "2026-09-07T03:26:03.619426841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 3:22",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja toinen nainen sanoi: Ei, vaan minun poikani ⟨on⟩ elävä ja sinun poikasi kuollut. Ja tämä sanoi: Ei, vaan sinun poikasi ⟨on⟩ kuollut ja minun poikani elävä. Ja he puhuivat kuninkaan edessä.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "nainen"
+    },
+    {
+      "surface": "האחרת",
+      "gloss": "toinen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vaan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "minun poikani"
+    },
+    {
+      "surface": "החי",
+      "gloss": "elävä"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "ja sinun poikasi"
+    },
+    {
+      "surface": "המת",
+      "gloss": "kuollut"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "ja tämä"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vaan"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "sinun poikasi"
+    },
+    {
+      "surface": "המת",
+      "gloss": "kuollut"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ja minun poikani"
+    },
+    {
+      "surface": "החי",
+      "gloss": "elävä"
+    },
+    {
+      "surface": "ותדברנה",
+      "gloss": "ja he puhuivat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:33:15.677711345Z",
+  "model": "glm-5.3"
+}

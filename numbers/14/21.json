@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Vaan, elän minä, ja Jahven kunnia täyttää ⟨את⟩ koko maan.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Vaan"
+    },
+    {
+      "surface": "חי",
+      "gloss": "elän"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ja täyttää"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kunnia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko maan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:09:59.827236629Z",
+  "model": "glm-5.3"
+}

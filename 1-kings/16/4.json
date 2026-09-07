@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Se Baashan suvusta, joka kuolee kaupungissa, sen syövät koirat, ja se hänen suvustaan, joka kuolee kedolla, sen syövät taivaan linnut.”",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Se — joka kuolee"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "Baashan suvusta"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kaupungissa"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sen syövät"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "koirat"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "ja se — joka kuolee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänen suvustaan"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kedolla"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sen syövät"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "linnut"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:41:58.715739895Z",
+  "model": "glm-5.3"
+}

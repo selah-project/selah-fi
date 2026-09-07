@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 136:17",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 136,
+  "translation": "Joka löi suuria kuninkaita, sillä iankaikkisesti ⟨on⟩ hänen hesedinsä.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "joka löi"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kuninkaita"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "suuria"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hänen hesedinsä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:52:16.082041241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 30:27",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "ja ⟨את⟩ pöydän ja ⟨את⟩ kaikki sen astiat ja ⟨את⟩ lampunjalan ja ⟨את⟩ sen astiat ja ⟨את⟩ suitsutusalttarin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "pöydän"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "pöydän"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki sen astiat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sen astiat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "lampunjalan"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "lampunjalan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen astiat"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "sen astiat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "suitsutusalttarin"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "suitsutuksen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:41:18.459130480Z",
+  "model": "glm-5.3"
+}

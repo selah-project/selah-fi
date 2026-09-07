@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 27:8",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ja Israelin pojille sinä puhut sanoen: mies kun kuolee eikä hänellä ole poikaa, niin te siirrätte ⟨את⟩ hänen perintönsä hänen tyttärelleen.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ja ...lle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojille"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "sinä puhut"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "kuolee"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "eikä poikaa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänellä"
+    },
+    {
+      "surface": "והעברתם",
+      "gloss": "niin te siirrätte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perintönsä"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "hänen perintönsä"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "hänen tyttärelleen"
+    }
+  ],
+  "timestamp": "2026-09-06T22:17:28.696613541Z",
+  "model": "glm-5.3"
+}

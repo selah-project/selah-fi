@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja he nousivat aikaisin aamulla, ja aurinko paistoi veden ylle, ja Moav näki vastapäätä ⟨את⟩ veden punaisena kuin veri.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "ja he nousivat aikaisin"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamulla"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "ja aurinko"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "paistoi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ylle"
+    },
+    {
+      "surface": "המים",
+      "gloss": "veden"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ja näkivät"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "vastapäätä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veden"
+    },
+    {
+      "surface": "המים",
+      "gloss": "veden"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "punaisena"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "kuin veri"
+    }
+  ],
+  "timestamp": "2026-09-06T23:48:07.670198281Z",
+  "model": "glm-5.3"
+}

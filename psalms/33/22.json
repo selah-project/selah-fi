@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Olkoon hesedisi (lausutuuden armo), Jahve, meidän päällämme, niin kuin sinua odotimme.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "olkoon"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "meidän päällämme"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "odotimme"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinua"
+    }
+  ],
+  "timestamp": "2026-09-07T04:28:38.980706977Z",
+  "model": "glm-5.3"
+}

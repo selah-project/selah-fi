@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja David kuuli, ja hän lähetti ⟨את⟩ Joabin ja ⟨את⟩ koko sotajoukon, urheat miehet.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Ja kuuli"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ja lähetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joabin"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "koko sotajoukon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "sotajoukon"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "urheat"
+    }
+  ],
+  "timestamp": "2026-09-06T23:22:14.756878070Z",
+  "model": "glm-5.3"
+}

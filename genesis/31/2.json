@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Ja Ja'akov näki ⟨את⟩ Labanin kasvot, ja katso, ne eivät olleet hänen kanssaan niin kuin eilen ja toissapäivänä.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ja näki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Labanin kasvot"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kasvot"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labanin"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "eivät olleet"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hänen kanssaan"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "niin kuin eilen"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "ja toissapäivänä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:17:57.337980942Z",
+  "model": "glm-5.3"
+}

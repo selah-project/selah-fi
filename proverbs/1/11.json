@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Jos he sanovat: ”Tule ⟨את⟩ meidän kanssamme, väijykäämme verta, piilossa odottakaa viatonta, syyttä” —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jos"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "he sanovat"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Tule"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ meidän kanssamme",
+      "marks": "Tule ⟨את⟩ meidän kanssamme"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "väijykäämme"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "verta"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "piilissä odottakaa"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "viatonta"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "syyttä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:56:20.279619400Z",
+  "model": "glm-5.3"
+}

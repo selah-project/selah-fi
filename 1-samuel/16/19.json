@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja lähetti Shaul sanansaattajat Jishain luo ja sanoi: Lähetä minulle ⟨את⟩ David (Daavid), poikasi, joka on lampaiden kanssa.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ja lähetti"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "sanansaattajat"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jishain"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "Lähetä"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "poikasi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "lampaiden kanssa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:11:18.266394792Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 23:12",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Kuutena päivänä tee työsi, ja seitsemäntenä päivänä pidä lepo (shabbat), jotta härkäsi ja aasisi lepäävät ja orjattaresi poika ja muukalainen virkistyvät.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "kuutena"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tee"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "työsi"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ja päivänä"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "seitsemäntenä"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "pidä lepo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "jotta"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "lepäävät"
+    },
+    {
+      "surface": "שורך",
+      "gloss": "härkäsi"
+    },
+    {
+      "surface": "וחמרך",
+      "gloss": "ja aasisi"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "ja virkistyvät"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "orjattaresi"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "ja muukalainen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:37:37.495466602Z",
+  "model": "glm-5.3"
+}

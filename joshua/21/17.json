@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 21:17",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja Binjaminin heimosta ⟨את⟩ Giv'onin ja ⟨את⟩ sen laidunmaat, ⟨את⟩ Gevan ja ⟨את⟩ sen laidunmaat.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Ja Binjaminin heimosta"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjaminin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giv'onin"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Giv'onin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen laidunmaat"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sen laidunmaat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gevan"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Gevan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen laidunmaat"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sen laidunmaat"
+    }
+  ],
+  "timestamp": "2026-09-06T22:48:18.432182777Z",
+  "model": "glm-5.3"
+}

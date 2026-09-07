@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "hän opettaa käteni sotaan, ja vaskijousi taivutetaan käsivarteni alle.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "hän opettaa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "käteni"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sotaan"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "ja taivutetaan alas"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "jousi"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "vaski"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "käsivarteni"
+    }
+  ],
+  "timestamp": "2026-09-07T01:57:45.385475311Z",
+  "model": "glm-5.3"
+}

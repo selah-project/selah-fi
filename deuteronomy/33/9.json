@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Joka sanoi isälleen ja äidilleen: en häntä nähnyt, ja ⟨את⟩ veljiään ei hän tuntenut, ja ⟨את⟩ poikiaan ei hän tiennyt; sillä he pitivät sanasi, ja liittosi he varjelivat.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "joka sanoi"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "isälleen"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "ja äidilleen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "häntä nähnyt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "veljiään"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "veljiään"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "hän tuntenut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "poikiaan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "poikiaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "hän tiennyt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "he pitivät"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "sanasi"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "ja liittosi"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "he varjelivat"
+    }
+  ],
+  "timestamp": "2026-09-06T22:37:25.852483916Z",
+  "model": "glm-5.3"
+}

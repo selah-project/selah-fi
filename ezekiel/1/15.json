@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 1:15",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja minä näin eläimet, ja katso: yksi pyörä maassa, eläinten vieressä, niiden neljää kasvoa kohti.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "Ja minä näin"
+    },
+    {
+      "surface": "החיות",
+      "gloss": "eläimet"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "pyörä"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "vieressä"
+    },
+    {
+      "surface": "החיות",
+      "gloss": "eläinten"
+    },
+    {
+      "surface": "לארבעת",
+      "gloss": "neljää"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "kasvoa kohti"
+    }
+  ],
+  "timestamp": "2026-09-07T00:50:23.014034775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 3:28",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja käske ⟨את⟩ Jehoshuan (Joosua) ja vahvista hänet ja lujahdu hänet, sillä hän kulkee tämän kansan edellä ja hän antaa heidän periä ⟨את⟩ maan, jonka sinä näet.",
+  "tokens": [
+    {
+      "surface": "וצו",
+      "gloss": "Ja käske"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoshuan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshuan"
+    },
+    {
+      "surface": "וחזקהו",
+      "gloss": "ja vahvista hänet"
+    },
+    {
+      "surface": "ואמצהו",
+      "gloss": "ja lujahdu hänet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "kulkee"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edellä"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ja hän"
+    },
+    {
+      "surface": "ינחיל",
+      "gloss": "antaa perimään"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ heidät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "sinä näet"
+    }
+  ],
+  "timestamp": "2026-09-06T22:24:11.264731603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 27:10",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Sillä linnoitettu kaupunki ⟨on⟩ autio, asuinsija hyljätty ja jätetty kuin erämaa; siellä syököö vasikka, ja siellä se lepää ja kuluttaa sen oksat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kaupunki"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "linnoitettu"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "autio"
+    },
+    {
+      "surface": "נוה",
+      "gloss": "asuinsija"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "hyljätty"
+    },
+    {
+      "surface": "ונעזב",
+      "gloss": "ja jätetty"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "kuin erämaa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "syököö"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "vasikka"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ja siellä"
+    },
+    {
+      "surface": "ירבץ",
+      "gloss": "lepää"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ja kuluttaa"
+    },
+    {
+      "surface": "סעפיה",
+      "gloss": "sen oksat"
+    }
+  ],
+  "timestamp": "2026-09-07T00:08:11.363156275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja käärme sanoi naiselle: ”Ette suinkaan kuole.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "käärme"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "האשה",
+      "gloss": "naiselle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ette"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kuolla"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "kuole"
+    }
+  ],
+  "timestamp": "2026-09-06T21:05:44.301815401Z",
+  "model": "glm-5.3"
+}

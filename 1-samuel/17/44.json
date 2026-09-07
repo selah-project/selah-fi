@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 17:44",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja filistealainen sanoi Davidille: ”Tule minun luokseni, ja minä annan ⟨את⟩ lihasi taivaan linnuille ja kedon eläimille.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filistealainen"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidille"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "tule"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minun luokseni"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ja minä annan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lihasi"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "lihasi"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "linnuille"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "ja eläimille"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "kedon"
+    }
+  ],
+  "timestamp": "2026-09-06T23:12:50.412704470Z",
+  "model": "glm-5.3"
+}

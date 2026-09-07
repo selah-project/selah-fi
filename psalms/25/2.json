@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Elohimini, sinuun minä olen turvanut: älä anna minun hävetä, älkööt viholliseni riemuitko minusta.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimini"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinuun"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "olen turvanut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "anna minun hävetä"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älkööt"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "riemuitko"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "viholliseni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minusta"
+    }
+  ],
+  "timestamp": "2026-09-07T02:01:12.086279105Z",
+  "model": "glm-5.3"
+}

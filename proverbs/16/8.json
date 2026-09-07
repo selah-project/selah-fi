@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Parempi on vähäinen vanhurskaudessa kuin runsaat tulot ilman oikeutta.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Parempi"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "vähäinen"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "vanhurskaudessa"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "kuin runsaat"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "tulot"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ilman"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "oikeutta"
+    }
+  ],
+  "timestamp": "2026-09-07T03:09:42.834850412Z",
+  "model": "glm-5.3"
+}

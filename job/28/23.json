@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Elohim ymmärtää sen tien, ja hän tuntee ⟨את⟩ sen paikan.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "ymmärtää"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "sen tien"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ja hän"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tuntee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen paikan"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "sen paikan"
+    }
+  ],
+  "timestamp": "2026-09-07T03:39:44.390216923Z",
+  "model": "glm-5.3"
+}

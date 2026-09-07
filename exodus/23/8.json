@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja lahjusta älä ota, sillä lahjus sokaisee teräväsilmäiset ja vääristää vanhurskaiden sanat.",
+  "tokens": [
+    {
+      "surface": "ושחד",
+      "gloss": "Ja lahjusta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ota"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "lahjus"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "sokaisee"
+    },
+    {
+      "surface": "פקחים",
+      "gloss": "teräväsilmäiset"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "ja vääristää"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "vanhurskaiden"
+    }
+  ],
+  "timestamp": "2026-09-06T21:37:14.447603356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "murtuma murtuman tilalla, silmä silmän tilalla, hammas hampaan tilalla; niinkuin hän on antanut vian ihmisessä, niin hänelle annetaan.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "murtuma"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tilalla"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "murtuman"
+    },
+    {
+      "surface": "עין",
+      "gloss": "silmä"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tilalla"
+    },
+    {
+      "surface": "עין",
+      "gloss": "silmän"
+    },
+    {
+      "surface": "שן",
+      "gloss": "hammas"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tilalla"
+    },
+    {
+      "surface": "שן",
+      "gloss": "hampaan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niinkuin"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "on antanut"
+    },
+    {
+      "surface": "מום",
+      "gloss": "vian"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ihmisessä"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "annetaan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hänelle"
+    }
+  ],
+  "timestamp": "2026-09-06T21:58:46.749282499Z",
+  "model": "glm-5.3"
+}

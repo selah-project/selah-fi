@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "joka ruokki sinut manalla erämaassa, jota sinun isäsi eivät tunteneet, nöyryyttääkseen sinua ja koetellakseen sinua, tehdäkseen sinulle hyvää sinun lopullasi",
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "joka ruokki sinut"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manalla"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "erämaassa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jota"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "tunteneet"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "sinun isäsi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nöyryyttääkseen"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "sinua"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ja koetellakseen"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "sinua"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "tehdäkseen sinulle hyvää"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "sinun lopullasi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:26:49.999601810Z",
+  "model": "glm-5.3"
+}

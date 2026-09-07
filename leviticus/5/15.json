@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 5:15",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Jos nefesh (elävä sielu) menettelee petollisesti ja tekee syntiä tietämättään Jahven pyhiä asioita vastaan, hän tuokoon ⟨את⟩ asham-rikkuksensa (syyllisyysuhri) Jahvelle: virheettömän oinaan lammaskarjasta, sinun arviosi mukaan hopeaa, shekeleinä, pyhäkköshekelin mukaan, asham-uhriksi.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jos"
+    },
+    {
+      "surface": "תמעל",
+      "gloss": "menettelee petollisesti"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "petos"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "ja tekee syntiä"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "tietämättään"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "pyhiä asioita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "ja tuokoon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asham-rikkuksensa"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "hänen asham-rikkauksensa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "איל",
+      "gloss": "oinaan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "virheettömän"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-sta"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "lammaskarja"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "sinun arviosi mukaan"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "hopea"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "shekeleinä"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "shekelin"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pyhäkkö"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "asham-uhriksi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:49:44.169156240Z",
+  "model": "glm-5.3"
+}

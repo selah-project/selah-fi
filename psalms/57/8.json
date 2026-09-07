@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 57,
+  "translation": "Valmis on sydämeni, Elohim, valmis on sydämeni; minä veisaan ja veisaan kiitosta.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "Valmis on"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sydämeni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "valmis on"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sydämeni"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "minä veisaan"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ja veisaan kiitosta"
+    }
+  ],
+  "timestamp": "2026-09-07T02:14:40.338416870Z",
+  "model": "glm-5.3"
+}

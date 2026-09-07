@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 32:12",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Eikö hän, Jehizqijahu, ole poistanut ⟨את⟩ hänen korkeapaikkansa ja ⟨את⟩ hänen alttarinsa, ja sanonut Jehudahille ja Jerushalajimille: Yhden alttarin edessä te kumartakaa, ja sillä te suitsuttakaa!",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Eikö"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Jehizqijahu"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "poistanut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen korkeapaikkansa"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "hänen korkeapaikkansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen alttarinsa"
+    },
+    {
+      "surface": "מזבחתיו",
+      "gloss": "hänen alttarinsa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanonut"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Jehudahille"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "ja Jerushalajimille"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yhden"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "kumartakaa"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "ja sillä"
+    },
+    {
+      "surface": "תקטירו",
+      "gloss": "suitsuttakaa"
+    }
+  ],
+  "timestamp": "2026-09-07T05:52:05.262531002Z",
+  "model": "glm-5.3"
+}

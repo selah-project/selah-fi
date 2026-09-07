@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "niin kuin se poistetaan härästä, joka on rauhanuhrin ⟨uhri⟩: ja kohen suitsuttaa ne polttouhrialttarin päälle.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "poistetaan"
+    },
+    {
+      "surface": "משור",
+      "gloss": "härästä"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "uhrin"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "rauhan"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "ja suitsuttaa ne"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "polttouhri"
+    }
+  ],
+  "timestamp": "2026-09-06T21:48:31.826519338Z",
+  "model": "glm-5.3"
+}

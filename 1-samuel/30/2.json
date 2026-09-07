@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja he veivät vangiksi ⟨את⟩ naiset, jotka siinä olivat, pienestä suureen; eivät he tappaneet ⟨את⟩ ketään, vaan kuljettivat heidät pois ja menivät tietään.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "veivät vangiksi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naiset"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "naiset"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "בה",
+      "gloss": "siinä"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "pienestä"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "–"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suureen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "tappaneet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ketään"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "kuljettivat pois"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ja menivät"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "tietään"
+    }
+  ],
+  "timestamp": "2026-09-06T23:17:40.552039803Z",
+  "model": "glm-5.3"
+}

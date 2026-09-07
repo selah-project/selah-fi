@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Suunnitelkaa suunnitelma, ja ⟨se⟩ raukeaa; puhukaa sana, eikä ⟨se⟩ pysty; sillä El ⟨on⟩ meidän kanssamme.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "Suunnitelkaa"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "suunnitelma"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "ja ⟨se⟩ raukeaa"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "puhukaa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "⟨se⟩ pysty"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "meidän kanssamme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-07T00:02:13.532797702Z",
+  "model": "glm-5.3"
+}

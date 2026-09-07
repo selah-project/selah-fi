@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 6:30",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja tapahtui, kun kuningas kuuli ⟨את⟩ naisen sanat, että hän repi ⟨את⟩ vaatteensa; ja hän kulki muuria pitkin, ja kansa näki, ja katso: säkkikangas oli hänen lihassaan sisäpuolella.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "kun kuuli"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naisen sanat"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "naisen"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "että hän repi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaatteensa"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "vaatteensa"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ja hän"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kulki"
+    },
+    {
+      "surface": "על",
+      "gloss": "pitkin"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "muuria"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ja näki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "השק",
+      "gloss": "säkkikangas"
+    },
+    {
+      "surface": "על",
+      "gloss": "oli"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "hänen lihassaan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "sisäpuolella"
+    }
+  ],
+  "timestamp": "2026-09-06T23:49:59.939907918Z",
+  "model": "glm-5.3"
+}

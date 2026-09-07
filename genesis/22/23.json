@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 22:23",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja Betuelille syntyi ⟨את⟩ Rivka. Nämä kahdeksan synnytti Milkah Nahorille, Avrahamin (Aabrahamin) veljelle.",
+  "tokens": [
+    {
+      "surface": "ובתואל",
+      "gloss": "Ja Betuelille"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "syntyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "kahdeksan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Nämä"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Milkah"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "Nahorille"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "veljelle"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamin (Aabrahamin)"
+    }
+  ],
+  "timestamp": "2026-09-06T21:12:26.094531590Z",
+  "model": "glm-5.3"
+}

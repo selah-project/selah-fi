@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 5:22",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja Hanokh vaelsi Elohimin ⟨את⟩ kanssa sen jälkeen, kun hän oli siittänyt ⟨את⟩ Metushelamin, kolmesataa vuotta, ja hän siitti poikia ja tyttäriä.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "vaelsi"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanokh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ kanssa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sen jälkeen kun"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "hän oli siittänyt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metushelamin"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metushelamin"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sataa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ja hän siitti"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "poikia"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ja tyttäriä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:06:45.636517658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 15:3",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Ja minä asetan heidän ylleen neljä lajia, Jahven sanoma: ⟨את⟩ miekan tappamaan ja ⟨את⟩ koirat raahaamaan ja ⟨את⟩ taivaan linnut ja ⟨את⟩ maan eläimet syömään ja turmelemaan.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "ja minä asetan"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "heidän ylleen"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "neljä"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "lajia"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sanoma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miekan"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "miekan"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "tappamaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "koirat"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "koirat"
+    },
+    {
+      "surface": "לסחב",
+      "gloss": "raahaamaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "taivaan linnut"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "linnut"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "maan eläimet"
+    },
+    {
+      "surface": "בהמת",
+      "gloss": "eläimet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "syömään"
+    },
+    {
+      "surface": "ולהשחית",
+      "gloss": "ja turmelemaan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:31:41.649186530Z",
+  "model": "glm-5.3"
+}

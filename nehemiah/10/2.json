@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 10:2",
+  "book": "nehemiah",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja sinetöivien ⟨päässä⟩: Nechemja (Nehemia), Hatirshata ⟨kuvernööri⟩, Hakhaljan (Hakkaljan) poika, ja Tsidkija (Sidkia)",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "החתומים",
+      "gloss": "sinetöivien"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "Nechemja (Nehemia)"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "Hatirshata"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "Hakhaljan (Hakkaljan)"
+    },
+    {
+      "surface": "וצדקיה",
+      "gloss": "ja Tsidkija (Sidkia)"
+    }
+  ],
+  "timestamp": "2026-09-07T05:05:48.865170803Z",
+  "model": "glm-5.3"
+}

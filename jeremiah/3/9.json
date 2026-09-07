@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja tapahtui hänen huoruutensa kevytmielisyydestä, että hän saastutti ⟨את⟩ maan ja teki aviorikoksen ⟨את⟩ kiven kanssa ja ⟨את⟩ puun kanssa.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "kevytmielisyydestä"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "hänen huoruutensa"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "hän saastutti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "ja teki aviorikoksen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiven"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "kiven"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "puun"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "puun"
+    }
+  ],
+  "timestamp": "2026-09-07T00:24:13.635915037Z",
+  "model": "glm-5.3"
+}

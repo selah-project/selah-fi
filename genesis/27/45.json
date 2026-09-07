@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "genesis 27:45",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Kunnes veljesi viha kääntyy sinusta pois ja hän unhottaa ⟨את⟩ mitä teit hänelle; ja minä lähetän ja noudan sinut sieltä. Miksi minä menettäisin myös teidät molemmat yhtenä päivänä?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "kääntyy"
+    },
+    {
+      "surface": "אף",
+      "gloss": "viha"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "veljesi"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "sinusta"
+    },
+    {
+      "surface": "ושכח",
+      "gloss": "ja unhottaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitä teit hänelle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "teit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "ושלחתי",
+      "gloss": "ja minä lähetän"
+    },
+    {
+      "surface": "ולקחתיך",
+      "gloss": "ja noudan sinut"
+    },
+    {
+      "surface": "משם",
+      "gloss": "sieltä"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miksi"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "minä menettäisin"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "שניכם",
+      "gloss": "teidät molemmat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yhtenä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:17:28.527043010Z",
+  "model": "glm-5.3"
+}

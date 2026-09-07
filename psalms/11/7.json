@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Sillä vanhurskas ⟨on⟩ Jahve, vanhurskautta hän rakastaa; oikeamieliset näkevät hänen kasvonsa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "vanhurskas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "vanhurskautta"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "rakastaa"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "oikeamieliset"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "näkevät"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "hänen kasvonsa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:55:02.118303780Z",
+  "model": "glm-5.3"
+}

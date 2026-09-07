@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 15:4",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Paron (farao) sotavaunut ja hänen sotajoukkonsa hän syöksi mereen, ja hänen valioupseerinsa upposivat Kaislamereen.",
+  "tokens": [
+    {
+      "surface": "מרכבת",
+      "gloss": "sotavaunut"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "ja hänen sotajoukkonsa"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "hän syöksi"
+    },
+    {
+      "surface": "בים",
+      "gloss": "mereen"
+    },
+    {
+      "surface": "ומבחר",
+      "gloss": "ja hänen valio-"
+    },
+    {
+      "surface": "שלשיו",
+      "gloss": "upseerinsa"
+    },
+    {
+      "surface": "טבעו",
+      "gloss": "upposivat"
+    },
+    {
+      "surface": "בים",
+      "gloss": "mereen"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Kaislamereen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:34:39.078730959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 89:46",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 89,
+  "translation": "Olet lyhentänyt hänen nuoruutensa päivät, verhonut hänet häpeällä. Sela.",
+  "tokens": [
+    {
+      "surface": "הקצרת",
+      "gloss": "olet lyhentänyt"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päivät"
+    },
+    {
+      "surface": "עלומיו",
+      "gloss": "hänen nuoruutensa"
+    },
+    {
+      "surface": "העטית",
+      "gloss": "verhonut"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hänet"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "häpeällä"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-07T04:33:25.710770719Z",
+  "model": "glm-5.3"
+}

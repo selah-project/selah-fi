@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 20:1",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Viini ⟨on⟩ pilkkailija, väkijuoma ⟨on⟩ pauhaava; ja jokainen, joka siinä eksyy, ei tule viisaaksi.",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "pilkkailija"
+    },
+    {
+      "surface": "היין",
+      "gloss": "viini"
+    },
+    {
+      "surface": "המה",
+      "gloss": "pauhaa"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "väkijuoma"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja jokainen"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "eksyy"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siinä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "tulee viisaaksi"
+    }
+  ],
+  "timestamp": "2026-09-07T03:13:15.034645120Z",
+  "model": "glm-5.3"
+}

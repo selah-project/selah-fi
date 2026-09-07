@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 12:9",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Parempi ⟨on⟩ vähäpätöinen, jolla on palvelija, kuin itsensä kunnioittava, jolta puuttuu leipä.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Parempi"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "vähäpätöinen"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "ja palvelija"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänellä"
+    },
+    {
+      "surface": "ממתכבד",
+      "gloss": "kuin itsensä kunnioittava"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "ja jolta puuttuu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:06:29.168301456Z",
+  "model": "glm-5.3"
+}

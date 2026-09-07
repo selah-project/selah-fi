@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja David kutsui yhden nuorukaisista ja sanoi: Käy, iske hänet. Ja hän löi hänet, ja hän kuoli.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ja kutsui"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "yhden"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "nuorukaisista"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "גש",
+      "gloss": "Käy"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "iske"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hänet"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "Ja hän löi hänet"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ja hän kuoli"
+    }
+  ],
+  "timestamp": "2026-09-06T23:19:21.733669252Z",
+  "model": "glm-5.3"
+}

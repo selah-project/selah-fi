@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 63:10",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 63,
+  "translation": "Mutta he kapinoivat ja saattoivat tuskaa ⟨את⟩ hänen pyhälle hengelleen, ja hän kääntyi heille viholliseksi; hän itse taisteli heitä vastaan.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "mutta he"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "kapinoivat"
+    },
+    {
+      "surface": "ועצבו",
+      "gloss": "ja saattoivat tuskaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen pyhän henkensä"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hengen"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "hänen pyhänsä"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "ja hän kääntyi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "לאויב",
+      "gloss": "viholliseksi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän itse"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "taisteli"
+    },
+    {
+      "surface": "בם",
+      "gloss": "heitä vastaan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:20:27.171166816Z",
+  "model": "glm-5.3"
+}

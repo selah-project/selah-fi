@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 98,
+  "translation": "Hän on muistanut hesedinsä (uskollisen laupeutensa) ja uskollisuutensa Israelin huonetta kohtaan; maan ääret kaikki ovat nähneet ⟨את⟩ meidän Elohimimme pelastuksen.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "on muistanut"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedinsä"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "ja uskollisuutensa"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "huonetta kohtaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ovat nähneet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ääret"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meidän Elohimimme pelastuksen"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "pelastuksen"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "meidän Elohimimme"
+    }
+  ],
+  "timestamp": "2026-09-07T02:35:46.548285033Z",
+  "model": "glm-5.3"
+}

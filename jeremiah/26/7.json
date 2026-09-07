@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 26:7",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja papit ja profeetat ja kaikki kansa kuulivat ⟨את⟩ Yirmejahun (Jeremia) puhuvan ⟨את⟩ nämä sanat Jahven huoneessa.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "Ja kuulivat"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "papit"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "ja profeetat"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirmejahun"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmejahun"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "puhuvan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nämä sanat"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "huoneessa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-07T04:27:01.612173201Z",
+  "model": "glm-5.3"
+}

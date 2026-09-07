@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja virta lähtee Edenista kastelemaan ⟨את⟩ puutarhan, ja sieltä se haarautuu ja tulee neljäksi pääuomaksi.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "ja virta"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lähtee"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "Edenista"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "kastelemaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "puutarhan"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "puutarhan"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "ja sieltä"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "se haarautuu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ja tulee"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "neljäksi"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "pääuomiksi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:04:23.654457990Z",
+  "model": "glm-5.3"
+}

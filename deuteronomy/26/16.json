@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 26:16",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Tänä päivänä Jahve, Elohimisi, käskee sinua tekemään ⟨את⟩ nämä säädökset ja ⟨את⟩ nämä oikeudet; ja sinä pidät ja teet ⟨את⟩ ne koko sydämelläsi ja koko nefeshillasi ⟨sielullasi⟩.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Tänä päivänä"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tänä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimisi"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "käskee sinua"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "tekemään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nämä säädökset"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "säädökset"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "nämä oikeudet"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "oikeudet"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ja sinä pidät"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ja teet"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ne",
+      "marks": "objektipronomini: ⟨את⟩-merkki + -hem-pääte, joka on kielioppia"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "sydämelläsi"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ja koko"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nefeshillasi (sielullasi)"
+    }
+  ],
+  "timestamp": "2026-09-06T22:35:09.655853638Z",
+  "model": "glm-5.3"
+}

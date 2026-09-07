@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 24:3",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja minä otin ⟨את⟩ isänne, ⟨את⟩ Avrahamin, joen toiselta puolelta, ja vein ⟨את⟩ hänet koko Kanaanin maan halki, ja monistin ⟨את⟩ hänen siemenensä, ja annoin hänelle ⟨את⟩ Jitshakin (Iisakin).",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Ja minä otin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isänne"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "isänne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamin"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamin"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "toiselta puolelta"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "joen"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "ja vein"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ hänet"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaanin"
+    },
+    {
+      "surface": "וארב",
+      "gloss": "ja monistin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen siemenensä"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "hänen siemenensä"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "ja annoin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitshakin"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshakin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:51:16.887160033Z",
+  "model": "glm-5.3"
+}

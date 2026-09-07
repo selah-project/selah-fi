@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Siksi, jotta kunniani veisaa sinulle kiitosta eikä vaikene — Jahve, Elohimini, iankaikkisesti minä kiitän sinua.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "siksi, jotta"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "veisaa sinulle"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kunniani"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "vaikene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimini"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "kiitän sinua"
+    }
+  ],
+  "timestamp": "2026-09-07T01:59:46.170256345Z",
+  "model": "glm-5.3"
+}

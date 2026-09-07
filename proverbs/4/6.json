@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 4:6",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Älä hylkää häntä, niin hän varjelee sinua; rakasta häntä, niin hän pitää sinusta huolen.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תעזבה",
+      "gloss": "hylkää häntä"
+    },
+    {
+      "surface": "ותשמרך",
+      "gloss": "niin hän varjelee sinua"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "rakasta häntä"
+    },
+    {
+      "surface": "ותצרך",
+      "gloss": "niin hän pitää sinusta huolen"
+    }
+  ],
+  "timestamp": "2026-09-07T03:01:07.584026202Z",
+  "model": "glm-5.3"
+}

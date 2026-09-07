@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 6:3",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja pukeutukoon kohen (pappi) pellavavaatteeseen, ja pellavahousut hän pukee lihaansa päälle, ja hän nostaa ⟨את⟩ tuhkan, jonka tuli on kuluttanut ⟨את⟩ polttouhrin alttarilla, ja hän pane sen alttarin viereen.",
+  "tokens": [
+    {
+      "surface": "ולבש",
+      "gloss": "Ja pukeutukoon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "מדו",
+      "gloss": "vaatteeseen"
+    },
+    {
+      "surface": "בד",
+      "gloss": "pellava-"
+    },
+    {
+      "surface": "ומכנסי",
+      "gloss": "ja housut"
+    },
+    {
+      "surface": "בד",
+      "gloss": "pellava-"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "pukee"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "lihaansa"
+    },
+    {
+      "surface": "והרים",
+      "gloss": "ja hän nostaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuhkan"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "tuhkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "kulutti"
+    },
+    {
+      "surface": "האש",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "polttouhrin"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "polttouhrin"
+    },
+    {
+      "surface": "על",
+      "gloss": "alttarilla"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarilla"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ja hän pane"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "viereen"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:49:53.462193803Z",
+  "model": "glm-5.3"
+}

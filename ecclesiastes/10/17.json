@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 10:17",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Onnea sinulle, maa, kun kuninkaasi on jalojen poika ja päämiehesi syövät ajallaan — voimaksi, eivät juopumukseen!",
+  "tokens": [
+    {
+      "surface": "אשריך",
+      "gloss": "Onnea"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "kuninkaasi on"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "חורים",
+      "gloss": "jalojen"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "ja päämiehesi"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ajallaan"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "syövät"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "voimaksi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "juopumukseen"
+    }
+  ],
+  "timestamp": "2026-09-07T04:38:53.860417972Z",
+  "model": "glm-5.3"
+}

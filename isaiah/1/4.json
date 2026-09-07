@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Voi, syntistä kansakuntaa, pahasta raskasta kansaa, pahantekijöiden siementä, turmelevia lapsia! He hylkäsivät ⟨את⟩ Jahven, he halveksivat ⟨את⟩ Israelin Pyhää, he kääntyivät pois taaksepäin.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Voi"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "kansakuntaa"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "syntistä"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansaa"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "raskasta"
+    },
+    {
+      "surface": "עון",
+      "gloss": "pahasta"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "siementä"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "pahantekijöiden"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "lapsia"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "turmelevia"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "hylkäsivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "halveksivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin Pyhää"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Pyhää"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "kääntyivät pois"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "taaksepäin"
+    }
+  ],
+  "timestamp": "2026-09-07T00:01:07.039137628Z",
+  "model": "glm-5.3"
+}

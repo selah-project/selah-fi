@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja Shaharaim siitti ⟨lapsia⟩ Moavin kedolla sen jälkeen, kun hän oli lähettänyt pois ⟨את⟩ ⟨אתם⟩ Hushimin ja ⟨את⟩ Baaran, vaimonsa.",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "Ja Shaharaim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kedolla"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moavin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sen jälkeen kun"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "hän lähetti pois"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "marks": "Hushimin ja Baaran"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "Hushimin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Baaran"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "Baaran"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "vaimonsa"
+    }
+  ],
+  "timestamp": "2026-09-07T07:21:08.640226453Z",
+  "model": "glm-5.3"
+}

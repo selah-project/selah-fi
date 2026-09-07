@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 6:29",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja me keitimme ⟨את⟩ poikani ja söimme hänet, ja sanoin hänelle toisena päivänä: Anna ⟨את⟩ poikasi, ja syödään hänet; mutta hän piilotti ⟨את⟩ poikansa.",
+  "tokens": [
+    {
+      "surface": "ונבשל",
+      "gloss": "Ja me keitimme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poikani"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikani"
+    },
+    {
+      "surface": "ונאכלהו",
+      "gloss": "ja söimme hänet"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ja sanoin"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "toisena päivänä"
+    },
+    {
+      "surface": "האחר",
+      "gloss": "seuraavana"
+    },
+    {
+      "surface": "תני",
+      "gloss": "Anna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poikasi"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "poikasi"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "ja syödään hänet"
+    },
+    {
+      "surface": "ותחבא",
+      "gloss": "mutta hän piilotti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poikansa"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "poikansa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:49:59.939120318Z",
+  "model": "glm-5.3"
+}

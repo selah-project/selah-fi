@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 34:6",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "Ja ⟨hän⟩ hautasi ⟨את⟩ hänet laaksoon Moavin maahan, Beit Peoria vastapäätä; eikä mies tunne ⟨את⟩ hänen hautapaikkaansa tähän päivään asti.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "Ja hautasi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet",
+      "marks": "hänet"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "laaksoon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moavin"
+    },
+    {
+      "surface": "מול",
+      "gloss": "vastapäätä"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tunne"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hautapaikkaansa"
+    },
+    {
+      "surface": "קברתו",
+      "gloss": "hautapaikkaansa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päivään"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tähän"
+    }
+  ],
+  "timestamp": "2026-09-06T22:38:44.558332198Z",
+  "model": "glm-5.3"
+}

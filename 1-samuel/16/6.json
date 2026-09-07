@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja kun he tulivat, näki hän ⟨את⟩ Eliabin ja sanoi: Varmasti Jahven edessä ⟨on⟩ hänen Mashiahinsa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja tapahtui"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "kun he tulivat"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ja hän näki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliabin"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliabin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "אך",
+      "gloss": "varmasti"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "hänen Mashiahinsa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:10:42.857570362Z",
+  "model": "glm-5.3"
+}

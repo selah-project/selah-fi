@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 11:30",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja Ahijah tarttui uuteen viittaan, joka oli hänen päällään, ja repäisi sen kahdeksitoista palaksi.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "tarttui"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ahijah"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "viittaan"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "uuteen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hänen päällään"
+    },
+    {
+      "surface": "ויקרעה",
+      "gloss": "ja repäisi sen"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "toista"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "palaa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:40:24.992014078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 90,
+  "translation": "Iloituta meitä päivien mukaan, joina nöyryytit meitä, vuosien mukaan, joina näimme pahaa.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "Iloituta meitä"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "päivien mukaan"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "joina nöyryytit meitä"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "vuosien mukaan"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "joina näimme"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pahaa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:32:48.925451845Z",
+  "model": "glm-5.3"
+}

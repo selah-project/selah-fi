@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 48,
+  "translation": "Ja Josef vei ⟨את⟩ heidät pois hänen polviensa välistä, ja hän kumartui kasvoilleen maahan.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Ja Josef vei pois"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": ""
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "heidät"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "välistä"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "hänen polviensa"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ja hän kumartui"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "kasvoilleen"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "maahan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:26:37.641694935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 49:20",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 49,
+  "translation": "Asherista: hänen leipänsä ⟨on⟩ rasvaista, ja hän antaa kuninkaan herkkuja.",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "Asherista"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "rasvaista"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "hänen leipänsä"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ja hän"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "antaa"
+    },
+    {
+      "surface": "מעדני",
+      "gloss": "herkut"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:28:10.132190389Z",
+  "model": "glm-5.3"
+}

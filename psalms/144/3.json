@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 144,
+  "translation": "Jahve, mikä ⟨on⟩ ihminen, että sinä hänet tunnet, ihmislapsi, että sinä häntä huomioit!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mikä"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihminen"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "että sinä hänet tunnet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "lapsi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ihmis-"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "että sinä häntä huomioit"
+    }
+  ],
+  "timestamp": "2026-09-07T02:54:20.651664011Z",
+  "model": "glm-5.3"
+}

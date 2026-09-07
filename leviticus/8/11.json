@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja hän vihmoi siitä alttarin päälle seitsemän kertaa ja voiteli ⟨את⟩ alttarin ja ⟨את⟩ kaikki sen astiat ja ⟨את⟩ altaan ja ⟨את⟩ sen jalan niiden pyhittämiseksi.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "Ja hän vihmoi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "siitä"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seitsemän"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kertaa"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "ja voiteli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alttarin"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki sen astiat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sen astiat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "altaan"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "altaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen jalan"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "sen jalan"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "niiden pyhittämiseksi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:51:10.581107613Z",
+  "model": "glm-5.3"
+}

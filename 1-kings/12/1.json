@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja Rechavam meni Shekemiin, sillä Shekemiin ⟨oli⟩ tullut koko Israel tekemään ⟨את⟩ hänet kuninkaaksi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ja meni"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechavam"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemiin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemiin"
+    },
+    {
+      "surface": "בא",
+      "gloss": "oli tullut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "tekemään kuninkaaksi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet",
+      "marks": "hänet (Rechavam)"
+    }
+  ],
+  "timestamp": "2026-09-06T23:40:33.820950201Z",
+  "model": "glm-5.3"
+}

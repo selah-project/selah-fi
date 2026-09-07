@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 5:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Rietast eivät seiso silmiesi edessä; sinä vihaat kaikkia vääryyden tekijöitä.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יתיצבו",
+      "gloss": "seiso"
+    },
+    {
+      "surface": "הוללים",
+      "gloss": "rietast"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "silmiesi"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "vihaat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkia"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "tekijöitä"
+    },
+    {
+      "surface": "און",
+      "gloss": "vääryyden"
+    }
+  ],
+  "timestamp": "2026-09-07T01:50:48.027855559Z",
+  "model": "glm-5.3"
+}

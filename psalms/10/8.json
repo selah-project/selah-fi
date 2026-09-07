@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Hän istuu väijyksissä kylien pihoilla; kätköissä hän tappaa viattoman; hänen silmänsä vakoilevat salaa onnetonta.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Hän istuu"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "väijyksissä"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "kylien pihoilla"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "kätköissä"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "hän tappaa"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "viattoman"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "hänen silmänsä"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "onnetonta"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "vakoilevat salaa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:56:19.884246613Z",
+  "model": "glm-5.3"
+}

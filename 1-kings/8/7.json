@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 8:7",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Sillä kerubit levittivät siipensä arkin paikan ylle, ja kerubit peittivät arkin ja sen salvat ylhäältä.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "kerubit"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "levittivät"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "siipensä"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "paikan"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arkin"
+    },
+    {
+      "surface": "ויסכו",
+      "gloss": "ja peittivät"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerubit"
+    },
+    {
+      "surface": "על",
+      "gloss": "ylle"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arkin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja ylle"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "sen salvat"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ylhäältä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:37:21.677239579Z",
+  "model": "glm-5.3"
+}

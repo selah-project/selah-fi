@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja hän hajotti ⟨את⟩ qedeshien huoneet, jotka olivat Jahven huoneessa, — huoneet, joissa naiset kudoivat huoneita (vaatteita) Asheralle.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "hajotti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huoneet"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "huoneet"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "qedeshien"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "huoneessa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "naiset"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "kudoivat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "huoneita"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "Asheralle"
+    }
+  ],
+  "timestamp": "2026-09-06T23:58:53.665847260Z",
+  "model": "glm-5.3"
+}

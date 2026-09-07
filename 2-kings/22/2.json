@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 22:2",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja hän teki sitä, mikä oikeaa on Jahven silmissä, ja vaelsi koko Daavidin, isänsä, tietä, eikä poikennut oikealle eikä vasemmalle.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ja hän teki"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "oikeaa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "silmissä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ja vaelsi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tietä"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daavidin"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isänsä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "סר",
+      "gloss": "poikennut"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "oikealle"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "eikä vasemmalle"
+    }
+  ],
+  "timestamp": "2026-09-06T23:58:58.523796529Z",
+  "model": "glm-5.3"
+}

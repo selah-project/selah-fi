@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "⟨את⟩ rasvan te syötte, ja ⟨את⟩ villan te puette yllenne, lihavan te teurastatte, laumaa te ette laidunna.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rasvan"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "rasvan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "te syötte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "villan"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "villan"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "te puette"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "lihavan"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "te teurastatte"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "laumaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ette"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "laidunna"
+    }
+  ],
+  "timestamp": "2026-09-07T01:10:48.991068062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 3:21",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ääni paljailla kukkuloilla kuuluu, Israelin poikien itku ja anomiset, koska he vääristivät ⟨את⟩ tiensä, unohtivat ⟨את⟩ Jahven, Elohiminsa.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Ääni"
+    },
+    {
+      "surface": "על",
+      "gloss": "paljailla"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "kukkuloilla"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "kuuluu"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "itku"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "anomiset"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikien"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "העוו",
+      "gloss": "vääristivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiensä"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "tiensä"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "unohtivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohiminsa"
+    }
+  ],
+  "timestamp": "2026-09-07T00:24:59.783550423Z",
+  "model": "glm-5.3"
+}

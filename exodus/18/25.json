@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 18:25",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja Moshe (Mooses) valitsi kykyisiä miehiä koko Israelista ja asetti ⟨את⟩ heidät kansan päämiehiksi: tuhansien päälliköt, satojen päälliköt, viidenkymmenen päälliköt ja kymmenen päälliköt.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "valitsi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "miehiä"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kykyisiä"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelista"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "asetti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "heidät (päämiehiksi)"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "päämiehiksi"
+    },
+    {
+      "surface": "על",
+      "gloss": "yli"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "päälliköt"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tuhansien"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "päälliköt"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "satojen"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "päälliköt"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "viidenkymmenen"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ja päälliköt"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "kymmenen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:35:47.043310968Z",
+  "model": "glm-5.3"
+}

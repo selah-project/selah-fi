@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 145,
+  "translation": "Sinun suuren hyvyytesi muistoa he vuodattavat esiin, ja sinun vanhurskaudestasi he riemuiten veisaavat.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "muistoa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "suuren"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "sinun hyvyytesi"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "he vuodattavat esiin"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "ja sinun vanhurskaudestasi"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "he veisaavat riemuiten"
+    }
+  ],
+  "timestamp": "2026-09-07T02:55:38.375989788Z",
+  "model": "glm-5.3"
+}

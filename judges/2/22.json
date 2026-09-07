@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 2:22",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "sillä siksi, että koetella ⟨את⟩ Israelia heillä: pitävätkö he ⟨את⟩ Jahven tien, vaellakseen sitä, kuten heidän isänsä sitä pitivät — vai eivät.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "sillä siksi, että"
+    },
+    {
+      "surface": "נסות",
+      "gloss": "koetella"
+    },
+    {
+      "surface": "בם",
+      "gloss": "heillä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelia"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "pitävätkö"
+    },
+    {
+      "surface": "הם",
+      "gloss": "he"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven tien"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "vaellakseen"
+    },
+    {
+      "surface": "בם",
+      "gloss": "sitä"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kuten"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "pitivät"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "heidän isänsä"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    }
+  ],
+  "timestamp": "2026-09-06T22:49:44.618294966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 30:13",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja Jerushalajimiin (Jerusalem) kokoontui kansaa paljoa tekemään ⟨את⟩ happamattoman leivän juhlan toisessa kuussa — kokous, sangen suuri.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "ja kokoontui"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimiin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansaa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "paljoa"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "tekemään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "happamattoman leivän juhlan"
+    },
+    {
+      "surface": "חג",
+      "gloss": "juhlan"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "happamattoman leivän"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "kuussa"
+    },
+    {
+      "surface": "השני",
+      "gloss": "toisessa"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "kokous"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "suuri"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangen"
+    }
+  ],
+  "timestamp": "2026-09-07T05:51:47.045338187Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 8:4",
+  "book": "amos",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Kuulkaa tämä, te jotka ahmivatte köyhän, ja saattaaksenne maan nöyryytetyt loppumaan —",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Kuulkaa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "השאפים",
+      "gloss": "te jotka ahmivatte"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "köyhän"
+    },
+    {
+      "surface": "ולשבית",
+      "gloss": "ja saattaaksenne loppumaan"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "nöyryytetyt"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:30:31.635235945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 8:17",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja ⟨את⟩ härän ja ⟨את⟩ sen nahan ja ⟨את⟩ sen lihan ja ⟨את⟩ sen ulosteen hän poltti tulessa leirin ulkopuolella, kuten Jahve käski ⟨את⟩ Moshea (Mooses).",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "härän"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "härän"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen nahan"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "sen nahan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen lihan"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sen lihan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen ulosteen"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "sen ulosteen"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "hän poltti"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulessa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ulkopuolella"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "leirin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kuten"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "käski"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshea (Mooses)"
+    }
+  ],
+  "timestamp": "2026-09-07T04:13:41.979052685Z",
+  "model": "glm-5.3"
+}

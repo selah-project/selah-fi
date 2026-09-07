@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 40:30",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ja nuoret uupuvat ja väsyvät, ja nuorukaiset kompastuvat ja kaatuvat —",
+  "tokens": [
+    {
+      "surface": "ויעפו",
+      "gloss": "ja uupuvat"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "nuoret"
+    },
+    {
+      "surface": "ויגעו",
+      "gloss": "ja väsyvät"
+    },
+    {
+      "surface": "ובחורים",
+      "gloss": "ja nuorukaiset"
+    },
+    {
+      "surface": "כשול",
+      "gloss": "kompastuvat"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "kaatuvat"
+    }
+  ],
+  "timestamp": "2026-09-07T00:14:42.547079338Z",
+  "model": "glm-5.3"
+}

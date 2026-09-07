@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Ja kaikkea kansaa näki ⟨את⟩ pilven pylvään seisovan teltan ovella, ja kaikki kansa nousi ja kumartui maahan, jokainen mieheensä oman telttansa ovella.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Ja näki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkea"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pilven pylvään"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "pylvään"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "pilven"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "seisovan"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ovella"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "teltan"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "ja nousi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "ja kumartui maahan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jokainen"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ovella"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "oman telttansa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:44:08.655127240Z",
+  "model": "glm-5.3"
+}

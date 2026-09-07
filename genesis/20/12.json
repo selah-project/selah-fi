@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja myös: totisesti hän on sisareni, isäni tytär hän on — vain ei äitini tytär — ja hän tuli minulle vaimoksi.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ja myös"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "totisesti"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "sisareni"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tytär"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "isäni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän on"
+    },
+    {
+      "surface": "אך",
+      "gloss": "vain"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tytär"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "äitini"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ja hän tuli"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "vaimoksi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:12:24.082447112Z",
+  "model": "glm-5.3"
+}

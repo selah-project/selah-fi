@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 35:8",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 35,
+  "translation": "Ja minä täytän ⟨את⟩ sen vuoret sen kaatuneilla; sinun kukkuloillasi ja sinun ylängöilläsi ja kaikissa sinun laaksoissasi kaatuvat miekalla lävistetyt.",
+  "tokens": [
+    {
+      "surface": "ומלאתי",
+      "gloss": "ja minä täytän"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen vuoret"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "sen vuoret"
+    },
+    {
+      "surface": "חלליו",
+      "gloss": "sen kaatuneilla"
+    },
+    {
+      "surface": "גבעותיך",
+      "gloss": "sinun kukkuloillasi"
+    },
+    {
+      "surface": "וגאותיך",
+      "gloss": "ja sinun ylängöilläsi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikissa"
+    },
+    {
+      "surface": "אפיקיך",
+      "gloss": "sinun laaksoissasi"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "lävistetyt"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "miekalla"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "kaatuvat"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "niihin"
+    }
+  ],
+  "timestamp": "2026-09-07T01:11:32.501664678Z",
+  "model": "glm-5.3"
+}

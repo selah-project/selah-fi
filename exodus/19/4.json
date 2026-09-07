@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Te näitte, mitä minä tein Mitsrajimille, ja minä kannoin ⟨את⟩ teitä kotkien siipien päälle ja toin ⟨את⟩ teidät luokseni.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "Te"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "näitte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "minä tein"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Mitsrajimille"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "ja kannoin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teitä"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "siipien"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "kotkien"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "ja toin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "luokseni"
+    }
+  ],
+  "timestamp": "2026-09-06T21:36:14.745548165Z",
+  "model": "glm-5.3"
+}

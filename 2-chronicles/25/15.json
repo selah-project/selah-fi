@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 25:15",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja Jahven viha syttyi Amatsjahuuta vastaan, ja hän lähetti hänen luokseen profeetan, ja tämä sanoi hänelle: Miksi sinä etsit ⟨את⟩ sen kansan jumalia, jotka eivät pelastaneet ⟨את⟩ kansaansa sinun kädestäsi?",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "syttyi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "viha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "באמציהו",
+      "gloss": "Amatsjahuuta vastaan"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ja hän lähetti"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänen luokseen"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "profeetan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miksi"
+    },
+    {
+      "surface": "דרשת",
+      "gloss": "sinä etsit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen kansan jumalia"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "jumalia"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sen kansan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "pelastaneet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansaansa"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "kansaansa"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "sinun kädestäsi"
+    }
+  ],
+  "timestamp": "2026-09-07T05:49:29.805206479Z",
+  "model": "glm-5.3"
+}

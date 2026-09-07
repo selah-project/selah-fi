@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 16:22",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja vuohi kantaa päällään ⟨את⟩ kaikki heidän rikkeensä erottamisen maahan, ja hän päästää ⟨את⟩ vuohin erämaahan.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "ja kantaa"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "vuohi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "päällään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki heidän rikkeensä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "עונתם",
+      "gloss": "heidän rikkeensä"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "erottamisen"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ja päästää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vuohin"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "vuohin"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "erämaahan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:55:47.319399305Z",
+  "model": "glm-5.3"
+}

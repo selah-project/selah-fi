@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Suree ja huttuu maa, nuupahuttaa, huttuu maanpiiri; maan kansan korkeimmat ovat nuupahtaneet.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "Suree"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "huttuu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "nuupahuttaa"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "huttuu"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "maanpiiri"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "nuupahtaneet"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "korkeimmat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:08:23.185782485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 130,
+  "translation": "Nousemisten laulu. Syvyyksistä minä huusin sinua, Jahve.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Laulu"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "nousemisten"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "syvyyksistä"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "minä huusin sinua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-07T04:33:23.480069490Z",
+  "model": "glm-5.3"
+}

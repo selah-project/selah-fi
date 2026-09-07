@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja kohen ottaa ⟨osaa⟩ öljylogista ja kaataa sen kohenin vasempaan kämmeneen.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Ja ottaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "logista"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "öljyä"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "ja kaataa"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "כף",
+      "gloss": "kämmeneen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenin"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "vasempaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:53:51.917858864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 31:8",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Ja Jahve, hän ⟨on⟩ se, joka kulkee sinun edelläsi; hän ⟨on⟩ sinun kanssasi, hän ei hellitä sinusta eikä jätä sinua; älä pelkää älkääkä lannistuko.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ja Jahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "se, joka kulkee"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sinun edelläsi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "on"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sinun kanssasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ירפך",
+      "gloss": "hellitä sinusta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "jätä sinua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "pelkää"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "älkääkö"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "lannistuko"
+    }
+  ],
+  "timestamp": "2026-09-06T22:38:52.105633799Z",
+  "model": "glm-5.3"
+}

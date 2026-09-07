@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Sillä miestä ei ⟨ole⟩ kotona, hän on kulkenut kaukaiselle tielle.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "miestä"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "kotona"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "on kulkenut"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tielle"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "kaukaiselle"
+    }
+  ],
+  "timestamp": "2026-09-07T03:03:14.063705576Z",
+  "model": "glm-5.3"
+}

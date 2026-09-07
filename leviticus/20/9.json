@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Sillä jokainen mies, joka kirouksella kiroaa ⟨את⟩ isänsä ja ⟨את⟩ äitinsä, kuolemalla kuolkoon: isänsä ja äitinsä hän kirosi, hänen verensä olkoon hänen päällään.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jokainen mies"
+    },
+    {
+      "surface": "איש",
+      "gloss": " mies"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "kiroaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isänsä"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isänsä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "äitinsä"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "äitinsä"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kuolemalla"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "kuolkoon"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isänsä"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ja äitinsä"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "kirosi"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "hänen verensä"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hänen päällään"
+    }
+  ],
+  "timestamp": "2026-09-06T21:57:10.330663600Z",
+  "model": "glm-5.3"
+}

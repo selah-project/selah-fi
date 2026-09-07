@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 39,
+  "translation": "Nuoruksilla pahan tähden sinä kuritit ihmistä, ja hän himoitsemansa söi matalaksi kuin koisan toukka; vain haikeus on jokainen ihminen. Sela.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "Nuoruksilla"
+    },
+    {
+      "surface": "על",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "עון",
+      "gloss": "pahan"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "kuritit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ihmistä"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "ja söi matalaksi"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "kuin koisan toukka"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "himoitsemansa"
+    },
+    {
+      "surface": "אך",
+      "gloss": "vain"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "haikeus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokainen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihminen"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-09-07T06:30:10.307388141Z",
+  "model": "glm-5.3"
+}

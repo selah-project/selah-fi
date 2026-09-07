@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja Aharonin (Aaronin) pojat, kohen (pappi), panevat tulen alttarille ja asettavat puut tulen päälle.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "ja panevat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonin (Aaronin)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen (pappi)"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tulen"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarille"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "ja asettavat"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "puut"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "האש",
+      "gloss": "tulen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:47:41.377869556Z",
+  "model": "glm-5.3"
+}

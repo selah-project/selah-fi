@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 78,
+  "translation": "Hän pystytti todistuksen Ja'akovissa (Jaakobissa) ja asetti Toran (Tooran) Israeliin, jonka hän käski ⟨את⟩ meidän isiämme, tehdäkseen ne tunnetuiksi heidän pojilleen.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "pystytti"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "todistuksen"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Ja'akovissa (Jaakobissa)"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "ja Toran (Tooran)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "asetti"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israeliin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "käski"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meidän isiämme"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "meidän isiämme"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "tehdäkseen ne tunnetuiksi"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "heidän pojilleen"
+    }
+  ],
+  "timestamp": "2026-09-07T04:34:33.700189481Z",
+  "model": "glm-5.3"
+}

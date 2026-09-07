@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja sinä pidät ⟨את⟩ tämän säädöksen määräaikanaan, päivistä päiviin.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Ja sinä pidät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän säädöksen"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "säädöksen"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "määräaikanaan"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "päivistä"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "päiviin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:33:57.463773905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Vain niinkuin syödään ⟨את⟩ gasellin ja ⟨את⟩ peuran, niin saat sinä sen syödä; epäpuhdas ja puhdas saavat sen yhdessä syödä.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Vain"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niinkuin"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "syödään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gasellin"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "gasellin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "peuran"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "peuran"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "saat sinä sen syödä"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "epäpuhdas"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "ja puhdas"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "yhdessä"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "saavat sen syödä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:29:26.526570496Z",
+  "model": "glm-5.3"
+}

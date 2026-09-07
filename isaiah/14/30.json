@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 14:30",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja kurjien esikoiset laiduntavat, ja köyhät lepäävät turvassa; mutta minä tapan nälällä sinun juuresi, ja sinun jälkeläisesi surmataan.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "Ja laiduntavat"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "esikoiset"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "kurjien"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "ja köyhät"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "turvassa"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "lepäävät"
+    },
+    {
+      "surface": "והמתי",
+      "gloss": "mutta minä tapan"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "nälällä"
+    },
+    {
+      "surface": "שרשך",
+      "gloss": "sinun juuresi"
+    },
+    {
+      "surface": "ושאריתך",
+      "gloss": "ja sinun jälkeläisesi"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "surmataan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:05:37.707121671Z",
+  "model": "glm-5.3"
+}

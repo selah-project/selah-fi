@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja hän kohotti ⟨את⟩ kasvonsa ja pitivät katseensa häpeään asti, ja Elohimin mies itki.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "kohotti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasvonsa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "kasvonsa"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "piti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "בש",
+      "gloss": "häpeään"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "itki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:50:26.526338514Z",
+  "model": "glm-5.3"
+}

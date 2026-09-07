@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Sen tähden minä kiitän sinua kansojen keskuudessa, Jahve, ja veisaan sinun nimellesi.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Sen tähden"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "אודך",
+      "gloss": "minä kiitän sinua"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kansojen keskuudessa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "ja sinun nimellesi"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "veisaan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:58:58.978645459Z",
+  "model": "glm-5.3"
+}

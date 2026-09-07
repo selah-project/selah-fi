@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja kohen ottaa ⟨את⟩ yhden karitsoista ja tuo ⟨את⟩ sen vikauhriksi sekä ⟨את⟩ login öljyä, ja hän heiluttaa ⟨את⟩ ne heilutusuhriksi Jahven eteen.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Ja ottaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yhden karitsoista"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "karitsa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ja tuo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sen",
+      "marks": "sen (karitsan)"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "vikauhriksi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "login öljyä"
+    },
+    {
+      "surface": "לג",
+      "gloss": "login"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "öljyä"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "ja heiluttaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ne",
+      "marks": "ne"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "heilutusuhriksi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-06T21:53:16.263734114Z",
+  "model": "glm-5.3"
+}

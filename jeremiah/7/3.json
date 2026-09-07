@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 7:3",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Näin sanoi Jahve Sebaot, Israelin Elohim: Parantakaa tienne ja tekonne, niin minä annan ⟨את⟩ teidän asua tässä paikassa.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Näin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "Parantakaa"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "tienne"
+    },
+    {
+      "surface": "ומעלליכם",
+      "gloss": "ja tekonne"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "niin minä annan asua"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "teidän asua"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "paikassa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tässä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:26:37.637091471Z",
+  "model": "glm-5.3"
+}

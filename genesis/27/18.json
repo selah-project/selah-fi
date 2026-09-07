@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ja hän tuli isänsä luo ja sanoi: ”Isäni.” Ja hän sanoi: ”Tässä minä olen. Kuka sinä olet, poikani?”",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ja hän tuli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isänsä"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Isäni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Tässä minä olen"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kuka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikani"
+    }
+  ],
+  "timestamp": "2026-09-06T21:16:42.387691332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 22:17",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Hän lähetti korkeudesta, hän otti minut, hän veti minut ulos vesistä, monista.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "lähetti"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "korkeudesta"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "otti minut"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "veti minut ulos"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "vesistä"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "monista"
+    }
+  ],
+  "timestamp": "2026-09-06T23:30:45.363761467Z",
+  "model": "glm-5.3"
+}

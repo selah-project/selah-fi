@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 48:21",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 48,
+  "translation": "Ja Israel sanoi Josefille: Katso, minä kuolen, ja Elohim on oleva teidän kanssanne ja hän palauttaa ⟨את⟩ teidät isienne maahan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-lle"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "מת",
+      "gloss": "kuolen"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ja on oleva"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "teidän kanssanne"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "ja hän palauttaa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät",
+      "marks": "teidät (pronomininen את)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "isienne"
+    }
+  ],
+  "timestamp": "2026-09-06T21:29:06.059856336Z",
+  "model": "glm-5.3"
+}

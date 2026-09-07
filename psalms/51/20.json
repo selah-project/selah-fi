@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 51,
+  "translation": "Tee hyvä tahtosi mukaan ⟨את⟩ Tsijonille (Siionille): rakenna Jerushalajimin (Jerusalemin) muurit.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "tee hyvä"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "tahtosi mukaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsijon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijonille"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "rakenna"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "muurit"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimin"
+    }
+  ],
+  "timestamp": "2026-09-07T04:33:59.686326679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Suun hedelmästä mies syö hyvää, mutta pettureiden Nefesh ⟨on⟩ väkivaltaa.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "hedelmästä"
+    },
+    {
+      "surface": "פי",
+      "gloss": "Suun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "syö"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvää"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "mutta Nefesh"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "pettureiden"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "väkivaltaa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:08:04.307829405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 33:9",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Ja Menashe (Manasse) saattoi harhaan ⟨את⟩ Jehudan ja Jerushalajimin asukkaat tekemään pahaa, ⟨enemmän⟩ kuin ne kansat, jotka Jahve oli hävittänyt Israelin lasten edestä.",
+  "tokens": [
+    {
+      "surface": "ויתע",
+      "gloss": "saattoi harhaan"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehudan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "ja asukkaat"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimin"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "tekemään"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pahaa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuin"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ne kansat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "oli hävittänyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "edestä"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:50:28.403827810Z",
+  "model": "glm-5.3"
+}

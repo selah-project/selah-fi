@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 132:18",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 132,
+  "translation": "Hänen vihamiehensä puetan häpeään, ja hänen päällensä kukoistaa hänen kruunansa.",
+  "tokens": [
+    {
+      "surface": "אויביו",
+      "gloss": "hänen vihamiehensä"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "puetan"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "häpeään"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "ja hänen päällensä"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "kukoistaa"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "hänen kruunansa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:48:52.578223525Z",
+  "model": "glm-5.3"
+}

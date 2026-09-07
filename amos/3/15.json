@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "amos 3:15",
+  "book": "amos",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja lyön talvihuoneen kesähuoneen päälle, ja norsunluuhuoneet hukkuvat ja monet huoneet häviävät, sananlausuma Jahven.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "Ja lyön"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "החרף",
+      "gloss": "talvi-"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "kesä-"
+    },
+    {
+      "surface": "ואבדו",
+      "gloss": "ja hukkuvat"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "huoneet"
+    },
+    {
+      "surface": "השן",
+      "gloss": "norsunluu-"
+    },
+    {
+      "surface": "וספו",
+      "gloss": "ja häviävät"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "huoneet"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "monet"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sananlausuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-07T01:25:30.223660921Z",
+  "model": "glm-5.3"
+}

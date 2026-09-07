@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja kansa ei palannut lyöjänsä luokse, eikä ⟨את⟩ Jahvea Sebaotia he etsineet.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "ja kansa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "שב",
+      "gloss": "palannut"
+    },
+    {
+      "surface": "עד",
+      "gloss": "luokse"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "lyöjänsä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "eikä ⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaotia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "he etsineet"
+    }
+  ],
+  "timestamp": "2026-09-07T04:25:22.494474861Z",
+  "model": "glm-5.3"
+}

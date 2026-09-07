@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 30:23",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Sillä minä tiedän, että kuolema palauttaa minut, ⟨ja⟩ ⟨on⟩ talo, joka on määrätty kaikelle elävälle.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "minä tiedän"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kuolema"
+    },
+    {
+      "surface": "תשיבני",
+      "gloss": "palauttaa minut"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ja talo"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "määrätty"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kaikelle"
+    },
+    {
+      "surface": "חי",
+      "gloss": "elävälle"
+    }
+  ],
+  "timestamp": "2026-09-07T03:42:48.933718522Z",
+  "model": "glm-5.3"
+}

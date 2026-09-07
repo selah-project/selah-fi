@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 14:4",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Mutta hänen isänsä ja äitinsä eivät tienneet, että se ⟨oli⟩ Jahvesta, että hän etsi tilaisuutta pelishtiläisiä vastaan; ja sillä aikaa pelishtiläiset hallitsivat Israelia.",
+  "tokens": [
+    {
+      "surface": "ואביו",
+      "gloss": "ja hänen isänsä"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ja äitinsä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tienneet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Jahvesta"
+    },
+    {
+      "surface": "היא",
+      "gloss": "se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "tilaisuutta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "etsi"
+    },
+    {
+      "surface": "מפלשתים",
+      "gloss": "pelishtiläisiä vastaan"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "ja sillä aikaa"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "tuolloin"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelishtiläiset"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "hallitsivat"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israelia"
+    }
+  ],
+  "timestamp": "2026-09-06T23:00:22.348293936Z",
+  "model": "glm-5.3"
+}

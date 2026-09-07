@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Jos varmasti tavataan hänen kädessään varkaus elävänä — härästä aasiin asti, lamasta asti — kaksinkertaisen hän maksaa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jos"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "varmasti tavataan"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "tavataan"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "hänen kädessään"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "varkaus"
+    },
+    {
+      "surface": "משור",
+      "gloss": "härästä"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "aasiin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "שה",
+      "gloss": "lamasta"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "elävänä"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kaksinkertaisen"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "hän maksaa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:38:25.932697758Z",
+  "model": "glm-5.3"
+}

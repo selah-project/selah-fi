@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 3:9",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Pimeiksi tulkoot hämärän tähdet, odottakoon se valoa, mutta ⟨ei⟩ mitään, ja älköön se nähkö aamuruskon silmäluomia.",
+  "tokens": [
+    {
+      "surface": "יחשכו",
+      "gloss": "tulkoot pimeiksi"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "tähdet"
+    },
+    {
+      "surface": "נשפו",
+      "gloss": "hämärän"
+    },
+    {
+      "surface": "יקו",
+      "gloss": "odottakoon"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "valoa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mutta ⟨ei⟩ mitään"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja älköön"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "se nähkö"
+    },
+    {
+      "surface": "בעפעפי",
+      "gloss": "silmäluomia"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "aamuruskon"
+    }
+  ],
+  "timestamp": "2026-09-07T03:22:06.526918271Z",
+  "model": "glm-5.3"
+}

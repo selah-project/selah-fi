@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 76:12",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 76,
+  "translation": "Vovalkaa ja täyttäkää Jahvelle, teidän Elohimillenne, kaikki hänen ympärillään olevat; viekööt he lahjan Pelättävälle.",
+  "tokens": [
+    {
+      "surface": "נדרו",
+      "gloss": "Vovalkaa"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "ja täyttäkää"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "teidän Elohimillenne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "hänen ympärillään olevat"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "viekööt"
+    },
+    {
+      "surface": "שי",
+      "gloss": "lahjan"
+    },
+    {
+      "surface": "למורא",
+      "gloss": "Pelättävälle"
+    }
+  ],
+  "timestamp": "2026-09-07T02:21:43.982280948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja David hillitsi ⟨את⟩ miehiään sanoilla eikä antanut heidän nousta Shaulia vastaan; ja Shaul nousi luolasta ja meni tietään.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "Ja hillitsi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miehiään"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "miehiään"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "sanoilla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "antanut heidän"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "nousta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vastaan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulia"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ja Shaul"
+    },
+    {
+      "surface": "קם",
+      "gloss": "nousi"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "luolasta"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ja meni"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tietään"
+    }
+  ],
+  "timestamp": "2026-09-06T23:14:47.599646983Z",
+  "model": "glm-5.3"
+}

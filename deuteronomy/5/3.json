@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ei ⟨את⟩ isiemme kanssa tehnyt Jahve ⟨את⟩ tätä liittoa, vaan ⟨את⟩ meidän kanssamme — me, nämä, täällä, tänä päivänä, me kaikki elävinä.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isiemme"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "isiemme"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "teki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tätä liittoa"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "liittoa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vaan"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ meidän kanssamme"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "me"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "näme"
+    },
+    {
+      "surface": "פה",
+      "gloss": "täällä"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tänä päivänä"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "me kaikki"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "elävinä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:24:59.679613799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja nämä ovat nimet Aharonin pojille: esikoisena Nadav, ja Avihu, Elazar ja Itamar.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ja nämä"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ovat nimet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojille"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonin"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "esikoisena"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "ja Avihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "ja Itamar"
+    }
+  ],
+  "timestamp": "2026-09-06T22:03:40.467809044Z",
+  "model": "glm-5.3"
+}

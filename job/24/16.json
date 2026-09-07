@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 24:16",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Pimeässä hän murtautuu taloihin; päivällä he sulkeutuvat luokseen, eivät he tunne valoa.",
+  "tokens": [
+    {
+      "surface": "חתר",
+      "gloss": "murtautuu"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "Pimeässä"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "taloihin"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "päivällä"
+    },
+    {
+      "surface": "חתמו",
+      "gloss": "sulkeutuvat"
+    },
+    {
+      "surface": "למו",
+      "gloss": "luokseen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tunne"
+    },
+    {
+      "surface": "אור",
+      "gloss": "valoa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:40:39.962771612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 8:17",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Karjanne hän kymmenystää, ja te tulette ⟨olemaan⟩ hänen palvelijoitaan.",
+  "tokens": [
+    {
+      "surface": "צאנכם",
+      "gloss": "karjanne"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "hän kymmenystää"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ja te"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "tulette ⟨olemaan⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänen"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "palvelijoitaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:06:00.980871185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 1:1",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Yirmejahun (Jeremian), Hilkijahun pojan, sanat — pappien seasta, jotka ⟨olivat⟩ Anatotissa, Binyaminin maassa.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmejahun (Jeremian)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Hilkijahun"
+    },
+    {
+      "surface": "מן",
+      "gloss": "seasta"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "pappien"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "בענתות",
+      "gloss": "Anatotissa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyaminin"
+    }
+  ],
+  "timestamp": "2026-09-07T00:24:02.562842881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 3:4",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja kuningas meni Givoniin uhraamaan siellä, sillä se ⟨oli⟩ suuri uhrikumpu; tuhat polttouhria nosti Shelomo tuolle alttarille.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ja meni"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "גבענה",
+      "gloss": "Givoniin"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "uhraamaan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "היא",
+      "gloss": "se"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "uhrikumpu"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "suuri"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhat"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "polttouhria"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "nosti"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarille"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tuolle"
+    }
+  ],
+  "timestamp": "2026-09-06T23:34:12.352573265Z",
+  "model": "glm-5.3"
+}

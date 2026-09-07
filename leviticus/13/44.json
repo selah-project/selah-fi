@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 13:44",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Tsaraatista sairas mies — hän ⟨on⟩ saastainen; kohen julistaa hänet varmasti saastaiseksi; hänen lyöntinsä ⟨on⟩ hänen päässään.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "Tsaraatista sairas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "saastainen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "saastaiseksi"
+    },
+    {
+      "surface": "יטמאנו",
+      "gloss": "julistaa hänet varmasti"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "hänen päässään"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "hänen lyöntinsä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:52:41.518562411Z",
+  "model": "glm-5.3"
+}

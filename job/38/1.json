@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 38,
+  "translation": "Ja Jahve vastasi ⟨את⟩ Ijjovia (Job) pyörremyrskystä ja sanoi:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Ja Jahve vastasi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijjovia"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijjovia"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "pyörremyrskystä"
+    },
+    {
+      "surface": "הסערה",
+      "gloss": "pyörremyrskystä"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    }
+  ],
+  "timestamp": "2026-09-07T03:51:02.953320422Z",
+  "model": "glm-5.3"
+}

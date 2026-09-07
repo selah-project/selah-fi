@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 2:2",
+  "book": "lamentations",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Nielaisi Adonai säästämättä ⟨את⟩ kaikki Ja'akovin asuinpaikat; hän mursi kiivastuksessaan Jehudan tyttären linnat ja kaatoi ne maahan; hän häpäisi ⟨את⟩ valtakunnan ja sen ruhtinaat.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "Nielaisi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "säästämättä"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "ei säästänyt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki Ja'akovin asuinpaikat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "asuinpaikat"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akovin"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "mursi"
+    },
+    {
+      "surface": "בעברתו",
+      "gloss": "kiivastuksessaan"
+    },
+    {
+      "surface": "מבצרי",
+      "gloss": "linnat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tyttären"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "kaatoi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "häpäisi"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "valtakunnan"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "ja sen ruhtinaat"
+    }
+  ],
+  "timestamp": "2026-09-07T04:04:03.225627816Z",
+  "model": "glm-5.3"
+}

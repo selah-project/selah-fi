@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja kansa kantoi ⟨את⟩ taikinansa ennen kuin se hapattui, taikinavuuensa sidottuina vaatteisiinsa olkapäidensä päälle.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Ja kantoi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taikinansa"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "taikinansa"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ennen kuin"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "hapattui"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "taikinavuuensa"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "sidottuina"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "vaatteisiinsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "olkapäidensä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:34:03.562355475Z",
+  "model": "glm-5.3"
+}

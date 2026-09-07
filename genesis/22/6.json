@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 22:6",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja Avraham otti ⟨את⟩ polttouhrin puut ja pani ne Jitshakin (Iisak), poikansa, selkään; ja hän otti käteensä ⟨את⟩ tulen ja ⟨את⟩ veitsen; ja he menivät, molemmat yhdessä.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ja otti"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "polttouhrin puut"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "puut"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "polttouhrin"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ja pani"
+    },
+    {
+      "surface": "על",
+      "gloss": "selkään"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshakin"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "poikansa"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ja otti"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "käteensä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tulen"
+    },
+    {
+      "surface": "האש",
+      "gloss": "tulen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "veitsen"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "veitsen"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ja he menivät"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "molemmat"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "yhdessä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:12:39.022201317Z",
+  "model": "glm-5.3"
+}

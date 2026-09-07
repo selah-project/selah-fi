@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja kuningas Jehoram (Jooram) lähti sinä päivänä Shomronista (Samaria) ja mobilisoi ⟨את⟩ koko Israelin.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Ja lähti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehoram"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sinä päivänä"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tuona"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "Shomronista"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "mobilisoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko Israelin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:47:28.260168128Z",
+  "model": "glm-5.3"
+}

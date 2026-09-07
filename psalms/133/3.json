@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 133,
+  "translation": "Kuin Hermonin kaste, joka valuu alas Tsijonin (Siion) vuorille, sillä siinä Jahve on käskenyt ⟨את⟩ siunauksen — elämän, iankaikkisuuteen asti.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "Kuin kaste"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermonin"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "joka valuu alas"
+    },
+    {
+      "surface": "על",
+      "gloss": "vuorille"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "vuorten"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijonin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siinä"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "on käskenyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siunauksen"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "siunauksen"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "elämän"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "iankaikkisuuteen"
+    }
+  ],
+  "timestamp": "2026-09-07T02:50:38.597508790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 3:1",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja nämä ovat ne kansat, jotka Jahve jätti jäljelle koetellakseen niillä ⟨את⟩ Israelia — ⟨את⟩ kaikki ne, jotka eivät tunteneet ⟨את⟩ kaikkia Kenaanin sotia.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ja nämä"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kansat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "jätti jäljelle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "koetellakseen"
+    },
+    {
+      "surface": "בם",
+      "gloss": "niillä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tunteneet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikkia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkia"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "sotia"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaanin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:51:41.708589578Z",
+  "model": "glm-5.3"
+}

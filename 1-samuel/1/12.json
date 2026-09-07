@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja tapahtui, kun hän oli monistanut rukoilua Jahven edessä, että Eli pani merkille ⟨את⟩ hänen suunsa.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ja tapahtui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "oli monistanut"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "rukoilua"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "ja Eli"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "pani merkille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen suunsa"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "hänen suunsa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:04:15.853735847Z",
+  "model": "glm-5.3"
+}

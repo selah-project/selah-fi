@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja hän herjasi ⟨את⟩ Israelia, ja Jehonatan, Shimean poika, Davidin (Daavid) veli, löi hänet.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "ja herjasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelia"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "ja löi hänet"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Shimean"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "veli"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:23:16.301164561Z",
+  "model": "glm-5.3"
+}

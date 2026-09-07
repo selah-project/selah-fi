@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 85,
+  "translation": "Vanhurskaus kulkee hänen edessään, ja ⟨se⟩ asettaa askelensa tieksi.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Vanhurskaus"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "hänen edessään"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "kulkee"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ja ⟨se⟩ asettaa"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "tieksi"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "askeleensa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:28:18.372634300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 33:3",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Melun äänestä pakenivat kansat; sinun ylentämisestäsi hajaantuivat kansakunnat.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "äänestä"
+    },
+    {
+      "surface": "המון",
+      "gloss": "melun"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "pakenivat"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "kansat"
+    },
+    {
+      "surface": "מרוממתך",
+      "gloss": "sinun ylentämisestäsi"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "hajaantuivat"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kansakunnat"
+    }
+  ],
+  "timestamp": "2026-09-07T00:11:03.043442489Z",
+  "model": "glm-5.3"
+}

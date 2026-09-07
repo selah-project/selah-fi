@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 24:20",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Sillä jos mies löytää ⟨את⟩ vihollisensa, lähettääkö hän hänet hyvälle tielle? Ja Jahve palkitkoon sinua hyvyydellä tämän päivän tähden, jonka teit minulle.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Sillä jos"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "löytää"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vihollisensa"
+    },
+    {
+      "surface": "איבו",
+      "gloss": "vihollisensa"
+    },
+    {
+      "surface": "ושלחו",
+      "gloss": "lähettääkö hän hänet"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tielle"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "hyvälle"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Ja Jahve"
+    },
+    {
+      "surface": "ישלמך",
+      "gloss": "palkitkoon sinua"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "hyvyydellä"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tämän päivän"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "teit"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    }
+  ],
+  "timestamp": "2026-09-06T23:14:40.676864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "ja oinastaljoja punaisiksi värittyneitä, ja tahash-taljoja, ja shittim-puuta (akasiapuuta).",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "ja taljat"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "oinaiden"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "punaisiksi värittyneitä"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "ja taljat"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "tahash-eläinten"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "ja puuta"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim-"
+    }
+  ],
+  "timestamp": "2026-09-06T21:38:59.861539524Z",
+  "model": "glm-5.3"
+}

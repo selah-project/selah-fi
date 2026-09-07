@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "sillä teidän silmänne ⟨ovat⟩ ne, jotka näkivät ⟨את⟩ kaikki Jahven suuren työn, jonka hän teki",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "teidän silmänne"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "näkevät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki Jahven suuren työn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "työn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "suuren"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hän teki"
+    }
+  ],
+  "timestamp": "2026-09-06T22:28:08.323749248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Olen perinyt todistuksesi iankaikkisesti, sillä ne ⟨ovat⟩ sydämeni riemu.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "olen perinyt"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "todistuksesi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "riemu"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sydämeni"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ne"
+    }
+  ],
+  "timestamp": "2026-09-07T02:47:35.873657689Z",
+  "model": "glm-5.3"
+}

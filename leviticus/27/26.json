@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 27:26",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Vain esikoinen, joka annetaan esikoisena Jahvelle karjasta — ei kukaan pyhittäköön sitä ⟨את⟩; olipa se härkä tai lammas, Jahven se on.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Vain"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "esikoinen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "יבכר",
+      "gloss": "annetaan esikoisena"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "karjasta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "pyhittäköön"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kukaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sen (esikoisen)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "olipa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "härkä"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tai"
+    },
+    {
+      "surface": "שה",
+      "gloss": "lammas"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se on"
+    }
+  ],
+  "timestamp": "2026-09-06T22:01:31.221153295Z",
+  "model": "glm-5.3"
+}

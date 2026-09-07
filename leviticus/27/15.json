@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 27:15",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ja jos pyhittäjä lunastaa ⟨את⟩ talonsa, hän lisätkö hopeaa arviisi sen päälle, ja se tulee hänelle.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ja jos"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "pyhittäjä"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "lunastaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "talonsa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "talonsa"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "hän lisää"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "viidennen"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "hopeaa"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "arviosi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sen päälle"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ja se on"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    }
+  ],
+  "timestamp": "2026-09-06T22:01:41.234165774Z",
+  "model": "glm-5.3"
+}

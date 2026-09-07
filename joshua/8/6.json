@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 8:6",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja he tulevat perässämme, kunnes me vedämme ⟨את⟩ heidät pois kaupungista; sillä he sanovat: ”He pakenevat meidän edestämme, niin kuin ensimmäisellä kerralla”, ja me pakenemme heidän edestään.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ja he tulevat ulos"
+    },
+    {
+      "surface": "אחרינו",
+      "gloss": "perässämme"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "התיקנו",
+      "gloss": "me vedämme pois"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ heidät",
+      "marks": "heidät"
+    },
+    {
+      "surface": "מן",
+      "gloss": "pois"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungista"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "he sanovat"
+    },
+    {
+      "surface": "נסים",
+      "gloss": "pakenevat"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "meidän edestämme"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "ensimmäisellä kerralla"
+    },
+    {
+      "surface": "ונסנו",
+      "gloss": "ja me pakenemme"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "heidän edestään"
+    }
+  ],
+  "timestamp": "2026-09-06T22:42:24.898405724Z",
+  "model": "glm-5.3"
+}

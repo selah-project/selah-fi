@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 40:32",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Aseta kätesi hänen päällensä — muista taistelu, älä jatka!",
+  "tokens": [
+    {
+      "surface": "שים",
+      "gloss": "Aseta"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hänen päällensä"
+    },
+    {
+      "surface": "כפך",
+      "gloss": "kätesi"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "muista"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "taistelu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "jatka"
+    }
+  ],
+  "timestamp": "2026-09-07T04:35:53.112404015Z",
+  "model": "glm-5.3"
+}

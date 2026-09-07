@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 5:2",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja Paro sanoi: Kuka ⟨on⟩ Jahve, jonka ääntä minun kuuluisi, että lähettäisin ⟨את⟩ Israelin pois? En minä tunne ⟨את⟩ Jahvea, ja myös ⟨את⟩ Israelia minä en lähetä pois.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "kuuluisin"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "ääntänsä"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "lähettääkseni pois"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "En"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "tunne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja myös"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "lähetä pois"
+    }
+  ],
+  "timestamp": "2026-09-07T04:11:13.062747007Z",
+  "model": "glm-5.3"
+}

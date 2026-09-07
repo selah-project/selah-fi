@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 144,
+  "translation": "joiden suu puhuu turhuutta ja joiden oikea käsi ⟨on⟩ valheen oikea käsi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "joiden"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "heidän suunsa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "puhuu"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "turhuutta"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "ja heidän oikea kätensä"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "oikea käsi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "valheen"
+    }
+  ],
+  "timestamp": "2026-09-07T02:57:48.783470525Z",
+  "model": "glm-5.3"
+}

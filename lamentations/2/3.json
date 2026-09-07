@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 2:3",
+  "book": "lamentations",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Katkaisi hän hehkuvassa vihassa koko Israelin sarven, käänsi oikean kätensä taakse vihollisen edestä ja sytytti Ja'akovin keskellä tulenliekin, joka söi kaiken ympäriltä.",
+  "tokens": [
+    {
+      "surface": "גדע",
+      "gloss": "Katkaisi"
+    },
+    {
+      "surface": "בחרי",
+      "gloss": "hehkuvassa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "vihassa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "sarven"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "käänsi"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "taakse"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "oikean kätensä"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "edestä"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "vihollisen"
+    },
+    {
+      "surface": "ויבער",
+      "gloss": "ja sytytti"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Ja'akovin keskellä"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "kuin tulen"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "liekin"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "söi"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympäriltä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:04:03.226394806Z",
+  "model": "glm-5.3"
+}

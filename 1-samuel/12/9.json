@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja he unohtivat ⟨את⟩ Jahven, Elohiminsa, ja hän myi ⟨את⟩ heidät Siseraan (Sisera), Hazorin sotaväen päällikön käteen, ja filistealaisten käteen, ja Moabin kuninkaan käteen, ja ne sotivat heitä vastaan.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "ja he unohtivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohiminsa"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "ja hän myi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "heidät"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käteen"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Siseraan (Sisera)"
+    },
+    {
+      "surface": "שר",
+      "gloss": "päällikön"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "sotaväen"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hazorin"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ja käteen"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistealaisten"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ja käteen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabin"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ja ne sotivat"
+    },
+    {
+      "surface": "בם",
+      "gloss": "heitä vastaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:08:25.935353549Z",
+  "model": "glm-5.3"
+}

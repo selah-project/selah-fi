@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Sillä hebelinä hän tulee, ja pimeyteen hän menee, ja pimeyteen hänen nimensä peitetään.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "hebelinä"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tulee"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "ja pimeyteen"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "menee"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "ja pimeyteen"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hänen nimensä"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "peitetään"
+    }
+  ],
+  "timestamp": "2026-09-07T04:39:07.459723302Z",
+  "model": "glm-5.3"
+}

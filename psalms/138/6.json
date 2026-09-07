@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 138,
+  "translation": "Sillä korkea ⟨on⟩ Jahve, ja nöyrän hän näkee, ja ylpeän hän tuntee kaukaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "רם",
+      "gloss": "korkea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "ja nöyrän"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "hän näkee"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "ja ylpeän"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "kaukaa"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "hän tuntee"
+    }
+  ],
+  "timestamp": "2026-09-07T02:54:25.765316926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Hullujen vaiva väsyttää heidät, sillä he eivät osaa kulkea kaupunkiin.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "vaiva"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "hullujen"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "väsyttää heidät"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "osaa"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kulkea"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kaupunkiin"
+    }
+  ],
+  "timestamp": "2026-09-07T04:37:47.108754782Z",
+  "model": "glm-5.3"
+}

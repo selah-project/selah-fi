@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja koko Israel meni alas Pelishtien luo teroittamaan, kukin ⟨את⟩ auransa ja ⟨את⟩ kyntörautansa ja ⟨את⟩ kirveensä ja ⟨את⟩ kuokkansa.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "Ja menivät alas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Pelishtien luo"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "teroittamaan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kukin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "auransa"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "auransa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kyntörautansa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "kyntörautansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kirveensä"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "kirveensä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kuokkansa"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "kuokkansa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:09:15.016373143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 22:8",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja monet kansat kulkevat tämän kaupungin ohi, ja he sanovat kukin toisilleen: Miksi Jahve teki näin tälle suurelle kaupungille?",
+  "tokens": [
+    {
+      "surface": "ועברו",
+      "gloss": "kulkevat ohi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kansat"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "monet"
+    },
+    {
+      "surface": "על",
+      "gloss": "ohi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "sanovat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kukin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "— (tilisä)"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "toisilleen"
+    },
+    {
+      "surface": "על",
+      "gloss": "— (kysymyksen johdanto)"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Miksi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "näin"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kaupungille"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "suurelle"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tälle"
+    }
+  ],
+  "timestamp": "2026-09-07T04:26:27.185453255Z",
+  "model": "glm-5.3"
+}

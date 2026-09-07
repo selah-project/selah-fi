@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 1:9",
+  "book": "micah",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Sillä hänen haavansa ⟨on⟩ parantumaton; sillä se on tullut Judaan, se on koskettanut kansani portille, Jerushalajimiin asti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "אנושה",
+      "gloss": "parantumaton"
+    },
+    {
+      "surface": "מכותיה",
+      "gloss": "hänen haavansa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "באה",
+      "gloss": "on tullut"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judaan"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "on koskettanut"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "שער",
+      "gloss": "portille"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kansani"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimiin"
+    }
+  ],
+  "timestamp": "2026-09-07T04:31:00.011690540Z",
+  "model": "glm-5.3"
+}

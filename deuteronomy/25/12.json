@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "leikkaisit pois ⟨את⟩ hänen kätensä; silmäsi ei säälikö.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "leikkaisit pois"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen kätensä"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "hänen kätensä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "säälikö"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "silmäsi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:33:49.387442186Z",
+  "model": "glm-5.3"
+}

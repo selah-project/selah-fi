@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 59,
+  "translation": "Älä tapa heitä, ettei kansani unhota; vaivuta niitä voimallasi ja vie ne alas, kilpemme, Adonai.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "tapa heitä"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ettei"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "unhota"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kansani"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "vaivuta niitä"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "voimallasi"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "ja vie ne alas"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "kilpemme"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-09-07T02:15:54.009256397Z",
+  "model": "glm-5.3"
+}

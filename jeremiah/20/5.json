@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 20:5",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja minä annan ⟨את⟩ kaiken tämän kaupungin rikkauden ja ⟨את⟩ kaiken sen vaivannäön ja ⟨את⟩ kaiken sen kalleuden, ja ⟨את⟩ kaikkien Jehudan (Juudan) kuningasten aarteet minä annan heidän vihollistensa käteen, ja ne ryöstävät ne ja ottavat ne ja vievät ne Babyloniin (Babylon).",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Ja minä annan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken tämän kaupungin rikkauden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "rikkauden"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaiken sen vaivannäön"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "יגיעה",
+      "gloss": "vaivannäön"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaiken sen kalleuden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "kalleuden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikkien kuningasten aarteet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkien"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "aarteet"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kuningasten"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan (Juudan)"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "minä annan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käteen"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "heidän vihollistensa"
+    },
+    {
+      "surface": "ובזזום",
+      "gloss": "ja ne ryöstävät ne"
+    },
+    {
+      "surface": "ולקחום",
+      "gloss": "ja ottavat ne"
+    },
+    {
+      "surface": "והביאום",
+      "gloss": "ja vievät ne"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babyloniin (Babylon)"
+    }
+  ],
+  "timestamp": "2026-09-07T00:33:09.819380526Z",
+  "model": "glm-5.3"
+}

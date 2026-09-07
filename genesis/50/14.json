@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 50:14",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 50,
+  "translation": "Ja Josef (Joosef) palasi Mitsrajimiin (Egyptiin), hän ja hänen veljensä ja kaikki, jotka nousivat ⟨את⟩ hänen kanssaan hautaamaan ⟨את⟩ hänen isänsä, sitten kun hän oli haudannut ⟨את⟩ hänen isänsä.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "palasi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrajimiin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ja hänen veljensä"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "nousivat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hänen kanssaan"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "hautaamaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen isänsä"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hänen isänsä"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sitten kun"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "oli haudannut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen isänsä"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hänen isänsä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:28:30.250176683Z",
+  "model": "glm-5.3"
+}

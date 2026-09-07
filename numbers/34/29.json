@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 34:29",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "Nämä ovat ne, jotka Jahve käski perittämään ⟨את⟩ Israelin lapset perintömaahan Kanaanin maassa.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Nämä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "käski"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "perittämään perintömaahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin lapset"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lapset"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaanin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:20:37.097831635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 13:22",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja Avshalom ei puhunut Amnonin kanssa pahaa eikä hyvää, sillä Avshalom vihasi ⟨את⟩ Amnonia, koska ⟨hän⟩ oli nöyryyttänyt ⟨את⟩ Tamarin, sisarensa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ja ei"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "puhunut"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnonin"
+    },
+    {
+      "surface": "למרע",
+      "gloss": "pahaa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvää"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "vihasi"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amnonia"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnonia"
+    },
+    {
+      "surface": "על",
+      "gloss": "koska"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asiasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "hän oli nöyryyttänyt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tamarin"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamarin"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "sisarensa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:23:27.047196860Z",
+  "model": "glm-5.3"
+}

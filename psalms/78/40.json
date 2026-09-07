@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 78,
+  "translation": "Kuinka usein he kapinoivat häntä vastaan erämaassa ja saattoivat hänet murheeseen autiomaassa!",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "Kuinka usein"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "he kapinoivat häntä vastaan"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "erämaassa"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "saattoivat hänet murheeseen"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "autiomaassa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:25:58.303255859Z",
+  "model": "glm-5.3"
+}

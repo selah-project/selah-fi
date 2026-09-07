@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 71:20",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 71,
+  "translation": "Sinä, joka näytit meille suuria ahdistuksia ja pahoja, sinä käännyt elvyttämään meidät, ja maan syvyyksistä sinä käännyt nostamaan minut.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "הראיתנו",
+      "gloss": "näytit meille"
+    },
+    {
+      "surface": "צרות",
+      "gloss": "ahdistuksia"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "suuria"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ja pahoja"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "sinä käännyt"
+    },
+    {
+      "surface": "תחיינו",
+      "gloss": "elvyttämään meidät"
+    },
+    {
+      "surface": "ומתהמות",
+      "gloss": "ja syvyyksistä"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "sinä käännyt"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "nostamaan minut"
+    }
+  ],
+  "timestamp": "2026-09-07T02:20:10.576801432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 35,
+  "translation": "He maksavat minulle pahaa hyvän sijasta, menetyksen nefeshilleni.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "he maksavat minulle"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pahaa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sijasta"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "hyvän"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "menetyksen"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "nefeshilleni"
+    }
+  ],
+  "timestamp": "2026-09-07T02:03:49.078996753Z",
+  "model": "glm-5.3"
+}

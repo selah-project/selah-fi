@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja minä lähetän ⟨את⟩ ampiaisen edelläsi, ja se ajaa pois ⟨את⟩ hiviläisen, ⟨את⟩ kanaanilaisen ja ⟨את⟩ heetiläisen edestäsi.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Ja minä lähetän"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ampiaisen"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "ampiaisen"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "edelläsi"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "ja se ajaa pois"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hiviläisen"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "hiviläisen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanaanilaisen"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaanilaisen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "heetiläisen"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "heetiläisen"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "edestäsi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:37:51.617345115Z",
+  "model": "glm-5.3"
+}

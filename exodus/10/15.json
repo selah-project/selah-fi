@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 10:15",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ne peittivät ⟨את⟩ koko maan silmän, niin että maa pimeni; ja ne söivät ⟨את⟩ kaiken maan ruohon ja ⟨את⟩ kaiken puun hedelmän, jonka rakeet olivat jättäneet jäljelle — eikä jäänyt jäljelle mitään vihantaa puuhun eikä pellon ruohoon koko Mitsrajimin maassa.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "peittivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "silmän"
+    },
+    {
+      "surface": "עין",
+      "gloss": "silmän"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "ותחשך",
+      "gloss": "pimeni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "söivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken ruohon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ruohon"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaiken hedelmän"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "hedelmän"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "puun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "הותיר",
+      "gloss": "olivat jättäneet"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "rakeet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "jäänyt jäljelle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mitään"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "vihantaa"
+    },
+    {
+      "surface": "בעץ",
+      "gloss": "puuhun"
+    },
+    {
+      "surface": "ובעשב",
+      "gloss": "eikä ruohoon"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pellon"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:32:15.101797285Z",
+  "model": "glm-5.3"
+}

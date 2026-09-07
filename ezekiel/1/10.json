@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 1:10",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja heidän kasvojensa muoto ⟨on⟩ ihmisen kasvot, ja leijonan kasvot heidän neljällään oikealle puolelle, ja sonnin kasvot vasemmalle heidän neljällään, ja kotkan kasvot heidän neljällään.",
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "ja muoto"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "heidän kasvojensa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kasvot"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmisen"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ja kasvot"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "leijonan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "oikealle puolelle"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "heidän neljällään"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ja kasvot"
+    },
+    {
+      "surface": "שור",
+      "gloss": "sonnin"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "vasemmalta"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "heidän neljällään"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ja kasvot"
+    },
+    {
+      "surface": "נשר",
+      "gloss": "kotkan"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "heidän neljällään"
+    }
+  ],
+  "timestamp": "2026-09-07T00:50:35.127801258Z",
+  "model": "glm-5.3"
+}

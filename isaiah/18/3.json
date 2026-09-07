@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 18:3",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Kaikki maailman asujat ja maan asukkaat: kun vuorille nostetaan viiri, katsokaa, ja kun pasuunaa puhalletaan, kuulkaa!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "asujat"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "maailman"
+    },
+    {
+      "surface": "ושכני",
+      "gloss": "ja asukkaat"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "כנשא",
+      "gloss": "kun nostetaan"
+    },
+    {
+      "surface": "נס",
+      "gloss": "viiri"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "vuorille"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "katsokaa"
+    },
+    {
+      "surface": "וכתקע",
+      "gloss": "ja kun puhalletaan"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "pasuunaa"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "kuulkaa"
+    }
+  ],
+  "timestamp": "2026-09-07T00:06:43.157184673Z",
+  "model": "glm-5.3"
+}

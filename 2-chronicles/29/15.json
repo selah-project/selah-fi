@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 29:15",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja he kokoosivat ⟨את⟩ veljensä ja pyhittivät itsensä ja menivät kuninkaan käskyn mukaan, Jahven sanojen mukaan, puhdistamaan Jahven huoneen.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "ja he kokoosivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veljensä"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "veljensä"
+    },
+    {
+      "surface": "ויתקדשו",
+      "gloss": "ja pyhittivät itsensä"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ja menivät"
+    },
+    {
+      "surface": "כמצות",
+      "gloss": "käskyn mukaan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "sanojen mukaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "puhdistamaan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-07T05:48:35.712235839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 7:7",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Kaikki heistä ovat kuumia kuin uuni, ja he söivät ⟨את⟩ tuomarinsa; kaikki heidän kuninkaansa ovat kaatuneet; ei heidän joukossaan ole ketään, joka huutaa minun puoleeni.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "kaikki heistä"
+    },
+    {
+      "surface": "יחמו",
+      "gloss": "ovat kuumia"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "kuin uuni"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ja he söivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuomarinsa"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "tuomarinsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "heidän kuninkaansa"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ovat kaatuneet"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "huutaa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "heidän joukossaan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minun puoleeni"
+    }
+  ],
+  "timestamp": "2026-09-07T01:24:19.964598321Z",
+  "model": "glm-5.3"
+}

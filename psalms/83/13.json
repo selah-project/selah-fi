@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 83,
+  "translation": "jotka sanoivat: ”Antakaa meidän periä itsellemme ⟨את⟩ Elohimin laitumet.”",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "sanoivat"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "Antakaa meidän periä"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "itsellemme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimin laitumet"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "laitumet"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    }
+  ],
+  "timestamp": "2026-09-07T04:33:02.784508977Z",
+  "model": "glm-5.3"
+}

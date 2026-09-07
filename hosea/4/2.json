@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 4:2",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Vala ja valhe, ja murha ja varkaus ja huoruus — ne ovat puhjenneet liikkeelle, ja veri on koskettanut verta.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Vala"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "ja valhe"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "ja murha"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "ja varkaus"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "ja huoruus"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "ne ovat puhjenneet liikkeelle"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "ja veri"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "verta"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "on koskettanut"
+    }
+  ],
+  "timestamp": "2026-09-07T01:21:22.048364907Z",
+  "model": "glm-5.3"
+}

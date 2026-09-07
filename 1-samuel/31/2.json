@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 31:2",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Ja pelistiläiset painoivat kiinni ⟨את⟩ Shaulin (Saul) ja ⟨את⟩ hänen pojistaan, ja pelistiläiset löivät ⟨את⟩ Jehonatanin ja ⟨את⟩ Avinadavin ja ⟨את⟩ Malki-Shuan, Shaulin pojat.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "Ja painoivat kiinni"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelistiläiset"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaulin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen pojistaan"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hänen pojistaan"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ja löivät"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelistiläiset"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehonatanin"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatanin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Avinadavin"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadavin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Malki-Shuan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "-Shuan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:19:04.283954704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 25:26",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja teet sille neljä kultaista rengasta, ja panet ⟨את⟩ renkaat neljän kulmien kohdalle, jotka ovat sen neljällä jalalla.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ja teet"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sille"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "neljä"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "rengasta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kultaista"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ja panet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "renkaat"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "renkaat"
+    },
+    {
+      "surface": "על",
+      "gloss": "kohdalle"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "neljän"
+    },
+    {
+      "surface": "הפאת",
+      "gloss": "kulmien"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "לארבע",
+      "gloss": "neljällä"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "jalalla"
+    }
+  ],
+  "timestamp": "2026-09-07T04:11:21.041981504Z",
+  "model": "glm-5.3"
+}

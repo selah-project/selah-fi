@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 17:7",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Eivätkö he enää teurasta ⟨את⟩ uhrejaan se'ireilleen, joita ne seuraavat haureudella; ikuinen säädös on oleva tämä heille, sukupolvilleensa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "eivätkö"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "teurasta"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uhejaan"
+    },
+    {
+      "surface": "זבחיהם",
+      "gloss": "uhrejaan"
+    },
+    {
+      "surface": "לשעירם",
+      "gloss": "se'ireilleen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joita"
+    },
+    {
+      "surface": "הם",
+      "gloss": "he"
+    },
+    {
+      "surface": "זנים",
+      "gloss": "haureudella"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "seuraavat"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "säädös"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ikuinen"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "on oleva"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "sukupolvilleensa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:56:06.973968658Z",
+  "model": "glm-5.3"
+}

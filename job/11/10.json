@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 11:10",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Jos hän kulkee ohitse ja sulkee sekä kutsuu koolle, kuka hänet kääntää takaisin?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "kulkee ohitse"
+    },
+    {
+      "surface": "ויסגיר",
+      "gloss": "ja sulkee"
+    },
+    {
+      "surface": "ויקהיל",
+      "gloss": "ja kutsuu koolle"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "hänet kääntää takaisin"
+    }
+  ],
+  "timestamp": "2026-09-07T03:28:47.975721909Z",
+  "model": "glm-5.3"
+}

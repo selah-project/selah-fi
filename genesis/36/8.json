@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 36,
+  "translation": "Ja Esav asettui Seirin vuorelle; Esav, hän ⟨on⟩ Edom.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Ja asettui"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "vuorelle"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seirin"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-06T21:20:10.650093966Z",
+  "model": "glm-5.3"
+}

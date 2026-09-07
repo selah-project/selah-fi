@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 89,
+  "translation": "Kuin kuu se ⟨on⟩ vahvistettu iankaikkisesti, ⟨ja se on⟩ uskollinen todistaja pilvissä. Selah.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "kuin kuu"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "se on vahvistettu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ja todistaja"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "pilvissä"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "uskollinen"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-07T02:28:41.492782963Z",
+  "model": "glm-5.3"
+}

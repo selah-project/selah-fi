@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 141,
+  "ref": "psalms 119:141",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Nuori ja halveksittu olen minä, sinun käskysi en ole unhottanut.",
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "Nuori"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "olen minä"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "ja halveksittu"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "sinun käskysi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ole unhottanut"
+    }
+  ],
+  "timestamp": "2026-09-07T02:46:50.034192518Z",
+  "model": "glm-5.3"
+}

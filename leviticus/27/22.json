@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 27:22",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ja jos ⟨hän⟩ pyhittää Jahvelle ⟨את⟩ pellon, joka on hänen ostoksensa, joka ei ole hänen omistusmaidensa pelloista —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ja jos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pellon"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "pellon"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "hänen ostoksensa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "pelloista"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "hänen omistusmaansa"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "pyhittää"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    }
+  ],
+  "timestamp": "2026-09-06T22:01:54.902781736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 18:20",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja Jordan merkitsi ⟨את⟩ sen rajan itäreunalla; tämä on Binjaminin poikien perintö rajoineen ympärillä, sukukunnittain.",
+  "tokens": [
+    {
+      "surface": "והירדן",
+      "gloss": "Ja Jordan"
+    },
+    {
+      "surface": "יגבל",
+      "gloss": "merkitsi rajan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sen",
+      "marks": "sen (perinnön rajan)"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "reunaan"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "itä-"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "perintö"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikien"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjaminin"
+    },
+    {
+      "surface": "לגבולתיה",
+      "gloss": "rajoineen"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympärillä"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sukukunnittain"
+    }
+  ],
+  "timestamp": "2026-09-06T22:46:58.756088424Z",
+  "model": "glm-5.3"
+}

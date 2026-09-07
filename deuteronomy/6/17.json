@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Pitäkää tarkasti ⟨את⟩ Jahven, Elohimienne, käskyt ja hänen todistuksensa ja hänen säädöksensä, jotka hän on käskenyt sinua ⟨noudattamaan⟩.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "tarkasti"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "pitäkää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "käskyt"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "käskyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimienne"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "ja hänen todistuksensa"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "ja hänen säädöksensä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "on käskenyt sinua"
+    }
+  ],
+  "timestamp": "2026-09-06T22:24:54.966747603Z",
+  "model": "glm-5.3"
+}

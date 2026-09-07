@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Ja käski Moshe (Mooses) ⟨את⟩ leeviläiset, Jahven liiton arkin kantajia, sanoen:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Ja käski"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leviiläiset"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviiläiset"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "kantajia"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkin"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "liiton"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    }
+  ],
+  "timestamp": "2026-09-06T22:38:46.129120141Z",
+  "model": "glm-5.3"
+}

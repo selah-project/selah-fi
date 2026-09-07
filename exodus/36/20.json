@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 36,
+  "translation": "Ja hän teki ⟨את⟩ laudat asuinsijaan, akasiapuuta, seisovia.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ja hän teki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laudat"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "laudat"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "asuinsijaan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "puuta"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia-"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "seisovia"
+    }
+  ],
+  "timestamp": "2026-09-06T21:45:18.839835661Z",
+  "model": "glm-5.3"
+}

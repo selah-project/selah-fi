@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja jos hänen uhrinsa — korban — on karjasta, lampaista tai vohleista, polttouhriksi: koiras, virheetön — tuokoon sen.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ja jos"
+    },
+    {
+      "surface": "מן",
+      "gloss": "karjasta"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "karjasta"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "hänen uhrinsa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "lampaista"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "lampaista"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "מן",
+      "gloss": "vohleista"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "vohleista"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "polttouhriksi"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "koiras"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "virheetön"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "tuokoon sen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:47:52.130020256Z",
+  "model": "glm-5.3"
+}

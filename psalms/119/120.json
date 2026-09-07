@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Minun lihani sikisi sinun pelkostasi, ja sinun tuomioitasi minä pelkäsin.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "sikisi"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "sinun pelkostasi"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "Minun lihani"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "ja sinun tuomioitasi"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "minä pelkäsin"
+    }
+  ],
+  "timestamp": "2026-09-07T02:47:45.485355217Z",
+  "model": "glm-5.3"
+}

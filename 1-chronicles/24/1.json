@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 24:1",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja Aharonin pojille ⟨oli⟩ heidän osastonsa: Aharonin pojat ⟨olivat⟩ Nadav ja Avihu, Elazar ja Itamar.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "ja pojille"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonin"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "heidän osastonsa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonin"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "ja Avihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "ja Itamar"
+    }
+  ],
+  "timestamp": "2026-09-07T05:25:54.726345732Z",
+  "model": "glm-5.3"
+}

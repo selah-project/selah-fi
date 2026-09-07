@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 15:28",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Ja Shemuel sanoi hänelle: Jahve on repäissyt ⟨את⟩ Israelin kuningaskunnan sinulta tänä päivänä ja antanut sen tovereellesi, joka on sinua parempi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "קרע",
+      "gloss": "on repäissyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin kuningaskunnan"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "kuningaskunnan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "sinulta"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tänä päivänä"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "ja antanut"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "sen"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "toverillesi"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "joka on sinua parempi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:10:01.142003465Z",
+  "model": "glm-5.3"
+}

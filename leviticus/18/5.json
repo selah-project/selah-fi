@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja te pidätte ⟨את⟩ säädökseni ja ⟨את⟩ oikeuteni, jotka ihminen tekee ⟨את⟩ niitä ja elää niissä; minä olen Jahve.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ja te pidätte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "säädökseni"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "säädökseni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "oikeuteni"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "oikeuteni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tekee"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ niitä"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihminen"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ja elää"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "niissä"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-06T21:54:40.671720569Z",
+  "model": "glm-5.3"
+}

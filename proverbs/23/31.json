@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 23:31",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Älä katso viiniä, kun se punertaa, kun se antaa maljassa värinsä, kun se liukuu sujuvasti.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תרא",
+      "gloss": "katso"
+    },
+    {
+      "surface": "יין",
+      "gloss": "viiniä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "יתאדם",
+      "gloss": "punertaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "antaa"
+    },
+    {
+      "surface": "בכיס",
+      "gloss": "maljassa"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "värinsä"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "liukuu"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "sjuvasti"
+    }
+  ],
+  "timestamp": "2026-09-07T03:15:34.776395039Z",
+  "model": "glm-5.3"
+}

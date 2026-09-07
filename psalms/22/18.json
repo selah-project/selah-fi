@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Voin laskea kaikki luuni; he tuijottavat, he katsovat minuun.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "voin laskea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "luuni"
+    },
+    {
+      "surface": "המה",
+      "gloss": "he"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "tuijottavat"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "he katsovat"
+    },
+    {
+      "surface": "בי",
+      "gloss": "minuun"
+    }
+  ],
+  "timestamp": "2026-09-07T01:58:12.551545635Z",
+  "model": "glm-5.3"
+}

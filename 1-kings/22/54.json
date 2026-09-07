@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-kings 22:54",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja hän palveli ⟨את⟩ Baalia ja kumartui sitä, ja sai ⟨את⟩ Jahven, Israelin Elohimin, vihoittumaan, kaiken sen mukaan, mitä hänen isänsä oli tehnyt.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "ja hän palveli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalia"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baalia"
+    },
+    {
+      "surface": "וישתחוה",
+      "gloss": "ja kumartui"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sitä"
+    },
+    {
+      "surface": "ויכעס",
+      "gloss": "ja sai vihoittumaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kaiken mukaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "oli tehnyt"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hänen isänsä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:45:55.340721891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja Ahron (Aaron) tuo ⟨את⟩ härän, hänen syntiuhrikseen kuuluvan, ja suorittaa sovituksen puolestaan ja koko talonsa puolesta.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ja tuo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "härän"
+    },
+    {
+      "surface": "פר",
+      "gloss": "härän"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syntiuhri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ja suorittaa sovituksen"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "puolestaan"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ja puolesta"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "talonsa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:55:04.034672243Z",
+  "model": "glm-5.3"
+}

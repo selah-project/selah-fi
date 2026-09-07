@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Vihaan niitä, jotka tarkkaavat tyhjiä valheita, mutta minä, Jahveen minä turvaudun.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "Vihaan"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "jotka tarkkaavat"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "tyhjiä"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "valheita"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mutta minä"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveen"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "minä turvaudun"
+    }
+  ],
+  "timestamp": "2026-09-07T02:02:15.267251514Z",
+  "model": "glm-5.3"
+}

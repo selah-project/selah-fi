@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja hänen jälkeensä nousi Jair, giladilainen, ja hän tuomitsi ⟨את⟩ Israelia kaksikymmentäkaksi vuotta.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "nousi"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "hänen jälkeensä"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Jair"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "giladilainen"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "tuomitsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelia"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kaksikymmentä"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    }
+  ],
+  "timestamp": "2026-09-06T22:57:14.791835567Z",
+  "model": "glm-5.3"
+}

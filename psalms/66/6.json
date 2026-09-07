@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 66,
+  "translation": "Hän käänsi meren kuivaksi maaksi; joessa he kulkevat jalkaisin — siellä me iloitsemme hänessä.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Hän käänsi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "meren"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "kuivaksi maaksi"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "joessa"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "he kulkevat"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "jalkaisin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "me iloitsemme"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hänessä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:17:35.087932307Z",
+  "model": "glm-5.3"
+}

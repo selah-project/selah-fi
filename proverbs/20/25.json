@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 20:25",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ansa on ihmisellä, kun hän hätäisesti lausuu ⟨sen⟩ pyhäksi, ja lupausten jälkeen ⟨aina⟩ tutkia.",
+  "tokens": [
+    {
+      "surface": "מוקש",
+      "gloss": "ansa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmisellä"
+    },
+    {
+      "surface": "ילע",
+      "gloss": "hätäisesti lausuu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhäksi"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ja jälkeen"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "lupausten"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "tutkia"
+    }
+  ],
+  "timestamp": "2026-09-07T03:13:00.194230877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja Jahve puhui minulle sanoen: Minä olen nähnyt ⟨את⟩ tämän kansan, ja katso: kova­niskainen kansa se ⟨on⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja puhui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "olen nähnyt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän kansan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "kova"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "-niskainen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-09-06T22:27:12.664969405Z",
+  "model": "glm-5.3"
+}

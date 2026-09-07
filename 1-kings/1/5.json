@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 1:5",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja Adonijah, Haggitin poika, korotti itsensä sanoen: ”Minä olen kuninkaana.” Ja hän hankki itselleen vaunuja ja ratsumiehiä ja viisikymmentä miestä juoksemaan edellään.",
+  "tokens": [
+    {
+      "surface": "ואדניה",
+      "gloss": "Ja Adonijah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "Haggitin"
+    },
+    {
+      "surface": "מתנשא",
+      "gloss": "korotti itsensä"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Minä"
+    },
+    {
+      "surface": "אמלך",
+      "gloss": "olen kuninkaana"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "Ja hän hankki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "itselleen"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "vaunuja"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "ja ratsumiehiä"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ja viisikymmentä"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miestä"
+    },
+    {
+      "surface": "רצים",
+      "gloss": "juoksemaan"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "edellään"
+    }
+  ],
+  "timestamp": "2026-09-06T23:31:53.490552901Z",
+  "model": "glm-5.3"
+}

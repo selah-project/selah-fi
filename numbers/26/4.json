@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 26:4",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "pojasta kaksikymmentä vuotta ja ylöspäin, niin kuin Jahve oli käskenyt ⟨את⟩ Moshea ja Israelin lapset, ne, jotka lähtivät Mitsrajimin (Egypti) maasta.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "pojasta"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kaksikymmentä"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ja ylöspäin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oli käskenyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshea"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ja lapset"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "ne, jotka lähtivät"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:16:56.182603782Z",
+  "model": "glm-5.3"
+}

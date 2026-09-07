@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 41:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 41,
+  "translation": "Ja jos hän tulee katsomaan, hän puhuu valheita; hänen sydämensä kokoaa itselleen pahutta; kun hän menee ulos, hän puhuu siitä.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ja jos"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hän tulee"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "katsomaan"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "valheita"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "hän puhuu"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hänen sydämensä"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "kokoaa"
+    },
+    {
+      "surface": "און",
+      "gloss": "pahutta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "itselleen"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "hän menee ulos"
+    },
+    {
+      "surface": "לחוץ",
+      "gloss": "ulos"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "hän puhuu"
+    }
+  ],
+  "timestamp": "2026-09-07T02:08:10.332868495Z",
+  "model": "glm-5.3"
+}

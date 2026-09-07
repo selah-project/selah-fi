@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Riemuitkaamme sinun pelastuksestasi, ja meidän Elohimimme nimessä nostamme lipun; täyttäköön Jahve kaikki sinun pyyntösi.",
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "riemuitkaamme"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "sinun pelastuksestasi"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "ja … nimessä"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimme"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "nostamme lipun"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "täyttäköön"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "sinun pyyntösi"
+    }
+  ],
+  "timestamp": "2026-09-07T01:59:00.575879753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja yksi mies näki ⟨sen⟩ ja ilmoitti Yoaville ja sanoi: katso, minä näin ⟨את⟩ Avshalomin riippuvan tammessa.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ja näki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ja ilmoitti"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "Yoaville"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "katso"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "minä näin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalomin"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Avshalomin"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "riippuvan"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "tammessa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:28:11.774046275Z",
+  "model": "glm-5.3"
+}

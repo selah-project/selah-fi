@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 22:15",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Niin kuin vesi minut on valutettu, ja kaikki luuni ovat irtautuneet; sydämeni ⟨on⟩ kuin vaha, joka sulahtaa keskelle sisuskalujani.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "niin kuin vesi"
+    },
+    {
+      "surface": "נשפכתי",
+      "gloss": "minut on valutettu"
+    },
+    {
+      "surface": "והתפרדו",
+      "gloss": "ja ovat irtautuneet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "luuni"
+    },
+    {
+      "surface": "היה",
+      "gloss": "on"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sydämeni"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "kuin vaha"
+    },
+    {
+      "surface": "נמס",
+      "gloss": "sulahtaa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keskelle"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "sisuskalujani"
+    }
+  ],
+  "timestamp": "2026-09-07T01:57:47.454178445Z",
+  "model": "glm-5.3"
+}

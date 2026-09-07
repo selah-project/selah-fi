@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja siemenestäsi älä anna yhtäkään vieritettäväksi Molekhille (kanaanilaiselle jumalalle), äläkä häpäise Elohimisi nimeä: minä olen Jahve.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "Ja siemenestäsi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "anna"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "vieritettäväksi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Molekhille"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "äläkä"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "hväpäise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nimeä"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimen"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimisi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-06T21:54:31.721100841Z",
+  "model": "glm-5.3"
+}

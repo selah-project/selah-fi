@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Jahven sanat ⟨ovat⟩ puhtaita sanoja: hopeaa, joka on sulatettu savisuussa maan päällä, seitsemän kertaa puhdistettua.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "sanoja"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "puhtaita"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "hopeaa"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "sulatettu"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "savisuussa"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "maan päällä"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "puhdistettu"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "seitsemän kertaa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:56:03.290361936Z",
+  "model": "glm-5.3"
+}

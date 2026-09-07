@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Tyhmän viha tulee tunnetuksi samana päivänä, mutta häpeän peittävä on neuvokas.",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "tyhmän"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "samana päivänä"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "tulee tunnetuksi"
+    },
+    {
+      "surface": "כעסו",
+      "gloss": "vihansa"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "mutta peittävä"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "häpeän"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "neuvokas"
+    }
+  ],
+  "timestamp": "2026-09-07T03:07:03.687907430Z",
+  "model": "glm-5.3"
+}

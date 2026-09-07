@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja kohen nostattaa ⟨את⟩ olah‑uhri‑uhrin ja ⟨את⟩ minha‑uhri‑uhrin (jauhouhri) alttarille, ja kohen sovittaa hänen puolestaan, ja hän puhdistuu.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "ja nostattaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olah‑uhri‑uhrin"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olah‑uhri‑uhrin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "minha‑uhri‑uhrin"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minha‑uhri‑uhrin"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "alttarille"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ja sovittaa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hänen puolestaan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ja hän puhdistuu"
+    }
+  ],
+  "timestamp": "2026-09-06T21:53:05.634221324Z",
+  "model": "glm-5.3"
+}

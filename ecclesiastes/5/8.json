@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja maan hyöty kaikelle ⟨on⟩: kuningas on palveluksessa pellolle.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "Ja hyöty"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaikelle"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "pellolle"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "on palveluksessa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:35:26.717226088Z",
+  "model": "glm-5.3"
+}

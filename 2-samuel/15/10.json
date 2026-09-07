@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 15:10",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Ja Avshalom (Absalom) lähetti vakoojia kaikkiin Israelin sukukuntiin sanoen: Kun kuulette ⟨את⟩ shofarin äänen, sanokaa: Avshalom hallitsee Hevronissa!",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ja lähetti"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "vakoojia"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaikkiin"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "sukukuntiin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "kun kuulette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shofarin äänen"
+    },
+    {
+      "surface": "קול",
+      "gloss": "äänen"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "shofarin"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "ja sanokaa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hallitsee"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Hevronissa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:26:14.109151013Z",
+  "model": "glm-5.3"
+}

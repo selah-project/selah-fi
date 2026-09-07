@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja jauhouhrista jäljelle jäävä ⟨on⟩ Aharonille (Aaronille) ja hänen pojilleen: pyhin pyhistä Jahven tuliuhreista.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "Ja jäljelle jäävä"
+    },
+    {
+      "surface": "מן",
+      "gloss": "jauhouhrista"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "jauhouhri"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharonille"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ja hänen pojilleen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhin"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "pyhistä"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "tuliuhreista"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-06T21:47:30.501882136Z",
+  "model": "glm-5.3"
+}

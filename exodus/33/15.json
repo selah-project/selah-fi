@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Ja hän sanoi hänelle: jos sinun kasvosi eivät kulje, älä vie meitä ylös täältä.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "אין",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sinun kasvosi"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "kulje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "vie meitä ylös"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "täältä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:43:41.704735454Z",
+  "model": "glm-5.3"
+}

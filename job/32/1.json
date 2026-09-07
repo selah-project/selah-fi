@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 32:1",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Nämä kolme miestä lakkasivat vastaamasta ⟨את⟩ Ijoville (Job), sillä hän ⟨oli⟩ vanhurskas omien silmiensä mukaan.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "lakkasivat"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "miestä"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "מענות",
+      "gloss": "vastaamasta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijoville"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijoville (Job)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "vanhurskas"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "omien silmiensä mukaan"
+    }
+  ],
+  "timestamp": "2026-09-07T03:45:13.564399537Z",
+  "model": "glm-5.3"
+}

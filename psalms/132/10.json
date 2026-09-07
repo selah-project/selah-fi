@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 132,
+  "translation": "Davidin (Daavid), palvelijasi, tähden älä käännä pois kasvoja Mashiahiltasi (voideltultasi).",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "palvelijasi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "käännä pois"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kasvoja"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashiahiltasi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:49:27.959097525Z",
+  "model": "glm-5.3"
+}

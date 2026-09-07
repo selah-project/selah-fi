@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja Moshe sanoi Elohimille: Kuka minä olen, että minä menisin Paron luo ja että minä veisin ulos ⟨את⟩ Israelin lapset Mitsrajimista?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elohimille"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimille"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kuka"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä olen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "menisin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ja että"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "veisin ulos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin lapset"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lapset"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrajimista"
+    }
+  ],
+  "timestamp": "2026-09-06T21:30:25.499452481Z",
+  "model": "glm-5.3"
+}

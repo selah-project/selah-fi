@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 53:6",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 53,
+  "translation": "Kaikki me eksyimme kuin lampaat, kukin kääntyi omalle tielleen, ja Jahve sai ⟨את⟩ kaikkimme pahuuden osumaan häneen.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "Kaikki me"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "kuin lampaat"
+    },
+    {
+      "surface": "תעינו",
+      "gloss": "eksyimme"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kukin"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "omalle tielleen"
+    },
+    {
+      "surface": "פנינו",
+      "gloss": "kääntyi"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ja Jahve"
+    },
+    {
+      "surface": "הפגיע",
+      "gloss": "sai osumaan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "häneen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikkimme pahuuden"
+    },
+    {
+      "surface": "עון",
+      "gloss": "pahuuden"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "kaikkimme"
+    }
+  ],
+  "timestamp": "2026-09-07T00:19:49.641083620Z",
+  "model": "glm-5.3"
+}

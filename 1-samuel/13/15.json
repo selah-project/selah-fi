@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja Shemuel nousi ja meni ylös Gilgalista Benjaminin Gibeaan; ja Shaul laski ⟨את⟩ kansan, joka oli hänen kanssaan, noin kuusisataa miestä.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ja nousi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ja meni ylös"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…sta"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgalista"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Gibeaan (Gibean)"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjaminin"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "ja laski"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "jotka olivat"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hänen kanssaan"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "noin kuusi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sataa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miestä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:09:20.053684469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Älä riisu viinitarhaasi tyhjäksi, äläkä poimi viinitarhasi pudonneita rypäleitä; köyhälle ja muukalaiselle jätä ⟨את⟩ ne: minä ⟨olen⟩ Jahve, teidän Elohiminne.",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "viinitarhaasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "riisu tyhjäksi"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "ja pudonneet rypäleet"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "viinitarhasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "poimi"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "köyhälle"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "ja muukalaiselle"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "jätä"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ne"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "teidän Elohiminne"
+    }
+  ],
+  "timestamp": "2026-09-06T21:55:35.563074053Z",
+  "model": "glm-5.3"
+}

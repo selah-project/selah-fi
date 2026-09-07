@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 22:17",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Sillä koirat ovat ympäröineet minut, pahantekijöiden joukko on piirittänyt minut; kuin leijona ⟨ovat⟩ kätteni ja jalkani.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "ovat ympäröineet minut"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "koirat"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "joukko"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "pahantekijöiden"
+    },
+    {
+      "surface": "הקיפוני",
+      "gloss": "on piirittänyt minut"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "kuin leijona"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "kätteni"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "ja jalkani"
+    }
+  ],
+  "timestamp": "2026-09-07T01:58:12.550588662Z",
+  "model": "glm-5.3"
+}

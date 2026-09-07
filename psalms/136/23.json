@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 136:23",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 136,
+  "translation": "joka meidän alentotilassamme muisti meitä, sillä iankaikkisesti ⟨kestää⟩ hänen hesedinsä.",
+  "tokens": [
+    {
+      "surface": "שבשפלנו",
+      "gloss": "meidän alentotilassamme"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "muisti"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meitä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hänen hesedinsä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:51:58.599386528Z",
+  "model": "glm-5.3"
+}

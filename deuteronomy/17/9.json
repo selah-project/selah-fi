@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 17:9",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja tulet kohenien ⟨pappien⟩ leviläisten luo ja sen tuomarin luo, joka niinä päivinä on, ja kysyt, ja he ilmoittavat sinulle ⟨את⟩ oikeuden sanan.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "ja tulet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohenien"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviläisten"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja luo"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "tuomarin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "on"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "päivinä"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "niinä"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "ja kysyt"
+    },
+    {
+      "surface": "והגידו",
+      "gloss": "ja he ilmoittavat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oikeuden sanan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sanan"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "oikeuden"
+    }
+  ],
+  "timestamp": "2026-09-06T22:32:34.906725848Z",
+  "model": "glm-5.3"
+}

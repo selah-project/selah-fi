@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 18:9",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Myös se, joka on veltto työssään, ⟨on⟩ veli hävittäjälle.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Myös"
+    },
+    {
+      "surface": "מתרפה",
+      "gloss": "veltto"
+    },
+    {
+      "surface": "במלאכתו",
+      "gloss": "työssään"
+    },
+    {
+      "surface": "אח",
+      "gloss": "veli"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "hävittäjälle"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "hävittäjä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:10:42.164061020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 42:3",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Kuka tämä on, joka verhoaa neuvon tietämättä? Sen tähden olen puhunut ymmärtämättäni — ihmeellisyydet ovat minulle liian suuria, enkä minä niitä tunne.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kuka"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "joka verhoaa"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "neuvon"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ilman"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tietoa"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "sen tähden"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "olen puhunut"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ymmärtämättä"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "ymmärtämättä"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "ihmeellisyydet"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minulle liian suuria"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "tunne"
+    }
+  ],
+  "timestamp": "2026-09-07T03:53:11.995485033Z",
+  "model": "glm-5.3"
+}

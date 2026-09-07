@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 28:3",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Ja Shemuel (Samuel) oli kuollut, ja koko Israel oli pitänyt hänelle surujuhlaa, ja he olivat hautanneet hänet Ramassa, omassa kaupungissaan. Ja Shaul (Saul) oli poistanut maasta henkitietäjät ja ⟨את⟩ tietäjät.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Ja Shemuel"
+    },
+    {
+      "surface": "מת",
+      "gloss": "oli kuollut"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "olivat pitäneet surujuhlaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "ja olivat hautanneet hänet"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "Ramassa"
+    },
+    {
+      "surface": "ובעירו",
+      "gloss": "ja omassa kaupungissaan"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Ja Shaul"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "oli poistanut"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "henkitietäjät"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "tietäjät"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "tietäjät"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "maasta"
+    }
+  ],
+  "timestamp": "2026-09-06T23:17:32.765399462Z",
+  "model": "glm-5.3"
+}

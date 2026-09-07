@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 22:33",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Aasi näki minut ja väistyi edestäni nämä kolme kertaa; jospa se ei olisi väistynyt edestäni — sillä nyt olisin tappanut myös ⟨את⟩ sinut ja jättänyt ⟨את⟩ sen henkiin.",
+  "tokens": [
+    {
+      "surface": "ותראני",
+      "gloss": "näki minut"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "aasi"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "ja väistyi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edestäni"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "kertaa"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "jospa"
+    },
+    {
+      "surface": "נטתה",
+      "gloss": "se olisi väistynyt"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "edestäni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "אתכה",
+      "gloss": "⟨את⟩ sinut",
+      "marks": "sinut (tappanut)"
+    },
+    {
+      "surface": "הרגתי",
+      "gloss": "olisin tappanut"
+    },
+    {
+      "surface": "ואותה",
+      "gloss": "ja ⟨את⟩ sen",
+      "marks": "sen (aasin)"
+    },
+    {
+      "surface": "החייתי",
+      "gloss": "jättänyt henkiin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:15:55.452394540Z",
+  "model": "glm-5.3"
+}

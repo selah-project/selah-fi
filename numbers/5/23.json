@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja kirjoittaa kohen ⟨את⟩ nämä kiroukset kirjaan ja pyyhkii ne katkeran veden joukkoon.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "ja kirjoittaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nämä kiroukset"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "kiroukset"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "kirjaan"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "ja pyyhkii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "joukkoon"
+    },
+    {
+      "surface": "מי",
+      "gloss": "veden"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "katkarat"
+    }
+  ],
+  "timestamp": "2026-09-07T05:58:55.709690247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 25:20",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Mutta Amatsjahu ei kuullut, sillä Elohimilta se oli, jotta heidät annettaisiin käteen, koska he olivat etsineet ⟨את⟩ Edomin jumalia.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mutta ei"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kuullut"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsjahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מהאלהים",
+      "gloss": "Elohimilta"
+    },
+    {
+      "surface": "היא",
+      "gloss": "se"
+    },
+    {
+      "surface": "למען",
+      "gloss": "jotta"
+    },
+    {
+      "surface": "תתם",
+      "gloss": "annettaisiin"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käteen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "he olivat etsineet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomin jumalia"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "jumalia"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:48:17.467690974Z",
+  "model": "glm-5.3"
+}

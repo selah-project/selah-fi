@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 104,
+  "translation": "Sinä asetat pimeyden, ja tulee yö; siinä liikkuu kaikki metsän eläimet.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "asetat"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pimeyden"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja tulee"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "yö"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siinä"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "liikkuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "eläimet"
+    },
+    {
+      "surface": "יער",
+      "gloss": "metsän"
+    }
+  ],
+  "timestamp": "2026-09-07T02:36:35.678026338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 10:17",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja hän tuli Shomeroniin (Samaria) ja löi ⟨את⟩ kaikki, jotka olivat jäljellä Ahavista, Shomeronissa, kunnes hän hävitti ⟨את⟩ hänet, Jahven sanan mukaan, jonka hän puhui Elijahulle (Elias).",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ja hän tuli"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeroniin (Samaria)"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ja löi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki, jotka olivat jäljellä Ahavista"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "jotka olivat jäljellä"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "Ahavista"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Shomeronissa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "hän hävitti hänet"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sanan mukaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hän puhui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...lle"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijahulle (Elias)"
+    }
+  ],
+  "timestamp": "2026-09-06T23:50:42.067008722Z",
+  "model": "glm-5.3"
+}

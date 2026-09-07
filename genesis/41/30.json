@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 41:30",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 41,
+  "translation": "Ja niiden jälkeen nousee seitsemän nälkävuotta, ja koko runsaus unohdetaan Mitsrajimin (Egyptin) maassa, ja nälkä kuluttaa ⟨את⟩ maan.",
+  "tokens": [
+    {
+      "surface": "וקמו",
+      "gloss": "Ja nousevat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seitsemän"
+    },
+    {
+      "surface": "שני",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "nälän"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "niiden jälkeen"
+    },
+    {
+      "surface": "ונשכח",
+      "gloss": "ja unohdetaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "runsaus"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin (Egyptin)"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ja kuluttaa"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "nälkä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:23:03.090144723Z",
+  "model": "glm-5.3"
+}

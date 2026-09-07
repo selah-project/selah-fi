@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 13:55",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja kun pappi katsoo pesun jälkeen ⟨את⟩ tautia ja katso: tauti ei ole kääntänyt ⟨את⟩ silmäänsä eikä tauti ole levinnyt, se on saastainen; tulessa sinä poltat sen: se ⟨on⟩ sisäänsyönyt reikä, olipa se sen kaljuudessa tai sen otsaisuudessa.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "katsoo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pappi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "jälkeen"
+    },
+    {
+      "surface": "הכבס",
+      "gloss": "pesun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tautia"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "tautia"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "ole kääntänyt"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "tauti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "silmäänsä"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "silmäänsä"
+    },
+    {
+      "surface": "והנגע",
+      "gloss": "eikä tauti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "ole levinnyt"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "saastainen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulessa"
+    },
+    {
+      "surface": "תשרפנו",
+      "gloss": "poltat sen"
+    },
+    {
+      "surface": "פחתת",
+      "gloss": "sisäänsyönyt reikä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "בקרחתו",
+      "gloss": "sen kaljuudessa"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "בגבחתו",
+      "gloss": "sen otsaisuudessa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:53:55.805218114Z",
+  "model": "glm-5.3"
+}

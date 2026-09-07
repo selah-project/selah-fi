@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 20:7",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Jos hän sanoo näin: Hyvä, palvelijallesi on rauha — mutta jos hän vihastuu kovasti, tiedä, että paha on valmis häneltä.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jos"
+    },
+    {
+      "surface": "כה",
+      "gloss": "näin"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "hän sanoo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Hyvä"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rauha"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "palvelijallesi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ja jos"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "vihastua"
+    },
+    {
+      "surface": "יחרה",
+      "gloss": "vihastuu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "דע",
+      "gloss": "tiedä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "on valmis"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "paha"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "häneltä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:13:41.545726216Z",
+  "model": "glm-5.3"
+}

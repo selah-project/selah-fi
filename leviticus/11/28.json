@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 11:28",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja joka kantaa ⟨את⟩ niiden raatoa, pesköön vaatteensa ja olkoon epäpuhdas iltaan asti; epäpuhtaita ne ⟨ovat⟩ teille.",
+  "tokens": [
+    {
+      "surface": "והנשא",
+      "gloss": "Ja joka kantaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niiden raatoa"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "niiden raatoa"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "pesköön"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "vaatteensa"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ja olkoon epäpuhdas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "iltaan"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "epäpuhtaita"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    }
+  ],
+  "timestamp": "2026-09-06T21:51:29.243828972Z",
+  "model": "glm-5.3"
+}

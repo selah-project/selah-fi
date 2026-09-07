@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 2:10",
+  "book": "zechariah",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Hoi, hoi! Paetkaa pohjoisen maasta, sanoo Jahve, sillä taivaan neljään tuuleen minä hajotin ⟨את⟩ teidät, sanoo Jahve.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hoi"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "hoi"
+    },
+    {
+      "surface": "ונסו",
+      "gloss": "ja paetkaa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "pohjoisen"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "כארבע",
+      "gloss": "neljään"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "tuuleen"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "פרשתי",
+      "gloss": "hajotin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät",
+      "marks": "אתכם on pronomini 'teidät' (H859 + k-2mp), ei objektimerkki"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-07T01:44:24.887147153Z",
+  "model": "glm-5.3"
+}

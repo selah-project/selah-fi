@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Kuoromestarille, Alamot Laben ⟨sekä⟩; Davidin (Daavidin) psalmi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kuoromestarille"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "Alamot"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laben"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalmi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidin"
+    }
+  ],
+  "timestamp": "2026-09-07T01:56:09.935796051Z",
+  "model": "glm-5.3"
+}

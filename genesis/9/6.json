@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Joka vuodattaa ihmisen veren, hänen verensä vuodatetaan; sillä Elohimin kuvassa hän teki ⟨את⟩ ihmisen.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "joka vuodattaa"
+    },
+    {
+      "surface": "דם",
+      "gloss": "veren"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihmisen"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ihmisen kautta"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "hänen verensä"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "vuodatetaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "kuvassa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihmisen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihmisen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:06:06.289478062Z",
+  "model": "glm-5.3"
+}

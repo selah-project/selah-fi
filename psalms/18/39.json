@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 18:39",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Murskaan heidät, eivätkä he kykene nousemaan, he lankeavat jalkojeni alle.",
+  "tokens": [
+    {
+      "surface": "אמחצם",
+      "gloss": "murskaan heidät"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kykene"
+    },
+    {
+      "surface": "קום",
+      "gloss": "nousemaan"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "he lankeavat"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alle"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "jalkojeni"
+    }
+  ],
+  "timestamp": "2026-09-07T01:57:27.482123187Z",
+  "model": "glm-5.3"
+}

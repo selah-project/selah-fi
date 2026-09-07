@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 7:13",
+  "book": "amos",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "ja Beit-Elissä (Betel) älä lisää enää profetoimista, sillä pyhäkkö kuninkaan ⟨on⟩ se ja huone valtakunnan ⟨on⟩ se.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "ja Beit-Elissä"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Beit-El"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "lisää"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enää"
+    },
+    {
+      "surface": "להנבא",
+      "gloss": "profetoimista"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "pyhäkkö"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se ⟨on⟩"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ja huone"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "valtakunnan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se ⟨on⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T01:30:22.515705506Z",
+  "model": "glm-5.3"
+}

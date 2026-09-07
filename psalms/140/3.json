@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 140:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 140,
+  "translation": "jotka punovat pahaa sydämessään, koko päivän he valmistautuvat sotia varten.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "punovat"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "pahaa"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "sydämessään"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivän"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "he valmistautuvat"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "sotia varten"
+    }
+  ],
+  "timestamp": "2026-09-07T02:53:39.844337201Z",
+  "model": "glm-5.3"
+}

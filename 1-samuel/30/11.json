@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 30:11",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja he löysivät kedolta miehen, mitsristin (egyptiläisen), ja he toivat ⟨את⟩ hänet Davidin luo, ja he antoivat hänelle leipää, ja hän söi, ja he juottivat ⟨את⟩ hänelle vettä.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "ja löysivät"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "mitsristin"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kedolta"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ja ottivat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet",
+      "marks": "egyptiläisen miehen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ja antoivat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ja hän söi"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "ja juottivat hänet"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vettä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:16:31.506387196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 71,
+  "translation": "Olen ollut monelle ihmeen kaltainen, mutta sinä ⟨olet⟩ vahva turvani.",
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "ihmeen kaltainen"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "olen ollut"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "monelle"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mutta sinä"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "turvani"
+    },
+    {
+      "surface": "עז",
+      "gloss": "vahva"
+    }
+  ],
+  "timestamp": "2026-09-07T02:18:28.288949635Z",
+  "model": "glm-5.3"
+}

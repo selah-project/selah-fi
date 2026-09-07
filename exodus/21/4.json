@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 21:4",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Jos hänen herransa antaa hänelle vaimon ja hän synnyttää hänelle poikia tai tyttäriä, vaimo ja hänen lapsensa pysyvät hänen herransa omaisuutena, ja hän lähtee omin päin.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "hänen herransa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "antaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "vaimon"
+    },
+    {
+      "surface": "וילדה",
+      "gloss": "ja hän synnyttää"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "poikia"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "tyttäriä"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "vaimo"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "ja hänen lapsensa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "pysyy"
+    },
+    {
+      "surface": "לאדניה",
+      "gloss": "hänen herransa omaisuutena"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ja hän"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lähtee"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "omin päin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:38:14.313241253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 145,
+  "translation": "Kaikkien silmät katsovat sinua toivoen, ja sinä annat heille ⟨את⟩ ruokansa ajallaan.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "silmät"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Kaikkien"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinua"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "katsovat toivoen"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ja sinä"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "annat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruokansa"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ruokansa"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "ajallaan"
+    }
+  ],
+  "timestamp": "2026-09-07T02:56:11.558067634Z",
+  "model": "glm-5.3"
+}

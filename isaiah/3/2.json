@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "sankarin ja sodan miehen, tuomarin ja profeetan, ennustajan ja vanhimman —",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "sankarin"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "sodan miehen"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "tuomarin"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "ja profeetan"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "ja ennustajan"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "ja vanhimman"
+    }
+  ],
+  "timestamp": "2026-09-07T00:01:11.689610180Z",
+  "model": "glm-5.3"
+}

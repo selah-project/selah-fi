@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 24:12",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Jäänyt ⟨on⟩ kaupunkiin hävitys, ja portti ⟨on⟩ murrettu raunioihin.",
+  "tokens": [
+    {
+      "surface": "נשאר",
+      "gloss": "jäänyt"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kaupunkiin"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "hävitys"
+    },
+    {
+      "surface": "ושאיה",
+      "gloss": "ja raunioihin"
+    },
+    {
+      "surface": "יכת",
+      "gloss": "murrettu"
+    },
+    {
+      "surface": "שער",
+      "gloss": "portti"
+    }
+  ],
+  "timestamp": "2026-09-07T00:07:36.333076144Z",
+  "model": "glm-5.3"
+}

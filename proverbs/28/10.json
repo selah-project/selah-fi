@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 28:10",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Joka eksyttää oikeamieliset pahalle tielle, kaatuu hän omaan kuoppaansa, mutta nuhteettomat perivät hyvää.",
+  "tokens": [
+    {
+      "surface": "משגה",
+      "gloss": "eksyttää"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "oikeamieliset"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tielle"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pahalle"
+    },
+    {
+      "surface": "בשחותו",
+      "gloss": "kuoppaansa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "kaatuu"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "mutta nuhteettomat"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "perivät"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvää"
+    }
+  ],
+  "timestamp": "2026-09-07T03:18:08.086617080Z",
+  "model": "glm-5.3"
+}

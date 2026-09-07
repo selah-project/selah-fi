@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 35,
+  "translation": "Ja Elohim nousi hänen luotaan paikassa, jossa hän oli puhunut ⟨את⟩ hänen kanssaan.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "nousi"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "hänen luotaan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "paikassa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jossa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oli puhunut"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänen kanssaan",
+      "marks": "hän"
+    }
+  ],
+  "timestamp": "2026-09-06T21:20:44.851021268Z",
+  "model": "glm-5.3"
+}

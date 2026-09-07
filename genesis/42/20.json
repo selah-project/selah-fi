@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "ja ⟨את⟩ nuorimman veljenne tuakaa minun luokseni, niin teidän sananne uskotaan, ettette kuole. Ja he tekivät niin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "nuorimman veljenne"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "veljenne"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "nuorimman"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "tuakaa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minun luokseni"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "uskotaan"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "sananne"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ette"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "kuole"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ja he tekivät"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:25:00.784869460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 140,
+  "translation": "Varmasti vanhurskaat ylistävät nimeäsi, oikeamieliset asuvat ⟨את⟩ kasvojesi ääressä.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Varmasti"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "vanhurskaat"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "ylistävät"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "nimeäsi"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "asuvat"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "oikeamieliset"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasvojesi ääressä"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "kasvojesi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:52:16.076274184Z",
+  "model": "glm-5.3"
+}

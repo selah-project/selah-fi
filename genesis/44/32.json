@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 44:32",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 44,
+  "translation": "sillä palvelijasi tuli ⟨את⟩ nuorukaisen takuksi isäni luota sanoen: Jos en tuo häntä sinun luoksesi, minä kannan syyn isälleni kaikki päivät.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "palvelijasi"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "tuli takuksi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nuorukaisen"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "nuorukaisen"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "luota"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "isäni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אביאנו",
+      "gloss": "tuon hänet"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinun luoksesi"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "ja minä olen syntynyt"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "isälleni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "päivät"
+    }
+  ],
+  "timestamp": "2026-09-06T21:26:11.097003273Z",
+  "model": "glm-5.3"
+}

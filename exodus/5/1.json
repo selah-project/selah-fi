@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 5:1",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja sen jälkeen tulivat Moshe (Mooses) ja Aharon (Aaron) ja sanoivat Parolle (farao): Näin on sanonut Jahve, Israelin Elohim: Päästä ⟨את⟩ kansani, ja he viettäkööt juhlaa minulle erämaassa.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "Ja sen jälkeen"
+    },
+    {
+      "surface": "באו",
+      "gloss": "tulivat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ja Aharon"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ja sanoivat"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parolle"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Näin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "on sanonut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Päästä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansani"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kansani"
+    },
+    {
+      "surface": "ויחגו",
+      "gloss": "ja viettäkööt juhlaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "erämaassa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:11:13.061196683Z",
+  "model": "glm-5.3"
+}

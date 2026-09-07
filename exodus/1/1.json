@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja nämä ovat nimet Israelin pojista, jotka tulivat Mitsrajimiin (Egyptiin): ⟨את⟩ Ja'akovin (Jaakobin) — kukin miehenä taloineen he tulivat.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ja nämä"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nimet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojista"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "jotka tulivat"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrajimiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ja'akovin"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akovin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehenä"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "taloineen"
+    },
+    {
+      "surface": "באו",
+      "gloss": "he tulivat"
+    }
+  ],
+  "timestamp": "2026-09-06T21:28:46.914510087Z",
+  "model": "glm-5.3"
+}

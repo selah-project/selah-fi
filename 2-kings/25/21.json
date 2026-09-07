@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja Babelin kuningas löi ⟨את⟩ heidät ja surmasi heidät Rivlassa, Hamatin maassa; ja Juuda karkotettiin pois maastaan.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "löi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "heidät"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babelin"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "ja surmasi heidät"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "Rivlassa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamatin"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "ja karkotettiin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juuda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "pois"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "maastaan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:00:29.353583858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 43,
+  "translation": "Vaan et sinä ⟨את⟩ minua kutsunut, Ja'akov (Jaakob), sillä sinä väsytit minut, Israel.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "vaan et"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ minua",
+      "marks": "objektipronomini, kohde 'minua'"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "kutsunut"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "väsytit"
+    },
+    {
+      "surface": "בי",
+      "gloss": "minut"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-07T00:15:02.230083874Z",
+  "model": "glm-5.3"
+}

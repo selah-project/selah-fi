@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Sillä ⟨את⟩ ikeen, hänen kuormansa, ja ⟨את⟩ sauvan, hänen olkapäätään — hänen sortajansa sauvan hän hävitti, niin kuin Midjanin (Media) päivänä.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iekeen"
+    },
+    {
+      "surface": "על",
+      "gloss": "iekeen"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "hänen kuormansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sauvan"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "sauvan"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "hänen olkapäätään"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "sauva"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "hänen sortajansa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "häntä"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "hän hävitti"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "niin kuin päivänä"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjanin (Media)"
+    }
+  ],
+  "timestamp": "2026-09-07T00:03:25.205730319Z",
+  "model": "glm-5.3"
+}

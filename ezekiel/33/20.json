@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 33:20",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Ja te sanotte: ”Adonain tie ei ole tasapainossa.” Jokaisen omien teidensä mukaan minä tuomitsen teidät ⟨את⟩, Israelin huone.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "Ja te sanotte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "ole tasapainossa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tie"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonain"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jokaisen"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "omien teidensä mukaan"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "minä tuomitsen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "teidät ⟨את⟩",
+      "marks": "Israelin huone"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huone"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-07T01:08:33.506823583Z",
+  "model": "glm-5.3"
+}

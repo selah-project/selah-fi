@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 39:30",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 39,
+  "translation": "Ja he tekivät ⟨את⟩ kiiltävän levyn, pyhän kruunun, puhtaasta kullasta, ja kirjoittivat sen päälle kirjoituksen, sinettikaiverruksen tavoin: ”Pyhä Jahvelle”.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Ja he tekivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiiltävän levyn"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "kiiltävän levyn"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "kruunun (pyhitetty)"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pyhän"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kullasta"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "puhtaasta"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "ja kirjoittivat"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sen päälle"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "kirjoituksen"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "kaiverruksen (sinetti)"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "sinettikaiverruksen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Pyhä"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    }
+  ],
+  "timestamp": "2026-09-06T21:47:23.378175281Z",
+  "model": "glm-5.3"
+}

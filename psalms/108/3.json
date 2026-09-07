@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 108,
+  "translation": "Herää, harppu ja kannel! Minä herätän aamun.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Herää"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "harppu"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ja kannel"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "minä herätän"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "aamun"
+    }
+  ],
+  "timestamp": "2026-09-07T02:42:32.283169039Z",
+  "model": "glm-5.3"
+}

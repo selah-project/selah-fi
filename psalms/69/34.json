@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 69,
+  "translation": "Sillä Jahve kuulee köyhät, ⟨את⟩ vankejaan hän ei halveksi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kuulee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "köyhät"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "vankejaan"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "vankejaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "halveksi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:18:24.602121675Z",
+  "model": "glm-5.3"
+}

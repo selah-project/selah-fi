@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 135,
+  "translation": "Kuten ne, niin olkoot niiden tekijät — kaikki, jotka niihin turvaavat.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "Kuten ne"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olkoot"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "niiden tekijät"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "turvaavat"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "niihin"
+    }
+  ],
+  "timestamp": "2026-09-07T02:50:09.028734702Z",
+  "model": "glm-5.3"
+}

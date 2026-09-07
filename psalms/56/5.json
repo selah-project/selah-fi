@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 56,
+  "translation": "Elohimissa minä ylistän hänen sanaansa, Elohimissa minä olen turvannut; en minä pelkää — mitä liha voi tehdä minulle?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimissa"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "minä ylistän"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "hänen sanaansa"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimissa"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "minä olen turvannut"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "minä pelkää"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "voi tehdä"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "liha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    }
+  ],
+  "timestamp": "2026-09-07T02:14:20.621375983Z",
+  "model": "glm-5.3"
+}

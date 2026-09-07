@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 34:4",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "Kuulleetkuin sinä kuitenkin Jahven sanan, Tsidkijahu (Sidkia), Juudan kuningas: Näin sanoi Jahve sinusta: Et kuole miekalla.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kuitenkin"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Kuule"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkijahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juudan"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Näin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sinusta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Et"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "kuole"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "miekkalla"
+    }
+  ],
+  "timestamp": "2026-09-07T00:41:01.498273458Z",
+  "model": "glm-5.3"
+}

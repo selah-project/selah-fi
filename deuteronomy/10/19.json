@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja rakastakaa ⟨את⟩ muukalaista, sillä muukalaisina te olitte Mitsrajimin maassa.",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "Ja rakastakaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muukalaista"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "muukalaista"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "muukalaisina"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "te olitte"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimissa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:27:16.507852107Z",
+  "model": "glm-5.3"
+}

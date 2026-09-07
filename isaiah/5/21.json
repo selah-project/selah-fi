@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 5:21",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Voi heitä, jotka ovat viisaita omien silmiensä mukaan ja ymmärtäväisiä omien kasvojensa edessä!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Voi"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "viisaita"
+    },
+    {
+      "surface": "בעיניהם",
+      "gloss": "omien silmiensä mukaan"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "ja ... edessä"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "kasvojensa"
+    },
+    {
+      "surface": "נבנים",
+      "gloss": "ymmärtäväisiä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:03:15.554298208Z",
+  "model": "glm-5.3"
+}

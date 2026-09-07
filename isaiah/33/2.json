@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 33:2",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Jahve, armahda meitä; sinua me odotimme. Ole käsivarsi aamuisin, myös pelastuksemme ahdistuksen aikana.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "armahda meitä"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinua"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "odotimme"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ole"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "käsivarsi"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "aamuisin"
+    },
+    {
+      "surface": "אף",
+      "gloss": "myös"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "pelastuksemme"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "aikana"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ahdistuksen"
+    }
+  ],
+  "timestamp": "2026-09-07T00:11:03.042847741Z",
+  "model": "glm-5.3"
+}

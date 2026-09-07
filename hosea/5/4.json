@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 5:4",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Eivät tekonsa salli heidän palata heidän Elohiminsa luo, sillä huoruuden henki on heidän keskellään, ja ⟨את⟩ Jahvea he eivät tunne.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Eivät"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "salli"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "tekonsa"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "palata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohiminsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "henki"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "huoruuden"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "heidän keskellään"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tunne"
+    }
+  ],
+  "timestamp": "2026-09-07T01:21:59.015142434Z",
+  "model": "glm-5.3"
+}

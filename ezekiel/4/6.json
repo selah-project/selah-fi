@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 4:6",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja kun olet saattanut ⟨את⟩ nämä loppuun, sinä makaat toisen kerran oikealla kyljelläsi ja kannat ⟨את⟩ Jehudan (Juudan) huoneen vääryyden: neljäkymmentä päivää — päivä vuotta kohden, päivä vuotta kohden — sen minä olen antanut sinulle.",
+  "tokens": [
+    {
+      "surface": "וכלית",
+      "gloss": "Ja kun olet saattanut loppuun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nämä"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "sinä makaat"
+    },
+    {
+      "surface": "על",
+      "gloss": "kyljellä"
+    },
+    {
+      "surface": "צדך",
+      "gloss": "kylkesi"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "oikealla"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "toisen kerran"
+    },
+    {
+      "surface": "ונשאת",
+      "gloss": "ja kannat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vääryyden"
+    },
+    {
+      "surface": "עון",
+      "gloss": "vääryyden"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan (Juudan)"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "neljäkymmentä"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivää"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivä"
+    },
+    {
+      "surface": "לשנה",
+      "gloss": "vuotta kohden"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivä"
+    },
+    {
+      "surface": "לשנה",
+      "gloss": "vuotta kohden"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "olen antanut sen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    }
+  ],
+  "timestamp": "2026-09-07T00:54:10.862225046Z",
+  "model": "glm-5.3"
+}

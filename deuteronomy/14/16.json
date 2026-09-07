@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "⟨את⟩ pikkupöllö, ja ⟨את⟩ isopöllö, ja sarvipöllö",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pikkupöllö"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "pikkupöllö"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "isopöllö"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "isopöllö"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "ja sarvipöllö"
+    }
+  ],
+  "timestamp": "2026-09-06T22:29:03.859334281Z",
+  "model": "glm-5.3"
+}

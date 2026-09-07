@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 26:31",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja sinä teet verhon sinisestä villasta, purpurasta ja karmosiininpunaisesta sekä kerratuspellavasta; kutojan työ se tehdään ⟨את⟩ kerubein.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ja sinä teet"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "verhon"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "sinisestä villasta"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ja purpurasta"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "ja karmosiinin"
+    },
+    {
+      "surface": "שני",
+      "gloss": "punaisesta"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ja pellavasta"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "kerratusta"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "työ"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "kutojan"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "se tehdään"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kerubein"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerubein"
+    }
+  ],
+  "timestamp": "2026-09-06T21:40:04.580410595Z",
+  "model": "glm-5.3"
+}

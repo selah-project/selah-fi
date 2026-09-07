@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 13:9",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Sinä olet tuhonnut itsesi, Israel; mutta minussa on apusi.",
+  "tokens": [
+    {
+      "surface": "שחתך",
+      "gloss": "olet tuhonnut itsesi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mutta"
+    },
+    {
+      "surface": "בי",
+      "gloss": "minussa"
+    },
+    {
+      "surface": "בעזרך",
+      "gloss": "on apusi"
+    }
+  ],
+  "timestamp": "2026-09-07T01:23:07.242441999Z",
+  "model": "glm-5.3"
+}

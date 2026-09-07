@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 32:20",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Ja hän otti ⟨את⟩ vasikan, jonka he olivat tehneet, ja poltti tulessa ja murskasi, kunnes se oli hienoutta, ja sirotti sen veden pinnalle, ja juotti ⟨את⟩ Israelin pojat ⟨sitä⟩.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ja hän otti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vasikan"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "vasikan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "he olivat tehneet"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "ja poltti"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulessa"
+    },
+    {
+      "surface": "ויטחן",
+      "gloss": "ja murskasi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "että"
+    },
+    {
+      "surface": "דק",
+      "gloss": "hienoutta"
+    },
+    {
+      "surface": "ויזר",
+      "gloss": "ja sirotti"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pinnalle"
+    },
+    {
+      "surface": "המים",
+      "gloss": "veden"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "ja juotti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin pojat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:43:47.223112285Z",
+  "model": "glm-5.3"
+}

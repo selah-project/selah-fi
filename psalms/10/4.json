@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Jumalaton, kasvojensa korkeudesta ⟨katsoen⟩ — 'ei ole Elohimia' — kaikki hänen juonensa ⟨sanovat niin⟩; hän ei etsi.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Jumalaton"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "korkeudesta"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "kasvojensa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "hän etsi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "hänen juonensa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:30:06.235446407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 10:15",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Jos vääryyttä tein — voi minua! Ja jos vanhurskaana elin, en silti kohota päätäni, kylläisenä häpeästä ja katsoen kurjuuttani.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jos"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "vääryyttä tein"
+    },
+    {
+      "surface": "אללי",
+      "gloss": "voi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minua"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "ja jos vanhurskaana elin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "kohota"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "päätäni"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "kylläisenä"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "häpeästä"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ja katsoen"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "kurjuuttani"
+    }
+  ],
+  "timestamp": "2026-09-07T03:29:41.665547963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja hän synnytti pojan, ja hän kutsui ⟨את⟩ hänen nimensä Gereshom, sillä hän sanoi: muukalainen olen ollut vieraassa maassa.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kutsui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen nimensä"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hänen nimensä"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gereshom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "גר",
+      "gloss": "muukalainen"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "olen ollut"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "vieraassa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:29:04.200315036Z",
+  "model": "glm-5.3"
+}

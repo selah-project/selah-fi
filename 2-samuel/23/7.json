@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 23:7",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja mies, joka koskee niihin, täyttää ⟨kätensä⟩ raudalla ja keihään puuvarrella, ja tulessa ne poltetaan poltettuina asuinpaikassaan.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ja mies"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "koskee"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "niihin"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "täyttää"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "raudalla"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ja puu(varrella)"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "keihään"
+    },
+    {
+      "surface": "ובאש",
+      "gloss": "ja tulessa"
+    },
+    {
+      "surface": "שרוף",
+      "gloss": "poltettuina"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "poltetaan"
+    },
+    {
+      "surface": "בשבת",
+      "gloss": "asuinpaikassaan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:23:20.784813665Z",
+  "model": "glm-5.3"
+}

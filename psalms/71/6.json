@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 71,
+  "translation": "Sinuun olen nojannut syntymästä asti, äitini kohdusta sinä irrotit minut; sinussa ⟨on⟩ ylistykseni jatkuvasti.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Sinuun"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "olen nojannut"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "syntymästä asti"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "kohdusta"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "äitini"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "irrotit"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinussa"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "ylistykseni"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "jatkuvasti"
+    }
+  ],
+  "timestamp": "2026-09-07T02:18:28.288084650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 139:21",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 139,
+  "translation": "Eikö minun vihata niitä, jotka sinua vihaavat, Jahve, ja kiistellä niiden kanssa, jotka sinua vastaan nousevat?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "eikö"
+    },
+    {
+      "surface": "משנאיך",
+      "gloss": "niitä, jotka sinua vihaavat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשנא",
+      "gloss": "vihaa"
+    },
+    {
+      "surface": "ובתקוממיך",
+      "gloss": "ja niiden kanssa, jotka sinua vastaan nousevat"
+    },
+    {
+      "surface": "אתקוטט",
+      "gloss": "kiistellä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:52:37.801280118Z",
+  "model": "glm-5.3"
+}

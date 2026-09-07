@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 2:17",
+  "book": "ruth",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja hän poimi pellolla iltaan asti, ja hän pui ⟨את⟩ poimimansa, ja ⟨se⟩ oli noin eefa ohria.",
+  "tokens": [
+    {
+      "surface": "ותלקט",
+      "gloss": "ja hän poimi"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "pellolla"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "iltaan"
+    },
+    {
+      "surface": "ותחבט",
+      "gloss": "ja hän pui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poimimansa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minkä"
+    },
+    {
+      "surface": "לקטה",
+      "gloss": "hän poimi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja ⟨se⟩ oli"
+    },
+    {
+      "surface": "כאיפה",
+      "gloss": "noin eefa"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ohria"
+    }
+  ],
+  "timestamp": "2026-09-07T04:00:05.491000766Z",
+  "model": "glm-5.3"
+}

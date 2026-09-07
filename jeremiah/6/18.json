@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 6:18",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Sentähden kuulkaa, kansat, ja tietäkää, seurakunta, ⟨את⟩ mitä heidän päällensä ⟨tulee⟩.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "sentähden"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kuulkaa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kansat"
+    },
+    {
+      "surface": "ודעי",
+      "gloss": "ja tietäkää"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "seurakunta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitä heidän päällensä (tulee)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "בם",
+      "gloss": "heidän päällensä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:26:42.975269563Z",
+  "model": "glm-5.3"
+}

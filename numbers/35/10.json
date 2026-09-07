@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 35,
+  "translation": "Puhu Israelin lapsille ja sano heille: kun te ylitätte ⟨את⟩ Jordanin, Kanaanin maahan —",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "puhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…lle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lapsille"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ja sano"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "te"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ylitätte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordanin"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanin"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaanin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:21:41.255146285Z",
+  "model": "glm-5.3"
+}

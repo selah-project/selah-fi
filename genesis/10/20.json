@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Nämä ovat Hamin pojat sukukunnittain, kielittäin, maissaan, kansoissaan",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Nämä"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Hamin"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sukukunnittain"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "kielittäin"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "maissaan"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "kansoissaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:12.734584339Z",
+  "model": "glm-5.3"
+}

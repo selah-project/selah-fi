@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja jotka söivät kansani lihan, ja heidän nahkansa heidän päältään nylkivät, ja ⟨את⟩ heidän luunsa he murskasivat ja hajottivat kuin pataan ja kuin liha kattilan keskellä.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "ja jotka"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "söivät"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "lihan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kansani"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "ja heidän nahkansa"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "heidän päältään"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "nylkivät"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "heidän luunsa"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "he murskasivat"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "ja hajottivat"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kuin"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "pataan"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "ja kuin liha"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keskellä"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "kattilan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:34:59.586718416Z",
+  "model": "glm-5.3"
+}

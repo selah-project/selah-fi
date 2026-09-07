@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Minun oikeudenmukaisuuteni ⟨את⟩ tuomiot te saatte tehdä, ja minun käskyni ⟨את⟩ saatte noudattaa ja säilyttää, vaeltaaksenne niissä; minä olen Jahve, teidän Elohiminne.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuomioni (totaaliobjekti)"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "tuomioni"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "te saatte tehdä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "käskyni (totaaliobjekti)"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "käskyni"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "saatte noudattaa ja säilyttää"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "vaeltaaksenne"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "niissä"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "teidän Elohiminne"
+    }
+  ],
+  "timestamp": "2026-09-06T21:54:46.585603829Z",
+  "model": "glm-5.3"
+}

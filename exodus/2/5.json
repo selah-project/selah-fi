@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 2:5",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Paron tytär astui alas peseytymään virralle, ja hänen neitonsa kävelivät virran rantaa; ja hän näki ⟨את⟩ arkin kaislikon keskellä, ja hän lähetti ⟨את⟩ orjattarensa, ja hän otti sen.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "ja hän astui alas"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tytär"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "peseytymään"
+    },
+    {
+      "surface": "על",
+      "gloss": "virralle"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "virran"
+    },
+    {
+      "surface": "ונערתיה",
+      "gloss": "ja hänen neitonsa"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "kävelivät"
+    },
+    {
+      "surface": "על",
+      "gloss": "pitkin"
+    },
+    {
+      "surface": "יד",
+      "gloss": "rantaa"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "virran"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "ja hän näki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkin"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arkin"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keskellä"
+    },
+    {
+      "surface": "הסוף",
+      "gloss": "kaislikon"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "ja hän lähetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orjattarensa"
+    },
+    {
+      "surface": "אמתה",
+      "gloss": "orjattarensa"
+    },
+    {
+      "surface": "ותקחה",
+      "gloss": "ja hän otti sen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:28:42.578504258Z",
+  "model": "glm-5.3"
+}

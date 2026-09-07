@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 8:18",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Vaan muista ⟨את⟩ Jahvea, Elohimiasi, sillä hän on se, joka antaa sinulle voiman tehdä rikkautta, vahvistaakseen ⟨את⟩ liittonsa, jonka hän vannoi isillesi, niin kuin tänä päivänä.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "vaan muista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimiasi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "antaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "כח",
+      "gloss": "voiman"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "tehdäksesi"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "rikkautta"
+    },
+    {
+      "surface": "למען",
+      "gloss": "vahvistaakseen"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "vahvistaakseen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liittonsa"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "liittonsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "hän vannoi"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "isillesi"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tänä päivänä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:16:16.639808045Z",
+  "model": "glm-5.3"
+}

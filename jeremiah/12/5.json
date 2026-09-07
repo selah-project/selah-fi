@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 12:5",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Sillä ⟨את⟩ jalkaväen kanssa sinä juoksit, ja he väsyttivät sinua — kuinka sina kilpailet ⟨את⟩ hevosten kanssa? Ja rauhan maassa sinä olet turvassa — kuinka sinä teet Jordanin ylpeydessä?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalkaväen"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "jalkaväen"
+    },
+    {
+      "surface": "רצתה",
+      "gloss": "juoksit"
+    },
+    {
+      "surface": "וילאוך",
+      "gloss": "ja he väsyttivät sinua"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "kuinka"
+    },
+    {
+      "surface": "תתחרה",
+      "gloss": "kilpailet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hevosten"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "hevosten"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "ja maassa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rauhan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "olet turvassa"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "kuinka"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "teet"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "ylpeydessä"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanin"
+    }
+  ],
+  "timestamp": "2026-09-07T00:30:55.172881816Z",
+  "model": "glm-5.3"
+}

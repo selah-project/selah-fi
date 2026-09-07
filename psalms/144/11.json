@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 144:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 144,
+  "translation": "Vapahda minut ja pelasta minut vieraiden lasten kädestä, joiden suu puhuu turhuutta ja joiden oikea käsi on valheen oikea käsi.",
+  "tokens": [
+    {
+      "surface": "פצני",
+      "gloss": "Vapahda minut"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "ja pelasta minut"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kädestä"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "vieraiden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joiden"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "suu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "puhuu"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "turhuutta"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "ja joiden oikea käsi"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "oikea käsi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "valheen"
+    }
+  ],
+  "timestamp": "2026-09-07T02:57:19.697269517Z",
+  "model": "glm-5.3"
+}

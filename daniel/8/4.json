@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 8:4",
+  "book": "daniel",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Minä näin ⟨את⟩ oinaan puskivan länteen ja pohjoiseen ja etelään, eikä mikään eläin voinut seisoa sen edessä, eikä ollut ketään pelastavaa sen kädestä; ja se teki tahtonsa mukaan ja suurensi itseään.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "minä näin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oinaan"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "oinaan"
+    },
+    {
+      "surface": "מנגח",
+      "gloss": "puskivan"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "länteen"
+    },
+    {
+      "surface": "וצפונה",
+      "gloss": "ja pohjoiseen"
+    },
+    {
+      "surface": "ונגבה",
+      "gloss": "ja etelään"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "eikä mikään"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "eläin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "voinut seisoa"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sen edessä"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä ollut"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "ketään pelastavaa"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "sen kädestä"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ja se teki"
+    },
+    {
+      "surface": "כרצנו",
+      "gloss": "tahtonsa mukaan"
+    },
+    {
+      "surface": "והגדיל",
+      "gloss": "ja suurensi itseään"
+    }
+  ],
+  "timestamp": "2026-09-07T04:51:27.532279471Z",
+  "model": "glm-5.3"
+}

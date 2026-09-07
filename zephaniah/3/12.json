@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 3:12",
+  "book": "zephaniah",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja minä jätän sinun keskuuteesi köyhän ja vähäisen kansan, ja he turvautuvat Jahven nimeen.",
+  "tokens": [
+    {
+      "surface": "והשארתי",
+      "gloss": "Ja minä jätän"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "sinun keskuuteesi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "köyhän"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "ja vähäisen"
+    },
+    {
+      "surface": "וחסו",
+      "gloss": "ja he turvautuvat"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nimeen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-07T01:40:43.446380874Z",
+  "model": "glm-5.3"
+}

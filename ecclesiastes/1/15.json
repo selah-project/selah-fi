@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Mikä on vääristynyt, ei voida oikaista, ja mikä puuttuu, ei voida laskea.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "vääristynyt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "voida"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "oikaista"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "ja mikä puuttuu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "voida"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "laskea"
+    }
+  ],
+  "timestamp": "2026-09-07T04:06:06.151669953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 6:33",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja samoin hän teki temppelin sisäänkäynnille pylväät öljypuuta, ⟨את⟩ neljäsosasta.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "Ja samoin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hän teki"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "sisäänkäynnille"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "temppelin"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "pylväät"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "puuta"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "öljy-"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "neljäsosasta"
+    },
+    {
+      "surface": "רבעית",
+      "gloss": "neljäsosasta"
+    }
+  ],
+  "timestamp": "2026-09-06T23:34:52.751648932Z",
+  "model": "glm-5.3"
+}

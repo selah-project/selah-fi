@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "ettei ⟨hän⟩ revi kuin leijona nefeshiani, murskaten, eikä pelastajaa ⟨ole⟩.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "ettei"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "revi"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "kuin leijona"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshini"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "murskaten"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä ⟨ole⟩"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "pelastajaa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:52:28.504527762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 95,
+  "translation": "joille minä vannoin vihassani: eivät he mene sisään minun lepoonsani.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "joille"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "minä vannoin"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "vihassani"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "he menevät sisään"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "minun lepoonsani"
+    }
+  ],
+  "timestamp": "2026-09-07T02:32:21.887319598Z",
+  "model": "glm-5.3"
+}

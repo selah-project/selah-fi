@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Odottamista odotin Jahvea, ja hän kallistui minun puoleeni ja kuuli huutoni.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Odottamista"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "odotin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ja hän kallistui"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minun puoleeni"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ja hän kuuli"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "huutoni"
+    }
+  ],
+  "timestamp": "2026-09-07T02:07:44.658089012Z",
+  "model": "glm-5.3"
+}

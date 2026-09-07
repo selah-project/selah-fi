@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 6:6",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja lensi minun luokseni yksi sherufeista, ja hänen kädessään ⟨oli⟩ hehkuva kivi, pinseteillä hän oli ottanut sen alttarilta.",
+  "tokens": [
+    {
+      "surface": "ויעף",
+      "gloss": "ja lensi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minun luokseni"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-sta"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "sherufeista"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "ja hänen kädessään"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "hehkuva kivi"
+    },
+    {
+      "surface": "במלקחים",
+      "gloss": "pinseteillä"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "hän otti"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "-lta"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarilta"
+    }
+  ],
+  "timestamp": "2026-09-07T00:02:56.041713612Z",
+  "model": "glm-5.3"
+}

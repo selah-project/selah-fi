@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Vaan hänen mielensä on Jahven Torassa (lain), ja hänen Torassaan hän mietiskelee päivin ja öin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Vaan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vaan"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "Torassa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "hänen mielensä"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "hänen Torassaan"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "hän mietiskelee"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "päivin"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ja öin"
+    }
+  ],
+  "timestamp": "2026-09-07T01:53:15.663395336Z",
+  "model": "glm-5.3"
+}

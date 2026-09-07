@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 13:9",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja hän otti ⟨את⟩ padan ja kaatoi hänen eteensä, mutta hän kieltäytyi syömästä. Ja Amnon sanoi: Vieköön ulos jokainen mies minun luotani. Ja jokainen mies lähti hänen luotaan.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "Ja hän otti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padan"
+    },
+    {
+      "surface": "המשרת",
+      "gloss": "padan"
+    },
+    {
+      "surface": "ותצק",
+      "gloss": "ja kaatoi"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "hänen eteensä"
+    },
+    {
+      "surface": "וימאן",
+      "gloss": "mutta hän kieltäytyi"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "syömästä"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "Vieköön ulos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokainen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "minun luotani"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "ja lähtivät"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokainen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "hänen luotaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:24:43.921818879Z",
+  "model": "glm-5.3"
+}

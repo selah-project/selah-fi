@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 91,
+  "ref": "psalms 119:91",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Sinun määräystesi mukaan ne seisovat tänä päivänä, sillä kaikki ⟨ovat⟩ sinun palvelijoitasi.",
+  "tokens": [
+    {
+      "surface": "למשפטיך",
+      "gloss": "Sinun määräystesi mukaan"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "ne seisovat"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tänä päivänä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "⟨ovat⟩ sinun palvelijoitasi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:46:43.505520948Z",
+  "model": "glm-5.3"
+}

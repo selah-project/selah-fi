@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Hän löi ⟨את⟩ pelislaiset aina Azzahan asti ja ⟨את⟩ sen rajat, vartiotornista linnoitettuun kaupunkiin.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "löi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelislaiset"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelislaiset"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzahan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen rajat"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "sen rajat"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "tornista"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "vartio(­)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kaupunkiin"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "linnoitettu"
+    }
+  ],
+  "timestamp": "2026-09-06T23:55:08.402789721Z",
+  "model": "glm-5.3"
+}

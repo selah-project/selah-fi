@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 38,
+  "translation": "Ei terveyttä lihassani sinun vimmasi tähden, ei rauhaa luissani syntini tähden.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "terveyttä"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "lihassani"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "sinun vimmasi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rauhaa"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "luissani"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "syntini"
+    }
+  ],
+  "timestamp": "2026-09-07T02:07:39.988081793Z",
+  "model": "glm-5.3"
+}

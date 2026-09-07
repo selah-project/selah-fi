@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 6:11",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Jahven arkki kiersi ⟨את⟩ kaupungin ympäri yhden kerran, ja he tulivat leiriin ja yöpyivät leirissä.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "kiersi"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaupungin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "הקף",
+      "gloss": "ympäri"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "kerran"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yhden"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ja he tulivat"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "leiriin"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "ja yöpyivät"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "leirissä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:15:21.065050709Z",
+  "model": "glm-5.3"
+}

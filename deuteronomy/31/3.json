@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 31:3",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Jahve, Elohimisi, hän kulkee sinun edelläsi; hän hävittää ⟨את⟩ nämä kansat sinun edestäsi, ja sinä saat ne omistaa; Jehoshua (Joosua), hän kulkee sinun edelläsi, niin kuin Jahve on puhunut.”",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimisi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kulkee"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sinun edelläsi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "hävittää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "näiden kansojen"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kansat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "sinun edestäsi"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "ja sinä saat ne omistaa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshua"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kulkee"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sinun edelläsi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "on puhunut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-06T22:38:24.856152023Z",
+  "model": "glm-5.3"
+}

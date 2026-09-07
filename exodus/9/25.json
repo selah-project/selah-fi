@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 9:25",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja rakeet löivät koko Mitsrajimin (Egyptin) maassa ⟨את⟩ kaiken, mikä pellolla oli, ihmisestä karjaan asti; ja ⟨את⟩ kaiken pellon ruohon löivät rakeet, ja ⟨את⟩ kaiken pellon puun ne mursi.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Ja löivät"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "rakeet"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken, mikä pellolla oli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mikä"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "pellolla"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "ihmisestä"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "karjaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaiken pellon ruohon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ruohon"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pellon"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "löivät"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "rakeet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaiken pellon puun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "puun"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pellon"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ne mursi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:31:48.308119160Z",
+  "model": "glm-5.3"
+}

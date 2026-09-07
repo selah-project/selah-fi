@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja ⟨את⟩ Penuelin tornin hän mursi, ja hän tappoi ⟨את⟩ kaupungin miehet.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Penuelin tornin"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "tornin"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuelin"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "hän mursi"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "ja hän tappoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaupungin miehet"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:56:43.994407094Z",
+  "model": "glm-5.3"
+}

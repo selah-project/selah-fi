@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 19:5",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "ja hän pani ⟨את⟩ elämänsä kämmenelleen ja löi ⟨את⟩ pelistiläisen, ja Jahve teki suuren pelastuksen koko Israelille. Sinä näit sen ja iloitit — ja miksi langettaisit syntiä viattoman veren päälle tappaaksesi ⟨את⟩ Davidin (Daavid) syyttä?",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ja hän pani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elämänsä"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "elämänsä"
+    },
+    {
+      "surface": "בכפו",
+      "gloss": "kämmenelleen"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ja löi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelistiläisen"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "pelistiläisen"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ja teki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "pelastuksen"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "suuren"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelille"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "sinä näit"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "ja iloitit"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ja miksi"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "langettaisit syntiä"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "veren päälle"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "viattoman"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "tappaaksesi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin (Daavid)"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "syyttä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:12:19.628276877Z",
+  "model": "glm-5.3"
+}

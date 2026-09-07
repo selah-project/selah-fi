@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Älä tee itsellesi patsasta, ei mitään kuvaa, joka on taivaissa ylhäällä, eikä sitä, joka on maassa alhaalla, eikä sitä, joka on vesissä maan alla.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tee"
+    },
+    {
+      "surface": "לך",
+      "gloss": "itsellesi"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "patsasta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mitään"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "kuvaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "taivaissa"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ylhäällä"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "eikä sitä, joka"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "alhaalla"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "eikä sitä, joka"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vesissä"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "alla"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:24:37.146607363Z",
+  "model": "glm-5.3"
+}

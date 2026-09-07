@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 10:5",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja hän sanoi heille: vielä kolme päivää, ja palatkaa minun luokseni. Ja kansa meni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vielä"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivää"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "ja palatkaa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minun luokseni"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ja meni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    }
+  ],
+  "timestamp": "2026-09-07T05:36:20.200390317Z",
+  "model": "glm-5.3"
+}

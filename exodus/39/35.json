@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 39,
+  "translation": "⟨את⟩ todistuksen arkin ja ⟨את⟩ sen kantovartensa ja ⟨את⟩ kappora-istuimen (armoistuin).",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "todistuksen arkin"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "arkin"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "todistuksen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen kantovartensa"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "sen kantovartensa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kappora-istuimen"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kappora-istuimen (armoistuin)"
+    }
+  ],
+  "timestamp": "2026-09-06T21:46:32.498143404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja minä teen sinut suureksi kansaksi, ja siunaan sinua, ja suurennen nimesi; ja ole siunauksena.",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "Ja minä teen sinut"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "kansaksi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suureksi"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "ja siunaan sinua"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "ja suurennen"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nimesi"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ja ole"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "siunauksena"
+    }
+  ],
+  "timestamp": "2026-09-06T21:09:28.721547452Z",
+  "model": "glm-5.3"
+}

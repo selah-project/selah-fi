@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Joka kuria rakastaa, rakastaa tietoa, mutta joka nuhdetta vihaa, on eläimen mielessä.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "rakastaa"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "kuria"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "rakastaa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tietoa"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "mutta vihaa"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "nuhdetta"
+    },
+    {
+      "surface": "בער",
+      "gloss": "on eläimen mielessä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:07:26.231572711Z",
+  "model": "glm-5.3"
+}

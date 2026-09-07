@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 12:4",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja sinä tuot ulos kalusi, niin kuin pakolaisen kalut, päivällä heidän silmiensä edessä; ja sinä itse lähdet ulos illalla heidän silmiensä edessä, niin kuin pakkolaisuuteen lähtijät.",
+  "tokens": [
+    {
+      "surface": "והוצאת",
+      "gloss": "Ja sinä tuot ulos"
+    },
+    {
+      "surface": "כליך",
+      "gloss": "kalusi"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "niin kuin … kalut"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "pakolaisen"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "päivällä"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "heidän silmiensä edessä"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ja sinä"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "lähdet ulos"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "illalla"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "heidän silmiensä edessä"
+    },
+    {
+      "surface": "כמוצאי",
+      "gloss": "niin kuin lähtijät"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "pakkolaisuuteen"
+    }
+  ],
+  "timestamp": "2026-09-07T00:56:10.140135827Z",
+  "model": "glm-5.3"
+}

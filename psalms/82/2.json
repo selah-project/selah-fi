@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 82:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 82,
+  "translation": "Kuinka kauaan te tuomitte vääryyttä, ja jumalattomien kasvoja te nostatte? Sela.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Kuinka"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kauaan"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "te tuomitte"
+    },
+    {
+      "surface": "עול",
+      "gloss": "vääryyttä"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ja kasvoja"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jumalattomien"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "te nostatte"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-07T02:26:51.783353270Z",
+  "model": "glm-5.3"
+}

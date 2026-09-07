@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "”Nouskaa minun luokseni ja auttakaa minua, ja lyökäämme ⟨את⟩ Giv'on, sillä se on tehnyt rauhan ⟨את⟩ Jehoshuan ja ⟨את⟩ Israelin lasten kanssa.”",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "Nouskaa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minun luokseni"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "ja auttakaa minua"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "ja lyökäämme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giv'on"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Giv'on"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "on tehnyt rauhan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoshuan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshuan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:43:53.576712215Z",
+  "model": "glm-5.3"
+}

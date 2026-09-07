@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Monet paimenet ovat tuhonneet viinitarhani, he ovat polkeneet ⟨את⟩ palstani; he ovat panneet ⟨את⟩ haluamani palstan autioksi erämaaksi.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "paimenet"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "monet"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "ovat tuhonneet"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "viinitarhani"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "ovat polkeneet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palstani"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "palstani"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ovat panneet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haluamani palstan"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "palstan"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "haluamani"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "erämaaksi"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "autioksi"
+    }
+  ],
+  "timestamp": "2026-09-07T00:30:50.622386901Z",
+  "model": "glm-5.3"
+}

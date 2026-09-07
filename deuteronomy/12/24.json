@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Älä syö sitä; maan päälle kaada se niinkuin veden.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "syö sitä"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "kaada se"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "niinkuin veden"
+    }
+  ],
+  "timestamp": "2026-09-06T22:29:26.527233623Z",
+  "model": "glm-5.3"
+}

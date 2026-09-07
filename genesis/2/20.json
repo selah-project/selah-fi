@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 2:20",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja ihminen antoi nimet kaikki karjaeläimille ja taivaan linnuille ja kaikille kedon eläimille; mutta ihmiselle ei löytynyt apua hänen vastaansa.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ja antoi nimet"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihminen"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nimet"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "karjaeläimille"
+    },
+    {
+      "surface": "ולעוף",
+      "gloss": "ja taivaan linnuille"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ja kaikille"
+    },
+    {
+      "surface": "חית",
+      "gloss": "eläimille"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "kedon"
+    },
+    {
+      "surface": "ולאדם",
+      "gloss": "mutta ihmiselle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "löytynyt"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "apua"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "hänen vastaansa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:04:46.135573071Z",
+  "model": "glm-5.3"
+}

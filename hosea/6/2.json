@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 6:2",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Kahden päivän päästä hän elvyttää meidät, kolmantena päivänä hän herättää meidät, ja me elämme hänen edessään.",
+  "tokens": [
+    {
+      "surface": "יחינו",
+      "gloss": "hän elvyttää meidät"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "kahden päivän päästä"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "kolmantena"
+    },
+    {
+      "surface": "יקמנו",
+      "gloss": "hän herättää meidät"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "ja me elämme"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "hänen edessään"
+    }
+  ],
+  "timestamp": "2026-09-07T04:30:26.769392639Z",
+  "model": "glm-5.3"
+}

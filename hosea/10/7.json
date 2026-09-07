@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 10:7",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Häviää Shomeron, sen kuningas — niinkuin vaahto veden pinnalla.",
+  "tokens": [
+    {
+      "surface": "נדמה",
+      "gloss": "häviää"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "sen kuningas"
+    },
+    {
+      "surface": "כקצף",
+      "gloss": "niinkuin vaahto"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pinnalla"
+    },
+    {
+      "surface": "מים",
+      "gloss": "veden"
+    }
+  ],
+  "timestamp": "2026-09-07T01:24:10.448614242Z",
+  "model": "glm-5.3"
+}

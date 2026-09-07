@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Sillä kivi huutaa seinästä, ja kattoparru puusta vastaa sitä.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kivi"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "seinästä"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "huutaa"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "ja kattoparru"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "puusta"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "vastaa sitä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:37:32.426130439Z",
+  "model": "glm-5.3"
+}

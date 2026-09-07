@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 44,
+  "translation": "Elohim, korvillamme me kuulimme; isämme kertoivat meille teon, jonka teit heidän päivinään, muinaisina päivinä.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "korvillamme"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "me kuulimme"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "isämme"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "kertoivat"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meille"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "teon",
+      "marks": "teon"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "teit"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "heidän päivinään"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "päivinä"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "muinaisina"
+    }
+  ],
+  "timestamp": "2026-09-07T07:21:08.619619425Z",
+  "model": "glm-5.3"
+}

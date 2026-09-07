@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "ja te näitte ⟨את⟩ heidän kauhistuksensa ja ⟨את⟩ heidän epäjumalansa — puun ja kiven, hopean ja kullan, jotka olivat heidän kanssansa.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "ja te näitte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän kauhistuksensa"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "heidän kauhistuksensa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "heidän epäjumalansa"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "heidän epäjumalansa"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "puu"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ja kivi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "hopea"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ja kulta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "heidän kanssansa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:36:05.014108886Z",
+  "model": "glm-5.3"
+}

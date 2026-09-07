@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja pakkosiirtolaisuuden pojat tekivät ⟨את⟩ pesah-uhrin (pääsiäinen) kuukauden ensimmäisen neljäntenätoista päivänä.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Ja he tekivät"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "pakkosiirtolaisuuden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesah-uhrin"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesah-uhrin"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "neljäntenätoista"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "— päivänä"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "kuukauden"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ensimmäisen"
+    }
+  ],
+  "timestamp": "2026-09-07T04:56:44.773083104Z",
+  "model": "glm-5.3"
+}

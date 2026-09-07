@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja hän teurasti ⟨את⟩ kaikki bamotin kohenit (papit), jotka siellä olivat alttareiden päällä, ja poltti ⟨את⟩ ihmisten luut niiden päälle, ja hän palasi Jerushalajimiin (Jerusalemiin).",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "Ja hän teurasti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki bamotin kohenit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "kohenit"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bamotin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "alttareiden"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "ja poltti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihmisten luut"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "luut"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmisten"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "niiden päälle"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja hän palasi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimiin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:59:28.939710637Z",
+  "model": "glm-5.3"
+}

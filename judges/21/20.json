@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 21:20",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja he käskivät ⟨את⟩ Benjaminin pojat sanoen: Menkää ja väijykää viinitarhoissa.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Ja he käskivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Benjaminin pojat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjaminin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Menkää"
+    },
+    {
+      "surface": "וארבתם",
+      "gloss": "ja väijykää"
+    },
+    {
+      "surface": "בכרמים",
+      "gloss": "viinitarhoissa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:03:20.622114433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja hän lähti hänen luotaan ⟨את⟩ ja sulki oven itsensä taakse ja poikiensa taakse; he toivat astioita hänen luokseen, ja hän kaatoi.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "ja hän lähti"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "hänen luotaan ⟨את⟩"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "ja sulki"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "oven"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "itsensä taakse"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ja ... taakse"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "poikiensa"
+    },
+    {
+      "surface": "הם",
+      "gloss": "he"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "toivat"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "hänen luokseen"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ja hän"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "kaatoi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:48:55.844674070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Kallista sydämeni sinun todistuksiasi kohti äläkä väärän voiton puoleen.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "Kallista"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sydämeni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "sinun todistuksiasi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "äläkö"
+    },
+    {
+      "surface": "אל",
+      "gloss": "puoleen"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "väärän voiton"
+    }
+  ],
+  "timestamp": "2026-09-07T02:45:12.996878539Z",
+  "model": "glm-5.3"
+}

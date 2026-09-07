@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 2:21",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja hän sanoi: ”Sanojenne mukaan — niin ⟨se on⟩.” Ja hän lähetti heidät, ja he menivät; ja hän sitoi ⟨את⟩ punaisen nauhan ikkunaan.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "sanojenne mukaan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se ⟨on⟩"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "ja hän lähetti heidät"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ja he menivät"
+    },
+    {
+      "surface": "ותקשר",
+      "gloss": "ja hän sitoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "punaisen nauhan"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "nauhan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "punaisen"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "ikkunaan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:40:46.019192620Z",
+  "model": "glm-5.3"
+}

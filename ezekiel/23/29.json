@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezekiel 23:29",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja he kohtelevat ⟨את⟩ sinua vihalla, ja he ottavat kaiken vaivannäkösi, ja he jättävät sinut alastomana ja paljaana; ja paljastetaan haureutesi häpeä sekä häijyutesi ja huorintasi.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "ja he kohtelevat"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ sinua",
+      "marks": "sinua (objektina)"
+    },
+    {
+      "surface": "בשנאה",
+      "gloss": "vihalla"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "ja he ottavat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "יגיעך",
+      "gloss": "vaivannäkösi"
+    },
+    {
+      "surface": "ועזבוך",
+      "gloss": "ja he jättävät sinut"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "alastomana"
+    },
+    {
+      "surface": "ועריה",
+      "gloss": "ja paljaana"
+    },
+    {
+      "surface": "ונגלה",
+      "gloss": "ja paljastetaan"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "häpeä"
+    },
+    {
+      "surface": "זנוניך",
+      "gloss": "haureutesi"
+    },
+    {
+      "surface": "וזמתך",
+      "gloss": "ja häijyutesi"
+    },
+    {
+      "surface": "ותזנותיך",
+      "gloss": "ja huorintasi"
+    }
+  ],
+  "timestamp": "2026-09-07T01:04:43.345794768Z",
+  "model": "glm-5.3"
+}

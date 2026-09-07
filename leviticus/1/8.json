@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja Aharonin pojat, kohenit (papit), asettavat ⟨את⟩ palat, ⟨את⟩ pään ja ⟨את⟩ rasvan puille, jotka ovat tulen päällä, joka on alttarilla.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "ja asettavat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonin"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohenit (papit)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palat"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "palat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pään"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "pään"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "rasvan"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "rasvan"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "puille"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "האש",
+      "gloss": "tulen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarilla"
+    }
+  ],
+  "timestamp": "2026-09-06T21:47:41.378491125Z",
+  "model": "glm-5.3"
+}

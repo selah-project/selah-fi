@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja nyt mene, ja minä lähetän sinut Paron luo, ja vie ulos ⟨את⟩ kansani, Israelin lapset, Mitsrajimista.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ja nyt"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "mene"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "ja minä lähetän sinut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "ja vie ulos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansani"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kansani"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lapset"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrajimista"
+    }
+  ],
+  "timestamp": "2026-09-06T21:30:25.498968022Z",
+  "model": "glm-5.3"
+}

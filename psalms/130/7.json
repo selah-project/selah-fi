@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 130,
+  "translation": "Odottakoon Israel Jahvea, sillä Jahven luona on hesed, ja hänen luonaan on runsas lunastus.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Odottakoon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨Jahvea⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "עם",
+      "gloss": "luona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "on hesed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "ja runsas"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hänen luonaan"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "lunastus"
+    }
+  ],
+  "timestamp": "2026-09-07T02:50:01.167087692Z",
+  "model": "glm-5.3"
+}

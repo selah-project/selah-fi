@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 123:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 123,
+  "translation": "Katso, kuin palvelijoiden silmät heidän herrains kättä kohti, kuin orjattaren silmät hänen emäntänsä kättä kohti, niin ⟨ovat⟩ meidän silmämme kohti Jahvea, Elohimiamme, siihen asti kun hän armahtaa meitä.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "katso"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "kuin ... silmät"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "palvelijoiden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kättä"
+    },
+    {
+      "surface": "אדוניהם",
+      "gloss": "heidän herrains"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "kuin ... silmät"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "orjattaren"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kättä"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "hänen emäntänsä"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "meidän silmämme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimiamme"
+    },
+    {
+      "surface": "עד",
+      "gloss": "siihen asti"
+    },
+    {
+      "surface": "שיחננו",
+      "gloss": "kun hän armahtaa meitä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:51:29.773381356Z",
+  "model": "glm-5.3"
+}

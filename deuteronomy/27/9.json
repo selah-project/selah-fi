@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 27:9",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ja puhui Moshe (Mooses) ja kohenit, leviiläiset, koko Israelille sanoen: Hiljene ja kuule, Israel: tänä päivänä sinä olet tullut kansaksi Jahvelle, Elohimillesi.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ja puhui"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mooses)"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "ja kohenit"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviiläiset"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ille"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelille"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "הסכת",
+      "gloss": "Hiljene"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ja kuule"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tänä"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "נהיית",
+      "gloss": "olet tullut"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kansaksi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimillesi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:33:49.221436096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 6:1",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja Jahve sanoi Moshelle (Mooses): Nyt sinä näet, mitä minä teen Parolle (farao), sillä väkevällä kädellä hän päästää heidät, ja väkevällä kädellä hän karkottaa heidät maastaan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshelle"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "Nyt"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "sinä näet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "minä teen"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Parolle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kädellä"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "väkevällä"
+    },
+    {
+      "surface": "ישלחם",
+      "gloss": "hän päästää heidät"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ja kädellä"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "väkevällä"
+    },
+    {
+      "surface": "יגרשם",
+      "gloss": "hän karkottaa heidät"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "maastaan"
+    }
+  ],
+  "timestamp": "2026-09-07T06:35:39.403470544Z",
+  "model": "glm-5.3"
+}

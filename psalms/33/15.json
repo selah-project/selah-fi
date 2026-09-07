@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Hän, joka muovaa heidän sydämensä yhdessä, hän, joka ymmärtää kaikki heidän tekonsa.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "joka muovaa"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "yhdessä"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "heidän sydämensä"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "joka ymmärtää"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "heidän tekonsa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:04:03.808380670Z",
+  "model": "glm-5.3"
+}

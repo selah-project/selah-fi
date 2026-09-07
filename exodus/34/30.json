@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 34:30",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "Ja Aharon (Aaron) ja kaikki Israelin pojat näkivät ⟨את⟩ Moshen, ja katso, hänen kasvojensa iho säteili, ja he pelkäsivät lähestyä häntä.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ja näkivät"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "säteili"
+    },
+    {
+      "surface": "עור",
+      "gloss": "iho"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "hänen kasvojensa"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ja he pelkäsivät"
+    },
+    {
+      "surface": "מגשת",
+      "gloss": "lähestyä"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "häntä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:43:45.253060630Z",
+  "model": "glm-5.3"
+}

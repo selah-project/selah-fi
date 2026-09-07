@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja Sheban kuningatar näki ⟨את⟩ kaiken Shelomon viisauden ja talon, jonka hän oli rakentanut.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Ja näki"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "kuningatar"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "viisauden"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomon"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "ja talon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "hän oli rakentanut"
+    }
+  ],
+  "timestamp": "2026-09-06T23:37:48.600449524Z",
+  "model": "glm-5.3"
+}

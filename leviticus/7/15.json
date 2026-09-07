@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 7:15",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja kiitoksen yhteysuhriensa uhrin liha syötäköön sen lähintuomisensa päivänä; älköön hän jättäkö siitä mitään aamuun asti.",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "ja liha"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "uhraan"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "kiitoksen"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "yhteysuhriensa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "lähintuomisensa"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "syötäköön"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "jättäköön"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "siitä"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "aamuun"
+    }
+  ],
+  "timestamp": "2026-09-06T21:49:02.562075576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja Jahve Elohim kutsui miestä ja sanoi hänelle: Missä sinä olet?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ja kutsui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "missä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:04:12.312196506Z",
+  "model": "glm-5.3"
+}

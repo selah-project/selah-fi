@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja David nousi varhain, hän ja miehensä, lähteäkseen aamulla palaamaan Pelishtimien maahan; ja Pelishtimit nousivat Jizreeliin.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "ja nousi varhain"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ja miehensä"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "lähteäkseen"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamulla"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "palaamaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…un"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtimien"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "ja Pelishtimit"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "nousivat"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreeliin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:16:27.629936726Z",
+  "model": "glm-5.3"
+}

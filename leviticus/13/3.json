@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 13:3",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja kohen katsoo ⟨את⟩ tautia ihossa, lihassa; ja jos karva taudissa on muuttunut valkeaksi ja taudin näkö on syvempi kuin ihon, hänen lihansa, niin se ⟨on⟩ tsaraat-tauti; ja kohen katsoo häntä ja julistaa ⟨את⟩ hänet saastaiseksi.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Ja katsoo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tautia"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "tauti"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "ihossa"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "liha"
+    },
+    {
+      "surface": "ושער",
+      "gloss": "ja karva"
+    },
+    {
+      "surface": "בנגע",
+      "gloss": "taudissa"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "on muuttunut"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "valkeaksi"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "ja näkö"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "taudin"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "syvempi"
+    },
+    {
+      "surface": "מעור",
+      "gloss": "kuin iho"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "hänen lihansa"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "tauti"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "וראהו",
+      "gloss": "ja katsoo häntä"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ja julistaa saastaiseksi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet"
+    }
+  ],
+  "timestamp": "2026-09-06T21:53:17.218269215Z",
+  "model": "glm-5.3"
+}

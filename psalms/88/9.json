@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 88:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 88,
+  "translation": "Loitontat tuttavani minusta, asetit minut heille iljettyväksi; suljettuna ⟨olen⟩, enkä pääse ulos.",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "loitontat"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "tuttavani"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minusta"
+    },
+    {
+      "surface": "שתני",
+      "gloss": "asetit minut"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "iljettyväksi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "heille"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "suljettuna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "pääse ulos"
+    }
+  ],
+  "timestamp": "2026-09-07T02:28:58.987722245Z",
+  "model": "glm-5.3"
+}

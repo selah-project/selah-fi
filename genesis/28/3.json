@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Ja El Shaddai (Kaikkivaltias) siunatkoon ⟨את⟩ sinut ja tehköön sinut hedelmälliseksi ja lisätköön sinua, ja sinusta tulee kansojen seurakunnaksi.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Ja El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "siunatkoon"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "sinut"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "ja tehköön hedelmälliseksi"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "ja lisätköön sinua"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ja sinusta tulee"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "seurakunnaksi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "kansojen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:17:37.261686033Z",
+  "model": "glm-5.3"
+}

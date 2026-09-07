@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 22:15",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Olenko minä tänään alkanut kysellä häneltä Elohimilta? Olkoon se kaukana minusta! Älköön kuningas paneko palvelijaansa syyksi ketään koko isäni talosta, sillä palvelijasi ei tiennyt tästä kaikesta mitään, pientä eikä suurta.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "tänään"
+    },
+    {
+      "surface": "החלתי",
+      "gloss": "olenko minä alkanut"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kysellä"
+    },
+    {
+      "surface": "לו",
+      "gloss": "häneltä"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimilta"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "olkoon se kaukana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minusta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älköön"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "paneko"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "בעבדו",
+      "gloss": "palvelijaansa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "syyksi asiaa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kenessä"
+    },
+    {
+      "surface": "בית",
+      "gloss": "talossa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "isäni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tiennyt"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "palvelijasi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mitään"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tästä"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asiasta"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "pientä"
+    },
+    {
+      "surface": "או",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suurta"
+    }
+  ],
+  "timestamp": "2026-09-06T23:15:04.956551680Z",
+  "model": "glm-5.3"
+}

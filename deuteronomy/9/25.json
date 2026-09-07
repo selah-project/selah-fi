@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 9:25",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja heittäydyin Jahven kasvojen eteen ⟨את⟩ neljänkymmenen päivän ja ⟨את⟩ neljänkymmenen yön ajaksi, jonka aikana heittäydyin maahan, koska Jahve oli sanonut tuhoavansa ⟨את⟩ teidät.",
+  "tokens": [
+    {
+      "surface": "ואתנפל",
+      "gloss": "ja heittäydyin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "kasvojen eteen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neljänkymmenen"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "neljänkymmenen"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päivän"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "neljänkymmenen"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "neljänkymmenen"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "yön"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jota"
+    },
+    {
+      "surface": "התנפלתי",
+      "gloss": "heittäydyin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oli sanonut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "tuhoavansa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät"
+    }
+  ],
+  "timestamp": "2026-09-06T22:27:53.780822115Z",
+  "model": "glm-5.3"
+}

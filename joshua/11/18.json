@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Pitkät päivät Jehoshua (Joosua) kävi ⟨את⟩ kaikkia näitä kuninkaita vastaan sotaa.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "päivät"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "pitkät"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kävi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "kuninkaat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "sotaa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:45:16.040645767Z",
+  "model": "glm-5.3"
+}

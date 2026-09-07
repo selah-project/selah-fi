@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 2:5",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Älkää riidatelko heidän kanssaan, sillä en anna teille heidän maastaan edes jalanpohjan tallausta, sillä omistukseksi Esaville minä olen antanut ⟨את⟩ Seirin vuoren.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Älkää"
+    },
+    {
+      "surface": "תתגרו",
+      "gloss": "riidatelko"
+    },
+    {
+      "surface": "בם",
+      "gloss": "heidän kanssaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "anna"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "מארצם",
+      "gloss": "heidän maastaan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "edes"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "tallausta"
+    },
+    {
+      "surface": "כף",
+      "gloss": "jalanpohjan"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "יְרֻשָּׁה",
+      "gloss": "omistukseksi"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esaville"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "minä olen antanut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seirin vuoren"
+    },
+    {
+      "surface": "הר",
+      "gloss": "vuoren"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seirin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:24:01.976854250Z",
+  "model": "glm-5.3"
+}

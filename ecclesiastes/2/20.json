@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja käännyin minä saattamaan ⟨את⟩ sydämeni epätoivoon kaikesta vaivasta, jota minä vaivasin auringon alla.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "Ja käännyin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "saattamaan epätoivoon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sydämeni"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sydämeni"
+    },
+    {
+      "surface": "על",
+      "gloss": "kaikesta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "vaivasta"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "jota minä vaivasin"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alla"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "auringon"
+    }
+  ],
+  "timestamp": "2026-09-07T04:06:46.515324516Z",
+  "model": "glm-5.3"
+}

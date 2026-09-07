@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "ja he vaelsivat kansasta kansan luo ja valtakunnasta toisen kansan luo.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "ja he vaelsivat"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "kansasta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "ja valtakunnasta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "toisen"
+    }
+  ],
+  "timestamp": "2026-09-07T05:20:14.821691674Z",
+  "model": "glm-5.3"
+}

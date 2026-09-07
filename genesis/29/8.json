@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 29:8",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja he sanoivat: Me emme voi, ennen kuin kaikki laumat on koottu yhteen ja ⟨את⟩ kivi on kierretty kaivon suulta; ja me juotamme lampaat.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ja he sanoivat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "Me emme voi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ennen kuin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kun"
+    },
+    {
+      "surface": "יאספו",
+      "gloss": "on koottu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "laumat"
+    },
+    {
+      "surface": "וגללו",
+      "gloss": "ja on kierretty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kivi"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "kivi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "suulta"
+    },
+    {
+      "surface": "פי",
+      "gloss": "suu"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "kaivon"
+    },
+    {
+      "surface": "והשקינו",
+      "gloss": "ja me juotamme"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "lampaat"
+    }
+  ],
+  "timestamp": "2026-09-06T21:16:30.203351332Z",
+  "model": "glm-5.3"
+}

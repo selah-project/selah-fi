@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 13:17",
+  "book": "nehemiah",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja riitelin ⟨את⟩ Juudan ylhäisiä vastaan ja sanoin heille: mikä ⟨on⟩ tämä paha asia, jota te teette ja häpäisette ⟨את⟩ Shabbatin päivän?",
+  "tokens": [
+    {
+      "surface": "ואריבה",
+      "gloss": "ja riitelin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Juudan ylhäiset"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "ylhäiset"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juudan"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "ja sanoin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mikä"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asia"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "paha"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jota"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "te"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "teette"
+    },
+    {
+      "surface": "ומחללים",
+      "gloss": "ja häpäisette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabbatin päivän"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivän"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbatin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:10:41.962541079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja tuli lähti Jahven edestä ja söi ⟨את⟩ heidät, ja he kuolivat Jahven edessä.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "Ja lähti"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "edestä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ja söi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "heidät"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "ja kuolivat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-06T21:52:31.271257607Z",
+  "model": "glm-5.3"
+}

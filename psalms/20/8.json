@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Nämä ⟨ovat⟩ sotavaunuissa ja nämä hevosissa, mutta me mainitsemme Jahven, meidän Elohimimme, nimeä.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "näiden"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "sotavaunuissa"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ja näiden"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "hevosissa"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "mutta me"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nimeä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimme"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "me mainitsemme"
+    }
+  ],
+  "timestamp": "2026-09-07T01:59:00.576301489Z",
+  "model": "glm-5.3"
+}

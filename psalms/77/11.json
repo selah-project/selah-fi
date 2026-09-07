@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 77,
+  "translation": "Ja minä sanoin: ”Tämä ⟨on⟩ minun heikkoutteni; minä muistan Eljonin oikean käden vuodet.”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ja minä sanoin"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "minun heikkoutteni"
+    },
+    {
+      "surface": "היא",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "vuodet"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "oikean käden"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eljonin"
+    }
+  ],
+  "timestamp": "2026-09-07T02:22:00.911709532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 11:21",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja Re'u eli sen jälkeen, kun hän siitti ⟨את⟩ Serugin, kaksisataa seitsemän vuotta, ja hän siitti poikia ja tyttäriä.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "eli"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Re'u"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sen jälkeen, kun"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "hän siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serugin"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serugin"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seitsemän"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "kaksisataa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ja hän siitti"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "poikia"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ja tyttäriä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:07:59.558487808Z",
+  "model": "glm-5.3"
+}

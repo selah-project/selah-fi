@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 36,
+  "translation": "Siihen asti kun minä tulen ja otan ⟨את⟩ teidät pois maahan, joka on kuin teidän maanne, maahan viljaa ja viiniä, maahan leipää ja viinitarhoja.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Siihen asti kun"
+    },
+    {
+      "surface": "באי",
+      "gloss": "minä tulen"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "ja otan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pois"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "joka on kuin teidän maanne"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "viljaa"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "ja viiniä"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "ja viinitarhoja"
+    }
+  ],
+  "timestamp": "2026-09-07T00:12:26.253846407Z",
+  "model": "glm-5.3"
+}

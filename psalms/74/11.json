@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 74,
+  "translation": "Miksi vedät takaisin kätesi, jopa oikean kätesi, povustasi keskeltä? ⟨Vie ⟨se⟩ loppuun⟩.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Miksi"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "vedät takaisin"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kätesi"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "jopa oikean kätesi"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "keskeltä"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "povustasi"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "Vie loppuun"
+    }
+  ],
+  "timestamp": "2026-09-07T02:21:52.609693802Z",
+  "model": "glm-5.3"
+}

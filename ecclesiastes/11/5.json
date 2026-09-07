@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 11:5",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Siten kuin et tiedä, mikä on tuulen tie, eikä miten luut ⟨on⟩ täynnä olevan kohdussa, samoin et tiedä ⟨את⟩ Elohimin tekoa, joka tekee ⟨את⟩ kaiken.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Siten kuin"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "et"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "tiedä"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mikä"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tie"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "tuulen"
+    },
+    {
+      "surface": "כעצמים",
+      "gloss": "eikä miten luut"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "kohdussa"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "täynnä olevan"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "samoin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "et"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "tiedä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimin teon"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "tekoa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tekee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "kaiken"
+    }
+  ],
+  "timestamp": "2026-09-07T04:39:20.470220554Z",
+  "model": "glm-5.3"
+}

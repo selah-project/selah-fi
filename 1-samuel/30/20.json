@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja David otti ⟨את⟩ kaikki lammaslaumat ja karjan; ne ajettiin tuon karjan edellä, ja he sanoivat: Tämä on Davidin saalis.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ja otti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki lammaslaumat ja karjan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "lammaslaumat"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "ja karjan"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "ajettiin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edellä"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "karjan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tuon"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ja he sanoivat"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Tämä"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "saalis"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "on Davidin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:17:45.177055765Z",
+  "model": "glm-5.3"
+}

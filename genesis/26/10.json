@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 26:10",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja sanoi Avimelekh: ”Mitä tämän teit meille? Melkein makasi yksi kansasta ⟨את⟩ vaimosi, ja olisit tuonut meidän päällemme syyllisyyden.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mitä"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "teit"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meille"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "Melkein"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "makasi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansasta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaimosi"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "vaimosi"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "ja olisit tuonut"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "meidän päällemme"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "syyllisyyden"
+    }
+  ],
+  "timestamp": "2026-09-06T21:14:30.665623724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 17:35",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja Jahve teki ⟨את⟩ heidän kanssaan liiton (berit) ja käski heitä sanoen: älkää pelätkö muita jumalia, älkää kumarrettako niitä, älkää palvelko niitä älkääkä uhratko niille.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "Ja teki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "heidän kanssaan (liiton osapuolet)"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "liiton (berit)"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "ja käski"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "pelätkö"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jumalia"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "muita"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "kumarrettako"
+    },
+    {
+      "surface": "להם",
+      "gloss": "niitä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "älköön"
+    },
+    {
+      "surface": "תעבדום",
+      "gloss": "palvelko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "älköönkä"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "uhratko"
+    },
+    {
+      "surface": "להם",
+      "gloss": "niille"
+    }
+  ],
+  "timestamp": "2026-09-07T06:30:30.988963757Z",
+  "model": "glm-5.3"
+}

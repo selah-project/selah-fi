@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja Avraham lankesi kasvoilleen, ja Elohim puhui ⟨את⟩ hänen kanssaan sanoen:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "Ja lankesi"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "על",
+      "gloss": "-lle"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "kasvoilleen"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ja puhui"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hänen kanssaan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:11:30.400355896Z",
+  "model": "glm-5.3"
+}

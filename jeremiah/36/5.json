@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 36:5",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 36,
+  "translation": "Ja Jirmejahu käski ⟨את⟩ Barukia (Jeremia, Baruk) sanoen: Minä olen suljettu, en voi tulla Jahven huoneeseen.",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "käski"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baruk"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruk"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "suljettu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "voi"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "tulla"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneeseen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-07T00:41:07.377944570Z",
+  "model": "glm-5.3"
+}

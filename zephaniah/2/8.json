@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zephaniah 2:8",
+  "book": "zephaniah",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Minä olen kuullut Moabin herjaukset ja Ammonin (Ammonilaisten) poikien pilkkanimet, joilla he pilkkasivat ⟨את⟩ kansaani ja suureutuivat heidän rajojaan vastaan.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Minä olen kuullut"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "herjaukset"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabin"
+    },
+    {
+      "surface": "וגדופי",
+      "gloss": "ja … pilkkanimet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikien"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammonin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joilla"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "he pilkkasivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansaani"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kansaani"
+    },
+    {
+      "surface": "ויגדילו",
+      "gloss": "ja suureutuivat"
+    },
+    {
+      "surface": "על",
+      "gloss": "vastaan"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "heidän rajojaan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:41:12.962361427Z",
+  "model": "glm-5.3"
+}

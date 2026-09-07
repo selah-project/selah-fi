@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 6:3",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja te kiertäkää ⟨את⟩ kaupungin ympäri, kaikki sotamiehet, kiertäkää ⟨את⟩ kaupungin ympäri kerran; näin tee kuutena päivänä.",
+  "tokens": [
+    {
+      "surface": "וסבתם",
+      "gloss": "Ja te kiertäkää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaupungin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "sodan"
+    },
+    {
+      "surface": "הקיף",
+      "gloss": "kiertäkää ympäri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaupungin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "kerran"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yhden"
+    },
+    {
+      "surface": "כה",
+      "gloss": "näin"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tee"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "kuutena"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivänä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:41:15.155787406Z",
+  "model": "glm-5.3"
+}

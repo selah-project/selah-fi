@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 14:52",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja hän puhdistaa ⟨את⟩ talon linnun verellä ja elävällä vedellä ja elävällä linnulla ja setripuulla ja isoopilla ja karmosiinittain (punaisella) tolattain (tainan punaisella).",
+  "tokens": [
+    {
+      "surface": "וחטא",
+      "gloss": "ja hän puhdistaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "talon"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "verellä"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "linnun"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "ja vedellä"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "elävällä"
+    },
+    {
+      "surface": "ובצפר",
+      "gloss": "ja linnulla"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "elävällä"
+    },
+    {
+      "surface": "ובעץ",
+      "gloss": "ja puulla"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "setri-"
+    },
+    {
+      "surface": "ובאזב",
+      "gloss": "ja isoopilla"
+    },
+    {
+      "surface": "ובשני",
+      "gloss": "ja karmosiinilla"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "tainan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:52:45.944262231Z",
+  "model": "glm-5.3"
+}

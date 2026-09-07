@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 36,
+  "translation": "Ja hän teki ⟨את⟩ laudat Mishkania varten: kaksikymmentä lautaa etelän puolelle, etelään päin.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ja hän teki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lautaa"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "lautaa"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Mishkania varten"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kaksikymmentä"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "lautaa"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "puolelle"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "etelän"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "etelään päin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:44:53.690827549Z",
+  "model": "glm-5.3"
+}

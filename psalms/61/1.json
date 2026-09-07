@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 61,
+  "translation": "Kuorunjohtajalle, kielisoittimin. Davidin psalmi. (David)",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kuorunjohtajalle"
+    },
+    {
+      "surface": "על",
+      "gloss": "kielisoittimin"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "soittimin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidin (psalmi)"
+    }
+  ],
+  "timestamp": "2026-09-07T02:16:21.613599805Z",
+  "model": "glm-5.3"
+}

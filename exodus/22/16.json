@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Jos hänen isänsä kieltäytyy, ehdottomasti kieltäytyy antamasta häntä hänelle, hän punnitsee hopeaa neitsyten myhrin mukaan.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jos"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "ehdottomasti"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "kieltäytyy"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "hänen isänsä"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "antamasta häntä"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "hopeaa"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "hän punnitsee"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "myhrin mukaan"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "neitsyten"
+    }
+  ],
+  "timestamp": "2026-09-06T21:37:53.829117491Z",
+  "model": "glm-5.3"
+}

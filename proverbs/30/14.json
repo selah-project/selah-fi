@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 30:14",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Sukupolvi, jonka hampaat ovat miekat ja jonka poskihampaat veitset, syömään köyhiä maasta ja vähävaraisia ihmisten keskeltä.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "sukupolvi"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "miekat"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "jonka hampaat"
+    },
+    {
+      "surface": "ומאכלות",
+      "gloss": "ja veitset"
+    },
+    {
+      "surface": "מתלעתיו",
+      "gloss": "jonka poskihampaat"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "syömään"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "köyhiä"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "ja vähävaraisia"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "ihmisten keskeltä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:20:24.457024337Z",
+  "model": "glm-5.3"
+}

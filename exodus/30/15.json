@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 30:15",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Rikas ei antako enempää, eikä köyhä vähempää kuin puoli shekeliä, antaakseen ⟨את⟩ Jahven teruman, sovittaakseen nefeshien (elämänhengen) puolesta.",
+  "tokens": [
+    {
+      "surface": "העשיר",
+      "gloss": "Rikas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "antako enempää"
+    },
+    {
+      "surface": "והדל",
+      "gloss": "eikä köyhä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ימעיט",
+      "gloss": "vähempää"
+    },
+    {
+      "surface": "ממחצית",
+      "gloss": "puoli"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "shekeliä"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "antaakseen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven teruman"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "teruman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "sovittaakseen"
+    },
+    {
+      "surface": "על",
+      "gloss": "puolesta"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "nefeshien"
+    }
+  ],
+  "timestamp": "2026-09-07T04:10:00.372307982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 27:17",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Älkää kuulko heitä; palvelkaa ⟨את⟩ Babelin kuningasta ja eläkää; miksi tämä kaupunki olisi raunioina?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "kuulko"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "heitä"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "palvelkaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Babelin kuningasta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningasta"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babelin"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "ja eläkää"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miksi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olisi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupunki"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "raunioina"
+    }
+  ],
+  "timestamp": "2026-09-07T00:37:26.285443549Z",
+  "model": "glm-5.3"
+}

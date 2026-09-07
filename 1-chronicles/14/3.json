@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 14:3",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja David otti vielä vaimoja Jerushalajimissa (Jerusalemissa), ja Davidille syntyi vielä poikia ja tyttäriä.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "otti"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vielä"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "vaimoja"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerushalajimissa"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "syntyi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidille"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vielä"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "poikia"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ja tyttäriä"
+    }
+  ],
+  "timestamp": "2026-09-07T05:20:45.757995384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "”Ja nyt: yhden pyynnön minä pyydän ⟨את⟩ sinulta — älä käännä ⟨את⟩ kasvojani pois.” Ja hän sanoi hänelle: ”Puhu.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ja nyt"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "pyynnön"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yhden"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "pyydän"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ sinulta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "käännä ... pois"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasvojani"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kasvojani"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Puhu"
+    }
+  ],
+  "timestamp": "2026-09-06T23:32:39.563328742Z",
+  "model": "glm-5.3"
+}

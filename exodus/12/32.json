@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ottakaa myös lampaanne ja myös karjanne, niin kuin olette puhuneet, ja menkää, ja siunatkaa myös ⟨את⟩ minut.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "lampaanne"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "karjanne"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Ottakaa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "olette puhuneet"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ja menkää"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "ja siunatkaa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ minut",
+      "marks": "minut"
+    }
+  ],
+  "timestamp": "2026-09-06T21:34:21.052631080Z",
+  "model": "glm-5.3"
+}

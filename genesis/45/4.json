@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 45,
+  "translation": "Ja Josef sanoi veljilleen: ”Tulkaa nyt lähelle luokseni.” Ja he tulivat lähelle. Ja hän sanoi: ”Minä olen Josef, teidän veljenne, jonka te myitte ⟨את⟩ minut Mitsrajimiin.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "veljilleen"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "tulkaa lähelle"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "luokseni"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "ja he tulivat"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä olen"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "teidän veljenne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "te myitte"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ minut",
+      "marks": "minut"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrajimiin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:26:58.883000936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 10:6",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Jumalattoman kansan kimppuun minä lähetän hänet, ja kiivauteni kansaa vastaan minä hänet käsken: ryöstämään ryöstöä ja saalistamaan saalista, ja panemaan heidät tallatuiksi kuin kadun mutaa.",
+  "tokens": [
+    {
+      "surface": "בגוי",
+      "gloss": "kansan kimppuun"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "jumalattoman"
+    },
+    {
+      "surface": "אשלחנו",
+      "gloss": "lähetän hänet"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja … vastaan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansaa"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "kiivauteni"
+    },
+    {
+      "surface": "אצונו",
+      "gloss": "käsken häntä"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "ryöstämään"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ryöstöä"
+    },
+    {
+      "surface": "ולבז",
+      "gloss": "ja saalistamaan"
+    },
+    {
+      "surface": "בז",
+      "gloss": "saalista"
+    },
+    {
+      "surface": "ולשימו",
+      "gloss": "ja panemaan heidät"
+    },
+    {
+      "surface": "מרמס",
+      "gloss": "tallatuiksi"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "kuin mutaa"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "kadun"
+    }
+  ],
+  "timestamp": "2026-09-07T00:04:09.148520388Z",
+  "model": "glm-5.3"
+}

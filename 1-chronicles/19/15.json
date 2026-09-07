@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 19:15",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja Ammonin pojat näkivät, että Aram oli paennut, ja hekin pakenivat Avshain, hänen veljensä, kasvojen edestä, ja he menivät kaupunkiin. Ja Yoav tuli Jerushalajimiin.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ja pojat"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammonin"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "näivät"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "נס",
+      "gloss": "oli paennut"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "ja he pakenivat"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "הם",
+      "gloss": "he"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kasvojen edestä"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Avshai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hänen veljensä"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ja he menivät"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "kaupunkiin"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimiin (Jerusalem)"
+    }
+  ],
+  "timestamp": "2026-09-07T05:23:16.466466281Z",
+  "model": "glm-5.3"
+}

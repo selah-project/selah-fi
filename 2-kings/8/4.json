@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 8:4",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja kuningas oli juuri puhumassa Gehazille, Elohimin miehen palvelijalle, sanoen: Kerro, pyydän, minulle ⟨את⟩ kaikki suuret teot, jotka Elisha on tehnyt.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ja kuningas"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "oli puhumassa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-lle"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "Gehazille"
+    },
+    {
+      "surface": "נער",
+      "gloss": "palvelijalle"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "kerro"
+    },
+    {
+      "surface": "נא",
+      "gloss": "pyydän"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki suuret teot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "suuret teot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "on tehnyt"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    }
+  ],
+  "timestamp": "2026-09-06T23:51:09.138807934Z",
+  "model": "glm-5.3"
+}

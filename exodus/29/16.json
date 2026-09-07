@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 29:16",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja sinä teurastat ⟨את⟩ oinaan, ja sinä otat ⟨את⟩ sen veren ja roiskutat ⟨sen⟩ alttarille ympäri.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "Ja sinä teurastat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oinaan"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "oinaan"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ja sinä otat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen veren"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sen veren"
+    },
+    {
+      "surface": "וזרקת",
+      "gloss": "ja roiskutat"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ille"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarille"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympäri"
+    }
+  ],
+  "timestamp": "2026-09-06T21:40:56.227237917Z",
+  "model": "glm-5.3"
+}

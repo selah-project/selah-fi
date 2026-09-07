@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ei mies pahan kautta vakiinnu, mutta vanhurskaiden juuri ei horju.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "vakiinnu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mies"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "pahan kautta"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "mutta juuri"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "vanhurskaiden"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "horju"
+    }
+  ],
+  "timestamp": "2026-09-07T03:07:26.232302961Z",
+  "model": "glm-5.3"
+}

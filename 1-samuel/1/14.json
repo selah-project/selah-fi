@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja Eli sanoi hänelle: Kuinka kauan sinä juovut? Poista ⟨את⟩ viinisi luotasi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuinka"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kauan"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "juovut"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "Poista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viinisi"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "viinisi"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "luotasi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:04:46.107726953Z",
+  "model": "glm-5.3"
+}

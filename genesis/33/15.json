@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 33:15",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Ja Esav sanoi: ”Antakoon minun asettaa kanssasi ⟨את⟩ osan kansasta, joka on ⟨את⟩ kanssani.” Ja hän sanoi: ”Miksi tämä? Minä löydän armoa herrani silmissä.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אציגה",
+      "gloss": "antakoon minun asettaa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kanssasi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "osan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "kanssani"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Miksi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "Minä löydän"
+    },
+    {
+      "surface": "חן",
+      "gloss": "armoa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "silmisissä"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "herrani"
+    }
+  ],
+  "timestamp": "2026-09-06T21:18:38.253299196Z",
+  "model": "glm-5.3"
+}

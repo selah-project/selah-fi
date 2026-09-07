@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja Paro sanoi: Katso, maan kansa on nykyään lukuisa, ja te saatatte ⟨את⟩ heidät lakkaamaan kuormistaan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "הן",
+      "gloss": "katso"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "lukuisa"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nykyään"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "ja te saatatte lakkaamaan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "heidät"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "kuormistaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:31:03.170607679Z",
+  "model": "glm-5.3"
+}

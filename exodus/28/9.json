@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Ja sinä otat ⟨את⟩ kaksi shoham-kiveä ja kaivertat niihin Israelin (Israelin) poikien nimet.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ja otat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaksi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "-kiveä"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shoham-"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "ja kaivertat"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "niihin"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nimet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikien"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:39:38.958577488Z",
+  "model": "glm-5.3"
+}

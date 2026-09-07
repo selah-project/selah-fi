@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 37:18",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Totisesti, Jahve, Ashurin (Assyrian) kuninkaat hävittivät ⟨את⟩ kaikki maat ja ⟨את⟩ heidän oma maansa.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Totisesti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "hävittivät"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kuninkaat"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashurin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki maat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "maat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "heidän oma maansa"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "heidän oma maansa"
+    }
+  ],
+  "timestamp": "2026-09-07T00:12:45.095486650Z",
+  "model": "glm-5.3"
+}

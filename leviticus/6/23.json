@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 6:23",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja jokainen syntiuhri, jonka verta tuodaan ilmestysmajaan sovittamaan pyhässä, ei syödä; tulessa se poltetaan.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ja jokainen"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "syntiuhri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "יובא",
+      "gloss": "tuodaan"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "sen verta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ilmaistu majan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kohtauspaikan"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "sovittamaan"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "pyhässä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "syödä"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulessa"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "poltetaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:48:08.085418076Z",
+  "model": "glm-5.3"
+}

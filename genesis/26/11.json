@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja käski Avimelekh ⟨את⟩ koko kansaa sanoen: ”Joka koskee tähän mieheen tai hänen vaimoonsa, kuolemaan hän kuolee.”",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Ja käski"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko kansaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansaa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "Joka koskee"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "mieheen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tähän"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "tai hänen vaimoonsa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kuolemaan"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "hän kuolee"
+    }
+  ],
+  "timestamp": "2026-09-06T21:14:30.665824115Z",
+  "model": "glm-5.3"
+}

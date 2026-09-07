@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 110,
+  "translation": "Hän tuomitsee kansojen keskuudessa, täyttää ⟨paikan⟩ ruumiilla, murskaa pään maan yllä, kaukana.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "Hän tuomitsee"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kansojen keskuudessa"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "täyttää"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "ruumiilla"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "murskaa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pään"
+    },
+    {
+      "surface": "על",
+      "gloss": "yllä"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "kaukana"
+    }
+  ],
+  "timestamp": "2026-09-07T02:41:36.310516301Z",
+  "model": "glm-5.3"
+}

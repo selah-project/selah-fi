@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 4:29",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja hän nojaa ⟨את⟩ kätensä syntiuhrien päähän ja teurastaa ⟨את⟩ syntiuhrien siinä paikassa, missä polttouhri teurastetaan.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "Ja hän nojaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kätensä"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kätensä"
+    },
+    {
+      "surface": "על",
+      "gloss": "päähän"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "--"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syntiuhrien"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ja teurastaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syntiuhrien"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syntiuhrien"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "siinä paikassa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "polttouhrin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:49:31.154348806Z",
+  "model": "glm-5.3"
+}

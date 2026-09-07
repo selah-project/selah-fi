@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 29:23",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Sillä kun hän näkee lapsensa, kättensä teon, keskellään, he pyhittävät nimeni, ja he pyhittävät ⟨את⟩ Ja'akovin Pyhän, ja ⟨את⟩ Israelin Elohimia he kunnioittavat peläten.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "בראתו",
+      "gloss": "kun hän näkee"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "lapsensa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "teon"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "kättensä"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "keskellään"
+    },
+    {
+      "surface": "יקדישו",
+      "gloss": "he pyhittävät"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "nimeni"
+    },
+    {
+      "surface": "והקדישו",
+      "gloss": "ja he pyhittävät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ja'akovin Pyhän"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Pyhän"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akovin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Israelin Elohimia"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "יעריצו",
+      "gloss": "he kunnioittavat peläten"
+    }
+  ],
+  "timestamp": "2026-09-07T00:09:10.022741880Z",
+  "model": "glm-5.3"
+}

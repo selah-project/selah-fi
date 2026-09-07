@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 9:9",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja Aharonin pojat toivat ⟨את⟩ veren hänen luokseen, ja hän kastoi sormensa vereen ja pani sen alttarin sarviin, ja ⟨את⟩ veren hän kaatoi alttarin jalustaan.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "toivat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veren"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "veren"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänen luokseen"
+    },
+    {
+      "surface": "ויטבל",
+      "gloss": "ja hän kastoi"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "sormensa"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "vereen"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ja pani"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "sarviin"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "veren"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "veren"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "hän kaatoi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-aan"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "jalustaan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:50:23.883738305Z",
+  "model": "glm-5.3"
+}

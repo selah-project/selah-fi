@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 3:3",
+  "book": "joel",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja minä annan tunnusmerkkejä taivaassa ja maassa: verta ja tulta ja savun pylväitä.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Ja minä annan"
+    },
+    {
+      "surface": "מופתים",
+      "gloss": "tunnusmerkkejä"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "taivaassa"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "ja maassa"
+    },
+    {
+      "surface": "דם",
+      "gloss": "verta"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ja tulta"
+    },
+    {
+      "surface": "ותימרות",
+      "gloss": "ja pylväitä"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "savun"
+    }
+  ],
+  "timestamp": "2026-09-07T01:26:25.988930669Z",
+  "model": "glm-5.3"
+}

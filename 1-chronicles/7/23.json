@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 7:23",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja hän meni vaimonsa luo, ja hän tuli raskaaksi ja synnytti pojan, ja hän kutsui ⟨את⟩ hänen nimensä Beria, koska onnettomuus oli ollut hänen kodissaan.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ja hän meni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vaimonsa"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ja hän tuli raskaaksi"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ja synnytti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ja hän kutsui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen nimensä Beria"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hänen nimensä"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "Beria"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "onnettomuudessa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "hänen kodissaan"
+    }
+  ],
+  "timestamp": "2026-09-07T05:15:04.722687535Z",
+  "model": "glm-5.3"
+}

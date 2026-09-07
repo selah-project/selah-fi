@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Veljesi vaimon alastomuutta älä paljasta; se ⟨on⟩ veljesi alastomuus.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "alastomuutta"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vaimon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "veljesi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "paljasta"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "alastomuus"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "veljesi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-09-07T04:13:38.406135800Z",
+  "model": "glm-5.3"
+}

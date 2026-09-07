@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 11:33",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja jokainen saviastia, johon niistä mikä tahansa putoaa sen sisään — kaikki, mikä sen sisällä on, tulee saastaiseksi, ja ⟨את⟩ sen te rikotte.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ja jokainen"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "astia"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "savi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "johon"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "putoaa"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "niistä"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sen"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "sisään"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mikä"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "sen sisällä"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "tulee saastaiseksi"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "ja ⟨את⟩ sen",
+      "marks": "sen (astian)"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "te rikotte"
+    }
+  ],
+  "timestamp": "2026-09-06T21:50:38.930200540Z",
+  "model": "glm-5.3"
+}

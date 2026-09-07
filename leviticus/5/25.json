@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja ⟨את⟩ vikauhrinsa hän tuo Jahvelle: virheetön oinas laumasta, arviointisi mukaan, vikauhriksi, kohenin ⟨pappi⟩ luo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "vikauhrinsa"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "vikauhrinsa"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "hän tuo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "איל",
+      "gloss": "oinas"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "virheetön"
+    },
+    {
+      "surface": "מן",
+      "gloss": "laumasta"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "laumasta"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "arviointisi mukaan"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "vikauhriksi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenin (pappi)"
+    }
+  ],
+  "timestamp": "2026-09-06T21:47:56.104646792Z",
+  "model": "glm-5.3"
+}

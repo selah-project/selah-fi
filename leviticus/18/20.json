@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja lähimmäisesi vaimolle älä anna makauskastasi siementä, tullaksesi epäpuhtaaksi hänen kanssaan.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vaimolle"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "lähimmäisesi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "anna"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "makauskastasi"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "siementä"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "tullaksesi epäpuhtaaksi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "hänen kanssaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:54:39.055841981Z",
+  "model": "glm-5.3"
+}

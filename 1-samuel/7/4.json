@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja Israelin pojat poistivat ⟨את⟩ baal-jumalat ja ⟨את⟩ ashtarot-jumalattaret, ja palvelivat ⟨את⟩ Jahvea yksin.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "Ja poistivat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baal-jumalat"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "baal-jumalat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "ashtarot-jumalattaret"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "ashtarot-jumalattaret"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ja palvelivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yksin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:07:33.625808310Z",
+  "model": "glm-5.3"
+}

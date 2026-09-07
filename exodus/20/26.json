@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 20:26",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Äläkä nouse portaita minun alttarilleni, etttei alastomuutesi paljastuisi sen päällä.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Äläkä"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "nouse"
+    },
+    {
+      "surface": "במעלת",
+      "gloss": "portaita"
+    },
+    {
+      "surface": "על",
+      "gloss": "●"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "minun alttarilleni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "että"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "paljastuisi"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "alastomuutesi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sen päällä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:38:19.731863060Z",
+  "model": "glm-5.3"
+}

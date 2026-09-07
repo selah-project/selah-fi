@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 59,
+  "translation": "Mestarille; älä tuhoa; Davidin miktam; kun Shaul lähetti, ja he vartioivat ⟨את⟩ taloa tappaakseen hänet.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Mestarille"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "tuhoa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "kun lähetti"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "ja he vartioivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taloa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "taloa"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "tappaakseen hänet"
+    }
+  ],
+  "timestamp": "2026-09-07T02:14:44.606273128Z",
+  "model": "glm-5.3"
+}

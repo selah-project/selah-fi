@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja Joktan siitti ⟨את⟩ Almodadin ja ⟨את⟩ Shelefin ja ⟨את⟩ Hatsarmavetin ja ⟨את⟩ Jerahin.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Ja Joktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodadin"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodadin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Shelefin"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Shelefin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Hatsarmavetin"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Hatsarmavetin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Jerahin"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Jerahin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:51.551772435Z",
+  "model": "glm-5.3"
+}

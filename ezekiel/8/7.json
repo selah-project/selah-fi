@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja hän toi ⟨את⟩ minut pihan sisäänkäynnille, ja minä näin, ja katso: yksi reikä seinässä.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ja hän toi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ minut",
+      "marks": "minut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sisäänkäynnille"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "pihan"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ja minä näin"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "חר",
+      "gloss": "reikä"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "seinässä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:52:52.422073264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 129,
+  "translation": "Jahve ⟨on⟩ vanhursas, hän katkaisi jumalattorien köydet.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "vanhursas"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "hän katkaisi"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "köydet"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jumalattorien"
+    }
+  ],
+  "timestamp": "2026-09-07T02:50:13.141444799Z",
+  "model": "glm-5.3"
+}

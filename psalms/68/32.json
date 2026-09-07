@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 68,
+  "translation": "Ylemykset saapuvat Mitsrajimista (Egypti); Kush (Etiopia) rientää ojentamaan kätensä Elohimille.",
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "saapuvat"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "ylemykset"
+    },
+    {
+      "surface": "מני",
+      "gloss": "-sta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimista"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "rientää"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "kätensä"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimille"
+    }
+  ],
+  "timestamp": "2026-09-07T02:20:52.356240430Z",
+  "model": "glm-5.3"
+}

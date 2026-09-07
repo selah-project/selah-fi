@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Kuka ei kaikessa tässä tietäisi, että Jahven käsi ⟨on⟩ tehnyt tämän?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kuka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tietäisi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaikessa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tässä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "יד",
+      "gloss": "käsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "on tehnyt"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tämän"
+    }
+  ],
+  "timestamp": "2026-09-07T03:28:42.108224193Z",
+  "model": "glm-5.3"
+}

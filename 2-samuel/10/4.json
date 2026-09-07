@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja Hanun otti ⟨את⟩ Davidin palvelijat ja ajoi ⟨את⟩ puolet heidän partaansa pois ja leikkasi ⟨את⟩ heidän vaatteensa poikki, heidän pakaroihinsa asti, ja lähetti heidät pois.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ja otti"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidin palvelijat"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "palvelijat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "ja ajoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "puolet heidän partaansa"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "puolet"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "heidän partaansa"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "ja leikkasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän vaatteensa"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "heidän vaatteensa"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "poikki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "heidän pakaroihinsa"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "ja lähetti heidät pois"
+    }
+  ],
+  "timestamp": "2026-09-06T23:22:30.782415866Z",
+  "model": "glm-5.3"
+}

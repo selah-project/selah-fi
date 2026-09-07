@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 30:5",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Kaikki häpeävät ⟨jonkin⟩ kansan tähden, joka ei hyödytä heille — ei avuksi eikä hyödyksi, vaan häpeäksi ja myös pilkaksi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kaikki"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "häpeävät"
+    },
+    {
+      "surface": "על",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "hyödytä"
+    },
+    {
+      "surface": "למו",
+      "gloss": "heille"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "avuksi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "להועיל",
+      "gloss": "hyödyksi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vaan"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "häpeäksi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja myös"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "pilkaksi"
+    }
+  ],
+  "timestamp": "2026-09-07T00:10:15.461833185Z",
+  "model": "glm-5.3"
+}

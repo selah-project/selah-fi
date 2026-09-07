@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 23:2",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja David kysyi Jahveltä sanoen: ”Menemmekö ja löymmekö nämä pelistiläiset?” Ja Jahve sanoi Davidille: ”Mene ja lyö pelistiläiset ja pelasta ⟨את⟩ Ke'ila.”",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Ja kysyi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvelta"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "Menemmekö"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "ja löymmekö"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "pelistiläisiä"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidille"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Mene"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "ja lyö"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "pelistiläiset"
+    },
+    {
+      "surface": "והושעת",
+      "gloss": "ja pelasta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ke'ila"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Ke'ila"
+    }
+  ],
+  "timestamp": "2026-09-06T23:15:00.621425065Z",
+  "model": "glm-5.3"
+}

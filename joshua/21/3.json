@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 21:3",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja Israelin pojat antoivat leviiläisille omasta perintöosastaan Jahven suun ⟨määräämän⟩ mukaan ⟨את⟩ nämä kaupungit ja ⟨את⟩ niiden laidunmaat.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ja antoivat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "leviiläisille"
+    },
+    {
+      "surface": "מנחלתם",
+      "gloss": "perintöosastaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "פי",
+      "gloss": "suun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nämä kaupungit"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "kaupungit"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "niiden laidunmaat"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "niiden laidunmaat"
+    }
+  ],
+  "timestamp": "2026-09-07T04:18:22.784363198Z",
+  "model": "glm-5.3"
+}

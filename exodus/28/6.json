@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Ja he tekevät ⟨את⟩ efodin: kultaa, sinistä ja purpuraa, karmosiinin matoa ja kierrettyä pellavaa, taitavan kutojan työtä.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Ja he tekevät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efodin"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodin"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kultaa"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "sinistä"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ja purpuraa"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "madon"
+    },
+    {
+      "surface": "שני",
+      "gloss": "karmosiinin"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ja pellavaa"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "kierrettyä"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "työtä"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "taitavan kutojan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:40:20.246713563Z",
+  "model": "glm-5.3"
+}

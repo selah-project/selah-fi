@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 3:1",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja Shelomo (Salomo) liittyi sukuliittoon Paron (farao), Mitsrajimin (Egypti) kuninkaan, ⟨את⟩ kanssa, ja hän otti ⟨את⟩ Paron tyttären ja toi hänet Daavidin kaupunkiin, kunnes hän sai valmiiksi rakentaa ⟨את⟩ omansa talon ja ⟨את⟩ Jahven talon ja ⟨את⟩ Jerushalajimin (Jerusalem) muurin ympäriltä.",
+  "tokens": [
+    {
+      "surface": "ויתחתן",
+      "gloss": "liittyi sukuliittoon"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ kanssa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ja otti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paronin tyttären"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tyttären"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paronin"
+    },
+    {
+      "surface": "ויביאה",
+      "gloss": "ja toi hänet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sisälle"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kaupunkiin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daavidin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "sai valmiiksi"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "rakentaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "talonsa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "talonsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Jahven talon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Jerushalajimin muurin"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "muurin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimin"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympäriltä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:34:12.351065548Z",
+  "model": "glm-5.3"
+}

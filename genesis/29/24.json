@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja Lavan antoi hänelle ⟨את⟩ Zilpan (Silpa), orjattarensa, Lealle, tyttärelleen, orjattareksi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ja antoi"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zilpan"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpan"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "orjattarensa"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "Lealle"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "tyttärelleen"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "orjattareksi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:16:09.471638935Z",
+  "model": "glm-5.3"
+}

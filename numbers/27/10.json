@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ja jos hänellä ei ole veljiä, annatte ⟨את⟩ hänen perintönsä hänen isänsä veljille.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ja jos"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänellä"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "veljiä"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "annatte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen perintönsä"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "hänen perintönsä"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "veljille"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hänen isänsä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:13:13.415013473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 7:5",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja kaikki portit ja pihtipuut olivat nelikulmaisia, karminsa kera, ja ikkuna vastapäätä ikkunaa, kolme kertaa.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ja kaikki"
+    },
+    {
+      "surface": "הפתחים",
+      "gloss": "portit"
+    },
+    {
+      "surface": "והמזוזות",
+      "gloss": "ja pihtipuut"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "nelikulmaisia"
+    },
+    {
+      "surface": "שקף",
+      "gloss": "karmi"
+    },
+    {
+      "surface": "ומול",
+      "gloss": "ja vastapäätä"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "ikkuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vastaan"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "ikkunaa"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kertaa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:35:45.826063978Z",
+  "model": "glm-5.3"
+}

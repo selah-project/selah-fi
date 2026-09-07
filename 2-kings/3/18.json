@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja tämä ⟨on⟩ kevyt Jahven silmissä, ja hän antaa ⟨את⟩ Moabin teidän käsiinne.",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "ja ⟨on⟩ kevyt"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "silmissä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ja hän antaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moabin"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabin"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "teidän käsiinne"
+    }
+  ],
+  "timestamp": "2026-09-06T23:47:46.143078839Z",
+  "model": "glm-5.3"
+}

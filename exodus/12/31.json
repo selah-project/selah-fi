@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 12:31",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja hän kutsui yöllä Moshen (Mooses) ja Aharonin (Aaron) ja sanoi: Nouskaa, lähtekää kansani keskestä, sekä te että Israelin pojat, ja menkää, palvelkaa ⟨את⟩ Jahvea, niin kuin olette puhuneet.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ja kutsui"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshelle (Mooses)"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "ja Aharonille (Aaron)"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "yöllä"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "Nouskaa"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "lähtekää"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "keskestä"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kansani"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sekä"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "te"
+    },
+    {
+      "surface": "גם",
+      "gloss": "että"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ja menkää"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "palvelkaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "כדברכם",
+      "gloss": "niin kuin olette puhuneet"
+    }
+  ],
+  "timestamp": "2026-09-06T21:34:21.052446963Z",
+  "model": "glm-5.3"
+}

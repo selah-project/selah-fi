@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 11:7",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja Urija tuli hänen luokseen, ja David kysyi Joabin voinnin ja kansan voinnin ja sodan voinnin.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänen luokseen"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "ja kysyi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "voinnin"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabin"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "ja voinnin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "ja voinnin"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "sodan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:24:10.929407508Z",
+  "model": "glm-5.3"
+}

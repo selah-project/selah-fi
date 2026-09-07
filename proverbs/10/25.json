@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 10:25",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Kuin pyörremyrskyn ohittaa, ei jää rikollista; mutta vanhurskas ⟨on⟩ iankaikkinen perustus.",
+  "tokens": [
+    {
+      "surface": "כעבור",
+      "gloss": "Kuin ohittaa"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "pyörremyrskyn"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ei jää"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rikollista"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "mutta vanhurskas"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "perustus"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iankaikkinen"
+    }
+  ],
+  "timestamp": "2026-09-07T03:06:31.665007141Z",
+  "model": "glm-5.3"
+}

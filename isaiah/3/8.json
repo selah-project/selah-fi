@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 3:8",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Sillä Jerushalajim (Jerusalem) on kompastunut, ja Yehuda on kaatunut; sillä heidän kielensä ja tekonsa ovat Jahvea vastaan, haastaakseen hänen kirkkautensa silmien tiukuksi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "on kompastunut"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ja Yehuda"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "on kaatunut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "heidän kielensä"
+    },
+    {
+      "surface": "ומעלליהם",
+      "gloss": "ja tekonsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ovat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "vastaan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "haastaakseen"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "silmien tiukuksi"
+    }
+  ],
+  "timestamp": "2026-09-07T00:01:00.043636182Z",
+  "model": "glm-5.3"
+}

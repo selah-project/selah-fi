@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ja hän asetti ⟨את⟩ kulta-alttarin kokousmajassa, verhon edessä.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "asetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kulta-alttarin"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kulta-"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "majassa"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kokous-"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "verhon"
+    }
+  ],
+  "timestamp": "2026-09-06T21:47:05.554074007Z",
+  "model": "glm-5.3"
+}

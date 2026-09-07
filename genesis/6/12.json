@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja Elohim näki ⟨את⟩ maan, ja katso, se oli turmeltunut; sillä kaikki liha oli turmellut ⟨את⟩ tiensä maan päällä.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ja näki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "se oli turmeltunut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "oli turmellut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "liha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiensä"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "tiensä"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:06:13.311648796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 1:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja hän on kuin puu, istutettu vesiuomien äärelle, joka antaa hedelmänsä ajallaan, ja jonka lehti ei lakastu — kaikki, mitä hän tekee, se menestyy.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ja hän on"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "kuin puu"
+    },
+    {
+      "surface": "שתול",
+      "gloss": "istutettu"
+    },
+    {
+      "surface": "על",
+      "gloss": "äärelle"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "vesiuomien"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vesien"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "hedelmänsä"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "antaa"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "ajallaan"
+    },
+    {
+      "surface": "ועלהו",
+      "gloss": "ja jonka lehti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "lakastu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hän tekee"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "menestyy"
+    }
+  ],
+  "timestamp": "2026-09-07T01:53:15.663699170Z",
+  "model": "glm-5.3"
+}

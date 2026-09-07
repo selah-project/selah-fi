@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 21:35",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja he löivät ⟨את⟩ hänet ja ⟨את⟩ hänen poikansa ja ⟨את⟩ koko hänen kansansa, niin ettei hänelle jäänyt jäljelle eloonjäänyttä; ja he perivät ⟨את⟩ hänen maansa.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "Ja he löivät"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet",
+      "marks": "Og"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen poikansa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "koko hänen kansansa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hänen kansansa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ei"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "jäänyt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "eloonjäänyttä"
+    },
+    {
+      "surface": "ויירשו",
+      "gloss": "ja he perivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen maansa"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "hänen maansa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:12:25.356082530Z",
+  "model": "glm-5.3"
+}

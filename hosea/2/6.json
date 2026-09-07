@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "ja ⟨את⟩ hänen poikiansa en minä armahda, sillä huoruuden lapsia he ovat.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen poikiansa"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "armahda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lapsia"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "huoruuden"
+    },
+    {
+      "surface": "המה",
+      "gloss": "he ovat"
+    }
+  ],
+  "timestamp": "2026-09-07T01:20:33.533448822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Joka sanoo auringolle, eikä se säteile, ja tähdet hän sinetöi.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "joka sanoo"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "auringolle"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "se säteile"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ja"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "tähdet"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "sinetöi"
+    }
+  ],
+  "timestamp": "2026-09-07T04:35:07.945721778Z",
+  "model": "glm-5.3"
+}

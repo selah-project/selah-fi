@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "se valmistaa kesällä leipänsä, kokoaa sadonkorjuun aikaan ravintonsa.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "valmistaa"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "kesällä"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "leipänsä"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "kokoaa"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "sadonkorjuun aikaan"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "ravintonsa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:03:04.273396268Z",
+  "model": "glm-5.3"
+}

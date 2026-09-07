@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 31:10",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Voiman naisen kuka löytää? Hänen hintansa ⟨on⟩ kaukana helmiä.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "naisen"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "Voiman"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "löytää"
+    },
+    {
+      "surface": "ורחק",
+      "gloss": "ja kaukana"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "helmiä"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "hänen hintansa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:21:22.156865852Z",
+  "model": "glm-5.3"
+}

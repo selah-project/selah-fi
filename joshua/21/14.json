@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "ja ⟨את⟩ Jattirin ja ⟨את⟩ sen laidunmaat, ja ⟨את⟩ Eshtemoan (Estemoan) ja ⟨את⟩ sen laidunmaat.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Jattirin"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Jattirin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen laidunmaat"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sen laidunmaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Eshtemoan"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen laidunmaat"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sen laidunmaat"
+    }
+  ],
+  "timestamp": "2026-09-06T22:48:21.613247020Z",
+  "model": "glm-5.3"
+}

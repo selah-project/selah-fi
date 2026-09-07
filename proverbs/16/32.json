@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 16:32",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Pitkämielinen ⟨on⟩ parempi kuin väkevä, ja henkensä hallitseva kuin kaupungin valloittaja.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "parempi"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "pitkä"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "mielinen"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "kuin väkevä"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ja hallitseva"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "henkensä"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "kuin valloittaja"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kaupungin"
+    }
+  ],
+  "timestamp": "2026-09-07T03:09:46.608683854Z",
+  "model": "glm-5.3"
+}

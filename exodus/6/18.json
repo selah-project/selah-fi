@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 6:18",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja Kehatin (Kehat) pojat: Amram ja Jitshar ja Hevron ja Utsi'el. Ja Kehatin elinvuodet ⟨olivat⟩ sata ja kolmekymmentä ja kolme vuotta.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ja ... pojat"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehatin"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "ja Jitshar"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "ja Hevron"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "ja Utsi'el"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "Ja ... vuodet"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "elin"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehatin"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ja kolmekymmentä"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ja sata"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    }
+  ],
+  "timestamp": "2026-09-06T21:29:25.561298926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 106,
+  "translation": "Ja hän antoi heille heidän pyyntönsä, ja lähetti laihuuden heidän Nefeshiinsa (sieluihinsa).",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ja hän antoi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "heidän pyyntönsä"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ja lähetti"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "laihuuden"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "heidän Nefeshiinsa (sieluihinsa)"
+    }
+  ],
+  "timestamp": "2026-09-07T02:39:48.043512874Z",
+  "model": "glm-5.3"
+}

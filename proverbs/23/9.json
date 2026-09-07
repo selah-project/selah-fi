@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 23:9",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Tyhmän korviin älä puhu, sillä hän väheksyy sinun sanojesi ymmärrystä.",
+  "tokens": [
+    {
+      "surface": "באזני",
+      "gloss": "korviin"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "tyhmän"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "puhu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "יבוז",
+      "gloss": "hän väheksyy"
+    },
+    {
+      "surface": "לשכל",
+      "gloss": "ymmärrystä"
+    },
+    {
+      "surface": "מליך",
+      "gloss": "sanojesi"
+    }
+  ],
+  "timestamp": "2026-09-07T03:14:45.788370763Z",
+  "model": "glm-5.3"
+}

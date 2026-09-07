@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 78,
+  "translation": "Hän lähetti heidän keskellensä hyttysisparven, ja se söi heidät, ja sammakot, ja ne turmelivat heidät.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "lähetti"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "heidän keskellensä"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "hyttysisparvi"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "ja se söi heidät"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "ja sammakot"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "ja ne turmelivat heidät"
+    }
+  ],
+  "timestamp": "2026-09-07T02:25:06.229009575Z",
+  "model": "glm-5.3"
+}

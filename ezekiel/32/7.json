@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 32:7",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Ja kun sammutan sinut, peitän taivaan ja pimennän ⟨את⟩ niiden tähdet; peitän auringon pilvellä, eikä kuu anna valoaan.",
+  "tokens": [
+    {
+      "surface": "וכסיתי",
+      "gloss": "Ja peitän"
+    },
+    {
+      "surface": "בכבותך",
+      "gloss": "kun sammutan sinut"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "והקדרתי",
+      "gloss": "ja pimennän"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niiden tähdet"
+    },
+    {
+      "surface": "ככביהם",
+      "gloss": "niiden tähdet"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "auringon"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "pilvellä"
+    },
+    {
+      "surface": "אכסנו",
+      "gloss": "peitän"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "eikä kuu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "anna"
+    },
+    {
+      "surface": "אורו",
+      "gloss": "valoaan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:08:15.312596209Z",
+  "model": "glm-5.3"
+}

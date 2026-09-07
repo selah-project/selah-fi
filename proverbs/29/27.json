@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 29:27",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Vääryyden miehen iljetyksenä ⟨on⟩ vanhurskaat, ja jumalattoman iljetyksenä ⟨on⟩ tiellä oikein kulkeva.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "iljetyksenä"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "vanhurskaat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "עול",
+      "gloss": "vääryyden"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "ja iljetyksenä"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "jumalattoman"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "oikein kulkeva"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tiellä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:19:04.259228335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 32:9",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Eivät monet ⟨ole⟩ viisaita, eivätkä vanhukset ymmärrä oikeutta.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Eivät"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "monet"
+    },
+    {
+      "surface": "יחכמו",
+      "gloss": "viisaita"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "eivätkä vanhukset"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ymmärrä"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "oikeutta"
+    }
+  ],
+  "timestamp": "2026-09-07T03:42:34.171318345Z",
+  "model": "glm-5.3"
+}

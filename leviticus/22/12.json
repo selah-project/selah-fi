@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 22:12",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja kohenin tytär, jos hän tulee muukalaisen mieheksi, hän ei syö pyhien annista.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Ja tytär"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohenin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jos"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "tulee"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "mieheksi"
+    },
+    {
+      "surface": "זר",
+      "gloss": "muukalaisen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "בתרומת",
+      "gloss": "annista"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "pyhien"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "syö"
+    }
+  ],
+  "timestamp": "2026-09-06T21:57:20.035284946Z",
+  "model": "glm-5.3"
+}

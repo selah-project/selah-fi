@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 55,
+  "translation": "vaan sinä, kuolevainen, vertaiseni, toverini ja tuttavani.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "vaan sinä"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "kuolevainen"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "vertaiseni"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "tovarini"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "tuttavani"
+    }
+  ],
+  "timestamp": "2026-09-07T02:13:08.472599411Z",
+  "model": "glm-5.3"
+}

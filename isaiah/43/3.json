@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 43,
+  "translation": "Sillä minä olen Jahve, Elohimisi, Israelin Pyhä, sinun pelastajasi. Minä annan sinun lunnaiksesi Mitsrajimin (Egyptin), Kushin ja Sevan sinun tilallesi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä olen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimisi"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Pyhä"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "sinun pelastajasi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Minä annan"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "sinun lunnaiksesi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kushin"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "ja Sevan"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "sinun tilallesi"
+    }
+  ],
+  "timestamp": "2026-09-07T00:15:16.209820468Z",
+  "model": "glm-5.3"
+}

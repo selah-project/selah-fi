@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Jokainen löytynyt ⟨on⟩ lävistettävä, ja jokainen tavattu kaatuu miekkaan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Jokainen"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "löytynyt"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "⟨on⟩ lävistettävä"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja jokainen"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "tavattu"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "kaatuu"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "miekkaan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:04:11.683442802Z",
+  "model": "glm-5.3"
+}

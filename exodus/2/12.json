@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja hän kääntyi sinne ja tänne ja näki, ettei ketään ollut, ja hän löi ⟨את⟩ egyptiläisen ja kätki hänet hiekkaan.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "Ja hän kääntyi"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sinne"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "ja tänne"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ja näki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ketään"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ja hän löi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egyptiläisen"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "egyptiläisen"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "ja kätki hänet"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "hiekkaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:28:49.965362920Z",
+  "model": "glm-5.3"
+}

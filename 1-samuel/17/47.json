@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-samuel 17:47",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja koko tämä kansanjoukko tietää, ettei Jahve pelasta miekalla eikä keihäällä, sillä Jahvelle ⟨on⟩ sota, ja hän antaa teidät ⟨את⟩ meidän käsiimme.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Ja tietää"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "kansanjoukko"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "miekalla"
+    },
+    {
+      "surface": "ובחנית",
+      "gloss": "eikä keihäällä"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "pelasta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "sota"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ja hän antaa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "teidät ⟨את⟩",
+      "marks": "meidän käsiimme"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "meidän käsiimme"
+    }
+  ],
+  "timestamp": "2026-09-06T23:13:09.497850174Z",
+  "model": "glm-5.3"
+}

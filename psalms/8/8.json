@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Lammat ja härät, ne kaikki, ja myös kedon eläimet.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "Lammat"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "ja härät"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ne kaikki"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja myös"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "eläimet"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "kedon"
+    }
+  ],
+  "timestamp": "2026-09-07T01:54:35.783601454Z",
+  "model": "glm-5.3"
+}

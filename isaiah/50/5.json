@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 50,
+  "translation": "Adonai Jahve avasi minulle korvan, ja minä en ollut kapinallinen, taaksepäin en peräytynyt.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "avasi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "korvan"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ja minä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "kapinoinnut"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "taaksepäin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "peräytynyt"
+    }
+  ],
+  "timestamp": "2026-09-07T00:19:17.412224970Z",
+  "model": "glm-5.3"
+}

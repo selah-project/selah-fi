@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 21:3",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja Avraham antoi pojalleen, joka hänelle oli syntynyt, jonka Sarah hänelle synnytti, nimeksi Jitshak (Iisak).",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ja antoi nimeksi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pojalleen nimen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimen"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "pojalleen"
+    },
+    {
+      "surface": "הנולד",
+      "gloss": "joka oli syntynyt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshak"
+    }
+  ],
+  "timestamp": "2026-09-07T04:08:50.744990947Z",
+  "model": "glm-5.3"
+}

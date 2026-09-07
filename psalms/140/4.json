@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 140,
+  "translation": "He teroittivat kielensä kuin käärmeen, kyykäärmeen myrkky on heidän huultensa alla. Sela.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "He teroittivat"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "kielensä"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kuin"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "käärmeen"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "myrkky"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "kyykäärmeen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alla"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "heidän huultensa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-09-07T02:53:39.845252685Z",
+  "model": "glm-5.3"
+}

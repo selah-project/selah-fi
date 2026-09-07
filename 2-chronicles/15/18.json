@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 15:18",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Ja hän toi ⟨את⟩ isänsä pyhitetyt lahjat ja omat pyhitetyt lahjansa Elohimin (Jumalan) taloon: hopeaa ja kultaa ja astioita.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ja hän toi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isänsä pyhitetyt lahjat"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "isänsä pyhitetyt lahjat"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isänsä"
+    },
+    {
+      "surface": "וקדשיו",
+      "gloss": "ja omat pyhitetyt lahjansa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "taloon"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "hopeaa"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ja kultaa"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "ja astioita"
+    }
+  ],
+  "timestamp": "2026-09-07T05:37:46.971843649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 41,
+  "translation": "Ja tapahtui toisena päivänä ⟨את⟩ Gedaljahuvain tappamisesta, eikä yksikään mies tiennyt.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "השני",
+      "gloss": "toisena"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "tappamisesta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedaljahuvain"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedaljahuvain"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "eikä mies"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tiedä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:45:08.418494931Z",
+  "model": "glm-5.3"
+}

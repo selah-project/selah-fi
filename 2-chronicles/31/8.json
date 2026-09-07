@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Ja Jehizkijahu (Hiskia) ja päämiehet tulivat ja näkivät ⟨את⟩ kasot, ja he siunasivat ⟨את⟩ Jahven ja ⟨את⟩ hänen kansaansa Israelia.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ja tulivat"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Jehizkijahu"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "ja päämiehet"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ja näkivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasot"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "kasot"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "ja he siunasivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kansaansa Israelia"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kansaansa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelia"
+    }
+  ],
+  "timestamp": "2026-09-07T05:50:30.598629273Z",
+  "model": "glm-5.3"
+}

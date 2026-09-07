@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja lähtivät liikkeelle Kehatilaiset (Kehatin jälkeläiset), pyhäkön kantajat, ja ⟨muut⟩ pystyttivät ⟨את⟩ Mishkanin heidän saapumiseensa asti.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "Ja lähtivät liikkeelle"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "Kehatilaiset"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "kantajat"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "pyhäkön"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "ja pystyttivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkanin"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "באם",
+      "gloss": "heidän saapumiseensa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:06:31.679733875Z",
+  "model": "glm-5.3"
+}

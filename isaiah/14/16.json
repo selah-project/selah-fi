@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 14:16",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Sinun näkijäsi tuijottavat sinuun, sinua he tarkkailevat: ”Onko tämä se mies, joka sai maan vapisemaan, joka ravisti valtakuntia?”",
+  "tokens": [
+    {
+      "surface": "ראיך",
+      "gloss": "Sinun näkijäsi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinuun"
+    },
+    {
+      "surface": "ישגיחו",
+      "gloss": "tuijottavat"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinua"
+    },
+    {
+      "surface": "יתבוננו",
+      "gloss": "he tarkkailevat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "se mies"
+    },
+    {
+      "surface": "מרגיז",
+      "gloss": "joka sai vapisemaan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "joka ravisti"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "valtakuntia"
+    }
+  ],
+  "timestamp": "2026-09-07T00:04:18.299254105Z",
+  "model": "glm-5.3"
+}

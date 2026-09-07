@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 39,
+  "translation": "Ja Israelin heimo hautaa heidät, jotta se puhdistaisi ⟨את⟩ maan — seitsemän kuukautta.",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "ja he hautaavat heidät"
+    },
+    {
+      "surface": "בית",
+      "gloss": "heimon (talon)"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "למען",
+      "gloss": "jotta"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "puhdistaisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "seitsemän"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "kuukautta"
+    }
+  ],
+  "timestamp": "2026-09-07T01:13:23.089661627Z",
+  "model": "glm-5.3"
+}

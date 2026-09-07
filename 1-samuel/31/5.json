@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Ja kun hänen varustajansa näki, että Shaul (Saul) oli kuollut, hänkin putosi miekkansa päälle ja kuoli hänen kanssaan.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ja näki"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "varustaja"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "hänen varustaja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "מת",
+      "gloss": "oli kuollut"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ja putosi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hänkin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "miekkansa"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ja kuoli"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hänen kanssaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:19:25.832651104Z",
+  "model": "glm-5.3"
+}

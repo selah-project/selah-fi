@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Kaikki, jossa ⟨on⟩ vika, älkää tuoko ⟨sitä⟩, sillä ei se ole teille otollinen.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kaikki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jossa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siinä"
+    },
+    {
+      "surface": "מום",
+      "gloss": "vika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "tuoko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "otollinen"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "se ⟨on⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    }
+  ],
+  "timestamp": "2026-09-06T21:56:44.724699093Z",
+  "model": "glm-5.3"
+}

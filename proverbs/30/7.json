@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Kaksi ⟨asiaa⟩ minä olen pyytänyt ⟨את⟩ sinulta; älä kiellä minulta ⟨niitä⟩, ennen kuin kuolen.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "Kaksi"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "minä olen pyytänyt"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ sinulta",
+      "marks": "sinulta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "kiellä"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minulta"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ennen kuin"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kuolen"
+    }
+  ],
+  "timestamp": "2026-09-07T03:19:04.646251848Z",
+  "model": "glm-5.3"
+}

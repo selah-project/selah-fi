@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja vastasivat Khetin poikien ⟨את⟩ Avrahamia (Aabrahamia) sanoen hänelle:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Ja vastasivat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikien"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Khetin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamia"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamia (Aabrahamia)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    }
+  ],
+  "timestamp": "2026-09-06T21:13:22.478520681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 34:30",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "Ja he tuntevat, että minä, Jahve, heidän Elohimiinsa ⟨olen⟩, olen ⟨את⟩ heidän kanssaan, ja he ovat kansani, Israelin huone, sanoo Adonai Jahve.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ja he tuntevat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "heidän Elohiminsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ heidän kanssaan",
+      "marks": "prepositio H854 'kanssa' + 3. mon. suffiksi, ei objektimerkki"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ja he"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kansani"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huone"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-07T01:08:29.808062338Z",
+  "model": "glm-5.3"
+}

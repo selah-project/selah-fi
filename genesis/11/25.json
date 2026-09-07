@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 11:25",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja Nahor eli Terachin ⟨את⟩ siittämisen jälkeen yhdeksäntoista vuotta ja sata vuotta, ja hän siitti poikia ja tyttäriä.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "eli"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "jälkeen"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "siittämisen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terachin"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terachin"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "yhdeksän"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-toista"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ja sata"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ja hän siitti"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "poikia"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ja tyttäriä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:00.779215515Z",
+  "model": "glm-5.3"
+}

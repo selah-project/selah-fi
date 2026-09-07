@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 78:57",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 78,
+  "translation": "Ja he perääntyivät ja pettivät kuin isänsä; he vääntyivät kuin petollinen jousi.",
+  "tokens": [
+    {
+      "surface": "ויסגו",
+      "gloss": "perääntyivät"
+    },
+    {
+      "surface": "ויבגדו",
+      "gloss": "pettivät"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "kuin isänsä"
+    },
+    {
+      "surface": "נהפכו",
+      "gloss": "vääntyivät"
+    },
+    {
+      "surface": "כקשת",
+      "gloss": "kuin jousi"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "petollinen"
+    }
+  ],
+  "timestamp": "2026-09-07T02:26:51.756501513Z",
+  "model": "glm-5.3"
+}

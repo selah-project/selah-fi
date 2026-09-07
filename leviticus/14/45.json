@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 14:45",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja hän hajottaa ⟨את⟩ talon, ⟨את⟩ sen kivet ja ⟨את⟩ sen puut ja ⟨את⟩ kaiken talon pölyn, ja vie ne kaupungin ulkopuolelle saastaiseen paikkaan.",
+  "tokens": [
+    {
+      "surface": "ונתץ",
+      "gloss": "ja hän hajottaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "talon"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen kivet"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "sen kivet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen puut"
+    },
+    {
+      "surface": "עציו",
+      "gloss": "sen puut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaiken talon pölyn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pölyn"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "ja vie ne ulos"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ulkopuolelle"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "מקום",
+      "gloss": "paikkaan"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "saastaiseen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:53:52.690806904Z",
+  "model": "glm-5.3"
+}

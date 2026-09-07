@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 20:42",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja hän sanoi hänelle: Näin sanoo Jahve: Koska päästit kädestäsi ⟨את⟩ miehen, jonka minä olin vihkinyt tuhon omaksi, ⟨on⟩ sinun nefeshsi hänen nefeshinsä sijaan ja sinun kansasi hänen kansansa sijaan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "כה",
+      "gloss": "näin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יען",
+      "gloss": "koska"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "päästit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miehen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "jonka olin vihkinyt tuhon omaksi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kädestäsi"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "⟨on⟩ oleva"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "sinun nefeshsi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sijaan"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "hänen nefeshinsä"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ja sinun kansasi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sijaan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hänen kansansa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:44:07.526110941Z",
+  "model": "glm-5.3"
+}

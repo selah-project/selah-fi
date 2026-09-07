@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Mutta totisesti: ⟨את⟩ verenne — teidän nefeshienne puolesta — minä vaadin; jokaisen eläimen kädestä minä sen vaadin, ja ihmisen kädestä, kunkin miehen veljensä kädestä minä vaadin ⟨את⟩ ihmisen nefeshin.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "mutta totisesti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "verenne"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "verenne"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "teidän nefeshienne puolesta"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "minä vaadin"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kädestä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokaisen"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "eläimen"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "minä sen vaadin"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ja kädestä"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihmisen"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kädestä"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "veljensä"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "minä vaadin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihmisen nefeshin"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefeshin"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihmisen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:06:06.288794051Z",
+  "model": "glm-5.3"
+}

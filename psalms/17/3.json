@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Sinä koetit sydämeni, sinä tarkastit yöllä, sinä sulatit minut etkä ⟨mitään⟩ löytänyt; ei minun aikeeni mene suuni yli.",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "Sinä koetit"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sydämeni"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "tarkastit"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "yöllä"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "sulatit minut"
+    },
+    {
+      "surface": "בל",
+      "gloss": "et"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "löytänyt"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "aikeeni"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "mene yli"
+    },
+    {
+      "surface": "פי",
+      "gloss": "suuni"
+    }
+  ],
+  "timestamp": "2026-09-07T01:57:05.264136887Z",
+  "model": "glm-5.3"
+}

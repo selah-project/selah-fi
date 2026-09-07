@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 24:3",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja Shaul otti kolme tuhatta valittua miestä koko Israelista ja lähti etsimään ⟨את⟩ Davidia ja hänen miehiään vuorikauriiden kallioiden kupeille.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ja otti"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tuhatta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miestä"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "valittua"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelista"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ja lähti"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "etsimään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidia"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidia"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ja hänen miehiään"
+    },
+    {
+      "surface": "על",
+      "gloss": "kupeille"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pinnan"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "kallioiden"
+    },
+    {
+      "surface": "היעלים",
+      "gloss": "vuorikauriiden"
+    }
+  ],
+  "timestamp": "2026-09-06T23:15:24.284458607Z",
+  "model": "glm-5.3"
+}

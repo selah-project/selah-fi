@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "että Elohimin pojat näkivät ⟨את⟩ ihmisten tyttäret, koska ne olivat kauniita, ja he ottivat itselleen vaimoja kaikista, joita he valitsivat.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "näkivät"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihmisten tyttäret"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "tyttäret"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihmisten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "kauniita"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ja ottivat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "itselleen"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "vaimoja"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kaikista"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joita"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "valitsivat"
+    }
+  ],
+  "timestamp": "2026-09-06T21:07:44.858552030Z",
+  "model": "glm-5.3"
+}

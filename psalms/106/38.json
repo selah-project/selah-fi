@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 106:38",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 106,
+  "translation": "Ja he vuodattivat viatonta verta, verta pojistaan ja tyttäristään, jotka he uhrasivat Kenaanin (Kanaanin) epäjumalille, ja maa saastui veristä.",
+  "tokens": [
+    {
+      "surface": "וישפכו",
+      "gloss": "Ja he vuodattivat"
+    },
+    {
+      "surface": "דם",
+      "gloss": "verta"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "viatonta"
+    },
+    {
+      "surface": "דם",
+      "gloss": "verta"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "pojistaan"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "ja tyttäristään"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "he uhrasivat"
+    },
+    {
+      "surface": "לעצבי",
+      "gloss": "epäjumalille"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaanin"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "ja saastui"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "veristä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:38:22.811574176Z",
+  "model": "glm-5.3"
+}

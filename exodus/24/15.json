@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja nousi Moshe vuorelle, ja pilvi peitti ⟨את⟩ vuoren.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Ja nousi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…lle"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "vuorelle"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "ja peitti"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "pilvi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vuoren"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "vuoren"
+    }
+  ],
+  "timestamp": "2026-09-06T21:38:14.070605309Z",
+  "model": "glm-5.3"
+}

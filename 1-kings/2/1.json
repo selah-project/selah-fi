@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Davidin (Daavid) päivät lähestyivät kuolemaa, ja hän käski ⟨את⟩ Shelomon (Salomo), poikansa, sanoen:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "Ja lähestyivät"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päivät"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "למות",
+      "gloss": "kuolemaa"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "ja hän käski"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomon"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomon"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "poikansa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:34:04.742881853Z",
+  "model": "glm-5.3"
+}

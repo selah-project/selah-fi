@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Heidän lihavuutensa on sulkeutunut, heidän suunsa puhuu ylpeydellä.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "heidän lihavuutensa"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "on sulkeutunut"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "heidän suunsa"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "puhuvat"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "ylpeydellä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:54:55.544575005Z",
+  "model": "glm-5.3"
+}

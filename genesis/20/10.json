@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja Avimelek sanoi Avrahamille: Mitä sinä näit, koska teit ⟨את⟩ tämän asian?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...lle"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "näit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "teit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän asian"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asian"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    }
+  ],
+  "timestamp": "2026-09-06T21:12:24.082099274Z",
+  "model": "glm-5.3"
+}

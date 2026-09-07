@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 2:9",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja nyt älä jättäkö häntä rankaisematta, sillä sinä olet viisas mies, ja sinä tiedät ⟨את⟩ mitä sinun tulee hänelle tehdä, ja sinä saat ⟨את⟩ hänen harmaapäisyytensä alas Sheoliin veressä.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ja nyt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תנקהו",
+      "gloss": "jättäko häntä rankaisematta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "viisas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "ja sinä tiedät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitä sinun tulee hänelle tehdä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sinä teet"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "והורדת",
+      "gloss": "ja sinä saat alas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen harmaapäisyytensä"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "hänen harmaapäisyytensä"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "veressä"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheoliin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:32:39.451140265Z",
+  "model": "glm-5.3"
+}

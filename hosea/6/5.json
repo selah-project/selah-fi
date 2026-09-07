@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 6:5",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Sen tähden olen hakannut profeetoilla, olen tappanut heidät suuni sanoilla; ja sinun tuomiosi lähtevät esiin kuin valo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "חצבתי",
+      "gloss": "olen hakannut"
+    },
+    {
+      "surface": "בנביאים",
+      "gloss": "profeetoilla"
+    },
+    {
+      "surface": "הרגתים",
+      "gloss": "tappanut heidät"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "sanoilla"
+    },
+    {
+      "surface": "פי",
+      "gloss": "suuni"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "ja sinun tuomiosi"
+    },
+    {
+      "surface": "אור",
+      "gloss": "valo"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lähtevät esiin"
+    }
+  ],
+  "timestamp": "2026-09-07T01:20:16.164631541Z",
+  "model": "glm-5.3"
+}

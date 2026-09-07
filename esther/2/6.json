@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 2:6",
+  "book": "esther",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "joka oli viety maanpakoon Jerushalajimista (Jerusalem) maanpakolaisten mukana, jotka oli viety maanpakoon Yekhonjan, Jehudan kuninkaan, mukana, jotka Nevukhadnetsar, Babelin kuningas, oli viety maanpakoon.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "oli viety maanpakoon"
+    },
+    {
+      "surface": "מירושלים",
+      "gloss": "Jerushalajimista"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mukana"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "maanpakolaisten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "הגלתה",
+      "gloss": "oli viety maanpakoon"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mukana"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Yekhonjan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "oli vienyt maanpakoon"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevukhadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babelin"
+    }
+  ],
+  "timestamp": "2026-09-07T04:42:48.628106989Z",
+  "model": "glm-5.3"
+}

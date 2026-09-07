@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja sanoin teille: älkää järkyttykö älkääkä pelätkö heitä.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ja sanoin"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "järkyttykö"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "älkääkä"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "pelätkö"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "heitä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:22:57.971484314Z",
+  "model": "glm-5.3"
+}

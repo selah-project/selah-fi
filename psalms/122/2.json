@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 122,
+  "translation": "Seisoivat ovat jalkamme sinun porteissasi, Jerushalajim (Jerusalem).",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "Seisoivat"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ovat"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "jalkamme"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "sinun porteissasi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim (Jerusalem)"
+    }
+  ],
+  "timestamp": "2026-09-07T02:49:59.461630782Z",
+  "model": "glm-5.3"
+}

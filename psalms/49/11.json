@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 49,
+  "translation": "sillä hän näkee: viisaat kuolevat, yhdessä tyhmä ja tajuton hukkuvat, ja he jättävät toisille varallisuutensa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "hän näkee"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "viisaat"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "kuolevat"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "yhdessä"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "tyhmä"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "ja tajuton"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "hukkuvat"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "ja he jättävät"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "toisille"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "varallisuutensa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:09:43.631545873Z",
+  "model": "glm-5.3"
+}

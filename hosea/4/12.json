@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 4:12",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Kansani puultaan kysyy, ja sen sauva sille julistaa; sillä huoruuden henki on saattanut harhaan, ja he ovat huoranneet pois omien jumaliensa alta.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "Kansani"
+    },
+    {
+      "surface": "בעצו",
+      "gloss": "puultaan"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "kysyy"
+    },
+    {
+      "surface": "ומקלו",
+      "gloss": "ja sen sauva"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "julistaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sille"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "henki"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "huoruuden"
+    },
+    {
+      "surface": "התעה",
+      "gloss": "on saattanut harhaan"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "ja he ovat huoranneet"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "pois alta"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "omien jumaliensa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:19:41.085020017Z",
+  "model": "glm-5.3"
+}

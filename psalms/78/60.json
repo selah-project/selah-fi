@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 78,
+  "translation": "Ja hän hylkäsi Mishkanin ⟨asumuksen⟩ Shilosta, teltan, joka asui ihmisten keskellä.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "hylkäsi"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "Shilosta"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltan"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "joka asui"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ihmisten keskellä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:26:51.757278630Z",
+  "model": "glm-5.3"
+}

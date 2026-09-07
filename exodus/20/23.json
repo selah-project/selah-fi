@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Älkää tehkö ⟨את⟩ kanssani jumalia hopeasta, älkääkä jumalia kullasta — älkää tehkö itsellenne.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Älkää"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "tehkö"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kanssani",
+      "marks": "jumalia hopeasta ja kultasta"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "jumalia"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "hopeasta"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "älkääkä jumalia"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kullasta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "tehkö"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "itsellenne"
+    }
+  ],
+  "timestamp": "2026-09-06T21:36:25.525301188Z",
+  "model": "glm-5.3"
+}

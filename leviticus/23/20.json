@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja kohen heiluttakoon ⟨את⟩ ne leivin, ensihedelmien, ohella heilutusuhriksi Jahven edessä, kahden karitsan ohella; pyhiksi Jahvelle ne olkoot, kohenille.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "ja heiluttakoon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ne"
+    },
+    {
+      "surface": "על",
+      "gloss": "ohella"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leivin"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "ensihedelmien"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "heilutusuhriksi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "על",
+      "gloss": "ohella"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kahden"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "karitsan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhä"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olkoot"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kohenille"
+    }
+  ],
+  "timestamp": "2026-09-06T21:59:16.215994429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 10:18",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Katso: ei ⟨ollut⟩ tuotu ⟨את⟩ sen verta pyhäkköön sisäpuolelle — syömällä teidän olisi pitänyt syödä ⟨את⟩ sen pyhässä, kuten minä käskin.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "הובא",
+      "gloss": "tuotu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen verta"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "sen verta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…hon"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pyhäkkö"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "sisäpuolelle"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "syömällä"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "teidän olisi pitänyt syödä"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sen"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "pyhässä"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kuten"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "minä käskin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:52:25.376466548Z",
+  "model": "glm-5.3"
+}

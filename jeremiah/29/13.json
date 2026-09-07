@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja te etsitte minua ⟨את⟩ ja löydätte minut, sillä te etsitte minua koko sydämellänne.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "ja te etsitte"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ minua",
+      "marks": "minua"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "ja löydätte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "te etsitte minua"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "sydämellänne"
+    }
+  ],
+  "timestamp": "2026-09-07T00:38:29.230864664Z",
+  "model": "glm-5.3"
+}

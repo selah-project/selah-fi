@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Sinulta ⟨את⟩ tulee ylistykseni suuressa kansanjoukossa; lupaukseni minä täytän niiden edessä, jotka häntä pelkäävät.",
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ sinulta",
+      "marks": "sinulta"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "ylistykseni"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "kansanjoukossa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "suuressa"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "lupaukseni"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "täytän"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "jotka häntä pelkäävät"
+    }
+  ],
+  "timestamp": "2026-09-07T01:58:32.914253469Z",
+  "model": "glm-5.3"
+}

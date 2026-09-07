@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 124,
+  "translation": "silloin vedet olisivat meidät hukuttaneet, virta olisi kulkenut yli meidän nefeshemme;",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "silloin"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vedet"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "olisivat meidät hukuttaneet"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "virta"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "olisi kulkenut yli"
+    },
+    {
+      "surface": "על",
+      "gloss": "yli"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "meidän nefeshemme"
+    }
+  ],
+  "timestamp": "2026-09-07T02:49:30.787163922Z",
+  "model": "glm-5.3"
+}

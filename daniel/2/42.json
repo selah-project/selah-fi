@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "daniel 2:42",
+  "book": "daniel",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja varpaat, jalat — osa rautaa ja osa savea: valtakunnasta osa tulee vahva ja osa siitä tulee särkyvä.",
+  "tokens": [
+    {
+      "surface": "ואצבעת",
+      "gloss": "Ja varpaat"
+    },
+    {
+      "surface": "רגליא",
+      "gloss": "jalat"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "osa"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "rautaa"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "ja osa"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "savea"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—"
+    },
+    {
+      "surface": "קצת",
+      "gloss": "osaa"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "valtakunnasta"
+    },
+    {
+      "surface": "תהוה",
+      "gloss": "tulee"
+    },
+    {
+      "surface": "תקיפה",
+      "gloss": "vahva"
+    },
+    {
+      "surface": "ומנה",
+      "gloss": "ja osaa"
+    },
+    {
+      "surface": "תהוה",
+      "gloss": "tulee"
+    },
+    {
+      "surface": "תבירה",
+      "gloss": "särkyvä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:46:10.240467779Z",
+  "model": "glm-5.3"
+}

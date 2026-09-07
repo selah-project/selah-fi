@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja te huudatte minua ⟨את⟩, ja te kuljette, ja te rukoilette minua, ja minä kuulen teitä.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "Ja te huudatte"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ minua",
+      "marks": "minua"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "ja te kuljette"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "ja te rukoilette"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minua"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "ja minä kuulen"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "teitä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:37:20.598834039Z",
+  "model": "glm-5.3"
+}

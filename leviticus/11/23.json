@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 11:23",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja kaikki lentävä pieneläin, jolla on neljä jalkaa, on iljettävä teille.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ja kaikki"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "pieneläin"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "lentävä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jolla"
+    },
+    {
+      "surface": "לו",
+      "gloss": "on"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "neljä"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "jalkaa"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "iljettävä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    }
+  ],
+  "timestamp": "2026-09-06T21:50:28.797009669Z",
+  "model": "glm-5.3"
+}

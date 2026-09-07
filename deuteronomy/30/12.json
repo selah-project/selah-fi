@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 30:12",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ei se ole taivaissa, niin että sanoisit: Kuka nousee meidän puolestamme taivaisiin ja ottaa sen meidän puolestamme ja antaa meille ⟨את⟩ sen kuuluvaksi, että me sen tekisimme?",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ei"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "taivaissa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoaksesi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "nousee"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meidän puolestamme"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "taivaisiin"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "ja ottaa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meidän puolestamme"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "ja antaa kuuluvaksi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sen"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "että me sen tekisimme"
+    }
+  ],
+  "timestamp": "2026-09-06T22:36:14.184132803Z",
+  "model": "glm-5.3"
+}

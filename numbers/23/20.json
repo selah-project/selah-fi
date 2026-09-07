@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 23:20",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Katso, siunata minä olen saanut, ja hän siunaa, enkä minä sitä peruuta.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "siunata"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "olen saanut"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "ja hän siunaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אשיבנה",
+      "gloss": "peruuta sitä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:16:01.846370539Z",
+  "model": "glm-5.3"
+}

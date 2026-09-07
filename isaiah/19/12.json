@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 19:12",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Missä ne nyt ovat, viisaasi? Ja ilmoittakoot ne nyt sinulle ja tietäkööt, mitä Jahve Sebaot on neuvonut Mitsrajimin (Egyptin) ylle.",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "missä"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "חכמיך",
+      "gloss": "viisaasi"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ja ilmoittakoot"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ja tietäkööt"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "on neuvonut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaot"
+    },
+    {
+      "surface": "על",
+      "gloss": "ylle"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin (Egyptin)"
+    }
+  ],
+  "timestamp": "2026-09-07T00:05:51.747828373Z",
+  "model": "glm-5.3"
+}

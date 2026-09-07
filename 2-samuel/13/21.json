@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja kuningas David kuuli ⟨את⟩ kaikki nämä sanat, ja hänelle syttyi viha kovin.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Ja kuningas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kuuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki nämä sanat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ja hänelle syttyi viha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kovin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:23:27.046479112Z",
+  "model": "glm-5.3"
+}

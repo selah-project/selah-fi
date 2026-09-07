@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 48:3",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 48,
+  "translation": "Aiemmat asiat julistin jo muinaisajoista, ja suustani ne lähtivät, ja minä ilmoitin ne; yhtäkkiä minä tein, ja ne tulivat.",
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "Aiemmat asiat"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "jo muinaisajoista"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "julistin"
+    },
+    {
+      "surface": "ומפי",
+      "gloss": "ja suustani"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ne lähtivät"
+    },
+    {
+      "surface": "ואשמיעם",
+      "gloss": "ja minä ilmoitin ne"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "yhtäkkiä"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "minä tein"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "ja ne tulivat"
+    }
+  ],
+  "timestamp": "2026-09-07T00:17:35.419664147Z",
+  "model": "glm-5.3"
+}

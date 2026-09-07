@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Lunasta, Elohim, ⟨את⟩ Israelin kaikista ahdistuksistaan.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "lunasta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kaikista"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "ahdistuksistaan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:59:42.174929569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 33:15",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Ja hän poisti ⟨את⟩ vieraiden jumalat ja ⟨את⟩ epäjumalankuvan Jahven talosta, ja kaikki alttarit, jotka hän oli rakentanut Jahven talon vuorelle ja Jerushalajimiin, ja hän heitti ne kaupungin ulkopuolelle.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "Ja hän poisti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vieraiden jumalat"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "jumalat"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "vieraiden"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "epäjumalankuvan"
+    },
+    {
+      "surface": "הסמל",
+      "gloss": "epäjumalankuvan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "talosta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "alttarit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "oli rakentanut"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "vuorelle"
+    },
+    {
+      "surface": "בית",
+      "gloss": "taloin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "ja Jerushalajimiin"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "ja hän heitti"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "ulkopuolelle"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kaupungin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:52:50.029801418Z",
+  "model": "glm-5.3"
+}

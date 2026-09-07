@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Kaksitoista me olemme veljeksiä, isämme poikia; yksi ei ole enää, ja nuorin on tänään ⟨את⟩ isämme kanssa Kenaanin maassa.”",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "toista"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "me"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "veljeksiä"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikia"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "isämme"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ei ole enää"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "ja nuorin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tänään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isämme kanssa"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "isämme"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaanin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:25:34.541574180Z",
+  "model": "glm-5.3"
+}

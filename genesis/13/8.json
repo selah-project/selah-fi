@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 13:8",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja Avram sanoi Lotille: Älköön olko riitaa minun ja sinun välilläni enkä minun ja sinun paimentesi välillä, sillä me olemme miehiä, veljiä.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Lotille"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lotille"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Älköön"
+    },
+    {
+      "surface": "נא",
+      "gloss": "pyydän"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "olko"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "riitaa"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "minun"
+    },
+    {
+      "surface": "וביניך",
+      "gloss": "ja sinun välilläni"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "minun paimeneni"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "sinun paimenesi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "miehiä"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "veljiä"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "me olemme"
+    }
+  ],
+  "timestamp": "2026-09-06T21:09:27.758499800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 50:5",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 50,
+  "translation": "Isäni vannotti minut sanoen: Katso, minä kuolen; hautaan, jonka kaivin itselleni Kenaanin maassa, sinne sinä minut haudataat. Ja nyt anna minun mennä ylös, minä pyydän, ja haudata ⟨את⟩ isäni, ja palata.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Isäni"
+    },
+    {
+      "surface": "השביעני",
+      "gloss": "vannotti minut"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "מת",
+      "gloss": "kuolen"
+    },
+    {
+      "surface": "בקברי",
+      "gloss": "hautaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "כריתי",
+      "gloss": "kaivin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "itselleni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaanin"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sinne"
+    },
+    {
+      "surface": "תקברני",
+      "gloss": "sinä minut haudataat"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Ja nyt"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "anna minun mennä ylös"
+    },
+    {
+      "surface": "נא",
+      "gloss": "minä pyydän"
+    },
+    {
+      "surface": "ואקברה",
+      "gloss": "ja haudata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isäni"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "isäni"
+    },
+    {
+      "surface": "ואשובה",
+      "gloss": "ja palata"
+    }
+  ],
+  "timestamp": "2026-09-06T21:27:40.473601168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ääni sanoo: ”Huuda!” Ja hän sanoi: ”Mitä minä huudaan?” ”Kaikki liha ⟨on⟩ ruohoa, ja kaikki sen hesed ⟨on⟩ niityn kukkaa.”",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Ääni"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Huuda"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mitä"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "minä huudaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "liha"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ruohoa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sen hesed"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "niityn kukkaa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "niityn"
+    }
+  ],
+  "timestamp": "2026-09-07T00:13:54.527145897Z",
+  "model": "glm-5.3"
+}

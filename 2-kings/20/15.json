@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 20:15",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja hän sanoi: Mitä he näkivät talossasi? Ja Hizkijahu sanoi: ⟨את⟩ kaiken, mikä talossani on, he näkivät; ei ollut mitään, mitä en olisi heille näyttänyt varastoissani.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "he näkivät"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "talossasi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkijahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken, mikä talossani on"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mikä"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "talossani"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "he näkivät"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ollut"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mitään"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "הראיתם",
+      "gloss": "näyttänyt heille"
+    },
+    {
+      "surface": "באצרתי",
+      "gloss": "varastoissani"
+    }
+  ],
+  "timestamp": "2026-09-06T23:57:35.740919236Z",
+  "model": "glm-5.3"
+}

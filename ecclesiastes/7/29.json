@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ecclesiastes 7:29",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Vain katso, tämän löysin: että Elohim teki ⟨את⟩ ihmisen suoraksi, mutta he etsivät ⟨itselleen⟩ monta juonta.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "vain"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "katso"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "löysin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "että"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihmisen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihmisen"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "suoraksi"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "mutta he"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "etsivät"
+    },
+    {
+      "surface": "חשבנות",
+      "gloss": "juonia"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "monta"
+    }
+  ],
+  "timestamp": "2026-09-07T04:07:15.776506434Z",
+  "model": "glm-5.3"
+}

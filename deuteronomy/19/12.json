@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "niin hänen kaupunkinsa vanhimmat lähettävät ja ottavat ⟨אתו⟩ hänet sieltä ja antavat ⟨אתו⟩ hänet veren lunastajan käteen, ja hän kuolee.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "niin ... lähettävät"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vanhimmat"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "hänen kaupunkinsa"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "ja ottavat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "marks": "hänet sieltä"
+    },
+    {
+      "surface": "משם",
+      "gloss": "sieltä"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ja antavat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "marks": "hänet veren lunastajan käteen"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käteen"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "lunastajan"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "veren"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ja hän kuolee"
+    }
+  ],
+  "timestamp": "2026-09-07T07:21:08.691860527Z",
+  "model": "glm-5.3"
+}

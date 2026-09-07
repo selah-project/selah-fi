@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 79,
+  "translation": "Kaada vihasi päälle niiden kansojen, jotka eivät sinua tunne, ja niiden kuningaskuntien päälle, jotka eivät huuda sinun nimelläsi.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Kaada"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "vihasi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kansojen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "sinua tunne"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja päälle"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "kuningaskuntien"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "sinun nimelläsi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "huuda"
+    }
+  ],
+  "timestamp": "2026-09-07T02:25:31.452046324Z",
+  "model": "glm-5.3"
+}

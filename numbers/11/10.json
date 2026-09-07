@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 11:10",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja Moshe kuuli ⟨את⟩ kansan itkevän perhekunnittain, jokainen telttansa ovella, ja Jahven nenä syttyi kovin, ja Moshen silmissä ⟨se oli⟩ pahaa.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Ja kuuli"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "itkevän"
+    },
+    {
+      "surface": "למשפחתיו",
+      "gloss": "perhekunnittain"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jokainen"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "ovella"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "telttansa"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ja syttyi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nenä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kovin"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "ja silmissä"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshen"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pahaa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:10:16.007107928Z",
+  "model": "glm-5.3"
+}

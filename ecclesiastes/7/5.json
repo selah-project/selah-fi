@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 7:5",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Parempi kuulla viisaan nuhtelu kuin se, että mies kuulee hullujen laulun.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Parempi"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "kuulla"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "nuhtelu"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "viisaan"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "kuin se, että mies"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kuulee"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "laulun"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "hullujen"
+    }
+  ],
+  "timestamp": "2026-09-07T04:38:15.873756496Z",
+  "model": "glm-5.3"
+}

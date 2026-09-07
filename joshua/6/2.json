@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja Jahve sanoi Jehoshualle (Joosua): Katso, minä olen antanut käteesi ⟨את⟩ Jerikon ja ⟨את⟩ sen kuninkaan, voiman sankarit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshualle"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "minä olen antanut"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "käteesi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerikon"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jerikon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen kuninkaan"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "sen kuninkaan"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "sankarit"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "voiman"
+    }
+  ],
+  "timestamp": "2026-09-06T22:41:15.155481196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "mutta jos ette, niin tulenkoon lähtemään Avimelekhista (Abimelek) ja syköön ⟨את⟩ Shekemin (Sikem) herrot ja ⟨את⟩ Beit Millon, ja tulenkoon lähtemään Shekemin herroista ja Beit Millolta ja syköön ⟨את⟩ Avimelekhin.”",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "mutta jos"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ette"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "tulenkoon lähtemään"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "Avimelekhista"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ja syköön"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekemin herrot"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "herrojen"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Beit Millon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Millon"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "ja tulenkoon lähtemään"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "herroista"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemin"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "ja elggömön"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Millolta"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ja syköön"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelekhin"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekhin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:57:13.329738611Z",
+  "model": "glm-5.3"
+}

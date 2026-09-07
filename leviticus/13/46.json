@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 13:46",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Kaikkina päivinä, joina tauti on hänessä, hän ⟨on⟩ saastainen; saastainen hän ⟨on⟩: erillään hän istukoon, leirin ulkopuolella olkoon hänen asuinsijansa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kaikkina"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päivinä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joina"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "tauti"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hänessä"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "hän on saastainen"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "saastainen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "erillään"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "istukoon"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ulkopuolella"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "leirin"
+    },
+    {
+      "surface": "מושבו",
+      "gloss": "hänen asuinsijansa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:52:25.043338117Z",
+  "model": "glm-5.3"
+}

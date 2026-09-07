@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Lähetä leipäsi vetten pinnalle, sillä monen päivien kuluttua löydät sen.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Lähetä"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "leipäsi"
+    },
+    {
+      "surface": "על",
+      "gloss": "alle"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pinnalle"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vetten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "monen"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "päivien kuluttua"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "löydät sen"
+    }
+  ],
+  "timestamp": "2026-09-07T04:38:38.304814806Z",
+  "model": "glm-5.3"
+}

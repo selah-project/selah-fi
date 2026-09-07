@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Kaikki jotka näkevät minut, pilkkaavat minua, irvistävät huulella, pudistavat päätä:",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "jotka näkevät"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "pilkkaavat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minua"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "irvistävät"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "huulella"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "pudistavat"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "päätä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:56:45.671408591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja Barak sanoi hänelle: Jos lähdet kanssani, minä lähden; mutta jos et lähdä kanssani, minä en lähdä.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "lähdet"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kanssani"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "minä lähden"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mutta jos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "et"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "lähdet"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kanssani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "lähdä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:54:34.990651478Z",
+  "model": "glm-5.3"
+}

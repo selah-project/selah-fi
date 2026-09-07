@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "”Repikäämme irti ⟨את⟩ heidän kahleensa ja heittäkäämme pois hänestä heidän köytensä.”",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "Repikäämme irti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän kahleensa"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "heidän kahleensa"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "ja heittäkäämme pois"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "hänestä"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "heidän köytensä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:52:35.401955230Z",
+  "model": "glm-5.3"
+}

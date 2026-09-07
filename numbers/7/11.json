@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja Jahve sanoi Mosheelle: yksi päämies päivässä, yksi päämies päivässä, he tuokoot ⟨את⟩ uhrilahjansa alttarin vihkimiseksi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mosheelle"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheel"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "yksi päämies"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "päivässä"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "yksi päämies"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "päivässä"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "he tuokoot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uhrilahjansa"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "uhrilahjansa"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "vihkimiseksi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:05:31.074731867Z",
+  "model": "glm-5.3"
+}

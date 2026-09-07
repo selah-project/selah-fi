@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 63,
+  "translation": "Miksi ⟨on⟩ punainen vaatteesi, ja yösi vaatteet kuin viinikuurnaa polkijan?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Miksi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "punainen"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "vaatteesi"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "ja yösi vaatteet"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "kuin polkijan"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "viinikuurnassa"
+    }
+  ],
+  "timestamp": "2026-09-07T00:21:54.189983049Z",
+  "model": "glm-5.3"
+}

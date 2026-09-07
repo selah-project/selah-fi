@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja Israelin pojat leiriytyivät Gilgaliin ja tekivät ⟨את⟩ pesah-juhlan kuukauden neljäntenätoista päivänä illalla Jerichon (Jeriko) tasangoilla.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "Ja leiriytyivät"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "Gilgaliin"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ja tekivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesah-juhlan"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesah-juhlan (pääsiäinen)"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "neljäntenä"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "toista"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "kuukauden"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "illalla"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "tasangoilla"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jerichon (Jeriko)"
+    }
+  ],
+  "timestamp": "2026-09-06T22:39:35.123120015Z",
+  "model": "glm-5.3"
+}

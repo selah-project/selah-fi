@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Kuule rukousteni ääni, kun minä huudan sinun tykösi, kun nostan käteni sinun pyhää debiriäsi ⟨sisäpyhäkköäsi⟩ kohti.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Kuule"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ääni"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "rukousteni"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "kun minä huudan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinun tykösi"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "kun nostan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "käteni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "debiriäsi"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "pyhää"
+    }
+  ],
+  "timestamp": "2026-09-07T04:31:04.211493852Z",
+  "model": "glm-5.3"
+}

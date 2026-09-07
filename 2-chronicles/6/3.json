@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 6:3",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja kuningas käänsi ⟨את⟩ kasvonsa ja siunasi ⟨את⟩ koko Israelin seurakunnan, ja koko Israelin seurakunta seisoi.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "Ja käänsi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasvonsa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "kasvonsa"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ja siunasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko Israelin seurakunnan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "seurakunnan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja koko"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "seurakunta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "seisoi"
+    }
+  ],
+  "timestamp": "2026-09-07T05:32:06.457763919Z",
+  "model": "glm-5.3"
+}

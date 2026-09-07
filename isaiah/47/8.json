@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 47:8",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 47,
+  "translation": "Ja nyt kuule tämä, sinä hekumoinen, joka istut turvassa, joka sanot sydämessäsi: ”Minä olen, eikä minun rinnallani ole ketään”; en istu leskenä enkä tunne lapsenmenetystä.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ja nyt"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "kuule"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "עדינה",
+      "gloss": "hekumoinen"
+    },
+    {
+      "surface": "היושבת",
+      "gloss": "joka istut"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "turvassa"
+    },
+    {
+      "surface": "האמרה",
+      "gloss": "joka sanot"
+    },
+    {
+      "surface": "בלבבה",
+      "gloss": "sydämessäsi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Minä olen"
+    },
+    {
+      "surface": "ואפסי",
+      "gloss": "eikä minun rinnallani ole"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ketään"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "istu"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "leskenä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "tunne"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "lapsenmenetystä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:17:30.208039387Z",
+  "model": "glm-5.3"
+}

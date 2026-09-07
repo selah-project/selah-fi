@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 23:18",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Älä uhraa hapatetun päällä uhrini verta, älköön juhlani rasva jääkö aamuun asti.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "uhraa"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "hapatetun"
+    },
+    {
+      "surface": "דם",
+      "gloss": "verta"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "uhrini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "älköön"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "jääkö"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "rasva"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "juhlani"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "aamuun"
+    }
+  ],
+  "timestamp": "2026-09-06T21:38:01.491400213Z",
+  "model": "glm-5.3"
+}

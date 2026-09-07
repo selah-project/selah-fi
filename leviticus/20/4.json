@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 20:4",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja jos maan kansa salaa silmänsä ⟨את⟩ miehestä, kun hän antaa siemenestään Molekille, niin ettei häntä ⟨את⟩ surmata,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ja jos"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "salaa"
+    },
+    {
+      "surface": "יעלימו",
+      "gloss": "salaavat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "silmänsä"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "silmänsä"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…sta"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "miehestä"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sen"
+    },
+    {
+      "surface": "בתתו",
+      "gloss": "kun hän antaa"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "siemenestään"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Molekille"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "niin ettei"
+    },
+    {
+      "surface": "המית",
+      "gloss": "surmata"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "häntä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:58:03.101384082Z",
+  "model": "glm-5.3"
+}

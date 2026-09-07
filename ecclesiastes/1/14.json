@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Minä näin ⟨את⟩ kaikki työt, jotka on tehty auringon alla, ja katso: kaikki ⟨on⟩ turhuutta ja tuulen tavoittelua.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Minä näin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki työt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "työt"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "jotka on tehty"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alla"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "auringon"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "turhuutta"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ja tavoittelua"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "tuulen"
+    }
+  ],
+  "timestamp": "2026-09-07T04:06:06.151479899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 95,
+  "translation": "Tulkaa, kumartukaamme ja polvistukaamme, laskekaamme polvemme Jahven, meidän Tekijämme, eteen.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Tulkaa"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "kumartukaamme"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "ja polvistukaamme"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "laskekaamme polvemme"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "meidän Tekijämme"
+    }
+  ],
+  "timestamp": "2026-09-07T02:33:34.963422749Z",
+  "model": "glm-5.3"
+}

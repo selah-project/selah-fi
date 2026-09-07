@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 13:7",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja nyt jaa ⟨את⟩ tämä maa perintönä yhdeksälle sukukunnalle ja Menashen sukukunnan puolelle.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ja nyt"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "jaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämä maa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "perintönä"
+    },
+    {
+      "surface": "לתשעת",
+      "gloss": "yhdeksälle"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "sukukunnalle"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ja puolet"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "sukukunnan"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "Menashen"
+    }
+  ],
+  "timestamp": "2026-09-06T22:44:57.984504541Z",
+  "model": "glm-5.3"
+}

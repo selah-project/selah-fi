@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja tapahtui, että koko maalla oli yksi huuli ⟨eli kieli⟩ ja yhtenäiset sanat.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "huuli"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "ja sanat"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "yhtenäiset"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:47.390186461Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 14:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Kuka antaisi Tsijonista (Siionista) Israelin pelastuksen! Kun Jahve kääntää kansansa kohtalon, riemuitkoon Ja'akov (Jaakob), iloitkoon Israel!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kuka"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "antaisi"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Tsijonista (Siionista)"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "pelastuksen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "kun... kääntää"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "kohtalon"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kansansa"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "riemuitkoon"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akov (Jaakob)"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "iloitkoon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-07T01:54:55.662700597Z",
+  "model": "glm-5.3"
+}

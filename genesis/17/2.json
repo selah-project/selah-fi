@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja asetan liittoni ⟨minun⟩ ja ⟨sinun⟩ väliin, ja teen sinut sangen suureksi, hyvin suureksi.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Ja asetan"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "liittoni"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "⟨minun⟩...väliin"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "ja ⟨sinun⟩"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "ja teen suureksi"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "sinut"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "sangensuuresti"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hyvin suuresti"
+    }
+  ],
+  "timestamp": "2026-09-06T21:11:30.400214736Z",
+  "model": "glm-5.3"
+}

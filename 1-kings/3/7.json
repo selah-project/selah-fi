@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja nyt, Jahve, Elohimini: sinä olet pannut ⟨את⟩ palvelijasi Davidin, isäni, sijaan — ja minä olen pieni nuori, en osaa lähteä enkä tulla.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ja nyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimini"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "pannut kuninkaaksi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palvelijasi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "palvelijasi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sijaan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "isäni"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ja minä"
+    },
+    {
+      "surface": "נער",
+      "gloss": "nuori"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "pieni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "osaa"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "lähteä"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "enkä tulla"
+    }
+  ],
+  "timestamp": "2026-09-06T23:34:07.081123077Z",
+  "model": "glm-5.3"
+}

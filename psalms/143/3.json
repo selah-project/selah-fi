@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 143,
+  "translation": "Sillä vihollinen ajaa takaa nefeshini (elämääni), hän murskasi elämäni maahan, hän pani minut asumaan pimeyksissä, kuin muinaiset kuolleet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "ajaa takaa"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "vihollinen"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshini"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "murskasi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "elämäni"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "pani minut asumaan"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "pimeyksissä"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "kuin kuolleet"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "muinaiset"
+    }
+  ],
+  "timestamp": "2026-09-07T02:55:12.040692029Z",
+  "model": "glm-5.3"
+}

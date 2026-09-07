@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 101,
+  "translation": "Minä tahdon toimia viisaasti täydellisessä tiessä. Milloin sinä tulet luokseni? Minä tahdon vaeltaa sydämeni viattomuudessa taloni keskellä.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "toimin viisaasti"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tiellä"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "täydellisessä"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "milloin"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "tulet"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "luokseni"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "vaellan"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "viattomuudessa"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "sydämeni"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "keskellä"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "taloni"
+    }
+  ],
+  "timestamp": "2026-09-07T02:37:23.195604031Z",
+  "model": "glm-5.3"
+}

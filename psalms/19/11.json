@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ne ⟨ovat⟩ himoisemmat kuin kulta, ja kuin runsas kullanjyvä; ja makeammat kuin hunaja ja kennojen mesi.",
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "himoisemmat"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "kuin kulta"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "ja kuin kullanjyvä"
+    },
+    {
+      "surface": "רב",
+      "gloss": "runsas"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "ja makeammat"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "kuin hunaja"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "ja mesi"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "kennojen"
+    }
+  ],
+  "timestamp": "2026-09-07T01:56:53.084276929Z",
+  "model": "glm-5.3"
+}

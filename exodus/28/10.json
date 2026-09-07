@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "kuusi heidän nimistään ⟨את⟩ toiselle kivelle, ja jäljelle jäävien kuuden nimet toiselle kivelle heidän syntymäjärjestyksensä mukaan.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "kuusi"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "heidän nimistään"
+    },
+    {
+      "surface": "על",
+      "gloss": "-lle"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "kivelle"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "toiselle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "nimet"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nimet"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "kuuden"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "jäljelle jäävien"
+    },
+    {
+      "surface": "על",
+      "gloss": "-lle"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "kivelle"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "toiselle"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "heidän syntymäjärjestyksensä mukaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:39:38.959655438Z",
+  "model": "glm-5.3"
+}

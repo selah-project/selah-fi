@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 4:23",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja Elohim nöyryytti sinä päivänä ⟨את⟩ Javinin, Kenaanin kuninkaan, Israelin lasten edessä.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "ja nöyryytti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sinä päivänä"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Javinin"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "Javinin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaanin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:54:22.059098786Z",
+  "model": "glm-5.3"
+}

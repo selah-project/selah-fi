@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 36,
+  "translation": "Kuoroenjohtajalle. Jahven palvelijalle, Davidille ⟨Daavid⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kuoroenjohtajalle"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "palvelijalle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidille"
+    }
+  ],
+  "timestamp": "2026-09-07T02:04:34.123028738Z",
+  "model": "glm-5.3"
+}

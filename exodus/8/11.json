@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja Paro näki, että helpotus oli tullut, ja hän raskautti ⟨את⟩ sydäntään eikä kuunnellut heitä, niin kuin Jahve oli puhunut.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ja näki"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oli tullut"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "helpotus"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "ja raskautti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sydäntään"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sydäntään"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kuunnellut"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "heitä"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oli puhunut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-06T21:31:26.714671963Z",
+  "model": "glm-5.3"
+}

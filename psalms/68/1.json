@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 68,
+  "translation": "Kuorunjohtajalle; Davidin (Daavid) psalmi, laulu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kuorunjohtajalle"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalmi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "laulu"
+    }
+  ],
+  "timestamp": "2026-09-07T02:17:58.589682904Z",
+  "model": "glm-5.3"
+}

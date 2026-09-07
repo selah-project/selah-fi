@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Katso, minä olen kutsunut nimeltä Betsalelin, Urin pojan, Hurin pojan, Juudan heimosta.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "olen kutsunut"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nimeltä"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalelin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Urin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Hurin"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "heimosta"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juudan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:41:58.049916279Z",
+  "model": "glm-5.3"
+}

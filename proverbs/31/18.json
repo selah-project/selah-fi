@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 31:18",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Hän maistoi ja näki, että ⟨on⟩ hyvä hänen kauppansa; hänen lamppunsa ei sammu yöllä.",
+  "tokens": [
+    {
+      "surface": "טעמה",
+      "gloss": "maistoi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvä"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "hänen kauppansa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "sammu"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "yöllä"
+    },
+    {
+      "surface": "נרה",
+      "gloss": "hänen lamppunsa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:21:15.959168723Z",
+  "model": "glm-5.3"
+}

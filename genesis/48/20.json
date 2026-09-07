@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 48:20",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 48,
+  "translation": "Ja hän siunasi heidät sinä päivänä, sanoen: Sinussa Israel siunaa sanoen: Asettakoon Elohim sinut niin kuin Efrayimin ja niin kuin Menashen. Ja hän asetti ⟨את⟩ Efrayimin Menashen eteen.",
+  "tokens": [
+    {
+      "surface": "ויברכם",
+      "gloss": "Ja hän siunasi heidät"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sinä päivänä"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "jona"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinussa"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "siunaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "ישמך",
+      "gloss": "asettakoon sinut"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כאפרים",
+      "gloss": "niin kuin Efrayimin"
+    },
+    {
+      "surface": "וכמנשה",
+      "gloss": "ja niin kuin Menashen"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ja hän asetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayimin"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:27:19.321218792Z",
+  "model": "glm-5.3"
+}

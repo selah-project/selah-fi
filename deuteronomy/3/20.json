@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 3:20",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Kunnes Jahve antaa levän veljillenne, niinkuin teillekin, ja hekin ottavat haltuun ⟨את⟩ maan, jonka Jahve, Elohiminne, antaa heille Yardenin toisella puolella; sitten te palaatte, kukin omaan perintöönsä, jonka minä olen antanut teille.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יניח",
+      "gloss": "antaa levän"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "veljillenne"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "niinkuin teillekin"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "ja ottavat haltuun"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "הם",
+      "gloss": "he"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminne"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "antaa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "toisella puolella"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardenin"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "ja te palaatte"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kukin"
+    },
+    {
+      "surface": "לירשתו",
+      "gloss": "omaan perintöönsä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "olen antanut"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    }
+  ],
+  "timestamp": "2026-09-06T22:23:30.973776684Z",
+  "model": "glm-5.3"
+}

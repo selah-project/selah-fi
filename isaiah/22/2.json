@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 22:2",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "täynnä melskettä, kohiseva kaupunki, riemuitseva kaupunki: sinun kaatuneesi eivät ole miekalla kaatuneita eivätkä taistelussa kuolleita.",
+  "tokens": [
+    {
+      "surface": "תשאות",
+      "gloss": "melskettä"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "täynnä"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kaupunki"
+    },
+    {
+      "surface": "הומיה",
+      "gloss": "kohiseva"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "kaupunki"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "riemuitseva"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "sinun kaatuneesi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "kaatuneita"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "miekalla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kuolleita"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "taistelussa"
+    }
+  ],
+  "timestamp": "2026-09-07T00:06:58.967903971Z",
+  "model": "glm-5.3"
+}

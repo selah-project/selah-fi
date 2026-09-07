@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja kaikki päivät, jotka Adam eli, ⟨olivat⟩ yhdeksänsataa vuotta ja kolmekymmentä vuotta, ja hän kuoli.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päivät"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "חי",
+      "gloss": "eli"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "yhdeksän"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sataa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ja kolmekymmentä"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ja hän kuoli"
+    }
+  ],
+  "timestamp": "2026-09-06T21:05:16.770628079Z",
+  "model": "glm-5.3"
+}

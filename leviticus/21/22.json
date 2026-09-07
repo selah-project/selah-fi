@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Leipää Elohiminsa hän saa syödä sekä kaikkein pyhimmistä että pyhistä.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohiminsa"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "kaikkein pyhimmistä"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "pyhistä"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ja …stä"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "pyhistä"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "hän syö"
+    }
+  ],
+  "timestamp": "2026-09-06T21:57:17.638644642Z",
+  "model": "glm-5.3"
+}

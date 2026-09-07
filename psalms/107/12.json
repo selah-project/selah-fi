@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 107,
+  "translation": "ja hän nöyryytti vaivalla heidän sydämensä; he kompastuivat, eikä auttajaa ollut.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "ja hän nöyryytti"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "vaivalla"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "heidän sydämensä"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "he kompastuivat"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "auttajaa oli"
+    }
+  ],
+  "timestamp": "2026-09-07T02:38:24.124363951Z",
+  "model": "glm-5.3"
+}

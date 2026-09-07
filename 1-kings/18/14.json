@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 18:14",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja nyt sinä sanot: ’Mene, sano herrallesi: Katso, Elija (Elia) on täällä’ — ja hän tappaa minut.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ja nyt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanot"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Mene"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sano"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "herrallesi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elija"
+    },
+    {
+      "surface": "והרגני",
+      "gloss": "ja hän tappaa minut"
+    }
+  ],
+  "timestamp": "2026-09-06T23:43:31.077157605Z",
+  "model": "glm-5.3"
+}

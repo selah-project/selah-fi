@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Miksi, Jahve, seisot kaukana, piilotut ahdistuksen aikoina?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Miksi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "seisot"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "kaukana"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "piilotut"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "aikoina"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "ahdistuksen"
+    }
+  ],
+  "timestamp": "2026-09-07T04:30:06.231343247Z",
+  "model": "glm-5.3"
+}

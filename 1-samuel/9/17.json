@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 9:17",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja Shmuel näki ⟨את⟩ Shaulin, ja Jahve vastasi häntä: ”Katso, mies, josta minä puhuin sinulle — tämä hallitsee kansaani.”",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Ja Shmuel"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "näki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaulin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulin"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ja Jahve"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "vastasi häntä"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "josta"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "minä puhuin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "hallitsee"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "kansaani"
+    }
+  ],
+  "timestamp": "2026-09-07T04:19:26.739630813Z",
+  "model": "glm-5.3"
+}

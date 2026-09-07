@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 26:15",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "ja jos ylönkatsolette säädökseni, ja jos ⟨את⟩ oikeuteni teidän sielunne kammoksuu, niin ettekä tee ⟨את⟩ kaikkia käskyjäni, rikkoaksenne ⟨את⟩ Beritini (liittoni),",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ja jos"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "säädökseni"
+    },
+    {
+      "surface": "תמאסו",
+      "gloss": "ylönkatso"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ja jos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oikeuteni"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "oikeuteni"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "kammoksuu"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "sielunne"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ette"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "tekisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikkia käskyjäni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkia"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "käskyjäni"
+    },
+    {
+      "surface": "להפרכם",
+      "gloss": "rikkoaksenne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beritini"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "Beritini"
+    }
+  ],
+  "timestamp": "2026-09-07T04:14:44.274930239Z",
+  "model": "glm-5.3"
+}

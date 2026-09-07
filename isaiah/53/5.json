@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 53:5",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 53,
+  "translation": "Ja hän ⟨on⟩ lävistetty meidän rikkomustemme tähden, murskattu meidän pahain tekoinemme; meidän rauhamme rangaistus oli hänen päällään, ja hänen haavoinaan meidät on parannettu.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Ja hän"
+    },
+    {
+      "surface": "מחלל",
+      "gloss": "lävistetty"
+    },
+    {
+      "surface": "מפשענו",
+      "gloss": "meidän rikkomustemme"
+    },
+    {
+      "surface": "מדכא",
+      "gloss": "murskattu"
+    },
+    {
+      "surface": "מעונתינו",
+      "gloss": "meidän pahain tekoinemme"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "rangaistus"
+    },
+    {
+      "surface": "שלומנו",
+      "gloss": "meidän rauhamme"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hänen päällään"
+    },
+    {
+      "surface": "ובחברתו",
+      "gloss": "ja hänen haavoinansa"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "on parannettu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meidät"
+    }
+  ],
+  "timestamp": "2026-09-07T00:19:49.640837759Z",
+  "model": "glm-5.3"
+}

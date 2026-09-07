@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja minä asetan ⟨את⟩ kasvoni sitä miestä vastaan ja hänen sukuaan vastaan, ja hävitän ⟨את⟩ hänet ja ⟨את⟩ kaikki, jotka hänen jäljessään harjoittavat haureutta, haureutta harjoittaakseen Molekin (Moolok) jälkeen, heidän kansansa keskeltä.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "ja asetan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasvoni"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kasvoni"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "sitä miestä vastaan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sitä"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "ja hänen sukuaan vastaan"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ja hävitän"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "jotka harjoittavat haureutta"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "hänen jäljessään"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "haureutta harjoittaakseen"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "jälkeen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Molekin"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "keskeltä"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "heidän kansansa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:56:51.319608330Z",
+  "model": "glm-5.3"
+}

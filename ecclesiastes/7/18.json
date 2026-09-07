@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Hyvä on, että pidät kiinni tästä, ja myös tuosta älä irroita ⟨את⟩ kättäsi; sillä Elohimia pelkäävä selviytyy ⟨את⟩ niistä kaikista.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "hyvä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "että"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "pidät kiinni"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "tämästä"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja myös"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "tuosta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "irroita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kättäsi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kättäsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "pelkäävä"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimia"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "selviytyy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niistä kaikista"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "kaikista"
+    }
+  ],
+  "timestamp": "2026-09-07T04:39:10.687053333Z",
+  "model": "glm-5.3"
+}

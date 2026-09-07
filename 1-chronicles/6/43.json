@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja ⟨את⟩ Hilenin ja ⟨את⟩ sen laitumet, ⟨את⟩ Devirin ja ⟨את⟩ sen laitumet.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Hilenin"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "Hilenin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen laitumet"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "sen laitumet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Devirin"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Devirin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen laitumet"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "sen laitumet"
+    }
+  ],
+  "timestamp": "2026-09-07T05:15:46.971476437Z",
+  "model": "glm-5.3"
+}

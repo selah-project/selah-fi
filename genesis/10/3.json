@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja Gomerin pojat: Ashkenaz ja Rifat ja Togarma.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ja … pojat"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomerin"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Ashkenaz"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "ja Rifat"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "ja Togarma"
+    }
+  ],
+  "timestamp": "2026-09-06T21:07:15.288615468Z",
+  "model": "glm-5.3"
+}

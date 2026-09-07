@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 122,
+  "translation": "Laulu nousuista, Davidille (Daavid). Minä iloitsin, kun he sanoivat minulle: Jahven huoneeseen me menemme.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Laulu"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "nousuista"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidille (Daavid)"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "Minä iloitsin"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "kun he sanoivat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneeseen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "me menemme"
+    }
+  ],
+  "timestamp": "2026-09-07T02:49:59.460613740Z",
+  "model": "glm-5.3"
+}

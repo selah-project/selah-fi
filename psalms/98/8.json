@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 98,
+  "translation": "Joet lyökööt käsiään, yhdessä vuoret riemuitkaat.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "joet"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "lyökööt"
+    },
+    {
+      "surface": "כף",
+      "gloss": "käsiään"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "yhdessä"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "vuoret"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "riemuitkaat"
+    }
+  ],
+  "timestamp": "2026-09-07T02:35:43.193560849Z",
+  "model": "glm-5.3"
+}

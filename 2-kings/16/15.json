@@ -1,0 +1,187 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 16:15",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja kuningas Ahaz käski ⟨את⟩ Urijaa (Uria), pappia, sanoen: Suurella alttarilla suitsuta ⟨את⟩ aamun polttouhri ja ⟨את⟩ illan jauhouhri, ja ⟨את⟩ kuninkaan polttouhri ja ⟨את⟩ hänen jauhouhrinsa, ja ⟨את⟩ koko maan kansan polttouhri, sekä heidän jauhouhrinsa ja juomiuhrinsa; ja kaiken polttouhrin veren ja kaiken teurastuhrin veren vihmo sille. Ja vaskialttari olkoon minulle tiedustelua varten.",
+  "tokens": [
+    {
+      "surface": "ויצוהו",
+      "gloss": "ja käski häntä"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urijaa"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urijaa (Uria)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pappia"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarilla"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "suurella"
+    },
+    {
+      "surface": "הקטר",
+      "gloss": "suitsuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aamun polttouhrin"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "polttouhrin"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "aamun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "illan jauhouhrin"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "jauhouhrin"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "illan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kuninkaan polttouhrin"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "polttouhrin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen jauhouhrinsa"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "hänen jauhouhrinsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "koko kansan polttouhrin"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "polttouhrin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "ומנחתם",
+      "gloss": "sekä heidän jauhouhrinsa"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "ja juomiuhrinsa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaiken"
+    },
+    {
+      "surface": "דם",
+      "gloss": "veren"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "polttouhrin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaiken"
+    },
+    {
+      "surface": "דם",
+      "gloss": "veren"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "teurastuhrin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sille"
+    },
+    {
+      "surface": "תזרק",
+      "gloss": "vihmo"
+    },
+    {
+      "surface": "ומזבח",
+      "gloss": "ja vaskialtgarin"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "vaski-"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olkoon"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "tiedustelua varten"
+    }
+  ],
+  "timestamp": "2026-09-06T23:55:38.339479821Z",
+  "model": "glm-5.3"
+}

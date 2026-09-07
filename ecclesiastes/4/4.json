@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja minä näin ⟨את⟩ kaiken vaivan ja ⟨את⟩ kaiken työn taidon, että se on miehen kateus toista kohtaan; myös tämä on hebel ja tuulen tavoittelua.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "ja minä näin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken vaivan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "vaivan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "taidon"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "työn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "היא",
+      "gloss": "se"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "on kateus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "toista kohtaan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "on hebel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ja tavoittelua"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "tuulen"
+    }
+  ],
+  "timestamp": "2026-09-07T04:06:57.650765284Z",
+  "model": "glm-5.3"
+}

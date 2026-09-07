@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 11:11",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja juoksijat seisoivat, kukin aseineen kädessään, talon oikealta olkalta talon vasemmalle olalle, alttarin ja talon kohdalle, kuninkaan ympärille.",
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "Ja seisoivat"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "juoksijat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kukin"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "aseineen"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "kädessään"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "olkalta"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "oikealta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "olkalle"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "vasemmalle"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "alttarin kohdalle"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "ja talon"
+    },
+    {
+      "surface": "על",
+      "gloss": "ympärille"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kaikkialle"
+    }
+  ],
+  "timestamp": "2026-09-06T23:52:56.271514462Z",
+  "model": "glm-5.3"
+}

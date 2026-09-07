@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 18:23",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Jos ⟨את⟩ tämän asian teet, ja Elohim käskee sinua niin, niin sinä voit seisoa pystyssä, ja myös tämä koko kansa menee paikalleen rauhassa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän asian"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asian"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "teet"
+    },
+    {
+      "surface": "וצוך",
+      "gloss": "ja käskee sinua"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכלת",
+      "gloss": "niin sinä voit"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "seisoa pystyssä"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja myös"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "על",
+      "gloss": "…"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "paikalleen"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "menee"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "rauhassa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:36:12.275004988Z",
+  "model": "glm-5.3"
+}

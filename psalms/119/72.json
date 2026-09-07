@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Parempi minulle sinun suusi Tora kuin tuhannet ⟨palat⟩ kultaa ja hopeaa.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "parempi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "sinun suusi"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "kuin tuhannet"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kultaa"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ja hopeaa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:33:22.754259887Z",
+  "model": "glm-5.3"
+}

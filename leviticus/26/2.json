@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "⟨את⟩ Shabbatini te kättelette, ja pyhäkköäni te kunnioitte; minä olen Jahve.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabbatini"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Shabbatini"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "te kättelette"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "ja pyhäkköäni"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "te kunnioitte"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-06T22:00:21.365650266Z",
+  "model": "glm-5.3"
+}

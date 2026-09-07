@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Sortaa köyhää lisätäkseen ⟨omaa⟩; antaa rikkaalle — vain puutteeseen.",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "sortaa"
+    },
+    {
+      "surface": "דל",
+      "gloss": "köyhää"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "lisätäkseen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "antaa"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "rikkaalle"
+    },
+    {
+      "surface": "אך",
+      "gloss": "vain"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "puutteeseen"
+    }
+  ],
+  "timestamp": "2026-09-07T03:13:11.935203496Z",
+  "model": "glm-5.3"
+}

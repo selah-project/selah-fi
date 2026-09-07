@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 2:28",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ruokaa rahalla myy minulle, ja minä syön, ja vettä rahalla anna minulle, ja minä juon; vain kulkea saan jalkaisin.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "ruokaa"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "rahalla"
+    },
+    {
+      "surface": "תשברני",
+      "gloss": "myy minulle"
+    },
+    {
+      "surface": "ואכלתי",
+      "gloss": "ja minä syön"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ja vettä"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "rahalla"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "anna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "ja minä juon"
+    },
+    {
+      "surface": "רק",
+      "gloss": "vain"
+    },
+    {
+      "surface": "אעברה",
+      "gloss": "kulkea saan"
+    },
+    {
+      "surface": "ברגלי",
+      "gloss": "jalkaisin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:23:03.805387699Z",
+  "model": "glm-5.3"
+}

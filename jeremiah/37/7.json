@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 37:7",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Näin sanoo Jahve, Israelin Elohim: Näin sanotte te Juudan kuninkaalle, joka lähetti ⟨את⟩ teidät minun luokseni etsimään minulta: Katso, Paron sotajoukko, joka lähti teille avuksi, palaa maahansa, Mitsrajimiin (Egypti).",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Näin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Näin"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "sanotte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuninkaalle"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaalle"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juudan"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "joka lähetti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät",
+      "marks": "minun luokseni (אלי)"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minun luokseni"
+    },
+    {
+      "surface": "לדרשני",
+      "gloss": "etsimään minulta"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sotajoukko"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "joka lähti"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "avuksi"
+    },
+    {
+      "surface": "שב",
+      "gloss": "palaa"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "maahansa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimiin"
+    }
+  ],
+  "timestamp": "2026-09-07T00:42:34.210647795Z",
+  "model": "glm-5.3"
+}

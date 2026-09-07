@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 4:1",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja tapahtui, kun koko kansakunta oli saatu pääsemään yli ⟨את⟩ Jordanin, että Jahve puhui Jehoshualle (Joosua) sanoen:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kun"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "oli saatu pääsemään yli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "kansakunta"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "yli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordanin"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "että puhui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jehoshualle"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshualle"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    }
+  ],
+  "timestamp": "2026-09-07T04:17:23.240227902Z",
+  "model": "glm-5.3"
+}

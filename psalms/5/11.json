@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 5:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Julista heidät syyllisiksi, Elohim; hillukoot heidät omista neuvoksistaan; ajata heidät ulos rikkomustensa paljouden tähden, sillä he ovat kapinoineet sinua vastaan.",
+  "tokens": [
+    {
+      "surface": "האשימם",
+      "gloss": "julista heidät syyllisiksi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "hillukoot heidät"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "omista neuvoksistaan"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "paljouden tähden"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "rikkomustensa"
+    },
+    {
+      "surface": "הדיחמו",
+      "gloss": "ajata heidät ulos"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "he ovat kapinoineet"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinua vastaan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:50:40.029549300Z",
+  "model": "glm-5.3"
+}

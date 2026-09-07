@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja käänsi kuningas ⟨את⟩ kasvonsa ja siunasi ⟨את⟩ koko Israelin seurakunnan, ja koko Israelin seurakunta seisoi.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "ja käänsi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasvonsa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "kasvonsa"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ja siunasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko Israelin seurakunnan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "seurakunnan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja koko"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "seurakunta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "seisoi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:37:47.207959221Z",
+  "model": "glm-5.3"
+}

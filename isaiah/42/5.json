@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 42:5",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Näin sanoo El, Jahve, joka loi taivaat ja levitti niitä, jokaitti maan ja sen sikiöt, joka antaa elämänhengen kansalle, joka on sen päällä, ja hengen niille, jotka kulkevat siinä.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Näin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "loi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaat"
+    },
+    {
+      "surface": "ונוטיהם",
+      "gloss": "ja levitti niitä"
+    },
+    {
+      "surface": "רקע",
+      "gloss": "itti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "וצאצאיה",
+      "gloss": "ja sen sikiöt"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "antaa"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "elämänhengen"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kansalle"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sen päällä"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ja hengen"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "niille, jotka kulkevat"
+    },
+    {
+      "surface": "בה",
+      "gloss": "siinä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:13:58.318725510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 39:23",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 39,
+  "translation": "Ja viitan aukko oli sen keskellä, niin kuin panssarin aukko, reunus sen aukon ympärillä, niin ettei se repiydy.",
+  "tokens": [
+    {
+      "surface": "ופי",
+      "gloss": "ja ... aukko"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "viitan"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "sen keskellä"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "niin kuin ... aukko"
+    },
+    {
+      "surface": "תחרא",
+      "gloss": "panssarin"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "reunus"
+    },
+    {
+      "surface": "לפיו",
+      "gloss": "sen aukon ympärillä"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympärillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niin ettei"
+    },
+    {
+      "surface": "יקרע",
+      "gloss": "se repiydy"
+    }
+  ],
+  "timestamp": "2026-09-06T21:46:28.029697037Z",
+  "model": "glm-5.3"
+}

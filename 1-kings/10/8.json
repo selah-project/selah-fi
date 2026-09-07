@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Autuaat miehesi, autuaat nämä palvelijasi, jotka seisovat sinun edessäsi alati, ne, jotka kuulevat ⟨את⟩ viisautesi!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "autuaat"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "miehesi"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "autuaat"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "palvelijasi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "seisovat"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "edessäsi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "alati"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "kuulevat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viisautesi"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "viisautesi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:37:42.633900407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja hän odotti vielä toiset seitsemän päivää ja lähetti taas ⟨את⟩ kyyhkyn pois arkkista.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "odotti"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vielä"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seitsemän"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivää"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "toiset"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "taas"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "lähetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kyyhkyn"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "kyyhkyn"
+    },
+    {
+      "surface": "מן",
+      "gloss": "pois"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arkkista"
+    }
+  ],
+  "timestamp": "2026-09-06T21:06:18.336412236Z",
+  "model": "glm-5.3"
+}

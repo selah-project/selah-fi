@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja jos vahinko tapahtuu, sinä annat nefeshin nefeshin tilalle.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ja jos"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "vahinko"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tapahtuu"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "sinä annat"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefeshin"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tilalle"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefeshin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:37:08.662746292Z",
+  "model": "glm-5.3"
+}

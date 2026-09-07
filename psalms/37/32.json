@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Jumalaton tarkkailee vanhurskasta ja etsii tappaakseen hänet.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "tarkkailee"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "jumalaton"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "vanhurskasta"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "ja etsii"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "tappaakseen hänet"
+    }
+  ],
+  "timestamp": "2026-09-07T02:06:22.536452500Z",
+  "model": "glm-5.3"
+}

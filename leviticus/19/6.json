@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Päivänä, jona te sen teurastatte, se syötävä, ja seuraavana päivänä; mutta kolmanteen päivään asti jäljelle jäänyt tulessa poltettakoon.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Päivänä, jona"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "teurastatte"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "se syötävä"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "ja seuraavana päivänä"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "mutta jäljelle jäänyt"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivään"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "kolmanteen"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulessa"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "poltettakoon"
+    }
+  ],
+  "timestamp": "2026-09-06T21:56:00.976320086Z",
+  "model": "glm-5.3"
+}

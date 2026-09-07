@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Ja Jehoshua (Joosua) kuuli ⟨את⟩ kansan äänen huudettaessa, ja hän sanoi Moshelle (Mookselle): sodan ääni ⟨on⟩ leirissä.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Ja kuuli"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansan äänen"
+    },
+    {
+      "surface": "קול",
+      "gloss": "äänen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "huudettaessa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshelle"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ääni"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "sodan"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "leirissä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:43:47.221118850Z",
+  "model": "glm-5.3"
+}

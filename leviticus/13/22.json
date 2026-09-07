@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja jos se leviää paljon iholla, kohen julistaa hänet saastaiseksi ⟨את⟩: se on tauti.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ja jos"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "leviää"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "paljon"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "iholla"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "julistaa saastaiseksi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hänet"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "tauti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-09-06T21:52:57.712369145Z",
+  "model": "glm-5.3"
+}

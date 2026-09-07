@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 42:7",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Ja Josef näki ⟨את⟩ veljensä ja tunsi heidät, mutta teki itsensä heille vieraaksi ja puhui ⟨את⟩ heidän kanssaan ankarasti. Ja hän sanoi heille: ”Mistä te tulette?” Ja he sanoivat: ”Kanaanin maasta ostamaan ruokaa.”",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ja näki"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veljensä"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "veljensä"
+    },
+    {
+      "surface": "ויכרם",
+      "gloss": "ja tunsi heidät"
+    },
+    {
+      "surface": "ויתנכר",
+      "gloss": "mutta teki itsensä vieraaksi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ja puhui"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ heidän kanssaan"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "ankarasti"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "mistä"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "te tulette"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ja he sanoivat"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaanin"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ostamaan"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ruokaa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:24:24.360415467Z",
+  "model": "glm-5.3"
+}

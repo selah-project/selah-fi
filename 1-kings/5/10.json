@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja Shelomon viisaus oli suurempi kuin kaikkien itäisten poikien viisaus ja kuin kaikkien Mitsrajimin (Egyptin) viisaus.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "Ja ylitti"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "viisaus"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomon"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "kuin viisaus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkien"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikien"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "itän"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ja kuin kaikkien"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "viisaus"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:34:34.023967835Z",
+  "model": "glm-5.3"
+}

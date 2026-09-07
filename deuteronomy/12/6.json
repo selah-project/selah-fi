@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 12:6",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja te tuotte sinne polttuhrinne ja teurasuhrinne ja ⟨את⟩ kymmenyksenne ja ⟨את⟩ kättenne korotuksen, ja lupauksenne ja vapaaehtoislahjanne, ja karhanne ja laumanne esikoiset.",
+  "tokens": [
+    {
+      "surface": "והבאתם",
+      "gloss": "ja te tuotte"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sinne"
+    },
+    {
+      "surface": "עלתיכם",
+      "gloss": "polttuhrinne"
+    },
+    {
+      "surface": "וזבחיכם",
+      "gloss": "ja teurasuhrinne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kymmenyksenne"
+    },
+    {
+      "surface": "מעשרתיכם",
+      "gloss": "kymmenyksenne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "korotuksen"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "korotuksen"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "kättenne"
+    },
+    {
+      "surface": "ונדריכם",
+      "gloss": "ja lupauksenne"
+    },
+    {
+      "surface": "ונדבתיכם",
+      "gloss": "ja vapaaehtoislahjanne"
+    },
+    {
+      "surface": "ובכרת",
+      "gloss": "ja esikoiset"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "karhastanne"
+    },
+    {
+      "surface": "וצאנכם",
+      "gloss": "ja laumastanne"
+    }
+  ],
+  "timestamp": "2026-09-07T04:17:49.109577435Z",
+  "model": "glm-5.3"
+}

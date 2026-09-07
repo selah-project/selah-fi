@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 139,
+  "translation": "Sillä ei ole sanaa kielelläni — katso, Jahve, sinä tunnet sen kokonaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "sanaa"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "kielelläni"
+    },
+    {
+      "surface": "הן",
+      "gloss": "katso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "sinä tunnet"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "sen kokonaan"
+    }
+  ],
+  "timestamp": "2026-09-07T02:53:40.391610003Z",
+  "model": "glm-5.3"
+}

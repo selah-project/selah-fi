@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 4:31",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Sillä laupias El ⟨on⟩ Jahve, Elohimisi; hän ei hellitä sinusta, eikä tuhoa sinua, eikä unohda ⟨את⟩ isiesi Beritiä, jonka hän vannoi heille.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "laupias"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimisi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ירפך",
+      "gloss": "hellitä sinusta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "ישחיתך",
+      "gloss": "tuhoa sinua"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "unohda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beritiä"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Beritiä"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "isiesi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "vannoi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    }
+  ],
+  "timestamp": "2026-09-06T22:25:39.035538451Z",
+  "model": "glm-5.3"
+}

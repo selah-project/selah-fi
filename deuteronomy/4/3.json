@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 4:3",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Teidan silmänne ovat nähneet ⟨את⟩ sen, minkä Jahve teki Baal-Pe'orin kohdalla, sillä jokaisen miehen, joka seurasi Baal-Pe'oria, Jahve, sinun Elohimisi, hävitti keskuudestasi.",
+  "tokens": [
+    {
+      "surface": "עיניכם",
+      "gloss": "Teidan silmänne"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "ovat nähneet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sen, minkä"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "Baal-"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Pe'orin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokaisen"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "seurasi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "seurasi"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal-"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Pe'oria"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "hävitti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sinun Elohimisi"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "keskuudestasi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:25:07.670810914Z",
+  "model": "glm-5.3"
+}

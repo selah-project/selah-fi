@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "avataksesi sokeiden silmät, tuodaksesi vangitun ulos vankilasta, pimeydessä istuvat ulos vankeudentalosta.",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "avataksesi"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "silmät"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "sokeiden"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "tuodaksesi ulos"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "vankilasta"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "vangitun"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "talosta"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "vankeuden"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "istuvat"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pimeydessä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:13:58.320047505Z",
+  "model": "glm-5.3"
+}

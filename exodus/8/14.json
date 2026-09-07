@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja taikurit tekivät niin taikuudellaan tuodakseen ⟨את⟩ syyhkyset, mutta eivät voineet; ja syyhkyset olivat ihmisessä ja karjassa.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Ja tekivät"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "taikurit"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "taikuudellaan"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "tuodakseen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syyhkyset"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "syyhkyset"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mutta eivät"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "voineet"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ja olivat"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "syyhkyset"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ihmisessä"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ja karjassa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:32:06.110185634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 148,
+  "translation": "Ylistäkööt Jahven nimeä ⟨את⟩, sillä hän käski, ja ne luotiin.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Ylistäkööt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nimeä"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimeä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "käski"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "ja ne luotiin"
+    }
+  ],
+  "timestamp": "2026-09-07T02:56:34.327806939Z",
+  "model": "glm-5.3"
+}

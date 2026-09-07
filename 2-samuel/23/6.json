@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 23:6",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja Belialin (kelvottomat) ovat kaikki kuin ohdake, joka on ajettu pois, sillä niitä ei oteta käsin.",
+  "tokens": [
+    {
+      "surface": "ובליעל",
+      "gloss": "Ja Belialin"
+    },
+    {
+      "surface": "כקוץ",
+      "gloss": "kuin ohdake"
+    },
+    {
+      "surface": "מנד",
+      "gloss": "ajettu pois"
+    },
+    {
+      "surface": "כלהם",
+      "gloss": "kaikki heistä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käsin"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "otetaan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:23:20.784449343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 44:9",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 44,
+  "translation": "Se, jonka luota ⟨את⟩ se palvelijoistasi löydetään, kuolkoon, ja myös meistä tulee herrasi palvelijoiksi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "se, jonka"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "löydetään"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänen luotaan",
+      "marks": "hän, jonka luota"
+    },
+    {
+      "surface": "מעבדיך",
+      "gloss": "palvelijoistasi"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "kuolkoon"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja myös"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "me"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "tulemme"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "herrasi"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "palvelijoiksi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:24:32.517129186Z",
+  "model": "glm-5.3"
+}

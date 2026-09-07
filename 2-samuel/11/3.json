@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 11:3",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja David lähetti ja kyseli naisen jälkeen, ja hän sanoi: ”Eikö tämä ⟨ole⟩ Bat-Sheva (Batsheba), Eljamin tytär, Urijan heettiläisen vaimo?”",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ja lähetti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וידרש",
+      "gloss": "ja kyseli"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "naisen jälkeen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Eikö"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tytär"
+    },
+    {
+      "surface": "אליעם",
+      "gloss": "Eljamin"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vaimo"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urijan"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "heettiläisen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:25:27.738368730Z",
+  "model": "glm-5.3"
+}

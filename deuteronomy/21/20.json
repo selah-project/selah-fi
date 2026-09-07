@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 21:20",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "ja sanovat hänen kaupunkinsa vanhimmille: ”Tämä meidän poikamme on uppiniskainen ja tottelematon, hän ei kuuntele meidän ääntämme, hän on mässäjä ja juoppo.”",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "ja sanovat"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vanhimmille"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "hänen kaupunkinsa"
+    },
+    {
+      "surface": "בננו",
+      "gloss": "meidän poikamme"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "uppiniskainen"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "ja tottelematon"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ei"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kuuntele"
+    },
+    {
+      "surface": "בקלנו",
+      "gloss": "meidän ääntämme"
+    },
+    {
+      "surface": "זולל",
+      "gloss": "mässäjä"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "ja juoppo"
+    }
+  ],
+  "timestamp": "2026-09-06T22:32:35.862482104Z",
+  "model": "glm-5.3"
+}

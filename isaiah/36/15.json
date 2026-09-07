@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 36:15",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 36,
+  "translation": "Ja älköön Hizkijahu saako teitä ⟨את⟩ luottamaan Jahveen sanoen: pelastaen pelastaa Jahve meidät; ei anneta tätä kaupunkia Ashurin kuninkaan käteen.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Ja älköön"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "saako luottamaan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät",
+      "marks": "teidät"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkijahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jahveen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "pelastaen"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "pelastaa meidät"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "anneta"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupunkia"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tätä"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käteen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashurin"
+    }
+  ],
+  "timestamp": "2026-09-07T00:12:39.309223293Z",
+  "model": "glm-5.3"
+}

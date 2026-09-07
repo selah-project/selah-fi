@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 78,
+  "translation": "Emme kätke niitä heidän lapsiltaan; tulevalle sukupolvelle kerromme Jahven ylistystä ja hänen voimansa ja hänen ihmeensä, jotka hän on tehnyt.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "emme"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "kätke"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "heidän lapsiltaan"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "sukupolvelle"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "tulevaiselle"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "kerromme"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "ylistystä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "ja hänen voimansa"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ja hänen ihmeensä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hän on tehnyt"
+    }
+  ],
+  "timestamp": "2026-09-07T04:34:01.028496400Z",
+  "model": "glm-5.3"
+}

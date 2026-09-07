@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 115,
+  "translation": "Ei meille, Jahve, ei meille, vaan nimellesi anna kunnia, hesed ⟨laupiutesi⟩ tähden, totuutesi tähden.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ei"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meille"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ei"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meille"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vaan"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "nimellesi"
+    },
+    {
+      "surface": "תן",
+      "gloss": "anna"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kunnia"
+    },
+    {
+      "surface": "על",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "על",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "totuutesi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:43:48.284691809Z",
+  "model": "glm-5.3"
+}

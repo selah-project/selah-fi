@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Koko maan yli kulkee heidän mittanuoransa, ja asutuksen ääriin heidän sanansa; auringolle hän pystytti teltan niiden ⟨sisään⟩.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "kulkee"
+    },
+    {
+      "surface": "קום",
+      "gloss": "heidän mittanuoransa"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "ja ääriin"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "asutuksen"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "heidän sanansa"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "auringolle"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hän pystytti"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "niiden ⟨sisään⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T01:59:23.937246577Z",
+  "model": "glm-5.3"
+}

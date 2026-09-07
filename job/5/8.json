@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 5:8",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Mutta minä etsin Eliä, ja Elohimille minä asetan asiani.",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "mutta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "etsin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨Eliä⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eliä"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja ⟨Elohimille⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimille"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "asetan"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "asiani"
+    }
+  ],
+  "timestamp": "2026-09-07T03:26:44.003763725Z",
+  "model": "glm-5.3"
+}

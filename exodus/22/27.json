@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Elohimia älä herjaa, älä kiroa kansasi ruhtinasta.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "herjaa"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "ja ruhtinasta"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "kansasi seassa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "kiroa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:09:54.633764729Z",
+  "model": "glm-5.3"
+}

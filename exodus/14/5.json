@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 14:5",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja kerrottiin Mitsrajimin kuninkaalle, että kansa oli paennut, ja Paron ja hänen palvelijoidensa sydän kääntyi kansaa kohti, ja he sanoivat: Mikä tämä on, mitä olemme tehneet, sillä me lähetimme ⟨את⟩ Israelin pois palveluksestamme?",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Ja kerrottiin"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuninkaalle"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "oli paennut"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "ja kääntyi"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "sydän"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "ja hänen palvelijoidensa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansaa"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ja he sanoivat"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mikä"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "olemme tehneet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "me lähetimme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "מעבדנו",
+      "gloss": "pois palveluksestamme"
+    }
+  ],
+  "timestamp": "2026-09-06T21:33:42.264518278Z",
+  "model": "glm-5.3"
+}

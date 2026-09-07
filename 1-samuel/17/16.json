@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 17:16",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja pelisti lähestyi aamulla ja illalla ja asettui paikalleen neljäkymmentä päivää.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "lähestyi"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "pelisti"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "aamulla"
+    },
+    {
+      "surface": "והערב",
+      "gloss": "ja illalla"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "asettui paikalleen"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "neljäkymmentä"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivää"
+    }
+  ],
+  "timestamp": "2026-09-06T23:10:40.710077575Z",
+  "model": "glm-5.3"
+}

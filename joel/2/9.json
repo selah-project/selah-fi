@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joel 2:9",
+  "book": "joel",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Kaupunkiin he syöksyvät, muurilla he juoksevat, taloihin he nousevat, ikkunoiden läpi he tulevat kuin varas.",
+  "tokens": [
+    {
+      "surface": "בעיר",
+      "gloss": "kaupunkiin"
+    },
+    {
+      "surface": "ישקו",
+      "gloss": "he syöksyvät"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "muurilla"
+    },
+    {
+      "surface": "ירצון",
+      "gloss": "he juoksevat"
+    },
+    {
+      "surface": "בבתים",
+      "gloss": "taloihin"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "he nousevat"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "läpi"
+    },
+    {
+      "surface": "החלונים",
+      "gloss": "ikkunoiden"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "he tulevat"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "kuin varas"
+    }
+  ],
+  "timestamp": "2026-09-07T01:25:49.942779248Z",
+  "model": "glm-5.3"
+}

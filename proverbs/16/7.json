@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Kun Jahvelle kelpaavat miehen tiet, saattaa hän hänen vihamiehensäkin ⟨את⟩ hänen kanssaan rauhaan.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "kun kelpaavat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "tiet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kin"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "hänen vihamiehensä"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "saattaa rauhaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänen kanssaan",
+      "marks": "hänen kanssaan"
+    }
+  ],
+  "timestamp": "2026-09-07T03:09:42.834699403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja yksikään muukalainen ei saa syödä pyhää; kohenin asuinsijalainen ja palkattu eivät saa syödä pyhää.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ja jokainen"
+    },
+    {
+      "surface": "זר",
+      "gloss": "muukalainen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "saa syödä"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhää"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "asuinsijalainen"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohenin"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "ja palkattu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "saa syödä"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhää"
+    }
+  ],
+  "timestamp": "2026-09-06T21:57:20.034553508Z",
+  "model": "glm-5.3"
+}

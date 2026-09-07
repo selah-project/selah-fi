@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Daavidin rukous. Kuule, Jahve, oikeus, kuuntele tarkasti huutoani, anna korvasi rukoukselleni — ei huulilta, ⟨jotka pettävät⟩, ilman petollisia huulia.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Rukous"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daavidin"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Kuule"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "oikeus"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "kuuntele tarkasti"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "huutoni"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "anna korvasi"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "rukoukselleni"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ilman"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "petollisia huulia"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "petollisia huulia"
+    }
+  ],
+  "timestamp": "2026-09-07T01:57:05.262495554Z",
+  "model": "glm-5.3"
+}

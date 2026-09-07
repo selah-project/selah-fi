@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 3:19",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja tämän naisen poika kuoli yöllä, koska hän makasi hänen päällään.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ja kuoli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "naisen"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "yöllä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koska"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "hän makasi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hänen päällään"
+    }
+  ],
+  "timestamp": "2026-09-06T23:33:49.672595833Z",
+  "model": "glm-5.3"
+}

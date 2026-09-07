@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "paitsi lähisukulaisensa suhteen, joka on häntä lähellä: äitinsä ja isänsä, poikansa ja tyttärensä ja veljensä puolesta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paitsi"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "lähisukulaisensa suhteen"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "lähellä"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "häntä"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "äitinsä"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "ja isänsä"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "ja poikansa"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "ja tyttärensä"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "ja veljensä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:57:20.511804123Z",
+  "model": "glm-5.3"
+}

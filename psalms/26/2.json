@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Koettele minua, Jahve, ja kokeile minua; sulata munuaiseni ja sydämeni.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "Koettele minua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "ja kokeile minua"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "sulata"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "munuaiseni"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "ja sydämeni"
+    }
+  ],
+  "timestamp": "2026-09-07T02:01:28.119121016Z",
+  "model": "glm-5.3"
+}

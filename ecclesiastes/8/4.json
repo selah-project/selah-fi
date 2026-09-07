@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Sillä missä kuninkaan sana ⟨on⟩, siinä ⟨on⟩ valta, ja kuka hänelle sanoo: mitä teet?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "sillä missä"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sana"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "valta"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ja kuka"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "teet"
+    }
+  ],
+  "timestamp": "2026-09-07T04:38:25.063175931Z",
+  "model": "glm-5.3"
+}

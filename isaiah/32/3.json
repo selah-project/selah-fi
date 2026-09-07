@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Ja eivät katsevien silmät haikaile, ja kuulevien korvat tarkkaavat.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ja eivät"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "haikaile"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "silmät"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "katsevien"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "ja korvat"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "kuulevien"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "tarkkaavat"
+    }
+  ],
+  "timestamp": "2026-09-07T00:10:03.285771516Z",
+  "model": "glm-5.3"
+}

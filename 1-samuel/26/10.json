@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja David sanoi: niin totta kuin Jahve elää: paitsi jos Jahve häntä lyö, tai hänen päivänsä tulee ja hän kuolee, tai hän laskeutuu sotaan ja katoaa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חי",
+      "gloss": "elää"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "niin totta kuin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "paitsi jos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "häntä lyö"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "hänen päivänsä"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "tulee"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ja kuolee"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "sotaan"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "laskeutuu"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "ja katoaa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:20:20.573223822Z",
+  "model": "glm-5.3"
+}

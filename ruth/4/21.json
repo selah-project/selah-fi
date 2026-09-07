@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja Salmonille syntyi ⟨את⟩ Boaz (Boas), ja Boazille syntyi ⟨את⟩ Oved (Obed),",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "Ja Salmonille"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "syntyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boaz"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz (Boas)"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "ja Boazille"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "syntyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oved (Obed)"
+    }
+  ],
+  "timestamp": "2026-09-07T04:34:47.526067461Z",
+  "model": "glm-5.3"
+}

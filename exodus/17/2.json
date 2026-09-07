@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 17:2",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja kansa riiteli Moshen kanssa ja sanoi: ”Antakaa meille vettä, että juomme.” Ja Moshe sanoi heille: ”Miksi te riitelette kanssani, miksi te kokeilette ⟨את⟩ Jahvea?”",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "Ja riiteli"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshen"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ja sanoivat"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Antakaa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meille"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vettä"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "että juomme"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "miksi"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "te riitelette"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "kanssani"
+    },
+    {
+      "surface": "מה",
+      "gloss": "miksi"
+    },
+    {
+      "surface": "תנסון",
+      "gloss": "te kokeilette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    }
+  ],
+  "timestamp": "2026-09-06T21:36:47.203663419Z",
+  "model": "glm-5.3"
+}

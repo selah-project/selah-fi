@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 118,
+  "translation": "Parempi ⟨on⟩ turvata Jahveen kuin luottaa ihmiseen.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "parempi"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "turvata"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahveen"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "kuin luottaa"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ihmiseen"
+    }
+  ],
+  "timestamp": "2026-09-07T02:44:10.024834528Z",
+  "model": "glm-5.3"
+}

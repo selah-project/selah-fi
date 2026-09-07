@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Sinä olet suojani ahdistuksesta; sinä varjelet minua, vapahduksen riemulla sinä ympäröit minut. Sela.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "suojani"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minun"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "ahdistuksesta"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "sinä varjelet minua"
+    },
+    {
+      "surface": "רני",
+      "gloss": "riemulla"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "vapahduksen"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "sinä ympäröit minut"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-07T02:05:32.135750903Z",
+  "model": "glm-5.3"
+}

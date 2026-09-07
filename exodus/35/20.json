@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 35,
+  "translation": "Ja koko Israelin lasten seurakunta lähti Moshen (Mooses) edestä.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Ja lähtivät"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "seurakunta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "edestä"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshen (Mooses)"
+    }
+  ],
+  "timestamp": "2026-09-06T21:43:01.655548512Z",
+  "model": "glm-5.3"
+}

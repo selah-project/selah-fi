@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Jos se puskuttaa pojan tai puskuttaa tyttären, saman tuomion mukaan tehköön hänelle.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "Jos"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "puskuttaa"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tyttären"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "puskuttaa"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "saman tuomion mukaan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tehköön"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    }
+  ],
+  "timestamp": "2026-09-06T21:38:03.794293453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 6:7",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja hän sanoi: ”Nosta ⟨se⟩ ylös.” Ja hän ojensi kätensä ja otti sen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "Nosta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ylös"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ojensi"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kätensä"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "otti sen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:48:24.245846038Z",
+  "model": "glm-5.3"
+}

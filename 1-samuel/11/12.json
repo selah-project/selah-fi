@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja kansa sanoi Shmuelille: Kuka on se, joka sanoi: 'Shaul kuninkaaksi meidän yllemme'? Antakaa miehet, ja me surmaamme heidät.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuelille"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kuka"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "on se, joka sanoi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "kuninkaaksi"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "meidän yllemme"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Antakaa"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "ja me surmaamme heidät"
+    }
+  ],
+  "timestamp": "2026-09-06T23:08:00.286997877Z",
+  "model": "glm-5.3"
+}

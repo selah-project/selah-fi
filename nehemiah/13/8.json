@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 13:8",
+  "book": "nehemiah",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja se oli minulle hyvin pahaa, ja minä heitin ⟨את⟩ kaikki Tovijan talon astiat ulos huoneesta.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "Ja se oli pahaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hyvin"
+    },
+    {
+      "surface": "ואשליכה",
+      "gloss": "ja minä heitin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki … astiat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "astiat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "Tovijan"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "ulos"
+    },
+    {
+      "surface": "מן",
+      "gloss": ""
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "huoneesta"
+    }
+  ],
+  "timestamp": "2026-09-07T05:10:33.748386926Z",
+  "model": "glm-5.3"
+}

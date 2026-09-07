@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 21:23",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja Danin heimosta ⟨את⟩ Eltekehin ja ⟨את⟩ sen laidasmaat, ⟨את⟩ Givtonin ja ⟨את⟩ sen laidasmaat.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Ja … heimosta"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Danin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eltekehin"
+    },
+    {
+      "surface": "אלתקא",
+      "gloss": "Eltekehin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "laidasmaat"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sen laidasmaat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Givtonin"
+    },
+    {
+      "surface": "גבתון",
+      "gloss": "Givtonin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "laidasmaat"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sen laidasmaat"
+    }
+  ],
+  "timestamp": "2026-09-06T22:47:51.193226871Z",
+  "model": "glm-5.3"
+}

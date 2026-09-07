@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 91,
+  "translation": "Hän huutaa minua avuksi, ja minä vastaan hänelle; minä olen hänen kanssaan ahdistuksessa, minä vapautan hänet ja kunnioitan häntä.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "hän huutaa minua"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "ja minä vastaan hänelle"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hänen kanssaan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "ahdistuksessa"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "minä vapautan hänet"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "ja kunnioitan häntä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:32:54.947480819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 28:26",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Joka luottaa omaan sydämeensä, hän ⟨on⟩ tyhmä; mutta joka kulkee viisaudessa, hän pelastuu.",
+  "tokens": [
+    {
+      "surface": "בוטח",
+      "gloss": "luottaa"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "omaan sydämeensä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "tyhmä"
+    },
+    {
+      "surface": "והולך",
+      "gloss": "mutta joka kulkee"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "viisaudessa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "pelastuu"
+    }
+  ],
+  "timestamp": "2026-09-07T03:20:18.593722488Z",
+  "model": "glm-5.3"
+}

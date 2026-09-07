@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja minä lyön ⟨את⟩ tämän kaupungin asukkaat ja ⟨את⟩ ihmisen ja ⟨את⟩ eläimen: suureen ruttoon he kuolevat.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "ja lyön"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän kaupungin asukkaat"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "asukkaat"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "ihmisen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihmisen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "eläimen"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "eläimen"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ruttoon"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suureen"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "he kuolevat"
+    }
+  ],
+  "timestamp": "2026-09-07T00:33:21.724952324Z",
+  "model": "glm-5.3"
+}

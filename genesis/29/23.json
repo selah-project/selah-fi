@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja tapahtui illalla, että hän otti ⟨את⟩ Lean (Lea), tyttärensä, ja toi ⟨את⟩ hänet hänen luokseen; ja hän meni hänen luokseen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja tapahtui"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "illalla"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "että otti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lean"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lean"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "tyttärensä"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ja toi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ hänet",
+      "marks": "hänen luokseen"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänen luokseen"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ja meni"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "hänen luokseen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:16:09.470796720Z",
+  "model": "glm-5.3"
+}

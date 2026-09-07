@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 41:11",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 41,
+  "translation": "Ja uneksimme unen yhdessä yössä, minä ja hän; kummankin oman unensa selityksen mukaan me uneksimme.",
+  "tokens": [
+    {
+      "surface": "ונחלמה",
+      "gloss": "Ja uneksimme"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "unen"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "yhdessä yössä"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yhdessä"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ja hän"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kukin"
+    },
+    {
+      "surface": "כפתרון",
+      "gloss": "selityksen mukaan"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "unensa"
+    },
+    {
+      "surface": "חלמנו",
+      "gloss": "me uneksimme"
+    }
+  ],
+  "timestamp": "2026-09-06T21:23:00.263464141Z",
+  "model": "glm-5.3"
+}

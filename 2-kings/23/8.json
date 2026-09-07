@@ -1,0 +1,148 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 23:8",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja hän toi ⟨את⟩ kaikki kohanimet Jehudan kaupungeista ja saastutti ⟨את⟩ korkeat paikat, joissa kohanim olivat suitsuttaneet siellä, Gévasta (Gibea) Be'er Shevaan (Beerseba) asti; ja hän hajotti ⟨את⟩ porttien korkeat paikat, jotka olivat Jehoshuan (Joosuan), kaupungin päämiehen, portin suulla, jotka ovat vasemmalla puolella miehellä kaupungin portissa.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "toi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki kohanimet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohanimet"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "kaupungeista"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "ויטמא",
+      "gloss": "saastutti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korkeat paikat"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "korkeat paikat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joissa"
+    },
+    {
+      "surface": "קטרו",
+      "gloss": "olivat suitsuttaneet"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohanim"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "Gévasta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Shevaan"
+    },
+    {
+      "surface": "ונתץ",
+      "gloss": "hajotti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korkeat paikat"
+    },
+    {
+      "surface": "במות",
+      "gloss": "korkeat paikat"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "porttien"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "suulla"
+    },
+    {
+      "surface": "שער",
+      "gloss": "portin"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshuan"
+    },
+    {
+      "surface": "שר",
+      "gloss": "päämiehen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "על",
+      "gloss": "puolella"
+    },
+    {
+      "surface": "שמאול",
+      "gloss": "vasemmalla"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehellä"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "portissa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:58:53.666257682Z",
+  "model": "glm-5.3"
+}

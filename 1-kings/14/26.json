@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 14:26",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja hän otti ⟨את⟩ Jahven huoneen aarrekammiot ja ⟨את⟩ kuninkaan huoneen aarrekammiot, ja ⟨את⟩ kaiken hän otti; ja hän otti ⟨את⟩ kaikki kultakilvet, jotka Shelomo (Salomo) oli tehnyt.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ja hän otti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven huoneen aarrekammiot"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "aarrekammiot"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kuninkaan huoneen aarrekammiot"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "aarrekammiot"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaiken"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "hän otti"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ja hän otti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki kultakilvet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "kilvet"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kulta-"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "oli tehnyt"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    }
+  ],
+  "timestamp": "2026-09-06T23:41:53.615465110Z",
+  "model": "glm-5.3"
+}

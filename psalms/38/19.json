@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 38,
+  "translation": "Sillä syyllisyyteni minä julistan; minä olen huolissani syntini tähden.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "syyllisyyteni"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "minä julistan"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "olen huolissani"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "syntini tähden"
+    }
+  ],
+  "timestamp": "2026-09-07T02:07:38.284077862Z",
+  "model": "glm-5.3"
+}

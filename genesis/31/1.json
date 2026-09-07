@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 31:1",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Ja Ja'akov (Jaakob) kuuli ⟨את⟩ Labanin (Laaban) poikien sanat sanoen: Ja'akov on ottanut ⟨את⟩ kaiken, mikä on isällämme, ja siitä, mikä on isällämme, hän on tehnyt ⟨את⟩ kaiken tämän kunnian.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ja kuuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Labanin poikien sanat"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikien"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labanin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "on ottanut"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mikä"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "on isällämme"
+    },
+    {
+      "surface": "ומאשר",
+      "gloss": "ja siitä"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "mikä on isällämme"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hän on tehnyt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken tämän kunnian"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "tämän kunnian"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    }
+  ],
+  "timestamp": "2026-09-06T21:17:57.337286383Z",
+  "model": "glm-5.3"
+}

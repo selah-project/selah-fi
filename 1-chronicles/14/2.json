@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 14:2",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja David tiesi, että Jahve oli valmistanut hänet kuninkaaksi Israelin ylle, sillä hänen kuninkuutensa oli korotettu ylös kansansa Israelin tähden.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "tiesi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "oli valmistanut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuninkaaksi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ylle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "oli korotettu"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ylös"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "hänen kuninkuutensa"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kansansa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:20:45.757798276Z",
+  "model": "glm-5.3"
+}

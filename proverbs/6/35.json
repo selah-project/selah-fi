@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 6:35",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Hän ei ota ⟨kasvoja⟩ minkään lunnkaan, eikä suostu, vaikka moninaistaisit lahjukset.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "hän ota"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨kasvoja⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minkään"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "lunnaitta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יאבה",
+      "gloss": "hän suostu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vaikka"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "moninaistaisit"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "lahjukset"
+    }
+  ],
+  "timestamp": "2026-09-07T03:03:04.388394281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 103,
+  "translation": "Daavidin. Siunaa, Nefeshini, ⟨את⟩ Jahve, ja kaikki sisimpäni ⟨את⟩ hänen pyhää nimeään.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Daavidin"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "siunaa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "sisimpäni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen pyhää nimeään"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimeään"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "pyhää"
+    }
+  ],
+  "timestamp": "2026-09-07T02:36:45.015222985Z",
+  "model": "glm-5.3"
+}

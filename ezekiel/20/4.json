@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Tuomitsetko sinä ⟨את⟩ heidät — tuomitsetko, ihmisen poika? ⟨את⟩ heidän isiensä kauhistukset tee heille tiettäviksi.",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "tuomitsetko"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "heidät"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "tuomitsetko"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmisen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kauhistukset"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "kauhistukset"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "heidän isiensä"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "tee heille tiettäviksi"
+    }
+  ],
+  "timestamp": "2026-09-07T01:01:01.652735104Z",
+  "model": "glm-5.3"
+}

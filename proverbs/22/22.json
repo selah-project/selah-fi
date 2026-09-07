@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Älä ryöstä köyhää, koska hän ⟨on⟩ köyhä, äläkä murskaa sorrettua portilla.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "ryöstä"
+    },
+    {
+      "surface": "דל",
+      "gloss": "köyhää"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "דל",
+      "gloss": "köyhä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "älkäkä"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "murskaa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sorrettua"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "portilla"
+    }
+  ],
+  "timestamp": "2026-09-07T03:17:21.025242235Z",
+  "model": "glm-5.3"
+}

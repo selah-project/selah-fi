@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 22:7",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Väsyneelle et anna vettä juoda, ja nälkäiseltä kieltäyt leivän.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "et"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vettä"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "väsyneelle"
+    },
+    {
+      "surface": "תשקה",
+      "gloss": "anna juoda"
+    },
+    {
+      "surface": "ומרעב",
+      "gloss": "ja nälkäiseltä"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "kieltäyt"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leivän"
+    }
+  ],
+  "timestamp": "2026-09-07T03:37:03.508906852Z",
+  "model": "glm-5.3"
+}

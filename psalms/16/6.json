@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Mittaköydet ovat langenneet minulle ihanissa paikoissa; myös perintöni on kaunis minulla.",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "Mittaköydet"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ovat langenneet"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "ihanissa paikoissa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "myös"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "perintöni"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "on kaunis"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "minulla"
+    }
+  ],
+  "timestamp": "2026-09-07T01:55:35.772681194Z",
+  "model": "glm-5.3"
+}

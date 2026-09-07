@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Sinä kulket tänä päivänä yli ⟨את⟩ Moabin rajan, ⟨את⟩ Arin:",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kuljet yli"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tänä päivänä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moabin rajan"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "rajan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arin"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Arin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:22:21.181053891Z",
+  "model": "glm-5.3"
+}

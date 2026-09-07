@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 4:5",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja sen paksuus oli kämmenenleveys, ja sen reunus oli kuin maljan reunuksen tekona, liljan kukkana; se piti sisällään kolme tuhatta battia.",
+  "tokens": [
+    {
+      "surface": "ועביו",
+      "gloss": "ja sen paksuus"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "kämmenenleveys"
+    },
+    {
+      "surface": "ושפתו",
+      "gloss": "ja sen reunus"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "kuin ... tekona"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "reunus"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "maljan"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "kukkana"
+    },
+    {
+      "surface": "שושנה",
+      "gloss": "liljan"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "pitää sisällään"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "battia"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tuhatta"
+    },
+    {
+      "surface": "יכיל",
+      "gloss": "se mahtui"
+    }
+  ],
+  "timestamp": "2026-09-07T05:30:59.156730831Z",
+  "model": "glm-5.3"
+}

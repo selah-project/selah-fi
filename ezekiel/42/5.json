@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 42:5",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Ja ylä-sijahuoneet olivat lyhennetyt, sillä väliverannat söivät niistä tilaa — alemmista ja keskimmäisistä rakennuksen ⟨osista⟩.",
+  "tokens": [
+    {
+      "surface": "והלשכות",
+      "gloss": "ja ylä-sijahuoneet"
+    },
+    {
+      "surface": "העליונת",
+      "gloss": "ylä-"
+    },
+    {
+      "surface": "קצרות",
+      "gloss": "lyhennetyt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "söivät"
+    },
+    {
+      "surface": "אתיקים",
+      "gloss": "väliverannat"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "niistä"
+    },
+    {
+      "surface": "מהתחתנות",
+      "gloss": "alemmista"
+    },
+    {
+      "surface": "ומהתכנות",
+      "gloss": "ja keskimmäisistä"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "rakennuksen"
+    }
+  ],
+  "timestamp": "2026-09-07T01:14:46.687076756Z",
+  "model": "glm-5.3"
+}

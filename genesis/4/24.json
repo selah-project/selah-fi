@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Sillä Kajinista kostetaan seitsemänkertaisesti, mutta Lemekistä seitsemäkymmentä ja seitsemän ⟨kertaa⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "seitsemänkertaisesti"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "kostetaan"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajinista"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "mutta Lemekistä"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "seitsemäkymmentä"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ja seitsemän"
+    }
+  ],
+  "timestamp": "2026-09-06T21:05:17.341085117Z",
+  "model": "glm-5.3"
+}

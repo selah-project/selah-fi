@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja te juotitte ⟨את⟩ nezirit viinillä ja navoille käskitte, sanoen: ”Älkää ennustako.”",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "Ja te juotitte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nezirit"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "nezirit"
+    },
+    {
+      "surface": "יין",
+      "gloss": "viinillä"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja … vasten"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "navoille"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "käskitte"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Älkää"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "ennustako"
+    }
+  ],
+  "timestamp": "2026-09-07T01:25:53.857676869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Sano Zerubavelille (Serubbabel), Jehudan (Juuda) maaherralle, näin: minä järkytän ⟨את⟩ taivaat ja ⟨את⟩ maan.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Sano"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-lle"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubavelille"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "maaherralle"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "näin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "järkytän"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taivaat"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "maan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:41:33.940929609Z",
+  "model": "glm-5.3"
+}

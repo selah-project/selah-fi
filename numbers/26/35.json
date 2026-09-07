@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 26:35",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Nämä ovat Efrajimin pojat sukukunnittain: Shutelahista sukukunta shutelahilaisia; Bekersistä sukukunta bekertiläisiä; Tahanista sukukunta tahanilaisia.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Nämä"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajimin"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sukukunnittain"
+    },
+    {
+      "surface": "לשותלח",
+      "gloss": "Shutelahista"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "sukukunta"
+    },
+    {
+      "surface": "השתלחי",
+      "gloss": "shutelahilaisia"
+    },
+    {
+      "surface": "לבכר",
+      "gloss": "Bekersistä"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "sukukunta"
+    },
+    {
+      "surface": "הבכרי",
+      "gloss": "bekertiläisiä"
+    },
+    {
+      "surface": "לתחן",
+      "gloss": "Tahanista"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "sukukunta"
+    },
+    {
+      "surface": "התחני",
+      "gloss": "tahanilaisia"
+    }
+  ],
+  "timestamp": "2026-09-06T22:17:34.711474984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 127,
+  "translation": "Autuas ⟨on⟩ se mies, joka täytti ⟨את⟩ nuolikotelonsa niillä: he eivät jää häpeään, kun he puhuvat vihollisten ⟨את⟩ kanssa portilla.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Autuas"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "se mies"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "täytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nuolikotelonsa"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "nuolikotelonsa"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "niillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "jää häpeään"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "he puhuvat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ kanssa",
+      "marks": "vihollisten"
+    },
+    {
+      "surface": "אויבים",
+      "gloss": "vihollisten"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "portilla"
+    }
+  ],
+  "timestamp": "2026-09-07T02:48:52.357433722Z",
+  "model": "glm-5.3"
+}

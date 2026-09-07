@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja hän valjasti ⟨את⟩ sotavaununsa, ja ⟨את⟩ kansansa hän otti mukaansa.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "Ja hän valjasti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sotavaununsa"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "sotavaununsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kansansa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kansansa"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "otti"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mukaansa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:33:42.265427478Z",
+  "model": "glm-5.3"
+}

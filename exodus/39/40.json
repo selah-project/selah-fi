@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 39:40",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 39,
+  "translation": "⟨את⟩ esikartanon verhot, ⟨את⟩ sen pylväät ja ⟨את⟩ sen jalat, ja ⟨את⟩ verhon esikartanon portille, ⟨את⟩ sen köydet ja sen tapit, ja ⟨את⟩ kaikki palvelun astiat asumuksessa, kokousmajaa varten,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "esikartanon verhot"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "verhot"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "esikartanon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen pylväät"
+    },
+    {
+      "surface": "עמדיה",
+      "gloss": "sen pylväät"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen jalat"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "sen jalat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "verhon"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "verhon"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "portille"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "esikartanon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen köydet"
+    },
+    {
+      "surface": "מיתריו",
+      "gloss": "sen köydet"
+    },
+    {
+      "surface": "ויתדתיה",
+      "gloss": "ja sen tapit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki palvelun astiat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "astiat"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "palvelun"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "asumuksessa"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "majaa varten"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kokous-"
+    }
+  ],
+  "timestamp": "2026-09-06T21:46:54.685649485Z",
+  "model": "glm-5.3"
+}

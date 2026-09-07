@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 78:71",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 78,
+  "translation": "Imettävien karitsoiden takaa hän toi hänet paimentamaan Ja'akovia (Jaakobia), kansaansa, ja Israelia, perintöänsä.",
+  "tokens": [
+    {
+      "surface": "מאחר",
+      "gloss": "takaa"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "imettävien karitsoiden"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "hän toi hänet"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "paimentamaan"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Ja'akovia"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kansaansa"
+    },
+    {
+      "surface": "ובישראל",
+      "gloss": "ja Israelia"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "perintöänsä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:26:44.475367492Z",
+  "model": "glm-5.3"
+}

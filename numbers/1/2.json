@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ottakaa ⟨את⟩ koko Israelin lasten seurakunnan päiden luvun heidän sukukuntiensa mukaan, isiensä kotien mukaan, nimien luvussa, jokainen mies, heidän kallojensa mukaan.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Ottakaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko Israelin lasten seurakunnan päiden luvun"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "päiden luvun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "seurakunnan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "heidän sukukuntiensa mukaan"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kotien mukaan"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "isiensä"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "luvussa"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nimien"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokainen"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mies"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "heidän kallojensa mukaan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:02:25.071002785Z",
+  "model": "glm-5.3"
+}

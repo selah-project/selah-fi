@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 27:17",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ja hän antoi ⟨את⟩ herkkuruoat ja ⟨את⟩ leivän, jonka hän oli valmistanut, Ja'akovin (Jaakob) poikansa käteen.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "ja hän antoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "herkkuruoat"
+    },
+    {
+      "surface": "המטעמים",
+      "gloss": "herkkuruoat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "leivän"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "leivän"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "hän oli valmistanut"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käteen"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akovin"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "poikansa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:16:42.387107202Z",
+  "model": "glm-5.3"
+}

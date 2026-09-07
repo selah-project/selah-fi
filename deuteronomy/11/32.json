@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja te pidätte kaikkea ja teette ⟨את⟩ kaikki säädökset ja ⟨את⟩ oikeudet, jotka minä annan teidän eteenne tänään.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Ja te pidätte"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ja teette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki säädökset"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "säädökset"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "oikeudet"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "oikeudet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "annan"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "teidän eteenne"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tänään"
+    }
+  ],
+  "timestamp": "2026-09-06T22:27:58.174058953Z",
+  "model": "glm-5.3"
+}

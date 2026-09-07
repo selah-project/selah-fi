@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja tapahtui, kun David oli Edomin ⟨את⟩ kanssa, Yoavin (Joob), sotajoukon päämiehen, noustessa hautaamaan ⟨את⟩ surmatut — hän löi jokaisen miehen Edomissa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja tapahtui"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "kun ... oli"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ kanssa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomin"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "noustessa"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoavin"
+    },
+    {
+      "surface": "שר",
+      "gloss": "päämiehen"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "sotajoukon"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "hautaamaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "surmatut"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "surmatut"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ja hän löi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokaisen"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Edomissa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:39:29.243014716Z",
+  "model": "glm-5.3"
+}

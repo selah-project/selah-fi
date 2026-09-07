@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 41:24",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 41,
+  "translation": "Ja laihat tähkät nielivät ⟨את⟩ seitsemän hyvää tähkää; ja minä sanoin tietäjille, eikä ⟨ole⟩ ilmoittajaa minulle.",
+  "tokens": [
+    {
+      "surface": "ותבלען",
+      "gloss": "ja ne nielivät"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "tähkät"
+    },
+    {
+      "surface": "הדקת",
+      "gloss": "laihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seitsemän hyvää tähkää"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seitsemän"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "tähkää"
+    },
+    {
+      "surface": "הטבות",
+      "gloss": "hyvää"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ja minä sanoin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…lle"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "tietäjille"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "ilmoittajaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    }
+  ],
+  "timestamp": "2026-09-06T21:23:08.734951588Z",
+  "model": "glm-5.3"
+}

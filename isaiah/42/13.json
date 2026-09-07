@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 42:13",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Jahve lähtee ulos kuin sankari, kuin sotamies herättää hän kiivauden; hän huutaa, päin vastoin karjaisee, vihollisiaan vastaan hän osoittaa voimansa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "kuin sankari"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lähtee ulos"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "kuin mies"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "sotien"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "herättää"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "kiivauden"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "huutaa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "päin vastoin"
+    },
+    {
+      "surface": "יצריח",
+      "gloss": "karjaisee"
+    },
+    {
+      "surface": "על",
+      "gloss": "vastaan"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "vihollisiaan"
+    },
+    {
+      "surface": "יתגבר",
+      "gloss": "osoittaa voimansa"
+    }
+  ],
+  "timestamp": "2026-09-07T00:15:10.476408986Z",
+  "model": "glm-5.3"
+}

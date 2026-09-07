@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 6:44",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja ⟨את⟩ Ashanin ja ⟨את⟩ sen laitumet, ja ⟨את⟩ Beit-Shemeshin (Beit-Semes) ja ⟨את⟩ sen laitumet.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Ashanin"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ashanin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen laitumet"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "sen laitumet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Beit-Shemeshin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "-Shemeshin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen laitumet"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "sen laitumet"
+    }
+  ],
+  "timestamp": "2026-09-07T05:15:46.974674239Z",
+  "model": "glm-5.3"
+}

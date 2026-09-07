@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "sillä he kuulevat ⟨את⟩ suuren nimesi ja ⟨את⟩ väkevän kätesi ja ojennetun käsivartesi, ja hän tulee ja rukoilee kohti tätä taloa,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "he kuulevat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suuren nimesi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nimesi"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "suuren"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "väkevän kätesi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kätesi"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "väkevän"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "ja käsivartesi"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "ojennetun"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ja hän tulee"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "ja rukoilee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "taloa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tätä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:38:36.014738974Z",
+  "model": "glm-5.3"
+}

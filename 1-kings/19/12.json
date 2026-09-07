@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 19:12",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "ja järistyksen jälkeen tuli — ei tulessa ⟨ollut⟩ Jahve; ja tulen jälkeen hiljaisuuden hento ääni.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "ja jälkeen"
+    },
+    {
+      "surface": "הרעש",
+      "gloss": "järistyksen"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulessa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ja jälkeen"
+    },
+    {
+      "surface": "האש",
+      "gloss": "tulen"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ääni"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "hiljaisuuden"
+    },
+    {
+      "surface": "דקה",
+      "gloss": "hento"
+    }
+  ],
+  "timestamp": "2026-09-06T23:43:49.010711004Z",
+  "model": "glm-5.3"
+}

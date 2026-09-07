@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 13:21",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "He nousivat ja tutkivat ⟨את⟩ maan, Tsinin erämaasta Rehoviin asti, Hamatin sisääntuloon asti.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "He nousivat"
+    },
+    {
+      "surface": "ויתרו",
+      "gloss": "ja tutkivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "erämaasta"
+    },
+    {
+      "surface": "צן",
+      "gloss": "Tsin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehov"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "sisääntuloon"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    }
+  ],
+  "timestamp": "2026-09-07T04:14:45.785714350Z",
+  "model": "glm-5.3"
+}

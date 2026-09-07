@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 44,
+  "translation": "Kuka on muovannut jumalan ja valanut patsaan, joka ei hyödytä?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "on muovannut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jumalan"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "ja patsaan"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "valanut"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "joka ei"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "hyödytä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:16:22.108879532Z",
+  "model": "glm-5.3"
+}

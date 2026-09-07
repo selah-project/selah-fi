@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Lampaineen ja nautakarjoineen he menevät etsimään ⟨את⟩ Jahvea, mutta eivät löydä häntä; hän on vetäytynyt heidän luotaan.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "lampaineen"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "ja nautakarjoineen"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "he menevät"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "etsimään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mutta eivät"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "löydä"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "on vetäytynyt"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "heidän luotaan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:20:32.875638042Z",
+  "model": "glm-5.3"
+}

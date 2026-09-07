@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Mestarille. Davidin ⟨psalmi⟩. Jahveen minä turvauduin — kuinka te sanotte nefeshilleni: ”Pakene vuorellenne, lintu”?",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Mestarille"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahveen"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "turvauduin"
+    },
+    {
+      "surface": "איך",
+      "gloss": "kuinka"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "te sanotte"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "nefeshilleni"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "pakene"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "vuorellenne"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "lintu"
+    }
+  ],
+  "timestamp": "2026-09-07T01:56:19.451818132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 2:9",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja he hautasivat ⟨את⟩ hänet hänen perintönsä rajalle, Timnat-Heresiin, Efraimin vuorelle, Gaash-vuoren pohjoispuolelle.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "Ja he hautasivat"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ hänet",
+      "marks": "hän itse (pronomini, ei objektimerkki)"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "rajalle"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "hänen perintönsä"
+    },
+    {
+      "surface": "בתמנת",
+      "gloss": "Timnat-Heresiin"
+    },
+    {
+      "surface": "חרס",
+      "gloss": "(Heres)"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "vuorelle"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimin"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "pohjoispuolelle"
+    },
+    {
+      "surface": "להר",
+      "gloss": "vuoren"
+    },
+    {
+      "surface": "געש",
+      "gloss": "Gaash"
+    }
+  ],
+  "timestamp": "2026-09-06T22:50:16.167660173Z",
+  "model": "glm-5.3"
+}

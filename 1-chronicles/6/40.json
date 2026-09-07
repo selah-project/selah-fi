@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja he antoivat heille ⟨את⟩ Hevronin Jehudan maasta ja ⟨את⟩ sen laidat sen ympäriltä.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ja he antoivat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevronin"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevronin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen laidat"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "sen laidat"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "sen ympäriltä"
+    }
+  ],
+  "timestamp": "2026-09-07T05:15:38.120590482Z",
+  "model": "glm-5.3"
+}

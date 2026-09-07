@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja Elohim sanoi Avrahamille: Ja sinä — sinä pidät ⟨את⟩ Beritini, sinä ja siemenesi sinun jälkeesi, heidän sukupolvilleen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamille"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ja sinä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beritini"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "Beritini"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "pidät"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "ja siemenesi"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "sinun jälkeesi"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "heidän sukupolvilleen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:10:32.682442880Z",
+  "model": "glm-5.3"
+}

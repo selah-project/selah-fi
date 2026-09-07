@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja näistä te tulette saastaisiksi: jokainen, joka koskettaa niiden raatoa, on saastainen iltaan asti.",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "Ja näistä"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "te tulette saastaisiksi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokainen"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "joka koskettaa"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "niiden raatoa"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "on saastainen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "iltaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:50:28.797419950Z",
+  "model": "glm-5.3"
+}

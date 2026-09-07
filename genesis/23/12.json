@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja Avraham kumarsi maan kansan edessä.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "ja kumarsi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:12:24.489479161Z",
+  "model": "glm-5.3"
+}

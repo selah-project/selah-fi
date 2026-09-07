@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Mutta jos hän ei pese ⟨vaatteitaan⟩ eikä peseydy ruumiistaan vedellä, hän kantakoon syyllisyytensä.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mutta jos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "pese"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "ruumiistaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "peseydy"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "kantakoon"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "syyllisyytensä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:55:18.436259865Z",
+  "model": "glm-5.3"
+}

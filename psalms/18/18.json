@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 18:18",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Hän pelasti minut voimakkaalta viholliseltani ja minun vihaajiltani, sillä he olivat minua väkevämmät.",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "Hän pelasti minut"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "viholliseltani"
+    },
+    {
+      "surface": "עז",
+      "gloss": "voimakkaalta"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "ja minun vihaajiltani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "he olivat väkevät"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minua"
+    }
+  ],
+  "timestamp": "2026-09-07T01:58:21.586001736Z",
+  "model": "glm-5.3"
+}

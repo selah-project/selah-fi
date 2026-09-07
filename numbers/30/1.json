@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 30:1",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja puhui Moshe (Mooses) Israelin pojille: kaiken mukaan, minkä Jahve oli käskenyt ⟨את⟩ Moshen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja puhui"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojille"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kaiken mukaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minkä"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oli käskenyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshen"
+    }
+  ],
+  "timestamp": "2026-09-07T04:13:48.809619609Z",
+  "model": "glm-5.3"
+}

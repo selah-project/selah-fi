@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja he syövät eivätkä kyllästy, he haureutta harjoittavat eivätkä lisäänny, sillä ⟨את⟩ Jahve he hylkäsivät, lakaten pitämästä vaaria.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "Ja he syövät"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "kyllästy"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "he haureutta harjoittavat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "lisäänny"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "he hylkäsivät"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "pitämästä vaaria"
+    }
+  ],
+  "timestamp": "2026-09-07T01:19:41.083997317Z",
+  "model": "glm-5.3"
+}

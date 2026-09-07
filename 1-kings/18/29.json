@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 18:29",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja tapahtui, keskipäivän mennyttä, että he profetoivat aina iltaminhan nostamisen saakka; eikä ääntä ⟨ollut⟩, eikä vastaajaa, eikä kuulijaa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "כעבר",
+      "gloss": "mennyttä"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "keskipäivän"
+    },
+    {
+      "surface": "ויתנבאו",
+      "gloss": "profetoivat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aina"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "nostamisen saakka"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "iltaminhan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ääntä"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "vastaajaa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "קשב",
+      "gloss": "kuulijaa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:44:02.368006472Z",
+  "model": "glm-5.3"
+}

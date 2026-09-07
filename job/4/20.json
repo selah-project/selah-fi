@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 4:20",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Aamusta iltaan heidät murskataan; kenellekään ⟨huomiotta⟩, iäisesti he hukkuvat.",
+  "tokens": [
+    {
+      "surface": "מבקר",
+      "gloss": "aamusta"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "iltaan"
+    },
+    {
+      "surface": "יכתו",
+      "gloss": "heidät murskataan"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "ilman"
+    },
+    {
+      "surface": "משים",
+      "gloss": "kenellekään ⟨huomiotta⟩"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "iäisesti"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "he hukkuvat"
+    }
+  ],
+  "timestamp": "2026-09-07T03:22:44.667231235Z",
+  "model": "glm-5.3"
+}

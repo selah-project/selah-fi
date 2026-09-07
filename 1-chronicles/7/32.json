@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja Hever siitti ⟨את⟩ Yafletin ja ⟨את⟩ Shomerin ja ⟨את⟩ Hotamin ja ⟨את⟩ Shuan, heidän sisarensa.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "ja Hever"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yafletin"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Yafletin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Shomerin"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Shomerin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Hotamin"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Hotamin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Shuan"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Shuan"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "heidän sisarensa"
+    }
+  ],
+  "timestamp": "2026-09-07T05:14:51.481483668Z",
+  "model": "glm-5.3"
+}

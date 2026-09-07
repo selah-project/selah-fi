@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Kun viljelet ⟨את⟩ maata, se ei enää anna voimaansa sinulle; vaeltaja ja pakolainen sinä olet maan päällä.”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kun"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "viljelet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maata"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "maata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "enää"
+    },
+    {
+      "surface": "תת",
+      "gloss": "anna"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "voimaansa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "נע",
+      "gloss": "vaeltaja"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "ja pakolainen"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olet"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maan päällä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:04:19.913793748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja ⟨את⟩ kaikki sen rasva tuotakoon siitä lähelle: ⟨את⟩ rasvahännän ja ⟨את⟩ rasvan, joka peittää ⟨את⟩ sisälmykset.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki sen rasva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "sen rasva"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "tuotakoon lähelle"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "siitä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rasvahännän"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "rasvahännän"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "rasvan"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "rasvan"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "joka peittää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sisälmykset"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "sisälmykset"
+    }
+  ],
+  "timestamp": "2026-09-06T21:49:23.569770853Z",
+  "model": "glm-5.3"
+}

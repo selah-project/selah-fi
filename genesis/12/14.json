@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 12:14",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja tapahtui, kun Avram (Abram) saapui Mitsrajimiin (Egyptiin), että mitsrailaiset näkivät ⟨את⟩ naisen, että hän ⟨on⟩ sangen kaunis.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "kun saapui"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram (Abram)"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrajimiin (Egyptiin)"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "että näkivät"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "mitsrailaiset"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naisen"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "naisen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "kaunis"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:22.787303879Z",
+  "model": "glm-5.3"
+}

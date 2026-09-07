@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 7:9",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja jokainen mincha (jauhouhri), joka paistetaan uunissa, ja jokainen, joka on valmistettu paistinpannussa tai levypannulla, ⟨on⟩ kohenin (papin), joka tuo sen lähelle ⟨את⟩ — se tulee olemaan hänen.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ja jokainen"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "paistetaan"
+    },
+    {
+      "surface": "בתנור",
+      "gloss": "uunissa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja jokainen"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "on valmistettu"
+    },
+    {
+      "surface": "במרחשת",
+      "gloss": "paistinpannussa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "tai levypannulla"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "levypannu"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kohenille"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "joka tuo lähelle"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sen (minchan)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "se tulee olemaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:48:45.186286239Z",
+  "model": "glm-5.3"
+}

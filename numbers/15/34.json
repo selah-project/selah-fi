@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 15:34",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Ja panivat ⟨את⟩ hänet säilytykseen, sillä ei ollut selvitetty, mitä hänelle tehtäisiin.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "panivat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänen",
+      "marks": "hänet (vangittu mies)"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "säilytykseen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "ollut selvitetty"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tehtäisiin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    }
+  ],
+  "timestamp": "2026-09-06T22:11:15.811209270Z",
+  "model": "glm-5.3"
+}

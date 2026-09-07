@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 39,
+  "translation": "ja ⟨את⟩ turbaanin, byssoksen, ja ⟨את⟩ koristepäähineet, byssoksen, ja ⟨את⟩ housut, byssoksen, kierrettyä.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "turbaanin"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "turbaanin"
+    },
+    {
+      "surface": "שש",
+      "gloss": "byssoksen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "koristepäähineet"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "koristepäähineet"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "—"
+    },
+    {
+      "surface": "שש",
+      "gloss": "byssoksen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "housut"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "housut"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "—"
+    },
+    {
+      "surface": "שש",
+      "gloss": "byssoksen"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "kierrettyä"
+    }
+  ],
+  "timestamp": "2026-09-07T06:34:42.618742006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 31:9",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Ja Moshe (Mooses) kirjoitti tämän Toran (Toora) ja antoi ⟨את⟩ sen papeille (koheneille), Leevin pojille, jotka kantavat ⟨את⟩ Jahven liiton arkun, ja kaikille Israelin vanhuksille.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Ja kirjoitti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän Toran"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "ja antoi sen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "papeille"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "koheneille"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojille"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Leevin"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "jotka kantavat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liiton arkun"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkun"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "liiton (Berit)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja kaikille"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikille"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vanhuksille"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-07T06:34:07.717060179Z",
+  "model": "glm-5.3"
+}

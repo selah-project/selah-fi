@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Ja kaikki kansa irrotti ⟨את⟩ kultarenkaat, jotka olivat heidän korvissaan, ja toivat ne Aharonille.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "irrotti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kultarenkaat"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "renkaat"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kulta-"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "heidän korvissaan"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ja toivat"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonille"
+    }
+  ],
+  "timestamp": "2026-09-06T21:43:44.940527741Z",
+  "model": "glm-5.3"
+}

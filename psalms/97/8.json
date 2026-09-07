@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 97,
+  "translation": "Kuuli ja iloitsi Tsijon (Siion), ja riemuitsivat Jehudan (Juudan) tyttäret sinun tuomiotesi tähden, Jahve.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Kuuli"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "ja iloitsi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijon (Siion)"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "ja riemuitsivat"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "tyttäret"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan (Juudan)"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "sinun tuomiotesi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-07T02:34:11.575810594Z",
+  "model": "glm-5.3"
+}

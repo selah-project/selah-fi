@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "⟨את⟩ hopeasi älä anna hänelle korkiona, ja lisäkorolla älä anna ruokaasi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hopeasi"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "hopeasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "anna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "korkiona"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "ja lisäkorolla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "anna"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "ruokaasi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:59:22.112953657Z",
+  "model": "glm-5.3"
+}

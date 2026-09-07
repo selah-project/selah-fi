@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Attai synnytti ⟨את⟩ Nathanin, ja Nathan synnytti ⟨את⟩ Zabadin.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "Ja Attai"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nathanin"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nathanin"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ja Nathan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zabadin"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Zabadin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:10:38.167586342Z",
+  "model": "glm-5.3"
+}

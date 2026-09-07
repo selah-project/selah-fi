@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Jahve, Elohimini, jos tein tämän, jos käsiini ⟨kohdistuu⟩ väärys,",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimini"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "tein"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "יש",
+      "gloss": "on"
+    },
+    {
+      "surface": "עול",
+      "gloss": "väärys"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "käsiini"
+    }
+  ],
+  "timestamp": "2026-09-07T01:52:28.505266324Z",
+  "model": "glm-5.3"
+}

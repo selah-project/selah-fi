@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 55:13",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 55,
+  "translation": "Sillä ei vihollinen minua herjannut — silmin kantaisin sen — eikä vihannuteni minua vastaan korostanut itseään — silmin piiloutuisin häneltä.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "vihollinen"
+    },
+    {
+      "surface": "יחרפני",
+      "gloss": "minua herjannut"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "kantaisin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "vihannuteni"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "minua vastaan"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "korostanut itseään"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "piiloutuisin"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "häneltä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:13:08.471949554Z",
+  "model": "glm-5.3"
+}

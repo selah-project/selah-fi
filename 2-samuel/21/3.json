@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 21:3",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja David sanoi gibeonilaisille: Mitä minä teen teille, ja millä minä sovitan, että te siunaisitte ⟨את⟩ Jahven perintöosan?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "gibeonilaisille"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "minä teen"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "ובמה",
+      "gloss": "ja millä"
+    },
+    {
+      "surface": "אכפר",
+      "gloss": "sovitan"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "että te siunaisitte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven perintöosan"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "perintöosan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-06T23:30:45.042281320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 33:22",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Samoin kuin taivaan sotalaumaa ei voida laskea eikä meren hiekkaa voida mitata, niin minä monistan ⟨את⟩ Davidin, palvelijani, siemenen ja ⟨את⟩ leeviläiset, jotka palvelevat ⟨את⟩ minua.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "samoin kuin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "voida laskea"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "sotalaumaa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "ימד",
+      "gloss": "voida mitata"
+    },
+    {
+      "surface": "חול",
+      "gloss": "hiekkaa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "meren"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "monistan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidin siemenen"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "siemenen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "palvelijani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "leeviläiset"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leeviläiset"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "palvelevat"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ minua"
+    }
+  ],
+  "timestamp": "2026-09-07T00:40:04.813299672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "habakkuk 3:3",
+  "book": "habakkuk",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Eloah tulee Temanista, ja Pyhä Paaranin vuorelta. Selah. Hänen loistonsa peitti taivaat, ja hänen ylistystään ⟨oli⟩ täyttämässä maa.",
+  "tokens": [
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "מתימן",
+      "gloss": "Temanista"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "tulee"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "ja Pyhä"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "vuorelta"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paaran"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "peitti"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "taivaat"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "hänen loistonsa"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "ja hänen ylistyksensä"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "täytti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:30:16.942665425Z",
+  "model": "glm-5.3"
+}

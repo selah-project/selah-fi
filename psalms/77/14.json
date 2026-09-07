@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 77,
+  "translation": "Elohim, pyhässä ⟨on⟩ tiesi: kuka ⟨on⟩ suuri El niinkuin Elohim?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "pyhässä"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "tiesi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suuri"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "niinkuin Elohim"
+    }
+  ],
+  "timestamp": "2026-09-07T02:22:09.990933864Z",
+  "model": "glm-5.3"
+}

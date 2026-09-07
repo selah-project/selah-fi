@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 109,
+  "translation": "Kuin varjo, joka pitenee, niin minä olen kulkenut; minä olen pudisteltu kuin heinäsirkka.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "Kuin varjo"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "joka pitenee"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "minä olen kulkenut"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "minä olen pudisteltu"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "kuin heinäsirkka"
+    }
+  ],
+  "timestamp": "2026-09-07T02:41:27.859073739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja ⟨את⟩ kansan loput hän antoi Avishain (Abisai), veljensä, käteen, ja tämä asetti heidät järjestykseen Ammonin poikia vastaan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kansan loput"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "loput"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "hän antoi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käteen"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Avishain"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "veljensä"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "ja tämä asetti järjestykseen"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "vastaan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikia"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammonin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:23:27.593198807Z",
+  "model": "glm-5.3"
+}

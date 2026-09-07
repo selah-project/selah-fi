@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 30:33",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Sillä maidon mäiskyttäminen tuo esiin voita, ja nenän mäiskyttäminen tuo esiin verta, ja vihan mäiskyttäminen tuo esiin riidan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מיץ",
+      "gloss": "mäiskyttäminen"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "maidon"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "tuo esiin"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "voita"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "ja mäiskyttäminen"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nenän"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "tuo esiin"
+    },
+    {
+      "surface": "דם",
+      "gloss": "verta"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "ja mäiskyttäminen"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "vihan"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "tuo esiin"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "riidan"
+    }
+  ],
+  "timestamp": "2026-09-07T03:20:38.861314544Z",
+  "model": "glm-5.3"
+}

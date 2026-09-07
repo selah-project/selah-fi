@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 2:12",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja he hylkäsivät ⟨את⟩ Jahven, heidän isiensä Elohimin, joka vei ⟨את⟩ heidät maasta Mitsrajimista (Egypti), ja he seurasivat muita jumalia, niiden ympärillä olevien kansojen jumalia, ja kumarsivat niitä, ja he suututtivat ⟨את⟩ Jahven.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "Ja he hylkäsivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "heidän isiensä"
+    },
+    {
+      "surface": "המוציא",
+      "gloss": "joka vei"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ heidät",
+      "marks": "he itse (pronomini, ei objektimerkki)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimista (Egypti)"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ja he seurasivat"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "(jälkeen)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jumalia"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "muita"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "(niiden) jumalista"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "kansojen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "סביבותיהם",
+      "gloss": "heitä ympäröivät"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ja kumarsivat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "niitä"
+    },
+    {
+      "surface": "ויכעסו",
+      "gloss": "ja he suututtivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-06T22:50:16.184175929Z",
+  "model": "glm-5.3"
+}

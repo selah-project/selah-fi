@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja Yoav vastasi ja sanoi: Pois se, pois se olkoon minulta, että minä nielaisisin tai turmelisin!",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Ja Yoav vastasi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Pois se"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "pois se"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "että"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "nielaisisin"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "tai"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "turmelisin"
+    }
+  ],
+  "timestamp": "2026-09-07T04:23:57.566561948Z",
+  "model": "glm-5.3"
+}

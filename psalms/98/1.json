@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 98,
+  "translation": "Psalmi. Laulakaa Jahvelle uusi laulu, sillä hän on tehnyt ihmeitä; hänen oikea kätensä ja hänen pyhä käsivartensa on hankkinut hänelle voiton.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psalmi"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Laulakaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "laulu"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "uusi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "ihmeitä"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "on tehnyt"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "on hankkinut voiton"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "hänen oikea kätensä"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "ja käsivartensa"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "hänen pyhä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:35:46.547538019Z",
+  "model": "glm-5.3"
+}

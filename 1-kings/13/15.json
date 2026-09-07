@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja hän sanoi hänelle: ”Tule ⟨את⟩ kanssani kotiin ja syö leipää.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Tule"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kanssani",
+      "marks": "kanssani"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "kotiin"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ja syö"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    }
+  ],
+  "timestamp": "2026-09-06T23:39:28.028233737Z",
+  "model": "glm-5.3"
+}

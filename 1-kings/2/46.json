@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 2:46",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja kuningas käski Benajahun, Jehojadan pojan, ⟨את⟩; ja hän lähti ja löi hänet, ja hän kuoli; ja kuningaskunta oli vahva Shelomon kädessä.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ja käski"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Benajahun"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojadan"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ja hän lähti"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "ja löi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hänet"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ja hän kuoli"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "ja kuningaskunta"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "vahva"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kädessä"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomon"
+    }
+  ],
+  "timestamp": "2026-09-06T23:32:09.314686894Z",
+  "model": "glm-5.3"
+}

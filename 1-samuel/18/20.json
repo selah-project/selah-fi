@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Mikhal, Shaulin tytär, rakasti ⟨את⟩ Davidia, ja he kertoivat Shaulille, ja asia oli oikea hänen silmissään.",
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "rakasti"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikhal"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tytär"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidia"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "ja he kertoivat"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaulille"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ja oli oikea"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asia"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "hänen silmissään"
+    }
+  ],
+  "timestamp": "2026-09-06T23:12:52.900567175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 14:14",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja hän otti ⟨את⟩ kaiken kullan ja hopean ja ⟨את⟩ kaikki astiat, jotka löydettiin Jahven huoneesta ja kuninkaan huoneen aarrekammioista, ja ⟨את⟩ panttivankien pojat, ja hän palasi Shomroniin (Samaria).",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ja hän otti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken kullan ja hopean"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kullan"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "ja hopean"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki astiat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "astiat"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "jotka löydettiin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneesta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "ja aarrekammioista"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "panttivankien pojat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "התערבות",
+      "gloss": "panttivankien"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja hän palasi"
+    },
+    {
+      "surface": "שמרונה",
+      "gloss": "Shomroniin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:53:54.785146215Z",
+  "model": "glm-5.3"
+}

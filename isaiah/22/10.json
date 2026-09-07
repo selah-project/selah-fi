@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja ⟨את⟩ Jerushalajimin talot laskitte, ja taloja puritte muurin lujittamiseksi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Jerushalajimin talot"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "talot"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimin"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "laskitte"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "ja puritte"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "taloja"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "lujittamiseksi"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "muurin"
+    }
+  ],
+  "timestamp": "2026-09-07T00:06:21.234388157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 145,
+  "translation": "Armallinen ja laupias ⟨on⟩ Jahve, hidas vihastumaan ja suuri hesedissään.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Armallinen"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "ja laupias"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "hidas"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "vihastumaan"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "ja suuri"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedissään"
+    }
+  ],
+  "timestamp": "2026-09-07T02:55:38.376752448Z",
+  "model": "glm-5.3"
+}

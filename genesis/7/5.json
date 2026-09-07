@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja Noach teki kaiken, minkä Jahve hänelle käski.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ja teki"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minkä"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "hänelle käski"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-06T21:06:07.742006834Z",
+  "model": "glm-5.3"
+}

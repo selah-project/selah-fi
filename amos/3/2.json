@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 3:2",
+  "book": "amos",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Vain ⟨את⟩ teidät minä tunnen kaikista maan sukukunnista; sentähden minä rankaisen teitä ⟨את⟩ kaikki rikkomuksenne.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Vain"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "minä tunnen"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kaikista"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "sukukunnista"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "maan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "minä rankaisen"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "teitä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki rikkomuksenne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "rikkomuksenne"
+    }
+  ],
+  "timestamp": "2026-09-07T01:26:34.758342443Z",
+  "model": "glm-5.3"
+}

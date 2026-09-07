@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 39,
+  "translation": "Ja Jahve oli ⟨את⟩ Josef (Joosef), ja hän ojensi hänelle hesedin (uskoollisen laupeuden), ja asetti hänen armonsa vankilan päällikön silmissä.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja oli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ja ojensi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedin"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ja antoi"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "hänen armonsa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "silmissä"
+    },
+    {
+      "surface": "שר",
+      "gloss": "päällikön"
+    },
+    {
+      "surface": "בית",
+      "gloss": "vankilan"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "vankeinhoitolaitoksen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:21:55.569797781Z",
+  "model": "glm-5.3"
+}

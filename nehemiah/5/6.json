@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 5:6",
+  "book": "nehemiah",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja minulle syttyi viha kovasti, kun kuulin ⟨את⟩ heidän huutonsa ja ⟨את⟩ nämä sanat.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "Ja syttyi viha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kovasti"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kun"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "kuulin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän huutonsa"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "heidän huutonsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "nämä sanat"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nämä"
+    }
+  ],
+  "timestamp": "2026-09-07T05:04:14.597940196Z",
+  "model": "glm-5.3"
+}

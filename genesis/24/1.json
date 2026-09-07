@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja Avraham (Aabraham) oli vanha, tullut päiviin, ja Jahve oli siunannut ⟨את⟩ Avrahamia kaikessa.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Ja Avraham"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "oli vanha"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tullut"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "päiviin"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ja Jahve"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "oli siunannut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamia"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamia"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaikessa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:13:34.181993039Z",
+  "model": "glm-5.3"
+}

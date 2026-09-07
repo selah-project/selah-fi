@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja puhui Elohim Noachille (Nooa) ja hänen pojilleen ⟨את⟩ hänen kanssaan, sanoen:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja puhui"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-lle"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noachille (Nooa)"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja -lle"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hänen pojilleen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänen kanssaan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:06:06.290007083Z",
+  "model": "glm-5.3"
+}

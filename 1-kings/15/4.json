@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 15:4",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Sillä Davidin tähden Jahve, hänen Elohiminsa, antoi hänelle lampun Jerushalajimiin (Jerusalem), nostamaan ⟨את⟩ hänen poikansa hänen jälkeensä ja vahvistamaan ⟨את⟩ Jerushalajimin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "antoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohiminsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "lampun"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerushalajimiin"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "nostamaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen poikansa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "hänen jälkeensä"
+    },
+    {
+      "surface": "ולהעמיד",
+      "gloss": "ja vahvistamaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerushalajimin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:42:31.867686249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 20:12",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja tapahtui, kun hän kuuli ⟨את⟩ tämän sanan — hän ja kuninkaat joivat majoissa — että hän sanoi palvelijoilleen: Asettukaa. Ja he asettuivat kaupunkia vastaan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "kun hän kuuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän sanan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sanan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ja hän"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "joivat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "ja kuninkaat"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "majoissa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "että hän sanoi"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "palvelijoilleen"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "Asettukaa"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "Ja he asettuivat"
+    },
+    {
+      "surface": "על",
+      "gloss": "vastaan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupunkia"
+    }
+  ],
+  "timestamp": "2026-09-06T23:43:43.484841319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Joka silmäänsä tuimii, saa aikaan kipua, mutta huuliveikari lyödään maahan.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "tuimii"
+    },
+    {
+      "surface": "עין",
+      "gloss": "silmäänsä"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "saa aikaan"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "kipua"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "mutta huuliveikari"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "huulien"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "lyödään maahan"
+    }
+  ],
+  "timestamp": "2026-09-07T03:04:30.633062438Z",
+  "model": "glm-5.3"
+}

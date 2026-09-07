@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 139,
+  "translation": "Kuorunjohtajalle. Davidin (Daavid) psalmi. Jahve, sinä olet tutkinut minut ja tunnet.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kuorunjohtajalle"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "sinä olet tutkinut minut"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "ja tunnet"
+    }
+  ],
+  "timestamp": "2026-09-07T02:53:40.388666232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ja sinä puetat ⟨את⟩ Aharonin ⟨את⟩ pyhät vaatteet, ja voit ⟨את⟩ hänet ja pyhität ⟨את⟩ hänet, ja hän toimii pappina minulle.",
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "ja sinä puetat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharonin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonin (Aaronin)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pyhät vaatteet"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "vaatteet"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pyhät"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ja voit"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ja pyhität"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "ja hän toimii pappina"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    }
+  ],
+  "timestamp": "2026-09-06T21:47:05.106112298Z",
+  "model": "glm-5.3"
+}

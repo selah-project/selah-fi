@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja hän kysyi hänelle Jahvelta ja antoi hänelle muonaa, ja ⟨את⟩ Golyatin (Goljath) filistealaisen miekan antoi hänelle.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Ja hän kysyi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvelta"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "ja muonaa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "antoi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Golyatin filistealaisen miekan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "miekan"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Golyatin"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filistealaisen"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "antoi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    }
+  ],
+  "timestamp": "2026-09-06T23:14:20.179848700Z",
+  "model": "glm-5.3"
+}

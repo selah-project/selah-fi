@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 36,
+  "translation": "Nämä ovat nimet Esavin (Esaun) poikien: Elifaz, Adan (Adan) poika, Esavin vaimo, ja Reuel, Basmatin (Basmatin) poika, Esavin vaimo.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Nämä"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nimet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikien"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavin"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adan"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vaimo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavin"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Basmatin"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vaimo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:20:02.785853360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja mies, joka antaa makaamisensa karjaan — kuolemalla hänet surmattakoon, ja ⟨את⟩ karjan te tappakaa.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ja mies"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "antaa"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "makaamisensa"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "karjaan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kuolemalla"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "hänet surmattakoon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "karjan"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "karjan"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "te tappakaa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:58:21.398797134Z",
+  "model": "glm-5.3"
+}

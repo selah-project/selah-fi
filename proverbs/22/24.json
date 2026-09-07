@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Älä ystävysty ⟨את⟩ vihaisen kanssa, äläkä ⟨את⟩ kiivashenkisen miehen kanssa kulje.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "ystävysty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vihaisen"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "vihaisen"
+    },
+    {
+      "surface": "אף",
+      "gloss": "vihan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kiivashenkisen miehen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "kiivashenkisen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älkä"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kulje"
+    }
+  ],
+  "timestamp": "2026-09-07T03:17:21.025873791Z",
+  "model": "glm-5.3"
+}

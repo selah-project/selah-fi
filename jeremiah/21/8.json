@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja tälle kansalle sinä sanot: näin on sanonut Jahve: Katso, minä panen teidän eteenne ⟨את⟩ elämän tien ja ⟨את⟩ kuoleman tien.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansalle"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tälle"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "sinä sanot"
+    },
+    {
+      "surface": "כה",
+      "gloss": "näin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "on sanonut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "katso, minä"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "panen"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "eteenne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elämän tien"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tien"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "elämän"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kuoleman tien"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tien"
+    },
+    {
+      "surface": "המות",
+      "gloss": "kuoleman"
+    }
+  ],
+  "timestamp": "2026-09-07T00:33:21.726091454Z",
+  "model": "glm-5.3"
+}

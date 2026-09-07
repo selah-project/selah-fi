@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 5:3",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Reuvenin, Israelin esikoisen, pojat: Hanokh (Hanok), Pallu, Hetshron (Hesron) ja Karmi.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuvenin"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "esikoisen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanokh"
+    },
+    {
+      "surface": "ופלוא",
+      "gloss": "ja Pallu"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Hetshron"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "ja Karmi"
+    }
+  ],
+  "timestamp": "2026-09-07T05:13:32.077783936Z",
+  "model": "glm-5.3"
+}

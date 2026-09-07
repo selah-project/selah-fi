@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 3:10",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja hän sanoi minulle: Ihmisen poika, ⟨את⟩ kaikki sanani, jotka minä puhun sinulle, ota sydämeesi ja korvillasi kuule.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Ihmisen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki sanani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "minä puhun"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ota"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "sydämeesi"
+    },
+    {
+      "surface": "ובאזניך",
+      "gloss": "ja korvillasi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kuule"
+    }
+  ],
+  "timestamp": "2026-09-07T00:53:11.826600299Z",
+  "model": "glm-5.3"
+}

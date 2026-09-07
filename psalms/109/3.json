@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 109,
+  "translation": "Ja vihan sanat ympäröivät minut, ja he sotaivat minua vastaan syyttä.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "ja sanat"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "vihan"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "ympäröivät minut"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "ja he sotaivat minua vastaan"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "syyttä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:42:35.455624857Z",
+  "model": "glm-5.3"
+}

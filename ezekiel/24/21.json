@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 24:21",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Sano Israelin suvulle: Näin sanoo Adonai Jahve: Katso, minä häpäisen ⟨את⟩ pyhäkköni, voimanne ylpeyden, silmainne himoitseman, sielunne säälimän; ja teidän poikanne ja tyttärenne, jotka jätitte jälkeenne, kaatuvat miekalla.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Sano"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "suvulle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Näin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "מחלל",
+      "gloss": "minä häpäisen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pyhäkköni"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "pyhäkköni"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ylpeyden"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "voimanne"
+    },
+    {
+      "surface": "מחמד",
+      "gloss": "himoitseman"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "silmainne"
+    },
+    {
+      "surface": "ומחמל",
+      "gloss": "ja säälimän"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "sielunne"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "ja poikanne"
+    },
+    {
+      "surface": "ובנותיכם",
+      "gloss": "ja tyttärenne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "jätitte"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "miekalla"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "kaatuvat"
+    }
+  ],
+  "timestamp": "2026-09-07T01:03:15.747622357Z",
+  "model": "glm-5.3"
+}

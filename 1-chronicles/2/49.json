@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 2:49",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja hän synnytti Shaaphin, Madmannan isän, ⟨את⟩ Shevan, Makhbenan isän, ja Givan isän; ja Kalevin tytär oli Aksha.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ja hän synnytti"
+    },
+    {
+      "surface": "שעף",
+      "gloss": "Shaaphin"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "isän"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "Madmannan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shevan"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "Shevan"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "isän"
+    },
+    {
+      "surface": "מכבנה",
+      "gloss": "Makhbenan"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "ja isän"
+    },
+    {
+      "surface": "גבעא",
+      "gloss": "Givan"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "ja tytär"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalevin"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Aksha"
+    }
+  ],
+  "timestamp": "2026-09-07T05:10:53.441346619Z",
+  "model": "glm-5.3"
+}

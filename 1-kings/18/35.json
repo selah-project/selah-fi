@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja vesi juoksi ympäri alttarin, ja myös ⟨את⟩ vesihaudan hän täytti vedellä.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ja juoksi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vesi"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympäri"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja myös"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vesihaudan"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "vesihaudan"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "hän täytti"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vedellä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:43:34.962549803Z",
+  "model": "glm-5.3"
+}

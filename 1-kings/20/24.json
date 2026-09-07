@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 20:24",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja ⟨את⟩ tämän sanan tee: poista kuninkaat kukin paikaltaan ja aseta pahot (maaherrat) heidän tilalleen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "tämän sanan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "tämän sanan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tee"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "poista"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "kuninkaat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kukin"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "paikaltaan"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "ja aseta"
+    },
+    {
+      "surface": "פחות",
+      "gloss": "pahot"
+    },
+    {
+      "surface": "תחתיהם",
+      "gloss": "heidän tilalleen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:44:15.854911621Z",
+  "model": "glm-5.3"
+}

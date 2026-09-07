@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 11:7",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Tulkaa, astukaamme alas ja sekoittakaamme siellä heidän kielensä, niin ettei mies ymmärrä toverinsa kieltä.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Tulkaa"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "astukaamme alas"
+    },
+    {
+      "surface": "ונבלה",
+      "gloss": "ja sekoittakaamme"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "שפתם",
+      "gloss": "heidän kielensä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "niin etta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ymmärrä"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "kieltä"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "toverinsa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:08.575497922Z",
+  "model": "glm-5.3"
+}

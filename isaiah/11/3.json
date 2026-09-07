@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 11:3",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja hänen lempansa ⟨on⟩ Jahven pelossa, eikä hän tuomitse silmiensä näön mukaan, eikä nuhtele korviensa kuulon mukaan.",
+  "tokens": [
+    {
+      "surface": "והריחו",
+      "gloss": "Ja hänen lempansa"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "pelossa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "näön mukaan"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "silmiensä"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "hän tuomitse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "למשמע",
+      "gloss": "kuulon mukaan"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "korviensa"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "nuhtele"
+    }
+  ],
+  "timestamp": "2026-09-07T00:04:59.813355306Z",
+  "model": "glm-5.3"
+}

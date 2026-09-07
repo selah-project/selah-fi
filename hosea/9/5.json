@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Mitä teette määräpäivänä, ja Jahven juhlan päivänä?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Mitä"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "teette"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "määrä-"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "ja päivänä"
+    },
+    {
+      "surface": "חג",
+      "gloss": "juhlan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-07T01:24:47.847733006Z",
+  "model": "glm-5.3"
+}

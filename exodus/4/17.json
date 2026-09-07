@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja ⟨את⟩ tämän sauvan sinä otat käteesi, jolla teet sillä ⟨את⟩ merkit.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "tämän sauvan"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "sauvan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "otat"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "käteesi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jolla"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "teet"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "merkit"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "merkit"
+    }
+  ],
+  "timestamp": "2026-09-06T21:30:22.908526524Z",
+  "model": "glm-5.3"
+}

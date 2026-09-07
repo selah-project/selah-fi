@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 61,
+  "translation": "Päiviä kuninkaan päivien päälle lisäät; hänen vuotensa ovat kuin sukupolvi ja sukupolvi.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "päiviä"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päivien"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "lisäät"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "hänen vuotensa"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kuin"
+    },
+    {
+      "surface": "דר",
+      "gloss": "sukupolvi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ja sukupolvi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:16:56.801807288Z",
+  "model": "glm-5.3"
+}

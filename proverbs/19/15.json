@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 19:15",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Laiskuus painaa syvään uneen, ja välinpitämätön nefesh jää nälkäiseksi.",
+  "tokens": [
+    {
+      "surface": "עצלה",
+      "gloss": "laiskuus"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "painaa"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "syvään uneen"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ja nefesh"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "välinpitämätön"
+    },
+    {
+      "surface": "תרעב",
+      "gloss": "jää nälkäiseksi"
+    }
+  ],
+  "timestamp": "2026-09-07T03:13:11.117767940Z",
+  "model": "glm-5.3"
+}

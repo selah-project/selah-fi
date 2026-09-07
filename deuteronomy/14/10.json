@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "ja kaikkea, jolla ei ole eväkkeitä ja suomuksia, ette saa syödä: se ⟨on⟩ teille epäpuhdas.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikkea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jolla"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "eväkkeitä"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "ja suomuksia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ette"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "saa syödä"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "epäpuhdas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    }
+  ],
+  "timestamp": "2026-09-06T22:29:02.509357709Z",
+  "model": "glm-5.3"
+}

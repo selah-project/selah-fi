@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "”Ja ⟨את⟩ Esavia minä vihasin, ja minä panin ⟨את⟩ hänen vuorensa autioksi ja ⟨את⟩ hänen perintönsä erämaan šakaaleille.”",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Esavia"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavia"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "minä vihasin"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "ja minä panin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen vuorensa"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "hänen vuorensa"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "autioksi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen perintönsä"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "hänen perintönsä"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "šakaaleille"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "erämaan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:49:50.387853217Z",
+  "model": "glm-5.3"
+}

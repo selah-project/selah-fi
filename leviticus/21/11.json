@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "eikä minkään kuolleen nefeshin luo hän mene; isänsä eikä äitinsä vuoksi hän ei saastuta itseään.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "eikä ... luo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minkään"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "nefeshin"
+    },
+    {
+      "surface": "מת",
+      "gloss": "kuolleen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "mene"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "isänsä"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "eikä äitinsä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "saastuta itseään"
+    }
+  ],
+  "timestamp": "2026-09-06T21:57:41.299445729Z",
+  "model": "glm-5.3"
+}

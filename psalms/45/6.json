@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 45,
+  "translation": "Nuolesi ovat terävät — kansat lankeavat sinun allasi — ne tunkeutuvat kuninkaan vihollisten sydämeen.",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "nuolesi"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "terävät"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "kansat"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "sinun allasi"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "lankeavat"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "sydämeen"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "vihollisten"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    }
+  ],
+  "timestamp": "2026-09-07T02:10:44.762727486Z",
+  "model": "glm-5.3"
+}

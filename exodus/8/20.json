@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 8:20",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja Jahve teki niin, ja tuli raskas hyönteisparvi Paron (faraon) taloon ja hänen palvelijoidensa taloihin ja koko Mitsrajimin maahan; maa tuhoutui hyönteisparven takia.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ja teki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "hyönteisparvi"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "raskas"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "taloon"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ja taloihin"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hänen palvelijoidensa"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ja koko"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "tuhoutui"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "takia"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "hyönteisparven"
+    }
+  ],
+  "timestamp": "2026-09-06T21:31:49.232480237Z",
+  "model": "glm-5.3"
+}

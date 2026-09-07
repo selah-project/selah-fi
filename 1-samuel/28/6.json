@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Ja Shaul tiedusteli Jahvelta, eikä Jahve vastannut häntä — unissakaan, eikä Urimilla, eikä profeettojen kautta.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "ja tiedusteli"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvelta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "vastannut häntä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "unissakaan"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "unissa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "Urimilla"
+    },
+    {
+      "surface": "גם",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "profeettojen kautta"
+    }
+  ],
+  "timestamp": "2026-09-06T23:17:54.332019321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 11:6",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja tulee suuri huuto koko Mitsrajimin maassa, jonkaltaista ei ⟨ole⟩ tapahtunut, ja jonkaltaista ei enää tapahdu.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "Ja tulee"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "huuto"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "suuri"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonkaltaista"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "sen kaltaista"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "⟨ole⟩ tapahtunut"
+    },
+    {
+      "surface": "וכמהו",
+      "gloss": "ja jonkaltaista"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "enää tapahdu"
+    }
+  ],
+  "timestamp": "2026-09-06T21:32:51.760990805Z",
+  "model": "glm-5.3"
+}

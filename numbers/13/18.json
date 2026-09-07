@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 13:18",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja katsokaa ⟨את⟩ maata, millainen se ⟨on⟩, ja ⟨את⟩ kansan, joka siinä asuu: onko se vahva, ⟨onko⟩ heikko, onko se vähälukuinen vai montako?",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "Ja katsokaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maata"
+    },
+    {
+      "surface": "מה",
+      "gloss": "millainen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se ⟨on⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kansan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "joka asuu"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "siinä"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "onko vahva"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "⟨onko⟩ heikko"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "onko vähälukuinen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vai"
+    },
+    {
+      "surface": "רב",
+      "gloss": "montako"
+    }
+  ],
+  "timestamp": "2026-09-06T22:09:57.159109209Z",
+  "model": "glm-5.3"
+}

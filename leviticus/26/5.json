@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja puinni yltää teillä ⟨את⟩ viininkeruuseen, ja viininkeruu yltää ⟨את⟩ kylvöön, ja te syötte leipänne kylläisyyteen asti ja asutte maassanne turvassa.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "yltää"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teillä"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "puinni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viininkeruuseen"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "viininkeruu"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "ja viininkeruu"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "yltää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kylvöön"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kylvö"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "ja te syötte"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "leipänne"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "kylläisyyteen asti"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "ja asutte"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "turvassa"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "maassanne"
+    }
+  ],
+  "timestamp": "2026-09-06T22:00:28.937683806Z",
+  "model": "glm-5.3"
+}

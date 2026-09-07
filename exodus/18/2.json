@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja Jitro, Moshen appi, otti ⟨את⟩ Tsiporan, Moshen vaimon, sen jälkeen kun tämä oli lähetetty pois.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ja otti"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Jitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "appi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiporan"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsiporan"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vaimon"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshen"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "jälkeen"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "hänen lähettämistään"
+    }
+  ],
+  "timestamp": "2026-09-06T21:36:46.403958624Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 6:14",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "He paransivat ⟨את⟩ kansani murtumisen pinnallisesti sanoen: Rauha, rauha — mutta rauhaa ei ole.",
+  "tokens": [
+    {
+      "surface": "וירפאו",
+      "gloss": "He paransivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansani murtumisen"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "murtumisen"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kansani"
+    },
+    {
+      "surface": "על",
+      "gloss": "pinnallisesti"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "kevyesti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Rauha"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rauha"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mutta ei ole"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rauhaa"
+    }
+  ],
+  "timestamp": "2026-09-07T00:26:25.038972250Z",
+  "model": "glm-5.3"
+}

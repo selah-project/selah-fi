@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 77,
+  "translation": "Meressä ⟨on⟩ tiesi, ja polkusi paljoissa vesissä, ja jälkiäsi ei tunnettu.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "meressä"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "tiesi"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "ja polkusi"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vesissä"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "paljoissa"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "ja jälkiäsi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "tunnettu"
+    }
+  ],
+  "timestamp": "2026-09-07T02:22:49.365234764Z",
+  "model": "glm-5.3"
+}

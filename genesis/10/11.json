@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Siitä maasta lähti Ashshur ⟨Assur⟩, ja hän rakensi ⟨את⟩ Ninven ⟨Niinive⟩ ja ⟨את⟩ Rehobot-Irin ja ⟨את⟩ Kelahin.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Siitä"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "siitä"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lähti"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ja hän rakensi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninven"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninven"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Rehobot-Irin"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rehobot-Irin"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "-Ir (kaupungin)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Kelahin"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kelahin"
+    }
+  ],
+  "timestamp": "2026-09-07T06:28:52.925390773Z",
+  "model": "glm-5.3"
+}

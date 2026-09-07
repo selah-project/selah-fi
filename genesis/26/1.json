@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 26:1",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja tuli nälkä maahan, paitsi ensimmäinen nälkä, joka oli Avrahamin (Aabrahamin) päivinä; ja Jitshak (Iisak) meni Avimelekhin luo, Pelishtalaisten kuninkaan, Gerariin.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "nälkä"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "paitsi"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "nälän"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ensimmäisen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "päivinä"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamin"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ja meni"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekhin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtalaisten"
+    },
+    {
+      "surface": "גררה",
+      "gloss": "Gerariin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:15:09.133281454Z",
+  "model": "glm-5.3"
+}

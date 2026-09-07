@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 20:3",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja minä panen kasvoni ⟨את⟩ sitä miestä vastaan ja hävitän hänen ⟨את⟩ kansansa keskeltä, koska hän antoi siemenestään Molekille, saastahtaakseni pyhäkköni ⟨את⟩ ja häpäistäkseni pyhän nimeni ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ja minä"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "panen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasvoni"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kasvoni"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "sitä miestä vastaan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sitä"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ja hävitän"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hänen"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "keskeltä"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kansansa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "siemenestään"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "hän antoi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Molekille"
+    },
+    {
+      "surface": "למען",
+      "gloss": "saadakseen"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "saastuttamaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pyhäkköni"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "pyhäkköni"
+    },
+    {
+      "surface": "ולחלל",
+      "gloss": "ja häpäistäkseen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pyhän nimeni"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimeni"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "pyhän"
+    }
+  ],
+  "timestamp": "2026-09-06T21:58:03.101147371Z",
+  "model": "glm-5.3"
+}

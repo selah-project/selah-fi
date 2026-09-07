@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 35,
+  "translation": "⟨את⟩ esiriputkaan pihaa, ⟨את⟩ sen pylväät ja ⟨את⟩ sen jalustat, ja ⟨את⟩ portin esiripun pihan portille",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "esiriput"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "esiriputkaan"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "pihaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen pylväät"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "sen pylväät"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen jalustat"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "sen jalustat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "portin esiripun"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "portin esiripun"
+    },
+    {
+      "surface": "שער",
+      "gloss": "portille"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "pihan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:43:01.654502832Z",
+  "model": "glm-5.3"
+}

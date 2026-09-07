@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Aron renkaissa badit olkoot: niitä ei saa poistaa siitä.",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "renkaissa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aron"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olkoot"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "badit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "saa poistaa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "siitä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:38:59.881141689Z",
+  "model": "glm-5.3"
+}

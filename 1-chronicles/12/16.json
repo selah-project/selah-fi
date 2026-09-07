@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Nämä ovat ne, jotka ylittivät ⟨את⟩ Jordanin (Jordan) ensimmäisessä kuussa, kun se tulvi kaikkien rantojensa yli, ja he ajoivat pakoon ⟨את⟩ kaikki laaksot, itään ja länteen.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Nämä"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ovat ne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ylittivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordanin"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanin"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "kuussa"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ensimmäisessä"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kun se"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "tulvi"
+    },
+    {
+      "surface": "על",
+      "gloss": "yli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkien"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "rantojensa"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "ja ajoivat pakoon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki laaksot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "laaksot"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "itään"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "ja länteen"
+    }
+  ],
+  "timestamp": "2026-09-07T05:18:24.826091406Z",
+  "model": "glm-5.3"
+}

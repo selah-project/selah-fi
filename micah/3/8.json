@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Mutta mitä minuun tulee — minä olen täynnä voimaa, ⟨את⟩ Jahven hengen, ja oikeutta ja väkevyyttä, ilmoittaakseni Ja'akoville (Jaakob) hänen rikoksensa ja Israelille hänen syntinsä.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Mutta mitä minuun tulee"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "olen täynnä"
+    },
+    {
+      "surface": "כח",
+      "gloss": "voimaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven hengen"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "henkeä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ja oikeutta"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "ja väkevyyttä"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "ilmoittaakseni"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Ja'akoville"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "hänen rikoksensa"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "ja Israelille"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "hänen syntinsä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:35:02.790635665Z",
+  "model": "glm-5.3"
+}

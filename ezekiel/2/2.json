@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 2:2",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja henki tuli minuun, kun hän puhui minulle, ja asetti minut jaloilleni, ja minä kuulin ⟨את⟩ hänet, joka puhui minulle.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "בי",
+      "gloss": "minuun"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "henki"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kun"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hän puhui"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "ותעמדני",
+      "gloss": "ja asetti minut"
+    },
+    {
+      "surface": "על",
+      "gloss": "ylös"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "jaloilleni"
+    },
+    {
+      "surface": "ואשמע",
+      "gloss": "ja minä kuulin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänet, joka puhui minulle"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "joka puhui"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minulle"
+    }
+  ],
+  "timestamp": "2026-09-07T00:51:45.783321669Z",
+  "model": "glm-5.3"
+}

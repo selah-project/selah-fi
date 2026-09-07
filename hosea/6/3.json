@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 6:3",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja tuntekaamme, pyrkikäämme tuntemaan ⟨את⟩ Jahven: hänen tulemisensa on varma kuin aamunkoitto, ja hän tulee meille kuin sade, kuin myöhäissade, joka kastelee maan.",
+  "tokens": [
+    {
+      "surface": "ונדעה",
+      "gloss": "Ja tuntekaamme"
+    },
+    {
+      "surface": "נרדפה",
+      "gloss": "pyrkikäämme"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "tuntemaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "kuin aamunkoitto"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "varma"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "hänen tulemisensa"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "ja hän tulee"
+    },
+    {
+      "surface": "כגשם",
+      "gloss": "kuin sade"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meille"
+    },
+    {
+      "surface": "כמלקוש",
+      "gloss": "kuin myöhäissade"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "joka kastelee"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:30:26.771705691Z",
+  "model": "glm-5.3"
+}

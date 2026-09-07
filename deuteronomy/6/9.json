@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja kirjoita ne talosi ovipieleihin ja portteihisi.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "ja kirjoitat"
+    },
+    {
+      "surface": "על",
+      "gloss": "…pieliin"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "ovipielten"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "talosi"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "ja portteihisi"
+    }
+  ],
+  "timestamp": "2026-09-07T04:16:53.897544041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 9:2",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Jalkauslattia ja viinikuurna eivät heitä ruoki, ja uusi viini pettää heidät.",
+  "tokens": [
+    {
+      "surface": "גרן",
+      "gloss": "Jalkauslattia"
+    },
+    {
+      "surface": "ויקב",
+      "gloss": "ja viinikuurna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "heitä ruoki"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "ja uusi viini"
+    },
+    {
+      "surface": "יכחש",
+      "gloss": "pettää"
+    },
+    {
+      "surface": "בה",
+      "gloss": "heidät"
+    }
+  ],
+  "timestamp": "2026-09-07T01:24:56.209940420Z",
+  "model": "glm-5.3"
+}

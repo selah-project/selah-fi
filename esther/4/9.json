@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja Hatah tuli ja kertoi Esterille ⟨את⟩ Mordekain sanat.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatah"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ja kertoi"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Esterille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordekain sanat"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekain"
+    }
+  ],
+  "timestamp": "2026-09-07T04:40:14.155575503Z",
+  "model": "glm-5.3"
+}

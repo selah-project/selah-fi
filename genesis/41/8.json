@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 41:8",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 41,
+  "translation": "Ja tapahtui aamulla, että hänen henkensä tuli levottomaksi, ja hän lähetti ja kutsui ⟨את⟩ kaikki Mitsrajimin (Egyptin) tietäjät ja ⟨את⟩ kaikki sen viisaat; ja Paro kertoi heille ⟨את⟩ unensa, eikä ollut ketään, joka selitti ⟨את⟩ niitä Parolle.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamulla"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "tuli levottomaksi"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "hänen henkensä"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ja hän lähetti"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ja kutsui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki Mitsrajimin tietäjät"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "חרטמי",
+      "gloss": "tietäjät"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki sen viisaat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "חכמיה",
+      "gloss": "sen viisaat"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "ja kertoi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unensa"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "unensa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä ollut"
+    },
+    {
+      "surface": "פותר",
+      "gloss": "selittäjää"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ niitä"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Parolle"
+    }
+  ],
+  "timestamp": "2026-09-06T21:23:12.003275201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 25:11",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja tapahtui Avrahamin kuoleman jälkeen, että Elohim siunasi ⟨את⟩ Jitshakin, hänen poikansa; ja Jitshak asui Beer-Lachai-Roin luona.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "jälkeen"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kuoleman"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamin"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "että siunasi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitshakin"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshakin"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja asui"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "luona"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "Lachai-"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Roi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:14:11.104252230Z",
+  "model": "glm-5.3"
+}

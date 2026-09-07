@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Ja kun nainen näki ⟨את⟩ Shmuelin, hän huusi suurella äänellä; ja nainen sanoi Shaulille sanoen: Miksi sinä petosit minua — sinä olet Shaul?",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Ja näki"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "nainen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shmuelin"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuelin"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "ja huusi"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "äänellä"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suurella"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "nainen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Shaulille"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miksi"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "petosit minua"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ja sinä"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-09-06T23:16:27.947094344Z",
+  "model": "glm-5.3"
+}

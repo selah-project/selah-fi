@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja Kenaan synnytti ⟨את⟩ Tsidonin (Siidon), esikoisensa, ja ⟨את⟩ Hetin.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Ja Kenaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidonin"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Tsidonin"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "esikoisensa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Hetin"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Hetin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:44.384802824Z",
+  "model": "glm-5.3"
+}

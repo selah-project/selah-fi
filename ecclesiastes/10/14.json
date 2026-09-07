@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 10:14",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja hullu monistaa sanoja: ihminen ei tiedä, mitä on tapahtuva, ja mitä hänen jälkeensä tapahtuu — kuka sen hänelle ilmoittaa?",
+  "tokens": [
+    {
+      "surface": "והסכל",
+      "gloss": "ja hullu"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "monistaa"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "sanoja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tiedä"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihminen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "on tapahtuva"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ja mikä"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tapahtuu"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "hänen jälkeensä"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ilmoittaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    }
+  ],
+  "timestamp": "2026-09-07T04:37:47.106853268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 45,
+  "translation": "Ilossa ja riemussa heidät tuodaan; he tulevat kuninkaan palatsiin.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "heidät tuodaan"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "ilossa"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "ja riemussa"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "he tulevat"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "palatsiin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    }
+  ],
+  "timestamp": "2026-09-07T02:09:43.780389724Z",
+  "model": "glm-5.3"
+}

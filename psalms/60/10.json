@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 60,
+  "translation": "Moav ⟨on⟩ pesuastiani, Edomin päälle heitän sandaalini, minun tähteni, Pelishtim, riemuitse.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "pesuastiani"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "pesuni"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomin"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "heitän"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "sandaalini"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "minun tähteni"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "riemuitse"
+    }
+  ],
+  "timestamp": "2026-09-07T04:33:47.282515947Z",
+  "model": "glm-5.3"
+}

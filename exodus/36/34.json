@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 36:34",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 36,
+  "translation": "Ja ⟨את⟩ lankut hän päällysti kullalla, ja ⟨את⟩ niiden renkaat hän teki kullasta, pesiksi parruille, ja hän päällysti ⟨את⟩ parrut kullalla.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "lankut"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "hän päällysti"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kullalla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩"
+    },
+    {
+      "surface": "טבעתם",
+      "gloss": "niiden renkaat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hän teki"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kullasta"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "pesiksi"
+    },
+    {
+      "surface": "לבריחם",
+      "gloss": "parruille"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ja hän päällysti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parrut"
+    },
+    {
+      "surface": "הבריחם",
+      "gloss": "parrut"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kullalla"
+    }
+  ],
+  "timestamp": "2026-09-07T04:10:01.510305134Z",
+  "model": "glm-5.3"
+}

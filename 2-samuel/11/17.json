@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 11:17",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Kaupungin miehet lähtivät liikkeelle ja sotivat ⟨את⟩ Joabia vastaan, ja kansasta, Davidin palvelijoista, kaatui ⟨muutamia⟩, ja myös Urija heettiläinen kuoli.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "lähtivät liikkeelle"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ja sotivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joabia"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ja kaatui"
+    },
+    {
+      "surface": "מן",
+      "gloss": "–sta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansasta"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "palvelijoista"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ja kuoli"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "heettiläinen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:24:41.196599760Z",
+  "model": "glm-5.3"
+}

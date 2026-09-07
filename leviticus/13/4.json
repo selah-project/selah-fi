@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 13:4",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja jos vaalea täplä on valkoinen ihossa, hänen lihassaan, eikä sen näkö ole syvempi kuin iho eikä sen karvaa ole muuttunut valkeaksi, niin kohen sulkee ⟨את⟩ taudin kantajan seitsemäksi päiväksi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ja jos"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "vaalea täplä"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "valkoinen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "ihossa"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "hänen lihassaan"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "eikä syvempi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "sen näkö"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuin"
+    },
+    {
+      "surface": "העור",
+      "gloss": "iho"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "eikä sen karva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "ole muuttunut"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "valkeaksi"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "niin sulkee"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taudin kantajan"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "taudin"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seitsemäksi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päiväksi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:53:17.218546857Z",
+  "model": "glm-5.3"
+}

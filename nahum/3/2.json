@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 3:2",
+  "book": "nahum",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Piiskan ääni ja pyörän jyrinän ääni, ja ratsu joka ravisoi, ja vaunut jotka hyppivät.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ääni"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "piiskan"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ja ääni"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "jyrinän"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "pyörän"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "ja ratsu"
+    },
+    {
+      "surface": "דהר",
+      "gloss": "ravisoi"
+    },
+    {
+      "surface": "ומרכבה",
+      "gloss": "ja vaunut"
+    },
+    {
+      "surface": "מרקדה",
+      "gloss": "hyppivät"
+    }
+  ],
+  "timestamp": "2026-09-07T01:37:53.990583804Z",
+  "model": "glm-5.3"
+}

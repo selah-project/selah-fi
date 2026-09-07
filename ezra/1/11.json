@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 1:11",
+  "book": "ezra",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Kaikki astiat, kulta- ⟨ja⟩ hopea- ⟨astiat⟩, ⟨olivat⟩ viisituhatta ja neljäsataa. Kaikki nämä vei Sheshbassar (Sesabassar) ylös maanpakolaisten noustessa Babylonista Jerushalajimiin (Jerusalem).",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kaikki"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "astiat"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "kulta-"
+    },
+    {
+      "surface": "ולכסף",
+      "gloss": "ja hopea-"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "viisi-"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "-tuhatta"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ja neljä-"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "-sataa"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "Kaikki nämä"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "vei ylös"
+    },
+    {
+      "surface": "ששבצר",
+      "gloss": "Sheshbassar (Sesabassar)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yhdessä"
+    },
+    {
+      "surface": "העלות",
+      "gloss": "noustessa"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "maanpakolaisten"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "Babylonista"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Jerushalajimiin (Jerusalem)"
+    }
+  ],
+  "timestamp": "2026-09-07T04:54:53.375682626Z",
+  "model": "glm-5.3"
+}

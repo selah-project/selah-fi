@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja Davidille ilmoitettiin ⟨את⟩ se, minkä Ritspah, Ajan tytär, Shaulin jalkavaimo, oli tehnyt.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ja ilmoitettiin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen, minkä Ritspah oli tehnyt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minkä"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "oli tehnyt"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Ritspah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tytär"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Ajan"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "jalkavaimo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:29:50.466525541Z",
+  "model": "glm-5.3"
+}

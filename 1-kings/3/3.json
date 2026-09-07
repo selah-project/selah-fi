@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja Shelomo rakasti ⟨את⟩ Jahvea, vaeltaakseen isänsä Daavidin säädöksissä; vain uhrikukkuloilla hän uhrasi ja suitsutti.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "ja rakasti"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "vaeltaakseen"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "säädöksissä"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daavidin"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isänsä"
+    },
+    {
+      "surface": "רק",
+      "gloss": "vain"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "uhrikukkuloilla"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "uhrasi"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "ja suitsutti"
+    }
+  ],
+  "timestamp": "2026-09-06T23:34:12.352175067Z",
+  "model": "glm-5.3"
+}

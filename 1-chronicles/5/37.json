@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja Azarja siitti ⟨את⟩ Amarjan, ja Amarja siitti ⟨את⟩ Ahituvin;",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "ja siitti"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amarjan"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarjan"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "ja Amarja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahituvin"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ahituvin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:12:30.387328766Z",
+  "model": "glm-5.3"
+}

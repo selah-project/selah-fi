@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 120,
+  "translation": "Minä ⟨olen⟩ rauha, mutta kun minä puhun, he ⟨ovat⟩ sotaa varten.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Minä"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rauha"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "mutta kun"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "minä puhun"
+    },
+    {
+      "surface": "המה",
+      "gloss": "he"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sotaa varten"
+    }
+  ],
+  "timestamp": "2026-09-07T02:47:28.438171916Z",
+  "model": "glm-5.3"
+}

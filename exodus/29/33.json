@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 29:33",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja he syövät ⟨את⟩ ne, joilla sovitettiin heidän tähtensä, täyttämään ⟨את⟩ heidän kätensä pyhittääkseen ⟨את⟩ heidät; eikä muukalainen saa syödä, sillä pyhä ne ovat.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "ja he syövät"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ne",
+      "marks": "ne, joilla sovitettiin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joilla"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "sovitettiin"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "heidän tähtensä"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "täyttämään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän kätensä"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "heidän kätensä"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "pyhittääkseen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ heidät",
+      "marks": "heidät"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "eikä muukalainen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "saa syödä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhä"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ne ovat"
+    }
+  ],
+  "timestamp": "2026-09-06T21:41:21.485253836Z",
+  "model": "glm-5.3"
+}

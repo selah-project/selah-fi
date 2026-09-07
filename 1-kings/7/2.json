@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 7:2",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja hän rakensi ⟨את⟩ talon, Libanonin metsän: sata kyynärää ⟨on⟩ sen pituus, ja viisikymmentä kyynärää sen leveys, ja kolmekymmentä kyynärää sen korkeus, neljän setripylväiden rivin päällä, ja setriparrut pylväiden päällä.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ja hän rakensi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "talon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "יער",
+      "gloss": "metsän"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Libanonin"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sata"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "sen pituus"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ja viisikymmentä"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "sen leveys"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ja kolmekymmentä"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "sen korkeus"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "neljän"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "rivin"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "pylväiden"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "setri-"
+    },
+    {
+      "surface": "וכרתות",
+      "gloss": "ja hakatut parrut"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "setri-"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "pylväiden"
+    }
+  ],
+  "timestamp": "2026-09-06T23:35:41.238213127Z",
+  "model": "glm-5.3"
+}

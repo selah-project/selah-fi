@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 8:21",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja minä asetin sinne paikan arkkia varten, jossa on Jahven berit (liitto), jonka hän loihti isiemme kanssa, kun hän vei ⟨את⟩ heidät maasta Mitsrajimista (Egyptistä).",
+  "tokens": [
+    {
+      "surface": "ואשם",
+      "gloss": "Ja minä asetin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sinne"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "paikan"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "arkkia varten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jossa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "berit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "loihti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "isiemme"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "kun hän vei"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "heidät"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimista"
+    }
+  ],
+  "timestamp": "2026-09-06T23:37:54.216814488Z",
+  "model": "glm-5.3"
+}

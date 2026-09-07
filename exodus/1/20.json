@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja Elohim teki hyvää kätilöille, ja kansa lisääntyi ja voimistui suuresti.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "tei hyvää"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "kätilöille"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "lisääntyi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "voimistui"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "suuresti"
+    }
+  ],
+  "timestamp": "2026-09-06T21:28:42.102586321Z",
+  "model": "glm-5.3"
+}

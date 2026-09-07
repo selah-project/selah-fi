@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 2:9",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja hän teki hänet kuninkaaksi Gileadin (Gilead) yli ja ashurilaisten (aserilaiset) yli ja Jizreelin (Jisreel) yli ja Efrayimin (Efraim) yli ja Binyaminin (Benjamin) yli ja koko Israelin yli.",
+  "tokens": [
+    {
+      "surface": "וימלכהו",
+      "gloss": "ja hän teki hänet kuninkaaksi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "— ⟨ei suomen vastinetta: heprean suunnanmerkki, näkyy sijassa⟩"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gileadin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja ⟨suunnanmerkki⟩"
+    },
+    {
+      "surface": "האשורי",
+      "gloss": "ashurilaisten"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja ⟨suunnanmerkki⟩"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreelin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja yli"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja yli"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyaminin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja yli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "koko"
+    }
+  ],
+  "timestamp": "2026-09-06T23:19:22.075775488Z",
+  "model": "glm-5.3"
+}

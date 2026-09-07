@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 9:12",
+  "book": "nehemiah",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja pilvipylväässä sinä johdatit heitä päivällä, ja tulipylväässä yöllä, valaisaksesi heille ⟨את⟩ tien, jota heidän tuli kulkea sitä pitkin.",
+  "tokens": [
+    {
+      "surface": "ובעמוד",
+      "gloss": "ja pylväässä"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "pilvi-"
+    },
+    {
+      "surface": "הנחיתם",
+      "gloss": "johdatit heitä"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "päivällä"
+    },
+    {
+      "surface": "ובעמוד",
+      "gloss": "ja pylväässä"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tuli-"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "yöllä"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "valaisaksesi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tien"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "tien"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jota"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "heidän tuli kulkea"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sitä pitkin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:06:18.107495904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja hän toi ⟨את⟩ kohenit (papit) ja ⟨את⟩ leviläiset ja kokosi heidät itäiselle aukiolle.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ja hän toi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kohenit"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohenit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "leviläiset"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviläiset"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "ja kokosi heidät"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "aukiolle"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "itäiselle"
+    }
+  ],
+  "timestamp": "2026-09-07T05:45:57.544118184Z",
+  "model": "glm-5.3"
+}

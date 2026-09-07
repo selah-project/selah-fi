@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja Paro sanoo Israelin pojista: »Ne ovat eksyneitä maassa, erämaa on sulkenut heidät sisäänsä.»",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ja sanoo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…sta pojista"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "eksyneitä"
+    },
+    {
+      "surface": "הם",
+      "gloss": "he"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "on sulkenut"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "heidät"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "erämaa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:34:41.142934023Z",
+  "model": "glm-5.3"
+}

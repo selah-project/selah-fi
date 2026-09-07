@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja suojus ⟨on⟩ varjoksi päivällä helteeltä ja turvapaikaksi ja kätköksi myrskyltä ja sateelta.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "ja suojus"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "on"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "varjoksi"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "päivällä"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "helteeltä"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "ja turvapaikaksi"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "ja kätköksi"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "myrskyltä"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "ja sateelta"
+    }
+  ],
+  "timestamp": "2026-09-07T00:01:48.062158919Z",
+  "model": "glm-5.3"
+}

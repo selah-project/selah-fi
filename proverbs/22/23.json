@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 22:23",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Sillä Jahve käy heidän riitansa ja riistää ⟨את⟩ nefeshin ⟨elämä⟩ heidän riistäjiltään.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "käy"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "heidän riitansa"
+    },
+    {
+      "surface": "וקבע",
+      "gloss": "ja riistää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefeshin"
+    },
+    {
+      "surface": "קבעיהם",
+      "gloss": "heidän riistäjiltään"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefeshin ⟨elämä⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T03:17:21.025586092Z",
+  "model": "glm-5.3"
+}

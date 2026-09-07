@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 1:19",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja me lähdimme Horebista ja kuljimme ⟨את⟩ koko sen suuren ja pelottavan erämaan, jonka te näitte, Emorin vuoren tienoolta, niin kuin Jahve, Elohimimme, ⟨את⟩ meitä käski; ja saavuimme Kadesh-Barneaan.",
+  "tokens": [
+    {
+      "surface": "ונסע",
+      "gloss": "ja me lähdimme"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "Horebista"
+    },
+    {
+      "surface": "ונלך",
+      "gloss": "ja kuljimme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko sen suuren ja pelottavan erämaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "erämaan"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "suuren"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "ja pelottavan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "te näitte"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tienoolta"
+    },
+    {
+      "surface": "הר",
+      "gloss": "vuoren"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "käski"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimme"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ meitä"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "ja saavuimme"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saakka"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "-Barneaan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:23:31.400783019Z",
+  "model": "glm-5.3"
+}

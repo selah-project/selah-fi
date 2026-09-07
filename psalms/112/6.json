@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 112,
+  "translation": "Sillä iankaikkisesti hän ei horju; iankaikkiseen muistiin ⟨jää⟩ vanhurskas.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "horju"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "muistiin"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iankaikkiseen"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨jää⟩"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "vanhurskas"
+    }
+  ],
+  "timestamp": "2026-09-07T02:42:50.016504988Z",
+  "model": "glm-5.3"
+}

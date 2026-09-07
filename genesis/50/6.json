@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 50,
+  "translation": "Ja Paro sanoi: Nouse ylös ja hautaa ⟨את⟩ isäsi, niinkuin hän sinut vannotti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Nouse ylös"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "ja hautaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isäsi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "isäsi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niinkuin"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "hän sinut vannotti"
+    }
+  ],
+  "timestamp": "2026-09-06T21:27:40.474603193Z",
+  "model": "glm-5.3"
+}

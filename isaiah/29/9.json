@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 29:9",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Viipykää ja hämmästykää, sokaiskaa itsenne ja olkaa sokeita; juovukaa — ei viinistä, horjukaa — ei väkevästä.",
+  "tokens": [
+    {
+      "surface": "התמהמהו",
+      "gloss": "viipykää"
+    },
+    {
+      "surface": "ותמהו",
+      "gloss": "ja hämmästykää"
+    },
+    {
+      "surface": "השתעשעו",
+      "gloss": "sokaiskaa itsenne"
+    },
+    {
+      "surface": "ושעו",
+      "gloss": "ja olkaa sokeita"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "juovukaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יין",
+      "gloss": "viinistä"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "horjukaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "väkevästä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:09:27.286311155Z",
+  "model": "glm-5.3"
+}

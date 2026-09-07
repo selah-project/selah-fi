@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 10:1",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja tapahtui tämän jälkeen, että Ammonin lasten kuningas kuoli, ja Hanun, hänen poikansa, tuli kuninkaaksi hänen tilalleen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "jälkeen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "kuoli"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammonin"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "tuli kuninkaaksi"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanun"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "hänen tilalleen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:22:30.777673678Z",
+  "model": "glm-5.3"
+}

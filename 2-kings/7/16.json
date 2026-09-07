@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja kansa lähti ja ryösti ⟨את⟩ Aramin leirin, ja niin oli yksi se'ah valkojauhoja sekeliin ja kaksi se'ah ohria sekeliin, Jahven sanan mukaan.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "lähti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "ryösti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aramin leirin"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "leirin"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramin"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja niin oli"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "yksi se'ah"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "valkojauhoja"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "sekeliin"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "kaksi se'ahia"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ohria"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "sekeliin"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sanan mukaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-06T23:51:53.535996178Z",
+  "model": "glm-5.3"
+}

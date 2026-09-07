@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 14:6",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja sinun orjattarellasi ⟨oli⟩ kaksi poikaa, ja he riitelivät keskenään kedolla, eikä ollut pelastajaa heidän välillään, ja löi toinen ⟨את⟩ toista, ja hän tappoi ⟨את⟩ hänet.",
+  "tokens": [
+    {
+      "surface": "ולשפחתך",
+      "gloss": "ja sinun orjattarellasi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "poikaa"
+    },
+    {
+      "surface": "וינצו",
+      "gloss": "ja he riitelivät"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "he kumpikin"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kedolla"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä ollut"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "pelastajaa"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "heidän välillään"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ja löi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "toinen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toista"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "toista"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ja tappoi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet"
+    }
+  ],
+  "timestamp": "2026-09-07T04:21:43.010666901Z",
+  "model": "glm-5.3"
+}

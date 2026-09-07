@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja ⟨את⟩ jäniksen, koska se nostaa märehdintää, mutta kaviota ei ole jakanut — saastainen se on teille.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "jäniksen"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "jäniksen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "nostaa"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "märehdintää"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "ja kavio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "on jakanut"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "saastainen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    }
+  ],
+  "timestamp": "2026-09-06T21:50:51.919163492Z",
+  "model": "glm-5.3"
+}

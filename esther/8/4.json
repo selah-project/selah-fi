@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja kuningas ojensi Esterille ⟨את⟩ kultaisen valtikan, ja Ester nousi ja seisoi kuninkaan edessä.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "ojensi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Esterille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kultaisen valtikan"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "valtikan"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kultaisen"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "nousi"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "seisoi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:45:29.179721681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 111,
+  "translation": "Kiittäkää Jahia! Minä kiitän Jahvea koko sydämestäni, suorien neuvossa ⟨ja⟩ seurakunnassa.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Kiittäkää"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jahia"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "Minä kiitän"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "sydämestäni"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "neuvossa"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "suorien"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "⟨ja⟩ seurakunnassa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:43:16.422220843Z",
+  "model": "glm-5.3"
+}

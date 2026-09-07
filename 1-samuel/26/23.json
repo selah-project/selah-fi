@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 26:23",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja Jahve antakoon miehelle takaisin ⟨את⟩ hänen vanhurskautensa ja ⟨את⟩ hänen uskollisuutensa, sillä Jahve antoi sinut tänä päivänä minun käteeni, mutta en minä tahtonut panna kättäni Jahven Mashiahia (voideltua) vastaan.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ja Jahve"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "antakoon takaisin"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "miehelle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen vanhurskautensa"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "hänen vanhurskautensa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen uskollisuutensa"
+    },
+    {
+      "surface": "אמנתו",
+      "gloss": "hänen uskollisuutensa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "נתנך",
+      "gloss": "antoi sinut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tänä päivänä"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käteen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mutta en"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "minä tahtonut"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "panna"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "kättäni"
+    },
+    {
+      "surface": "במשיח",
+      "gloss": "Mashiahia vastaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-06T23:16:50.025353735Z",
+  "model": "glm-5.3"
+}

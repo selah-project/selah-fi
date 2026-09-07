@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 112,
+  "translation": "Ylistäkää Jahia! Autuas ⟨on⟩ mies, joka pelkää ⟨את⟩ Jahvea, joka suuresti iloitsee hänen käskyissään.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Ylistäkää"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jahia"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Autuas"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "pelkää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "käskyissään"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "iloitsee"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "suuresti"
+    }
+  ],
+  "timestamp": "2026-09-07T02:42:33.398863003Z",
+  "model": "glm-5.3"
+}

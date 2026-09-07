@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 75,
+  "translation": "Älkää kohottako korkealle sarveanne, älkää puhuko jäykkäkaulaisuutta.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Älkää"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "kohottako"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "korkealle"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "sarveanne"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "älkää puhuko"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "kaulalla"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "jäykkäkaulaisuutta"
+    }
+  ],
+  "timestamp": "2026-09-07T02:22:21.200573866Z",
+  "model": "glm-5.3"
+}

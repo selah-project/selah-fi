@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja Sara näki ⟨את⟩ Hagarin, egyptiläisen, pojan, jonka tämä oli synnyttänyt Avrahamille (Aabraham), pilkkaavan.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "ja näki"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hagarin... pojan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagarin"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "egyptiläisen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "oli synnyttänyt"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahamille"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "pilkkaavan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:12:17.165512262Z",
+  "model": "glm-5.3"
+}

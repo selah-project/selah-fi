@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 3:10",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja Shelomon (Salomon) poika ⟨oli⟩ Rehavam (Roboam); Avija hänen poikansa, Asa hänen poikansa, Jehoshafat (Joosafat) hänen poikansa.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "Ja … poika"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomon"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Avija"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoshafat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hänen poikansa"
+    }
+  ],
+  "timestamp": "2026-09-07T05:12:14.965610447Z",
+  "model": "glm-5.3"
+}

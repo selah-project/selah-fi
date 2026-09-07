@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Nouse, Jahve, vihassasi, korostu vihamiesteni raivoudesta, ja heräjä minun puoleeni: oikeuden, jonka olet säätänyt.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Nouse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "vihassasi"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "korostu"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "raivoudesta"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "vihamiesteni"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "ja heräjä"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minun puoleeni"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "oikeuden"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "jonka olet säätänyt"
+    }
+  ],
+  "timestamp": "2026-09-07T01:52:31.210033968Z",
+  "model": "glm-5.3"
+}

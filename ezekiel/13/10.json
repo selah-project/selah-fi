@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 13:10",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Sentähden, juuri sentähden, että he saattoivat ⟨את⟩ kansani harhaan sanoen: Rauha! — eikä rauhaa ole; ja hän rakensi muurin, ja katso, he rappaavat ⟨את⟩ — raakakalkkia,",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "sentähden"
+    },
+    {
+      "surface": "וביען",
+      "gloss": "ja sentähden"
+    },
+    {
+      "surface": "הטעו",
+      "gloss": "saattoivat harhaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansani"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kansani"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rauha"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä ole"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rauhaa"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ja hän"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "rakensi"
+    },
+    {
+      "surface": "חיץ",
+      "gloss": "muurin"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "ja katso, he"
+    },
+    {
+      "surface": "טחים",
+      "gloss": "rappaavat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "raakakalkkia"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "raakakalkkia"
+    }
+  ],
+  "timestamp": "2026-09-07T00:56:10.164694845Z",
+  "model": "glm-5.3"
+}

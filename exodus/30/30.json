@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja ⟨את⟩ Aharonin (Aaron) ja ⟨את⟩ hänen poikansa sinä voitat, ja pyhität ⟨את⟩ heidät kohen-papeiksi minulle.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Aharonin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen poikansa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "sinä voitat"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ja pyhität"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "heidät"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kohen-papeiksi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    }
+  ],
+  "timestamp": "2026-09-06T21:41:41.673149897Z",
+  "model": "glm-5.3"
+}

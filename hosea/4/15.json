@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 4:15",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Vaikka sinä, Israel, harjoitat huoruutta, älköön Jehuda syyllistykö; älkää menkö Gilgaliin älkääkä nousko Beit-Aveniin, älkääkä vannoko »Jahve elää».",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "vaikka"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "harjoitat huoruutta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älköön"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "syyllistykö"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja älkää"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "menkö"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgaliin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "älkääkä"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "nousko"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "און",
+      "gloss": "Aveniin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "älkääkä"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "vankoko"
+    },
+    {
+      "surface": "חי",
+      "gloss": "elää"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-07T01:20:58.925431666Z",
+  "model": "glm-5.3"
+}

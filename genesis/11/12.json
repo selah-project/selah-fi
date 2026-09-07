@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja Arpakhshad eli viisi ja kolmekymmentä vuotta ja sai ⟨את⟩ Shelahin (Selah).",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Ja Arpakhshad"
+    },
+    {
+      "surface": "חי",
+      "gloss": "eli"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "viisi"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ja kolmekymmentä"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ja sai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelahin"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelahin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:25.214228359Z",
+  "model": "glm-5.3"
+}

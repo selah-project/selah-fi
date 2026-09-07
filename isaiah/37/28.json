@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Minä tunnen istumisesi ja lähtemisesi ja tulemisesi, ja ⟨את⟩ raivoasi minua vastaan.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "istumisesi"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "lähtemisesi"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "tulemisesi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "Minä tunnen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "raivoasi"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "raivoasi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minua vastaan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:13:03.558737112Z",
+  "model": "glm-5.3"
+}

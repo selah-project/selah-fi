@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Siksi kaikki säädöksesi — kaiken pidän oikeina; kaikkia valheen teitä minä vihaan.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "כן",
+      "gloss": "Siksi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "säädöksesi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "pidän oikeina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkia"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "valheen teitä"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "valheen"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "minä vihaan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:34:13.489163739Z",
+  "model": "glm-5.3"
+}

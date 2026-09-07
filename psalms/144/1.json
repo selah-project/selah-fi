@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 144,
+  "translation": "Daavidin (Daavid). Kiitetty olkoon Jahve, kallioni, joka opettaa käteni sotimaan, sormeni taistelemaan.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Daavidin (Daavid)"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Kiitetty olkoon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "kallioni"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "joka opettaa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "käteni"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "sotimaan"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "sormeni"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "taistelemaan"
+    }
+  ],
+  "timestamp": "2026-09-07T02:54:20.649986426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ja hän asetti ⟨את⟩ pöydän kokouksen telttaan, Mishkanin kylkeen, pohjoiseen, esiripun ulkopuolelle.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "asetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pöydän"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "pöydän"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "telttaan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kokouksen"
+    },
+    {
+      "surface": "על",
+      "gloss": "kylkeen"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "kylkeen"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanin"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "pohjoiseen"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ulkopuolelle"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "esiripun"
+    }
+  ],
+  "timestamp": "2026-09-06T21:46:42.234527788Z",
+  "model": "glm-5.3"
+}

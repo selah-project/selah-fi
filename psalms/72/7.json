@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 72,
+  "translation": "Kukoistakoon vanhurskas hänen päivinään, ja rauhan runsaus, kunnes kuuta ei ⟨enää ole⟩.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "kukoistakoon"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "hänen päivinään"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "vanhurskas"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ja runsaus"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rauhaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "kuuta"
+    }
+  ],
+  "timestamp": "2026-09-07T04:33:32.888405004Z",
+  "model": "glm-5.3"
+}

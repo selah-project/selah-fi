@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 33:7",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Ja tämä on Jehudalle, ja hän sanoi: ”Kuule, Jahve, Jehudan ääni, ja hänen kansansa luo tuo hänet; hänen kätensä ⟨ovat⟩ suuret hänelle, ja apuna hänen vastustajiaan vastaan olkoon.”",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ja tämä"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Jehudalle"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kuule"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ääni"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja ... luo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hänen kansansa"
+    },
+    {
+      "surface": "תביאנו",
+      "gloss": "tuo hänet"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "hänen kätensä"
+    },
+    {
+      "surface": "רב",
+      "gloss": "suuret"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "ועזר",
+      "gloss": "ja apuna"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "hänen vastustajiaan"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olkoon"
+    }
+  ],
+  "timestamp": "2026-09-06T22:38:16.344522439Z",
+  "model": "glm-5.3"
+}

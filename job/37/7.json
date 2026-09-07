@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 37:7",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Jokaisen ihmisen käden hän sinetöi, jotta kaikki ihmiset tietäisivät hänen tekonsa.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "käden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokaisen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmisen"
+    },
+    {
+      "surface": "יחתום",
+      "gloss": "hän sinetöi"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "tietämään"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ihmiset"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "hänen tekonsa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:48:48.197832077Z",
+  "model": "glm-5.3"
+}

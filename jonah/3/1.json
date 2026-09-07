@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja Jahven sana tuli Jonalle (Joona) toisen kerran, sanoen:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tuli"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jonalle"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "(Joona)"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "toisen kerran"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    }
+  ],
+  "timestamp": "2026-09-07T01:33:55.373215745Z",
+  "model": "glm-5.3"
+}

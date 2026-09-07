@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Ja hän sanoi: sinä et voi nähdä ⟨את⟩ kasvojani, sillä ei ihminen näe minua ja elää.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "sinä voit"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "nähdä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasvojani"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kasvojani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "näe minua"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihminen"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ja elää"
+    }
+  ],
+  "timestamp": "2026-09-06T21:44:18.380331414Z",
+  "model": "glm-5.3"
+}

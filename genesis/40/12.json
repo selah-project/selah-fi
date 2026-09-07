@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ja Josef sanoi hänelle: Tämä ⟨on⟩ sen selitys: kolme versoa — ne ⟨on⟩ kolme päivää.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "sen selitys"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "versoa"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivää"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ne ovat"
+    }
+  ],
+  "timestamp": "2026-09-06T21:22:01.234713279Z",
+  "model": "glm-5.3"
+}

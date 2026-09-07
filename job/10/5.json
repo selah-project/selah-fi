@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ovatko päiväsi kuolevaisen ⟨kuin⟩ päivät, vai vuotesi kuin miehen päivät?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "kuin"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "kuolevaisen"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "päiväsi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vai"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "vuotesi"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "kuin"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "miehen"
+    }
+  ],
+  "timestamp": "2026-09-07T03:28:43.590638542Z",
+  "model": "glm-5.3"
+}

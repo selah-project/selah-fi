@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 3:5",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "sillä Elohim tietää, että sinä päivänä, jona te syötte siitä, avautuvat teidän silmänne, ja te tulette kuin Elohim, tietäjinä hyvää ja pahaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tietää"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sinä päivänä"
+    },
+    {
+      "surface": "אכלכם",
+      "gloss": "te syötte"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "siitä"
+    },
+    {
+      "surface": "ונפקחו",
+      "gloss": "ja avautuvat"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "teidän silmänne"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "ja te tulette"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "kuin Elohim"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "tietäjinä"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvää"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "ja pahaa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:04:48.535536423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 3:5",
+  "book": "zephaniah",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Jahve ⟨on⟩ vanhurskas hänen keskellään, ⟨hän⟩ ei tee vääryyttä; aamulla, aamulla ⟨hän⟩ antaa tuomionsa valoon, se ei jää tulematta; mutta väärintekijä ei tunne häpeää.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "vanhurskas"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "hänen keskellään"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tee"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "vääryyttä"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamulla"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamulla"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "tuomionsa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "antaa"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "valoon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נעדר",
+      "gloss": "jää tulematta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "tunne"
+    },
+    {
+      "surface": "עול",
+      "gloss": "väärintekijä"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "häpeää"
+    }
+  ],
+  "timestamp": "2026-09-07T01:43:24.254010520Z",
+  "model": "glm-5.3"
+}

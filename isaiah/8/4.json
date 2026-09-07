@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Sillä ennen kuin lapsi osaa sanoa ”isäni” ja ”äitini”, viedään ⟨את⟩ Damaskoksen voiman ja ⟨את⟩ Shomronin (Samaria) saaliin Ashurin (Assur) kuninkaan eteen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ennen kuin"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "osaa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "lapsi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "sanoa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "”isäni”"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "ja ”äitini”"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "viedään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Damaskoksen voiman"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "voiman"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaskoksen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Shomronin saaliin"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "saaliin"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomronin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashurin"
+    }
+  ],
+  "timestamp": "2026-09-07T00:02:43.772844345Z",
+  "model": "glm-5.3"
+}

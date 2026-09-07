@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 136:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 136,
+  "translation": "Hänelle, joka teki taivaat taidolla, sillä iankaikkisesti ⟨on⟩ hänen hesedinsä (hänen lunastuksensa).",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Hänelle, joka teki"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaat"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "taidolla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hänen hesedinsä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:52:01.379803710Z",
+  "model": "glm-5.3"
+}

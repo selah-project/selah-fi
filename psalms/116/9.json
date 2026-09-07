@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 116,
+  "translation": "Minä kävelen Jahven edessä elävien maissa.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "Minä kävelen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "maissa"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "elävien"
+    }
+  ],
+  "timestamp": "2026-09-07T02:44:11.782833544Z",
+  "model": "glm-5.3"
+}

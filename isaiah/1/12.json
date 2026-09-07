@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 1:12",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Kun te tulette näkemään kasvojeni, kuka on pyytänyt tätä teidän kädestänne — tallaamaan esikartanoitani?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kun"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "te tulette"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "näkemään"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kasvojeni"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "on pyytänyt"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tätä"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "teidän kädestänne"
+    },
+    {
+      "surface": "רמס",
+      "gloss": "tallaamaan"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "esikartanoitani"
+    }
+  ],
+  "timestamp": "2026-09-07T00:00:06.559702332Z",
+  "model": "glm-5.3"
+}

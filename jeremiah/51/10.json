@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 51:10",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 51,
+  "translation": "Jahve on tuonut esiin ⟨את⟩ vanhurskautemme; tulkaa, ja kertokaamme Tsijonissa ⟨את⟩ Jahven, Elohimimme, teot.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "on tuonut esiin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhurskautemme"
+    },
+    {
+      "surface": "צדקתינו",
+      "gloss": "vanhurskautemme"
+    },
+    {
+      "surface": "באו",
+      "gloss": "tulkaa"
+    },
+    {
+      "surface": "ונספרה",
+      "gloss": "ja kertokaamme"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsijonissa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teot"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "teot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimme"
+    }
+  ],
+  "timestamp": "2026-09-07T00:51:23.127800388Z",
+  "model": "glm-5.3"
+}

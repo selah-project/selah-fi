@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja minä itse hävytän ⟨את⟩ maan, ja teidän vihollisenne, jotka siinä asuvat, hämmästelevät sitä.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "ja minä hävytän"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä itse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "hämmästelevät"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sitä"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "teidän vihollisenne"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "jotka asuvat"
+    },
+    {
+      "surface": "בה",
+      "gloss": "siinä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:01:14.870420501Z",
+  "model": "glm-5.3"
+}

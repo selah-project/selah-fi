@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 24:32",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja mies tuli taloon, ja ⟨hän⟩ purki kameleiden kuormat, ja hän antoi olkia ja rehua kameleille ja vettä pesemään hänen jalkansa ja niiden miesten jalat, jotka ⟨olivat⟩ ⟨את⟩ hänen kanssaan.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ja tuli"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "taloon"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "ja purki"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "kameleiden kuormat"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ja hän antoi"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "olkia"
+    },
+    {
+      "surface": "ומספוא",
+      "gloss": "ja rehua"
+    },
+    {
+      "surface": "לגמלים",
+      "gloss": "kameleille"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ja vettä"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "pesemään"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "hänen jalkansa"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "ja jalat"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "miesten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänen kanssaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:15:05.750513861Z",
+  "model": "glm-5.3"
+}

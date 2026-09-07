@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 2:34",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja valtasimme ⟨את⟩ kaikki hänen kaupunkinsa silloin, ja annoimme hävitykseen ⟨את⟩ jokaisen kaupungin: miehet ja naiset ja pienokaiset — emme jättäneet eloonjäänyttä.",
+  "tokens": [
+    {
+      "surface": "ונלכד",
+      "gloss": "Ja valtasimme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki hänen kaupunkinsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "hänen kaupunkinsa"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "silloin"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tuolloin"
+    },
+    {
+      "surface": "ונחרם",
+      "gloss": "annoimme hävitykseen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jokaisen kaupungin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokaisen"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "והנשים",
+      "gloss": "ja naiset"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "ja pienokaiset"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emme"
+    },
+    {
+      "surface": "השארנו",
+      "gloss": "jättäneet"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "eloonjäänyttä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:23:48.074607418Z",
+  "model": "glm-5.3"
+}

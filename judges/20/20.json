@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 20:20",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja Israelin miehet lähtivät sotaan Benjaminia vastaan, ja Israelin miehet järjestivät ⟨את⟩ heidän kanssaan taistelun Giv'aa vasten.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Ja lähtivät"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sotaan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vastaan"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjaminia"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "ja järjestivät"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "heidät"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "taistelun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vasten"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Giv'aa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:04:28.411116950Z",
+  "model": "glm-5.3"
+}

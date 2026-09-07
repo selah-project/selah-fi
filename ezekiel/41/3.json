@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 41:3",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 41,
+  "translation": "Ja hän meni sisemmäksi ja mittasi oven pilarin, kaksi kyynärää, ja ovi kuusi kyynärää, ja oven leveys seitsemän kyynärää.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ja hän meni"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "sisemmäksi"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "ja hän mittasi"
+    },
+    {
+      "surface": "איל",
+      "gloss": "pilarin"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "oven"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "והפתח",
+      "gloss": "ja ovi"
+    },
+    {
+      "surface": "שש",
+      "gloss": "kuusi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ja leveys"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "oven"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seitsemän"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kyynärää"
+    }
+  ],
+  "timestamp": "2026-09-07T01:16:04.314068632Z",
+  "model": "glm-5.3"
+}

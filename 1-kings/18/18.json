@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja hän sanoi: ”En minä ole häirinnyt ⟨את⟩ Israelia, vaan sinä ja sinun isäsi perhe, koska te olette hylänneet ⟨את⟩ Jahven käskyt ja seuranneet Baaleja.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "En"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "ole häirinnyt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vaan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ja perhe"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "sinun isäsi"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "te olette hylänneet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "käskyt"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "käskyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "ja seuranneet"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": ""
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baaleja"
+    }
+  ],
+  "timestamp": "2026-09-06T23:44:08.298122475Z",
+  "model": "glm-5.3"
+}

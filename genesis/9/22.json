@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja Ham, Kenaanin isä, näki ⟨את⟩ isänsä alastomuuden ja kertoi siitä kahdelle veljelleen ulkona.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ja näki"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "isä"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaanin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isänsä alastomuuden"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "alastomuuden"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isänsä"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ja kertoi"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "kahdelle"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "veljilleen"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ulkona"
+    }
+  ],
+  "timestamp": "2026-09-06T21:06:29.970062102Z",
+  "model": "glm-5.3"
+}

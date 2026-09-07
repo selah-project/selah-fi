@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 10:18",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja miksi minut kohdusta toit esiin? Päästäisin henkeni, eikä silmä näkisi minua.",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "ja miksi"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "kohdusta"
+    },
+    {
+      "surface": "הצאתני",
+      "gloss": "toit minut esiin"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "päästäisin henkeni"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "eikä silmä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תראני",
+      "gloss": "näkisi minua"
+    }
+  ],
+  "timestamp": "2026-09-07T03:29:45.252980995Z",
+  "model": "glm-5.3"
+}

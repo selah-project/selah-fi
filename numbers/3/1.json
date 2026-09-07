@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja tämä on Aharonin (Aaronin) ja Moshen (Mooses) sukupolvi sinä päivänä, jona Jahve puhui ⟨את⟩ Moshelle Sinain vuorella.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ja tämä"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "on sukupolvi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonin"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "ja Moshen"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sinä päivänä"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "puhui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshelle"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshelle"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "vuorella"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinain"
+    }
+  ],
+  "timestamp": "2026-09-06T22:03:40.466959494Z",
+  "model": "glm-5.3"
+}

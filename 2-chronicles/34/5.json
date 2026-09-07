@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 34:5",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "Ja kohenien luut poltti hän heidän alttariensa päälle, ja puhdisti ⟨את⟩ Yehudan ja ⟨את⟩ Jerushalajimin.",
+  "tokens": [
+    {
+      "surface": "ועצמות",
+      "gloss": "ja luut"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "kohenien (papit)"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "polttoi hän"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "מזבחותים",
+      "gloss": "heidän alttareidensa"
+    },
+    {
+      "surface": "ויטהר",
+      "gloss": "ja puhdisti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudan (Juuda)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Jerushalajimin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimin (Jerusalem)"
+    }
+  ],
+  "timestamp": "2026-09-07T05:53:44.650332941Z",
+  "model": "glm-5.3"
+}

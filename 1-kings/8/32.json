@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 8:32",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "niin sinä kuulet taivaista ja teet ja tuomitset ⟨את⟩ palvelijasi: julistamaan syylliseksi syyllisen, antamaan hänen tien hänen päähänsä, ja julistamaan vanhurskaan vanhurskaaksi, antamaan hänelle hänen vanhurskautensa mukaan.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "niin sinä"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "kuulet"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaista"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ja teet"
+    },
+    {
+      "surface": "ושפטת",
+      "gloss": "ja tuomitset"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palvelijasi"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "palvelijasi"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "julistamaan syylliseksi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "syyllisen"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "antamaan"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "hänen tien"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "hänen päähänsä"
+    },
+    {
+      "surface": "ולהצדיק",
+      "gloss": "ja julistamaan vanhurskaaksi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "vanhurskaan"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "antamaan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "כצדקתו",
+      "gloss": "hänen vanhurskautensa mukaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:38:20.495384008Z",
+  "model": "glm-5.3"
+}

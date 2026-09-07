@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 19:11",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja ⟨את⟩ miehet, jotka olivat talon ovella, he löivät sanverim-sokeudella, pienestä suureen, ja he uuvuivat etsiessään ovea.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "miehet"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ovella"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "he löivät"
+    },
+    {
+      "surface": "בסנורים",
+      "gloss": "sanverim-sokeudella"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "pienisestä"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "saakka"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suureen"
+    },
+    {
+      "surface": "וילאו",
+      "gloss": "ja he uuvuivat"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "etsiäkseen"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ovea"
+    }
+  ],
+  "timestamp": "2026-09-06T21:10:19.712200189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja pyhinä miehinä olkaa minulle, ja raadeltua lihaa kedolla älkää syökö; koiralle heittäkää ⟨את⟩ se.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "Ja miehet"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhät"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "olkaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "ja liha"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kedolla"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "raadeltua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "syökö"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "koiralle"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "heittäkää"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "se"
+    }
+  ],
+  "timestamp": "2026-09-06T21:37:09.568588534Z",
+  "model": "glm-5.3"
+}

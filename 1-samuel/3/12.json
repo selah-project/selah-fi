@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Sinä päivänä minä toteutan Eliä vastaan ⟨את⟩ kaiken, mitä olen puhunut hänen huoneestansa, aloittaen ja lopettaen.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Sinä päivänä"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "siinä"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "minä toteutan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vastaan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eliä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "olen puhunut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huoneestansa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hänen huoneestansa"
+    },
+    {
+      "surface": "החל",
+      "gloss": "aloittaen"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ja lopettaen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:06:11.616954405Z",
+  "model": "glm-5.3"
+}

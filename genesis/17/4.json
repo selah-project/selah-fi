@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Minä — katso, liittoni ⟨on⟩ ⟨את⟩ sinun kanssasi, ja sinä tulet kansojen paljoudeksi isäksi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Minä"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "katso"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "liittoni"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "sinun kanssasi"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ja sinä tulet"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "isäksi"
+    },
+    {
+      "surface": "המון",
+      "gloss": "paljoudeksi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kansojen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:11:30.400517103Z",
+  "model": "glm-5.3"
+}

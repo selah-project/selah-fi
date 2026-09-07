@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 39:22",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 39,
+  "translation": "Ja vankilan päällikkö antoi Josefin käteen ⟨את⟩ kaikki vangit, jotka olivat vankilassa; ja ⟨את⟩ kaiken, mitä siellä tehtiin, hän oli sen tekijä.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ja antoi"
+    },
+    {
+      "surface": "שר",
+      "gloss": "päällikkö"
+    },
+    {
+      "surface": "בית",
+      "gloss": "vankilan"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "vankeinhoitolaitoksen"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käteen"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki vangit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "האסירם",
+      "gloss": "vangit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "olivat"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "vankilassa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaiken, mitä siellä tehtiin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "tehtiin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tekijä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:21:55.572199330Z",
+  "model": "glm-5.3"
+}

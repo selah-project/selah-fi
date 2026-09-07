@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 11:7",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Jumalattoman ihmisen kuollessa toivo katoaa, ja pahain odotus on hävinnyt.",
+  "tokens": [
+    {
+      "surface": "במות",
+      "gloss": "kuollessa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmisen"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "jumalattoman"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "katoaa"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "toivo"
+    },
+    {
+      "surface": "ותוחלת",
+      "gloss": "ja odotus"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "pahain"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "on hävinnyt"
+    }
+  ],
+  "timestamp": "2026-09-07T03:06:00.540169946Z",
+  "model": "glm-5.3"
+}

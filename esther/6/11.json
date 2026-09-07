@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 6:11",
+  "book": "esther",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja Haman otti ⟨את⟩ vaatteen ja ⟨את⟩ hevosen, ja puki ⟨את⟩ Mordekain, ja vei hänet ratsaille kaupungin torille, ja huusi hänen edessään: ”Näin tehdään miehelle, jonka kuningas tahtoo kunniaansa.”",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ja otti"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaatteen"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "vaatteen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hevosen"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "hevosen"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "ja puki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordekain"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekain"
+    },
+    {
+      "surface": "וירכיבהו",
+      "gloss": "ja vei hänet ratsaille"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "torille"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ja huusi"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "hänen edessään"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "näin"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tehdään"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "miehelle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "tahtoo"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "kunniaansa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:41:33.878145402Z",
+  "model": "glm-5.3"
+}

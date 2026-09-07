@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 10:14",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Sinä näet ⟨sen⟩, sillä sinä katsot vaivaa ja kiivautta antaaksesi ⟨sen⟩ käteenkäsi; sinuun hän jättää itsensä, kurjuus; sinä olet ollut orvon auttaja.",
+  "tokens": [
+    {
+      "surface": "ראתה",
+      "gloss": "Sinä näet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "vaivaa"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ja kiivautta"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "katsoa"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "antaaksesi"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "käteenkäsi"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sinuun"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "hän jättää"
+    },
+    {
+      "surface": "חלכה",
+      "gloss": "kurjuus"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "orvon"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "היית",
+      "gloss": "olet ollut"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "auttaja"
+    }
+  ],
+  "timestamp": "2026-09-07T04:29:16.872543292Z",
+  "model": "glm-5.3"
+}

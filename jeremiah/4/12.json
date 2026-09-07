@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Täysi tuuli niistä tulee minulle; nyt puhun myös minä ⟨את⟩ heitä koskevat tuomiot.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "tuuli"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "täysi"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "niistä"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "tulee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "puhun"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "tuomiot"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ heitä",
+      "marks": "heitä — את + 3. monikon suffiksi, objektina 'heidät'"
+    }
+  ],
+  "timestamp": "2026-09-07T00:25:36.218370950Z",
+  "model": "glm-5.3"
+}

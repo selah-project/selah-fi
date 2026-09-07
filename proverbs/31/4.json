@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Ei kuninkaille, Lemuel (Lemuel), ei kuninkaille juoda viiniä, eivätkä ruhtinaat himoitse väkijuomaa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ei"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "kuninkaille"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Lemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ei"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "kuninkaille"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "juoda"
+    },
+    {
+      "surface": "יין",
+      "gloss": "viini"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "eivätkä ruhtinaat"
+    },
+    {
+      "surface": "או",
+      "gloss": "himoitse"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "väkijuomaa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:23:03.606511602Z",
+  "model": "glm-5.3"
+}

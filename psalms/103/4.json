@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 103,
+  "translation": "Jekahtauttaa elämäsi kuopasta, joka kruunaa sinut hesedillä ⟨ja⟩ armahtavaisuudella.",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "joka lunastaa"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "kuopasta"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "elämäsi"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "joka kruunaa sinut"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedillä"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "⟨ja⟩ armahtavaisuudella"
+    }
+  ],
+  "timestamp": "2026-09-07T02:36:45.016282354Z",
+  "model": "glm-5.3"
+}

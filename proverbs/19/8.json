@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 19:8",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Joka hankkii sydämen, rakastaa Nefeshiaan (sieluaan); joka varjelee ymmärrystä, löytää hyvän.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "hankkii"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sydämen"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "rakastaa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "Nefeshiaan"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "varjelee"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "ymmärrystä"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "löytääkseen"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvän"
+    }
+  ],
+  "timestamp": "2026-09-07T03:12:00.764285918Z",
+  "model": "glm-5.3"
+}

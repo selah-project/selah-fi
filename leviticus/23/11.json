@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "ja hän heiluttaa ⟨את⟩ omerin Jahven edestä, teidän mielisuosioksenne; Shabbatin (sapatin) jälkeisenä päivänä kohen heiluttaa sen.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "ja hän heiluttaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omerin"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "omerin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edestä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "teidän mielisuosioksenne"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "jälkeisenä päivänä"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbatin"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "hän heiluttaa sen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:57:38.493787753Z",
+  "model": "glm-5.3"
+}

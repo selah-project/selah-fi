@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja tapahtui seuraavana päivänä, että Moshe (Mooses) istuutuessaan tuomitsemaan ⟨את⟩ kansaa, ja kansa seisoi Moshen äärellä aamusta iltaan asti.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "seuraavana päivänä"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "istuutui"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "tuomitsemaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansaa"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ja seisoi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "על",
+      "gloss": "äärellä"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-sta aamusta"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "aamusta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "iltaan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:10:13.180480493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Parempi on vähäinen vanhurskaalla kuin monien pahain paljous.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "parempi"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "vähäinen"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "vanhurskaalla"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "kuin paljous"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "pahien"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "monien"
+    }
+  ],
+  "timestamp": "2026-09-07T02:05:15.216046602Z",
+  "model": "glm-5.3"
+}

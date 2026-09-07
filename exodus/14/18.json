@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 14:18",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja Mitsrajim tuntevat, että minä ⟨olen⟩ Jahve, kun minä kirkastun Paron, hänen vaunujensa ja hänen ratsumiestensä kautta.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Ja tuntevat"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהכבדי",
+      "gloss": "kirkastuessani"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "hänen vaunujensa"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "ja hänen ratsumiestensä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:34:54.398526540Z",
+  "model": "glm-5.3"
+}

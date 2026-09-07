@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Eikö Kalno ⟨ole⟩ niinkuin Karkemish? Eikö Hamat niinkuin Arpad? Eikö Shomeron niinkuin Damasek?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "eikö"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "niinkuin Karkemish"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "Kalno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eikö"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eikö"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "niinkuin Arpad"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eikö"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eikö"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "niinkuin Damasek"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    }
+  ],
+  "timestamp": "2026-09-07T00:03:37.512066478Z",
+  "model": "glm-5.3"
+}

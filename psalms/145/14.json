@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 145,
+  "translation": "Jahve tukee kaikkia kaatuvia ja kohottaa kaikki kumaraiset.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "tukee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kaikkia"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "kaatuvia"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "ja kohottaa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "kumaraiset"
+    }
+  ],
+  "timestamp": "2026-09-07T02:56:11.557257828Z",
+  "model": "glm-5.3"
+}

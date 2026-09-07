@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 9:4",
+  "book": "amos",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja jos he menevät vankeuteen vihollistensa edessä, sieltä minä käsken ⟨את⟩ miekkaa, ja se tappaa heidät, ja minä panen silmäni heidän päällensä pahaksi, enkä hyväksi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ja jos"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "menevät"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "vankeuteen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "vihollistensa"
+    },
+    {
+      "surface": "משם",
+      "gloss": "sieltä"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "minä käsken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miekkaa"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "miekkaa"
+    },
+    {
+      "surface": "והרגתם",
+      "gloss": "ja se tappaa heidät"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "ja minä panen"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "silmäni"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "heidän päällensä"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "pahaksi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "hyväksi"
+    }
+  ],
+  "timestamp": "2026-09-07T01:32:29.434745734Z",
+  "model": "glm-5.3"
+}

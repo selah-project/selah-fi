@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 46,
+  "translation": "Ja he tekevät ⟨את⟩ karitsan ja ⟨את⟩ ruokauhrin ja ⟨את⟩ öljyn aamuisin, aamuisin — jatkuvan polttouhrin.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Ja he tekevät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karitsan"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "karitsan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "ruokauhrin"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ruokauhrin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "öljyn"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "öljyn"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamuisin"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamuisin"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "polttouhrin"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "jatkuvan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:17:15.876363335Z",
+  "model": "glm-5.3"
+}

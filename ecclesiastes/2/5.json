@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Tein itselleni puutarhoja ja puistoja, ja istutin niihin kaiken hedelmän puita.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Tein"
+    },
+    {
+      "surface": "לי",
+      "gloss": "itselleni"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "puutarhoja"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "ja puistoja"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "ja istutin"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "niihin"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "puita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "hedelmän"
+    }
+  ],
+  "timestamp": "2026-09-07T04:06:51.129362469Z",
+  "model": "glm-5.3"
+}

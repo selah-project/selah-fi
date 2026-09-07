@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 17:26",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja Moshe teki, kuten Jahve oli käskenyt ⟨את⟩ häntä; niin hän teki.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ja teki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kuten"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oli käskenyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ häntä",
+      "marks": "Moshe (pronomini)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teki"
+    }
+  ],
+  "timestamp": "2026-09-06T22:12:33.651661616Z",
+  "model": "glm-5.3"
+}

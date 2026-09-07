@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja Jahve sanoi Shemuëlille: Kuule kansan ääni, kaiken mitä he sanovat sinulle; sillä ei ⟨את⟩ sinua he ole hylänneet, vaan ⟨את⟩ minut he ovat hylänneet, ⟨estämättä⟩ minua olemasta heidän kuninkaansa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja ... sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-lle"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuëlille"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Kuule"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ääni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "he sanovat"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sinua"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "he ovat hylänneet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vaan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ minut"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "he ovat hylänneet"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "minua olemasta kuningas"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "heidän"
+    }
+  ],
+  "timestamp": "2026-09-06T23:06:18.988203443Z",
+  "model": "glm-5.3"
+}

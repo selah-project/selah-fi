@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 6:10",
+  "book": "zechariah",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ota pakkomuutosta ⟨את⟩ Heldailta ja ⟨את⟩ Tovijalta ja ⟨את⟩ Jedajalta, ja sinä tulet sinä päivänä, ja tulet Joshiyan, Tsefanjan pojan, taloon, jotka tulivat Babelista.",
+  "tokens": [
+    {
+      "surface": "לקוח",
+      "gloss": "ota"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ …lta"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "pakkomuutosta"
+    },
+    {
+      "surface": "מחלדי",
+      "gloss": "Heldailta"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Tovijalta"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "Tovijalta"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Jedajalta"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "Jedajalta"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "ja tulet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sen"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "ja tulet"
+    },
+    {
+      "surface": "בית",
+      "gloss": "taloon"
+    },
+    {
+      "surface": "יאשיה",
+      "gloss": "Joshiyan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanjan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "באו",
+      "gloss": "tulivat"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "Babelista"
+    }
+  ],
+  "timestamp": "2026-09-07T01:45:24.887143507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja ⟨את⟩ vuorikoiran (klipsuhirri), koska se nostaa märehdintää, mutta kaviota ei jaa — saastainen se on teille.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "vuorikoiran"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "vuorikoiran"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "nostaa"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "märehdintää"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "ja kavio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "jaa"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "saastainen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    }
+  ],
+  "timestamp": "2026-09-06T21:50:51.918575729Z",
+  "model": "glm-5.3"
+}

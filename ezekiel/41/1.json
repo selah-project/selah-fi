@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 41:1",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 41,
+  "translation": "Ja hän toi minut temppeliin, ja hän mittasi ⟨את⟩ pylväät: kuuden kyynärän leveys tästä puolelta ja kuuden kyynärän leveys tuosta puolelta — teltan leveys.",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "ja hän toi minut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sisään"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "temppeliin"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "ja hän mittasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pylväät"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "pylväät"
+    },
+    {
+      "surface": "שש",
+      "gloss": "kuuden"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kyynärän"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "leveys"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "tästä puolelta"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ja kuuden"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kyynärän"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "leveys"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "tuosta puolelta"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "leveys"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "teltan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:16:04.312677210Z",
+  "model": "glm-5.3"
+}

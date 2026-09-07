@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 44:10",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 44,
+  "translation": "Ja hän sanoi: Myös nyt — kuten sanojenne, niin ⟨on⟩: se, jonka luota ⟨את⟩ se löydetään, olkoon minulle orjaksi, ja te olette syyttömät.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "sanojenne mukaan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨on⟩ se"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "löydetään"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänen luotaan",
+      "marks": "hän, jonka luota"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olkoon"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "orjaksi"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ja te"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "olette"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "syyttömät"
+    }
+  ],
+  "timestamp": "2026-09-06T21:24:32.517401100Z",
+  "model": "glm-5.3"
+}

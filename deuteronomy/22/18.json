@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja ottakoot sen kaupungin vanhimmat ⟨את⟩ miehen ja kurittakoot ⟨את⟩ hänet.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "Ja ottakoot"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vanhimmat"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miehen"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "ja kurittakoot"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet"
+    }
+  ],
+  "timestamp": "2026-09-06T22:34:27.025829065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Tulkaa, syökää minun leipääni, ja juokaa viiniä, jonka olen sekoittanut.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Tulkaa"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "syökää"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "minun leipääni"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "ja juokaa"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "viiniä"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "jonka olen sekoittanut"
+    }
+  ],
+  "timestamp": "2026-09-07T03:03:51.260203577Z",
+  "model": "glm-5.3"
+}

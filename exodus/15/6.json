@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 15:6",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Oikea kätesi, Jahve, ⟨on⟩ ylväs voimassa; oikea kätesi, Jahve, murskaa vihollisen.",
+  "tokens": [
+    {
+      "surface": "ימינך",
+      "gloss": "oikea kätesi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נאדרי",
+      "gloss": "ylväs"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "voimassa"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "oikea kätesi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תרעץ",
+      "gloss": "murskaa"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "vihollisen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:33:14.026052912Z",
+  "model": "glm-5.3"
+}

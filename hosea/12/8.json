@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 12:8",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Kenaan — hänen kädessään ovat petoksen va'at; hän rakastaa sortaa.",
+  "tokens": [
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "hänen kädessään"
+    },
+    {
+      "surface": "מאזני",
+      "gloss": "va'at"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "petoksen"
+    },
+    {
+      "surface": "לעשק",
+      "gloss": "sortaa"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "hän rakastaa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:22:33.851825684Z",
+  "model": "glm-5.3"
+}

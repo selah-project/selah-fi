@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 40:35",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "eikä Moshe voinut mennä sisään kokousmajaan, koska pilvi asui sen päällä, ja Jahven kunnia täytti ⟨את⟩ Mishkanin.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "voinut"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "mennä"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sisään"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "majaan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kokous-"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "asui"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sen päällä"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "pilvi"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ja kunnia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "täytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkanin"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:46:58.037469159Z",
+  "model": "glm-5.3"
+}

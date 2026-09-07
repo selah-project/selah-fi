@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja kuningas otti sormuksensa ⟨את⟩ pois kädestään ja antoi ⟨ sen ⟩ Hamanille, Hamedatan pojalle, agagilaiselle, juutalaisten viholliselle.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "Ja otti pois"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sormuksensa"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "sormuksensa"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "pois"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kädestään"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "ja antoi"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "Hamanille"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojalle"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamedatan"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "agagilaiselle"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "viholliselle"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "juutalaisten"
+    }
+  ],
+  "timestamp": "2026-09-07T04:41:16.745826663Z",
+  "model": "glm-5.3"
+}

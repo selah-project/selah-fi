@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 12:11",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Maataan viljelevä kyllästyy leipään, mutta turhuuksia jahtaava on ymmärrystä vailla.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "viljelevä"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "maataan"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "kyllästyy"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipään"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "mutta jahtaava"
+    },
+    {
+      "surface": "ריקים",
+      "gloss": "turhuuksia"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "on vailla"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ymmärrystä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:06:29.169241247Z",
+  "model": "glm-5.3"
+}

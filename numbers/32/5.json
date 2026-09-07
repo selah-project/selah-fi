@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 32:5",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Ja he sanoivat: jos olemme löytäneet armon sinun silmissäsi, olkoon ⟨את⟩ tämä maa annettu palvelijoillesi omaisuudeksi; älä vie meitä ⟨את⟩ Jordanin yli.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ja he sanoivat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "olemme löytäneet"
+    },
+    {
+      "surface": "חן",
+      "gloss": "armon"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "sinun silmissäsi"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "olkoon annettu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämä maa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "palvelijoillesi"
+    },
+    {
+      "surface": "לאחזה",
+      "gloss": "omaisuudeksi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תעברנו",
+      "gloss": "vie meitä yli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordanin"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:18:58.743633982Z",
+  "model": "glm-5.3"
+}

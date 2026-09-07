@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 44:2",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 44,
+  "translation": "Ja ⟨את⟩ minun maljani, hopeamaljan, pane nuorimman säkin suuhun sekä ⟨את⟩ hänen viljarahansa; ja hän teki Josefin (Joosef) sanan mukaan, jonka hän oli puhunut.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "minun maljani"
+    },
+    {
+      "surface": "גביעי",
+      "gloss": "minun maljani"
+    },
+    {
+      "surface": "גביע",
+      "gloss": "maljan"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "hopea-"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "pane"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "suuhun"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "säkin"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "nuorimman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sekä ⟨את⟩",
+      "marks": "hänen viljarahansa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "hopea"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "hänen viljarahansa"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ja hän teki"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sanan mukaan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef (Joosef)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oli puhunut"
+    }
+  ],
+  "timestamp": "2026-09-06T21:25:42.689551338Z",
+  "model": "glm-5.3"
+}

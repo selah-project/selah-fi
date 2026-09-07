@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 82,
+  "translation": "Mizmor (psalmi) Asafille (Asaph). Elohim seisoo Elin seurueessa; jumalien keskellä hän tuomitsee.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor (psalmi)"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafille (Asaph)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "seisoo"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "seurueessa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elin"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "keskellä"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jumalien"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "hän tuomitsee"
+    }
+  ],
+  "timestamp": "2026-09-07T02:26:51.782990974Z",
+  "model": "glm-5.3"
+}

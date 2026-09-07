@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 17:19",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja Shaul (Saul) ja he ja kaikki Israelin miehet olivat Elan laaksossa sotimassa pelistiläisiä vastaan.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "Ja Shaul"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ja he"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "laaksossa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "Elan"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "sotimassa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vastaan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelistiläisiä"
+    }
+  ],
+  "timestamp": "2026-09-07T05:59:56.745955738Z",
+  "model": "glm-5.3"
+}

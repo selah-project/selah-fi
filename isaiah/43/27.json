@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 43:27",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 43,
+  "translation": "Sinun ensimmäinen isäsi teki syntiä, ja tulkitsijasi kapinoivat minua vastaan.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "Sinun isäsi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ensimmäinen"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "teki syntiä"
+    },
+    {
+      "surface": "ומליציך",
+      "gloss": "ja tulkitsijasi"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "kapinoivat"
+    },
+    {
+      "surface": "בי",
+      "gloss": "minua vastaan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:15:16.236497579Z",
+  "model": "glm-5.3"
+}

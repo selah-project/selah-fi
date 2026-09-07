@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja he sanoivat: Et ole sortanut meitä etkä ahdistanut meitä, etkä ole ottanut yhdenkään miehen kädestä mitään.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ja he sanoivat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Et"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "ole sortanut meitä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "etkä"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "ahdistanut meitä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "etkä"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ole ottanut"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kädestä"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "mitään"
+    }
+  ],
+  "timestamp": "2026-09-06T23:08:28.340024628Z",
+  "model": "glm-5.3"
+}

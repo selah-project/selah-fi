@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 20:2",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja Pashhur löi ⟨את⟩ profeetta Yirmeyahun ja pani ⟨את⟩ hänet kahleisiin, jotka olivat Benjaminin yläportilla, joka on Jahven talossa.",
+  "tokens": [
+    {
+      "surface": "ויכה",
+      "gloss": "Ja löi"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "Pashhur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "profeetta Yirmeyahun"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahun"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profeetta"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ja pani"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet",
+      "marks": "Yirmeyahun"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "המהפכת",
+      "gloss": "kahleisiin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka olivat"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "portilla"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjaminin"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "ylä-"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka on"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "talossa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-07T00:33:21.109078364Z",
+  "model": "glm-5.3"
+}

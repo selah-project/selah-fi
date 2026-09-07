@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja hän kokosi ⟨את⟩ kaikki Israelin päämiehet sekä kohenit ja leviiläiset.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "ja hän kokosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki Israelin päämiehet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "päämiehet"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "sekä kohenit"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ja leviiläiset"
+    }
+  ],
+  "timestamp": "2026-09-07T06:03:06.401498565Z",
+  "model": "glm-5.3"
+}

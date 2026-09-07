@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "kaikki tasangon kaupungit ja koko Gilead ja koko Bashan aina Salkhaan ja Edreiin asti, Ogin valtakunnan kaupunkeja Bashanissa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kaupungit"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "tasangon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja koko"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja koko"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Salkhaan"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "ja Edreiin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kaupunkeja"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "valtakunnan"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "Bashanissa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:23:47.846850718Z",
+  "model": "glm-5.3"
+}

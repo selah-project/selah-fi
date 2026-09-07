@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 8:36",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja Ahaz synnytti ⟨את⟩ Jehoaddan, ja Jehoadda synnytti ⟨את⟩ Alemetin ja ⟨את⟩ Azmavetin ja ⟨את⟩ Zimrin, ja Zimri synnytti ⟨את⟩ Motsan.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "Ja Ahaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoaddan"
+    },
+    {
+      "surface": "יהועדה",
+      "gloss": "Jehoaddan"
+    },
+    {
+      "surface": "ויהועדה",
+      "gloss": "ja Jehoadda"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Alemetin"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Alemetin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Azmavetin"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Azmavetin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Zimrin"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimrin"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "ja Zimri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Motsan"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motsan"
+    }
+  ],
+  "timestamp": "2026-09-07T05:14:46.766784812Z",
+  "model": "glm-5.3"
+}

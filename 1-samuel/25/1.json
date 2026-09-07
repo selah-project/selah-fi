@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 25:1",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja Shemuel (Samuel) kuoli, ja koko Israel kokoontui ja pitivät hänelle hautajaisvalituksen, ja he hautasivat hänet hänen kotiinsa Ramaan (Raama). Ja David nousi ja meni alas Paranin erämaahan.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ja kuoli"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "ja kokoontui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "ja pitivät hautajaisvalituksen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "ja hautasivat hänet"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "hänen kotiinsa"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "Ramaan"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ja nousi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ja meni alas"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "erämaahan"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paranin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:15:25.797959975Z",
+  "model": "glm-5.3"
+}

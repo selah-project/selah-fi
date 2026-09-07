@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 50,
+  "translation": "Nämä sinä teit, ja minä vaikenin; kuvittelit, että minä ⟨olen⟩ sinun kaltaisesi. Minä nuhtelen sinua ja asetan ⟨sen⟩ sinun silmiesi eteen.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Nämä"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "sinä teit"
+    },
+    {
+      "surface": "והחרשתי",
+      "gloss": "ja minä vaikenin"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "kuvittelit"
+    },
+    {
+      "surface": "היות",
+      "gloss": "että ⟨olen⟩"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "minä"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "sinun kaltaisesi"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "minä nuhtelen sinua"
+    },
+    {
+      "surface": "ואערכה",
+      "gloss": "ja asetan ⟨sen⟩"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "sinun silmiesi eteen"
+    }
+  ],
+  "timestamp": "2026-09-07T02:09:14.132829461Z",
+  "model": "glm-5.3"
+}

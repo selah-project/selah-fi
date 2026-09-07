@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "ja ⟨את⟩ jevusilaiset ja ⟨את⟩ emorilaiset ja ⟨את⟩ girgashilaiset.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "jevusilaiset"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "jevusilaiset"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "emorilaiset"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emorilaiset"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "girgashilaiset"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "girgashilaiset"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:44.384987779Z",
+  "model": "glm-5.3"
+}

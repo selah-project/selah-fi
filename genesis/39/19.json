@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 39:19",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 39,
+  "translation": "Ja tapahtui, kun hänen herransa kuuli ⟨את⟩ vaimonsa sanat, jotka hän puhui hänelle sanoen: ”Näin teki palvelijasi minulle”, että hänen vihansa syttyi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "kun kuuli"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "hänen herransa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaimonsa sanat"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vaimonsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "hän puhui"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "näin"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "näiden sanojen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "palvelijasi"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "että syttyi"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "hänen vihansa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:22:32.748590997Z",
+  "model": "glm-5.3"
+}

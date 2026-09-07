@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 122,
+  "translation": "Sillä siellä seisovat valtaistuimet oikeudenkäynnille, valtaistuimet Davidin (Daavid) huoneelle.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "seisovat"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "valtaistuimet"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "oikeudenkäynnille"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "valtaistuimet"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "huoneelle"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidin"
+    }
+  ],
+  "timestamp": "2026-09-07T02:49:28.148407136Z",
+  "model": "glm-5.3"
+}

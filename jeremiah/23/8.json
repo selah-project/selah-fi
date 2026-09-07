@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 23:8",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "vaan: ”Niin totta kuin Jahve elää, joka vei ylös ja joka toi ⟨את⟩ Israelin huoneen siemenen pohjoisen maasta ja kaikista maista, joihin hän oli heidät karkottanut”; ja he asuvat omalla maallaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vaan"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "חי",
+      "gloss": "elää"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "vei ylös"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ja joka"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "toi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin huoneen siemenen"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "siemenen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "pohjoisen"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ja kaikista"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "maista"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joihin"
+    },
+    {
+      "surface": "הדחתים",
+      "gloss": "oli karkottanut"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sinne"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ja he asuvat"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "omalla maallaan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:34:44.657449721Z",
+  "model": "glm-5.3"
+}

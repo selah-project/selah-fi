@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja te: olkaa hedelmälliset ja lisääntykää, viliskö maan päällä ja lisääntykää siinä.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "ja te"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "olkaa hedelmälliset"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ja lisääntykää"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "viliskö"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maan päällä"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ja lisääntykää"
+    },
+    {
+      "surface": "בה",
+      "gloss": "siinä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:06:06.289746764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 6:15",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Elohimin miehen palvelija nousi varhain noustakseen, ja hän meni ulos, ja katso: sotajoukko piiritti ⟨את⟩ kaupungin, ja hevosia ja vaunuja. Ja hänen palvelijansa sanoi hänelle: Voi, herrani, miten meidän on tehtävä?",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "nousi varhain"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "palvelija"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "noustakseen"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ja hän meni ulos"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sotajoukko"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "piiritti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaupungin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "ja hevosia"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "ja vaunuja"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "hänen palvelijansa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "voi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "herrani"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "miten"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "meidän on tehtävä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:49:20.210786509Z",
+  "model": "glm-5.3"
+}

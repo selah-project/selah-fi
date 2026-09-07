@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "En minä tahtonut kuulata Bilamia, vaan siunaten hän siunasi ⟨את⟩ teitä, ja minä pelastin ⟨את⟩ teidät hänen kädestään.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "minä tahtonut"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "kuulata"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "Bilamia"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "hän siunasi"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "siunaten"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teitä"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "ja minä pelastin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "hänen kädestään"
+    }
+  ],
+  "timestamp": "2026-09-06T22:50:10.056342820Z",
+  "model": "glm-5.3"
+}

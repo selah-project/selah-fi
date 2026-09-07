@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Toran (Toora) määräsi meille Moshe (Mooses); se on Ja'akovin (Jaakob) seurakunnan perintö.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Toran"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "määräsi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meille"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "perintö"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "seurakunnan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akovin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:38:00.258255712Z",
+  "model": "glm-5.3"
+}

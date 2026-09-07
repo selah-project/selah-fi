@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja ⟨את⟩ Aharonin ja ⟨את⟩ hänen poikansa sinä katsot tilille, ja he varjelevat ⟨את⟩ pappeutensa; ja vieras, joka lähestyy, surmattakoon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ja ⟨את⟩",
+      "marks": "Aharonin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen poikansa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "sinä katsot tilille"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "ja he varjelevat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pappeutensa"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "pappeutensa"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "ja vieras"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "joka lähestyy"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "surmattakoon"
+    }
+  ],
+  "timestamp": "2026-09-06T22:03:00.462139732Z",
+  "model": "glm-5.3"
+}

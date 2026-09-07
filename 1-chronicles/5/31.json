@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja Avishua (Abisua) siitti ⟨את⟩ Bukin (Bukki), ja Bukki (Bukki) siitti ⟨את⟩ Uzin (Ussi).",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "ja Avishua (Abisua)"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bukin (Bukki)"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Bukin (Bukki)"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "ja Bukki (Bukki)"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uzin (Ussi)"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Uzin (Ussi)"
+    }
+  ],
+  "timestamp": "2026-09-07T05:13:41.851392864Z",
+  "model": "glm-5.3"
+}

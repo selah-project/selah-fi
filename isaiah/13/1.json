@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Taakka Babelista (Babylonia), jonka Jeshajahu (Jesaja), Amotsin poika, näki.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Taakka"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babelista (Babylonia)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "näki"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jeshajahu (Jesaja)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amotsin"
+    }
+  ],
+  "timestamp": "2026-09-07T00:05:03.768344171Z",
+  "model": "glm-5.3"
+}

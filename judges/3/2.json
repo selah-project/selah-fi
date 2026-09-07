@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 3:2",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ainoastaan sitä varten, että Israelin lasten sukupolvet oppisivat tuntemaan sodankäynnin ja opettaisi heille sitä — ainoastaan ne, jotka ennen eivät olleet sitä tunteneet.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ainoastaan"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sitä varten että"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "oppisivat tuntemaan"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "sukupolvet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ללמדם",
+      "gloss": "opettaisi heille"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "sodankäyntiä"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ainoastaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ne jotka"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "ennen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "olleet sitä tunteneet"
+    }
+  ],
+  "timestamp": "2026-09-06T22:51:41.717968710Z",
+  "model": "glm-5.3"
+}

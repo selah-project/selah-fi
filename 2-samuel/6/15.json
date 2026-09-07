@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja David ja koko Israelin heimo veivät ylös ⟨את⟩ Jahven arkin riemuhuudolla ja shofarin äänellä.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Ja David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja koko"
+    },
+    {
+      "surface": "בית",
+      "gloss": "heimon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "veivät ylös"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven arkin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "riemuhuudolla"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "ja äänellä"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofarin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:22:06.779957486Z",
+  "model": "glm-5.3"
+}

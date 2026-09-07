@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 1:42",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Naftalin (Naftali) lapsia, heidän sukupolvensa sukunsa mukaan, isiensä huisen mukaan, nimien luvussa, kahdenkymmenen vuoden iästä ylöspäin, jokainen sotaväkeen käyvä.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "lapsia"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftalin"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "heidän sukupolvensa"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sukunsa mukaan"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "huisen"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "isiensä"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "luvussa"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "nimien"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "iästä"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kahdenkymmenen"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuoden"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ylöspäin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokainen"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "käyvä"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "sotaväkeen"
+    }
+  ],
+  "timestamp": "2026-09-06T22:01:14.552140402Z",
+  "model": "glm-5.3"
+}

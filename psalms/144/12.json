@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 144:12",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 144,
+  "translation": "Joiden meidän poikamme ovat kuin nuoruudessaan kasvatetut taimet, ja meidän tyttäremme kuin veistetyt kulmakivet, palatsin muodon mukaan.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "joiden"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "meidän poikamme"
+    },
+    {
+      "surface": "כנטעים",
+      "gloss": "kuin taimet"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "kasvatetut"
+    },
+    {
+      "surface": "בנעוריהם",
+      "gloss": "nuoruudessaan"
+    },
+    {
+      "surface": "בנותינו",
+      "gloss": "meidän tyttäremme"
+    },
+    {
+      "surface": "כזוית",
+      "gloss": "kuin kulmakivet"
+    },
+    {
+      "surface": "מחטבות",
+      "gloss": "veistetyt"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "muodon"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "palatsin"
+    }
+  ],
+  "timestamp": "2026-09-07T02:57:19.698238993Z",
+  "model": "glm-5.3"
+}

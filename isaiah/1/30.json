@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Sillä te olette niin kuin tammi, jonka lehti nahistuu, ja niin kuin puutarha, jolla ei ole vettä.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "te olette"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "niin kuin tammi"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "nahistuu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "lehti"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "ja niin kuin puutarha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jolla"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vettä"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "לה",
+      "gloss": "siinä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:00:25.904856143Z",
+  "model": "glm-5.3"
+}

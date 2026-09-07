@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 10:3",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "ja katsokaa herranne pojista paras ja sopivin, ja asettakaa ⟨hän⟩ hänen isänsä valtaistuimelle, ja taistelkaa herranne huoneen puolesta.",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "ja katsokaa"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "paras"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "ja sopivin"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "pojista"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "herranne"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "ja asettakaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "valtaistuimelle"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "valtaistuin"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hänen isänsä"
+    },
+    {
+      "surface": "והלחמו",
+      "gloss": "ja taistelkaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "puolesta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "herranne"
+    }
+  ],
+  "timestamp": "2026-09-06T23:50:44.694800866Z",
+  "model": "glm-5.3"
+}

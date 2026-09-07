@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "numbers 26:55",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ainoastaan arpomalla ⟨את⟩ maa jaetaan; isiensä heimojen nimien mukaan he perivät.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ainoastaan"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "arpomalla"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "jaetaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "לשמות",
+      "gloss": "nimien mukaan"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "heimojen"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "isiensä"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "he perivät"
+    }
+  ],
+  "timestamp": "2026-09-06T22:18:01.456296225Z",
+  "model": "glm-5.3"
+}

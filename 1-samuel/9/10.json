@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 9:10",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja Shaul (Saul) sanoi palvelijalleen: ”Hyvä on sanasi; tule, mennään.” Ja he menivät kaupunkiin, jossa oli miehestä, Elohimin miehestä.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "palvelijalleen"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Hyvä"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "on sanasi"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "tule"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "mennään"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "Ja he menivät"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kaupunkiin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupunki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jossa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:07:59.644509535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 141,
+  "translation": "Löyköön vanhurskas minua hesedissä (laupeudessa), ja nuhdelkoon minua; pään voidetta — älköön pääni sitä kieltäkö —, sillä vieläkin ⟨on⟩ rukoukseni heidän pahoissaan.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "löyköön minua"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "vanhurskas"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedissä (laupeudessa)"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "ja nuhdelkoon minua"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "voidetta"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pään"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älköön"
+    },
+    {
+      "surface": "יני",
+      "gloss": "kieltäkö"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "pääni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vieläkin"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "ja rukoukseni"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "heidän pahoissaan"
+    }
+  ],
+  "timestamp": "2026-09-07T02:53:55.979590402Z",
+  "model": "glm-5.3"
+}

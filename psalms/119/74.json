@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 74,
+  "ref": "psalms 119:74",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Sinua pelkäävät näkevät minut ja iloitsevat, sillä sinun sanaasi minä odotin.",
+  "tokens": [
+    {
+      "surface": "יראיך",
+      "gloss": "sinua pelkäävät"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "näkevät minut"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ja iloitsevat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "sinun sanaasi"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "minä odotin"
+    }
+  ],
+  "timestamp": "2026-09-07T02:47:45.026539501Z",
+  "model": "glm-5.3"
+}

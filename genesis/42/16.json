@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 42:16",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Lähettäkää teistanne yksi, ja hän hakokoon ⟨את⟩ veljenne; ja te jääkää vangituiksi, ja teidän sananne tutkittakoon, onko totuus ⟨את⟩ teissä; ja jos ei — niin totta kuin Paro elää: vakoilijoita te olette.”",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "Lähettäkää"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "teistanne"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ja hän hakokoon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veljenne"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "veljenne"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ja te"
+    },
+    {
+      "surface": "האסרו",
+      "gloss": "jääkää vangituiksi"
+    },
+    {
+      "surface": "ויבחנו",
+      "gloss": "ja tutkittakoon"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "teidän sananne"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "totuus"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "teissä"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ja jos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "חי",
+      "gloss": "elää"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "niin totta kun"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "vakoilijoita"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "te olette"
+    }
+  ],
+  "timestamp": "2026-09-06T21:24:43.119395151Z",
+  "model": "glm-5.3"
+}

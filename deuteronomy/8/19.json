@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 8:19",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja tapahtuu: jos unohdat — totisesti unohdat — ⟨את⟩ Jahvea, Elohimiasi, ja käyt muiden jumalien perässä ja palvelette niitä ja kumarrutte niille, minä todistan teitä vastaan tänään, että te kadotte, totisesti kadotte.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ja tapahtuu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "totisesti"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "unohdat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimiasi"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "ja käyt"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "perässä"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jumalien"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "muiden"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "ja palvelette"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "ja kumarrutte"
+    },
+    {
+      "surface": "להם",
+      "gloss": "niille"
+    },
+    {
+      "surface": "העדתי",
+      "gloss": "minä todistan"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "teitä vastaan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tänään"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "totisesti"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "te kadotte"
+    }
+  ],
+  "timestamp": "2026-09-07T04:16:16.641657174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 3:3",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja sanoin hänelle: Monia päiviä sinä istut minun tähteni, äläkä huoraa, äläkä ole miehelle, ja myös minä ⟨odotan⟩ sinua.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ja sanoin"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päiviä"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "monia"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "istut"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minun tähteni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "et"
+    },
+    {
+      "surface": "תזני",
+      "gloss": "huoraa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "äläkä"
+    },
+    {
+      "surface": "תהיי",
+      "gloss": "ole"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "miehelle"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja myös"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinulle"
+    }
+  ],
+  "timestamp": "2026-09-07T01:21:16.440626382Z",
+  "model": "glm-5.3"
+}

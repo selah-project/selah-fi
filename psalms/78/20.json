@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 78,
+  "translation": "Katso, hän löi kallion, ja vedet valuivat, purot vyöryivät; kykeneekö hän myös antamaan leipää, valmistaako hän lihan kansalleen?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "löi"
+    },
+    {
+      "surface": "צור",
+      "gloss": "kallion"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "ja valuivat"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vedet"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "ja purot"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "vyöryivät"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "myöskin"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kykeneekö"
+    },
+    {
+      "surface": "תת",
+      "gloss": "antamaan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vai"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "valmistaako"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "lihan"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "kansalleen"
+    }
+  ],
+  "timestamp": "2026-09-07T02:23:45.929712463Z",
+  "model": "glm-5.3"
+}

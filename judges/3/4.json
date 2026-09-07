@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja ne olivat siellä koettelemassa niillä ⟨את⟩ Israelia, tietääkseen, kuulisivatko he ⟨את⟩ Jahven käskyt, jotka hän oli käskenyt ⟨את⟩ heidän isiltäisiltään Moshen käden kautta.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ja ne olivat"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "koettelemassa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "niillä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelia"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "tietääkseen"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "kuulisivatko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "käskyt"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "käskyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oli käskenyt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän isillensä"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "heidän isillensä"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käden kautta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshen"
+    }
+  ],
+  "timestamp": "2026-09-06T22:51:41.752320049Z",
+  "model": "glm-5.3"
+}

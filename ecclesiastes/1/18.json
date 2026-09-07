@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Sillä paljossa viisaudessa ⟨on⟩ paljon katkeruutta, ja joka lisää tietoa, lisää tuskaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "paljossa"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "viisaudessa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "paljon"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "katkeruutta"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "ja joka lisää"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tietoa"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "lisää"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "tuskaa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:04:58.067653190Z",
+  "model": "glm-5.3"
+}

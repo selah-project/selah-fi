@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ja asetat ⟨את⟩ kultaisen alttarin suitsutusta varten todistuksen arkin eteen, ja panet ⟨את⟩ majan sisäänkäynnin verhon.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "ja asetat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kultaisen alttarin"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kultaisen"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "suitsutusta varten"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkin"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "todistuksen"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "ja panet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "verhon"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "verhon"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "sisäänkäynnin"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "majan"
+    }
+  ],
+  "timestamp": "2026-09-07T06:34:45.190702238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 9:2",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "sillä jos kieltäydyt sinä lähettämästä ja vielä sinä pidätät heitä —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "kieltäydyt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "lähettämästä"
+    },
+    {
+      "surface": "ועודך",
+      "gloss": "ja vielä sinä"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "pidätät"
+    },
+    {
+      "surface": "בם",
+      "gloss": "heitä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:31:56.278264097Z",
+  "model": "glm-5.3"
+}

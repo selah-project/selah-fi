@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Eivät he asu Jahven maassa, vaan Efraim palaa Mitsrajimiin, ja Ashurissa he syövät epäpuhdasta.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Eivät"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "he asu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "vaan ... palaa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimiin"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "ja Ashurissa"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "epäpuhdasta"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "he syövät"
+    }
+  ],
+  "timestamp": "2026-09-07T01:24:56.210794230Z",
+  "model": "glm-5.3"
+}

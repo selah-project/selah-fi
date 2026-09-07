@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 8:12",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja hän odotti vielä toiset seitsemän päivää ja lähetti ⟨את⟩ kyyhkyn, eikä se jatkanut paluuta hänen luokseen enää.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "odotti"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vielä"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seitsemän"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivää"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "toiset"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "lähetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kyyhkyn"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "kyyhkyn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä se"
+    },
+    {
+      "surface": "יספה",
+      "gloss": "jatkanut"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "paluuta"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänen luokseen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enää"
+    }
+  ],
+  "timestamp": "2026-09-06T21:06:18.336867080Z",
+  "model": "glm-5.3"
+}

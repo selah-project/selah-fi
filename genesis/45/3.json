@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 45:3",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 45,
+  "translation": "Ja Josef sanoi veljilleen: ”Minä olen Josef. Elääkö isäni vielä?” Eivätkä veljet voineet vastata ⟨את⟩ häntä, sillä he pelästyivät hänen edessään.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "veljilleen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä olen"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "vieläkö"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "isäni"
+    },
+    {
+      "surface": "חי",
+      "gloss": "elää"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "voineet"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "veljet"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "vastata"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ häntä",
+      "marks": "häntä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "he pelästyivät"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "hänen edessään"
+    }
+  ],
+  "timestamp": "2026-09-06T21:26:58.882826040Z",
+  "model": "glm-5.3"
+}

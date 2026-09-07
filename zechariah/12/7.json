@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 12:7",
+  "book": "zechariah",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja Jahve pelastaa ⟨את⟩ Yehudan teltat ensin, jottei Daavidin (Daavid) huoneen kirkkaus ja Jerushalajimin asujan kirkkaus kohoa Yehudan yli.",
+  "tokens": [
+    {
+      "surface": "והושיע",
+      "gloss": "ja pelastaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudan teltat"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "teltat"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudan"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "ensin"
+    },
+    {
+      "surface": "למען",
+      "gloss": "jotta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תגדל",
+      "gloss": "kohoaisi"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "kirkkaus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daavidin"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "ja kirkkaus"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "asujan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimin"
+    },
+    {
+      "surface": "על",
+      "gloss": "yli"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:49:48.435047114Z",
+  "model": "glm-5.3"
+}

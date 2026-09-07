@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Vapiskaa älkääkä syntiä tehko; sanokaa sydämissänne vuoteillanne ja olkaa hiljaa. Sela.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "Vapiskaa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "älkääkä"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "syntiä tehko"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "sanokaa"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "sydämissänne"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "vuoteillanne"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "ja olkaa hiljaa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-07T01:51:54.340781399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Jokainen herem, joka ihmisistä pyhitetään heremiksi, ei tulla lunastamaan: kuolemalla ⟨hän⟩ kuolee.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "jokainen"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "herem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "pyhitetään heremiksi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "–sta"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihmisistä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "tulla lunastamaan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kuolemalla"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "kuolee"
+    }
+  ],
+  "timestamp": "2026-09-06T22:02:02.549634748Z",
+  "model": "glm-5.3"
+}

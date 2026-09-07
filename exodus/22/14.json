@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Jos sen omistaja ⟨on⟩ sen kanssa, hän ei maksa; jos se ⟨on⟩ palkattu, se tulee palkkansa vuoksi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jos"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "omistajansa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sen kanssa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "hän maksa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "palkattu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se on"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tulee"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "palkkansa vuoksi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:37:53.827935678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 72,
+  "translation": "Sillä hän pelastaa köyhän, huutavan, ja kurjan, jolla ei ole auttajaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "hän pelastaa"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "köyhän"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "huutavan"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "ja kurjan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "jolla ei ole"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "auttajaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänellä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:33:28.276844125Z",
+  "model": "glm-5.3"
+}

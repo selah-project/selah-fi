@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 11:14",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja Shemuel (Samuel) sanoi kansalle: Menkää, niin mennään Gilgaliin, ja uudistetaan siellä kuninkuus.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansalle"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Menkää"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "niin mennään"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgaliin"
+    },
+    {
+      "surface": "ונחדש",
+      "gloss": "ja uudistetaan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "kuninkuus"
+    }
+  ],
+  "timestamp": "2026-09-06T23:09:36.690767058Z",
+  "model": "glm-5.3"
+}

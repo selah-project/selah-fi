@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Vääristeleekö El oikeutta, tai vääristeleekö Shaddai (Kaikkivaltias) vanhurskautta?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "vääristeleekö"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "oikeutta"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "tai"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "vääristeleekö"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "vanhurskautta"
+    }
+  ],
+  "timestamp": "2026-09-07T03:26:17.934163505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 47,
+  "translation": "Ja Ja'akov siunasi ⟨את⟩ Paron ja lähti Paron edestä.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "ja siunasi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paron"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ja lähti"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "edestä"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    }
+  ],
+  "timestamp": "2026-09-06T21:26:22.618009855Z",
+  "model": "glm-5.3"
+}

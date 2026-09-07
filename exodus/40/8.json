@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ja sinä pystytät ⟨את⟩ esikartanon ympärille, ja asetat ⟨את⟩ esikartanon portin verhon.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ja sinä asetat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "esikartanon"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "esikartanon"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympärille"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ja sinä asetat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "esikartanon portin verhon"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "verhon"
+    },
+    {
+      "surface": "שער",
+      "gloss": "portin"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "esikartanon"
+    }
+  ],
+  "timestamp": "2026-09-06T21:46:47.402758025Z",
+  "model": "glm-5.3"
+}

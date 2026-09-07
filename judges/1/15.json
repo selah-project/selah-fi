@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 1:15",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja hän sanoi hänelle: Anna minulle siunaus, sillä etelän maata sinä olet antanut minulle; anna minulle myös vesilähteitä. Ja Kaleb antoi hänelle ⟨את⟩ ylälähteet ja ⟨את⟩ alalähteet.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "anna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "siunaus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "etelän"
+    },
+    {
+      "surface": "נתתני",
+      "gloss": "olet antanut minulle"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "anna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "lähteitä"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vesi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "antoi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaleb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ylälähteet"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "lähteet"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "ylä-"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "alalähteet"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "lähteet"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "ala-"
+    }
+  ],
+  "timestamp": "2026-09-06T22:51:12.335838485Z",
+  "model": "glm-5.3"
+}

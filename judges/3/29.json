@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 3:29",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja he löivät ⟨את⟩ Moab sinä aikana, noin kymmenen tuhatta miestä, kaikki lihavia ja kaikki urhoja, eikä yhtään miestä pelastunut.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "löivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "aikana"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "noin kymmenen"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tuhatta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miestä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lihavia"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "urho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "pelastunut"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yhtään miestä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:55:31.452655766Z",
+  "model": "glm-5.3"
+}

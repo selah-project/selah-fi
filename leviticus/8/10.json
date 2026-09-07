@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja Moshe (Mooses) otti ⟨את⟩ voiteluöljyn ja voiteli ⟨את⟩ Mishkanin (asumuksen) ja ⟨את⟩ kaiken, mitä siinä oli, ja pyhitti ⟨את⟩ ne.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ja ... otti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mooses)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "voiteluöljyn"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "öljyn"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "voitelu"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "ja voiteli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkanin"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanin (asumuksen)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaiken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siinä oli"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ja pyhitti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ne"
+    }
+  ],
+  "timestamp": "2026-09-06T21:51:10.580529559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 27:12",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ja esikartanon leveys lännen sivulle: verhot viisikymmentä kyynärää; niiden pylväät kymmenen ja niiden jalustat kymmenen.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "Ja leveys"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "esikartanon"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "sivulle"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lännen"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "verhot"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "viisikymmentä"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "niiden pylväät"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kymmenen"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ja niiden jalustat"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kymmenen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:39:08.591596024Z",
+  "model": "glm-5.3"
+}

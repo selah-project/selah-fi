@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 85,
+  "translation": "Sinä kokosit pois kaiken vihasi, Sinä käännyit kiivaan vihastuksesi heikennyksestä ⟨ pois ⟩.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "Sinä kokosit pois"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "vihasi"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "Sinä käännyit"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "kiivaan"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "vihastuksesi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:29:25.308484102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Ja hän teki kaksi kerubia kullasta; taovatyötä hän teki ⟨את⟩ ne, kapporetin molemmista päistä.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ja hän teki"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerubia"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kullasta"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "taovatyötä"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hän teki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ne"
+    },
+    {
+      "surface": "משני",
+      "gloss": "molemmista"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "päistä"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kapporetin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:44:55.787372007Z",
+  "model": "glm-5.3"
+}

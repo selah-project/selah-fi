@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 37:36",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Ja medanilaiset myivät hänet Mitsrajimiin (Egyptiin) Potifarille, Paron (farao) eunukille, teurastajien päällikölle.",
+  "tokens": [
+    {
+      "surface": "והמדנים",
+      "gloss": "ja medanilaiset"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "myivät"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hänet"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimiin"
+    },
+    {
+      "surface": "לפוטיפר",
+      "gloss": "Potifarille"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "eunukille"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "שר",
+      "gloss": "päällikölle"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "teurastajien"
+    }
+  ],
+  "timestamp": "2026-09-06T21:23:26.852429194Z",
+  "model": "glm-5.3"
+}

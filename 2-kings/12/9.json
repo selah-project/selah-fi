@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja kohenit suostuivat siihen, etteivät ottaisi rahaa ⟨את⟩ kansalta, ja etteivät korjaisi ⟨את⟩ huoneen aukkoja.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "suostuivat"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohenit"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "etteivät"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "ottaisivat"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "rahaa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "kansalta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "ja etteivät"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "korjaisivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aukkoja"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "aukkoja"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huoneen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:53:56.970905976Z",
+  "model": "glm-5.3"
+}

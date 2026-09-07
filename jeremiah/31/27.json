@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Katso, päivät tulevat, sanoo Jahve: ja minä kylvän ⟨את⟩ Israelin huoneen ja ⟨את⟩ Yehudan huoneen, ihmisen siemenellä ja karjan siemenellä.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "katso"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivät"
+    },
+    {
+      "surface": "באים",
+      "gloss": "tulevat"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "ja minä kylvän"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin huoneen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Yehudan huoneen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudan"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "siemen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmisen"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ja siemen"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "karjan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:37:55.609103992Z",
+  "model": "glm-5.3"
+}

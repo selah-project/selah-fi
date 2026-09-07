@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja Jahve tuli ja asettui seisomaan ja kutsui kerran toisensa jälkeen: Shemuél, Shemuél. Ja Shemuél sanoi: Puhu, sillä palvelijasi kuulee.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ja tuli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "ja asettui seisomaan"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ja kutsui"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "kerran"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "toisensa jälkeen"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuél"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuél"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuél"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Puhu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kuulee"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "palvelijasi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:06:11.614688148Z",
+  "model": "glm-5.3"
+}

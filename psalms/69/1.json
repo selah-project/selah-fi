@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 69,
+  "translation": "Kuoronjohtajalle; Shoshannim-melodia ⟨määräys⟩; Davidin ⟨psalmi⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kuoronjohtajalle"
+    },
+    {
+      "surface": "על",
+      "gloss": "määräys"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "Shoshannim-melodia"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidin"
+    }
+  ],
+  "timestamp": "2026-09-07T02:19:25.317648223Z",
+  "model": "glm-5.3"
+}

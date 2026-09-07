@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja koko Ahabin huone hukkuu, ja minä katkaisen Ahabilta jokaisen seinää vasten virtsaavan, sekä suljetun että unohdetun, Israelissa.”",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "Ja ... hukkuu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huone"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabin"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ja minä katkaisen"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "Ahabilta"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "seinää vasten virtsaavan"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "seistä vasten"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "suljetun"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "unohdetun"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israelissa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:50:03.427674232Z",
+  "model": "glm-5.3"
+}

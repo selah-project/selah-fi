@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "ja Bakbakkar, Heresh ja Galal, ja Mattanja (Mattania), Mikan poika, Zikrin poika, Asafin poika.",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "ja Bakbakkar"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "Heresh"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "ja Galal"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "ja Mattanja (Mattania)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "Mika"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zikri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asaf"
+    }
+  ],
+  "timestamp": "2026-09-07T05:16:58.938953486Z",
+  "model": "glm-5.3"
+}

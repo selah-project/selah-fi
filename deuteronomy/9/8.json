@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja Horebissa te suututitte ⟨את⟩ Jahvea, ja Jahve vihastui teihin hävittääkseen ⟨את⟩ teidät.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "Ja Horebissa"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "te suututitte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "ja vihastui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "teihin"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "hävittääkseen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät",
+      "marks": "teidät"
+    }
+  ],
+  "timestamp": "2026-09-06T22:27:18.666257523Z",
+  "model": "glm-5.3"
+}

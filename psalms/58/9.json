@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 58,
+  "translation": "Niin kuin etana, ⟨joka⟩ sulaa, kulkee hän; naisen keskenmeno, joka ei aurinkoa nähnyt.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "etana"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "sulaa"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "kulkee"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "keskenmeno"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "naisen"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ei"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "nähnyt"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "aurinkoa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:13:30.995735436Z",
+  "model": "glm-5.3"
+}

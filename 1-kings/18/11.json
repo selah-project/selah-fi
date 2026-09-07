@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja nyt sinä sanot: ”Mene, sano herrallesi: Katso, Eliyahu (Elija) on täällä.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ja nyt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanot"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Mene"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sano"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "herrallesi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu on täällä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:42:51.749865710Z",
+  "model": "glm-5.3"
+}

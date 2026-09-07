@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 119:44",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Ja minä pidän Torani (Toora) alati, iankaikkisesti ja ainiaan.",
+  "tokens": [
+    {
+      "surface": "ואשמרה",
+      "gloss": "ja minä pidän"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Torasi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "alati"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ja ainiaan"
+    }
+  ],
+  "timestamp": "2026-09-07T02:45:04.259803452Z",
+  "model": "glm-5.3"
+}

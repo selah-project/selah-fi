@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Minun tallattavani ja puimatantereeni lapsi! Se, minkä kuulin ⟨את⟩ Jahve Sebaotin (Sebaot-joukkojen), Israelin Elohimin, kohdalta, sen minä ilmoitin teille.",
+  "tokens": [
+    {
+      "surface": "מדשתי",
+      "gloss": "Minun tallattavani"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ja lapsi"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "puimatantereeni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Se, minkä"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "kuulin"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve Sebaotin, Israelin Elohimin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaotin"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "minä ilmoitin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    }
+  ],
+  "timestamp": "2026-09-07T00:05:25.135602996Z",
+  "model": "glm-5.3"
+}

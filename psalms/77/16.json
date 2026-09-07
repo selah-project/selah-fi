@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 77,
+  "translation": "Käsivarrellasi sinä lunastit kansasi, Ja'akovin ja Josefin pojat. Selah.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "sinä lunastit"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "käsivarrellasi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kansasi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akovin"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ja Josef"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-07T02:22:09.992135162Z",
+  "model": "glm-5.3"
+}

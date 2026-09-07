@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "Käänny pois pahasta ja tee hyvää, etsi shalom (rauhaa) ja aja sitä takaa.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "Käänny pois"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "pahasta"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ja tee"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvää"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "etsi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom (rauhaa)"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "aja sitä takaan"
+    }
+  ],
+  "timestamp": "2026-09-07T02:03:25.816390631Z",
+  "model": "glm-5.3"
+}

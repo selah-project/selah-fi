@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 5:24",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja hän tuli Ofeliin ja otti heidän kädestään ja kätki ne taloon, ja lähetti ⟨את⟩ miehet, ja he menivät pois.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ja hän tuli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-in"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "Ofel"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ja otti"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "heidän kädestään"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "ja kätki"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "taloon"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ja lähetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miehet"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ja he menivät pois"
+    }
+  ],
+  "timestamp": "2026-09-06T23:48:45.314274829Z",
+  "model": "glm-5.3"
+}

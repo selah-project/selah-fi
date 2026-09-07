@@ -1,0 +1,154 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 7:4",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja Jahve sanoi Gid'onille: Vielä ⟨on⟩ kansa liian monilukuinen; vie ⟨את⟩ heidät alas veden ääreen, ja minä koetan heidät sinulle siellä. Ja tapahtukoon: jokainen, josta minä sanon sinulle: Tämä kulkee ⟨את⟩ sinun kanssasi — hän kulkee ⟨את⟩ sinun kanssasi; ja jokainen, josta minä sanon sinulle: Tämä ei kulje sinun kanssasi — hän ei kulje.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gid'onille"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vielä"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "liian monilukuinen"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "vie alas"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ heidät",
+      "marks": "heidät (veden ääreen vietävä kansa)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "המים",
+      "gloss": "veden"
+    },
+    {
+      "surface": "ואצרפנו",
+      "gloss": "ja minä koetan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ja tapahtukoon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jokainen, josta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanon"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "kulkee"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sinun kanssasi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "kulkee"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sinun kanssasi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja jokainen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "josta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanon"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "kulje"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sinun kanssasi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "kulje"
+    }
+  ],
+  "timestamp": "2026-09-07T04:21:39.578726809Z",
+  "model": "glm-5.3"
+}

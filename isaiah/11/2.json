@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 11:2",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja lepää hänen päällensä Jahven henki: viisauden ja ymmärryksen henki, neuvon ja voiman henki, tuntemisen ja Jahven pelon henki.",
+  "tokens": [
+    {
+      "surface": "ונחה",
+      "gloss": "Ja lepää"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hänen päällensä"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "henki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "henki"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "viisauden"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "ja ymmärryksen"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "henki"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "neuvon"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "ja voiman"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "henki"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tuntemisen"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "ja pelon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-07T00:04:59.812758742Z",
+  "model": "glm-5.3"
+}

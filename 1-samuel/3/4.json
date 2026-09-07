@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja Jahve kutsui Shemuëlia, ja hän sanoi: ”Tässä olen.”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ja kutsui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuëlia"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Tässä olen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:05:16.034833993Z",
+  "model": "glm-5.3"
+}

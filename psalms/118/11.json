@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 118:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 118,
+  "translation": "Ne ympäröivät minut, myös ne ympäröivät minut — Jahven nimessä minä totisesti hävitän heidät.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "ne ympäröivät minut"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "ympäröivät minut"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nimessä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "כי",
+      "gloss": "totisesti"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "hävitän heidät"
+    }
+  ],
+  "timestamp": "2026-09-07T02:44:03.891179305Z",
+  "model": "glm-5.3"
+}

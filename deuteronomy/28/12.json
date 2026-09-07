@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 28:12",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Jahve avaa sinulle ⟨את⟩ hyvän aarrekammionsa, ⟨את⟩ taivaan, antaakseen sateen maallesi sen ajallaan, ja siunaaksesi ⟨את⟩ kaiken kättesi työn; ja sinä lainaat monille kansoille, mutta sinä et itse lainaa.",
+  "tokens": [
+    {
+      "surface": "יפתח",
+      "gloss": "avaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hyvän aarrekammionsa"
+    },
+    {
+      "surface": "אוצרו",
+      "gloss": "hyvän aarrekammionsa"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "hyvän"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taivaan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "antaakseen"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "sateen"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "maallesi"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "sen ajallaan"
+    },
+    {
+      "surface": "ולברך",
+      "gloss": "ja siunaaksesi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken kättesi työn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "työn"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kättesi"
+    },
+    {
+      "surface": "והלוית",
+      "gloss": "ja sinä lainaat"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kansoille"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "monille"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mutta sinä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "et"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "itse lainaa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:35:18.870135864Z",
+  "model": "glm-5.3"
+}

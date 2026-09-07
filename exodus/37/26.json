@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 37:26",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Ja hän päällysti ⟨את⟩ sen puhtaalla kullalla: ⟨את⟩ sen katoksen ja ⟨את⟩ sen seinät ympäriltä ja ⟨את⟩ sen sarvet; ja hän teki sille kultaisen reunalistan ympärille.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "Ja hän päällysti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sen",
+      "marks": "puhtaalla kullalla"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kullalla"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "puhtaalla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen katoksen"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "sen katoksen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen seinät"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "sen seinät"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympäriltä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen sarvet"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "sen sarvet"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ja hän teki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sille"
+    },
+    {
+      "surface": "זר",
+      "gloss": "reunalistan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kultaisen"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympärille"
+    }
+  ],
+  "timestamp": "2026-09-06T21:45:57.844836234Z",
+  "model": "glm-5.3"
+}

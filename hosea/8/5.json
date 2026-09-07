@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 8:5",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Hylännyt on vasikkosi, Shomeron (Samaria); kiivastunut on vihani heitä vastaan — kuinka kauan he eivät kykene puhtauteen?",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "Hylännyt on"
+    },
+    {
+      "surface": "עגלך",
+      "gloss": "vasikkosi"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "kiivastunut on"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "vihani"
+    },
+    {
+      "surface": "בם",
+      "gloss": "heitä vastaan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "—"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kuinka kauan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "kykene"
+    },
+    {
+      "surface": "נקין",
+      "gloss": "puhtauteen"
+    }
+  ],
+  "timestamp": "2026-09-07T01:24:12.302112560Z",
+  "model": "glm-5.3"
+}

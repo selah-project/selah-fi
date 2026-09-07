@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 39:8",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 39,
+  "translation": "Mutta hän kieltäytyi ja sanoi herransa vaimolle: ”Katso, minun herrani ei tunne ⟨את⟩ (minun kanssani) mitään, mitä talossa on, ja kaiken, mitä hänellä on, hän on pannut minun käteeni.”",
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "Mutta hän kieltäytyi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(vaimolle)"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vaimolle"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "herransa"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "minun herrani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tunne"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ (minun kanssani)",
+      "marks": "mitään"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "talossa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "יש",
+      "gloss": "on"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänellä"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "hän on pannut"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "minun käteeni"
+    }
+  ],
+  "timestamp": "2026-09-06T21:22:36.789113201Z",
+  "model": "glm-5.3"
+}

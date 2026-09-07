@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Miehenä hän ei saa tehdä itseään epäpuhtaaksi kansansa keskuudessa, häpäistäkseen itseään.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "saa tehdä itseään epäpuhtaaksi"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Miehenä"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "kansansa keskuudessa"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "häpäistäkseen itseään"
+    }
+  ],
+  "timestamp": "2026-09-06T21:57:20.512333773Z",
+  "model": "glm-5.3"
+}

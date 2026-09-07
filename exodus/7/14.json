@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja Jahve sanoi Moshelle: ”Paron sydän ⟨on⟩ raskas, hän kieltäytyy päästämästä kansaa.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshelle (Mooses)"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "raskas"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sydän"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "kieltäytyy"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "päästämästä"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansaa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:30:35.216136143Z",
+  "model": "glm-5.3"
+}

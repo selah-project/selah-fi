@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 5:15",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ahi, Avdielin poika, Gunin poika, oli heidän isiensä sukukunnan pää.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "Ahi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "עבדיאל",
+      "gloss": "Avdielin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "גוני",
+      "gloss": "Gunin"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pää"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sukukunnan"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "heidän isiensä"
+    }
+  ],
+  "timestamp": "2026-09-07T05:13:19.600561593Z",
+  "model": "glm-5.3"
+}

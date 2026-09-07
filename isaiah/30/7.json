@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 30:7",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja Mitsrajim (Egypti) on turhuus ja tyhjyys — he auttavat; siksi minä kutsuin tätä: Rahab — he ovat ⟨kuin⟩ istuvat paikallaan.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Ja Mitsrajim"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "turhuus"
+    },
+    {
+      "surface": "וריק",
+      "gloss": "ja tyhjyys"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "he auttavat"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "siksi"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "minä kutsuin"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "הם",
+      "gloss": "he ovat"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "paikallaan istuvat"
+    }
+  ],
+  "timestamp": "2026-09-07T00:10:15.465317018Z",
+  "model": "glm-5.3"
+}

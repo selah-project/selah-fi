@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 44,
+  "translation": "Teet meidät sananlaskuksi kansojen keskuudessa, päänheitellyksi kansakuntien keskuudessa.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Teet meidät"
+    },
+    {
+      "surface": "משל",
+      "gloss": "sananlaskuksi"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kansojen keskuudessa"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "päänheitellyksi"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "päänheitellyksi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kansakuntien"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "keskuudessa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:09:50.386574595Z",
+  "model": "glm-5.3"
+}

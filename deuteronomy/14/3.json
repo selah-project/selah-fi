@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Mitään kauhistavaa älä syö.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "syö"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mitään"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "kauhistavaa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:29:11.881849030Z",
+  "model": "glm-5.3"
+}

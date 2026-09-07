@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 56:13",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 56,
+  "translation": "Päälläni, Elohim, ⟨ovat⟩ lupauksesi; suoritan kiitokset sinulle.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "Päälläni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "lupauksesi"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "suoritan"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "kiitokset"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    }
+  ],
+  "timestamp": "2026-09-07T02:12:06.932039575Z",
+  "model": "glm-5.3"
+}

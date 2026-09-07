@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Kaiken mukaan, mitä minä näytän ⟨את⟩ sinulle — ⟨את⟩ Mishkanin ⟨asumuksen⟩ mallin ja ⟨את⟩ mallin kaikista sen kalusteista — niin tehkää ⟨sen⟩.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "Kaiken mukaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "näytän"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ sinulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkanin mallin"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "mallin"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "mallin kaikista sen kalusteista"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "mallin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikista"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sen kalusteista"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "tehkää"
+    }
+  ],
+  "timestamp": "2026-09-06T21:39:13.373867299Z",
+  "model": "glm-5.3"
+}

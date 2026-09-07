@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 28:30",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Vaimon sinä kihlaat, ja toinen mies makaa hänen kanssaan; talon sinä rakennat, etkä asu siinä; viinitarhan sinä istutat, etkä ota sitä käyttöösi.",
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "Vaimon"
+    },
+    {
+      "surface": "תארש",
+      "gloss": "kihlaat"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ja mies"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "toinen"
+    },
+    {
+      "surface": "ישגלנה",
+      "gloss": "makaa hänen kanssaan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "rakennat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "etkä"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "asu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siinä"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "viinitarhan"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "istutat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "etkä"
+    },
+    {
+      "surface": "תחללנו",
+      "gloss": "ota sitä käyttöösi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:35:58.264204872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 8:9",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja hän pani ⟨את⟩ mitran hänen päänsä päälle, ja hän pani mitran päälle, hänen kasvojensa eteen, ⟨את⟩ kultaisen levyn, pyhän kruunun, niin kuin Jahve oli käskenyt ⟨את⟩ Moshea (Mooses).",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Ja hän pani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitran"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "mitran"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hänen päänsä"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ja hän pani"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "mitran"
+    },
+    {
+      "surface": "אל",
+      "gloss": "suuntaan"
+    },
+    {
+      "surface": "מול",
+      "gloss": "vastapäätä"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "hänen kasvojensa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kultaisen levyn"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "levyn"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kultaisen"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "kruunun"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pyhän"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oli käskenyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshea (Mooses)"
+    }
+  ],
+  "timestamp": "2026-09-06T21:51:10.579343696Z",
+  "model": "glm-5.3"
+}

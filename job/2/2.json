@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 2:2",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Jahve sanoi saatanaalle: Mistä sinä tulet? Ja saatana vastasi ⟨את⟩ Jahvea ja sanoi: Kiertelemästä maata ja vaeltamisesta ympäri sitä.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "saatanaa"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Mistä"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "tämästä"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "sinä tulet"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "ja vastasi"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "saatana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "משט",
+      "gloss": "Kiertelemästä"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maata"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "ja vaeltamisesta"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ympäri sitä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:24:12.738471273Z",
+  "model": "glm-5.3"
+}

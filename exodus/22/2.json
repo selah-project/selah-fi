@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Jos aurinko on noussut hänen ylleen, hänelle ⟨on⟩ verivelka; täysin hän korvaa; jos hänellä ei ⟨ole⟩ ⟨mistään⟩, hänet myydään hänen varkautensa ⟨edestä⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jos"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "on noussut"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "aurinko"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hänen ylleen"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "verivelka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "täysin"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "hän korvaa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ⟨ole⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänellä"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "ja hänet myydään"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "hänen varkautensa ⟨edestä⟩"
+    }
+  ],
+  "timestamp": "2026-09-06T21:38:25.932233903Z",
+  "model": "glm-5.3"
+}

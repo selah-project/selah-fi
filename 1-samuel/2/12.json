@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Elin pojat olivat belialin (kelvottomuuden) poikia; he eivät tunteneet ⟨את⟩ Jahvea.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ja pojat"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikia"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "belialin (kelvottomuuden)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tunteneet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    }
+  ],
+  "timestamp": "2026-09-06T23:03:45.904795008Z",
+  "model": "glm-5.3"
+}

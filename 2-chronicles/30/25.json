@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 30:25",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja ilahtui koko Jehudan (Juuda) seurakunta ja papit ja leviiläiset ja koko seurakunta, joka tuli Israelista, ja muukalaiset, jotka tulivat Israelin maasta, ja asukkaat, jotka ⟨olivat⟩ Jehudassa.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "Ja ilahtui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "seurakunta"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "ja papit"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ja leviiläiset"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja koko"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "seurakunta"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "joka tuli"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Israelista"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "ja muukalaiset"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "jotka tulivat"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "והיושבים",
+      "gloss": "ja asukkaat"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Jehudassa"
+    }
+  ],
+  "timestamp": "2026-09-07T05:50:20.171175856Z",
+  "model": "glm-5.3"
+}

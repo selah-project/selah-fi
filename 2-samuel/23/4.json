@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 23:4",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "ja kuin aamun valo paistaa aurinko, aamu ilman pilvisyyttä; valosta ja sateesta versoo maasta ruoho.",
+  "tokens": [
+    {
+      "surface": "וכאור",
+      "gloss": "ja kuin valo"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "aamun"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "paistaa"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "aurinko"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "aamu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ilman"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "pilvisyyttä"
+    },
+    {
+      "surface": "מנגה",
+      "gloss": "valosta"
+    },
+    {
+      "surface": "ממטר",
+      "gloss": "sateesta"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ruoho"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    }
+  ],
+  "timestamp": "2026-09-06T23:31:28.840406046Z",
+  "model": "glm-5.3"
+}

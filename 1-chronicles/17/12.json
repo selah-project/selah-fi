@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Hän rakentaa minulle huoneen, ja minä vahvistan ⟨את⟩ hänen valtaistuimensa ikuisesti.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Hän"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "rakentaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "ja minä vahvistan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen valtaistuimensa"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "hänen valtaistuimensa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "... asti"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ikuisesti"
+    }
+  ],
+  "timestamp": "2026-09-07T05:22:13.976491778Z",
+  "model": "glm-5.3"
+}

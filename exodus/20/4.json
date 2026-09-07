@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Älä tee itsellesi jumalankuvaa ⟨veistetty kuva⟩ etkä mitään kuvaa siitä, mikä on taivaassa yläpuolella, eikä sitä, mikä on maassa alapuolella, eikä sitä, mikä on vesissä maan alapuolella.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tee"
+    },
+    {
+      "surface": "לך",
+      "gloss": "itsellesi"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "jumalankuvaa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "etkä mitään"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "kuvaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "taivaassa"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "yläpuolella"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "eikä joka"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "alapuolella"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "eikä joka"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vesissä"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "alapuolella"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "maan alla"
+    }
+  ],
+  "timestamp": "2026-09-06T21:36:40.810695065Z",
+  "model": "glm-5.3"
+}

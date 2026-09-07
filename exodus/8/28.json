@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja Paro paattoi ⟨את⟩ sydämensä, myös tällä kertaa, eikä hän päästänyt ⟨את⟩ kansaa.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "paattoi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sydämensä"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sydämensä"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "kerralla"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tällä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "päästänyt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansaa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:32:19.123788237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Jahve ⟨on⟩ pyhässä temppelissään, Jahven ⟨on⟩ valtaistuin taivaissa; hänen silmänsä katsovat, hänen silmäluomensa koettelevat ihmislapsia.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "temppelissään"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "pyhässä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "taivaissa"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "valtaistuin"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "hänen silmänsä"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "katsovat"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "hänen silmäluomensa"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "koettelevat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lapsia"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmis"
+    }
+  ],
+  "timestamp": "2026-09-07T01:56:19.453690448Z",
+  "model": "glm-5.3"
+}

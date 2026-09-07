@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-chronicles 6:57",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja Jissaskarin heimosta ⟨את⟩ Kedeshin ja ⟨את⟩ laidunmaidensa, ⟨את⟩ Dabratin ja ⟨את⟩ laidunmaidensa.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Ja heimosta"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Jissaskarin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedeshin"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedeshin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "laidunmaidensa"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "laidunmaidensa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dabratin"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Dabratin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "laidunmaidensa"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "laidunmaidensa"
+    }
+  ],
+  "timestamp": "2026-09-07T05:15:38.351755722Z",
+  "model": "glm-5.3"
+}

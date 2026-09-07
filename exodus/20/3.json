@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Älköön sinulla olko muita jumalia minun kasvojeni edessä.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Älköön"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulla"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jumalia"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "muita"
+    },
+    {
+      "surface": "על",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kasvojeni"
+    }
+  ],
+  "timestamp": "2026-09-06T21:36:40.809982275Z",
+  "model": "glm-5.3"
+}

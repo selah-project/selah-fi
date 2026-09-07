@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 1:12",
+  "book": "zephaniah",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja tapahtuu siihen aikaan, että minä etsin ⟨את⟩ Jerushalajimin (Jerusalemin) lampuin, ja rankaisen niitä miehiä, jotka ovat jäkättyneet pohjasakkojensa päälle, jotka sanovat sydämessään: ”Ei Jahve tee hyvää, eikä hän tee pahaa.”",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ja tapahtuu"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "siihen aikaan"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "אחפש",
+      "gloss": "minä etsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerushalajimin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimin (Jerusalemin)"
+    },
+    {
+      "surface": "בנרות",
+      "gloss": "lampuin"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "ja rankaisen"
+    },
+    {
+      "surface": "על",
+      "gloss": "niitä"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "miehiä"
+    },
+    {
+      "surface": "הקפאים",
+      "gloss": "jäkättyneet"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "שמריהם",
+      "gloss": "pohjasakkojensa"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "jotka sanovat"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "sydämessään"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "tee hyvää"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "ירע",
+      "gloss": "tee pahaa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:40:52.556195274Z",
+  "model": "glm-5.3"
+}

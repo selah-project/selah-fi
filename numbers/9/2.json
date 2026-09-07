@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "ja tehkööt Israelin pojat ⟨את⟩ pesachin sen määräaikana.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ja tehkööt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesachin"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesachin"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "sen määräaikana"
+    }
+  ],
+  "timestamp": "2026-09-06T22:07:21.787398197Z",
+  "model": "glm-5.3"
+}

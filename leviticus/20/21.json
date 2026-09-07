@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja mies, joka ottaa ⟨את⟩ veljensä vaimon: se ⟨on⟩ saastaisuutta — veljensä paljauden hän on paljastanut; lapsettomina he olkoot.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ja mies"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ottaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veljensä vaimon"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vaimon"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "veljensä"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "saastaisuutta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "paljaus"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "veljensä"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "hän on paljastanut"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "lapsettomina"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "he ovat"
+    }
+  ],
+  "timestamp": "2026-09-06T21:58:16.495983391Z",
+  "model": "glm-5.3"
+}

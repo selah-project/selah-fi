@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 55:6",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 55,
+  "translation": "Etsikää Jahvea silloin, kun hänet löytyy, kutsukaa häntä silloin, kun hän on lähellä.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Etsikää"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "בהמצאו",
+      "gloss": "silloin kun hänet löytyy"
+    },
+    {
+      "surface": "קראהו",
+      "gloss": "kutsukaa häntä"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "silloin kun hän on"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "lähellä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:18:00.571317154Z",
+  "model": "glm-5.3"
+}

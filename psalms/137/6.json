@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 137,
+  "translation": "Kiinnittyköön kieleni kitalakeeni, jos en sinua muista, jos en nosta ⟨את⟩ Jerushalajimia iloni ylimmäisyydeksi.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "Kiinnittyköön"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "kieleni"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "kitalakeeni"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "muista sinua"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "nostaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerushalajimia"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimia"
+    },
+    {
+      "surface": "על",
+      "gloss": "ylös"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ylimmäisyydeksi"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "iloni"
+    }
+  ],
+  "timestamp": "2026-09-07T02:54:36.673773310Z",
+  "model": "glm-5.3"
+}

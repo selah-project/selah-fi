@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 16:23",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja hän sanoi heille: Se ⟨on⟩ se, minkä Jahve on puhunut: huomenna ⟨on⟩ lepo, pyhä Shabbat (sapatti) Jahvelle; ⟨את⟩ sen, minkä leipotte, leipokaa, ja ⟨את⟩ sen, minkä keitätte, keittäkää; ja ⟨את⟩ kaiken ylijäävän pankaa itsellenne säilytettäväksi aamuun asti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minkä"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "on puhunut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "lepo"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhä"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "huomenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen, minkä leipotte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minkä"
+    },
+    {
+      "surface": "תאפו",
+      "gloss": "leipotte"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "leipokaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen, minkä keitätte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minkä"
+    },
+    {
+      "surface": "תבשלו",
+      "gloss": "keitätte"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "keittäkää"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaiken ylijäävän"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "ylijäävän"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "pankaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "itsellenne"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "säilytettäväksi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "aamuun"
+    }
+  ],
+  "timestamp": "2026-09-06T21:36:00.923017376Z",
+  "model": "glm-5.3"
+}

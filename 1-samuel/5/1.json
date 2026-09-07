@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja pelistiläiset (filistealaiset) ottivat ⟨את⟩ Elohimin arkin ja toivat sen Eben ha-Ezerista (Apukivi) Ashdodiin.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Ja pelistiläiset"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ottivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimin arkin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "ja toivat sen"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "Eben-"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezerista"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "Ashdodiin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:06:54.073965847Z",
+  "model": "glm-5.3"
+}

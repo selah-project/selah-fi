@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Älkää tehkö vääryyttä oikeudessa, pituusmitassa, painomittassa eikä nestemittassa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "tehkö"
+    },
+    {
+      "surface": "עול",
+      "gloss": "vääryyttä"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "oikeudessa"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "mitassa"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "painossa"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "ja nestemittassa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:56:47.631782527Z",
+  "model": "glm-5.3"
+}

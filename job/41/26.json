@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 41:26",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 41,
+  "translation": "⟨את⟩ kaikkia korkeita hän näkee; hän ⟨on⟩ kuningas kaikkien ylpeyden lasten yllä.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikkia korkeita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkia"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "korkeita"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "näkee"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "על",
+      "gloss": "yli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkien"
+    },
+    {
+      "surface": "בני",
+      "gloss": "-lasten"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "ylpeyden"
+    }
+  ],
+  "timestamp": "2026-09-07T03:52:49.680965926Z",
+  "model": "glm-5.3"
+}

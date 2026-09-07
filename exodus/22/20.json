@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja muukalaista älä sorra äläkä paina häntä, sillä muukalaisina te olitte Mitsrajimin (Egyptin) maassa.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "ja muukalaista"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "sorra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "äläkä"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "painaa häntä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "muukalaisina"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "te olitte"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-09-06T21:37:33.088746729Z",
+  "model": "glm-5.3"
+}

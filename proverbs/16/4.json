@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Kaiken on Jahve tehnyt tarkoitustaan varten, myös jumalattoman pahan päivää varten.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kaiken"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "on tehnyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "tarkoitustaan varten"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "jumalattoman"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "päivää varten"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pahan"
+    }
+  ],
+  "timestamp": "2026-09-07T03:09:24.609240937Z",
+  "model": "glm-5.3"
+}

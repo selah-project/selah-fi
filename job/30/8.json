@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 30:8",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Turhanpoikia, myös niitä, joilla ei ole nimeä — heidät on lyöty pois maasta.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "poikia"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "turhan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "בני",
+      "gloss": "niiden, joilla ei"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ilman"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimeä"
+    },
+    {
+      "surface": "נכאו",
+      "gloss": "heidät on lyöty pois"
+    },
+    {
+      "surface": "מן",
+      "gloss": "pois"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maasta"
+    }
+  ],
+  "timestamp": "2026-09-07T03:42:47.093978833Z",
+  "model": "glm-5.3"
+}

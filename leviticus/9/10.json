@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja ⟨את⟩ rasvan ja ⟨את⟩ munuaiset ja ⟨את⟩ maksanlisäkkeen hän poltti savuksi alttarilla, niin kuin Jahve oli käskenyt ⟨את⟩ Moshea (Mooses).",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "rasvan"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "rasvan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "munuaiset"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "munuaiset"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "maksanlisäkkeen"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "maksanlisäkkeen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "pois"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "maksasta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "(kuului)"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syntiuhrista"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "hän poltti savuksi"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "alttarilla"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oli käskenyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshea (Mooses)"
+    }
+  ],
+  "timestamp": "2026-09-06T21:50:23.884065049Z",
+  "model": "glm-5.3"
+}

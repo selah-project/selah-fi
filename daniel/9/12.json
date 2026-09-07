@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 9:12",
+  "book": "daniel",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja hän vakiinnutti ⟨את⟩ sanansa, jotka hän puhui meitä ja meidän tuomareitamme vastaan — ne, jotka tuomitsivat meidät — tuodakseen meidän päällemme suuren pahan, jollainen ei ole tehty koko taivaan alla, niin kuin on tehty Jerushalajimissa (Jerusalem).",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ja hän vakiinnutti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanansa"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "sanansa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "puhui"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "meitä vastaan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja ... vastaan"
+    },
+    {
+      "surface": "שפטינו",
+      "gloss": "tuomareitamme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ne, jotka"
+    },
+    {
+      "surface": "שפטונו",
+      "gloss": "tuomitsivat meidät"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "tuodakseen"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "meidän päällemme"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pahan"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "suuren"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jollainen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "ole tehty"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "on tehty"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerushalajimissa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:51:49.441959749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "joka vei ⟨את⟩ teidänne maasta Mitsrajimista (Egypti), ollakseen teille Elohimiksi; minä ⟨olen⟩ Jahve.”",
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "joka vei"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidänne",
+      "marks": "teidänne"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimista"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ollakseen"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimiksi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-06T21:56:15.616457224Z",
+  "model": "glm-5.3"
+}

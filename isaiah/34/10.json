@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 34:10",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "Yöllä ja päivällä ei se sammu, iankaikkisesti nousee sen savu; sukupolvesta sukupolveen se autiutuu; iankaikkisesti iankaikkisesti ei kukaan kulje sitä.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "yöllä"
+    },
+    {
+      "surface": "ויומם",
+      "gloss": "ja päivällä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "sammu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "nousee"
+    },
+    {
+      "surface": "עשנה",
+      "gloss": "sen savu"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "sukupolvesta"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "sukupolveen"
+    },
+    {
+      "surface": "תחרב",
+      "gloss": "autiutuu"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "נצחים",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kulje"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sitä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:11:35.583561409Z",
+  "model": "glm-5.3"
+}

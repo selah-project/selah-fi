@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 141,
+  "translation": "Älä anna sydämeni kallistua pahaan asiaan, tekemään vääriä tekoja jumalattomuudessa ⟨את⟩ miesten kanssa, jotka harjoittavat pahuutta; älköönkä minun syödä heidän herkkujansa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תט",
+      "gloss": "anna kallistua"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sydämeni"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "asiaan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pahaan"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "tekemään"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "vääriä tekoja"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "jumalattomuudessa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miehiä"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "miesten"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "jotka harjoittavat"
+    },
+    {
+      "surface": "און",
+      "gloss": "pahuutta"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "ja älköön"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "minun syödä"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "heidän herkkujansa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:54:09.515265451Z",
+  "model": "glm-5.3"
+}

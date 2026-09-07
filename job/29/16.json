@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 29:16",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Isänä minä olin köyhille, ja oikeusjuttua, jota en tuntenut, minä tutkin loppuun asti.",
+  "tokens": [
+    {
+      "surface": "אב",
+      "gloss": "isänä"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "köyhille"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ja oikeusjuttua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "tuntenut"
+    },
+    {
+      "surface": "אחקרהו",
+      "gloss": "tutkin sen loppuun asti"
+    }
+  ],
+  "timestamp": "2026-09-07T03:41:19.514729545Z",
+  "model": "glm-5.3"
+}

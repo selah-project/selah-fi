@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 18:19",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja naiseen, joka on erotettu epäpuhtautensa aikana, älä lähesty paljastamaan hänen alastomuuttaan.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "naiseen"
+    },
+    {
+      "surface": "בנדת",
+      "gloss": "erotettuna"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "epäpuhtautensa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "lähesty"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "paljastamaan"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "hänen alastomuuttaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:54:39.055648784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 39:20",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 39,
+  "translation": "Ja Josefin herra otti ⟨את⟩ hänet ja pani hänet vankilan taloon, paikkaan, jossa kuninkaan vangit olivat sidottuina; ja hän oli siellä vankilan talossa.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ja otti"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "herra"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hänet"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "ja pani hänet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sisään"
+    },
+    {
+      "surface": "בית",
+      "gloss": "taloon"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "vankilan"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "paikkaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jossa"
+    },
+    {
+      "surface": "אסורי",
+      "gloss": "vangit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "sidottuina"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja hän oli"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "talossa"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "vankilan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:22:32.749841328Z",
+  "model": "glm-5.3"
+}

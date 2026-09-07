@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 8:14",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja hän lähti Elishan ⟨את⟩ luota ja tuli herransa luo, ja hän sanoi hänelle: ”Mitä Elisha sanoi sinulle?” Ja hän sanoi: ”Hän sanoi minulle: ’Sinä elät, varmasti.’”",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ja hän lähti"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ luota"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elishan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "herransa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "elät"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "varmasti elät"
+    }
+  ],
+  "timestamp": "2026-09-06T23:50:50.598251287Z",
+  "model": "glm-5.3"
+}

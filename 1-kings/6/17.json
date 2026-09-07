@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja neljäkymmentä kyynärää ⟨oli⟩ talon pituus — se ⟨on⟩ pääsali ⟨sen⟩ edessä.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "Ja neljäkymmentä"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "pääsali"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:34:56.443015097Z",
+  "model": "glm-5.3"
+}

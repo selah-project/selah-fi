@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 2:4",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja käsk ⟨את⟩ kansaa sanoa: »Te kuljette veljiänne, Esavin lasten, aluetta, jotka asuvat Seirissä, ja he pelkäävät teitä; olkaa siis hyvin varovaiset.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kansaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansaa"
+    },
+    {
+      "surface": "צו",
+      "gloss": "käsk"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "te"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "kuljette"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "aluetta"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "veljiänne"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavin"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "jotka asuvat"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "Seirissä"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ja he pelkäävät"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "teitä"
+    },
+    {
+      "surface": "ונשמרתם",
+      "gloss": "olkaa varovaiset"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hyvin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:22:45.666675164Z",
+  "model": "glm-5.3"
+}

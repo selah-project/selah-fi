@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja hän puhui poikilleen sanoen: satulokaa minulle ⟨את⟩ aasi. Ja he satuloivat sen.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ja hän puhui"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "בניו",
+      "gloss": "poikilleen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "satulokaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aasi"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "aasi"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "ja he satuloivat"
+    }
+  ],
+  "timestamp": "2026-09-06T23:39:02.081578674Z",
+  "model": "glm-5.3"
+}

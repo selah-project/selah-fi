@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "⟨את⟩ Shabbatini pitäkää, ja pyhäkköni peljätkää; minä olen Jahve.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabbatini"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Shabbatini"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "pitäkää"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "ja pyhäkköni"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "peljätkää"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä olen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-06T21:56:40.172861662Z",
+  "model": "glm-5.3"
+}

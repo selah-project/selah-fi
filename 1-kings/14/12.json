@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja sinä, nouse, mene kotiisi; kun jalkasi astuvat kaupunkiin, kuolee lapsi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja sinä"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "nouse"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "mene"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "kotiisi"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "kun astuvat"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "jalkasi"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "kaupunkiin"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "kuolee"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "lapsi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:40:55.385231203Z",
+  "model": "glm-5.3"
+}

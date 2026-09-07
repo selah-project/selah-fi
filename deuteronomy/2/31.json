@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 2:31",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Jahve sanoi minulle: Katso, minä olen alkanut antaa sinun eteesi ⟨את⟩ Sichonin ja ⟨את⟩ hänen maansa; ala valloittaaksesi haltuun ⟨את⟩ hänen maansa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "החלתי",
+      "gloss": "olen alkanut"
+    },
+    {
+      "surface": "תת",
+      "gloss": "antaa"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sinun eteesi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sichonin"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sichonin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen maansa"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "hänen maansa"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ala"
+    },
+    {
+      "surface": "רש",
+      "gloss": "valloittaa"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "ottaaksesi haltuun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen maansa"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "hänen maansa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:23:08.852038951Z",
+  "model": "glm-5.3"
+}

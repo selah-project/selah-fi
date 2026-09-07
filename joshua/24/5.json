@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja lähetin ⟨את⟩ Moshen (Mooses) ja ⟨את⟩ Aharonin (Aaron), ja löin ⟨את⟩ Mitsrajimia (Egypti), niinkuin tein sen keskellä, ja sitten jälkeen loin ⟨את⟩ teidät ulos.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "Ja lähetin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Aharonin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonin"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "ja löin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajimia"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimia"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niinkuin"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "tein"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "sen keskellä"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ja sitten jälkeen"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "loin ulos"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät"
+    }
+  ],
+  "timestamp": "2026-09-07T04:17:36.108527710Z",
+  "model": "glm-5.3"
+}

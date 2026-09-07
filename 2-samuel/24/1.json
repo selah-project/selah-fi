@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja Jahven viha lisääntyi purkautuakseen Israelia vastaan, ja hän yllytti ⟨את⟩ Davidin heidän keskellään sanoen: Mene, laske ⟨את⟩ Israel ja ⟨את⟩ Juuda.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "lisääntyi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "viha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "purkautuakseen"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israelia vastaan"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "yllytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "heidän keskellään"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Mene"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "laske"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Juuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juuda"
+    }
+  ],
+  "timestamp": "2026-09-06T23:31:45.838413365Z",
+  "model": "glm-5.3"
+}

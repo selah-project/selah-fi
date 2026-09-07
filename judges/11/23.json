@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 11:23",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja nyt Jahve, Israelin Elohim, on ajanut pois ⟨את⟩ amorilaiset kansansa Israelin edestä — ja sinä aioit periä sen!",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ja nyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Israelin Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "on ajanut pois"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amorislaisten"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "amorislaisten"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "edestä"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kansansa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ja sinä"
+    },
+    {
+      "surface": "תירשנו",
+      "gloss": "aioit periä sen"
+    }
+  ],
+  "timestamp": "2026-09-06T22:58:51.402222577Z",
+  "model": "glm-5.3"
+}

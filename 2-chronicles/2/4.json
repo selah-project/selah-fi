@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 2:4",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja talo, jonka minä rakennan, ⟨on⟩ suuri, sillä suuri ⟨on⟩ Elohimimme, kaikkia jumalia suurempi.",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "ja talo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "rakennan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suuri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suuri"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimme"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kaikkia"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "jumalia"
+    }
+  ],
+  "timestamp": "2026-09-07T05:30:16.166443982Z",
+  "model": "glm-5.3"
+}

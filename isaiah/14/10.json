@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Kaikki he vastaavat ja sanovat sinulle: myös sinä olet tullut heikoksi niin kuin me, sinä olet muuttunut meidän kaltaiseksemme.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "Kaikki he"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "vastaavat"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ja sanovat"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myöskin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "olet tullut heikoksi"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "niin kuin me"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "meidän kaltaiseksemme alkaen meistä"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "olet muuttunut meidän kaltaiseksemme"
+    }
+  ],
+  "timestamp": "2026-09-07T00:03:54.740087995Z",
+  "model": "glm-5.3"
+}

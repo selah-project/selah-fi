@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 48:15",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 48,
+  "translation": "Ja hän siunasi ⟨את⟩ Josefia ja sanoi: ”Elohim, jonka edessä isäni vaelsivat, Avraham (Aabraham) ja Jitshak (Iisak), Elohim, joka on paimentanut ⟨את⟩ minua nuoruudestani tähän päivään asti —",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Ja siunasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josefia"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefia"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jota"
+    },
+    {
+      "surface": "התהלכו",
+      "gloss": "vaelsivat"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "isäni"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "jonka edessä"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "ja Jitshak"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "on paimentanut"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "minua"
+    },
+    {
+      "surface": "מעודי",
+      "gloss": "nuoruudestani"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päivään"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tähän"
+    }
+  ],
+  "timestamp": "2026-09-06T21:27:07.415798200Z",
+  "model": "glm-5.3"
+}

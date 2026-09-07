@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 26:2",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja Shaul nousi ja meni alas Zifin erämaahan, ja ⟨את⟩ ⟨ hänen kanssaan⟩ kolmetuhatta miestä, Israelin valittuja, etsiäkseen ⟨את⟩ Davidin Zifin erämaassa.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Ja nousi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ja meni alas"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "erämaahan"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zifin"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "ja ⟨את⟩"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tuhatta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miestä"
+    },
+    {
+      "surface": "בחורי",
+      "gloss": "valittuja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "etsiäkseen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "erämaassa"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zifin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:16:54.607906484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 29:37",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Seitsemän päivää sinä sovitat alttarin puolesta ja pyhität ⟨את⟩ sen, ja alttari on pyhin pyhistä; kaikki, joka koskee alttariin, on pyhä.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "Seitsemän"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivää"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "sovitat"
+    },
+    {
+      "surface": "על",
+      "gloss": "puolesta"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ja pyhität"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sen",
+      "marks": "sen (alttari)"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ja on"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttari"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhin"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "pyhistä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "joka koskee"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "alttariin"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "on pyhä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:41:41.113462486Z",
+  "model": "glm-5.3"
+}

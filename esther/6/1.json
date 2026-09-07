@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 6:1",
+  "book": "esther",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Sinä yönä kuninkaan uni pakeni, ja hän sanoi tuoda ⟨את⟩ muistonkirjan, päivien sanat, ja ne luettiin kuninkaan edessä.",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "Sinä yönä"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "נדדה",
+      "gloss": "pakeni"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "uni"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "tuoda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muistonkirjan"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kirjan"
+    },
+    {
+      "surface": "הזכרנות",
+      "gloss": "muiston"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "päivien"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ja ne olivat"
+    },
+    {
+      "surface": "נקראים",
+      "gloss": "luettuina"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:41:57.274568239Z",
+  "model": "glm-5.3"
+}

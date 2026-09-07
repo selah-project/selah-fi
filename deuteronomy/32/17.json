@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 32:17",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "He uhrasivat shedeille, ei-jumalille; jumalille, joita he eivät tunteneet — uusille, jotka läheisyydestä tulivat, joita teidän isänne eivät pelänneet.",
+  "tokens": [
+    {
+      "surface": "יזבחו",
+      "gloss": "uhrasivat"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "shedeille"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "jumalille"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jumalat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "tunteneet niitä"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "uusille"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "läheisyydestä"
+    },
+    {
+      "surface": "באו",
+      "gloss": "tulivat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "שערום",
+      "gloss": "pelänneet niitä"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "teidän isänne"
+    }
+  ],
+  "timestamp": "2026-09-06T22:38:04.404621106Z",
+  "model": "glm-5.3"
+}

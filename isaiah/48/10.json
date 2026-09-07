@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 48,
+  "translation": "Katso, minä sulatin sinut, mutta en hopean tavoin; minä valitsin sinut kärsimyksen uunissa.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "minä sulatin sinut"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mutta en"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "hopean tavoin"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "minä valitsin sinut"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "uunissa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kärsimyksen"
+    }
+  ],
+  "timestamp": "2026-09-07T00:15:49.691407782Z",
+  "model": "glm-5.3"
+}

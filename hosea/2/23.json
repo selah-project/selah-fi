@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "hosea 2:23",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja tapahtuu sinä päivänä, minä vastaan, Jahven oraakkeli: minä vastaan ⟨את⟩ taivaat, ja ne vastaavat ⟨את⟩ maan.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ja tapahtuu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sinä päivänä"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tuo"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "minä vastaan"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oraakkeli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "minä vastaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taivaat"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaat"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ja ne"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "vastaavat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:20:24.148380699Z",
+  "model": "glm-5.3"
+}

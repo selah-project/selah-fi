@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 101,
+  "translation": "Joka salaisesti panettelee tovereensa, ⟨את⟩ hänet minä hävitän; ylpeäsilminen ja leveäsydäminen — ⟨את⟩ häntä en minä siedä.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "panettelee"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "salaisesti"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "tolvereensa"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "hänet (panettelijan)"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "hävitän"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ylpeä-"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "silminen"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ja leveä-"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "sydäminen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "häntä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "siedä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:37:09.418818352Z",
+  "model": "glm-5.3"
+}

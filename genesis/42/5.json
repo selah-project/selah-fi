@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Ja Israelin (Jaakobin) poikien joukosta tultiin ostamaan viljaa niiden keskellä, jotka tulivat, sillä nälänhädä oli Kanaanin maassa.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "tulivat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ostamaan viljaa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keskellä"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "jotka tulivat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "nälänhädä"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaanin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:24:24.359777485Z",
+  "model": "glm-5.3"
+}

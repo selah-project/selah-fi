@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 15:6",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Sinun suusi julistaa sinut syylliseksi, enkä minä, ja sinun huulesi vastaavat sinua vastaan.",
+  "tokens": [
+    {
+      "surface": "ירשיעך",
+      "gloss": "julistaa sinut syylliseksi"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "sinun suusi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "ja sinun huulesi"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "vastaavat"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinua vastaan"
+    }
+  ],
+  "timestamp": "2026-09-07T03:33:05.836527904Z",
+  "model": "glm-5.3"
+}

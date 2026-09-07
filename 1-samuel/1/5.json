@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja Hanalle hän antoi yhden annoksen, kaksinkertaisen; sillä ⟨את⟩ Hanaa hän rakasti, ja Jahve oli sulkenut hänen kohtunsa.",
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "Ja Hanalle"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "hän antoi"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "annoksen"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yhden"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "kaksinkertaisen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hanaa"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hanaa"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "hän rakasti"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ja Jahve"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "oli sulkenut"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "hänen kohtunsa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:04:11.377543535Z",
+  "model": "glm-5.3"
+}

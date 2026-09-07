@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ruth 3:15",
+  "book": "ruth",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja hän sanoi: Ojenna vaate, joka on sinulla, ja pidä se kiinni. Ja hän piti sen kiinni, ja hän mittasi kuusi ohramittaa ja pani sen hänen päälleen; ja hän meni kaupunkiin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "הבי",
+      "gloss": "Ojenna"
+    },
+    {
+      "surface": "המטפחת",
+      "gloss": "vaate"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sinulla"
+    },
+    {
+      "surface": "ואחזי",
+      "gloss": "ja pidä kiinni"
+    },
+    {
+      "surface": "בה",
+      "gloss": "se"
+    },
+    {
+      "surface": "ותאחז",
+      "gloss": "ja hän piti kiinni"
+    },
+    {
+      "surface": "בה",
+      "gloss": "siitä"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "ja hän mittasi"
+    },
+    {
+      "surface": "שש",
+      "gloss": "kuusi"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ohramittaa"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "ja pani"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "hänen päälleen"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ja hän meni"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupunkiin"
+    }
+  ],
+  "timestamp": "2026-09-07T03:58:34.886606695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja hän sanoi: Mene, Daniel ⟨Daniel⟩, sillä suljettuja ja sinetöityjä ovat nämä sanat lopun aikaan asti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Mene"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "suljettuja"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "ja sinetöityjä"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ovat nämä sanat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "עת",
+      "gloss": "aikaan"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "lopun"
+    }
+  ],
+  "timestamp": "2026-09-07T04:54:02.279676755Z",
+  "model": "glm-5.3"
+}

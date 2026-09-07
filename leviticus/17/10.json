@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 17:10",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja jokainen mies Israelin huisesta ja muukalaisista, jotka asuvat muukalaisina heidän keskellään, joka syö kaikenlaista verta: minä asetan kasvoni sitä nefeshia (nefesh = elämänvoima, hengittävä olento) vastaan, joka syö ⟨את⟩ verta, ja hävitän ⟨את⟩ sen kansansa keskeltä.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ja mies"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jokainen mies"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "huisesta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ja… joukosta"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "muukalaisista"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "jotka muukalaisina"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "heidän keskellään"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "syö"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikenlaista"
+    },
+    {
+      "surface": "דם",
+      "gloss": "verta"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "minä asetan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kasvoni"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "sitä nefeshia vastaan"
+    },
+    {
+      "surface": "האכלת",
+      "gloss": "joka syö"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "verta"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "veren"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ja hävitän"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sen (nefeshin, joka verta syö)"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "keskeltä"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "kansansa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:55:53.349542341Z",
+  "model": "glm-5.3"
+}

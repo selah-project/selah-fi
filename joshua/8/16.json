@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 8:16",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja kaikki kansa, joka oli kaupungissa, kutsuttiin kokoon ajamaan heitä takaa; ja he ajoivat takaa Jehoshuaa ja vedettiin pois kaupungista.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "kutsuttiin kokoon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kaupungissa"
+    },
+    {
+      "surface": "לרדף",
+      "gloss": "ajamaan takaa"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "heitä"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "ajoivat takaa"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "takaa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshuaa"
+    },
+    {
+      "surface": "וינתקו",
+      "gloss": "vedettiin pois"
+    },
+    {
+      "surface": "מן",
+      "gloss": "pois"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungista"
+    }
+  ],
+  "timestamp": "2026-09-06T22:42:01.898438976Z",
+  "model": "glm-5.3"
+}

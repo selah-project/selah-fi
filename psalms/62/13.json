@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 62,
+  "translation": "Ja sinulla, Adonai, ⟨on⟩ hesed (lojaali laupeus), sillä sinä maksat kullekin miehelle hänen tekonsa mukaan.",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "Ja sinulla"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "maksat"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kullekin miehelle",
+      "marks": "kullekin miehelle"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "hänen tekonsa mukaan"
+    }
+  ],
+  "timestamp": "2026-09-07T07:21:08.632468015Z",
+  "model": "glm-5.3"
+}

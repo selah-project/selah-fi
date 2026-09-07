@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 88,
+  "translation": "Silmäni himmenee kurjuuteni tähden; sinua minä huudan, Jahve, kaikki päivät, levitän käteni sinun puoleesi.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "silmäni"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "himmenee"
+    },
+    {
+      "surface": "מני",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kurjuuteni"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "huudan sinua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivät"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "levitän"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinun puoleesi"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "käteni"
+    }
+  ],
+  "timestamp": "2026-09-07T02:28:58.988230801Z",
+  "model": "glm-5.3"
+}

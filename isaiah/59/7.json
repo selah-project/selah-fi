@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 59:7",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 59,
+  "translation": "Heidän jalkansa juoksevat pahaan, ja he kiiruhtavat vuodattamaan viatonta verta; heidän ajatuksensa ovat vääryyden ajatuksia, hävitys ja tuho heidän teillään.",
+  "tokens": [
+    {
+      "surface": "רגליהם",
+      "gloss": "heidän jalkansa"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "pahaan"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "juoksevat"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "ja he kiiruhtavat"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "vuodattamaan"
+    },
+    {
+      "surface": "דם",
+      "gloss": "verta"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "viatonta"
+    },
+    {
+      "surface": "מחשבותיהם",
+      "gloss": "heidän ajatuksensa"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "ajatuksia"
+    },
+    {
+      "surface": "און",
+      "gloss": "vääryyden"
+    },
+    {
+      "surface": "שד",
+      "gloss": "hävitys"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "ja tuho"
+    },
+    {
+      "surface": "במסלותם",
+      "gloss": "teillään"
+    }
+  ],
+  "timestamp": "2026-09-07T00:21:38.855837927Z",
+  "model": "glm-5.3"
+}

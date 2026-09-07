@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 140,
+  "translation": "Varjele minua, Jahve, jumalattoman käsistä, väkivaltaisten miehestä — sinä varjelet minua, jotka suunnittelivat sysätä askeleeni.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "varjele minua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "käsistä"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "jumalattoman"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "miehestä"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "väkivaltaisten"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "sinä varjelet minua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "he suunnittelivat"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "sysätä"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "askeleeni"
+    }
+  ],
+  "timestamp": "2026-09-07T02:53:50.109838103Z",
+  "model": "glm-5.3"
+}

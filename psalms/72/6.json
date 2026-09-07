@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 72,
+  "translation": "Hän laskeutuu kuin sade leikatulle ruoholle, kuin sadekuurot, jotka kastelevat maan.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "hän laskeutuu"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "kuin sade"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "גז",
+      "gloss": "leikatulle ruoholle"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "kuin sadekuurot"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "kastelevat"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:33:32.887392642Z",
+  "model": "glm-5.3"
+}

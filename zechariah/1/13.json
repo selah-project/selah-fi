@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja Jahve vastasi ⟨את⟩ enkelin, joka puhui minun kanssani, hyviä sanoja, sanoja lohdutusta.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Ja vastasi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "enkelin"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "enkelin"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "joka puhui"
+    },
+    {
+      "surface": "בי",
+      "gloss": "minun kanssani"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "sanoja"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "hyviä"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "sanoja"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "lohdutusta"
+    }
+  ],
+  "timestamp": "2026-09-07T01:44:53.216233498Z",
+  "model": "glm-5.3"
+}

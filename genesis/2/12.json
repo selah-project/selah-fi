@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja sen maan kulta ⟨on⟩ hyvää; siellä ⟨on⟩ bdelliumia ja shoham-kivi.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "ja kulta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sen"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvää"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "bdelliumia"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ja kivi"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "shoham-"
+    }
+  ],
+  "timestamp": "2026-09-06T21:04:23.655803242Z",
+  "model": "glm-5.3"
+}

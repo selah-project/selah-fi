@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 78:62",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 78,
+  "translation": "Ja hän antoi kansansa miekalle ja perintöönsä hän vihastui.",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "ja hän antoi"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "miekalle"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kansansa"
+    },
+    {
+      "surface": "ובנחלתו",
+      "gloss": "ja perintöönsä"
+    },
+    {
+      "surface": "התעבר",
+      "gloss": "hän vihastui"
+    }
+  ],
+  "timestamp": "2026-09-07T02:26:30.038537692Z",
+  "model": "glm-5.3"
+}

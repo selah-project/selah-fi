@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 3:8",
+  "book": "malachi",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ryöstääkö ihminen Elohimia? Mutta te ryöstätte ⟨את⟩ minua. Ja te sanotte: Missä me oimme ryöstäneet sinua? Kymmenyksissä ja uhrielahjoissa.",
+  "tokens": [
+    {
+      "surface": "היקבע",
+      "gloss": "Ryöstääkö"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihminen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mutta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "te"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "ryöstätte"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "minua"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "ja te sanotte"
+    },
+    {
+      "surface": "במה",
+      "gloss": "missä"
+    },
+    {
+      "surface": "קבענוך",
+      "gloss": "ryöstäneet sinua"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "kymmenyksissä"
+    },
+    {
+      "surface": "והתרומה",
+      "gloss": "ja uhrielahjoissa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:51:43.803848620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 13:52",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja hän polttaa ⟨את⟩ vaatteen tai ⟨את⟩ loimen tai ⟨את⟩ kuteen, villana tai pellavana, tai ⟨את⟩ kaiken nahkaesineen, jossa tauti on; sillä syöpivä spitaali se on — tulessa se poltettakoon.",
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "Ja hän polttaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaatteen"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "vaatteen"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "loimen"
+    },
+    {
+      "surface": "השתי",
+      "gloss": "loimen"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuteen"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "kuteen"
+    },
+    {
+      "surface": "בצמר",
+      "gloss": "villana"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "בפשתים",
+      "gloss": "pellavana"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken nahkaesineen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "esineen"
+    },
+    {
+      "surface": "העור",
+      "gloss": "nahka-"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jossa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "on"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siinä"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "tauti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "spitaali"
+    },
+    {
+      "surface": "ממארת",
+      "gloss": "syöpivä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se on"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulessa"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "se poltettakoon"
+    }
+  ],
+  "timestamp": "2026-09-06T21:53:13.999249464Z",
+  "model": "glm-5.3"
+}

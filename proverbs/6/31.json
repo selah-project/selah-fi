@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 6:31",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja jos hänet löydetään, hän korvaa seitsemänkertaisesti: ⟨את⟩ koko talonsa omaisuuden hän antaa.",
+  "tokens": [
+    {
+      "surface": "ונמצא",
+      "gloss": "ja jos hänet löydetään"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "korvaa"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "seitsemänkertaisesti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko talonsa omaisuuden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הון",
+      "gloss": "omaisuuden"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "talonsa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "antaa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:04:58.438666755Z",
+  "model": "glm-5.3"
+}

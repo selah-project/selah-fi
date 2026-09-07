@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja David otti ⟨את⟩ ne kultaiset kilvet, jotka olivat Hadadezerin palvelijoilla, ja toi ne Jerushalajimiin (Jerusalem).",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ja otti"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne kultaiset kilvet"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "kilvet"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kultaiset"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "היו",
+      "gloss": "olivat"
+    },
+    {
+      "surface": "על",
+      "gloss": "…lla"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "palvelijoilla"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezerin"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "ja toi ne"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimiin (Jerusalem)"
+    }
+  ],
+  "timestamp": "2026-09-07T05:23:42.600218922Z",
+  "model": "glm-5.3"
+}

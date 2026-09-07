@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja hän suitsutti ⟨את⟩ polttouhrinsa ja ⟨את⟩ jauhouhrinsa, ja kaatoi ⟨את⟩ juomauhrinsa, ja vihmoi ⟨את⟩ rauhanuhriensa veren, jotka olivat hänen, alttarille.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "ja suitsutti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "polttouhrinsa"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "polttouhrinsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "jauhouhrinsa"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "jauhouhrinsa"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "ja kaatoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "juomauhrinsa"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "juomauhrinsa"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "ja vihmoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veren"
+    },
+    {
+      "surface": "דם",
+      "gloss": "veren"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "rauhanuhriensa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarille"
+    }
+  ],
+  "timestamp": "2026-09-06T23:55:38.338149859Z",
+  "model": "glm-5.3"
+}

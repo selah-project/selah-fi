@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 16:1",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Pekahin (Pekah), Remaljahun pojan, seitsemäntenätoista vuonna tuli kuninkaaksi Ahaz (Ahas), Jotamin poika, Jehudan (Juudan) kuningas.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "vuonna"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seitsemäntenätoista"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "seitsemäntenätoista"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuonna"
+    },
+    {
+      "surface": "לפקח",
+      "gloss": "Pekahin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remaljahun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "tuli kuninkaaksi"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Jotamin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:56:02.058572837Z",
+  "model": "glm-5.3"
+}

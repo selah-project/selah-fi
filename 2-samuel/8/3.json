@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja löi David ⟨את⟩ Hadadezerin, Rehobin pojan, Tsovan kuninkaan, hänen kulkiessaan palauttamassa kättään Joella (Eufratissa).",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Ja löi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezerin"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehobin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsova"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "kulkiessaan"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "palauttamaan"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kätensä"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "joella"
+    }
+  ],
+  "timestamp": "2026-09-06T23:22:09.031325403Z",
+  "model": "glm-5.3"
+}

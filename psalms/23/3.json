@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Nefeshini hän palauttaa, hän johdattaa minut tsedekin poluilla ⟨sillä⟩ nimensä vuoksi.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshini"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "hän palauttaa"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "hän johdattaa minut"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "poluilla"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedekin"
+    },
+    {
+      "surface": "למען",
+      "gloss": "vuoksi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nimensä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:59:20.812411720Z",
+  "model": "glm-5.3"
+}

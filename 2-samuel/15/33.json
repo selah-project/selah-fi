@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 15:33",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Ja David sanoi hänelle: Jos kuljet ⟨את⟩ kanssani, sinä olet minulle taakaksi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Jos"
+    },
+    {
+      "surface": "עברת",
+      "gloss": "kuljet"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kanssani",
+      "marks": "kanssani"
+    },
+    {
+      "surface": "והית",
+      "gloss": "olet"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "למשא",
+      "gloss": "taakaksi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:26:07.914126962Z",
+  "model": "glm-5.3"
+}

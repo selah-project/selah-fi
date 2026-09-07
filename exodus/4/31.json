@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja kansa uskoi, ja kun he kuulivat, että Jahve oli muistanut ⟨את⟩ Israelin lapset ja että hän oli nähnyt ⟨את⟩ heidän kurjuutensa, niin he kumartuivat ja kumarsivat maata.",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "Ja uskoi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "ja kun he kuulivat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "oli muistanut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin lapset"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lapset"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ja että"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "oli nähnyt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän kurjuutensa"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "heidän kurjuutensa"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "he kumartuivat"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ja kumarsivat maata"
+    }
+  ],
+  "timestamp": "2026-09-06T21:30:10.708690894Z",
+  "model": "glm-5.3"
+}

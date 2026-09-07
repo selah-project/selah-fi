@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 40:15",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Sillä varastettuna minut varastettiin heprealaisten maasta, ja täälläkin en ole tehnyt mitään, kun he panivat ⟨את⟩ minut kuoppaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "varastettuna"
+    },
+    {
+      "surface": "גנבתי",
+      "gloss": "varastettiin minut"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "heprealaisten"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja myös"
+    },
+    {
+      "surface": "פה",
+      "gloss": "täällä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ole tehnyt"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "mitään"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "he panivat"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ minut",
+      "marks": "kuoppaan"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "kuoppaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:22:53.330345063Z",
+  "model": "glm-5.3"
+}

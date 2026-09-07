@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 3:7",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Hän nostaa ⟨äänensä⟩ sinä päivänä sanoen: ”En minä ole sidehenkiöijä ⟨eikä parantaja⟩, eikä minun talossani ole leipää eikä vaatetta; älkää asettako minua kansan päämieheksi.”",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "nostaa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sinä päivänä"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "minä ole"
+    },
+    {
+      "surface": "חבש",
+      "gloss": "sidehenkiöijä"
+    },
+    {
+      "surface": "ובביתי",
+      "gloss": "eikä minun talossani"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "vaatetta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "asettako minua"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "päämieheksi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:01:00.043262569Z",
+  "model": "glm-5.3"
+}

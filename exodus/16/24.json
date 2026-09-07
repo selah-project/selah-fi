@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja he panivat ⟨את⟩ sen talteen aamuun asti, kuten Moshe oli käskenyt; eikä se haissut pahalle, eikä matoja siinä ollut.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "ja he panivat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sen (manna)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "aamuun"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kuten"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oli käskenyt"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "haissut pahalle"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "eikä matoja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ollut"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siinä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:36:00.923756149Z",
+  "model": "glm-5.3"
+}

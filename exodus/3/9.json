@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja nyt, katso, Israelin lasten huuto on tullut minun luokseni, ja minä olen myös nähnyt ⟨את⟩ ahdistuksen, jolla Mitsrajim ⟨את⟩ heitä ahdistaa.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ja nyt"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "katso"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "huuto"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "באה",
+      "gloss": "on tullut"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minun luokseni"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja minä olen myös"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nähnyt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahdistuksen"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "ahdistuksen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jolla"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "ahdistaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ heitä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:30:25.498188809Z",
+  "model": "glm-5.3"
+}

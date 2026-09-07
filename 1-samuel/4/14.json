@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 4:14",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja Eli kuuli ⟨את⟩ huudon äänen ja sanoi: Mikä tämän hälinän ääni on? Ja mies riensi ja tuli ja kertoi Elille.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Ja kuuli"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "äänen"
+    },
+    {
+      "surface": "קול",
+      "gloss": "äänen"
+    },
+    {
+      "surface": "הצעקה",
+      "gloss": "huudon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mikä"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ääni"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "hälinän"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "ja mies"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "riensi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ja kertoi"
+    },
+    {
+      "surface": "לעלי",
+      "gloss": "Elille"
+    }
+  ],
+  "timestamp": "2026-09-06T23:06:50.954532176Z",
+  "model": "glm-5.3"
+}

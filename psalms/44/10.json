@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 44:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 44,
+  "translation": "Mutta sinä hylkäsit meidät ja saatat meidät häpeään, etkä lähde sotajoukkojemme kanssa.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "mutta"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "hylkäsit"
+    },
+    {
+      "surface": "ותכלימנו",
+      "gloss": "ja saatat meidät häpeään"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "etkä"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "lähde"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "sotajoukkojemme kanssa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:08:54.624809309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja tapahtui sen jälkeen, että David ⟨Daavid⟩ löi ⟨את⟩ pelistiläiset ⟨Filistealaiset⟩ ja painoi heidät maahan; ja hän otti ⟨את⟩ Gatin ja sen tytärkaupungit pelistiläisten kädestä.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sen jälkeen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "että"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "löi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelistiläiset"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelistiläiset"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "ja painoi heidät maahan"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ja otti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gatin"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gatin"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "ja sen tytärkaupungit"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kädestä"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelistiläisten"
+    }
+  ],
+  "timestamp": "2026-09-07T05:22:39.696811968Z",
+  "model": "glm-5.3"
+}

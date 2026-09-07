@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja Re'u eli kaksikymmentäkolme vuotta... kaksi ja kolmekymmentä vuotta, ja hän synnytti ⟨את⟩ Serugin.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Ja eli"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Re'u"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ja kolmekymmentä"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ja synnytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serugin"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serugin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:31.685251407Z",
+  "model": "glm-5.3"
+}

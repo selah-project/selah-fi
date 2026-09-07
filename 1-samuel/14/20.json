@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 14:20",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja Shaul huusi, hän ja koko kansa, joka ⟨את⟩ hänen kanssaan, ja he tulivat taisteluun; ja katso: ⟨oli⟩ jokaisen miekka hänen lähimmäistään vastaan, hämmennys hyvin suuri.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "Ja huusi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja koko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänen kanssaan",
+      "marks": "hänen kanssaan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ja he tulivat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "--"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "taisteluun"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "miekka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jokaisen"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "hänen lähimmäistään vastaan"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "hämmennys"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "suuri"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hyvin"
+    }
+  ],
+  "timestamp": "2026-09-07T04:20:18.906580258Z",
+  "model": "glm-5.3"
+}

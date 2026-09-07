@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 8:5",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja minä ja kaikki kansa, joka ⟨את⟩ kanssani ⟨on⟩, lähestymme kaupunkia; ja tapahtuu, kun he tulevat ulos meitä vastaan, niin kuin ensimmäisellä kerralla, me pakenemme heidän edestään.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ja minä"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kanssani"
+    },
+    {
+      "surface": "נקרב",
+      "gloss": "lähestymme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupunkia"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ja tapahtuu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "he tulevat ulos"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "meitä vastaan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "ensimmäisellä kerralla"
+    },
+    {
+      "surface": "ונסנו",
+      "gloss": "me pakenemme"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "heidän edestään"
+    }
+  ],
+  "timestamp": "2026-09-06T22:42:24.897942568Z",
+  "model": "glm-5.3"
+}

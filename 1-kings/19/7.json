@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 19:7",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja Jahven enkeli palasi toisen kerran ja kosketti häntä ja sanoi: Nouse, syö, sillä liian suuri on matka sinulle.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ja palasi"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "enkeli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "toisen kerran"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "ja kosketti"
+    },
+    {
+      "surface": "בו",
+      "gloss": "häntä"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "קום",
+      "gloss": "nouse"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "syö"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "רב",
+      "gloss": "liian suuri"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "on matka"
+    }
+  ],
+  "timestamp": "2026-09-06T23:43:33.519505777Z",
+  "model": "glm-5.3"
+}

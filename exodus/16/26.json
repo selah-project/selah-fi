@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Kuusi päivää te keräätte sitä, mutta seitsemäntenä päivänä ⟨on⟩ Shabbat — sitä ei ole silloin.”",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Kuusi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivää"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "te keräatte sitä"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "mutta päivänä"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "seitsemäntenä"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨ole⟩"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siinä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:35:12.896426216Z",
+  "model": "glm-5.3"
+}

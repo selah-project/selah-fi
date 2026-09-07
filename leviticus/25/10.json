@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 25:10",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja te pyhitätte ⟨את⟩ viidennenkymmenen vuoden ja julistatte vapauden maassa kaikille sen asukkaille: yovelvuosi ⟨on⟩ se teille, ja te palaatte kukin omistukseensa, ja kukin palaatte sukunne luo.",
+  "tokens": [
+    {
+      "surface": "וקדשתם",
+      "gloss": "pyhitätte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viidennenkymmenen vuoden"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "vuoden"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "viidennenkymmenen"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuoden"
+    },
+    {
+      "surface": "וקראתם",
+      "gloss": "julistatte"
+    },
+    {
+      "surface": "דרור",
+      "gloss": "vapauden"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kaikille"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "sen asukkaille"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "yovelvuosi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "on"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "ja te palaatte"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kukin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "takaisin"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "omistukseensa"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ja kukin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "takaisin"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "sukunsa luo"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "palaatte"
+    }
+  ],
+  "timestamp": "2026-09-06T21:59:59.022514257Z",
+  "model": "glm-5.3"
+}

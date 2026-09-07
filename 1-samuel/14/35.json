@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 14:35",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja Shaul rakensi alttarin Jahvelle; ⟨את⟩ se ⟨oli⟩ se, jolla hän aloitti alttarin rakentamisen Jahvelle.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Ja rakensi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "se (alttari)"
+    },
+    {
+      "surface": "החל",
+      "gloss": "hän aloitti"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "rakentamaan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alttaria"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    }
+  ],
+  "timestamp": "2026-09-06T23:10:16.890140203Z",
+  "model": "glm-5.3"
+}

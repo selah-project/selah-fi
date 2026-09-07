@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 19:6",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja Joav (Joab) tuli taloon kuninkaan luo ja sanoi: Sinä häpäisit tänä päivänä ⟨את⟩ kaikkien palvelijoidesi kasvot, jotka tänään pelastivat ⟨את⟩ nefeshisi tänään, ja ⟨את⟩ nefesh poikiesi ja tyttäriesi, ja nefesh vaimojesi, ja nefesh jalkavaimojesi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "taloon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "הבשת",
+      "gloss": "sinä häpäisit"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tänä päivänä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasvot"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kasvot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkien"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "palvelijoidesi"
+    },
+    {
+      "surface": "הממלטים",
+      "gloss": "jotka pelastivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefeshisi"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nefeshisi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tänään"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "nefesh poikiesi ja tyttäriesi"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "poikiesi"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "ja tyttäriesi"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ja nefesh"
+    },
+    {
+      "surface": "נשיך",
+      "gloss": "vaimojesi"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ja nefesh"
+    },
+    {
+      "surface": "פלגשיך",
+      "gloss": "jalkavaimojesi"
+    }
+  ],
+  "timestamp": "2026-09-07T04:24:12.575078754Z",
+  "model": "glm-5.3"
+}

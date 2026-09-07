@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 135,
+  "translation": "Kaiken, mitä Jahve tahtoi, hän teki taivaassa ja maassa, merissä ja kaikissa syvyyksissä.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "tahtoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teki"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "taivaassa"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "ja maassa"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "merissä"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "syvyyksissä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:51:00.218823595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Kuulkaa ja ottakaa korvanne: älkää ylpeilkö, sillä Jahve on puhunut.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Kuulkaa"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "ja ottakaa korvanne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תגבהו",
+      "gloss": "ylpeilkö"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "on puhunut"
+    }
+  ],
+  "timestamp": "2026-09-07T00:29:52.270607146Z",
+  "model": "glm-5.3"
+}

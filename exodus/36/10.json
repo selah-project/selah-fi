@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 36,
+  "translation": "Ja hän liitti ⟨את⟩ viisi verhoa, toinen toiseen, ja viisi verhoa hän liitti, toinen toiseen.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "Ja hän liitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viisi verhoa"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "viisi"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "verhoa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "toinen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "toiseen"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "toinen"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ja viisi"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "verhoa"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "hän liitti"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "toinen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "toiseen"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "toinen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:45:31.634799382Z",
+  "model": "glm-5.3"
+}

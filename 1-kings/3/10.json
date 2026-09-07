@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja sana oli hyvä Adonain silmissä, koska Shelomo (Salomo) pyysi ⟨את⟩ tämän sanan.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "oli hyvä"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sana"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "silmissä"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonain"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "pyysi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän sanan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sanan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    }
+  ],
+  "timestamp": "2026-09-06T23:33:30.317988419Z",
+  "model": "glm-5.3"
+}

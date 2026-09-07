@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja myös Lotille (Lothille), joka kulki ⟨את⟩ Avramin (Aabrahamin) ⟨seuralassa⟩, oli lammaskarjaa ja rahtokarjaa ja telttoja.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ja myös"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "Lotille"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "joka kulki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avramin"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "lammaskarjaa"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ja rahtokarjaa"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "ja telttoja"
+    }
+  ],
+  "timestamp": "2026-09-06T21:09:27.757759981Z",
+  "model": "glm-5.3"
+}

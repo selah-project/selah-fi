@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Vain ⟨את⟩ kullan ja ⟨את⟩ hopean, ⟨את⟩ vasken, ⟨את⟩ raudan, ⟨את⟩ tinan ja ⟨את⟩ lyijyn —",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Vain"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kullan"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kullan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hopean"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "hopean"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vasken"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "vasken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raudan"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "raudan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tinan"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "tinan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "lyijyn"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "lyijyn"
+    }
+  ],
+  "timestamp": "2026-09-06T22:19:04.151133971Z",
+  "model": "glm-5.3"
+}

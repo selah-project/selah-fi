@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 26:12",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Shimonin (Simeonin) pojat sukukunnittain: Nemuelin suku nemuelilaiset, Jaminin suku jaminilaiset, Jakhinin suku jakhinilaiset.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimonin"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sukukunnittain"
+    },
+    {
+      "surface": "לנמואל",
+      "gloss": "Nemuelille"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "suku"
+    },
+    {
+      "surface": "הנמואלי",
+      "gloss": "nemuelilaiset"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "Jaminille"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "suku"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "jaminilaiset"
+    },
+    {
+      "surface": "ליכין",
+      "gloss": "Jakhinille"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "suku"
+    },
+    {
+      "surface": "היכיני",
+      "gloss": "jakhinilaiset"
+    }
+  ],
+  "timestamp": "2026-09-06T22:16:40.716007479Z",
+  "model": "glm-5.3"
+}

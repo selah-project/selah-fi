@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 118:18",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 118,
+  "translation": "Rangaisi minut ankarasti Jah, mutta kuolemalle hän ei antanut minua.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "Rangaisi ankarasti"
+    },
+    {
+      "surface": "יסרני",
+      "gloss": "minua"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ולמות",
+      "gloss": "mutta kuolemalle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "antanut minua"
+    }
+  ],
+  "timestamp": "2026-09-07T02:44:00.908186233Z",
+  "model": "glm-5.3"
+}

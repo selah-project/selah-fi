@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 17:14",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Tapa, kätesi voimalla, Jahve, tapa maailman miehistä, joiden osa on ⟨tässä⟩ elämässä; sinun kätköilläsi sinä täytät heidän vatsansa, he kyllästyvät lapsiin ja jättävät ylijäämänsä lapsukaisilleen.",
+  "tokens": [
+    {
+      "surface": "ממתים",
+      "gloss": "tapa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kätesi voimalla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ממתים",
+      "gloss": "tapa"
+    },
+    {
+      "surface": "מחלד",
+      "gloss": "maailman miehistä"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "heidän osansa"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "elämässä"
+    },
+    {
+      "surface": "וצפינך",
+      "gloss": "sinun kätköilläsi"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "sinä täytät"
+    },
+    {
+      "surface": "בטנם",
+      "gloss": "heidän vatsansa"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "he kyllästyvät"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "lapsiin"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "ja jättävät"
+    },
+    {
+      "surface": "יתרם",
+      "gloss": "ylijäämänsä"
+    },
+    {
+      "surface": "לעולליהם",
+      "gloss": "lapsukaisilleen"
+    }
+  ],
+  "timestamp": "2026-09-07T01:54:49.621492611Z",
+  "model": "glm-5.3"
+}

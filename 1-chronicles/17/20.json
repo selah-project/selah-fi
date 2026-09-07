@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Jahve, ei ⟨ole⟩ sinun kaltaistasi, eikä ⟨ole⟩ jumalaa sinun lisäksesi, kaiken sen ⟨mukaan⟩, mitä olemme kuulleet korvillamme.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ⟨ole⟩"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "sinun kaltaistasi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä ⟨ole⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jumalaa"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "sinun lisäksesi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaiken ... mukaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "olemme kuulleet"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "korvillamme"
+    }
+  ],
+  "timestamp": "2026-09-07T05:22:05.649565348Z",
+  "model": "glm-5.3"
+}

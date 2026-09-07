@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja Moshe luki ⟨את⟩ heidät lukuun Jahven suun mukaan, niin kuin hänelle oli käsketty.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Ja luki lukuun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ heidät",
+      "marks": "he \/ leeviläiset"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "על",
+      "gloss": "määräisesti"
+    },
+    {
+      "surface": "פי",
+      "gloss": "suun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oli käsketty"
+    }
+  ],
+  "timestamp": "2026-09-06T22:03:34.971977137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 9:15",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Vaikka olisin oikeassa, en vastaisi; tuomarillani anoisin armoa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "vaikka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨joskin⟩"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "olisin oikeassa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "vastaisi"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "tuomarillani"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "anoisin armoa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:27:04.923839459Z",
+  "model": "glm-5.3"
+}

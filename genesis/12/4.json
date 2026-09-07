@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 12:4",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja Avram lähti, niin kuin Jahve oli puhunut hänelle; ja Lot lähti ⟨את⟩ hänen kanssaansa; ja Avram oli seitsemänkymmentäviisi vuotta vanha lähtiessään Haranista.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ja lähti"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oli puhunut"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ja lähti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänen kanssaansa",
+      "marks": "hänen kanssaansa"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואברם",
+      "gloss": "ja Avram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oli … vanha"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "viisi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ja seitsemänkymmentä"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "lähtiessään"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "Haranista"
+    }
+  ],
+  "timestamp": "2026-09-06T21:09:28.721839901Z",
+  "model": "glm-5.3"
+}

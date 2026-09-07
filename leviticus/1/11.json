@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 1:11",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja teurastakoon ⟨את⟩ sen alttarin kyljen kohdalta, pohjoispuolella, Jahven edessä; ja Aharonin (Aaronin) pojat, kohenit, viiskööt ⟨את⟩ sen veren alttarille ympäri.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "ja teurastakoon"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sen",
+      "marks": "sen"
+    },
+    {
+      "surface": "על",
+      "gloss": "kohdalta"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "kyljen"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "pohjoispuolella"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "ja viiskööt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonin"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohenit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen veren"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sen veren"
+    },
+    {
+      "surface": "על",
+      "gloss": "alttarille"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarille"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympäri"
+    }
+  ],
+  "timestamp": "2026-09-06T21:47:52.130611442Z",
+  "model": "glm-5.3"
+}

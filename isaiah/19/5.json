@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja vedet ehtyvät merestä, ja joki autioituu ja kuivuu.",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "ehtyvät"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vedet"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "merestä"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "ja joki"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "autioituu"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "ja kuivuu"
+    }
+  ],
+  "timestamp": "2026-09-07T00:05:53.176206559Z",
+  "model": "glm-5.3"
+}

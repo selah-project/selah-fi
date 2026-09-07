@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 44,
+  "translation": "Ja hän saavutti heidät ja puhui heille ⟨את⟩ nämä sanat.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "ja hän saavutti heidät"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ja puhui"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nämä sanat"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nämä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:25:20.521009760Z",
+  "model": "glm-5.3"
+}

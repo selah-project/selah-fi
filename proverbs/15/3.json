@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Jokaisessa paikassa ⟨ovat⟩ Jahven silmät, vartioimassa pahoja ja hyviä.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "jokaisessa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "paikassa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "silmät"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "vartioimassa"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "pahoja"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "ja hyviä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:10:21.575152542Z",
+  "model": "glm-5.3"
+}

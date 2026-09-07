@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja kansa janoi siellä vettä, ja kansa nurisi Moshen päälle ja sanoi: ”Miksi tämä, sinä toit meidät ylös Mitsrajimista tappamaan ⟨את⟩ minut ja ⟨את⟩ poikani ja ⟨את⟩ karjani janolla?”",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "Ja janoi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "למים",
+      "gloss": "vettä"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "ja nurisi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Miksi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "toit meidät ylös"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrajimista"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "tappamaan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "minut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "poikani"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "karjani"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "karjani"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "janolla"
+    }
+  ],
+  "timestamp": "2026-09-06T21:36:47.203927721Z",
+  "model": "glm-5.3"
+}

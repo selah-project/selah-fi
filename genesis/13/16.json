@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 13:16",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja minä panen ⟨את⟩ siemenesi niin kuin maan pölyn; niin että jos mies voi laskea ⟨את⟩ maan pölyn, myös sinun siemenesi lasketaan.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Ja minä panen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siemenesi"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "siemenesi"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "niin kuin pölyn"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "niin että"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "voi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "laskea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maan pölyn"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pölyn"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sinun siemenesi"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "lasketaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:36.741535586Z",
+  "model": "glm-5.3"
+}

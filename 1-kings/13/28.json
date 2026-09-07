@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 13:28",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja hän meni ja löysi ⟨את⟩ tämän ruumiin heitettynä tielle, ja aasi ja leijona seisoivat ruumiin vieressä; leijona ei ollut syönyt ⟨את⟩ ruumista eikä murskannut ⟨את⟩ aasia.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ja hän meni"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "ja löysi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän ruumiin"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "tämän ruumiin"
+    },
+    {
+      "surface": "משלכת",
+      "gloss": "heitettynä"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tielle"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "ja aasi"
+    },
+    {
+      "surface": "והאריה",
+      "gloss": "ja leijona"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "seisoivat"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "vieressä"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "ruumiin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "oli syönyt"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "leijona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruumista"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "ruumista"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "murskannut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aasia"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "aasia"
+    }
+  ],
+  "timestamp": "2026-09-06T23:39:02.081863440Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja hän antoi hänelle ⟨את⟩ Bilhan, orjattarensa, vaimoksi, ja Ja'akov meni hänen luokseen.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "ja antoi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilhan"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilhan"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "orjattarensa"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "vaimoksi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ja meni"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "hänen luokseen"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akov"
+    }
+  ],
+  "timestamp": "2026-09-06T21:17:20.786621896Z",
+  "model": "glm-5.3"
+}

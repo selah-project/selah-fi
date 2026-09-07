@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 23:30",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja hänen palvelijansa panivat hänet ratsaille kuolleena Megiddosta ja toivat hänet Jerushalajimiin ja hautasivat hänet hautaansa; ja maan kansa otti ⟨את⟩ Jehoahazin (Joahas), Josian pojan, ja voitelivat ⟨את⟩ hänet ja tekivät ⟨את⟩ hänet kuninkaaksi isänsä sijaan.",
+  "tokens": [
+    {
+      "surface": "וירכבהו",
+      "gloss": "panivat hänet ratsaille"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hänen palvelijansa"
+    },
+    {
+      "surface": "מת",
+      "gloss": "kuolleena"
+    },
+    {
+      "surface": "ממגדו",
+      "gloss": "Megiddosta"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "toivat hänet"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimiin"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "hautasivat hänet"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "hautaansa"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "otti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoahazin"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoahazin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Josian"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "voitelivat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet",
+      "marks": "hänet"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "tekivät kuninkaaksi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet",
+      "marks": "hänet"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sijaan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isänsä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:58:23.698535191Z",
+  "model": "glm-5.3"
+}

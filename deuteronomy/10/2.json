@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja minä kirjoitan tauluihin ⟨את⟩ ne sanat, jotka olivat ensimmäisissä tauluissa, jotka rikesit, ja sinä panet ne arkkuun.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "ja minä kirjoitan"
+    },
+    {
+      "surface": "על",
+      "gloss": "tauluihin"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "tauluihin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne sanat"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "היו",
+      "gloss": "olivat"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "taulujen"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ensimmäisten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "rikesit"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "ja sinä panet ne"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "arkkuun"
+    }
+  ],
+  "timestamp": "2026-09-06T22:27:46.491644484Z",
+  "model": "glm-5.3"
+}

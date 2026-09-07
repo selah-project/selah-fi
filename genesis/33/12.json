@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Ja hän sanoi: Lähdetään matkalle ja käykäämme, ja minä kuljen sinun edelläsi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "Lähdetään matkalle"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "ja käykäämme"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "ja minä kuljen"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "sinun edelläsi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:18:37.606344234Z",
+  "model": "glm-5.3"
+}

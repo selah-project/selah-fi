@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 17:18",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ihminen, jolla sydän ⟨on⟩ puutteessa, lyö ⟨kättä⟩ — käy ⟨takaukseen⟩ lähimmäisensä edessä.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Ihminen"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "puutteessa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sydän"
+    },
+    {
+      "surface": "תוקע",
+      "gloss": "lyö"
+    },
+    {
+      "surface": "כף",
+      "gloss": "⟨kättä⟩"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "käy takaukseen"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "⟨takaukseen⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "lähimmäisensä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:09:48.145983734Z",
+  "model": "glm-5.3"
+}

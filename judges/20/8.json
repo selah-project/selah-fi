@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 20:8",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja koko kansa nousi kuin yksi mies, sanoen: ei meistä kukaan mene telttaansa, eikä kukaan käänny taloonsa.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ja nousi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "kuin mies"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "mene"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kukaan"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "telttaansa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "נסור",
+      "gloss": "käänny"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kukaan"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "taloonsa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:02:55.378178442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 19:18",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Älä kosta äläkä pidä kaunaa ⟨את⟩ kansasi lapsista, ja rakasta lähimmäistäsi niinkuin itseäsi; minä ⟨olen⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תקם",
+      "gloss": "kosta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "äläkä"
+    },
+    {
+      "surface": "תטר",
+      "gloss": "pidä kaunaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansasi lapsista"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lapsia"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kansasi"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "ja rakasta"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "lähimmäistäsi"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "niinkuin itseäsi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-06T21:57:24.262587492Z",
+  "model": "glm-5.3"
+}

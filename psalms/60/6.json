@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 60,
+  "translation": "Sinä olet antanut pelkäävillesi lipun, nostettavaksi totuuden tähden. Sela.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "sinä olet antanut"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "pelkäävillesi"
+    },
+    {
+      "surface": "נס",
+      "gloss": "lipun"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "nostettavaksi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "totuuden"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-07T02:16:53.294304760Z",
+  "model": "glm-5.3"
+}

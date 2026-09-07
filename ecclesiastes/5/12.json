@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "On olemassa sairas paha, jonka olen nähnyt auringon alla: omistajalleen vahingoksi varattu rikkaus.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "on olemassa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "paha"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "sairas"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "olen nähnyt"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alla"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "auringon"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "rikkaus"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "varattu"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "omistajalleen"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "vahingoksi"
+    }
+  ],
+  "timestamp": "2026-09-07T05:58:10.900406531Z",
+  "model": "glm-5.3"
+}

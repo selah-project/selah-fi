@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 19:6",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja virrat loitontuvat, Mitsrajimin (Egyptin) kanavat vähenevät ja kuivuvat; kaisla ja papyrus kuihtuvat.",
+  "tokens": [
+    {
+      "surface": "והאזניחו",
+      "gloss": "loitontuvat"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "virrat"
+    },
+    {
+      "surface": "דללו",
+      "gloss": "vähenevät"
+    },
+    {
+      "surface": "וחרבו",
+      "gloss": "ja kuivuvat"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "kanavat"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "kaisla"
+    },
+    {
+      "surface": "וסוף",
+      "gloss": "ja papyrus"
+    },
+    {
+      "surface": "קמלו",
+      "gloss": "kuihtuvat"
+    }
+  ],
+  "timestamp": "2026-09-07T00:05:53.176931642Z",
+  "model": "glm-5.3"
+}

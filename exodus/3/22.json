@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 3:22",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja ⟨jokainen⟩ nainen kysyy naapurittareltaan ja hänen talossaan asuvalta vieraalta hopea-astioita ja kulta-astioita ja vaatteita, ja te pänätte ne poikienne päälle ja tyttärienne päälle, ja te ryöstätte ⟨את⟩ Mitsrajimin.",
+  "tokens": [
+    {
+      "surface": "ושאלה",
+      "gloss": "Ja kysyy"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "nainen"
+    },
+    {
+      "surface": "משכנתה",
+      "gloss": "naapurittareltaan"
+    },
+    {
+      "surface": "ומגרת",
+      "gloss": "ja asuvalta vieraalta"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "hänen talossaan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "astiat"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "hopea-"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "ja astiat"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kulta-"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "ja vaatteita"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "ja te pänätte"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "poikienne"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja päälle"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "tyttärienne"
+    },
+    {
+      "surface": "ונצלתם",
+      "gloss": "ja te ryöstätte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajimin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:29:30.804245087Z",
+  "model": "glm-5.3"
+}

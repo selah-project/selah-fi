@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 13:31",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Silloin kuningas nousi ja repäisi ⟨את⟩ vaatteensa ja kävi maahan makaamaan, ja kaikki hänen palvelijansa seisoivat revityt vaatteet yllään.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "nousi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "repäisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaatteensa"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "vaatteensa"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "kävi makaamaan"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "palvelijansa"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "seisoivat"
+    },
+    {
+      "surface": "קרעי",
+      "gloss": "revityt"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "vaatteet"
+    }
+  ],
+  "timestamp": "2026-09-06T23:25:13.440270215Z",
+  "model": "glm-5.3"
+}

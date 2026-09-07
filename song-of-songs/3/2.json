@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 3:2",
+  "book": "song-of-songs",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Nousenpa ja kiertelen kaupungissa, toreilla ja aukioilla; etsin ⟨את⟩ hänet, jota rakastaa Nefeshini — etsin häntä, enkä löytänyt.",
+  "tokens": [
+    {
+      "surface": "אקומה",
+      "gloss": "nousen"
+    },
+    {
+      "surface": "נא",
+      "gloss": "(-pa)"
+    },
+    {
+      "surface": "ואסובבה",
+      "gloss": "ja kiertelen"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kaupungissa"
+    },
+    {
+      "surface": "בשוקים",
+      "gloss": "toreilla"
+    },
+    {
+      "surface": "וברחבות",
+      "gloss": "ja aukioilla"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "etsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänet"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "jota rakastaa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshini"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "etsin häntä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "löytänyt"
+    }
+  ],
+  "timestamp": "2026-09-07T03:55:21.913521718Z",
+  "model": "glm-5.3"
+}

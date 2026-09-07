@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Kuningas sanoi: Käänkö syrjään ja asetu tästä. Ja hän kääntyi syrjään ja asettui.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "סב",
+      "gloss": "käänkö syrjään"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "asetu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tästä"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "ja kääntyi syrjään"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ja asettui"
+    }
+  ],
+  "timestamp": "2026-09-06T23:28:52.185586432Z",
+  "model": "glm-5.3"
+}

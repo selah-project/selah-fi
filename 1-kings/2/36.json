@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 2:36",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja kuningas lähetti ja kutsui Shimein ja sanoi hänelle: Rakenna itsellesi talo Jerushalajimiin ja asu siellä, äläkä lähde sieltä minnekaan, tänne eikä tänne.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ja lähetti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ja kutsui"
+    },
+    {
+      "surface": "לשמעי",
+      "gloss": "Shimein"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "Rakenna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "itsellesi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "talo"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerushalajimiin"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "ja asu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "äläkä"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "lähde"
+    },
+    {
+      "surface": "משם",
+      "gloss": "sieltä"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "minnekaan, tänne"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "eikä tänne"
+    }
+  ],
+  "timestamp": "2026-09-06T23:32:48.982445526Z",
+  "model": "glm-5.3"
+}

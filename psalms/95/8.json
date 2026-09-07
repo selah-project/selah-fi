@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 95,
+  "translation": "Älkää paaduttako sydäntänne niin kuin Merivassa, niin kuin Massan päivänä erämaassa,",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Älkää"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "paaduttako"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "sydäntänne"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "niin kuin Merivassa"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "niin kuin päivänä"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Massan"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "erämaassa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:33:34.964567051Z",
+  "model": "glm-5.3"
+}

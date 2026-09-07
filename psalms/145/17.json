@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 145,
+  "translation": "Vanhurskas ⟨on⟩ Jahve kaikilla teillään, ja armollinen kaikissa teoissaan.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Vanhurskas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaikilla"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "teillään"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "ja armollinen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaikissa"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "teoissaan"
+    }
+  ],
+  "timestamp": "2026-09-07T02:56:26.572227322Z",
+  "model": "glm-5.3"
+}

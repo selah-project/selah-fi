@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 13:13",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Mutta Israelin lapset eivät ajaneet pois ⟨את⟩ geshurilaisia eivätkä ⟨את⟩ maakatilaisia; ja Geshur ja Maakat asuvat Israelin keskellä tähän päivään asti.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "ajaneet pois"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lapset"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "geshurilaisia"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "geshurilaisia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "eivätkä ⟨את⟩",
+      "marks": "maakatilaisia"
+    },
+    {
+      "surface": "המעכתי",
+      "gloss": "maakatilaisia"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja asuvat"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "Geshur"
+    },
+    {
+      "surface": "ומעכת",
+      "gloss": "ja Maakat"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "keskellä"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tähän päivään"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:44:28.074868494Z",
+  "model": "glm-5.3"
+}

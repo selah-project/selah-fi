@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 12:3",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja riita ⟨on⟩ Jahvella Jehudan kanssa, ja Ja'akovin päällä hän vierahtaa hänen teidensä mukaan, hänen tekojensa mukaan hän maksaa hänelle.",
+  "tokens": [
+    {
+      "surface": "וריב",
+      "gloss": "ja riita"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvella"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "ולפקד",
+      "gloss": "ja hän vierahtaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akovin"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "hänen teidensä mukaan"
+    },
+    {
+      "surface": "כמעלליו",
+      "gloss": "hänen tekojensa mukaan"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "hän maksaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    }
+  ],
+  "timestamp": "2026-09-07T01:24:10.020109946Z",
+  "model": "glm-5.3"
+}

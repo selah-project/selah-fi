@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 25:22",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "ja ⟨את⟩ kaikki Tsorin kuninkaat ja ⟨את⟩ kaikki Tsidonin kuninkaat ja ⟨את⟩ saaren kuninkaat, jotka ovat meren toisella puolella",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki Tsorin kuninkaat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kuninkaat"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsorin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki Tsidonin kuninkaat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kuninkaat"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidonin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "saaren kuninkaat"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kuninkaat"
+    },
+    {
+      "surface": "האי",
+      "gloss": "saaren"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "toisella puolella"
+    },
+    {
+      "surface": "הים",
+      "gloss": "merta"
+    }
+  ],
+  "timestamp": "2026-09-07T00:34:25.125808641Z",
+  "model": "glm-5.3"
+}

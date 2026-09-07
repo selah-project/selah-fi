@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 144,
+  "translation": "Ojenna kätesi korkeudesta, tempaise minut ja pelasta minut monista vesistä, outojen lasten kädestä.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Ojenna"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "kätesi"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "korkeudesta"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "tempaise minut"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "ja pelasta minut"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "vesistä"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "monista"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kädestä"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "outojen"
+    }
+  ],
+  "timestamp": "2026-09-07T02:57:48.783222498Z",
+  "model": "glm-5.3"
+}

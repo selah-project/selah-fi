@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 4:5",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja Azarjahu, Natanin poika, oli virkamiesten yllä; ja Zavud, Natanin poika, kohen ⟨oli⟩ kuninkaan ystävä.",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "ja Azarjahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natanin"
+    },
+    {
+      "surface": "על",
+      "gloss": "yllä"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "virkamiesten"
+    },
+    {
+      "surface": "וזבוד",
+      "gloss": "ja Zavud"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natanin"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohen (pappi)"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ystävä"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:33:18.780500650Z",
+  "model": "glm-5.3"
+}

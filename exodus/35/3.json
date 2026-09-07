@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 35,
+  "translation": "Älkää sytyttäkö tulta missään asuinpaikoissanne Shabbatin päivänä.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Älkää"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "sytyttäkö"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tulta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "missään"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "asuinpaikoissanne"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbatin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:44:24.523508085Z",
+  "model": "glm-5.3"
+}

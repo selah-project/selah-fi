@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 73,
+  "translation": "Ja he sanovat: ”Kuinka El tietäisi, ja onko tietoa Elyonissa?”",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "ja he sanovat"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "kuinka"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tietäisi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "ja onko"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "tietoa"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "Elyonissa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:22:45.071196741Z",
+  "model": "glm-5.3"
+}

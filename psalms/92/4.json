@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 92,
+  "translation": "Kymmenkielisellä asorilla ja nabelilla, hiljaisella higgayon-soinnulla kinnorin äärellä.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "soitolla"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "kymmenkielisellä asorilla"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "ja soitolla"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nabelilla"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "soinnulla"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "higgayon-soinnulla"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinnorin"
+    }
+  ],
+  "timestamp": "2026-09-07T02:32:56.792817168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Viisas mies riitautuu ⟨את⟩ tyhmän miehen, ja hän raivoaa ja nauraa, eikä lepoa ⟨ole⟩.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "viisas"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "riitautuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tyhmän miehen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "tyhmän"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "ja raivoaa"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "ja nauraa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä lepoa"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ole"
+    }
+  ],
+  "timestamp": "2026-09-07T03:18:18.399264027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 4:1",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja nyt, Israel, kuule säädökset ja oikeuskäskyt, joita minä opetan ⟨את⟩ teitä tekemään, että te eläisitte ja että te tulisitte ja perisitte ⟨את⟩ maan, jonka Jahve, teiden isien Elohim, antaa teille.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ja nyt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kuule"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−lle"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "säädökset"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "oikeuskäskyt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joita"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "מלמד",
+      "gloss": "opetan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teitä"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "tekemään"
+    },
+    {
+      "surface": "למען",
+      "gloss": "jotta"
+    },
+    {
+      "surface": "תחיו",
+      "gloss": "eläisitte"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "ja että te tulisitte"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "perisitte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "teiden isien"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "antaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    }
+  ],
+  "timestamp": "2026-09-06T22:25:07.666851080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja jos teet minulle kivistä alttarin, älä rakenna ⟨את⟩ sitä hakatuista kivistä, sillä jos heilutat miekkaasi sen päällä, saastutat sen.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ja jos"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kivistä"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "teet"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "rakenna"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "sitä (alttarin)"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "hakatuista kivistä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "miekkasi"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "heilutat"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sen päällä"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "ja saastutat sen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:38:19.731527166Z",
+  "model": "glm-5.3"
+}

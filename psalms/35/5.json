@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 35,
+  "translation": "Olkoot he kuin akana tuulen edessä, ja Jahven sanansaattaja karkottakoon heidät.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "olkoot"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "kuin akana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "tuulen"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "ja sanansaattaja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "karkottakoon"
+    }
+  ],
+  "timestamp": "2026-09-07T02:04:17.087110433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 20:11",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja Jehonatan sanoi Davidille: ”Tule, lähtekäämme kedolle.” Ja he lähtivät molemmat kedolle.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidille"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Tule"
+    },
+    {
+      "surface": "ונצא",
+      "gloss": "lähtekäämme"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "kedolle"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "Ja he lähtivät"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "molemmat"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "kedolle"
+    }
+  ],
+  "timestamp": "2026-09-06T23:13:23.752080981Z",
+  "model": "glm-5.3"
+}

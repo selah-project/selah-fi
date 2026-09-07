@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 9:3",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Jos hän tahtoisi käydä riitaa hänen kanssaan, ei ⟨ihminen⟩ vastaisi hänelle yhtä tuhannesta.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jos"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "hän tahtoisi"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "käydä riitaa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hänen kanssaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "vastaisi häntä"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yhtä"
+    },
+    {
+      "surface": "מני",
+      "gloss": "—"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhannesta"
+    }
+  ],
+  "timestamp": "2026-09-07T04:36:11.405561224Z",
+  "model": "glm-5.3"
+}

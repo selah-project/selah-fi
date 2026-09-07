@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja David teki niin, kuin Jahve oli käskenyt häntä, ja hän löi ⟨את⟩ filistealaiset Geevasta aina siihen asti, kun tullaan Gezeriin.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ja teki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kun"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "oli käskenyt häntä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ja löi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistealaiset"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistealaiset"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "Geevasta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aina siihen asti"
+    },
+    {
+      "surface": "באך",
+      "gloss": "kun tullaan"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezeriin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:20:28.351397542Z",
+  "model": "glm-5.3"
+}

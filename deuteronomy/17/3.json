@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 17:3",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "ja hän menee ja palvelee muita jumalia ja kumartuu niille — auringolle tai kuulle tai kaikelle taivaan sotaloukolle, jota minä en ole käskenyt —",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ja hän menee"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "ja palvelee"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jumalia"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "muita"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ja kumartuu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "niille"
+    },
+    {
+      "surface": "ולשמש",
+      "gloss": "auringolle"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "kuulle"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kaikelle"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "sotaloukolle"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jota"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "minä ole käskenyt"
+    }
+  ],
+  "timestamp": "2026-09-06T22:32:58.380840011Z",
+  "model": "glm-5.3"
+}

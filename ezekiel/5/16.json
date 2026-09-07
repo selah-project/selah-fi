@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 5:16",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "kun lähetän heidän keskelleen ⟨את⟩ nälän pahat nuolet, jotka ovat turmioksi, jotka minä lähetän ⟨את⟩ heidät turmioksenne; ja nälkää minä lisään teidän päällenne, ja minä taitan teiltä leivän sauvan.",
+  "tokens": [
+    {
+      "surface": "בשלחי",
+      "gloss": "kun lähetän"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nälän pahat nuolet"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "nuolet"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "nälän"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "pahat"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "heidän keskelleen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ovat"
+    },
+    {
+      "surface": "למשחית",
+      "gloss": "turmioksi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "minä lähetän"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ heidät",
+      "marks": "nuolet — teidät turmioksenne"
+    },
+    {
+      "surface": "לשחתכם",
+      "gloss": "turmioksenne"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "ja nälkää"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "minä lisään"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "teidän päällenne"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "ja minä taitan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teiltä"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "sauvan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leivän"
+    }
+  ],
+  "timestamp": "2026-09-07T00:53:19.787082267Z",
+  "model": "glm-5.3"
+}

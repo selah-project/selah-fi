@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja Paron sydän koveni, eikä hän päästänyt ⟨את⟩ Israelin poikia, niin kuin Jahve oli puhunut Moshen kautta.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Ja koveni"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sydän"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "päästänyt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin pojat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "puhunut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kädellä"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:31:35.989594131Z",
+  "model": "glm-5.3"
+}

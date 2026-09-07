@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja minä muistan ⟨את⟩ liittoni Ja'akovin (Jaakob) kanssa, ja myös ⟨את⟩ liittoni Jitshakin (Iisak) kanssa, ja myös ⟨את⟩ liittoni Avrahamin (Aabraham) kanssa minä muistan, ja maan minä muistan.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "Ja minä muistan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liittoni Ja'akovin kanssa"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "liittoni"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "Ja'akovin (Jaakob)"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ja myös"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liittoni Jitshakin kanssa"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "liittoni"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshakin (Iisak)"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ja myös"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liittoni Avrahamin kanssa"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "liittoni"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamin (Aabraham)"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "minä muistan"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ja maan"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "minä muistan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:01:22.030076534Z",
+  "model": "glm-5.3"
+}

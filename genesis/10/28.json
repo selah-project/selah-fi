@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "ja ⟨את⟩ Ovalin ja ⟨את⟩ Avimaelin ja ⟨את⟩ Sheban (Sheba).",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Ovalin"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "Ovalin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Avimaelin"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Avimaelin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Sheban"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheban"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:51.552295728Z",
+  "model": "glm-5.3"
+}

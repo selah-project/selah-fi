@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja myös Jahven käsi ⟨oli⟩ heidän päällään kukistamassa heitä leirin keskeltä, kunnes he olivat lopussa.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ja myös"
+    },
+    {
+      "surface": "יד",
+      "gloss": "käsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "בם",
+      "gloss": "heidän päällään"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "kukistamassa heitä"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "keskeltä"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "leirin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "he olivat lopussa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:22:25.009180760Z",
+  "model": "glm-5.3"
+}

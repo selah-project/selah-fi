@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 23:7",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja leviiläiset piirittäköt kuninkaan ⟨את⟩ ympäriltä, kukin aseineen kädessään, ja se, joka tulee taloon, tulkoon tapetuksi; ja olkaa te ⟨את⟩ kuninkaan kanssa, kun hän tulee ja kun hän menee ulos.",
+  "tokens": [
+    {
+      "surface": "והקיפו",
+      "gloss": "ja piirittäköt"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviiläiset"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuninkaan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympäriltä"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kukin"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "aseineen"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "kädessään"
+    },
+    {
+      "surface": "והבא",
+      "gloss": "ja joka tulee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "taloon"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "taloon"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "tulkoon tapetuksi"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ja olkaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuninkaan (kanssa)"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "kun hän tulee"
+    },
+    {
+      "surface": "ובצאתו",
+      "gloss": "ja kun hän menee ulos"
+    }
+  ],
+  "timestamp": "2026-09-07T05:43:38.148634510Z",
+  "model": "glm-5.3"
+}

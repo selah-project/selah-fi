@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Ja hän sanoi: ”⟨את⟩ veljeäni minä etsin. Kerro nyt minulle, missä he paimentavat.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veljeäni"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "veljeäni"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "etsin"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Kerro"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "missä"
+    },
+    {
+      "surface": "הם",
+      "gloss": "he"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "paimentavat"
+    }
+  ],
+  "timestamp": "2026-09-06T21:21:00.821023203Z",
+  "model": "glm-5.3"
+}

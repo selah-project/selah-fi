@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 21:19",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja Elohim avasi ⟨את⟩ hänen silmänsä, ja hän näki vesikaivon, ja hän meni ja täytti ⟨את⟩ nahkaleilin vedellä ja juotti ⟨את⟩ pojan.",
+  "tokens": [
+    {
+      "surface": "ויפקח",
+      "gloss": "ja avasi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen silmänsä"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "hänen silmänsä"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "ja hän näki"
+    },
+    {
+      "surface": "באר",
+      "gloss": "kaivon"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vesi-"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "ja hän meni"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ja täytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nahkaleilin"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "nahkaleilin"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vedellä"
+    },
+    {
+      "surface": "ותשק",
+      "gloss": "ja juotti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pojan"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "pojan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:13:12.379621663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 92,
+  "translation": "Eläimellinen mies ei tiedä, eikä hullu ymmärrä ⟨את⟩ tätä;",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "בער",
+      "gloss": "eläimellinen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tiedä"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "eikä hullu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ymmärrä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tätä"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tätä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:33:36.013568877Z",
+  "model": "glm-5.3"
+}

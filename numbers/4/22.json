@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Nosta ⟨את⟩ pään lukumäärä Gershonin (Gerson) pojista, myös heidät, isiensä houses jälkeen, sukunsa mukaan —",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Nosta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pään"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pään"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojista"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gershonin"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "הם",
+      "gloss": "he"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "talouden"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "isiensä"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sukunsa mukaan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:03:43.603231135Z",
+  "model": "glm-5.3"
+}

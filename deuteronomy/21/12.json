@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "ja sinä tuot hänet talosi keskelle, ja hän ajaa ⟨את⟩ päänsä ja tekee ⟨את⟩ kynsensä,",
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "ja sinä tuot hänet"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "תוך",
+      "gloss": "keskelle"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "talosi"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "ja hän ajaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "päänsä"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "päänsä"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "ja hän tekee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kynsensä"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "kynsensä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:31:53.218195750Z",
+  "model": "glm-5.3"
+}

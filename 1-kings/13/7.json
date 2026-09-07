@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 13:7",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja kuningas puhui Elohimin miehelle: Tule ⟨את⟩ kanssani taloon ja virvisty, ja minä annan sinulle lahjan.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ja puhui"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-lle"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehelle"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "באה",
+      "gloss": "Tule"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kanssani"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "taloon"
+    },
+    {
+      "surface": "וסעדה",
+      "gloss": "ja virvisty"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ja annan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "lahjan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:40:33.533435668Z",
+  "model": "glm-5.3"
+}

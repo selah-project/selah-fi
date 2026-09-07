@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Sillä hän painoi maahan korkeuden asujat, korkean kaupungin; hän alentaa sen, hän alentaa sen maahan asti, hän saattaa sen pölyyn asti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "השח",
+      "gloss": "painoi maahan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "asujat"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "korkeuden"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "korkean"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "hän alentaa sen"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "hän alentaa sen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "hän saattaa sen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pölyyn"
+    }
+  ],
+  "timestamp": "2026-09-07T00:07:25.700873940Z",
+  "model": "glm-5.3"
+}

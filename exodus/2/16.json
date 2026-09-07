@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Midjanin kohenilla (pappilla) oli seitsemän tytärtä, ja ne tulivat ja ampuivat vettä ja täyttivät ⟨את⟩ juottokourut juottaakseen isänsä lampaat.",
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "ja kohenilla"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjanin"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seitsemän"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "tytärtä"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "ja ne tulivat"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "ja ampuivat vettä"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "ja täyttivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "juottokourut"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "juottokourut"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "juottaakseen"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "lampaat"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "isänsä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:11:32.173158691Z",
+  "model": "glm-5.3"
+}

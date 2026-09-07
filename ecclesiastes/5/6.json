@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Sillä unien paljoudessa ⟨on⟩ paljon turhuutta ja sanoja; ⟨את⟩ Elohimia pelkää.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "paljoudessa"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "unia"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "ja turhuutta"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "ja sanoja"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "paljon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimia"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "pelkää"
+    }
+  ],
+  "timestamp": "2026-09-07T04:35:26.444012746Z",
+  "model": "glm-5.3"
+}

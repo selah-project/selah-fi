@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 97,
+  "translation": "Häpeäkööt kaikki kaiverretun kuvan palvelijat, ne, jotka kerskaavat epäjumalissa; kumartakaa hänelle, kaikki jumalat.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Häpeäkööt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "palvelijat"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "kaiverretun kuvan"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "ne, jotka kerskaavat"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "epäjumalissa"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "kumartakaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jumalat"
+    }
+  ],
+  "timestamp": "2026-09-07T02:34:11.575399754Z",
+  "model": "glm-5.3"
+}

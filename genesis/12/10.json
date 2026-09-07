@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 12:10",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja tapahtui nälkä maassa, ja Avraham meni alas Mitsrajimiin (Egyptiin) muukalaiseksi sinne, sillä raskas oli nälkä maassa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "nälkä"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ja meni alas"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrajimiin"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "muukalaiseksi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sinne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "raskas"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "nälkä"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:27.498105043Z",
+  "model": "glm-5.3"
+}

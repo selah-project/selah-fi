@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Ja tapahtui, kun Moshe oli saanut kirjoitettua ⟨את⟩ tämän Toran (Tooran) sanat kirjaan, niiden loppuun saakka.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "kun oli saanut loppuun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "kirjoittaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän Toran sanat"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Toran"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kirjaan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saakka"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "loppuun"
+    }
+  ],
+  "timestamp": "2026-09-06T22:38:47.294979476Z",
+  "model": "glm-5.3"
+}

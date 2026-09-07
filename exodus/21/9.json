@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 21:9",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja jos hän kihlaa hänet pojalleen, tyttärien tapaan hän tehköön hänelle.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ja jos"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "pojalleen"
+    },
+    {
+      "surface": "ייעדנה",
+      "gloss": "hän kihlaa hänet"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "tapaan"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "tyttärien"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hän tehköön"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hänelle"
+    }
+  ],
+  "timestamp": "2026-09-06T21:37:08.785850551Z",
+  "model": "glm-5.3"
+}

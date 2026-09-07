@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Kiitettävänä minä huudan Jahvea, ja vihollisistani minä pelastun.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "kiitettävänä"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "minä huudan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ja …sta"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "vihollisistani"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "minä pelastun"
+    }
+  ],
+  "timestamp": "2026-09-07T01:56:51.886220755Z",
+  "model": "glm-5.3"
+}

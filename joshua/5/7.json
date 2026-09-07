@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 5:7",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja ⟨את⟩ heidän poikansa hän nosti heidän sijaansa; ⟨את⟩ heidät ympärileikkasi Jehoshua (Joosua), sillä ympärileikkaamattomia he olivat, sillä ei ⟨את⟩ heitä oltu ympärileikattu tiellä.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "heidän poikansa"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "heidän poikansa"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "nosti"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "heidän sijaansa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ heidät",
+      "marks": "ympärileikkasi"
+    },
+    {
+      "surface": "מל",
+      "gloss": "ympärileikkasi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshua (Joosua)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "ympärileikkaamattomia"
+    },
+    {
+      "surface": "היו",
+      "gloss": "he olivat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "oltu ympärileikattu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ heitä",
+      "marks": "tiellä"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tiellä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:40:38.330898632Z",
+  "model": "glm-5.3"
+}

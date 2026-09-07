@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja Elimelekh, Na'omin mies, kuoli, ja hän jäi jälkeen, hän ja hänen kaksi poikaansa.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "kuoli"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimelekh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Na'omin"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "jäi jälkeen"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ja kaksi"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "poikaansa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:59:38.708843417Z",
+  "model": "glm-5.3"
+}

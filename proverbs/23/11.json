@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Sillä heidän lunastajansa on väkevä; hän käy ⟨את⟩ riitansa ⟨את⟩ sinua vastaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "heidän lunastajansa"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "väkevä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "käy riitaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riitansa"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "riitansa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sinua vastaan"
+    }
+  ],
+  "timestamp": "2026-09-07T03:14:45.789519047Z",
+  "model": "glm-5.3"
+}

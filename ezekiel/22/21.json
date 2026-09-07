@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 22:21",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja kokoan ⟨את⟩ teidät ja puhallan teidän päällenne tuleen, kiivauteni, ja te sulaudutte sen keskellä.",
+  "tokens": [
+    {
+      "surface": "וכנסתי",
+      "gloss": "ja kokoan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät",
+      "marks": "pronominisuffiksillinen ⟨את⟩: kohde = te"
+    },
+    {
+      "surface": "ונפחתי",
+      "gloss": "ja puhallan"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "teidän päällenne"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tuleen"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "kiivauteni"
+    },
+    {
+      "surface": "ונתכתם",
+      "gloss": "ja te sulaudutte"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "sen keskellä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:02:25.520412283Z",
+  "model": "glm-5.3"
+}

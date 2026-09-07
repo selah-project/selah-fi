@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja hän rakensi ⟨את⟩ sisäpihan: kolme riviä hakattua kiveä ja rivin setriparruja.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Ja hän rakensi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sisäpihan"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "pihan"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "sisä-"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "riviä"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "hakattua kiveä"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "ja rivin"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "parruja"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "setri-"
+    }
+  ],
+  "timestamp": "2026-09-06T23:34:52.753163913Z",
+  "model": "glm-5.3"
+}

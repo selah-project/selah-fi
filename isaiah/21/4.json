@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Eksyi sydämeni, kauhistus pelotti minut; ⟨את⟩ himoitseni iltahämärän hän pani minulle vavistukseksi.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "Eksyi"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "sydämeni"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "kauhistus"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "pelotti minut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "himoitseni iltahämärän"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "iltahämärän"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "himoitseni"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pani"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "vavistukseksi"
+    }
+  ],
+  "timestamp": "2026-09-07T00:06:17.574278868Z",
+  "model": "glm-5.3"
+}

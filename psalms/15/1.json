@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Laulu Davidin. Jahve, kuka saa vierailla teltassasi, kuka saa asua pyhällä vuorellasi?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Laulu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "saa vierailla"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "teltassasi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "saa asua"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "vuorellasi"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "pyhällä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:56:14.882778411Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 32:8",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Ja Ja'akov pelkäsi kovin ja joutui ahdistukseen, ja hän jakoi ⟨את⟩ kansan, joka oli ⟨את⟩ hänen kanssaan, ja ⟨את⟩ pienkarjan ja ⟨את⟩ karjan ja kamelit kahteen leiriin.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "ja pelkäsi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akov"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kovin"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "ja joutui ahdistukseen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "ja jakoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänen kanssaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "pienkarjan"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "pienkarjan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "karjan"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "karjan"
+    },
+    {
+      "surface": "והגמלים",
+      "gloss": "ja kamelit"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "kahteen"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "leiriin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:19:38.972202762Z",
+  "model": "glm-5.3"
+}

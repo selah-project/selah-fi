@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 12:14",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Miehen suun hedelmästä ⟨hän⟩ kyllästyy hyvään, ja ihmisen käsien palkka palautuu hänelle.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "hedelmästä"
+    },
+    {
+      "surface": "פי",
+      "gloss": "suun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "kyllästyy"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvään"
+    },
+    {
+      "surface": "וגמול",
+      "gloss": "ja palkka"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "käsien"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmisen"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "palautuu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    }
+  ],
+  "timestamp": "2026-09-07T03:07:03.687075413Z",
+  "model": "glm-5.3"
+}

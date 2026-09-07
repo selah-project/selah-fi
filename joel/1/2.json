@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 1:2",
+  "book": "joel",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Kuulkaa tämän, vanhimmat, ja antakaa korvanne, kaikki maan asujat. Onko tämä tapahtunut teidän päivinänne, vai teidnne isienne päivinä?",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Kuulkaa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "vanhimmat"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "ja antakaa korvanne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "asujat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "ההיתה",
+      "gloss": "Onko tapahtunut"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "teidän päivinänne"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "vai"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "päivinä"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "teidnne isienne"
+    }
+  ],
+  "timestamp": "2026-09-07T01:25:01.237039373Z",
+  "model": "glm-5.3"
+}

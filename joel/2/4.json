@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 2:4",
+  "book": "joel",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Kuin hevosten näöltään on sen näkö, ja kuin ratsastajat, niin ne kiitävät.",
+  "tokens": [
+    {
+      "surface": "כמראה",
+      "gloss": "Kuin hevosten näöltään"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "hevosten"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "on sen näkö"
+    },
+    {
+      "surface": "וכפרשים",
+      "gloss": "ja kuin ratsastajat"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "ne kiitävät"
+    }
+  ],
+  "timestamp": "2026-09-07T01:28:27.208731260Z",
+  "model": "glm-5.3"
+}

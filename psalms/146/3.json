@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 146,
+  "translation": "Älkää luottako päämiehiin, ihmispoikaan, jolla ei ⟨ole⟩ pelastusta.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Älkää"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "luottako"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "päämiehiin"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "poikaan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmis-"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänellä"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "pelastusta"
+    }
+  ],
+  "timestamp": "2026-09-07T02:57:12.824313371Z",
+  "model": "glm-5.3"
+}

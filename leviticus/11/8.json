@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Niiden lihaa älkää syömäkö, älkääkä niiden raatoon koskeko — saastaisia ne ovat teille.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "niiden lihaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "syömäkö"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "älkääkä niiden raatoon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "koskeko"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "saastaisia"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ovat teille"
+    }
+  ],
+  "timestamp": "2026-09-06T21:50:51.919847434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 13:4",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "sen alttarin paikalle, jonka hän oli tehnyt siellä ensiksi; ja Avram huusi siellä Jahven nimeä.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "paikalle"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "sen alttarin"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hän oli tehnyt"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "ensiksi"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ja huusi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nimeä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-06T21:09:10.970457171Z",
+  "model": "glm-5.3"
+}

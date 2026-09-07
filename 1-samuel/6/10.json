@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja miehet tekivät niin ja ottivat kaksi imettävää lehmää ja sitoivat ne vaunuun ja sulkeivat ⟨את⟩ niiden vasikat taloon.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Ja tekivät"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ja ottivat"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "lehmää"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "imettävää"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "ja sitoivat ne"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "vaunuun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "niiden vasikat"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "niiden vasikat"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "sulkeivat"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "taloon"
+    }
+  ],
+  "timestamp": "2026-09-07T04:20:14.985309566Z",
+  "model": "glm-5.3"
+}

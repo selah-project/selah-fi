@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 18:17",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja Jahve sanoi: Onko minun salattava Avrahamilta (Aabrahamilta), mitä minä teen?",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ja Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "Onko…salattava"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minun"
+    },
+    {
+      "surface": "מאברהם",
+      "gloss": "Avrahamilta (Aabrahamilta)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:11:00.497645448Z",
+  "model": "glm-5.3"
+}

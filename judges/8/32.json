@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 8:32",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja Gid'on, Joashin poika, kuoli hyvässä vanhuudessa, ja hänet haudattiin Joashin, hänen isänsä, hautaan Ofrassa, Avi-ha-Ezrin ⟨heimossa⟩.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "kuoli"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gid'on"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joashin"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "vanhuudessa"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "hyvässä"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "haudattiin"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "hautaan"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joashin"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isänsä"
+    },
+    {
+      "surface": "בעפרה",
+      "gloss": "Ofrassa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Avi"
+    },
+    {
+      "surface": "העזרי",
+      "gloss": "ha-Ezrin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:56:37.622170519Z",
+  "model": "glm-5.3"
+}

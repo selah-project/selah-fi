@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Haluilee, mutta ⟨ei saa⟩ mitään, laiskan Nefesh; mutta ahkeroiden Nefesh tulee lihavaksi.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "Haluilee"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mutta ⟨ei saa⟩ mitään"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "Nefesh"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "laiskan"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "mutta Nefesh"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "ahkeroiden"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "tulee lihavaksi"
+    }
+  ],
+  "timestamp": "2026-09-07T03:08:04.308498469Z",
+  "model": "glm-5.3"
+}

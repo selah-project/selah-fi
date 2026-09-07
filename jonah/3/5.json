@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja Niniven miehet uskoivat Elohimiin, ja he kuuluttivat paaston ja pukeutuivat säkkeihin, suurimmistaan pienimpiinsä asti.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "uskovat"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Niniven"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimiin"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "kuuluttivat"
+    },
+    {
+      "surface": "צום",
+      "gloss": "paaston"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "pukeutuivat"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "säkkeihin"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "suurimmistaan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "pienimpiinsä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:34:49.139161358Z",
+  "model": "glm-5.3"
+}

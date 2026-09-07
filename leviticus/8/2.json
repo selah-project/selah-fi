@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 8:2",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ota ⟨את⟩ Aharon (Aaron) ja ⟨את⟩ hänen poikansa ⟨את⟩ hänen kanssaan, ja ⟨את⟩ vaatteet, ja ⟨את⟩ voitelun öljyn, ja ⟨את⟩ syntiuhrihärän, ja ⟨את⟩ kaksi oinutta, ja ⟨את⟩ happamattoman leivän korin.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Ota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen poikansa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänen kanssaan",
+      "marks": "prepositio את 'kanssa', ei objektimerkki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "vaatteet"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "vaatteet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "voitelun öljyn"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "öljyn"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "voitelun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "syntiuhrihärän"
+    },
+    {
+      "surface": "פר",
+      "gloss": "härän"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syntiuhri-"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaksi oinutta"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "oinutta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "happamattoman leivän korin"
+    },
+    {
+      "surface": "סל",
+      "gloss": "korin"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "happamattoman leivän"
+    }
+  ],
+  "timestamp": "2026-09-06T21:49:58.213566100Z",
+  "model": "glm-5.3"
+}

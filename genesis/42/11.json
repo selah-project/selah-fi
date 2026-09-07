@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 42:11",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Me kaikki ⟨olemme⟩ yhden miehen poikia; rehellisiä me ⟨olemme⟩, palvelusi eivät ⟨ole⟩ vakoojia.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikia"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yhden"
+    },
+    {
+      "surface": "נחנו",
+      "gloss": "me"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "rehellisiä"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ole"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "palvelusi"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "vakoojia"
+    }
+  ],
+  "timestamp": "2026-09-06T21:23:55.321105569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 62:5",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 62,
+  "translation": "Sillä niinkuin nuori mies naisee neitsyen, niin sinun poikasi naisevat sinut; ja niinkuin sulhanen iloitsee morsiameesta, niin sinun Elohimisi iloitsee sinusta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "יבעל",
+      "gloss": "naisee"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "nuori mies"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "neitsyen"
+    },
+    {
+      "surface": "יבעלוך",
+      "gloss": "naisevat sinut"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "sinun poikasi"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "ja ⟨iloitsee⟩"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "sulhanen"
+    },
+    {
+      "surface": "על",
+      "gloss": "-sta"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "morsiameesta"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "iloitsee"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sinusta"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sinun Elohimisi"
+    }
+  ],
+  "timestamp": "2026-09-07T00:21:42.704415621Z",
+  "model": "glm-5.3"
+}

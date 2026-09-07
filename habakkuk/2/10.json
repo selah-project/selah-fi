@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "habakkuk 2:10",
+  "book": "habakkuk",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Sinä suunnittelit häpeää talollesi, katkaisemalla monta kansaa — ja syntiä on tehnyt sinun nefeshsi.",
+  "tokens": [
+    {
+      "surface": "יעצת",
+      "gloss": "suunnittelit"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "häpeää"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "talollesi"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "katkaisemalla"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "kansaa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "monta"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "ja tehnyt syntiä"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "sinun nefeshsi"
+    }
+  ],
+  "timestamp": "2026-09-07T01:37:32.425195470Z",
+  "model": "glm-5.3"
+}

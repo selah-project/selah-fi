@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 12:10",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja te kulatte ⟨את⟩ Yardenin ja asutte maassa, jonka Jahve, Elohiminne, antaa teidän periä, ja hän antaa teidän levätä kaikista vihollisistanne ympärillä, ja te asutte turvassa.",
+  "tokens": [
+    {
+      "surface": "ועברתם",
+      "gloss": "Ja te kulatte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardenin"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardenin"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "ja asutte"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminne"
+    },
+    {
+      "surface": "מנחיל",
+      "gloss": "antaa teidän periä"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät"
+    },
+    {
+      "surface": "והניח",
+      "gloss": "ja hän antaa levätä"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kaikista"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "vihollisistanne"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ympärillä"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "ja asutte"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "turvassa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:31:04.852898525Z",
+  "model": "glm-5.3"
+}

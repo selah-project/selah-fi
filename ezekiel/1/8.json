@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 1:8",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja ihmisen kädet ⟨olivat⟩ heidän siipiensä alla, heidän neljällä sivullaan; ja heidän kasvonsa ja heidän siipensä — heillä neljällä.",
+  "tokens": [
+    {
+      "surface": "וידו",
+      "gloss": "ja kädet"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmisen"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "alla"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "heidän siipiensä"
+    },
+    {
+      "surface": "על",
+      "gloss": "sivuilla"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "neljällä"
+    },
+    {
+      "surface": "רבעיהם",
+      "gloss": "sivullaan"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "ja heidän kasvonsa"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "ja heidän siipensä"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "heidän neljällään"
+    }
+  ],
+  "timestamp": "2026-09-07T00:50:23.027365966Z",
+  "model": "glm-5.3"
+}

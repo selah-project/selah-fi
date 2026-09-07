@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 10:2",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Heidän sydämensä ⟨on⟩ petollinen; nyt he joutuvat syyllisiksi: hän murskaa heidän alttarinsa, hän hävittää heidän pylväänsä.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "petollinen"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "heidän sydämensä"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "he ovat syyllisiä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "יערף",
+      "gloss": "murskaa"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "heidän alttarinsa"
+    },
+    {
+      "surface": "ישדד",
+      "gloss": "hävittää"
+    },
+    {
+      "surface": "מצבותם",
+      "gloss": "heidän pylväänsä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:25:01.254869421Z",
+  "model": "glm-5.3"
+}

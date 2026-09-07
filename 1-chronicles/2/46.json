@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Eefa, Kalevin (Kaleeb) sivuvaimo, synnytti ⟨את⟩ Haranin ja ⟨את⟩ Motsan ja ⟨את⟩ Gazeksen; ja Haran siitti ⟨את⟩ Gazeksen.",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "Ja Eefa"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "sivuvaimo"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalevin"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haranin"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haranin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Motsan"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motsan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Gazeksen"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazeksen"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "ja Haran"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gazeksen"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazeksen"
+    }
+  ],
+  "timestamp": "2026-09-07T05:11:38.541758802Z",
+  "model": "glm-5.3"
+}

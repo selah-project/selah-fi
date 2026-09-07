@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ei saa tulla Jahven seurakuntaan hakattu eikä murskattu, eikä sellainen, jonka urosin on katkaistu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ei saa"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "tulla"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "hakattu"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "murskattu"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "eikä katkaistu"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "urosin"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "seurakuntaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-06T22:34:18.905450835Z",
+  "model": "glm-5.3"
+}

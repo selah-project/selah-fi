@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja he heittivät kukin sauvansa, ja ne tulivat käärmeiksi; mutta Aharonin sauva nielaisi ⟨את⟩ heidän sauvansa.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "Ja he heittivät"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kukin"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "sauvansa"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ja ne tulivat"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "käärmeiksi"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "mutta … nielaisi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "sauva"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän sauvansa"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "heidän sauvansa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:30:02.265157596Z",
+  "model": "glm-5.3"
+}

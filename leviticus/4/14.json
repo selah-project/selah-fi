@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 4:14",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "ja synti, jonka he ovat tehneet sitä vastaan, tulee tunnetuksi, niin seurakunta tuo sonnin, karjan vasikan, syntiuhriksi, ja he tuovat ⟨את⟩ sen kokousteltin eteen",
+  "tokens": [
+    {
+      "surface": "ונודעה",
+      "gloss": "ja tulee tunnetuksi"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "synti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "he ovat tehneet syntiä"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sitä vastaan"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "niin tuo"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "seurakunta"
+    },
+    {
+      "surface": "פר",
+      "gloss": "sonni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "vasikan"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "karjan"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "syntiuhriksi"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "ja he tuovat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sen",
+      "marks": "sen (sonnin)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltin"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kokous-"
+    }
+  ],
+  "timestamp": "2026-09-06T21:49:16.570870686Z",
+  "model": "glm-5.3"
+}

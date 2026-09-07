@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja tapahtui tämän jälkeen, että Davidin sydän löi ⟨את⟩ häntä, koska hän oli leikannut ⟨את⟩ kulman, joka oli Shaulilla.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "jälkeen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ja löi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sydän"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ häntä"
+    },
+    {
+      "surface": "על",
+      "gloss": "koska"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "oli leikannut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kulman"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "kulman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "oli Shaulilla"
+    }
+  ],
+  "timestamp": "2026-09-06T23:14:47.599009072Z",
+  "model": "glm-5.3"
+}

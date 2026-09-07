@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "Minä etsin Jahvea ⟨את⟩, ja hän vastasi minua, ja kaikista pelkojani hän pelasti minut.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "Minä etsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "ja hän vastasi minua"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ja kaikista"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "pelkojani"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "hän pelasti minut"
+    }
+  ],
+  "timestamp": "2026-09-07T02:03:12.620531954Z",
+  "model": "glm-5.3"
+}

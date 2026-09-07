@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja kun te leikatte ⟨את⟩ maanne sadon, älä leikkaa peltonurkkaasi loppuun asti, äläkä poimi sadostasi ketoviljaa.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "ja kun te leikatte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadon"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "sadon"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "maanne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "loppuun asti"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "nurkka"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "peltoasi"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "leikkaa"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "ja ketoviljaa"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "sadostasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "poimi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:55:35.562567383Z",
+  "model": "glm-5.3"
+}

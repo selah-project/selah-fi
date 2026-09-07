@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Todellakin, te olette ⟨se⟩ kansa, ja teidän kanssanne kuolee viisaus.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "todellakin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "te"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "ja teidän kanssanne"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "kuolee"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "viisaus"
+    }
+  ],
+  "timestamp": "2026-09-07T03:30:25.820547541Z",
+  "model": "glm-5.3"
+}

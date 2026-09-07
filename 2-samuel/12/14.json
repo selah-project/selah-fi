@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 12:14",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Paitsi että olet halveksinut ⟨את⟩ Jahven vihollisia tällä teolla — myös sinulle syntynyt poika kuolee varmasti.”",
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "Paitsi että"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "halveksinut"
+    },
+    {
+      "surface": "נאצת",
+      "gloss": "olet halveksinut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven vihollisia"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "Jahven vihollisia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "tällä teolla"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tällä"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "sinulle syntynyt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kuolee varmasti"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "kuolee"
+    }
+  ],
+  "timestamp": "2026-09-06T23:23:17.831160928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja hän kirjoitti siellä kiviin ⟨את⟩ Moshen Toran kaksoiskappaleen, jonka hän oli kirjoittanut Israelin poikien eteen.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Ja hän kirjoitti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "על",
+      "gloss": "kiviin"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kiviin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaksoiskappaleen"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "kaksoiskappaleen"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Toran"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "oli kirjoittanut"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikien"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:42:50.170275099Z",
+  "model": "glm-5.3"
+}

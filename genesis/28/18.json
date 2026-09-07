@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 28:18",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Ja Ja'akov (Jaakob) nousi varhain aamulla ja otti ⟨את⟩ kiven, jonka hän oli pannut päänsä alle, ja pani sen ⟨את⟩ pystyyn patsaaksi ja vuodatti öljyä sen päälle.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "Ja nousi varhain"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akov"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamulla"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ja otti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiven"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "kiven"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "oli pannut"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "päänsä alle"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ja pani"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen ⟨את⟩",
+      "marks": "patsaaksi"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "patsaaksi"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "ja vuodatti"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "öljyä"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "sen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:16:44.631872250Z",
+  "model": "glm-5.3"
+}

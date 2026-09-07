@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 33:20",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Ja hän pystytti sinne alttarin ja kutsui sen Eliksi, Israelin Elohimiksi.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "pystytti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sinne"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ja kutsui"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eliksi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimiksi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:19:38.673159013Z",
+  "model": "glm-5.3"
+}

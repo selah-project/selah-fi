@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 45:15",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 45,
+  "translation": "Kirjottuihin vaatteisiin hän tuodaan kuninkaalle; neidot hänen jäljessään, hänen ystävättärensä, tuodaan sinulle.",
+  "tokens": [
+    {
+      "surface": "לרקמות",
+      "gloss": "Kirjottuihin vaatteisiin"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "hän tuodaan"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuninkaalle"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "neidot"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "hänen jäljessään"
+    },
+    {
+      "surface": "רעותיה",
+      "gloss": "hänen ystävättärensä"
+    },
+    {
+      "surface": "מובאות",
+      "gloss": "tuodaan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    }
+  ],
+  "timestamp": "2026-09-07T02:09:43.779755234Z",
+  "model": "glm-5.3"
+}

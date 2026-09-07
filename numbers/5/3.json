@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 5:3",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Sekä miehet että naiset te lähetätte pois; leirin ulkopuolelle te lähetätte heidät, etteivät he saastuttaisi ⟨את⟩ leirejään, joiden keskellä minä asun.",
+  "tokens": [
+    {
+      "surface": "מזכר",
+      "gloss": "sekä miehet"
+    },
+    {
+      "surface": "עד",
+      "gloss": "että"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "naiset"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "te lähetätte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pois"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ulkopuolelle"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "leirin"
+    },
+    {
+      "surface": "תשלחום",
+      "gloss": "te lähetätte heidät"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "etteivät"
+    },
+    {
+      "surface": "יטמאו",
+      "gloss": "he saastuttaisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leirejään"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "leirejään"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joiden"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "asun"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "keskellä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:05:16.612699398Z",
+  "model": "glm-5.3"
+}

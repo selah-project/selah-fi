@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 12:32",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja Menashen (Manassen) heimon puolelta kahdeksantoista tuhatta, jotka nimettiin nimittäin tulemaan asettamaan ⟨את⟩ Davidin (Daavidin) kuninkaaksi.",
+  "tokens": [
+    {
+      "surface": "ומחצי",
+      "gloss": "ja puolelta"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "heimon"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashen"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "kahdeksan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "toista"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhatta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "nimettiin"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "nimittäin"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "tulemaan"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "asettamaan kuninkaaksi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidin"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:18:03.427215218Z",
+  "model": "glm-5.3"
+}

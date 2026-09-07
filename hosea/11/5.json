@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 11:5",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ei hän palaa Mitsrajimin maahan (Egypti), vaan Ashur — hän ⟨on⟩ hänen kuninkaansa, sillä he kieltäytyivät palaamasta.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ei"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "palaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "",
+      "marks": "illatiivi 'maahan' kattaa он"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "vaan Ashur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "kuninkaansa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "kieltäytyivät"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "palaamasta"
+    }
+  ],
+  "timestamp": "2026-09-07T01:24:36.206645048Z",
+  "model": "glm-5.3"
+}

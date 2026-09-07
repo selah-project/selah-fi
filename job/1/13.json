@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 1:13",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja tapahtui päivänä, jona hänen poikansa ja tyttärensä söivät ja joivat viiniä veljensä esikoisen talossa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ja hänen poikansa"
+    },
+    {
+      "surface": "ובנתיו",
+      "gloss": "ja hänen tyttärensä"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "söivät"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ja joivat"
+    },
+    {
+      "surface": "יין",
+      "gloss": "viiniä"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "talossa"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "heidän veljensä"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "esikoinen"
+    }
+  ],
+  "timestamp": "2026-09-07T03:23:28.128255897Z",
+  "model": "glm-5.3"
+}

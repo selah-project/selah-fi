@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 27:18",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Esikartanon pituus ⟨on⟩ sata kyynärää, ja leveys viisikymmentä viidelläkymmenellä, ja korkeus viisi kyynärää, valkoista kierreliinaa, ja niiden jalustat vaskea.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "pituus"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "esikartanon"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sata"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ja leveys"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "viisikymmentä"
+    },
+    {
+      "surface": "בחמשים",
+      "gloss": "viidelläkymmenellä"
+    },
+    {
+      "surface": "וקמה",
+      "gloss": "ja korkeus"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "viisi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "שש",
+      "gloss": "valkoista pellavaa"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "kierteistä"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ja niiden jalustat"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "vaskea"
+    }
+  ],
+  "timestamp": "2026-09-06T21:40:10.838331854Z",
+  "model": "glm-5.3"
+}

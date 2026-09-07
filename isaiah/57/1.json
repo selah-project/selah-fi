@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 57:1",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 57,
+  "translation": "Vanhursas katoaa, eikä yksikään mies pane sitä sydämeensä, ja hesed-miehet kootaan pois ilman ymmärtävää ⟨ole⟩, sillä pahan edestä on vanhursas koottu pois.",
+  "tokens": [
+    {
+      "surface": "הצדיק",
+      "gloss": "Vanhursas"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "katoaa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yksikään mies"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pane"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sydämeensä"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "ja … miehet"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "נאספים",
+      "gloss": "kootaan pois"
+    },
+    {
+      "surface": "באין",
+      "gloss": "ilman"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "ymmärtävää"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "edestä"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "pahan"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "koottu pois"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "vanhursas"
+    }
+  ],
+  "timestamp": "2026-09-07T00:19:46.288417557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja hän toimitti lähelle ⟨את⟩ kansan korbanin, ja otti ⟨את⟩ vuorilampaan, syndiuhriksi, joka oli kansalle, ja teurasti sen ja toimitti sen synninpoistouhrina kuten ensimmäisen.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ja hän toimitti lähelle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansan korbanin"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "korbanin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ja otti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vuorilampaan"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "vuorilampaan"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syndiuhriksi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kansalle"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "ja teurasti sen"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "ja toimitti sen synninpoistouhrina"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "kuten ensimmäisen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:50:21.592221848Z",
+  "model": "glm-5.3"
+}

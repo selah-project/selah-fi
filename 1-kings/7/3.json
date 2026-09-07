@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja ⟨se⟩ oli katettu setrillä ylhäältä sivujen päällä, jotka ⟨ovat⟩ pylväissä — neljäkymmentä ja viisi, viisitoista riviä.",
+  "tokens": [
+    {
+      "surface": "וספן",
+      "gloss": "ja ⟨se⟩ oli katettu"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "setrillä"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ylhäältä"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "הצלעת",
+      "gloss": "sivujen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "pylväissä"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "neljäkymmentä"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ja viisi"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "viisi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-toista"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "rivi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:35:41.238875416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 84,
+  "translation": "Onnellinen ihminen, jonka voima on sinussa — heidän sydämissään ⟨ovat⟩ valtatiet.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Onnellinen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihminen"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "voima"
+    },
+    {
+      "surface": "לו",
+      "gloss": "on hänellä"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinussa"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "valtatiet"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "heidän sydämissään"
+    }
+  ],
+  "timestamp": "2026-09-07T02:29:36.548055850Z",
+  "model": "glm-5.3"
+}

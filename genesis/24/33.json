@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 24:33",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja hän asetti hänen eteensä syötävää, mutta hän sanoi: ”En syö, ennen kuin olen puhunut sanani.” Ja hän sanoi: ”Puhu.”",
+  "tokens": [
+    {
+      "surface": "ויישם",
+      "gloss": "ja hän asetti"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "hänen eteensä"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "syötävää"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "syö"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ennen kuin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "olen puhunut"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanani"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "puhu"
+    }
+  ],
+  "timestamp": "2026-09-06T21:15:17.816144842Z",
+  "model": "glm-5.3"
+}

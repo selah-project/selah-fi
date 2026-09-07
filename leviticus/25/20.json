@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja jos sanotte: Mitäkö syömme seitsemäntenä vuonna? Katso, emme kylvä emmekä kokoa ⟨את⟩ satoamme —",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ja jos"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "sanotte"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mitäkö"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "syömme"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "vuonna"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "seitsemäntenä"
+    },
+    {
+      "surface": "הן",
+      "gloss": "katso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "kylvä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "emekkä"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "kokoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "satoamme"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "satoamme"
+    }
+  ],
+  "timestamp": "2026-09-06T21:59:34.182450173Z",
+  "model": "glm-5.3"
+}

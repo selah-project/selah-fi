@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja poista suuttumus sydämestäsi ja vie paha lihastasi pois, sillä nuoruus ja mustahiuksisuus ⟨on⟩ hevel (kevyttä tyhjyyttä).",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "Ja poista"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "suuttumus"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "sydämestäsi"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "ja vie pois"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "paha"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "lihastasi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "nuoruus"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "ja mustahiuksisuus"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    }
+  ],
+  "timestamp": "2026-09-07T04:37:40.536864786Z",
+  "model": "glm-5.3"
+}

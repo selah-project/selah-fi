@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 10:7",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Sieltä he lähtivät Gudgodaan, ja Gudgodasta Jotvataan, veden purojen maahan.",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "sieltä"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "he lähtivät"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "Gudgodaan"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ja...sta"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "Gudgodasta"
+    },
+    {
+      "surface": "יטבתה",
+      "gloss": "Jotvataan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "purojen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "veden"
+    }
+  ],
+  "timestamp": "2026-09-06T22:27:00.435251358Z",
+  "model": "glm-5.3"
+}

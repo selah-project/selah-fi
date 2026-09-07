@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Asemaansa asettuvat maan kuninkaat, ja ruhtinaat neuvottelevat yhdessä Jahvea vastaan ja hänen Mashiahinsa (Voideltunsa) vastaan:",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "asemaansa asettuvat"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kuninkaat"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "ja ruhtinaat"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "neuvottelevat"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "yhdessä"
+    },
+    {
+      "surface": "על",
+      "gloss": "vastaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja vastaan"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "hänen Mashiahinsa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:52:35.401308937Z",
+  "model": "glm-5.3"
+}

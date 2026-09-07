@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 147,
+  "translation": "Hän antaa lumen kuin villan, hän sirottelee härmän kuin tuhkan.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "antaa"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "lumen"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "kuin villan"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "härmän"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "kuin tuhkan"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "hän sirottelee"
+    }
+  ],
+  "timestamp": "2026-09-07T02:56:10.536127355Z",
+  "model": "glm-5.3"
+}

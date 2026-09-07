@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 26:8",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Niin, sinun tuomiittesi tiellä, Jahve, me odotimme sinua; sinun nimesi ja sinun muistosi — sen nefesh kaipaa.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Niin"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "tiellä"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "tuomiittesi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קוינוך",
+      "gloss": "me odotimme sinua"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "sinun nimesi"
+    },
+    {
+      "surface": "ולזכרך",
+      "gloss": "ja sinun muistosi"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "kaipaa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    }
+  ],
+  "timestamp": "2026-09-07T00:07:25.705374259Z",
+  "model": "glm-5.3"
+}

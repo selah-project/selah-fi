@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 5:8",
+  "book": "zechariah",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja hän sanoi: Tämä ⟨on⟩ jumalattomuus. Ja hän heitti ⟨את⟩ hänet eefan keskelle ja heitti ⟨את⟩ lyijykiven sen suulle.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "הרשעה",
+      "gloss": "jumalattomuus"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "ja hän heitti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ hänet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eefan"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "keskelle"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "eefan keskelle"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "ja hän heitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lyijykiven"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kiven"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "lyijy-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sen"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "suulle"
+    }
+  ],
+  "timestamp": "2026-09-07T01:44:16.069675426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 7:21",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Älä pelkää heitä, sillä keskelläsi ⟨on⟩ Jahve, Elohimisi, El, suuri ja peljättävä.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תערץ",
+      "gloss": "pelkää"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "heitä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimisi"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "keskelläsi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suuri"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ja peljättävä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:26:35.229864927Z",
+  "model": "glm-5.3"
+}

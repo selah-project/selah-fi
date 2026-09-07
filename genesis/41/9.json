@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 41,
+  "translation": "Ja puhui juomittajien päämies ⟨את⟩ Paroa (farao) sanoen: ⟨את⟩ rikkomukseni minä tänä päivänä muistutan mieleen.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ja puhui"
+    },
+    {
+      "surface": "שר",
+      "gloss": "päämies"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "juomittajien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rikkomukseni"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "rikkomukseni"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "muistutan mieleen"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tänä päivänä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:23:00.258573943Z",
+  "model": "glm-5.3"
+}

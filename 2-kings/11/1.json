@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja Atalja, Ahazjahun (Ahasja) äiti, näki, että hänen poikansa oli kuollut, ja hän nousi ja hävitti ⟨את⟩ koko kuningaskunnan siemenen.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "Ja Atalja"
+    },
+    {
+      "surface": "אם",
+      "gloss": "äiti"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahazjahun"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "näki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "מת",
+      "gloss": "oli kuollut"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "ja hän nousi"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "ja hävitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko kuningaskunnan siemenen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "siemenen"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kuningaskunnan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:52:09.057584154Z",
+  "model": "glm-5.3"
+}

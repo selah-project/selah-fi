@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 10:13",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja Mitsrajim (Egypti) synnytti ⟨את⟩ Ludimin ja ⟨את⟩ Anamimin ja ⟨את⟩ Lehabimin ja ⟨את⟩ Naftuhimin.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Ja Mitsrajim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ludimin"
+    },
+    {
+      "surface": "לודים",
+      "gloss": "Ludimin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Anamimin"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "Anamimin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Lehabimin"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "Lehabimin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Naftuhimin"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "Naftuhimin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:44.384245585Z",
+  "model": "glm-5.3"
+}

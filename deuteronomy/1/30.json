@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Jahve, Elohiminne, joka kulkee teidän edellänne, hän itse taistelee teidän puolestanne, kaiken sen mukaan kuin hän teki ⟨את⟩ teidän kanssanne Mitsrajimissa (Egyptissä) silmienne edessä.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminne"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "joka kulkee"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "teidän edellänne"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän itse"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "taistelee"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teidän puolestanne"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kaiken sen mukaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kun"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hän teki"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidän kanssanne",
+      "marks": "teidän kanssanne"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrajimissa (Egyptissä)"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "silmienne edessä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:22:57.972361452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 16:32",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Avionrikkojan vaimo — omansa sijaan hän ottaa ⟨את⟩ vieraat.",
+  "tokens": [
+    {
+      "surface": "האשה",
+      "gloss": "vaimo"
+    },
+    {
+      "surface": "המנאפת",
+      "gloss": "avionrikkojan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sijaan"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "omansa (miehensä) sijaan"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "hän ottaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vieraat"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "vieraat"
+    }
+  ],
+  "timestamp": "2026-09-07T00:57:33.252371460Z",
+  "model": "glm-5.3"
+}

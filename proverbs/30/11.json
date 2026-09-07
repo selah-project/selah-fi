@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Sukupolvi ⟨on⟩, joka isänsä kiroaa, ja ⟨את⟩ äitinsä ei siunaa.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Sukupolvi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isänsä"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "kiroaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "äitinsä"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "äitinsä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "siunaa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:19:21.132967674Z",
+  "model": "glm-5.3"
+}

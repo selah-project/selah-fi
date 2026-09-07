@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 1:20",
+  "book": "esther",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja kuninkaan käsky, jonka hän antaa, kuuluu koko hänen valtakunnassaan — suuri se ⟨on⟩ — ja kaikki naiset antavat miehilleen kunnian, suuresta pienimpään.",
+  "tokens": [
+    {
+      "surface": "ונשמע",
+      "gloss": "kuuluu"
+    },
+    {
+      "surface": "פתגם",
+      "gloss": "käsky"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "antaa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "valtakunnassaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "suuri"
+    },
+    {
+      "surface": "היא",
+      "gloss": "se"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "naiset"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "antavat"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "kunnian"
+    },
+    {
+      "surface": "לבעליהן",
+      "gloss": "miehilleen"
+    },
+    {
+      "surface": "למגדול",
+      "gloss": "suuresta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "pienimpään"
+    }
+  ],
+  "timestamp": "2026-09-07T04:42:11.899053169Z",
+  "model": "glm-5.3"
+}

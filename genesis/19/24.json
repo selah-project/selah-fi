@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 19:24",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja Jahve satoi Sedomin ja Amorahin päälle rikkiä ja tulta ⟨את⟩ Jahvelta taivaista.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ja Jahve"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "satoi"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedomin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja päälle"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorahin"
+    },
+    {
+      "surface": "גפרית",
+      "gloss": "rikkiä"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ja tulta"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ …lta",
+      "marks": "Jahvelta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-sta"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivais"
+    }
+  ],
+  "timestamp": "2026-09-06T21:11:23.114003549Z",
+  "model": "glm-5.3"
+}

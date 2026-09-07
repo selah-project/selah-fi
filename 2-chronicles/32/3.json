@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 32:3",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Ja hän neuvotteli päällikköjensä ja sankariensa kanssa sulkeakseen ⟨את⟩ lähteiden vedet, jotka olivat kaupungin ulkopuolella, ja he auttoivat häntä.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "ja neuvotteli"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "päällikköjensä"
+    },
+    {
+      "surface": "וגבריו",
+      "gloss": "ja sankariensa"
+    },
+    {
+      "surface": "לסתום",
+      "gloss": "sulkeakseen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lähteiden vedet"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "vedet"
+    },
+    {
+      "surface": "העינות",
+      "gloss": "lähteiden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ulkopuolella"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "ויעזרוהו",
+      "gloss": "ja auttoivat häntä"
+    }
+  ],
+  "timestamp": "2026-09-07T05:51:44.885430587Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja miksi te toitte ⟨את⟩ Jahven seurakunnan tähän erämaahan, kuolemaan sinne, me ja karjamme?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "ja miksi"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "toitte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven seurakunnan"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "seurakunnan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tähän"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "erämaahan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tähän"
+    },
+    {
+      "surface": "למות",
+      "gloss": "kuolemaan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sinne"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "me"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "ja karjamme"
+    }
+  ],
+  "timestamp": "2026-09-06T22:14:18.810136930Z",
+  "model": "glm-5.3"
+}

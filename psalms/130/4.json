@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 130,
+  "translation": "Sillä luonasi ⟨on⟩ anteeksianto, jotta sinua pelättäisiin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "luonasi"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "anteeksianto"
+    },
+    {
+      "surface": "למען",
+      "gloss": "jotta"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "sinua pelättäisiin"
+    }
+  ],
+  "timestamp": "2026-09-07T04:33:23.484436741Z",
+  "model": "glm-5.3"
+}

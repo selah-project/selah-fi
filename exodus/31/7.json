@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "⟨את⟩ kokousmajan ja ⟨את⟩ arkin, todistuksen ⟨arkki⟩, ja ⟨את⟩ sovituskannen, joka on sen päällä, ja ⟨את⟩ kaikki majan astiat",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kokousmajan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "majan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kokouksen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "arkin"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arkin"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "todistusta varten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sovituskannen"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "sovituskannen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "on sen päällä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "astiat"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "majan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:42:14.316040990Z",
+  "model": "glm-5.3"
+}

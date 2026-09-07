@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja vieläkin tällaisen päälle sinä avaat silmäsi, ja ⟨את⟩ minua sinä tuot oikeudenkäyntiin kanssasi.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Ja vieläkin"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tällaisen"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "avat"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "silmäsi"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "ja ⟨את⟩",
+      "marks": "minua"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "tuot"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "oikeudenkäyntiin"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kanssasi"
+    }
+  ],
+  "timestamp": "2026-09-07T03:31:23.274778677Z",
+  "model": "glm-5.3"
+}

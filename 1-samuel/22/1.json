@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 22:1",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja David lähti sieltä ja pelastautui Adullamin luolaan; hänen veljensä ja koko hänen isänsä talo kuulivat sen, ja he tulivat alas hänen luokseen sinne.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ja lähti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David (Daavid)"
+    },
+    {
+      "surface": "משם",
+      "gloss": "sieltä"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "ja pelastautui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luolaan"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "luolaan"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adullamin"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "ja kuulivat"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hänen veljensä"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja koko"
+    },
+    {
+      "surface": "בית",
+      "gloss": "talo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hänen isänsä"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "ja he tulivat alas"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänen luokseen"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sinne"
+    }
+  ],
+  "timestamp": "2026-09-06T23:14:59.412406597Z",
+  "model": "glm-5.3"
+}

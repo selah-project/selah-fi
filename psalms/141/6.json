@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 141,
+  "translation": "On heitetty kallion kylkiin heidän tuomarinsa, ja he kuulevat sanani, sillä ne ovat miellyttäviä.",
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "on heitetty"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "kylkiin"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "kallion"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "heidän tuomarinsa"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "ja he kuulevat"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "sanani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "ne ovat miellyttäviä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:53:55.980981894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 24:20",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja Aravna kurkisti ulos ja näki ⟨את⟩ kuninkaan ja ⟨את⟩ hänen palvelijansa kulkivat hänen luokseen, ja Aravna meni ulos ja kumarsi kasvot maassa kuninkaalle.",
+  "tokens": [
+    {
+      "surface": "וישקף",
+      "gloss": "Ja kurkisti ulos"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravna"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ja näki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuninkaan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "palvelijansa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "palvelijansa"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "kulkivat"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hänen luokseen"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ja meni ulos"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravna"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ja kumarsi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuninkaalle"
+    },
+    {
+      "surface": "אפיו",
+      "gloss": "kasvot"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "maassa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:23:08.340352225Z",
+  "model": "glm-5.3"
+}

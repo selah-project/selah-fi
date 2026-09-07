@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 7:23",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Kaiken tämän olen kokeillut viisaudessa; sanoin: ”Tulen viisaaksi” — mutta se on kaukana minusta.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kaiken"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "נסיתי",
+      "gloss": "olen kokeillut"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "viisaudessa"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sanoin"
+    },
+    {
+      "surface": "אחכמה",
+      "gloss": "Tulen viisaaksi"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "mutta se"
+    },
+    {
+      "surface": "רחוקה",
+      "gloss": "on kaukana"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minusta"
+    }
+  ],
+  "timestamp": "2026-09-07T04:37:42.787967013Z",
+  "model": "glm-5.3"
+}

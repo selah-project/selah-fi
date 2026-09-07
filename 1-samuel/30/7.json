@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 30:7",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja Daavid sanoi Avjatarille, kohenille (pappi), Ahimelekin pojalle: ”Tuo minulle nyt efod.” Ja Avjatar toi ⟨את⟩ efodin Daavidille.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daavid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…lle"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Avjatarille"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenille"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojalle"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimelekin"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "tuo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "ja toi"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Avjatar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efodin"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…lle"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daavidille"
+    }
+  ],
+  "timestamp": "2026-09-06T23:17:06.244628976Z",
+  "model": "glm-5.3"
+}

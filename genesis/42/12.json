@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Ja hän sanoi heille: Ei, vaan maan alastomuutta te olette tulleet katsomaan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vaan"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "alastomuuden"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "olette tulleet"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "katsomaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:23:55.321419042Z",
+  "model": "glm-5.3"
+}

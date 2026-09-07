@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 26:8",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja Avishai sanoi Davidille: Elohim on sulkenut tänään ⟨את⟩ vihollisesi sinun käteesi; ja nyt anna minun lyödä häntä, pyydän, keihäällä maahan yhdellä iskulla, enkä lyö häntä toista kertaa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Avishai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luokse"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "on sulkenut"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tänään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vihollisesi"
+    },
+    {
+      "surface": "אויבך",
+      "gloss": "vihollisesi"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "sinun käteesi"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ja nyt"
+    },
+    {
+      "surface": "אכנו",
+      "gloss": "lyön häntä"
+    },
+    {
+      "surface": "נא",
+      "gloss": "pyydän"
+    },
+    {
+      "surface": "בחנית",
+      "gloss": "keihäällä"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "ja maahan"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "iskulla"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yhdellä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "toista kertaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    }
+  ],
+  "timestamp": "2026-09-06T23:18:25.797143358Z",
+  "model": "glm-5.3"
+}

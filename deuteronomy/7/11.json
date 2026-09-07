@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja sinä pidät ⟨את⟩ käskyn ja ⟨את⟩ säädökset ja ⟨את⟩ oikeudet, jotka minä sinulle käsken tänään tekemään.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "ja sinä pidät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "käskyn"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "käskyn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "säädökset"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "säädökset"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "oikeudet"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "oikeudet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "käsken sinua"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tänään"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "tekemään niitä"
+    }
+  ],
+  "timestamp": "2026-09-07T05:59:20.615546466Z",
+  "model": "glm-5.3"
+}

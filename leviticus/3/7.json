@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Jos lammas ⟨on⟩ se, jonka hän tuo ⟨את⟩ uhrinaan, tuokoon hän ⟨את⟩ ⟨אתו⟩ Jahven eteen.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "lammas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "jonka hän tuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uhrinsa"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "uhrinaan"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "tuokoon"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "marks": "sen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-07T07:21:08.716795330Z",
+  "model": "glm-5.3"
+}

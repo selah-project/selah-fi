@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 1:20",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja sanoi Elohim: ”Parukoot vedet parvea elollisia olentoja, ja lintukoon lentävä maan päällä, taivaan vannin pinnan päällä.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישרצו",
+      "gloss": "parukoot"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vedet"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "parvea"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "elollisia"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "olentoja"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "ja lintukoon"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "lentävä"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pinnan"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "vannin"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:05:00.586072558Z",
+  "model": "glm-5.3"
+}

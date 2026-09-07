@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Riidoi asiasi ⟨את⟩ lähimmäisesi kanssa, äläkä toisen salaisuutta paljasta.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "asiasi"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "riidoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lähimmäisesi"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "lähimmäisesi"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "ja salaisuutta"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "toisen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "paljasta"
+    }
+  ],
+  "timestamp": "2026-09-07T03:14:53.666867094Z",
+  "model": "glm-5.3"
+}

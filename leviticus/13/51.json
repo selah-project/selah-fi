@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "leviticus 13:51",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja hän katsoo ⟨את⟩ taudin seitsemäntenä päivänä: jos tauti on levinnyt vaatteessa tai loimessa tai kuteessa tai nahassa, kaikessa, mihin nahkaa käytetään työhön — syöpivä spitaali se on, saastainen se on.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Ja hän katsoo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taudin"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "taudin"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "seitsemäntenä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jos"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "on levinnyt"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "tauti"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "vaatteessa"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "loimessa"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "kuteessa"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "nahassa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kaikessa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mihin"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "käytetään"
+    },
+    {
+      "surface": "העור",
+      "gloss": "nahkaa"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "työhön"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "spitaali"
+    },
+    {
+      "surface": "ממארת",
+      "gloss": "syöpivä"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "tauti"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "saastainen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se on"
+    }
+  ],
+  "timestamp": "2026-09-06T21:53:13.998922720Z",
+  "model": "glm-5.3"
+}

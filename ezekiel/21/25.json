@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Tien teet, että miekka tulee: ⟨את⟩ ammonilasten Rabbahin ja ⟨את⟩ Jehudan, Jerushalajimissa, linnoitettuun.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "Tien"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "teet"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "tulemiseen"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "miekka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ammonilasten Rabbahin"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Rabbahin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammonin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Jehudan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerushalajimissa"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "linnoitettuun"
+    }
+  ],
+  "timestamp": "2026-09-07T01:01:35.542981006Z",
+  "model": "glm-5.3"
+}

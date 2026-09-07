@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Jumalattomien väkivalta raahaa heidät pois, sillä he kieltäytyivät tekemästä oikeutta.",
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "väkivalta (ryöstö)"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jumalattomien"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "raahaa heidät pois"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "he kieltäytyivät"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "tekemästä"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "oikeutta"
+    }
+  ],
+  "timestamp": "2026-09-07T03:11:52.365745505Z",
+  "model": "glm-5.3"
+}

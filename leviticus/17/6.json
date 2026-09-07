@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 17:6",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja kohen pirskottaa ⟨את⟩ veren Jahven alttarille, kokousteltan ovelle, ja savustaa rasvan rauhoittavaksi tuoksuksi Jahvelle.",
+  "tokens": [
+    {
+      "surface": "וזרק",
+      "gloss": "ja pirskottaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veren"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "veren"
+    },
+    {
+      "surface": "על",
+      "gloss": "–lle"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alttarille"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "oven"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kokouksen"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "ja savustaa"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "rasvan"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "tuoksuksi"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "rauhoittavaksi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    }
+  ],
+  "timestamp": "2026-09-06T21:56:06.973290164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 12:1",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Efrajim ympäröi minua valheella, ja Israelin huone petoksella; ja Jehuda ⟨on⟩ yhä harhaileva Elin kanssa, ja pyhän kanssa ⟨on⟩ uskollinen.",
+  "tokens": [
+    {
+      "surface": "סבבני",
+      "gloss": "ympäröi minua"
+    },
+    {
+      "surface": "בכחש",
+      "gloss": "valheella"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "ובמרמה",
+      "gloss": "ja petoksella"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huone"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ja Jehuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yhä"
+    },
+    {
+      "surface": "רד",
+      "gloss": "harhaileva"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ja kanssa"
+    },
+    {
+      "surface": "קדושים",
+      "gloss": "pyhän"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "⟨on⟩ uskollinen"
+    }
+  ],
+  "timestamp": "2026-09-07T01:24:10.018106874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "sillä että tarttuisin ⟨את⟩ Israelin heimoon heidän omassa sydämessään — he, jotka ovat kaikki vieraantuneet minusta epäjumaliensa tähden.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "sillä että"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "tarttuisin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin heimoon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "heimo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "heidän sydämessään"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "vieraantuneet"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "minusta"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "epäjumaliensa tähden"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "kaikki"
+    }
+  ],
+  "timestamp": "2026-09-07T00:59:30.516578206Z",
+  "model": "glm-5.3"
+}

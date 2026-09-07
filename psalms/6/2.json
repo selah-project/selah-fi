@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Jahve, älä nuhtele minua vihassasi, äläkä kurita minua kiivastuksessasi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "vihassasi"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "nuhtele minua"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "äläkä"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "kiivastuksessasi"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "kurita minua"
+    }
+  ],
+  "timestamp": "2026-09-07T01:51:51.738315360Z",
+  "model": "glm-5.3"
+}

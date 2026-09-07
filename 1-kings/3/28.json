@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 3:28",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja koko Israel kuuli ⟨את⟩ tuomion, jonka kuningas oli tuominnut, ja he pelkäsivät kuningasta, sillä he näkivät, että Elohimin viisaus oli hänen sisällään tekemään oikeutta.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ja he kuulivat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuomion"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "tuomion"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "oli tuominnut"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ja he pelkäsivät"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pelossa — edessä"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningasta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "he näkivät"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "viisaus"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "hänen sisällään"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "tekemään"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "oikeutta"
+    }
+  ],
+  "timestamp": "2026-09-06T23:33:57.741400270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "palovamma palovamman sijaan, haava haavan sijaan, ruhje ruhjeen sijaan.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "palovamma"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sijaan"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "palovamman"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "haava"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sijaan"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "haavan"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "ruhje"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sijaan"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "ruhjeen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:37:20.751839953Z",
+  "model": "glm-5.3"
+}

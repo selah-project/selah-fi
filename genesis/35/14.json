@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 35:14",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 35,
+  "translation": "Ja Ja'akov (Jaakob) pystytti patsaan paikassa, jossa hän oli puhunut ⟨את⟩ hänen kanssaan, kivipatsaan; ja hän kaatoi sen päälle juomauhrin, ja hän kaatoi öljyä sen päälle.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "pystytti"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akov"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "patsaan"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "paikassa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jossa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oli puhunut"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänen kanssaan",
+      "marks": "hän"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "patsaan"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kivi-"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "kaatoi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sen päälle"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "juomauhri"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "kaatoi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sen päälle"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "öljyä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:20:44.851610636Z",
+  "model": "glm-5.3"
+}

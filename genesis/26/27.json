@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 26:27",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja Jitshak sanoi heille: Miksi te tulette minun luokseni, kun te vihasitte ⟨את⟩ minua ja ajoitte minut pois ⟨את⟩ luotanne?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshak"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "miksi"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "tulette"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minun luokseni"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "kun te"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "vihasitte"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ minua",
+      "marks": "minua"
+    },
+    {
+      "surface": "ותשלחוני",
+      "gloss": "ja ajoitte minut pois"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩ luotanne",
+      "marks": "luotanne"
+    }
+  ],
+  "timestamp": "2026-09-06T21:14:25.995678017Z",
+  "model": "glm-5.3"
+}

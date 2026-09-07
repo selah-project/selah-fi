@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja ihminen painuu kumarraan, ja mies nöyryytetään, ja ylpeiden silmät nöyryytetään.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "Ja painuu kumarraan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihminen"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "ja nöyryytetään"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "ja silmät"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "ylpeiden"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "nöyryytetään"
+    }
+  ],
+  "timestamp": "2026-09-07T00:02:51.750425311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 31:34",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Ja Rahel oli ottanut ⟨את⟩ terafimit ja pannut ne kamelin satulaan ja istui niiden päällä; ja Lavan tunnusteli ⟨את⟩ koko teltan, eikä löytänyt.",
+  "tokens": [
+    {
+      "surface": "ורחל",
+      "gloss": "Ja Rahel"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "oli ottanut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terafimit"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafimit"
+    },
+    {
+      "surface": "ותשמם",
+      "gloss": "ja pani ne"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "satulaan"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "kamelin"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "ja istui"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "niiden päällä"
+    },
+    {
+      "surface": "וימשש",
+      "gloss": "ja tunnusteli"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko teltan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "teltan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "löytänyt"
+    }
+  ],
+  "timestamp": "2026-09-06T21:18:48.568112386Z",
+  "model": "glm-5.3"
+}

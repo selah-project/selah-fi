@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "ja ⟨את⟩ jevusilaiset ja ⟨את⟩ emorilaiset ja ⟨את⟩ girgashilaiset,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "jevusilaiset"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "jevusilaiset"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "emorilaiset"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emorilaiset"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "girgashilaiset"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "girgashilaiset"
+    }
+  ],
+  "timestamp": "2026-09-07T05:11:15.938664102Z",
+  "model": "glm-5.3"
+}

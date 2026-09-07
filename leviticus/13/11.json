@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 13:11",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Vanhentunut spitaali se ⟨on⟩ hänen lihansa ihossa, ja kohen julistaa hänet saastaiseksi; häntä ei suljeta, sillä saastainen hän ⟨on⟩.",
+  "tokens": [
+    {
+      "surface": "צרעת",
+      "gloss": "spitaali"
+    },
+    {
+      "surface": "נושנת",
+      "gloss": "vanhentunut"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "ihossa"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "hänen lihansa"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "ja julistaa saastaiseksi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יסגרנו",
+      "gloss": "suljeta häntä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "saastainen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    }
+  ],
+  "timestamp": "2026-09-06T21:52:28.186316791Z",
+  "model": "glm-5.3"
+}

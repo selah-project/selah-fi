@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja David sanoi: Luovuttavatko Keilan isännät ⟨את⟩ minut ja ⟨את⟩ mieheni Shaulin käteen? Ja Jahve sanoi: He luovuttavat.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "Luovuttavatko"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "isännät"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "minut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "mieheni"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mieheni"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käteen"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "He luovuttavat"
+    }
+  ],
+  "timestamp": "2026-09-06T23:14:24.236038213Z",
+  "model": "glm-5.3"
+}

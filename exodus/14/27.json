@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 14:27",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja Moshe ojensi ⟨את⟩ kätensä meren ylle, ja meri palasi aamun kääntyessä entiseen voimaansa; ja Mitsrajim pakeni sitä kohti, ja Jahve ravisti ⟨את⟩ Mitsrajimin meren keskellä.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Ja ojensi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kätensä"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kätensä"
+    },
+    {
+      "surface": "על",
+      "gloss": "ylle"
+    },
+    {
+      "surface": "הים",
+      "gloss": "meren"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja palasi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "meri"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "kääntyessä"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "aamu"
+    },
+    {
+      "surface": "לאיתנו",
+      "gloss": "voimaansa"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "ja Mitsrajim"
+    },
+    {
+      "surface": "נסים",
+      "gloss": "pakeni"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "sitä kohti"
+    },
+    {
+      "surface": "וינער",
+      "gloss": "ja ravisti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajimin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keskellä"
+    },
+    {
+      "surface": "הים",
+      "gloss": "meren"
+    }
+  ],
+  "timestamp": "2026-09-06T21:33:55.103479435Z",
+  "model": "glm-5.3"
+}

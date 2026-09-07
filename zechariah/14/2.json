@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 14:2",
+  "book": "zechariah",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja minä kokoan ⟨את⟩ kaikki kansat Jerushalajimiin (Jerusalem) sotaan, ja kaupunki vallataan, ja talot ryöstetään, ja naiset raiskataan, ja puolet kaupungista menee pakkosiirtolaisuuteen, ja kansan jäännöstä ei hävitetä kaupungista.",
+  "tokens": [
+    {
+      "surface": "ואספתי",
+      "gloss": "Ja minä kokoan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki kansat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kansat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ihin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sotaan"
+    },
+    {
+      "surface": "ונלכדה",
+      "gloss": "ja vallataan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupunki"
+    },
+    {
+      "surface": "ונשסו",
+      "gloss": "ja ryöstetään"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "talot"
+    },
+    {
+      "surface": "והנשים",
+      "gloss": "ja naiset"
+    },
+    {
+      "surface": "תשגלנה",
+      "gloss": "raiskataan"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ja menee"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "puolet"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungista"
+    },
+    {
+      "surface": "בגולה",
+      "gloss": "pakkosiirtolaisuuteen"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ja jäännös"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "hävitetä"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-sta"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungista"
+    }
+  ],
+  "timestamp": "2026-09-07T01:50:14.956531877Z",
+  "model": "glm-5.3"
+}

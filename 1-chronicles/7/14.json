@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 7:14",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Menashen pojat: Asriel, jonka hänen aramilainen sivivaimonsa synnytti; hän synnytti ⟨את⟩ Makirin, Gil'adin isän.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashen"
+    },
+    {
+      "surface": "אשריאל",
+      "gloss": "Asriel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "פילגשו",
+      "gloss": "sivivaimonsa"
+    },
+    {
+      "surface": "הארמיה",
+      "gloss": "aramilainen"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Makirin"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makirin"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "isän"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gil'adin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:15:21.597996980Z",
+  "model": "glm-5.3"
+}

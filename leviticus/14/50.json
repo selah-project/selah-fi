@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja hän teurasta ⟨את⟩ linnuista yhden savisessa astiassa elävän veden päällä.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "ja hän teurasta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "linnun"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "linnun"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "yhden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "säiliöön"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "astiaan"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "savi-"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "מים",
+      "gloss": "veden"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "elävän"
+    }
+  ],
+  "timestamp": "2026-09-06T21:52:45.942728250Z",
+  "model": "glm-5.3"
+}

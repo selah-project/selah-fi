@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja Kots siitti ⟨את⟩ Anubin ja ⟨את⟩ Tsoveban ja Aharhelin, Harumin pojan, sukukunnat.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "Ja Kots"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anubin"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "Anub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Tsoveban"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "Tsoveba"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "ja sukukunnat"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "Aharhelin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "Harumin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:12:45.437106629Z",
+  "model": "glm-5.3"
+}

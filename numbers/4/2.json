@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Nosta ⟨את⟩ Kehatin (Kehat) poikien pään keskeltä Levin (Levi) poikia, sukukunnittain, isäinkuntiittain.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Nosta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pään"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pään"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikien"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehatin"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "keskeltä"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikia"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levin"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sukukunnittain"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "isäinkuntiittain"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "heidän isiensä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:03:26.030676884Z",
+  "model": "glm-5.3"
+}

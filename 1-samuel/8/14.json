@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja ⟨את⟩ peltonne ja ⟨את⟩ viinitarhanne ja oliivilehtonne, parhaat, hän ottaa ja antaa palvelijoilleen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "peltonne"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "peltonne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "viinitarhanne"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "viinitarhanne"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "ja oliivilehtonne"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "parhaat"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "hän ottaa"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ja antaa"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "palvelijoilleen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:05:55.208017144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja Elohim muisti ⟨את⟩ Noachin (Nooa) ja ⟨את⟩ kaiken eläimen ja ⟨את⟩ kaiken karjaeläimen, jotka ⟨את⟩ hänen kanssaan olivat arkissa, ja Elohim antoi tuulen kulkea maan ylitse, ja vedet laantuivat.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "muisti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noachin"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noachin (Nooa)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaiken eläimen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "eläimen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaiken karjaeläimen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "karjaeläimen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänen kanssaan"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "arkissa"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "antoi kulkea"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "tuulen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ylitse"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "laantuivat"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vedet"
+    }
+  ],
+  "timestamp": "2026-09-06T21:06:45.831020667Z",
+  "model": "glm-5.3"
+}

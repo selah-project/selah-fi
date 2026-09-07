@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja mene kuninkaan luo ja puhu hänelle näin. Ja Yoav pani ⟨את⟩ sanat hänen suuhunsa.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "mene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "puhu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "näin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "–"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "pani"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanat"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "suuhunsa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:23:51.128583522Z",
+  "model": "glm-5.3"
+}

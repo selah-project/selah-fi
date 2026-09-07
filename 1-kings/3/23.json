@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 3:23",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja kuningas sanoi: Tämä sanoo: Tämä ⟨on⟩ minun poikani, elävä, ja sinun poikasi kuollut; ja tämä sanoo: Ei, vaan sinun poikasi ⟨on⟩ kuollut ja minun poikani elävä.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Tämä"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Tämä"
+    },
+    {
+      "surface": "בני",
+      "gloss": "minun poikani"
+    },
+    {
+      "surface": "החי",
+      "gloss": "elävä"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "ja sinun poikasi"
+    },
+    {
+      "surface": "המת",
+      "gloss": "kuollut"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "ja tämä"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vaan"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "sinun poikasi"
+    },
+    {
+      "surface": "המת",
+      "gloss": "kuollut"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ja minun poikani"
+    },
+    {
+      "surface": "החי",
+      "gloss": "elävä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:33:15.678009661Z",
+  "model": "glm-5.3"
+}

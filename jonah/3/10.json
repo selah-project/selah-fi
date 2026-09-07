@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja Elohim näki ⟨את⟩ heidän tekonsa, että he olivat kääntyneet pahalta tieltään; ja Elohim katui pahaa, jonka hän oli puhunut tekevänsä heille, eikä hän tehnyt.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ja näki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän tekonsa"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "heidän tekonsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "he olivat kääntyneet"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "tieltään"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "pahalta"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "ja katui"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "pahaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hän oli puhunut"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "tekevänsä"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tehnyt"
+    }
+  ],
+  "timestamp": "2026-09-07T01:33:24.159679044Z",
+  "model": "glm-5.3"
+}

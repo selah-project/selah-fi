@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja te nousette väijytyksestä ja valtaatte ⟨את⟩ kaupungin, ja Jahve, teidän Elohiminne, antaa sen teidän käteenne.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Ja te"
+    },
+    {
+      "surface": "תקמו",
+      "gloss": "nousatte"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "väijytyksestä"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "ja valtaatte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaupungin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "ja antaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "teidän Elohiminne"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "teidän käteenne"
+    }
+  ],
+  "timestamp": "2026-09-06T22:42:24.898743854Z",
+  "model": "glm-5.3"
+}

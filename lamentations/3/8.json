@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Vaikka minä huudan ja avunhuudan, hän tukkii rukoukseni.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "vaikka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨kunkin⟩"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "huudan"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "ja avunhuudan"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "tukkii"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "rukoukseni"
+    }
+  ],
+  "timestamp": "2026-09-07T04:00:55.192997359Z",
+  "model": "glm-5.3"
+}

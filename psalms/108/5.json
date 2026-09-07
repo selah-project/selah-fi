@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 108:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 108,
+  "translation": "Sillä suuri on hesedsi taivaitten yläpuolella, ja sinun totuutesi pilviin asti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suuri"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "yläpuolella"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "taivaitten"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedsi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ja asti"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "pilviin"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "sinun totuutesi"
+    }
+  ],
+  "timestamp": "2026-09-07T06:56:27.901877311Z",
+  "model": "glm-5.3"
+}

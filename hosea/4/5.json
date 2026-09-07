@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja sinä kompastut päivällä, ja navi ⟨se⟩ myös kompastuu yöllä kanssasi, ja minä hävitän äitisi.",
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "ja sinä kompastut"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päivällä"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "ja kompastuu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "navi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kanssasi"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "yöllä"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "ja minä hävitän"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "äitisi"
+    }
+  ],
+  "timestamp": "2026-09-07T01:21:10.552973762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 94,
+  "translation": "Lesken ja muukalaisen he tappavat, ja orvoja he murhaavat.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "lesken"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "ja muukalaisen"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "he tappavat"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "ja orvat"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "he murhaavat"
+    }
+  ],
+  "timestamp": "2026-09-07T02:32:06.749364454Z",
+  "model": "glm-5.3"
+}

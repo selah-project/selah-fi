@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 42:1",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Ja Iyov (Job) vastasi ⟨את⟩ Jahvea ja sanoi:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Ja vastasi"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    }
+  ],
+  "timestamp": "2026-09-07T03:53:11.994507524Z",
+  "model": "glm-5.3"
+}

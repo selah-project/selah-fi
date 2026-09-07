@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 8:8",
+  "book": "nehemiah",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja he lukivat kirjasta, Elohimin Torasta, selittäen ja ymmärrystä antaen; ja he ymmärsivät luennasta.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "lukivat"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "kirjasta"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "Torasta"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "מפרש",
+      "gloss": "selittäen"
+    },
+    {
+      "surface": "ושום",
+      "gloss": "antaen"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "ymmärrystä"
+    },
+    {
+      "surface": "ויבינו",
+      "gloss": "ymmärsivät"
+    },
+    {
+      "surface": "במקרא",
+      "gloss": "luennasta"
+    }
+  ],
+  "timestamp": "2026-09-07T05:06:37.509851801Z",
+  "model": "glm-5.3"
+}

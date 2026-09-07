@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "kuva jostakin eläimestä, joka on maan päällä, kuva jostakin siivekkäästä linnusta, joka lentää taivaissa —",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "kuva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jostakin"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "eläimestä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "on maan päällä"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "kuva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jostakin"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "linnusta"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "siivekkäästä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "lentää"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "taivaissa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:25:58.520442282Z",
+  "model": "glm-5.3"
+}

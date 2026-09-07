@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Mutta minä ⟨olen⟩ mato enkä mies, ihmisten häväistys ja kansan halveksima.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "mutta minä"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "mato"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "häväistys"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmisten"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "ja halveksima"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:56:45.670659343Z",
+  "model": "glm-5.3"
+}

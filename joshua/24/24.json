@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja kansa sanoi Jehoshualle: ”⟨את⟩ Jahvea, Elohimiamme, me palvelemme, ja hänen ääntänsä me kuulemme.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshualle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimiamme"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "me palvelemme"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "ja hänen ääntänsä"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "me kuulemme"
+    }
+  ],
+  "timestamp": "2026-09-06T22:50:46.464662890Z",
+  "model": "glm-5.3"
+}

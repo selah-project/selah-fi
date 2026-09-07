@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 1:20",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja he antoivat Kaleville ⟨את⟩ Hevronin (Hebron), niin kuin Moshe (Mooses) oli puhunut; ja hän ajoi sieltä pois ⟨את⟩ kolme Anakin (Anak) poikaa.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "antoivat"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kaleville"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevronin"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevronin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oli puhunut"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויורש",
+      "gloss": "ajoi pois"
+    },
+    {
+      "surface": "משם",
+      "gloss": "sieltä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kolme Anakin poikaa"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikaa"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "Anakin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:50:53.222587742Z",
+  "model": "glm-5.3"
+}

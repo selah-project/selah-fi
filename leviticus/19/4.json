@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Älkää kääntykö jumalpatsaiden puoleen älkääkä valsuja jumalia tehkö itsellenne; minä olen Jahve, Elohiminne.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "kääntykö"
+    },
+    {
+      "surface": "אל",
+      "gloss": "puoleen"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "jumalpatsaiden"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "äkääkä jumalia"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "valsuja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "tehkö"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "itsellenne"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminne"
+    }
+  ],
+  "timestamp": "2026-09-06T21:56:01.131903570Z",
+  "model": "glm-5.3"
+}

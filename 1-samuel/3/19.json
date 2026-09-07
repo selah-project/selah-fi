@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 3:19",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja Shemuel kasvoi, ja Jahve oli hänen kanssaan, eikä hän antanut yhdenkään hänen sanoistaan pudota maahan.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "Ja kasvoi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ja Jahve"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hänen kanssaan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "הפיל",
+      "gloss": "antanut pudota"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "yhdenkään"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "hänen sanoistaan"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "maahan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:06:02.161858819Z",
+  "model": "glm-5.3"
+}

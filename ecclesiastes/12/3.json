@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 12:3",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "sinä päivänä, jona vapisevat talon vartijat ja kumartuvat voimaiset miehet, ja jauhajat lakkaavat, koska ne ovat vähentyneet, ja pimenevät ne, jotka katsovat ikkunoista,",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sinä päivänä"
+    },
+    {
+      "surface": "שיזעו",
+      "gloss": "jona vapisevat"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "vartijat"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "והתעותו",
+      "gloss": "ja kumartuvat"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "voimaiset"
+    },
+    {
+      "surface": "ובטלו",
+      "gloss": "ja lakkaavat"
+    },
+    {
+      "surface": "הטחנות",
+      "gloss": "jauhajat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "מעטו",
+      "gloss": "vähentyneet"
+    },
+    {
+      "surface": "וחשכו",
+      "gloss": "ja pimenevät"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "ne, jotka katsovat"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "ikkunoista"
+    }
+  ],
+  "timestamp": "2026-09-07T04:39:48.970434577Z",
+  "model": "glm-5.3"
+}

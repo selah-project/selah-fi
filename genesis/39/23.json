@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 39:23",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 39,
+  "translation": "Vankilan päällikkö ei katsonut ⟨את⟩ mitään, mikä oli hänen kädessään, koska Jahve oli ⟨את⟩ hänen kanssaan; ja minkä hän teki, Jahve menestytti.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "שר",
+      "gloss": "vankilan päällikön"
+    },
+    {
+      "surface": "בית",
+      "gloss": "vankilan"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "vankeinhoitolaitoksen"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "katsonut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitään"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yhtään"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "mitään"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "hänen kädessään"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "koska"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänen kanssaan"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ja minkä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "menestytti"
+    }
+  ],
+  "timestamp": "2026-09-06T21:21:55.573974631Z",
+  "model": "glm-5.3"
+}

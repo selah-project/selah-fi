@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ahavin kuolleista kaupungissa syövät koirat, ja kuolleista kedolla syövät taivaan linnut.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "kuolleista"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "Ahavin"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kaupungissa"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "syövät"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "koirat"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "ja kuolleista"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kedolla"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "syövät"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "linnut"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:43:33.353413503Z",
+  "model": "glm-5.3"
+}

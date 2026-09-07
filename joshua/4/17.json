@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja Jehoshua käski ⟨את⟩ kohenien (pappien) sanoen: Nouskaa Yardenista.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ja käski"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kohenien"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohenien (pappien)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "nouskaa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…sta"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-09-06T22:39:41.997971412Z",
+  "model": "glm-5.3"
+}

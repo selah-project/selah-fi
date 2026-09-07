@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 85,
+  "translation": "Käännä meidät takaisin, pelastuksemme Elohim, ja pura kiivuutesi meitä vastaan.",
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "Käännä meidät takaisin"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "pelastuksemme"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "ja pura"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "kiivuutesi"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "meitä vastaan"
+    }
+  ],
+  "timestamp": "2026-09-07T02:29:44.458985615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 50:8",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 50,
+  "translation": "Ja kaikkien Josefin talon, ja hänen veljiensä, ja hänen isänsä talon — ainoastaan pikkulapsensa ja lampaansa ja karjansa he jättivät Goshenin maahan.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ja kaikkien"
+    },
+    {
+      "surface": "בית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefin"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ja hänen veljiensä"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ja talon"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hänen isänsä"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ainoastaan"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "pikkulapsensa"
+    },
+    {
+      "surface": "וצאנם",
+      "gloss": "ja lampaansa"
+    },
+    {
+      "surface": "ובקרם",
+      "gloss": "ja karjansa"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "he jättivät"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Goshenin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:27:40.475959202Z",
+  "model": "glm-5.3"
+}

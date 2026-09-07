@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 43,
+  "translation": "Ja he valmistivat ⟨את⟩ lahjan siihen asti, kun Josef (Joosef) tulisi keskipäivällä, sillä he olivat kuulleet, että siellä he söisivät leipää.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "Ja he valmistivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lahjan"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "lahjan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "siihen asti"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "tullessa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "keskipäivällä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "he olivat kuulleet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "he söisivät"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    }
+  ],
+  "timestamp": "2026-09-06T21:24:54.402034966Z",
+  "model": "glm-5.3"
+}

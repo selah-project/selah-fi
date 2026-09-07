@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Jahve Elohim istutti puutarhan Edeniin (Eden), itään, ja sinne hän asetti ⟨את⟩ ihmisen, jonka hän oli muovannut.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "Ja istutti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "puutarhan"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "Edeniin"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "itään"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ja asetti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sinne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihmisen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihmisen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "hän oli muovannut"
+    }
+  ],
+  "timestamp": "2026-09-06T21:04:25.078978785Z",
+  "model": "glm-5.3"
+}

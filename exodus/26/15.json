@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja tee ⟨את⟩ laidat Mishkanille: shittim-puuta (akaasiapuuta), seisovina.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ja tee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laidat"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "laidat"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Mishkanille"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "puuta"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim-"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "seisovina"
+    }
+  ],
+  "timestamp": "2026-09-06T21:39:39.781882065Z",
+  "model": "glm-5.3"
+}

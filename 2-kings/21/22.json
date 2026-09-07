@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 21:22",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja hän hylkäsi ⟨את⟩ Jahven, isäinsä Elohimin, eikä kulkenut Jahven tietä.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "Ja hän hylkäsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "isäinsä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "kulkenut"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tietä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-06T23:57:19.257680161Z",
+  "model": "glm-5.3"
+}

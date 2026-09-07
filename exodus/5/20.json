@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 5:20",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja he kohtasivat ⟨את⟩ Moshen (Mooses) ja ⟨את⟩ Aharonin (Aaron), jotka seisoivat heitä vastassa heidän lähtiessään Paron (farao) luota ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויפגעו",
+      "gloss": "Ja he kohtasivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshen (Mooses)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Aharonin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonin (Aaron)"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "seisoivat"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "heitä vastassa"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "lähtiessään"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "luota ⟨את⟩"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron (farao)"
+    }
+  ],
+  "timestamp": "2026-09-06T21:30:47.924474744Z",
+  "model": "glm-5.3"
+}

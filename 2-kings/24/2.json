@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 24:2",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja Jahve lähetti hänen kimppuunsa ⟨את⟩ kasdilaisten (kaldealaisten) ryöstöjoukot ja ⟨את⟩ Aramin (Syyrian) ryöstöjoukot ja ⟨את⟩ Moabin (Moab) ryöstöjoukot ja ⟨את⟩ Ammonin lasten ryöstöjoukot, ja hän lähetti ne Yehudaan (Juuda) hävittämään sitä, Jahven sanan mukaan, jonka hän puhui palvelijoidensa profeettojen kautta.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ja lähetti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hänen kimppuunsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasdilaisten ryöstöjoukot"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "ryöstöjoukot"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "kasdilaisten"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Aramin ryöstöjoukot"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "ryöstöjoukot"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Moabin ryöstöjoukot"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "ryöstöjoukot"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Ammonin lasten ryöstöjoukot"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "ryöstöjoukot"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "ja lähetti ne"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yehudaan"
+    },
+    {
+      "surface": "להאבידו",
+      "gloss": "hävittämään sitä"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sanan mukaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hän puhui"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kautta"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "palvelijoidensa"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "profeettojen"
+    }
+  ],
+  "timestamp": "2026-09-07T00:00:59.401661801Z",
+  "model": "glm-5.3"
+}

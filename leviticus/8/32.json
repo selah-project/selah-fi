@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja lihasta ja leivästä jäljelle jäävättä polttakaa tulessa.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "ja jäljelle jäävä"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "lihasta"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "ja leivästä"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulessa"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "polttakaa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:51:34.075712398Z",
+  "model": "glm-5.3"
+}

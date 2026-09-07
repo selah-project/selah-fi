@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Sillä Ezra oli valmistanut sydämensä etsiäkseen ⟨את⟩ Jahven Tora (Toora) ja noudattaaksesseen sitä ja opettaakseen Israelissa säädöksen ja oikeuden.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "oli valmistanut"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "sydämensä"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "etsiäkseen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven Tora"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "ja noudattaaksesseen"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "ja opettaakseen"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israelissa"
+    },
+    {
+      "surface": "חק",
+      "gloss": "säädöksen"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ja oikeuden"
+    }
+  ],
+  "timestamp": "2026-09-07T04:56:17.214105880Z",
+  "model": "glm-5.3"
+}

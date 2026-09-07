@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 149,
+  "translation": "Iloitkoon Israel tekijässään, Tsijonin ⟨Siion⟩ pojat riemulkoot kuninkaassaan.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "Iloitkoon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "tekijässään"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijonin"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "riemulkoot"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "kuninkaassaan"
+    }
+  ],
+  "timestamp": "2026-09-07T06:56:13.982883628Z",
+  "model": "glm-5.3"
+}

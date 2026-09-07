@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 21:13",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja Aharonin (Aaronin) pojille, kohenille (papeille), he antoivat ⟨את⟩ turvakaupungin surmaajalle, ⟨את⟩ Hevronin (Hebronin) ja ⟨את⟩ sen laidunmaat, ja ⟨את⟩ Livnan (Libnan) ja ⟨את⟩ sen laidunmaat.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Ja … pojille"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonin"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenille"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "he antoivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "turvakaupungin"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kaupunki"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "turvapaikka"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "surmaajalle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevronin"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevronin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen laidunmaat"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sen laidunmaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Livnan"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livnan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen laidunmaat"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sen laidunmaat"
+    }
+  ],
+  "timestamp": "2026-09-06T22:48:21.611717369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Sillä hänen ruhtinansa olivat Tsoanissa (Zoanissa), ja hänen lähettiläänsä saapuvat Hanesiin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "היו",
+      "gloss": "olivat"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "Tsoanissa"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "hänen ruhtinansa"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "ja hänen lähettiläänsä"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "Hanesiin"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "saapuvat"
+    }
+  ],
+  "timestamp": "2026-09-07T00:10:15.742363681Z",
+  "model": "glm-5.3"
+}

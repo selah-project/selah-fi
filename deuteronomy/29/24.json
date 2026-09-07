@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 29:24",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja he sanovat: siksi että he hylkäsivät ⟨את⟩ Jahven, heidän isiensä Elohimin, liiton, jonka hän teki heidän kanssaan viedessään ⟨את⟩ heidät ulos Mitsrajimin (Egyptin) maasta.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "ja he sanovat"
+    },
+    {
+      "surface": "על",
+      "gloss": "siksi että"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "he hylkäsivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liiton"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "liiton"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "heidän isiensä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "hän teki"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "heidän kanssaan"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "viedessään ulos"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ heidät"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:36:36.173221175Z",
+  "model": "glm-5.3"
+}

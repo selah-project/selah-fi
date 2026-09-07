@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "kansan, jolla on ankarat kasvot, joka ei ota vanhuksen kasvoja huomioon eikä nuorelle osoita armoa.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ankarat"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "kasvot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ota huomioon"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "kasvoja"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "vanhuksen"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "eikä nuorelle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "osoita armoa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:36:26.221080385Z",
+  "model": "glm-5.3"
+}

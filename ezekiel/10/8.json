@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 10:8",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja kerubeissa näkyi ihmiskäden muoto heidän siipiensä alla.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ja näkyi"
+    },
+    {
+      "surface": "לכרבים",
+      "gloss": "kerubeissa"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "muoto"
+    },
+    {
+      "surface": "יד",
+      "gloss": "käden"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmisen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alla"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "heidän siipiensä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:55:08.601095378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Näet paljon, mutta et pidä mielessä; korvat ovat avoinna, mutta ei kuulla.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "Näet"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "paljon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mutta et"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "pidä mielessä"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "avoinna"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "korvat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mutta ei"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "kuulla"
+    }
+  ],
+  "timestamp": "2026-09-07T00:15:03.642849871Z",
+  "model": "glm-5.3"
+}

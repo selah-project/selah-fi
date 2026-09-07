@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja Moab kapinoi Israelia vastaan Ahavin (Ahab) kuoleman jälkeen.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "ja kapinoi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israelia vastaan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "jälkeen"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kuoleman"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahavin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:47:48.572732803Z",
+  "model": "glm-5.3"
+}

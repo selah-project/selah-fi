@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 9:16",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Jos huutaisin ja hän vastaisi minulle, en uskoisi, että hän kuuntelisi ääntäni.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "huutaisin"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "vastaisi minulle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אאמין",
+      "gloss": "uskoisi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "kuuntelisi"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ääntäni"
+    }
+  ],
+  "timestamp": "2026-09-07T03:27:04.924068487Z",
+  "model": "glm-5.3"
+}

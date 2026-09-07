@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja heidän asuinsijansa oli Meshaan saakka, kuljettaessa Sephariin, itäiseen vuoreen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja oli"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "heidän asuinsijansa"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "Meshaan saakka"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "kuljettaessa"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "Sephariin"
+    },
+    {
+      "surface": "הר",
+      "gloss": "vuoreen"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "itäiseen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:09.995952649Z",
+  "model": "glm-5.3"
+}

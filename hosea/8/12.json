@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 8:12",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Kirjoitan hänelle tuhansittain Torani (Toorani) säädöksiä — ne luettiin vieraan asian kaltaisiksi.",
+  "tokens": [
+    {
+      "surface": "אכתוב",
+      "gloss": "Kirjoitan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "tuhansittain"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Torani"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kuin"
+    },
+    {
+      "surface": "זר",
+      "gloss": "vieraan"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "ne luettiin"
+    }
+  ],
+  "timestamp": "2026-09-07T01:22:47.922977651Z",
+  "model": "glm-5.3"
+}

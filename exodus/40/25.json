@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ja hän sytytti lamput Jahven edessä, niin kuin Jahve oli käskenyt ⟨את⟩ Moshea (Mooses).",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "sytytti"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "lamput"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oli käskenyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshea (Mooses)"
+    }
+  ],
+  "timestamp": "2026-09-06T21:47:05.553695297Z",
+  "model": "glm-5.3"
+}

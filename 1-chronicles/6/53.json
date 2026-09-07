@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-chronicles 6:53",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "ja ⟨את⟩ Jokmeamin ja ⟨את⟩ sen laidunmaat ja ⟨את⟩ Beit-Horonin ja ⟨את⟩ sen laidunmaat.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Jokmeamin"
+    },
+    {
+      "surface": "יקמעם",
+      "gloss": "Jokmeamin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen laidunmaat"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "sen laidunmaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Beit-Horonin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horonin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen laidunmaat"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "sen laidunmaat"
+    }
+  ],
+  "timestamp": "2026-09-07T05:15:37.800570525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 9:20",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Vaikka olisin vanhurskas, suuni julistaa minut syylliseksi; vaikka olisin viaton — hän kieroontaa minut.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "vaikka"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "olisin vanhurskas"
+    },
+    {
+      "surface": "פי",
+      "gloss": "suuni"
+    },
+    {
+      "surface": "ירשיעני",
+      "gloss": "julistaa minut syylliseksi"
+    },
+    {
+      "surface": "תם",
+      "gloss": "viaton"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "ויעקשני",
+      "gloss": "hän kieroontaa minut"
+    }
+  ],
+  "timestamp": "2026-09-07T04:36:20.369171841Z",
+  "model": "glm-5.3"
+}

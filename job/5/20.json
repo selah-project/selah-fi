@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 5:20",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Nälässä hän lunastaa sinut kuolemasta, ja sodassa miekan käsistä.",
+  "tokens": [
+    {
+      "surface": "ברעב",
+      "gloss": "Nälässä"
+    },
+    {
+      "surface": "פדך",
+      "gloss": "hän lunastaa sinut"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "kuolemasta"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "ja sodassa"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "käsistä"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "miekan"
+    }
+  ],
+  "timestamp": "2026-09-07T03:27:06.991066536Z",
+  "model": "glm-5.3"
+}

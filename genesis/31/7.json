@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Ja isänne petti minut ja vaihtoi ⟨את⟩ palkkani kymmenen kertaa, mutta Elohim ei antanut hänen vahingoittaa minua.",
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "Ja isänne"
+    },
+    {
+      "surface": "התל",
+      "gloss": "petti"
+    },
+    {
+      "surface": "בי",
+      "gloss": "minut"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "ja vaihtoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palkkani"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "palkkani"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "kymmenen"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "kertaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mutta ei"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "antanut"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "vahingoittaa"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "minua"
+    }
+  ],
+  "timestamp": "2026-09-06T21:18:43.658488304Z",
+  "model": "glm-5.3"
+}

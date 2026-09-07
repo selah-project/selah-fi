@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 55,
+  "translation": "Sillä ajatukseni eivät ole teidän ajatuksianne, eivätkä teidän tienne ole minun teitäni, sanoo Jahve — ⟨tämä on⟩ Jahven oraakkeli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "ajatukseni"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "teidän ajatuksianne"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "teidän tienne"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "minun teitäni"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oraakkeli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-07T00:18:00.571765363Z",
+  "model": "glm-5.3"
+}

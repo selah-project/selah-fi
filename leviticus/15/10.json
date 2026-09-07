@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 15:10",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Ja jokainen, joka koskettaa mitä tahansa, mikä ⟨on⟩ hänen allansa, tulee epäpuhtaaksi iltaan asti; ja joka kantaa ⟨את⟩ niitä, pesköön vaatteensa ja peseytyköön vedessä, ja hän ⟨on⟩ epäpuhdas iltaan asti.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ja jokainen"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "joka koskettaa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mihin tahansa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "on"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "hänen allansa"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "tulee epäpuhtaaksi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "iltaan"
+    },
+    {
+      "surface": "והנושא",
+      "gloss": "ja joka kantaa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "niitä"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "pesköön"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "vaatteensa"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ja peseytyköön"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vedessä"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ja hän on epäpuhdas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "iltaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:54:58.687879197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 22:10",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja kirjuri Shafan ilmoitti kuninkaalle sanoen: pappi Hilkia antoi minulle kirjan. Ja Shafan luki sen kuninkaan edessä.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Ja ilmoitti"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafan"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "kirjuri"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuninkaalle"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kirjan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "antoi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Hilkia"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pappi"
+    },
+    {
+      "surface": "ויקראהו",
+      "gloss": "ja luki sen"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:57:52.483909090Z",
+  "model": "glm-5.3"
+}

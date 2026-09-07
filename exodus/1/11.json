@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja he asettivat sen päälle pakkotyön johtajat painittaakseen sitä taakoillaan; ja se rakensi varastokaupungit Parolle (farao): ⟨את⟩ Pitomin (Pithom) ja ⟨את⟩ Ra'meseksen (Raamses).",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "Ja he asettivat"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sen päälle"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "johtajat"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "pakkotyön"
+    },
+    {
+      "surface": "למען",
+      "gloss": "painittaakseen"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "sitä"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "taakoillaan"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ja se rakensi"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kaupungit"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "varasto-"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Parolle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pitomin"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "Pitomin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Ra'meseksen"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Ra'meseksen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:28:42.734308667Z",
+  "model": "glm-5.3"
+}

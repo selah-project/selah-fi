@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "⟨את⟩ kenet hän opettaa tietoa, ja ⟨את⟩ kenet hän tekee ymmärtämään sanoman? Vieroitettuja maidosta, rinnasta erotettuja.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenet"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kenet"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "opettaa"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "tietoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kenet"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kenet"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "tekee ymmärtämään"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "sanoman"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "vieroitettuja"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "maidosta"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "erotettuja"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "rinnasta"
+    }
+  ],
+  "timestamp": "2026-09-07T00:07:58.593097949Z",
+  "model": "glm-5.3"
+}

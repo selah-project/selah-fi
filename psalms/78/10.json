@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 78,
+  "translation": "Eivät he pitäneet Elohimin Beritiä (liitto), ja hänen Torassaan (Toora) he kieltäytyivät vaeltamasta.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "pitäneet"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Beritiä"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "ja hänen Torassaan"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "he kieltäytyivät"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "vaeltamasta"
+    }
+  ],
+  "timestamp": "2026-09-07T02:23:54.730505964Z",
+  "model": "glm-5.3"
+}

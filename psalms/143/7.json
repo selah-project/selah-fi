@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 143,
+  "translation": "Kiiruhda vastata minua, Jahve, henkeni loppuu; älä kätke kasvojasi minulta, tai minä tulen kaltaiseksi niiden kanssa, jotka laskeutuvat kuoppaan.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "Kiiruhda"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "vastata minua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "loppuu"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "henkeni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "kätke"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "kasvojasi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minulta"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "tulen kaltaiseksi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "niiden kanssa"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "laskeutuvat"
+    },
+    {
+      "surface": "בור",
+      "gloss": "kuoppaan"
+    }
+  ],
+  "timestamp": "2026-09-07T02:54:33.520557404Z",
+  "model": "glm-5.3"
+}

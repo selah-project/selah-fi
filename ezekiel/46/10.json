@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 46:10",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 46,
+  "translation": "Ja nasi (ruhtinas) heidän keskellään: kun he tulevat sisään, hän tulee sisään, ja kun he lähtevät ulos, hän lähtee ulos.",
+  "tokens": [
+    {
+      "surface": "והנשיא",
+      "gloss": "ja nasi"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "heidän keskellään"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "kun he tulevat"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "hän tulee sisään"
+    },
+    {
+      "surface": "ובצאתם",
+      "gloss": "ja kun he lähtevät"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "hän lähtee ulos"
+    }
+  ],
+  "timestamp": "2026-09-07T01:17:38.774065135Z",
+  "model": "glm-5.3"
+}

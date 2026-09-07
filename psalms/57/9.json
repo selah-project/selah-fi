@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 57,
+  "translation": "Herää, kunniani; herää, nebel ja kinnor; minä herätän aamuruskon.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Herää"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "kunniani"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "herää"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nebel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ja kinnor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "minä herätän"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "aamuruskon"
+    }
+  ],
+  "timestamp": "2026-09-07T02:12:19.226963026Z",
+  "model": "glm-5.3"
+}

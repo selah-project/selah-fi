@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Toinen hammas, jyrkänne, oli pohjoisessa Mikhmasta vastapäätä, ja toinen etelässä Gevaa vastapäätä.",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "hammas"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "toinen"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "jyrkänne"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "pohjoisessa"
+    },
+    {
+      "surface": "מול",
+      "gloss": "vastapäätä"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Mikhmasta"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "ja toinen"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "etelässä"
+    },
+    {
+      "surface": "מול",
+      "gloss": "vastapäätä"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Gevaa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:09:54.481513602Z",
+  "model": "glm-5.3"
+}

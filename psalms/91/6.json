@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 91,
+  "translation": "Rutosta, joka kulkee pimeydessä, tuhosta, joka hävittää keskipäivällä.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "rutosta"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "pimeydessä"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "kulkee"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "tuhosta"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "hävittää"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "keskipäivällä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:33:47.542436129Z",
+  "model": "glm-5.3"
+}

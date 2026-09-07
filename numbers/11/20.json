@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 11:20",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "kuukauden päivät, kunnes se tulee ulos sieraimistanne, ja se on teille vastenmielinen, koska te olette hyljänneet ⟨את⟩ Jahven, joka on teidän keskellänne, ja olette itkenneet hänen edessään sanoen: Miksi tämä? Me lähdimmekö pois Mitsrajimista?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "kuukauden"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivät"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "se tulee ulos"
+    },
+    {
+      "surface": "מאפכם",
+      "gloss": "sieraimistanne"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ja se on"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "לזרא",
+      "gloss": "vastenmielinen"
+    },
+    {
+      "surface": "יען",
+      "gloss": "koska"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "מאסתם",
+      "gloss": "te olette hyljänneet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "on teidän keskellänne"
+    },
+    {
+      "surface": "ותבכו",
+      "gloss": "ja olette itkenneet"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "hänen edessään"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miksi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "יצאנו",
+      "gloss": "me lähdimmekö"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "pois Mitsrajimista"
+    }
+  ],
+  "timestamp": "2026-09-07T04:14:58.416437340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Sillä Jahve näki ⟨את⟩ Israelin kurjuuden — hyvin katkeraa — niin ettei ollut suljettua eikä jätettyä eikä auttajaa Israelille.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "näki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin kurjuuden"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kurjuuden"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "katkeraa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hyvin"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "eikä ollut"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "suljettua"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "jätettyä"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "auttajaa"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israelille"
+    }
+  ],
+  "timestamp": "2026-09-06T23:54:30.270332146Z",
+  "model": "glm-5.3"
+}

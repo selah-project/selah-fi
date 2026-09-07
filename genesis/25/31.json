@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja Ja'akov sanoi: Myy tänään ⟨את⟩ esikoisoikeutesi minulle.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akov"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "Myy"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "tänään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "esikoisoikeutesi"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "esikoisoikeutesi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    }
+  ],
+  "timestamp": "2026-09-06T21:14:37.936324682Z",
+  "model": "glm-5.3"
+}

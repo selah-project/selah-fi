@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 16:28",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Kierousmäinen mies lähettää riidan, ja kuiskuttelija erottaa läheisen ystävän.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "Kierousmäinen"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "lähettää"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "riidan"
+    },
+    {
+      "surface": "ונרגן",
+      "gloss": "ja kuiskuttelija"
+    },
+    {
+      "surface": "מפריד",
+      "gloss": "erottaa"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "läheisen ystävän"
+    }
+  ],
+  "timestamp": "2026-09-07T03:09:37.561385349Z",
+  "model": "glm-5.3"
+}

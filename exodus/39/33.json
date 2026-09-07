@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 39,
+  "translation": "Ja he toivat ⟨את⟩ Mishkanin (asumuksen) Moshelle (Mooses), ⟨את⟩ teltan ja ⟨את⟩ kaikki sen kalusteen, sen solkinsa, sen laudanpäänsä, sen poikkipuunsa ja sen pylväänsä ja sen jalustansa.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "Ja he toivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkanin"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanin (asumuksen)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Moshelle"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshelle (Mooses)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teltan"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "teltan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki sen kalusteen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sen kalusteen"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "sen solkinsa"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "sen laudanpäänsä"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "sen poikkipuunsa"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "ja sen pylväänsä"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "ja sen jalustansa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:46:32.497407496Z",
+  "model": "glm-5.3"
+}

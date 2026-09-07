@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Kaiken ⟨את⟩ sanan, jonka minä käsken ⟨את⟩ teitä ⟨noudattamaan⟩, ⟨את⟩ sitä pitäkää tekemään; älkää lisätkö siihen älkääkä vähentäkö siitä.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken sanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "käsken"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teitä"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sitä"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "pitäkää"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "tekemään"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "lisätkö"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "siihen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "älkätkö"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "vähentäkö"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "siitä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:30:24.533831710Z",
+  "model": "glm-5.3"
+}

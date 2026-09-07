@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 8:12",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "ja asettaa itselleen tuhannenpäälliköitä ja viidenkymmenen päälliköitä, ja kyntämään hänen kyntömaansa ja leikkaamaan hänen sadonkorjuunsa, ja tekemään hänen sotakalunsa ja hänen vaunujensa kalun.",
+  "tokens": [
+    {
+      "surface": "ולשום",
+      "gloss": "ja asettaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "itselleen"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "päälliköitä"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tuhannen-"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ja päälliköitä"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "viidenkymmenen"
+    },
+    {
+      "surface": "ולחרש",
+      "gloss": "ja kyntämään"
+    },
+    {
+      "surface": "חרישו",
+      "gloss": "hänen kyntömaansa"
+    },
+    {
+      "surface": "ולקצר",
+      "gloss": "ja leikkaamaan"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "hänen sadonkorjuunsa"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "ja tekemään"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kalun"
+    },
+    {
+      "surface": "מלחמתו",
+      "gloss": "hänen sota-"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "ja kalun"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "hänen vaunujensa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:06:15.151172592Z",
+  "model": "glm-5.3"
+}

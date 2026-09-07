@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja minä poistan ⟨את⟩ baalien nimet hänen suustaan, eikä niiden nimiä enää muisteta.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "Ja minä poistan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nimet"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nimet"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "baalien"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "hänen suustaan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "muisteta"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enää"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "niiden nimillä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:21:32.547269386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja sinä pidä hänet pyhänä, sillä ⟨את⟩ sinun Elohimesi leipää hän tuo esiin; pyhä hän olkoon sinulle, sillä pyhä minä olen, Jahve, joka teidät pyhitän.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "ja pyhitä hänet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinun Elohimesi leipää"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimesi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "tuo esiin"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhä"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olkoon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "pyhä"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "joka teidät pyhitän"
+    }
+  ],
+  "timestamp": "2026-09-06T21:57:56.079582017Z",
+  "model": "glm-5.3"
+}

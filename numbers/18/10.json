@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Pyhimmässä pyhistä sinä syöt sen; jokainen miespuoli syö ⟨את⟩ sen; pyhä se olkoon sinulle.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "pyhimmässä"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "pyhistä"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "sinä syöt sen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokainen"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "miespuoli"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "syö"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhä"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olkoon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    }
+  ],
+  "timestamp": "2026-09-06T22:11:43.657606918Z",
+  "model": "glm-5.3"
+}

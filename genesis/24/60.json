@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "genesis 24:60",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja he siunasivat ⟨את⟩ Rivkan ja sanoivat hänelle: Sisaremme, sinä — tule ⟨äidiksi⟩ tuhansille ja kymmenille tuhansille, ja sinun siemenesi peretköön ⟨את⟩ vihollistensa portit.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "ja he siunasivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivkan"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivkan"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ja sanoivat"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "אחתנו",
+      "gloss": "sisaremme"
+    },
+    {
+      "surface": "את",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "היי",
+      "gloss": "tule"
+    },
+    {
+      "surface": "לאלפי",
+      "gloss": "tuhansille"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "kymmenille tuhansille"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "ja peretköön"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sinun siemenesi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vihollistensa portit"
+    },
+    {
+      "surface": "שער",
+      "gloss": "portit"
+    },
+    {
+      "surface": "שנאיו",
+      "gloss": "vihollistensa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:15:39.009419602Z",
+  "model": "glm-5.3"
+}

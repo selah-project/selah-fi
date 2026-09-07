@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Katso, minä olen pannut sinun eteesi tänä päivänä ⟨את⟩ elämän ja ⟨את⟩ hyvän, ja ⟨את⟩ kuoleman ja ⟨את⟩ pahan.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "minä olen pannut"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sinun eteesi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tänä päivänä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elämän"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "elämän"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hyvän"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "hyvän"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kuoleman"
+    },
+    {
+      "surface": "המות",
+      "gloss": "kuoleman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "pahan"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "pahan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:35:52.057836470Z",
+  "model": "glm-5.3"
+}

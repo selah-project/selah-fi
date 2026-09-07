@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 7:27",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja hän teki ⟨את⟩ jalustat, kymmenen, vaskesta; neljä kyynärää ⟨oli⟩ yhden jalustan pituus, ja neljä kyynärää sen leveys, ja kolme kyynärää sen korkeus.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ja hän teki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalustat"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "jalustat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kymmenen"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "vaskesta"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "neljä"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "pituus"
+    },
+    {
+      "surface": "המכונה",
+      "gloss": "jalustan"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "yhden"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ja neljä"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "leveys"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ja kolme"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "korkeus"
+    }
+  ],
+  "timestamp": "2026-09-06T23:36:21.227808688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja näitä te ette saa syödä niistä: kotka, partakotka ja mustakotka.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ja näitä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ette"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "te saa syödä"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "niistä"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "kotka"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "ja partakotka"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "ja mustakotka"
+    }
+  ],
+  "timestamp": "2026-09-06T22:29:02.509699610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 1:5",
+  "book": "habakkuk",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Katsokaa kansojen ⟨keskuuteen⟩ ja katselkaa ja hämmästykää, ihmeissään olkaa, sillä työn hän tekee teidän päivinne aikana, jota ette uskoisi, kun se teille kerrotaan.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "Katsokaa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kansojen"
+    },
+    {
+      "surface": "והביטו",
+      "gloss": "ja katselkaa"
+    },
+    {
+      "surface": "והתמהו",
+      "gloss": "ja hämmästykää"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "ihmeissään"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "työn"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "hän tekee"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "teidän päivinne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ette"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "uskoisi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "se kerrotaan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:39:35.254458312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 9:15",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja tämän kansan siunaajat johtavat ⟨sen⟩ harhaan, ja heidän siunaamansa niellään.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ja-siksi-tuli"
+    },
+    {
+      "surface": "מאשרי",
+      "gloss": "siunaajat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "johtavat-harhaan"
+    },
+    {
+      "surface": "ומאשריו",
+      "gloss": "ja-heidän-siunaamansa"
+    },
+    {
+      "surface": "מבלעים",
+      "gloss": "niellään"
+    }
+  ],
+  "timestamp": "2026-09-07T00:04:03.592236282Z",
+  "model": "glm-5.3"
+}

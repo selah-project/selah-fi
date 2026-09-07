@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja tapahtui tämän jälkeen: David löi ⟨את⟩ filistealaiset ja alisti heidät, ja David otti ⟨את⟩ Metheg-Ammahin (isokaupungin ohjakset) filistealaisten kädestä.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "jälkeen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "löi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistealaiset"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistealaiset"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "ja alisti heidät"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ja otti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metheg-Ammahin"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "Metheg"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "Ammah"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kädestä"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistealaisten"
+    }
+  ],
+  "timestamp": "2026-09-06T23:22:09.029939011Z",
+  "model": "glm-5.3"
+}

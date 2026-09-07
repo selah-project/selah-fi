@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Vanhurskas tuntee köyhien oikeuden, jumalaton ei ymmärrä tietoa.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "tuntee"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Vanhurskas"
+    },
+    {
+      "surface": "דין",
+      "gloss": "oikeuden"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "köyhien"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "jumalaton"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ymmärrä"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tietoa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:20:04.020671314Z",
+  "model": "glm-5.3"
+}

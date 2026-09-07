@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Ja minä annan teille armoa, ja hän armahtaa ⟨את⟩ teidät, ja hän palauttaa ⟨את⟩ teidät omaan maahanne.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "Ja minä annan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "armoa"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "ja hän armahtaa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät",
+      "marks": "teidät"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "ja hän palauttaa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät",
+      "marks": "teidät"
+    },
+    {
+      "surface": "אל",
+      "gloss": "siihen"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "omaan maahanne"
+    }
+  ],
+  "timestamp": "2026-09-07T00:45:40.718096437Z",
+  "model": "glm-5.3"
+}

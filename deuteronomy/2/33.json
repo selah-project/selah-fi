@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Jahve, Elohimimme, antoi hänet meidän eteemme, ja löimme hänet ⟨את⟩ ja ⟨את⟩ hänen poikansa ja ⟨את⟩ koko hänen kansansa.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "antoi hänet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimme"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "eteemme"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "löimme"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hänet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen poikansa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "koko hänen kansansa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hänen kansansa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:23:48.074195740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 25:9",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja kuolleita ⟨oli⟩ rutossa neljä ja kaksikymmentä tuhatta.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ja kuolleita oli"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "kuolleita"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "rutossa"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "neljä"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ja kaksikymmentä"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhatta"
+    }
+  ],
+  "timestamp": "2026-09-06T22:15:22.156165499Z",
+  "model": "glm-5.3"
+}

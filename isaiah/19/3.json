@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 19:3",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja Mitsrajimin henki tyhjenee sen sisällä, ja sen neuvon minä nielen; ja he kysyvät neuvoa epäjumalilta ja loihtijoilta ja vainajahengiltä ja tietäjiltä.",
+  "tokens": [
+    {
+      "surface": "ונבקה",
+      "gloss": "Ja tyhjenee"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "henki"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "sen sisällä"
+    },
+    {
+      "surface": "ועצתו",
+      "gloss": "ja sen neuvon"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "minä nielen"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "ja he kysyvät neuvoa"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "epäjumalilta"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "האטים",
+      "gloss": "loihtijoilta"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "vainajahengiltä"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "tietäjiltä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:06:42.849706733Z",
+  "model": "glm-5.3"
+}

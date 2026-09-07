@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja mies, joka aviorikokseen syyllyytyy ⟨את⟩ toisen miehen vaimon — joka aviorikokseen syyllyytyy ⟨את⟩ lähimmäisensä vaimon — aviorikokseen syyllyytyvä mies ja aviorikokseen syyllyytyvä nainen kuolemalla kuolkoot.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ja mies"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "aviorikokseen syyllyytyy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toisen miehen vaimon"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vaimon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "toisen miehen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "aviorikokseen syyllyytyy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lähimmäisensä vaimon"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vaimon"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "lähimmäisensä"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kuolemalla"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "kuolkoot"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "aviorikokseen syyllyytyvä mies"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "ja aviorikokseen syyllyytyvä nainen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:57:10.331481229Z",
+  "model": "glm-5.3"
+}

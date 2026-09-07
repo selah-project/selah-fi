@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 2:11",
+  "book": "esther",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja joka päivä päivältä Mordechai kulki naisten talon kartanon edessä tietääkseen ⟨את⟩ Esterin hyvinvoinnin ja mitä hänelle tehtäisiin.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "ja joka"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivä"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "päivältä"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "kulki edestakaisin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "kartanon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "talonsa"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "naisten"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "tietääkseen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esterin hyvinvoinnin"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "hyvinvoinnin"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esterin"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ja mitä"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tehtäisiin"
+    },
+    {
+      "surface": "בה",
+      "gloss": "hänelle"
+    }
+  ],
+  "timestamp": "2026-09-07T04:41:11.277579340Z",
+  "model": "glm-5.3"
+}

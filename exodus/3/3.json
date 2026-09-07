@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja Moshe sanoi: Käännyn nyt syrjään katsomaan ⟨את⟩ tätä suurta näkyä — miksi pensas ei pala?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja … sanoi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "Käännyn syrjään"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "katsomaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tätä suurta näkyä"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "näkyä"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "suurta"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tätä"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "miksi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "pala"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "pensas"
+    }
+  ],
+  "timestamp": "2026-09-06T21:29:34.167704369Z",
+  "model": "glm-5.3"
+}

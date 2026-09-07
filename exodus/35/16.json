@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 35:16",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 35,
+  "translation": "⟨את⟩ polttouhrin alttarin ja ⟨את⟩ sen vaskisen ritilän, joka sillä ⟨on⟩, ⟨את⟩ sen kantotuikit ja ⟨את⟩ kaikki sen astiat, ⟨את⟩ pesuvadin ja ⟨את⟩ sen jalustan",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "polttouhrin alttarin (מזבח העלה)"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "polttouhrin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "vaskisen ritilän (מכבר הנחשת)"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "ritilän"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "vaskisen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sillä ⟨on⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen kantotuikit (בדיו)"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "sen kantotuikit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki sen astiat (כל כליו)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sen astiat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesuvadin (הכיר)"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "pesuvadin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen jalustan (כנו)"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "sen jalustan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:43:58.055675665Z",
+  "model": "glm-5.3"
+}

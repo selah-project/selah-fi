@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Mutta minä ⟨olen⟩ Jahve, Elohimesi, maasta Mitsrajimista (Egyptistä); vielä asutan sinut teltoissa niin kuin määräaikojen päivinä.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "mutta minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimesi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimista"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vielä"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "asutan sinut"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "teltoissa"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "niin kuin päivinä"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "määräaikojen"
+    }
+  ],
+  "timestamp": "2026-09-07T01:22:52.573838878Z",
+  "model": "glm-5.3"
+}

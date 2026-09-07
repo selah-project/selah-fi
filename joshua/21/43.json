@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 21:43",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja Jahve antoi Israelille ⟨את⟩ koko maan, jonka hän oli vannonut antavansa heidän isilleen; ja he perivät sen ja asuivat siinä.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ja antoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israelille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko maan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "hän oli vannonut"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "antavansa"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "heidän isilleen"
+    },
+    {
+      "surface": "וירשוה",
+      "gloss": "ja he perivät sen"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ja asuivat"
+    },
+    {
+      "surface": "בה",
+      "gloss": "siinä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:48:33.516419663Z",
+  "model": "glm-5.3"
+}

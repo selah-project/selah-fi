@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 26:2",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Kuin varpunen läntellessään, kuin pääskynen lentäessään, niin kirous syyttä ei osu.",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "kuin varpunen"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "läntellessään"
+    },
+    {
+      "surface": "כדרור",
+      "gloss": "kuin pääskynen"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "lennäessään"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "kirous"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "syyttä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "osu"
+    }
+  ],
+  "timestamp": "2026-09-07T03:17:12.147334193Z",
+  "model": "glm-5.3"
+}

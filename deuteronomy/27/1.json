@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ja käskivät Moshe (Mooses) ja Israelin vanhimmat ⟨את⟩ kansaa sanoen: Pidä ⟨את⟩ koko käskyn, jota minä käsken ⟨את⟩ teille tänä päivänä.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Ja käskivät"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "ja vanhimmat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansaa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Pidä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko käskyn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "käskyn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jota"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "käsken"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teille"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tänä päivänä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:35:28.117489885Z",
+  "model": "glm-5.3"
+}

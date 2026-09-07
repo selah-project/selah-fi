@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja hänen palvelijansa nousivat ja punoivat salaliiton ja löivät ⟨את⟩ Joashin Bet-Milossa, siinä joka laskeutuu Sillaan.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "ja nousivat"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hänen palvelijansa"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "ja punoivat"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "salaliiton"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ja löivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joashin"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joashin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Milossa"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "joka laskeutuu"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "Sillaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:52:42.401873469Z",
+  "model": "glm-5.3"
+}

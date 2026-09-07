@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 39,
+  "translation": "⟨את⟩ pöydän, ⟨את⟩ kaikki sen astiat, ja ⟨את⟩ kasvojen leivän.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pöydän"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "pöydän"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki sen astiat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sen astiat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kasvojen leivän"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leivän"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "kasvojen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:46:32.498396250Z",
+  "model": "glm-5.3"
+}

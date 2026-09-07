@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Kaikkina aikoina olkoon vaatteesi valkoiset, ja öljyä pääsi älköön puuttuko.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "kaikkina"
+    },
+    {
+      "surface": "עת",
+      "gloss": "aikoina"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olkoon"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "vaatteesi"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "valkoiset"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "ja öljyä"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "pääsi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älköön"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "puuttuko"
+    }
+  ],
+  "timestamp": "2026-09-07T04:38:46.776313902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 11:2",
+  "book": "nehemiah",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja kansa siunasivat kaikki ne miehet, jotka vapaaehtoisesti tarjoutuivat asumaan Jerushalajimissa.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "ja siunasivat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ne miehet"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "jotka vapaaehtoisesti tarjoutuivat"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "asumaan"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerushalajimissa"
+    }
+  ],
+  "timestamp": "2026-09-07T05:09:36.503998990Z",
+  "model": "glm-5.3"
+}

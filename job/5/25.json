@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 5:25",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja sinä tiedät, että runsas ⟨on⟩ sinun siemenesi, ja sinun polvesi kuin maan ruoho.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "Ja sinä tiedat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "רב",
+      "gloss": "runsas"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sinun siemenesi"
+    },
+    {
+      "surface": "וצאצאיך",
+      "gloss": "ja sinun polvesi"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "kuin ruoho"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-07T03:25:57.864183806Z",
+  "model": "glm-5.3"
+}

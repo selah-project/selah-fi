@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 30:10",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Jotka sanoivat näkijöille: ”Älkää nähkö”, ja katselijoille: ”Älkää katsoko meille suoria asioita, puhukaa meille sileitä, katsokko meille harhoja.”",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Jotka"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "sanoivat"
+    },
+    {
+      "surface": "לראים",
+      "gloss": "näkijöille"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Älkää"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "nähkö"
+    },
+    {
+      "surface": "ולחזים",
+      "gloss": "ja katselijoille"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Älkää"
+    },
+    {
+      "surface": "תחזו",
+      "gloss": "katsoko"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meille"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "suoria asioita"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "puhukaa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meille"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "sileitä"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "katsokko"
+    },
+    {
+      "surface": "מהתלות",
+      "gloss": "harhoja"
+    }
+  ],
+  "timestamp": "2026-09-07T00:09:29.770683258Z",
+  "model": "glm-5.3"
+}

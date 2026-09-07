@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 8:8",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja tapahtuu: kun te valtaatte ⟨את⟩ kaupungin, sytytätte ⟨את⟩ kaupungin tuleen; Jahven sanan mukaan te teette. Katsokaa: minä olen käskenyt ⟨את⟩ teitä.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ja tapahtuu"
+    },
+    {
+      "surface": "כתפשכם",
+      "gloss": "kun te valtaatte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaupungin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "תציתו",
+      "gloss": "sytytätte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaupungin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tuleen"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sanan mukaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "te teette"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "Katsokaa"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "minä olen käskenyt"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teitä",
+      "marks": "teitä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:42:24.899090715Z",
+  "model": "glm-5.3"
+}

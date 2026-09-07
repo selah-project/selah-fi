@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 3:15",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja nyt tuokaa minulle soittaja. Ja tapahtui, kun soittaja soitti, että Jahven käsi tuli hänen päällensä.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ja nyt"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "tuokaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "מנגן",
+      "gloss": "soittaja"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "כנגן",
+      "gloss": "kun soitti"
+    },
+    {
+      "surface": "המנגן",
+      "gloss": "soittaja"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hänen päällensä"
+    },
+    {
+      "surface": "יד",
+      "gloss": "käsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-06T23:47:26.620625304Z",
+  "model": "glm-5.3"
+}

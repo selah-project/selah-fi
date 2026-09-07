@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 45:18",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 45,
+  "translation": "Ottakaa ⟨את⟩ isänne ja ⟨את⟩ talonne ja tulkaa minun luokseni, niin minä annan teille ⟨את⟩ Mitsrajimin maan hyvyyden, ja te syötte ⟨את⟩ maan rasvan.",
+  "tokens": [
+    {
+      "surface": "וקחו",
+      "gloss": "Ottakaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isänne"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "isänne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "talonne"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "talonne"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "ja tulkaa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minun luokseni"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "niin minä annan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hyvyyden"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvyyden"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ja te syötte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rasvan"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "rasvan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:26:42.788901984Z",
+  "model": "glm-5.3"
+}

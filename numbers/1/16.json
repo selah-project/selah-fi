@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 1:16",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Nämä ⟨olivat⟩ kutsutut kansankokouksesta, sukujensa heimojen päämiehet; he ⟨ovat⟩ Israelin tuhansien päät.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Nämä"
+    },
+    {
+      "surface": "קריאי",
+      "gloss": "kutsutut"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "kansankokouksesta"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "päämiehet"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "heimojen"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "sukujensa"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "päät"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "tuhansien"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "הם",
+      "gloss": "he"
+    }
+  ],
+  "timestamp": "2026-09-06T22:01:21.752804460Z",
+  "model": "glm-5.3"
+}

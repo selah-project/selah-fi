@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja Avjatar (Abjatar) kertoi Davidille (Daavid), että Shaul (Saul) oli surmannut ⟨את⟩ Jahven kohenit.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Ja kertoi"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Avjatar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidille"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "oli surmannut"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven kohenit"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "kohenit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-06T23:14:05.138826838Z",
+  "model": "glm-5.3"
+}

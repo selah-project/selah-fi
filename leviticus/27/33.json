@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 27:33",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ei hän saa tutkia hyvän ja pahan välillä, eikä hän saa sitä vaihtaa; ja jos hän vaihtaa sen, on sekä se että sen vaihdettava pyhä, ei sitä saa lunastaa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יבקר",
+      "gloss": "saa tutkia"
+    },
+    {
+      "surface": "בין",
+      "gloss": "välillä"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvän"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ja pahan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "ימירנו",
+      "gloss": "hän saa sitä vaihtaa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ja jos"
+    },
+    {
+      "surface": "המר",
+      "gloss": "hän vaihtaa"
+    },
+    {
+      "surface": "ימירנו",
+      "gloss": "sen"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "on"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sekä se"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "että sen vaihdettava"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "on pyhä"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "saa lunastaa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:00:49.257394004Z",
+  "model": "glm-5.3"
+}

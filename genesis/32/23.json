@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 32:23",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Ja hän nousi sinä yönä ja otti ⟨את⟩ kaksi vaimoansa ja ⟨את⟩ kaksi orjatartaan ja ⟨את⟩ yksitoista lastaan, ja hän vei yli ⟨את⟩ Jabbokin kahluupaikan.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Ja hän nousi"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "sinä yönä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ja otti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaksi vaimoansa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "vaimoansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaksi orjatartaan"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "שפחתיו",
+      "gloss": "orjatartaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "yksitoista lastaan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "toista"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "lastaan"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ja hän vei yli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jabbokin kahluupaikan"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "kahluupaikan"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "Jabbokin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:17:56.392320439Z",
+  "model": "glm-5.3"
+}

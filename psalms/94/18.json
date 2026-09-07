@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 94,
+  "translation": "Kun sanoin: ”Jalkani horjuu”, sinun hesedisi, Jahve, tuki minua.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kun"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sanoin"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "horjuu"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "jalkani"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sinun hesedisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "tuki minua"
+    }
+  ],
+  "timestamp": "2026-09-07T02:33:01.158772270Z",
+  "model": "glm-5.3"
+}

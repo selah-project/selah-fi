@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "ja Ahimaats synnytti ⟨את⟩ Azarjan, ja Azarja synnytti ⟨את⟩ Jochananin.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "ja Ahimaats"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjan"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjan"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "ja Azarja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jochananin"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Jochananin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:13:04.568832815Z",
+  "model": "glm-5.3"
+}

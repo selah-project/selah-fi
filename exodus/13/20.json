@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja he lähtivät Sukkotista ja leiriytyivät Etamiin, erämaan laidalle.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "Ja he lähtivät"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "Sukkotista"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ja leiriytyivät"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "Etamiin"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "laidalle"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "erämaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:34:39.215010184Z",
+  "model": "glm-5.3"
+}

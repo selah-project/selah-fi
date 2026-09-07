@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 72,
+  "translation": "Ja hän vallitkoon merestä mereen ja virrasta maan ääriin asti.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ja hän vallitkoon"
+    },
+    {
+      "surface": "מים",
+      "gloss": "merestä"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mereen"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "ja virrasta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "äärin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:33:32.889300093Z",
+  "model": "glm-5.3"
+}

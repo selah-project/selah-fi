@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 13:24",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja Hazael, Aramin kuningas, kuoli, ja Ben-Hadad, hänen poikansa, tuli kuninkaaksi hänen sijaansa.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "kuoli"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Aramin kuningas"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "tuli kuninkaaksi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "hänen sijaansa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:53:00.994941339Z",
+  "model": "glm-5.3"
+}

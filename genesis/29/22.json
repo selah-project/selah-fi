@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja Lavan kokosi ⟨את⟩ kaikki paikan miehet ja teki pidot.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "ja kokosi"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki paikan miehet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "paikan"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ja teki"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "pidot"
+    }
+  ],
+  "timestamp": "2026-09-06T21:16:09.469316871Z",
+  "model": "glm-5.3"
+}

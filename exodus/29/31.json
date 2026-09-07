@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja ⟨את⟩ vihkimisen oinaan sinä otat, ja keität ⟨את⟩ sen lihan pyhässä paikassa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩"
+    },
+    {
+      "surface": "איל",
+      "gloss": "oinaan"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "vihkimisen"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "otat"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "ja keität"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen lihan"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sen lihan"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "paikassa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhässä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:10:29.987574225Z",
+  "model": "glm-5.3"
+}

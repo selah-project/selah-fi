@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 11:4",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja tapahtui Shelomon vanhuuden aikana, että hänen vaimonsa käänsivät ⟨את⟩ hänen sydämensä muiden jumalien taakse; eikä hänen sydämensä ollut kokonainen Jahven, hänen Elohiminsa, kanssa, niin kuin Davidin (Daavid), hänen isänsä, sydän.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "aikana"
+    },
+    {
+      "surface": "זקנת",
+      "gloss": "vanhuuden"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomon"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "hänen vaimonsa"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "käänsivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen sydämensä"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "hänen sydämensä"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "taakse"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jumalien"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "muiden"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ollut"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "sydämensä"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "kokonainen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "hänen Elohiminsa"
+    },
+    {
+      "surface": "כלבב",
+      "gloss": "niin kuin sydämen"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hänen isänsä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:40:57.937178864Z",
+  "model": "glm-5.3"
+}

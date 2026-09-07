@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja he ylittivät ⟨את⟩ Jardenin, ja he leiriytyivät Aroerissa, kaupungin oikealla puolella, joka ⟨on⟩ Gadin laakson keskellä, ja kohti Ja'azeria.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "ja he ylittivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jardenin"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jardenin"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ja he leiriytyivät"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "Aroerissa"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "oikealla puolella"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keskellä"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "laakson"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "Gadin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja kohti"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Ja'azeria"
+    }
+  ],
+  "timestamp": "2026-09-06T23:31:20.281172182Z",
+  "model": "glm-5.3"
+}

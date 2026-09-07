@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 12:1",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja sinä sanot sinä päivänä: Kiitän sinua, Jahve, sillä vihasit minua, sinun vihasi kääntyi pois ja sinä lohdutit minua.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "Ja sinä sanot"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sinä päivänä"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "Kiitän sinua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "vihasit"
+    },
+    {
+      "surface": "בי",
+      "gloss": "minua"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "kääntyi pois"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "sinun vihasi"
+    },
+    {
+      "surface": "ותנחמני",
+      "gloss": "ja sinä lohdutit minua"
+    }
+  ],
+  "timestamp": "2026-09-07T00:04:20.172695108Z",
+  "model": "glm-5.3"
+}

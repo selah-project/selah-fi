@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 78,
+  "translation": "Vertauksessa minä avaan suuni, minä vuodatan arvoitukset muinaisuudesta.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "avaan"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "vertauksessa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "suuni"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "vuodatan"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "arvoitukset"
+    },
+    {
+      "surface": "מני",
+      "gloss": "—"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "muinaisuudesta"
+    }
+  ],
+  "timestamp": "2026-09-07T04:34:01.024983656Z",
+  "model": "glm-5.3"
+}

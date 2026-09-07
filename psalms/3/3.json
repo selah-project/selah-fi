@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Monet sanovat nefeshistani (nefesh ⟨on⟩ elämänvoima, sielu): ”Ei hänelle ole pelastusta Elohimissa.” Sela.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "monet"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "sanovat"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "nefeshistani"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "pelastusta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimissa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-07T01:52:18.436779626Z",
+  "model": "glm-5.3"
+}

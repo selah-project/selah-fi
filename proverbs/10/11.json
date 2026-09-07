@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 10:11",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Elämän lähde on vanhurskaan suu, mutta jumalattomien suu peittää väkivallan.",
+  "tokens": [
+    {
+      "surface": "מקור",
+      "gloss": "lähde"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "elämän"
+    },
+    {
+      "surface": "פי",
+      "gloss": "suu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "vanhurskaan"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "mutta suu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jumalattomien"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "peittää"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "väkivallan"
+    }
+  ],
+  "timestamp": "2026-09-07T03:04:30.633355935Z",
+  "model": "glm-5.3"
+}

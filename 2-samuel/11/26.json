@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 11:26",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja Urijan vaimo kuuli, että Urija, hänen miehensä, oli kuollut, ja hän piti surua miehensä tähten.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "Ja kuuli"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vaimo"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urijan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "מת",
+      "gloss": "oli kuollut"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "hänen miehensä"
+    },
+    {
+      "surface": "ותספד",
+      "gloss": "ja piti surua"
+    },
+    {
+      "surface": "על",
+      "gloss": "…n tähten"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "miehensä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:23:22.387555743Z",
+  "model": "glm-5.3"
+}

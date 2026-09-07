@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 2:5",
+  "book": "song-of-songs",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Tukiko minua rusinakakuilla, virkistäkää minua omenoilla, sillä rakkaudesta minä olen sairas.",
+  "tokens": [
+    {
+      "surface": "סמכוני",
+      "gloss": "tukiko minua"
+    },
+    {
+      "surface": "באשישות",
+      "gloss": "rusinakakuilla"
+    },
+    {
+      "surface": "רפדוני",
+      "gloss": "virkistäkää minua"
+    },
+    {
+      "surface": "בתפוחים",
+      "gloss": "omanoilla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "חולת",
+      "gloss": "sairas"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "rakkaudesta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    }
+  ],
+  "timestamp": "2026-09-07T06:56:45.873846442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja he huusivat Jahven puoleen ja sanoivat: ”Me teimme syntiä, sillä jätimme ⟨את⟩ Jahven ja palvelimme ⟨את⟩ baaleja ja ⟨את⟩ ashtaroteja. Ja nyt pelasta meidät vihollistemme kädestä, niin palvelemme sinua.”",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "ja he huusivat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "puoleen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoivat"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "teimme syntiä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "jätimme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "ja palvelimme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baaleja"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "baaleja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "ashtaroteja"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "ashtaroteja"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ja nyt"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "pelasta meidät"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kädestä"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "vihollistemme"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "niin palvelemme sinua"
+    }
+  ],
+  "timestamp": "2026-09-06T23:08:25.936560855Z",
+  "model": "glm-5.3"
+}

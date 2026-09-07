@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 135,
+  "translation": "Kiittäkää Jah, kiittäkää ⟨את⟩ Jahven nimeä, kiittäkää, Jahven palvelijat.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Kiittäkää"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "kiittäkää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven nimeä"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimeä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "kiittäkää"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "palvelijat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-07T02:50:55.160828868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja hän valtasi ⟨את⟩ Jehudan linnoitetut kaupungit ja tuli aina Jerushalajimiin saakka.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "Ja hän valtasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehudan linnoitetut kaupungit"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kaupungit"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "linnoitetut"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aina...saakka"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimiin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:36:58.843311702Z",
+  "model": "glm-5.3"
+}

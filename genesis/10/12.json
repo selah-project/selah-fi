@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "sekä ⟨את⟩ Resenin Niniven ja Kalahin välissä — se ⟨on⟩ suuri kaupunki.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sekä ⟨את⟩",
+      "marks": "Resenin"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resenin"
+    },
+    {
+      "surface": "בין",
+      "gloss": "välissä"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Niniven"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalahin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupunki"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "suuri"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:44.411631468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 30:9",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja David lähti, hän itse ja kuusisataa miestä, jotka ⟨olivat⟩ hänen kanssaan ⟨את⟩, ja he tulivat Nahal HaBesorin (Besorin puro) luo, ja jäljelle jääneet jäivät seisomaan.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "lähti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän itse"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ja kuusi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sataa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miestä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänen kanssaan",
+      "marks": "kuusisataa miestä"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ja he tulivat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "puro"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "HaBesor"
+    },
+    {
+      "surface": "והנותרים",
+      "gloss": "ja jäljelle jääneet"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "jäivät seisomaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:16:31.505417861Z",
+  "model": "glm-5.3"
+}

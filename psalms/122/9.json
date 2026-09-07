@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 122,
+  "translation": "Jahve Elohimimme huoneen tähden minä etsin sinulle hyvää.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimme"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "minä etsin"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvää"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    }
+  ],
+  "timestamp": "2026-09-07T02:48:42.401642365Z",
+  "model": "glm-5.3"
+}

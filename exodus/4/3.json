@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja hän sanoi: Heitä se maahan. Ja hän heitti sen maahan, ja siitä tuli käärme, ja Moshe pakeni sen edestä.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "Heitä se"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "Ja hän heitti sen"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja siitä tuli"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "käärme"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "ja pakeni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "sen edestä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:30:05.397078004Z",
+  "model": "glm-5.3"
+}

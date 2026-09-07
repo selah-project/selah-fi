@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Jahve, kuinka ahdistajani ovat lisääntyneet! Monet ovat niitä, jotka nousevat minua vastaan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kuinka"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ovat lisääntyneet"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ahdistajani"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "monet"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "jotka nousevat"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "minua vastaan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:52:18.436455257Z",
+  "model": "glm-5.3"
+}

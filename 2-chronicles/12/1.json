@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja tapahtui, kun Rehavamin (Rehabeam) kuninkuus oli vakiintunut ja kun hän oli lujittanut itsensä, että hän hylkäsi ⟨את⟩ Jahven Toran (Toora), ja koko Israel hänen kanssaan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "kun...oli vakiintunut"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "kuninkuus"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavamin"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "ja kun hän oli lujittanut itsensä"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "hän hylkäsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven Toran"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Toran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja koko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hänen kanssaan"
+    }
+  ],
+  "timestamp": "2026-09-07T05:36:58.841661011Z",
+  "model": "glm-5.3"
+}

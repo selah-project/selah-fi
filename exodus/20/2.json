@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Minä ⟨on⟩ Jahve, Elohimisi, joka toin sinut ulos maasta Mitsrajimista ⟨Egypti⟩, orjuuden talosta.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimisi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "toin sinut ulos"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimista (Egypti)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "talosta"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "orjuuden"
+    }
+  ],
+  "timestamp": "2026-09-06T21:36:40.809396188Z",
+  "model": "glm-5.3"
+}

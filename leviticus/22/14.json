@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 22:14",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja jos mies syö pyhää tietämättään, hän lisää siihen viidennen osan ja antaa kohenille ⟨את⟩ pyhän.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ja jos mies"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jos"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "syö"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhää"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "tietämättään"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "hän lisää"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "sen viidennen osan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "siihen"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ja antaa"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kohenille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pyhän"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pyhän"
+    }
+  ],
+  "timestamp": "2026-09-06T21:57:43.719340679Z",
+  "model": "glm-5.3"
+}

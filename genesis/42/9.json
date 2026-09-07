@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 42:9",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Ja Josef (Joosef) muisti ⟨את⟩ unet, jotka hän oli uneksinut heistä, ja sanoi heille: Vakoojia te olette; maan alastomuutta katsomaan te olette tulleet.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "Ja muisti"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unet"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "unet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "oli uneksinut"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heistä"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "vakoojia"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "te"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "katsomaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maan alastomuutta"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "alastomuuden"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "olette tulleet"
+    }
+  ],
+  "timestamp": "2026-09-06T21:23:55.320112903Z",
+  "model": "glm-5.3"
+}

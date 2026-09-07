@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 59:15",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 59,
+  "translation": "Ja totuus tuli puuttuvaksi, ja se joka väistää pahasta, joutuu ryöstettäväksi; ja Jahve näki sen, ja se oli paha hänen silmissään, sillä oikeutta ei ⟨ollut⟩.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "totuus"
+    },
+    {
+      "surface": "נעדרת",
+      "gloss": "puuttuvaksi"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "ja väistää"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "pahasta"
+    },
+    {
+      "surface": "משתולל",
+      "gloss": "ryöstettäväksi"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ja näki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "ja oli paha"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "hänen silmissään"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "oikeutta"
+    }
+  ],
+  "timestamp": "2026-09-07T00:20:32.284332840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 29:10",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Sillä näin sanoo Jahve: kun Babylonille täyttyy seitsemänkymmentä vuotta, minä huomaan ⟨את⟩ teidät, ja minä toteutan teitä kohtaan ⟨את⟩ sanani, hyvän, tuodakseni ⟨את⟩ teidät takaisin tähän paikkaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "כה",
+      "gloss": "näin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "täyttyessä"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "täyttyy"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "Babylonille"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "seitsemänkymmentä"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "huomaan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät",
+      "marks": "teidät"
+    },
+    {
+      "surface": "והקמתי",
+      "gloss": "ja minä toteutan"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "teitä kohtaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanani"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanani"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "hyvän"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "tuodakseni takaisin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät",
+      "marks": "teidät"
+    },
+    {
+      "surface": "אל",
+      "gloss": "takaisin"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "paikkaan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tähän"
+    }
+  ],
+  "timestamp": "2026-09-07T00:37:20.598142207Z",
+  "model": "glm-5.3"
+}

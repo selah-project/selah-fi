@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 3:3",
+  "book": "jonah",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja Jona nousi ja meni Niniveen Jahven sanan mukaan. Ja Ninive ⟨oli⟩ Elohimille suuri kaupunki, kävelymatka kolme päivää.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Ja nousi"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ja meni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Niniveen"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Niniveen"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sanan mukaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "Ja Ninive"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kaupunki"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "suuri"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimille"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "kävelymatka"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivää"
+    }
+  ],
+  "timestamp": "2026-09-07T01:33:55.375375687Z",
+  "model": "glm-5.3"
+}

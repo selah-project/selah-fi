@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 19:19",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "⟨את⟩ säädökseni pitäkää: karjaasi älä anna pariutua kahta lajia ⟨toisiinsa⟩, peltoasi älä kylvä kahta lajia, eikä vaatetta kahdesta lajista, shaatnez, saa tulla sinun päällesi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "säädökseni"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "säädökseni"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "pitäkää"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "karjaasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תרביע",
+      "gloss": "anna pariutua"
+    },
+    {
+      "surface": "כלאים",
+      "gloss": "kahta lajia"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "peltoasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "kylvä"
+    },
+    {
+      "surface": "כלאים",
+      "gloss": "kahta lajia"
+    },
+    {
+      "surface": "ובגד",
+      "gloss": "eikä vaatetta"
+    },
+    {
+      "surface": "כלאים",
+      "gloss": "kahdesta lajista"
+    },
+    {
+      "surface": "שעטנז",
+      "gloss": "shaatnez"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "saa tulla"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sinun päällesi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:57:24.262975213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 9:12",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja he sanoivat: Se ⟨on⟩ valhetta; kerro meille ⟨nyt⟩. Ja hän sanoi: Näin ja näin hän sanoi minulle sanoen: Näin sanoo Jahve: Minä voidelen sinut kuninkaaksi Israelin päälle.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ja he sanoivat"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "valhetta"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "kerro"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨nyt⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meille"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "Näin"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "ja näin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Näin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משחתיך",
+      "gloss": "Minä voidelen sinut"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuninkaaksi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:50:09.994010459Z",
+  "model": "glm-5.3"
+}

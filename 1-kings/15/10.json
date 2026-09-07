@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 15:10",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Ja neljäkymmentäyksi vuotta hän hallitsi Jerushalajimissa, ja hänen äitinsä nimi ⟨oli⟩ Maakha, Avishalomin tytär.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "Ja neljäkymmentä"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hallitsi"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerushalajimissa"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ja nimi"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "hänen äitinsä"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tytär"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Avishalomin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:41:15.342655262Z",
+  "model": "glm-5.3"
+}

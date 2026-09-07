@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 72,
+  "translation": "Ja kumartuvat hänen edessään kaikki kuninkaat, kaikki kansat palvelevat häntä.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "ja kumartuvat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänen edessään"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kuninkaat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kansat"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "palvelevat häntä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:33:28.275550979Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Hän ajoi ⟨את⟩ minua ja sai minut kulkemaan pimeydessä, eikä valossa.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "minua"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "ajoi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ja sai kulkemaan"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pimeydessä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "אור",
+      "gloss": "valossa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:01:47.710305419Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja pelistiläiset ottivat ⟨את⟩ Elohimin arkin ja toivat ⟨את⟩ sen Dagonin huoneeseen ja asettivat ⟨את⟩ sen Dagonin viereen.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Ja ottivat"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelistiläiset"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimin arkin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ja toivat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sen",
+      "marks": "sen (arkin), kohde Dagonin huoneeseen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneeseen"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagonin"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "ja asettivat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sen",
+      "marks": "sen (arkin), kohde Dagonin viereen"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "viereen"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagonin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:06:54.074508628Z",
+  "model": "glm-5.3"
+}

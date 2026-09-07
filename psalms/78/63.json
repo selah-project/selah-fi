@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 78:63",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 78,
+  "translation": "Nuoriaan tuli söi, ja neitsytensä ylistystä ei laulettu.",
+  "tokens": [
+    {
+      "surface": "בחוריו",
+      "gloss": "nuoriaan"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "söi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "ובתולתיו",
+      "gloss": "ja neitsytensä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "הוללו",
+      "gloss": "laulettu ylistystä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:26:30.038806602Z",
+  "model": "glm-5.3"
+}

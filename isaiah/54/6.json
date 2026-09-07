@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 54:6",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 54,
+  "translation": "Sillä kuin hylättyä ja hengeltään murheista naista on Jahve sinut kutsunut, ja nuoruutesi vaimoa, kun sinut hyljeksittiin — sanoo sinun Elohimisi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "כאשה",
+      "gloss": "kuin naista"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "hylättyä"
+    },
+    {
+      "surface": "ועצובת",
+      "gloss": "ja murheista"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hengeltään"
+    },
+    {
+      "surface": "קראך",
+      "gloss": "on sinut kutsunut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "ja vaimoa"
+    },
+    {
+      "surface": "נעורים",
+      "gloss": "nuoruutesi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "תמאס",
+      "gloss": "sinut hyljeksittiin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sinun Elohimisi"
+    }
+  ],
+  "timestamp": "2026-09-07T00:18:30.003315219Z",
+  "model": "glm-5.3"
+}

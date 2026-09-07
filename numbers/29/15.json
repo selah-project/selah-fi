@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "ja yksi kymmenys yhtä karitsaa kohti, neljääntoista karitsaan ⟨asti⟩.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "ja yksi kymmenys"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "kymmenys"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "yhtä karitsaa kohti"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yhtä"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "neljääntoista"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "karitsaan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:17:41.401742878Z",
+  "model": "glm-5.3"
+}

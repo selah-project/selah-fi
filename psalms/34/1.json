@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "Daavidin (David), kun hän muutti ⟨את⟩ käytöstään Avimelekin (Abimelek) edessä, ja hän karkotti hänet pois, ja hän lähti.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Daavidin"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "muuttaessaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "käytöstään"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "käytöstään"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekin"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "ja hän karkotti hänet"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ja hän lähti"
+    }
+  ],
+  "timestamp": "2026-09-07T04:31:49.430213899Z",
+  "model": "glm-5.3"
+}

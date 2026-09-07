@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezekiel 20:42",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja te tunnette, että minä ⟨on⟩ Jahve, kun tuon ⟨את⟩ teidät Israelin maahan, maahan, jota kohti minä nostin ⟨את⟩ käteni antaakseni ⟨את⟩ sen teidän isillenne.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "ja te tunnette"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהביאי",
+      "gloss": "kun tuon"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät",
+      "marks": "teidät"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "Israelin maahan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jota kohti"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "nostin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "käteni"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "käteni"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "antaakseni"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ sen",
+      "marks": "sen"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "teidän isillenne"
+    }
+  ],
+  "timestamp": "2026-09-07T01:01:54.622367793Z",
+  "model": "glm-5.3"
+}

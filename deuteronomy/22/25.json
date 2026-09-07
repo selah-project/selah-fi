@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 22:25",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Mutta jos kedolla mies löytää ⟨את⟩ tytön, kihlatun, ja mies tarttuu häneen ja makaa hänen kanssaan, niin kuolkoon yksin se mies, joka makasi hänen kanssaan.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mutta jos"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kedolla"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "löytää"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tytön"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "tytön"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "kihlatun"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "tarttuu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "häneen"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "makaa"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "hänen kanssaan"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "kuolkoon"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "makasi"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "hänen kanssaan"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yksin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:34:50.562361187Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 31:2",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Ja myös hän ⟨on⟩ viisas, ja hän tuo pahan, eikä hän peruuta ⟨את⟩ sanojaan; hän nousee pahantekijöiden huonetta vastaan ja vääryyden tekijöiden apua vastaan.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ja myös"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "viisas"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ja hän toi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pahan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "eikä ⟨את⟩",
+      "marks": "sanojaan"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "sanojaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "peruuta"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "ja hän nousee"
+    },
+    {
+      "surface": "על",
+      "gloss": "vastaan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huonetta"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "pahantekijöiden"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "apua"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "tekijöiden"
+    },
+    {
+      "surface": "און",
+      "gloss": "vääryyden"
+    }
+  ],
+  "timestamp": "2026-09-07T00:10:58.234076772Z",
+  "model": "glm-5.3"
+}

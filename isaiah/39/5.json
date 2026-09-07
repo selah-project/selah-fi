@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 39:5",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 39,
+  "translation": "Ja sanoi Jesajahu (Jesaja) Hizkijahulle (Hiskia): Kuule Jahve Sebaotin (Sebaotin) sana.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jesajahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Hizkijahulle"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkijahu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Kuule"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaotin"
+    }
+  ],
+  "timestamp": "2026-09-07T00:13:08.244207198Z",
+  "model": "glm-5.3"
+}

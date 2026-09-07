@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 19:18",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja tuomarit tutkivat ⟨sen⟩ huolellisesti, ja katso: valhetodistaja on todistaja, joka valheellisesti on lausunut ⟨todistuksen⟩ veljestään.",
+  "tokens": [
+    {
+      "surface": "ודרשו",
+      "gloss": "Ja tutkivat"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "tuomarit"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "huolellisesti"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "עד",
+      "gloss": "todistaja"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "valhe"
+    },
+    {
+      "surface": "העד",
+      "gloss": "todistaja"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "valheellisesti"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "on lausunut"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "veljestään"
+    }
+  ],
+  "timestamp": "2026-09-06T22:31:56.646638240Z",
+  "model": "glm-5.3"
+}

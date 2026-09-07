@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 7:30",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Neljäntenä päivänä Reuvenin poikien päämies, Elitsur, Shedejurin poika.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "neljäntenä"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "päämies"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "poikien"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuvenin"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elitsur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Shedejurin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:05:04.000411168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja Aharon ja hänen poikansa syövät ⟨את⟩ oinaan lihan ja ⟨את⟩ leivän, joka on korissa, kokousteltan suulla.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "Ja syövät"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ja hänen poikansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oinaan lihan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "lihan"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "oinaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "leivän"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "korissa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "suulla"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kokouksen"
+    }
+  ],
+  "timestamp": "2026-09-07T04:10:29.988583654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja Shaulin palvelijat sanoivat hänelle: ”Katso nyt, Elohimin paha henki kammottaa sinua.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ja sanoivat"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "palvelijat"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulin"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "henki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "paha"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "kammottaa sinua"
+    }
+  ],
+  "timestamp": "2026-09-06T23:12:01.792921799Z",
+  "model": "glm-5.3"
+}

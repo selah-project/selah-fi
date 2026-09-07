@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja David otti ⟨את⟩ kulta-aseekkeet, jotka olivat Hadad'etserin palvelijoilla, ja hän toi ne Jerushalajimiin (Jerusalemiin).",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ja otti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kulta-aseekkeet"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "aseekkeet"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kulta-"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "היו",
+      "gloss": "olivat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…lla"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "palvelijoilla"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadad'etserin"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "ja hän toi ne"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimiin (Jerusalemiin)"
+    }
+  ],
+  "timestamp": "2026-09-06T23:21:10.973405362Z",
+  "model": "glm-5.3"
+}

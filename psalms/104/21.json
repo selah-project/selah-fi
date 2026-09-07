@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 104:21",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 104,
+  "translation": "Nuoret leijonat karjuivat saalista varten ja etsivät Eliltä ravintonsa.",
+  "tokens": [
+    {
+      "surface": "הכפירים",
+      "gloss": "nuoret leijonat"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "karjuivat"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "saalista varten"
+    },
+    {
+      "surface": "ולבקש",
+      "gloss": "ja etsivät"
+    },
+    {
+      "surface": "מאל",
+      "gloss": "Eliltä"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ravintonsa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:35:52.692225836Z",
+  "model": "glm-5.3"
+}

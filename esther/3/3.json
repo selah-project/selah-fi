@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja kuninkaan palvelijat, jotka olivat kuninkaan portilla, sanoivat Mordekaille: miksi sinä rikot ⟨את⟩ kuninkaan käskyn?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ja sanoivat"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "palvelijat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "portilla"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordekaille"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "miksi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "rikot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuninkaan käskyn"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "käskyn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:42:03.194322867Z",
+  "model": "glm-5.3"
+}

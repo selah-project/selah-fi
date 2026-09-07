@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 39:3",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 39,
+  "translation": "Ja he vasoivat ⟨את⟩ kultalevyt levyiksi ja leikkasivat lankoja tehdäkseen ne sinisen sekaan ja purppuran sekaan ja karmesiininmadon sekaan ja pellavan sekaan — suunnittelijan työtä.",
+  "tokens": [
+    {
+      "surface": "וירקעו",
+      "gloss": "Ja he vasoivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kultalevyt"
+    },
+    {
+      "surface": "פחי",
+      "gloss": "levyt"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kulta-"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "ja hän leikkasi"
+    },
+    {
+      "surface": "פתילם",
+      "gloss": "lankoja"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "tekemään"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sinisen sekaan"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "sinisen"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "ja …:n sekaan"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "purppuran"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "ja …:n sekaan"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "karmesiininmadon"
+    },
+    {
+      "surface": "השני",
+      "gloss": "punaisen"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "ja …:n sekaan"
+    },
+    {
+      "surface": "השש",
+      "gloss": "pellavan"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "työtä"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "suunnittelijan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:13:10.221019449Z",
+  "model": "glm-5.3"
+}

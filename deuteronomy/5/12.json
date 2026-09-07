@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Varjele ⟨את⟩ Shabbatin päivää pyhittääksesi sen, niin kuin Jahve, Elohimisi, on antanut sinulle käskynä.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Varjele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabbatin päivää"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivää"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbatin"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "pyhittääksesi sen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "on antanut sinulle käskynä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimisi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:24:23.886687834Z",
+  "model": "glm-5.3"
+}

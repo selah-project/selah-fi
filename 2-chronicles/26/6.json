@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja hän lähti ja taisteli Pelishtimia (filistealaiset) vastaan ja mursi ⟨את⟩ Gatin muurin ja ⟨את⟩ Javnehin muurin ja ⟨את⟩ Ashdodin muurin, ja hän rakensi kaupunkeja Ashdodissa ja Pelishtimaassa.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Ja hän lähti"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ja taisteli"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Pelishtimia vastaan"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "ja mursi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gatin muurin"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "muurin"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gatin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Javnehin muurin"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "muurin"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "Javnehin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Ashdodin muurin"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "muurin"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdodin"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "ja hän rakensi"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kaupunkeja"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "Ashdodissa"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "ja Pelishtimaassa"
+    }
+  ],
+  "timestamp": "2026-09-07T05:45:53.926657802Z",
+  "model": "glm-5.3"
+}

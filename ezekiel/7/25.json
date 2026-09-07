@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 7:25",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Kauhu tulee, ja ⟨he⟩ etsivät rauhaa, ja sitä ⟨ei⟩ ole.",
+  "tokens": [
+    {
+      "surface": "קפדה",
+      "gloss": "Kauhu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tulee"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "ja ⟨he⟩ etsivät"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rauhaa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ja sitä ei ole"
+    }
+  ],
+  "timestamp": "2026-09-07T00:52:34.733668503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 34:15",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "kuolee kaikki liha yhdessä, ja ihminen palaa pölyn päälle.",
+  "tokens": [
+    {
+      "surface": "יגוע",
+      "gloss": "kuolee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "liha"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "yhdessä"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ja ihminen"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pölyn"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "palaa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:46:51.561467286Z",
+  "model": "glm-5.3"
+}

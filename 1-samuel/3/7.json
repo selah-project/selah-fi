@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Mutta Shemuel ei vielä tuntenut ⟨את⟩ Jahvea, eikä Jahven sanaa ollut vielä ilmoitettu hänelle.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "mutta Shemuel"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ei vielä"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tuntenut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "eikä vielä"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "oltu ilmoitettu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sanaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-06T23:06:59.399733042Z",
+  "model": "glm-5.3"
+}

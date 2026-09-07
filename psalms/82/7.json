@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 82,
+  "translation": "Mutta kuin adam ⟨kuolette⟩ te, ja kuin yksi ruhtinista te kaadutte.”",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Mutta"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "kuin adam"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "te kuolette"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "ja kuin yksi"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "ruhtinista"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "te kaadutte"
+    }
+  ],
+  "timestamp": "2026-09-07T02:26:00.766070188Z",
+  "model": "glm-5.3"
+}

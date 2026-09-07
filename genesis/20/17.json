@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja Avraham rukoili Elohimia, ja Elohim paransi ⟨את⟩ Avimelekin ja ⟨את⟩ hänen vaimonsa ja hänen orjattarensa, ja he synnyttivät.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "ja rukoili"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "elä"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimia"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "ja paransi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelekin"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen vaimonsa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hänen vaimonsa"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "ja hänen orjattarensa"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "ja he synnyttivät"
+    }
+  ],
+  "timestamp": "2026-09-06T21:12:05.982091912Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "ja seitsemäs päivä ⟨on⟩ Shabbat (sapatti) Jahvelle, Elohimillesi: älä tee mitään työtä — sinä, poikasi eikä tyttäresi, palvelijasi eikä palvelijattaresi, karjasi eikä muukalaisesi, joka porteissasi on.",
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "ja päivä"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "seitsemäs"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimillesi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mitään"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "työtä"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "poikasi eikä"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "tyttäresi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "palvelijasi eikä"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "palvelijattaresi"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "karjasi eikä"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "muukalaisesi eikä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "porteissasi on"
+    }
+  ],
+  "timestamp": "2026-09-06T21:36:38.977240995Z",
+  "model": "glm-5.3"
+}

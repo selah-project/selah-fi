@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 39:15",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 39,
+  "translation": "Ja maan läpi kulkevat kulkevat, ja jos joku näkee ihmisen luun, hän pystyttää sen viereen merkin, kunnes hautaajat hautaavat ⟨את⟩ sen Hamon-Gogin laaksoon.",
+  "tokens": [
+    {
+      "surface": "ועברו",
+      "gloss": "ja kulkevat"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "kulkevat"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ja näkee"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "luun"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmisen"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "hän pystyttää"
+    },
+    {
+      "surface": "אצלו",
+      "gloss": "sen viereen"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "merkin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "hautaavat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sen"
+    },
+    {
+      "surface": "המקברים",
+      "gloss": "hautaajat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laaksoon"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "laaksoon"
+    },
+    {
+      "surface": "המון",
+      "gloss": "Hamon"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "Gogin"
+    }
+  ],
+  "timestamp": "2026-09-07T01:12:54.579533100Z",
+  "model": "glm-5.3"
+}

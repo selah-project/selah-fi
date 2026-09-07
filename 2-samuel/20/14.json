@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 20:14",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja hän kulki kaikkien Israelin sukukuntien halki Avelaan ja Beit Maakhaan ja kaikki beriläiset, ja he kokoontuivat ja tulivat myös hänen jälkeensä.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "Ja hän kulki"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaikkien"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "sukukuntien"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "Avelaan"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ja Beit"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakhaan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "הברים",
+      "gloss": "beriläiset"
+    },
+    {
+      "surface": "ויקלהו",
+      "gloss": "ja he kokoontuivat"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ja tulivat"
+    },
+    {
+      "surface": "אף",
+      "gloss": "myös"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "hänen jälkeensä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:29:14.767155194Z",
+  "model": "glm-5.3"
+}

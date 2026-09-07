@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 30:19",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Minä kutsun tänään todistajiksi teitä vastaan ⟨את⟩ taivaan ja ⟨את⟩ maan: elämän ja kuoleman, siunauksen ja kirouksen minä olen pannut sinun eteesi — valitse elämä, että sinä ja sinun siemenesis saisitte elää.",
+  "tokens": [
+    {
+      "surface": "העידתי",
+      "gloss": "kutsun todistajiksi"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "teitä vastaan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tänään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taivaan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "maan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "elämän"
+    },
+    {
+      "surface": "והמות",
+      "gloss": "ja kuoleman"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "minä olen pannut"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sinun eteesi"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "siunauksen"
+    },
+    {
+      "surface": "והקללה",
+      "gloss": "ja kirouksen"
+    },
+    {
+      "surface": "ובחרת",
+      "gloss": "valitse"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "elämä"
+    },
+    {
+      "surface": "למען",
+      "gloss": "jotta"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "saisitte elää"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "ja sinun siemenesi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:39:12.148292672Z",
+  "model": "glm-5.3"
+}

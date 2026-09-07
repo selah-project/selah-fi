@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "”Kyllä te olette kiertäneet ⟨את⟩ tätä vuorta riittävästi; kääntykää pohjoiseen.”",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "riittävästi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "סב",
+      "gloss": "kiertäneet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tätä vuorta"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "vuorta"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tätä"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "kääntykää"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "pohjoiseen"
+    }
+  ],
+  "timestamp": "2026-09-06T22:22:45.666445646Z",
+  "model": "glm-5.3"
+}

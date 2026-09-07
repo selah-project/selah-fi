@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 2:10",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja lapsi kasvoi, ja hän toi hänet Paron tyttärelle, ja hänestä tuli hänelle poika. Ja hän kutsui hänen nimensä Moshe (Mooses) ja sanoi: ”Sillä vedestä minä vedin hänet ylös.”",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "Ja kasvoi"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "lapsi"
+    },
+    {
+      "surface": "ותבאהו",
+      "gloss": "ja hän toi hänet"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "tyttärelle"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja hänestä tuli"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "pojaksi"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ja hän kutsui"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hänen nimensä"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ystä"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vedestä"
+    },
+    {
+      "surface": "משיתהו",
+      "gloss": "minä vedin hänet ylös"
+    }
+  ],
+  "timestamp": "2026-09-06T21:28:49.964318288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 106,
+  "translation": "Muista minua, Jahve, kansasi suosiossa, katso minua pelastuksessasi.",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Muista minua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "suosiossa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kansasi"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "katso minua"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "pelastuksessasi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:39:04.024710715Z",
+  "model": "glm-5.3"
+}

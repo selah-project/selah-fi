@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Kun jumalaton tulee, tulee myös halveksunta, ja häpeän mukana herjaus.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "kun tulee"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "jumalaton"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tulee"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "halveksunta"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ja ... mukana"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "häpeän"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "herjaus"
+    }
+  ],
+  "timestamp": "2026-09-07T03:10:57.497724716Z",
+  "model": "glm-5.3"
+}

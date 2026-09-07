@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 6:23",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja pelastakaa minut ahdistajan kädestä, ja väkivaltaisten kädestä lunastakaa minut?",
+  "tokens": [
+    {
+      "surface": "ומלטוני",
+      "gloss": "ja pelastakaa minut"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kädestä"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ahdistajan"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ja kädestä"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "väkivaltaisten"
+    },
+    {
+      "surface": "תפדוני",
+      "gloss": "lunastakaa minut"
+    }
+  ],
+  "timestamp": "2026-09-07T03:25:14.698389180Z",
+  "model": "glm-5.3"
+}

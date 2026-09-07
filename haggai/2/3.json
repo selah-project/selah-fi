@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "haggai 2:3",
+  "book": "haggai",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Kuka teistä on jäljellä, joka näki ⟨את⟩ tämän talon sen ensimmäisessä kunnossaan? Ja mitä te nyt näette ⟨את⟩ sen? Eikö se ole teidän silmissänne kuin ei mitään?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kuka"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "teistä"
+    },
+    {
+      "surface": "הנשאר",
+      "gloss": "on jäljellä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "näki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän talon"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "בכבודו",
+      "gloss": "kunnossaan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ensimmäisessä"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Ja mitä"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "te"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "näette"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sen (tämän talon)"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Eikö"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "kuin se"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "kuin ei mitään"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "teidän silmissänne"
+    }
+  ],
+  "timestamp": "2026-09-07T01:43:37.328078156Z",
+  "model": "glm-5.3"
+}

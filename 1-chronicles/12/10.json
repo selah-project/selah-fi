@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ezer (Eeser) ensimmäinen, Ovadjah (Obadja) toinen, Eliab kolmas.",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "Ezer (Eeser)"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ensimmäinen"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "Ovadjah (Obadja)"
+    },
+    {
+      "surface": "השני",
+      "gloss": "toinen"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliab"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "kolmas"
+    }
+  ],
+  "timestamp": "2026-09-07T05:16:53.540130683Z",
+  "model": "glm-5.3"
+}

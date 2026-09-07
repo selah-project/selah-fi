@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja David ei siirtänyt ⟨את⟩ arkkia luokseen, Davidin kaupunkiin, vaan käänsi sen Obed-Edomin gatilaisen taloon.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ja ei"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "siirtänyt"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkkia"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arkkia"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "luokseen"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kaupunkiin"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "vaan käänsi sen"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "בית",
+      "gloss": "taloon"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Obed-Edomin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": ""
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "gatilaisen"
+    }
+  ],
+  "timestamp": "2026-09-07T05:19:19.802839608Z",
+  "model": "glm-5.3"
+}

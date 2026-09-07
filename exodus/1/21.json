@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja tapahtui, koska kätilöt pelkäsivät ⟨את⟩ Elohimia, että hän teki heille talot.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "pelkäsivät"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "kätilöt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimia"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimia"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "tei"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "talot"
+    }
+  ],
+  "timestamp": "2026-09-06T21:27:39.449104936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 45:3",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 45,
+  "translation": "Sinä sanoit: Voi nyt minua, sillä Jahve lisäsi surun kipuni päälle; väsyin huokauksissani, enkä lepoa löytänyt.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "sanoit"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "Voi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "lisäsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "surun"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "מכאבי",
+      "gloss": "kipuni"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "väsyin"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "huokauksissani"
+    },
+    {
+      "surface": "ומנוחה",
+      "gloss": "ja lepoa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "löytänyt"
+    }
+  ],
+  "timestamp": "2026-09-07T00:45:52.295291910Z",
+  "model": "glm-5.3"
+}

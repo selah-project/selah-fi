@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 107,
+  "translation": "Sillä hän ravitsi kylläisyydellä himoitsevan nefeshin, ja nälkäisen nefeshin hän täytti hyvällä.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "hän ravitsi kylläisyydellä"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefeshin"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "himoitsevan"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ja nälkäisen nefeshin"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "nälkäisen"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "hän täytti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvällä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:38:24.120948784Z",
+  "model": "glm-5.3"
+}

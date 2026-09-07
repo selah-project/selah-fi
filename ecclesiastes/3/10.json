@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Olen nähnyt ⟨את⟩ vaivan, jonka Elohim on antanut ihmislapsille, että he vaivautuisivat siinä.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "olen nähnyt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaivan"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "vaivan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "on antanut"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "lapsille"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihmisen"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "vaivautuisivat"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siinä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:36:13.922378606Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja Israelin pojat palvelivat ⟨את⟩ Eglonia, Moabin kuningasta, kahdeksantoista vuotta.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "palvelivat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eglonia"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglonia"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkasta"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabin"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "kahdeksan"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "toista"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    }
+  ],
+  "timestamp": "2026-09-06T22:55:03.266314232Z",
+  "model": "glm-5.3"
+}

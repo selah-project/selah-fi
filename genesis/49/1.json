@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 49:1",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 49,
+  "translation": "Ja Ja'akov (Jaakob) kutsui poikansa luokseen ja sanoi: ”Kääntykää kokoon, ja minä ilmoitan teille ⟨את⟩ sen, minkä kohtalo ⟨את⟩ teitä kohtaa päivien lopulla.”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ja kutsui"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luokseen"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "poikansa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "האספו",
+      "gloss": "kääntykää kokoon"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "ja minä ilmoitan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen, minkä kohtalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minkä"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "kohtaa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teitä"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "lopulla"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "päivien"
+    }
+  ],
+  "timestamp": "2026-09-06T21:28:25.736459846Z",
+  "model": "glm-5.3"
+}

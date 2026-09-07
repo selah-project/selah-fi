@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 76,
+  "translation": "Ja hänen majansa ⟨on⟩ Shalemissa (Saalem) ja hänen asuinsijansa Tsijonissa (Siion).",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja ... oli"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "Shalemissa"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "hänen majansa"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "ja hänen asuinsijansa"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsijonissa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:22:31.397545073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja Jahve sanoi satanille: Mistä sinä tulet? Ja satan vastasi ⟨את⟩ Jahvea ja sanoi: Maan kiertämisestä ja vaeltamisesta sitä pitkin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "satanille"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "satan"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "mistä"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "sinä tulet"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "ja vastasi"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "kiertämisestä"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "ja vaeltamisesta"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sitä pitkin"
+    }
+  ],
+  "timestamp": "2026-09-07T03:24:16.453252802Z",
+  "model": "glm-5.3"
+}

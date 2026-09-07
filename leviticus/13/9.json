@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Spitaalin tauti, kun sitä ⟨on⟩ ihmisessä, ja hänet tuodaan kohenin (papin) eteen.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "tauti"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "spitaalin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "on"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ihmisessä"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "ja hänet tuodaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:52:28.185151533Z",
+  "model": "glm-5.3"
+}

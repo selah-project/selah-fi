@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Sylilasten ja rintalasten suusta sinä perustit voiman vihollistesi tähden, hiljentämään vihollisen ja kostajan.",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "suusta"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "Sylilasten"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "ja rintalasten"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "perustit"
+    },
+    {
+      "surface": "עז",
+      "gloss": "voiman"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "vihollistesi"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "hiljentämään"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "vihollisen"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "ja kostajan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:53:18.067572727Z",
+  "model": "glm-5.3"
+}

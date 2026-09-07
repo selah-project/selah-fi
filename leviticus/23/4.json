@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Nämä ovat Jahven määräajat, pyhiä kokouksia, jotka te julistatte ⟨את⟩ niitä niiden omilla määräajoillaan.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Nämä"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "määräajat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "kokouksia"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhiä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "te julistatte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ niitä",
+      "marks": "niiden omilla määräajoillaan"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "niiden omilla määräajoillaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:58:09.096239095Z",
+  "model": "glm-5.3"
+}

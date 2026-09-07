@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 31:15",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Eikö hän, joka loi minut kohdussa, luonut häntä? Ja eikö yksi valmistanut meitä kohdussa?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Eikö"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "kohdussa"
+    },
+    {
+      "surface": "עשני",
+      "gloss": "loi minut"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "luonut hänet"
+    },
+    {
+      "surface": "ויכננו",
+      "gloss": "ja valmisti"
+    },
+    {
+      "surface": "ברחם",
+      "gloss": "kohdussa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yksi"
+    }
+  ],
+  "timestamp": "2026-09-07T03:43:33.755248900Z",
+  "model": "glm-5.3"
+}

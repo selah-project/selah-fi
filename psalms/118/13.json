@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 118,
+  "translation": "Työntäen sinä työnsit minua kaatumaan, ja Jahve auttoi minua.",
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "työntäen"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "sinä työnsit minua"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "kaatumaan"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ja Jahve"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "auttoi minua"
+    }
+  ],
+  "timestamp": "2026-09-07T04:34:02.000193815Z",
+  "model": "glm-5.3"
+}

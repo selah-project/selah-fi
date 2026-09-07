@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ja hän laski ⟨את⟩ kätensä hänen päällensä ja antoi hänelle tehtävän, niinkuin Jahve oli puhunut Moshen kädellä.",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "ja hän laski"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kätensä"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "kätensä"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hänen päällensä"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "ja käski häntä"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niinkuin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oli puhunut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kädellä"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshen"
+    }
+  ],
+  "timestamp": "2026-09-06T22:17:01.067113087Z",
+  "model": "glm-5.3"
+}

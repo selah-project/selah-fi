@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 8:32",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja Miklot siitti ⟨את⟩ Shimean; ja hekin asuivat veljiensä edessä Jerushalajimissa (Jerusalemissa) veljiensä kanssa.",
+  "tokens": [
+    {
+      "surface": "ומקלות",
+      "gloss": "Ja Miklot"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shimean"
+    },
+    {
+      "surface": "שמאה",
+      "gloss": "Shimean"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ja myös"
+    },
+    {
+      "surface": "המה",
+      "gloss": "he"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "veljiensä"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "asuivat"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerushalajimissa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "veljiensä"
+    }
+  ],
+  "timestamp": "2026-09-07T05:15:11.853109400Z",
+  "model": "glm-5.3"
+}

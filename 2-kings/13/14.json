@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 13:14",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja Elisha sairastui ⟨את⟩ sairautensa, johon hän kuolisi; ja Yoash, Israelin kuningas, tuli alas hänen luokseen ja itki hänen kasvoillaan ja sanoi: ”Isäni, isäni! Israelin vaunut ja sen ratsumiehet!”",
+  "tokens": [
+    {
+      "surface": "ואלישע",
+      "gloss": "Ja Elisha"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "sairastui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sairautensa"
+    },
+    {
+      "surface": "חליו",
+      "gloss": "sairautensa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "johon"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "hän kuolisi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siihen"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ja tuli alas"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänen luokseen"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "ja itki"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "hänen kasvojensa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Isäni"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "isäni"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "vaunut"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "ja sen ratsumiehet"
+    }
+  ],
+  "timestamp": "2026-09-06T23:53:24.018947121Z",
+  "model": "glm-5.3"
+}

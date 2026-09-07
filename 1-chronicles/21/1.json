@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 21:1",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja saatana nousi Israelia vastaan ja yllytti ⟨את⟩ Davidin (Daavid) laskemaan ⟨את⟩ Israelin.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ja nousi"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "saatana"
+    },
+    {
+      "surface": "על",
+      "gloss": "vastaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelia"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "ja yllytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidin"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "laskemaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:23:52.931457977Z",
+  "model": "glm-5.3"
+}

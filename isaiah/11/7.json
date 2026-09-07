@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 11:7",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja lehmä ja karhu laiduntavat yhdessä, niiden poikaset makaavat yhdessä, ja leijona syö olkia kuin härkä.",
+  "tokens": [
+    {
+      "surface": "ופרה",
+      "gloss": "ja lehmä"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "ja karhu"
+    },
+    {
+      "surface": "תרעינה",
+      "gloss": "laiduntavat"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "yhdessä"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "makaavat"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "niiden poikaset"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "ja leijona"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "kuin härkä"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "syö"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "olkia"
+    }
+  ],
+  "timestamp": "2026-09-07T00:04:29.506642297Z",
+  "model": "glm-5.3"
+}

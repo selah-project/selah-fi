@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Ja nainen sanoi: ⟨את⟩ kuka minä nostan sinulle ylös? Ja hän sanoi: ⟨את⟩ Shmuel (Samuel) — nosta minulle ylös.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "nainen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuka"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "nostan ylös"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shmuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "nosta ylös"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    }
+  ],
+  "timestamp": "2026-09-06T23:16:27.946353129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 1:5",
+  "book": "malachi",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Teidän silmänne näkevät, ja te sanotte: ”Suuri ⟨on⟩ Jahve Israelin rajaa yli.”",
+  "tokens": [
+    {
+      "surface": "ועיניכם",
+      "gloss": "Teidän silmänne"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "näkevät"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ja te"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "sanotte"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "Suuri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "yli"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "rajan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-07T01:50:09.789779386Z",
+  "model": "glm-5.3"
+}

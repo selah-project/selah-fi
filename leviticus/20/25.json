@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 20:25",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja te erotatte puhtaan eläimen saastaan ja saastaisen linnun puhtaaseen, älkääkä tehkö ⟨את⟩ nefeshianne kauhistaviksi eläimellä eikä linnulla eikä millään, joka matelee maassa, jonka minä olen erottanut teille saastaiseksi.",
+  "tokens": [
+    {
+      "surface": "והבדלתם",
+      "gloss": "Ja erotatte"
+    },
+    {
+      "surface": "בין",
+      "gloss": "välille"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "eläimen"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "puhtaan"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "saastaan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja välille"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "linnun"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "saastaisen"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "puhtaaseen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "tehkö kauhistaviksi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefeshianne"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "nefeshianne"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "eläimellä"
+    },
+    {
+      "surface": "ובעוף",
+      "gloss": "eikä linnulla"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "eikä millään"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "matelevalla"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "הבדלתי",
+      "gloss": "minä olen erottanut"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "לטמא",
+      "gloss": "saastaiseksi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:57:00.763604133Z",
+  "model": "glm-5.3"
+}

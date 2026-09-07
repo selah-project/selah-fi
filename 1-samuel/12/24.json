@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 12:24",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Vaan pelätäkää ⟨את⟩ Jahvea ja palvelkaa ⟨את⟩ häntä totuudessa koko sydämestänne, sillä katsokaa ⟨את⟩ sitä, kuinka suuria hän on tehnyt teidän kanssanne.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "vaan"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "pelätäkää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "ja palvelkaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ häntä"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "totuudessa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "sydämestänne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "katsokaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sitä, kuinka suuria hän on tehnyt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "on suureksi tehnyt"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "teidän kanssanne"
+    }
+  ],
+  "timestamp": "2026-09-07T04:20:47.914134417Z",
+  "model": "glm-5.3"
+}

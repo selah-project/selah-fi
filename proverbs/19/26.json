@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 19:26",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ryöstää isänsä ja karkottaa äitinsä — poika, joka häpäisee ja tuo häpeän.",
+  "tokens": [
+    {
+      "surface": "משדד",
+      "gloss": "ryöstää"
+    },
+    {
+      "surface": "אב",
+      "gloss": "isänsä"
+    },
+    {
+      "surface": "יבריח",
+      "gloss": "karkottaa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "äitinsä"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "häpäisee"
+    },
+    {
+      "surface": "ומחפיר",
+      "gloss": "ja tuo häpeän"
+    }
+  ],
+  "timestamp": "2026-09-07T03:13:26.487784099Z",
+  "model": "glm-5.3"
+}

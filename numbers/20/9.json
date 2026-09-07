@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja Moshe otti ⟨את⟩ sauvan Jahven edestä, kuten tämä oli häntä käskenyt.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "otti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sauvan"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "sauvan"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "edestä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kuten"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "oli häntä käskenyt"
+    }
+  ],
+  "timestamp": "2026-09-06T22:13:57.809755180Z",
+  "model": "glm-5.3"
+}

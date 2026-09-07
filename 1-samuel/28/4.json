@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Ja Pelishtiläiset kokoontuivat ja tulivat ja leiriytyivät Shunemissa; ja Shaul kokosi ⟨את⟩ koko Israelin, ja he leiriytyivät Gilboassa.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "Ja kokoontuivat"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtiläiset"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ja tulivat"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ja leiriytyivät"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "Shunemissa"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "ja kokosi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko Israelin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ja he leiriytyivät"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "Gilboassa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:17:32.765821337Z",
+  "model": "glm-5.3"
+}

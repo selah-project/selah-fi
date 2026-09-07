@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 19:13",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja Mikal (Miikal) otti ⟨את⟩ terafimit ja pani ⟨את⟩ vuohenkarvamakuun vuoteelle, pani sen hänen tyynynsā kohdalle ja peitti sen vaatteella.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "Ja otti"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terafimit"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafimit"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "ja pani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vuoteelle"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "vuoteelle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "vuohenkarvamakuun"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "makuun"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "vuohenkarva-"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "pani hän"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "hänen tyynynsä kohdalle"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "ja peitti"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "vaatteella"
+    }
+  ],
+  "timestamp": "2026-09-06T23:12:47.258613355Z",
+  "model": "glm-5.3"
+}

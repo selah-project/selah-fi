@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 22:20",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja pakeni yksi poika Ahimelekin, Ahitubin pojan, ja hänen nimensä oli Ebyatar, ja hän pakeni Davidin perässä.",
+  "tokens": [
+    {
+      "surface": "וימלט",
+      "gloss": "Ja pakeni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "Ahimelekin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "Ahitubin"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ja hänen nimensä"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ebyatar"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "ja hän pakeni"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "perässä"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:15:05.768743638Z",
+  "model": "glm-5.3"
+}

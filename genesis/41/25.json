@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 41:25",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 41,
+  "translation": "Ja Josef ⟨Joosef⟩ sanoi Parolle ⟨farao⟩: Paron uni ⟨on⟩ yksi — ⟨את⟩ sen, minkä Elohim tekee, hän on ilmoittanut Parolle.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "←"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parolle"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "uni"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨on⟩ se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen, minkä Elohim tekee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minkä"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tekee"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "on ilmoittanut"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Parolle"
+    }
+  ],
+  "timestamp": "2026-09-06T21:22:35.200238270Z",
+  "model": "glm-5.3"
+}

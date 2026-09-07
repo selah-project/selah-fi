@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja Elohim antoi ⟨את⟩ Danielin hesediin (liitolliseen armoon) ja laupeuteen eunukkien ruhtinaan edessä.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ja antoi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Danielin"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Danielin"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "hesediin"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "ja laupeuteen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ruhtinaan"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "eunukkien"
+    }
+  ],
+  "timestamp": "2026-09-07T04:44:27.279515550Z",
+  "model": "glm-5.3"
+}

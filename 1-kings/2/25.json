@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 2:25",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja kuningas Shelomo lähetti Benajahun, Jehojadan pojan, käden kautta, ja hän löi hänet, ja hän kuoli.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ja lähetti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käden kautta"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojada"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "ja löi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hänet"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ja hän kuoli"
+    }
+  ],
+  "timestamp": "2026-09-06T23:33:11.338202968Z",
+  "model": "glm-5.3"
+}

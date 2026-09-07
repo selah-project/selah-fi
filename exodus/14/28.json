@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 14:28",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja vedet palasivat ja peittivät ⟨את⟩ vaunut ja ⟨את⟩ ratsujoukot, koko Paron sotajoukon, joka tuli heidän perässään mereen; ei heistä jäänyt jäljelle ainoatakaan.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Ja palasivat"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vedet"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "ja peittivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaunut"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "vaunut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "ratsujoukot"
+    },
+    {
+      "surface": "הפרשים",
+      "gloss": "ratsujoukot"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sotajoukon"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "joka tuli"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "heidän perässään"
+    },
+    {
+      "surface": "בים",
+      "gloss": "mereen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "jäänyt"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "heistä"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ainoatakaan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yhtä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:33:55.103791512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "⟨את⟩ Edomin ja ⟨את⟩ Moavin ja ⟨את⟩ Ammonin pojat",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomin"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Moavin"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moavin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Ammonin pojat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammonin"
+    }
+  ],
+  "timestamp": "2026-09-07T00:34:25.125461293Z",
+  "model": "glm-5.3"
+}

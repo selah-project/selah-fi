@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 17:20",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja David nousi varhain aamulla ja jätti ⟨את⟩ lampaat vartijan hoitoon ja lähti liikkeelle ja meni niin kuin Jishai (Isai) oli häntä käskenyt; ja hän tuli varustuksen ääreen, ja sotajoukko, joka marssi rintamaan, nosti taisteluhuudon.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "nousi varhain"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamulla"
+    },
+    {
+      "surface": "ויטש",
+      "gloss": "ja jätti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lampaat"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "lampaat"
+    },
+    {
+      "surface": "על",
+      "gloss": "vartijan hoitoon"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "vartijan"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ja lähti liikkeelle"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ja meni"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "oli käskenyt"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jishai"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ja hän tuli"
+    },
+    {
+      "surface": "המעגלה",
+      "gloss": "varustuksen ääreen"
+    },
+    {
+      "surface": "והחיל",
+      "gloss": "ja sotajoukko"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "joka marssi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rintamaan"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "rintamaan"
+    },
+    {
+      "surface": "והרעו",
+      "gloss": "nosti taisteluhuudon"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "taisteluhuudon"
+    }
+  ],
+  "timestamp": "2026-09-07T05:59:56.748771128Z",
+  "model": "glm-5.3"
+}

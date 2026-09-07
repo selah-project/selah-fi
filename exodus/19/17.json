@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja Moshe (Mooses) vei ⟨את⟩ kansan Elohimin tapaamiseen pois leiristä, ja he asettuivat vuoren juurelle.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "vei"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "tapaamiseen"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "pois"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "leiristä"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "ja asettuivat"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "juurelle"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "vuoren"
+    }
+  ],
+  "timestamp": "2026-09-06T21:35:31.107868223Z",
+  "model": "glm-5.3"
+}

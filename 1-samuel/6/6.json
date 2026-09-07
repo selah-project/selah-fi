@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 6:6",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja miksi te paadutatte ⟨את⟩ sydämenne, niin kuin Mitsrajim ja Paro paaduksivat ⟨את⟩ sydämensä? Eikö niin, kuin hän leikitteli heidän kanssaan, he lähettivät heidät pois, ja he lähtivät?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "ja miksi"
+    },
+    {
+      "surface": "תכבדו",
+      "gloss": "te paadutatte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sydämenne"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "sydämenne"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "paaduksivat"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "ja Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sydämensä"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "sydämensä"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "eikö"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "התעלל",
+      "gloss": "hän leikitteli"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "heidän kanssaan"
+    },
+    {
+      "surface": "וישלחום",
+      "gloss": "he lähettivät heidät pois"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ja he lähtivät"
+    }
+  ],
+  "timestamp": "2026-09-06T23:07:31.090535929Z",
+  "model": "glm-5.3"
+}

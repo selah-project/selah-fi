@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 9:11",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Toisessa kuussa, neljäntenätoista päivänä, iltojen välissä he valmistavat ⟨את⟩ sen; happamattomien leipien ja karvaiden yrttien kanssa he syövät sen.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "kuussa"
+    },
+    {
+      "surface": "השני",
+      "gloss": "toisessa"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "neljäntenä"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "toista"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "בין",
+      "gloss": "välissä"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "iltojen"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "valmistavat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sen",
+      "marks": "sen (pesah)"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "מצות",
+      "gloss": "happamattomien leipien"
+    },
+    {
+      "surface": "ומררים",
+      "gloss": "ja karvaiden yrttien"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "he syövät sen"
+    }
+  ],
+  "timestamp": "2026-09-06T22:07:11.501747023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 20:7",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja kuka on mies, joka kihlasi vaimon eikä ole ottanut häntä? Menköön ja palatkoon taloonsa, ettei hän kuolisi taistelussa ja ettei toinen mies ottaisi häntä.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "ja kuka"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "on mies"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "ארש",
+      "gloss": "kihlasi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "vaimon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "ottanut"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "menköön"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja palatkoon"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "taloonsa"
+    },
+    {
+      "surface": "פן",
+      "gloss": "että ei"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "kuolisi"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "taistelussa"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ja mies"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "toinen"
+    },
+    {
+      "surface": "יקחנה",
+      "gloss": "ottaisi häntä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:32:46.923184245Z",
+  "model": "glm-5.3"
+}

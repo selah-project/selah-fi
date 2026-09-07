@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Siirtävä kiviä vahingoittuu niihin; halkaiseva puita vaarantuu niihin.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "siirtävä"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kiviä"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "vahingoittuu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "niihin"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "halkaiseva"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "puita"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "vaarantuu"
+    },
+    {
+      "surface": "בם",
+      "gloss": "niihin"
+    }
+  ],
+  "timestamp": "2026-09-07T04:37:51.687828491Z",
+  "model": "glm-5.3"
+}

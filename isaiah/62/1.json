@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 62:1",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 62,
+  "translation": "Tsijonin (Siionin) tähden en vaiene, enkä Jerushalajimin (Jerusalemin) tähden lepoa pidä, kunnes hänen vanhurskautensa käy esiin kirkkautena ja hänen pelastuksensa kirkuvana soihduna.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijonin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אחשה",
+      "gloss": "vaiene"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "enkä … tähden"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אשקוט",
+      "gloss": "lepoa pidä"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "käy esiin"
+    },
+    {
+      "surface": "כנגה",
+      "gloss": "kirkkautena"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "vanhurskautensa"
+    },
+    {
+      "surface": "וישועתה",
+      "gloss": "ja hänen pelastuksensa"
+    },
+    {
+      "surface": "כלפיד",
+      "gloss": "soihduna"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "kirkuvana"
+    }
+  ],
+  "timestamp": "2026-09-07T00:21:53.043381536Z",
+  "model": "glm-5.3"
+}

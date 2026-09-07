@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 21:14",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja hylkään ⟨את⟩ perintöni jäännöksen ja annan heidät heidän vihollistensa käteen, ja he tulevat ryöstösaaliiksi ja saaliiksi kaikille heidän vihollisilleen.",
+  "tokens": [
+    {
+      "surface": "ונטשתי",
+      "gloss": "Ja hylkään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perintöni jäännöksen"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "jäännöksen"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "perintöni"
+    },
+    {
+      "surface": "ונתתים",
+      "gloss": "ja annan heidät"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käteen"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "heidän vihollistensa"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ja he tulevat"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "ryöstösaaliiksi"
+    },
+    {
+      "surface": "ולמשסה",
+      "gloss": "ja saaliiksi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kaikille"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "heidän vihollisilleen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:58:58.974353624Z",
+  "model": "glm-5.3"
+}

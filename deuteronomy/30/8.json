@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja sinä palaat ja kuulet Jahven äänen ja teet ⟨את⟩ kaikki hänen käskynsä, jotka minä käsken sinulle tänään.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ja sinä"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "palaat"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "ja kuulet"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "äänen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ja teet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki hänen käskynsä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "hänen käskynsä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "käsken sinulle"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tänään"
+    }
+  ],
+  "timestamp": "2026-09-07T04:15:53.156971281Z",
+  "model": "glm-5.3"
+}

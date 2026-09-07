@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 13:18",
+  "book": "nehemiah",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Eivätkö teidän isänne juuri näin tehneet, ja Elohimimme toi meidän päällemme ⟨את⟩ kaiken tämän pahan, ja ⟨sen⟩ myös tämän kaupungin päälle — ja te lisäätte vihan hehkua Israelin päälle ⟨sen⟩ häpäisemällä ⟨את⟩ Shabbatin?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "eivätkö"
+    },
+    {
+      "surface": "כה",
+      "gloss": "juuri näin"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "tekivät"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "teidän isänne"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ja toi"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimme"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "meidän päällemme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken tämän pahan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "pahan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja ⟨sen⟩ … päälle"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ja te"
+    },
+    {
+      "surface": "מוסיפים",
+      "gloss": "lisäätte"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "vihan hehkua"
+    },
+    {
+      "surface": "על",
+      "gloss": "…n päälle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "לחלל",
+      "gloss": "hämpäisemään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabbatin"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbatin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:10:41.964465082Z",
+  "model": "glm-5.3"
+}

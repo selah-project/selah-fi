@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 10:13",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja Jehu tapasi ⟨את⟩ Ahazjahun veljet, Jehudan kuninkaan, ja hän sanoi: Kuka te olette? Ja he sanoivat: Me olemme Ahazjahun veljiä, ja me laskeudumme tervehtimään kuninkaan poikia ja kuningataräidin poikia.",
+  "tokens": [
+    {
+      "surface": "ויהוא",
+      "gloss": "Ja Jehu"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "tapasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahazjahun veljet"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "veljet"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahazjahun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "te"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ja he sanoivat"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "veljiä"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahazjahun"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "me"
+    },
+    {
+      "surface": "ונרד",
+      "gloss": "ja me laskeudumme"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "tervehtimään"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikia"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ja poikia"
+    },
+    {
+      "surface": "הגבירה",
+      "gloss": "kuningataräidin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:51:31.425353396Z",
+  "model": "glm-5.3"
+}

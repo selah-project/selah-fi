@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 119:41",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Ja tulkoon minulle hesedisi ⟨armosi⟩, Jahve, ⟨ja⟩ pelastuksesi sanasi mukaan.",
+  "tokens": [
+    {
+      "surface": "ויבאני",
+      "gloss": "ja se tulkoon minulle"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedisi ⟨armosi⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "pelastuksesi"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "sanasi mukaan"
+    }
+  ],
+  "timestamp": "2026-09-07T02:45:04.258958094Z",
+  "model": "glm-5.3"
+}

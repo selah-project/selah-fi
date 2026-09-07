@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Päämiehet hirtettiin heidän kättensä ⟨toimesta⟩; vanhusten kasvoja ei kunnioitettu.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "Päämiehet"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "heidän kättensä ⟨toimesta⟩"
+    },
+    {
+      "surface": "נתלו",
+      "gloss": "hirtettiin"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kasvoja"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "vanhusten"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נהדרו",
+      "gloss": "kunnioitettu"
+    }
+  ],
+  "timestamp": "2026-09-07T04:04:52.691286294Z",
+  "model": "glm-5.3"
+}

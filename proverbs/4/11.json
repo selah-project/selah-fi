@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 4:11",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Viisauden tiellä minä olen sinut opettanut, minä olen sinut ohjannut suoruuden poluilla.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "tiellä"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "viisauden"
+    },
+    {
+      "surface": "הרתיך",
+      "gloss": "minä olen sinut opettanut"
+    },
+    {
+      "surface": "הדרכתיך",
+      "gloss": "minä olen sinut ohjannut"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "poluilla"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "suoruuden"
+    }
+  ],
+  "timestamp": "2026-09-07T03:00:40.822696047Z",
+  "model": "glm-5.3"
+}

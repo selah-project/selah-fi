@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 40:32",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Aina kun he tulivat kokoustelttiin ja aina kun he lähestyivät alttaria, he pesivät, niin kuin Jahve oli käskenyt ⟨את⟩ Moshea (Mooses).",
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "kun he tulivat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "telttiin"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kokous-"
+    },
+    {
+      "surface": "ובקרבתם",
+      "gloss": "ja kun he lähestyivät"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttaria"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "he pesivät"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oli käskenyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mooses)"
+    }
+  ],
+  "timestamp": "2026-09-06T21:47:28.620075133Z",
+  "model": "glm-5.3"
+}

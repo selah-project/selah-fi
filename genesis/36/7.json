@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 36:7",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 36,
+  "translation": "sillä heidän omaisuutensa oli liian suuri, jotta he olisivat voineet asua yhdessä, eikä heidän muukalaisuutensa maa voinut kantaa ⟨את⟩ heitä heidän karjansa paljouden tähden.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "omaisuutensa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "liian suuri"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "asua"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "yhdessä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "voinut"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "מגוריהם",
+      "gloss": "muukalaisuutensa"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "kantaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "heitä"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "karjansa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:20:10.648659378Z",
+  "model": "glm-5.3"
+}

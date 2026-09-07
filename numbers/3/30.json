@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 3:30",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja Kehatin sukukuntien isäntalouden päämies ⟨on⟩ Elitsafan, Uzzielin poika.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "ja päämies"
+    },
+    {
+      "surface": "בית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "אב",
+      "gloss": "isäntalouden"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "sukukuntien"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "Kehatin"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "Elitsafan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Uzzielin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:03:16.485711518Z",
+  "model": "glm-5.3"
+}

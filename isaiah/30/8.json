@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Nyt mene, kirjoita se tauluun ⟨את⟩ ⟨אתם⟩ ja kirjaan kaiverrettuna, ja se olkoon viimeiselle päivälle, ikuiseksi, ikuisuuteen asti.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Nyt"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "mene"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "kirjoita"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "taulu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "marks": "heidän kanssansa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja päälle"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kirja"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "kaiverrettuna"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ja olkoon"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "päivälle"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "viimeiselle"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ikuiseksi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ikuisuuteen"
+    }
+  ],
+  "timestamp": "2026-09-07T07:21:08.729493470Z",
+  "model": "glm-5.3"
+}

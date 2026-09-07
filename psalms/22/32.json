@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "He tulevat ja julistavat hänen vanhurskautensa kansalle, joka on syntymässä, sillä hän on sen tehnyt.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "He tulevat"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ja julistavat"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "hänen vanhurskautensa"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kansalle"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "joka on syntymässä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hän on sen tehnyt"
+    }
+  ],
+  "timestamp": "2026-09-07T01:58:41.014624124Z",
+  "model": "glm-5.3"
+}

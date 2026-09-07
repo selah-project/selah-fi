@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Eikö kuin maitoa sinä valat minut, ja kuin juustoa sinä saat minut hyytymään?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Eikö"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "kuin maitoa"
+    },
+    {
+      "surface": "תתיכני",
+      "gloss": "sinä valat minut"
+    },
+    {
+      "surface": "וכגבנה",
+      "gloss": "ja kuin juustoa"
+    },
+    {
+      "surface": "תקפיאני",
+      "gloss": "sinä saat minut hyytymään"
+    }
+  ],
+  "timestamp": "2026-09-07T03:28:37.683138840Z",
+  "model": "glm-5.3"
+}

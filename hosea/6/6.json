@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 6:6",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Sillä hesediä (laupeus) minä haluan, en uhria, ja Elohimin tuntemista enemmän kuin polttouhreja.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesediä (laupeus)"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "minä haluan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "uhria"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ja tuntemista"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "enemmän kuin polttouhrit"
+    }
+  ],
+  "timestamp": "2026-09-07T01:20:16.165087991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 1:25",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja he teurasivat ⟨את⟩ härän ja toivat ⟨את⟩ pojan Elin luokse.",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "Ja he teurasivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "härän"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "härän"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ja toivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pojan"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luokse"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-09-06T23:05:00.961222761Z",
+  "model": "glm-5.3"
+}

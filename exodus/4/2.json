@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja sanoi Jahve hänelle: Mikä tuo on sinun kädessäsi? Ja hän sanoi: Sauvu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "Mikä tuo"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "sinun kädessäsi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "Sauvu"
+    }
+  ],
+  "timestamp": "2026-09-06T21:30:05.396591101Z",
+  "model": "glm-5.3"
+}

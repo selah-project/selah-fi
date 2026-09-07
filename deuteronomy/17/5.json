@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 17:5",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja sinä viet ulos ⟨את⟩ sen miehen tai ⟨את⟩ sen naisen, jotka tekivät ⟨את⟩ tämän pahan asian, porteillesi — ⟨את⟩ miehen tai ⟨את⟩ naisen — ja kivität heidät kivillä, ja he kuolevat.",
+  "tokens": [
+    {
+      "surface": "והוצאת",
+      "gloss": "ja sinä viet ulos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen miehen"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "sen miehen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": ""
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen naisen"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "sen naisen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": ""
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "tekivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän pahan asian"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asian"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "pahan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "אל",
+      "gloss": "porteillesi"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miehen"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naisen"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "naisen"
+    },
+    {
+      "surface": "וסקלתם",
+      "gloss": "ja kivität heidät"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "kivillä"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "ja he kuolevat"
+    }
+  ],
+  "timestamp": "2026-09-06T22:32:51.650434114Z",
+  "model": "glm-5.3"
+}

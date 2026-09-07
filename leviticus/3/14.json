@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 3:14",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja hän toi siitä uhriansa, tuliuhrina Jahvelle: ⟨את⟩ rasvan, joka peittää ⟨את⟩ suoluston, ja ⟨את⟩ kaiken rasvan, joka on suolustolla.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ja hän toi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "siitä"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "uhriansa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tuliuhrina"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rasvan"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "rasvan"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "joka peittää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suoluston"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "suoluston"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaiken rasvan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "rasvan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "suolustolla"
+    }
+  ],
+  "timestamp": "2026-09-06T21:47:39.161036481Z",
+  "model": "glm-5.3"
+}

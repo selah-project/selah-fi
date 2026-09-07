@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 17:23",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Mutta eivät he kuulleet eivätkä kallistaneet ⟨את⟩ korvaansa, vaan paaduttivat ⟨את⟩ niskansa, etteivät kuulisi eivätkä ottaisi kuritusta.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kuulleet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "kallistaneet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korvaansa"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "korvaansa"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "paaduttivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niskansa"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "niskansa"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "etteivät"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "kuulisi"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "ottaisi"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "kuritusta"
+    }
+  ],
+  "timestamp": "2026-09-07T00:33:04.211704371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 1:4",
+  "book": "amos",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja minä lähetän tulen Haza'elin (Hasael) taloon, ja se syö Ben-Hadadin (Ben-Hadad) linnakkeet.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ja minä lähetän"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tulen"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "taloon"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Haza'elin"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ja se syö"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "linnakkeet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadadin"
+    }
+  ],
+  "timestamp": "2026-09-07T01:27:45.279814741Z",
+  "model": "glm-5.3"
+}

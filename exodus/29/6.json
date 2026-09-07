@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja pane päähine hänen päähänsä, ja pane ⟨את⟩ pyhän nezerin hänen päähineensä päälle.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "Ja pane"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "päähine"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hänen päänsä"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ja pane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pyhän nezerin"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "nezer"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pyhän"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "päähineen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:40:57.819290223Z",
+  "model": "glm-5.3"
+}

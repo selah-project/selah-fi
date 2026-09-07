@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Uroksen ja naaraan hän loi heidät, ja hän siunasi ⟨את⟩ heidät, ja hän kutsui ⟨את⟩ heidän nimensä Adamin, päivänä jona heidät luotiin.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Uroksen"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "ja naaraan"
+    },
+    {
+      "surface": "בראם",
+      "gloss": "loi heidät"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ja siunasi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "heidät"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ja kutsui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän nimensä"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "heidän nimensä"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adamin"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "הבראם",
+      "gloss": "heidät luotiin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:05:29.511307652Z",
+  "model": "glm-5.3"
+}

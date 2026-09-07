@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja tapahtui juuri sinä päivänä: Jahve vei ulos ⟨את⟩ Israelin pojat Mitsrajimin (Egypti) maasta heidän joukkoinensa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "juuri"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sinä päivänä"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "vei ulos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin pojat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "joukkoinensa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:32:51.898366193Z",
+  "model": "glm-5.3"
+}

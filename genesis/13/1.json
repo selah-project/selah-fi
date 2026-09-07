@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 13:1",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja Avram (Aabraham) nousi Mitsrajimista (Egyptistä), hän ja vaimonsa ja kaikki mikä hänellä oli, ja Lot hänen kanssaan, Negeviin ⟨etelään⟩.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ja nousi"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrajimista"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ja vaimonsa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mikä"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänellä oli"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "ja Lot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hänen kanssaan"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "Negeviin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:09:10.969564317Z",
+  "model": "glm-5.3"
+}

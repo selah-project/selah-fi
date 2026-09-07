@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "⟨את⟩ jokaisen korpin, lajinsa mukaan.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jokaisen korpin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokainen"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "korppi"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "lajinsa mukaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:50:32.594727974Z",
+  "model": "glm-5.3"
+}

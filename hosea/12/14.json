@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja profeetalla Jahve nosti ⟨את⟩ Israelin Mitsrajimista, ja profeetalla ⟨hänet⟩ varjeltiin.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "Ja profeetalla"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nosti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrajimista"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "ja profeetalla"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "varjeltiin"
+    }
+  ],
+  "timestamp": "2026-09-07T04:28:58.588030157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 10:14",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Viisaat kätkövät tietoa, mutta tyhmän suu ⟨on⟩ tuhon lähellä.",
+  "tokens": [
+    {
+      "surface": "חכמים",
+      "gloss": "viisaat"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "kätkövät"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tietoa"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "mutta suu"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "tyhmän"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "tuhon"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "lähellä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:06:19.209456680Z",
+  "model": "glm-5.3"
+}

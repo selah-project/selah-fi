@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 24:14",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja hän pakkosiirsi ⟨את⟩ koko Jerushalajimin (Jerusalem) ja ⟨את⟩ kaikki ruhtinaat ja ⟨את⟩ kaikki voimasankarit — kymmenen tuhatta pakkosiirrettynä — ja kaikki käsityöläiset ja sepät; ei jäänyt ketään jäljelle paitsi maan köyhä kansa.",
+  "tokens": [
+    {
+      "surface": "והגלה",
+      "gloss": "ja hän pakkosiirsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "ruhtinaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "voimasankarit"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "sankarit"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kymmenen"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tuhatta"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "pakkosiirrettynä"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "käsityöläiset"
+    },
+    {
+      "surface": "והמסגר",
+      "gloss": "ja sepät"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "jäänyt"
+    },
+    {
+      "surface": "זולת",
+      "gloss": "paitsi"
+    },
+    {
+      "surface": "דלת",
+      "gloss": "köyhä"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:00:37.700287291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja te pidätte ⟨את⟩ tämän sanan säädöksenä itsellenne ja pojillenne iankaikkisesti.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ja te pidätte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän sanan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "tämän sanan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "säädöksenä"
+    },
+    {
+      "surface": "לך",
+      "gloss": "itsellenne"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "ja pojillenne"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iankaikkisesti"
+    }
+  ],
+  "timestamp": "2026-09-06T21:33:18.671780840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Riko jumalattoman käsivarsi ja pahan; tutki hänen pahuutensa — ⟨siihen asti ettet⟩ enää löydä.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "Riko"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "käsivarsi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "jumalattoman"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "ja pahan"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "tutki"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "hänen pahuutensa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ei enää"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "löydä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:29:16.872811365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja siunasi ⟨את⟩ heitä Elohim sanoen: Olkaa hedelmälliset ja lisääntykää ja täyttäkää ⟨את⟩ vedet merissä, ja lintu lisääntüköön maassa.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Ja siunasi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ heitä"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "Olkaa hedelmälliset"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ja lisääntykää"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ja täyttäkää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vedet"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vedet"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "merissä"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "ja lintu"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "lisääntüköön"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:04:21.680294858Z",
+  "model": "glm-5.3"
+}

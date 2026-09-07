@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja Kain tunsi ⟨את⟩ vaimonsa, ja hän tuli raskaaksi ja synnytti ⟨את⟩ Hanokhin; ja hän rakensi kaupungin ja kutsui kaupungin nimen poikansa Hanokhin nimen mukaan.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "tunsi"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kain"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaimonsa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vaimonsa"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "tuli raskaaksi"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hanokhin"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanokhin"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja tapahtui"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "rakensi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kutsui"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "nimen mukaan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "poikansa"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanokhin"
+    }
+  ],
+  "timestamp": "2026-09-07T04:10:55.345613300Z",
+  "model": "glm-5.3"
+}

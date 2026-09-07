@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 13:5",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Tulevat he maasta kaukaisesta, taivasten ääristä, Jahve ⟨ja⟩ hänen vihansa aseet, hävittämään koko maan.",
+  "tokens": [
+    {
+      "surface": "באים",
+      "gloss": "Tulevat"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "kaukaisesta"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ääristä"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivasten"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "⟨ja⟩ aseet"
+    },
+    {
+      "surface": "זעמו",
+      "gloss": "hänen vihansa"
+    },
+    {
+      "surface": "לחבל",
+      "gloss": "hävittämään"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:03:58.442135107Z",
+  "model": "glm-5.3"
+}

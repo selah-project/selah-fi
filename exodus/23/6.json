@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Älä vääristä köyhäsi oikeutta hänen riidassaan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "vääristä"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "oikeutta"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "köyhäsi"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "hänen riidassaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:37:14.446145158Z",
+  "model": "glm-5.3"
+}

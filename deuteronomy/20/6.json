@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 20:6",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja kuka on mies, joka istutti viinitarhan eikä ole alkanut käyttää sitä? Menköön ja palatkoon taloonsa, ettei hän kuolisi taistelussa ja ettei toinen mies alkaisi käyttää sitä.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "ja kuka"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "on mies"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "istutti"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "viinitarhan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "alkanut käyttää"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "menköön"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja palatkoon"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "taloonsa"
+    },
+    {
+      "surface": "פן",
+      "gloss": "että ei"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "kuolisi"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "taistelussa"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ja mies"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "toinen"
+    },
+    {
+      "surface": "יחללנו",
+      "gloss": "alkaisi käyttää sitä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:32:46.922751823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja sinä teet viisikymmentä kuparikoukkua ja saatat ⟨את⟩ koukut lenkkeihin, ja sinä yhdistät ⟨את⟩ teltan, ja siitä tulee yksi.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ja sinä teet"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "koukkua"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kupari-"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "viisikymmentä"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "ja saatat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koukut"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "koukut"
+    },
+    {
+      "surface": "בללאת",
+      "gloss": "lenkkeihin"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "ja yhdistät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teltan"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "teltan"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ja siitä tulee"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yksi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:39:22.023751562Z",
+  "model": "glm-5.3"
+}

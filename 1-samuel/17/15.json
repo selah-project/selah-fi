@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja David kulki ja palasi Shaulin luota kaitsemaan ⟨את⟩ isänsä lammasta Beet Lehemissä.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Ja David"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "kulki"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ja palasi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "luota"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulin"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "kaitsemaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isänsä lammasta"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "lammas"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isänsä"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehemissä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:10:40.709843238Z",
+  "model": "glm-5.3"
+}

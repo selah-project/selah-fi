@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 105:21",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 105,
+  "translation": "Hän asetti hänet talonsa herraksi ja kaiken omaisuutensa hallitsijaksi.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "asetti"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "herraksi"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "talonsa"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ja hallitsijaksi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "omaisuutensa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:38:27.768752123Z",
+  "model": "glm-5.3"
+}

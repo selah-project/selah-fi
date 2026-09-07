@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Nouse, Jahve, älä anna kuolevaisen väkevöityä; tuomittakoot kansat sinun kasvojesi edessä.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Nouse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "väkevöityä"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "kuolevaisen"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "tuomittakoot"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kansat"
+    },
+    {
+      "surface": "על",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sinun kasvojesi"
+    }
+  ],
+  "timestamp": "2026-09-07T01:55:22.477284108Z",
+  "model": "glm-5.3"
+}

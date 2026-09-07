@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 4:14",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Sinä päivänä Jahve suursi ⟨את⟩ Jehoshuan koko Israelin silmissä, ja he pelkäsivät ⟨את⟩ häntä, niin kuin he olivat pelänneet ⟨את⟩ Moshea, kaikki hänen elinpäivänsä.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sinä päivänä"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "suursi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoshuan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshuan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "silmissä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ja he pelkäsivät"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ häntä",
+      "marks": "häntä (Jehoshua)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "he pelkäsivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päivänsä"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "elin-"
+    }
+  ],
+  "timestamp": "2026-09-06T22:39:38.635290545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Jahve, sinä säätät meille shalomia, sillä myös kaikki meidän tekemme sinä olet tehnyt meille.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "sinä säätät"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalomia"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meille"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "meidän tekemme"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "sinä olet tehnyt"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meille"
+    }
+  ],
+  "timestamp": "2026-09-07T04:26:10.524216397Z",
+  "model": "glm-5.3"
+}

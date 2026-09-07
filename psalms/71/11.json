@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 71,
+  "translation": "sanoen: ”Elohim on hylännyt hänet; ajakaa takaa ja ottakaa hänet kiinni, sillä ei ole pelastajaa.”",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "on hylännyt hänet"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "ajakaa takaa"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "ja ottakaa hänet kiinni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "pelastajaa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:18:49.438137145Z",
+  "model": "glm-5.3"
+}

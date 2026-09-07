@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 13:6",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Heidän laitumiensa mukaisesti he kylläistyivät; kylläistyivät, ja heidän sydämensä kohosi; siksi he unohtivat minut.",
+  "tokens": [
+    {
+      "surface": "כמרעיתם",
+      "gloss": "Heidän laitumiensa mukaisesti"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "he kylläistyivät"
+    },
+    {
+      "surface": "שבעו",
+      "gloss": "kylläistyivät"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "ja ... kohosi"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "heidän sydämensä"
+    },
+    {
+      "surface": "על",
+      "gloss": "siksi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "siksi"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "he unohtivat minut"
+    }
+  ],
+  "timestamp": "2026-09-07T01:23:20.078595879Z",
+  "model": "glm-5.3"
+}

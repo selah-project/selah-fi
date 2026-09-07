@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 9:5",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja minä pystytän ⟨את⟩ valtakuntasi valtaistuimen Israelin ylle iankaikkisesti, niin kuin minä puhuin Davidista (Daavid), isästäsi, sanoen: ei sinulta leikata pois miestä Israelin valtaistuimelta.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "Ja minä pystytän"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "valtaistuimen"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "valtaistuimen"
+    },
+    {
+      "surface": "ממלכתך",
+      "gloss": "valtakuntasi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ylle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "minä puhuin"
+    },
+    {
+      "surface": "על",
+      "gloss": "ssä (yhdyssä: Davidista)"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidista (Daavid)"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "isästäsi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "leikata pois"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miestä"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "pois"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "valtaistuimelta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:38:11.977657050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 17:20",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja hän huusi Jahvea ja sanoi: Jahve, Elohimini, oletko tuonut pahaa myös sen lesken päälle, jonka luona minä muukalaisena olen, tappamalla ⟨את⟩ hänen poikansa?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ja hän huusi"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimini"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "האלמנה",
+      "gloss": "sen lesken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "מתגורר",
+      "gloss": "muukalaisena olen"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "jonka luona"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "oletko tuonut pahaa"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "tappamalla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen poikansa"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "hänen poikansa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:42:47.958773939Z",
+  "model": "glm-5.3"
+}

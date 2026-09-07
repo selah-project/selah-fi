@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Sanani — kuule ⟨niitä⟩, Jahve, ymmärrä huokaukseni.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "sanani"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "kuule"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ymmärrä"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "huokaukseni"
+    }
+  ],
+  "timestamp": "2026-09-07T01:52:17.995863039Z",
+  "model": "glm-5.3"
+}

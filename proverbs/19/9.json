@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Valehtelija todistaja ei jää rankaisematta, ja valheita puhaltava hukkuu.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "todistaja"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "valehtelija"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "jää rankaisematta"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "ja puhaltava"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "valheita"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "hukkuu"
+    }
+  ],
+  "timestamp": "2026-09-07T03:11:45.192103558Z",
+  "model": "glm-5.3"
+}

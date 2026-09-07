@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Riemuitsen ja iloitan hesedissäsi (laupeudessasi), sillä sinä näit ⟨את⟩ kurjuuteni, sinä tunsit ahdistuksissa nefeshini.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "Riemuitsen"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "ja iloitse"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "hesedissäsi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "sinä näit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurjuuteni"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "kurjuuteni"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "sinä tunsit"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "ahdistuksissa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshini"
+    }
+  ],
+  "timestamp": "2026-09-07T02:02:15.267996571Z",
+  "model": "glm-5.3"
+}

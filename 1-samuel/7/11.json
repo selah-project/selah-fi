@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja Israelin miehet lähtivät liikkeelle Mitspasta ja ajoivat takaa ⟨את⟩ filistealaisia ja löivät heitä aina Bet-Karin alapuolelle saakka.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Ja lähtivät liikkeelle"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "pois"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitspasta"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "ja ajoivat takaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistealaisia"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistealaisia"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "ja löivät heitä"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "alapuolelle"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "כר",
+      "gloss": "Kar"
+    }
+  ],
+  "timestamp": "2026-09-06T23:06:25.042350465Z",
+  "model": "glm-5.3"
+}

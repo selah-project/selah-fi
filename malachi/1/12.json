@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Mutta te häpäisette ⟨את⟩ sen, sanoessanne: ”Adonain pöytä ⟨on⟩ saastainen, ja sen antimet — sen ruoka ⟨on⟩ halveksittu.”",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Mutta te"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "häpäisette"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "sen (nimen)"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "sanoessanne"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "pöytä"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonain"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "saastainen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se on"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "ja sen antimet"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "halveksittu"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ruoka"
+    }
+  ],
+  "timestamp": "2026-09-07T01:49:42.053197793Z",
+  "model": "glm-5.3"
+}

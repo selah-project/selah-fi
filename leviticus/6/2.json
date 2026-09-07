@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 6:2",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Käske ⟨את⟩ Aharonia (Aaron) ja ⟨את⟩ hänen poikiaan sanoen: Tämä on polttouhrin Tora (Toora): se ⟨on⟩ polttouhri, joka on tulisijallaan alttarilla koko yön aamuun asti, ja alttarin tuli palaa siinä.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Käske"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharonin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen poikiaan"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "poikiaan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Tämä"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "polttouhrin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "polttouhri"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "מוקדה",
+      "gloss": "tulisijallaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "alttarilla"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarilla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "yön"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "aamuun"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "palaa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siinä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:49:53.461846244Z",
+  "model": "glm-5.3"
+}

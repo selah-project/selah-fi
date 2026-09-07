@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja minä lähetän heidän keskellensä ⟨את⟩ miekan, ⟨את⟩ nälän ja ⟨את⟩ ruton, kunnes he ovat hävinneet pois sen maan pinnalta, jonka minä annoin heille ja heidän isillensä.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ja minä lähetän"
+    },
+    {
+      "surface": "בם",
+      "gloss": "heidän keskellensä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miekan"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "miekan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nälän"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "nälän"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "ruton"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ruton"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "he ovat hävinneet"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "pois ... pinnalta"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "sen maan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "minä annoin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "ja heidän isillensä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:36:29.747230224Z",
+  "model": "glm-5.3"
+}

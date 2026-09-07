@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 27:34",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Kun Esav kuuli ⟨את⟩ isänsä sanat, hän huusi suuren ja katkeran huudon, ylen paljon, ja sanoi isälleen: Siunaa minua, myös minua, isäni!",
+  "tokens": [
+    {
+      "surface": "כשמע",
+      "gloss": "kun kuuli"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isänsä sanat"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isänsä"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "ja hän huusi"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "huudon"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "suuren"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "ja katkeran"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ylen"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "paljon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "isälleen"
+    },
+    {
+      "surface": "ברכני",
+      "gloss": "siunaa minua"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minua"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "isäni"
+    }
+  ],
+  "timestamp": "2026-09-06T21:17:38.065259733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 8:34",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja sen jälkeen hän luki ⟨את⟩ kaikki Toran (Toora) sanat, siunauksen ja kirouksen, kaiken mikä ⟨on⟩ kirjoitettu Toran kirjaan.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Ja sen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "jälkeen"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "hän luki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki Toran sanat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Toran"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "siunauksen"
+    },
+    {
+      "surface": "והקללה",
+      "gloss": "ja kirouksen"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "kirjoitetun"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "kirjaan"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Toran"
+    }
+  ],
+  "timestamp": "2026-09-06T22:41:54.855338407Z",
+  "model": "glm-5.3"
+}

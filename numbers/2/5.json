@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 2:5",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja sen viereen leiriytyvät: Yissaskarin (Isaskar) heimo, ja Yissaskarin poikien päämies ⟨on⟩ Netanel (Netanel), Tsoarin poika.",
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "ja leiriytyvät"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sen viereen"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "heimo"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskarin"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "ja päämies"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "poikien"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskarin"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netanel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Tsoarin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:02:28.747287760Z",
+  "model": "glm-5.3"
+}

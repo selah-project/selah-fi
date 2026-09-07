@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 10:17",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Niiden seistessä nämä seisoivat, ja niiden kohotessa nämä kohosivat ⟨את⟩ niiden mukana; sillä elollisen olennon henki oli niissä.",
+  "tokens": [
+    {
+      "surface": "בעמדם",
+      "gloss": "niiden seistessä"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "seisoivat"
+    },
+    {
+      "surface": "וברומם",
+      "gloss": "ja niiden kohotessa"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "kohosivat"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "niiden mukana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "henki"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "elollisen olennon"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "oli niissä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:55:21.806360154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 78:31",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 78,
+  "translation": "Ja Elohimin viha nousi heidän päällensä, ja hän tappoi heidän lihavimpiensa seasta ja Israelin nuorukaiset hän kukisti.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "Ja viha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "nousi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "heidän päällensä"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "ja hän tappoi"
+    },
+    {
+      "surface": "במשמניהם",
+      "gloss": "heidän lihavimpiensa seasta"
+    },
+    {
+      "surface": "ובחורי",
+      "gloss": "ja nuorukaiset"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "הכריע",
+      "gloss": "hän kukisti"
+    }
+  ],
+  "timestamp": "2026-09-07T02:25:55.700618800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Puhu nyt kansan korviin, ja he pyytäkööt: kukin mies ⟨את⟩ toveriltaan ja kukin nainen ⟨את⟩ toverinnaltaan hopea-astioita ja kulta-astioita.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Puhu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "korviin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "ja he pyytäkööt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kukin mies"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ luota",
+      "marks": "toveriltaan"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "toveriltaan"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "ja kukin nainen"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ luota",
+      "marks": "toverinnaltaan"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "toverinnaltaan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "astioita"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "hopeaa"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "ja astioita"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kultaa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:32:56.447438970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "pelton, jonka Avraham (Aabraham) osti Hetin pojilta ⟨את⟩; sinne Avraham haudattiin, ja Sara, hänen vaimonsa.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "pelton"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "osti"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ luota",
+      "marks": "Hetin pojilta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojilta"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Hetin"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sinne"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "haudattiin"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "ja Sara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hänen vaimonsa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:14:11.103849632Z",
+  "model": "glm-5.3"
+}

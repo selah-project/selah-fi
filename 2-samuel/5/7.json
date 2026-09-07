@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja David valtasi ⟨את⟩ Tsijonin linnakkeen; se ⟨on⟩ Davidin kaupunki.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "Ja valtasi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsijonin linnakkeen"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "linnake"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijonin"
+    },
+    {
+      "surface": "היא",
+      "gloss": "se"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kaupunki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:21:22.169535642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 33:11",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Te kantatte kuivaa ruohoa, te synnytätte olkia; teidän henkenne ⟨on⟩ tuli — se kuluttaa teidät.",
+  "tokens": [
+    {
+      "surface": "תהרו",
+      "gloss": "te kantatte"
+    },
+    {
+      "surface": "חשש",
+      "gloss": "kuivaa ruohoa"
+    },
+    {
+      "surface": "תלדו",
+      "gloss": "te synnytätte"
+    },
+    {
+      "surface": "קש",
+      "gloss": "olkia"
+    },
+    {
+      "surface": "רוחכם",
+      "gloss": "teidän henkenne"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "תאכלכם",
+      "gloss": "kuluttaa teidät"
+    }
+  ],
+  "timestamp": "2026-09-07T00:08:52.276405872Z",
+  "model": "glm-5.3"
+}

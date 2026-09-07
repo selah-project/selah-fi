@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 19:15",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja hän kallisti ⟨את⟩ sydämen, koko Yehudan (Juuda) miehen, kuin yhden miehen sydämen, ja he lähettivät kuninkaalle ⟨sanan⟩: Palaa, sinä ja kaikki palvelijasi.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Ja hän kallisti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sydämen"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "sydämen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudan"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "kuin yhden"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ja he lähettivät"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuninkaalle"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaalle"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Palaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "palvelijasi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:29:11.147148029Z",
+  "model": "glm-5.3"
+}

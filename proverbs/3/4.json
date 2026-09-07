@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja sinä löydät armon ja hyvän sekelin Elohimin ja ihmisten silmissä.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "Ja löydät"
+    },
+    {
+      "surface": "חן",
+      "gloss": "armon"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "ja sekelin"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvän"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "silmissä"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ja ihmisten"
+    }
+  ],
+  "timestamp": "2026-09-07T03:00:32.022317803Z",
+  "model": "glm-5.3"
+}

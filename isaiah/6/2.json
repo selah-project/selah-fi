@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 6:2",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Serafit seisoivat hänen yllään; kuusi siipeä, kuusi siipeä yhdellä ⟨kullakin⟩; kahdella hän peitti kasvonsa, ja kahdella hän peitti jalkansa, ja kahdella hän lensi.",
+  "tokens": [
+    {
+      "surface": "שרפים",
+      "gloss": "Serafit"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "seisoivat"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "yläpuolella"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänen"
+    },
+    {
+      "surface": "שש",
+      "gloss": "kuusi"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "siipeä"
+    },
+    {
+      "surface": "שש",
+      "gloss": "kuusi"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "siipeä"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "yhdellä"
+    },
+    {
+      "surface": "בשתים",
+      "gloss": "kahdella"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "hän peitti"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "kasvonsa"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "ja kahdella"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "hän peitti"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "jalkansa"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "ja kahdella"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "hän lensi"
+    }
+  ],
+  "timestamp": "2026-09-07T00:03:25.281745866Z",
+  "model": "glm-5.3"
+}

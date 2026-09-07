@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja mies sanoi: Nainen, jonka sinä annoit luokseni, hän antoi minulle siitä puusta, ja minä söin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mies"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "nainen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "sinä annoit"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "luokseni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "antoi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "מן",
+      "gloss": "siitä"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "puusta"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ja söin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:04:12.314219414Z",
+  "model": "glm-5.3"
+}

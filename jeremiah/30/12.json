@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 30:12",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Sillä näin sanoi Jahve: parantumaton on sinun murtumasi, paha sinun haavasi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "כה",
+      "gloss": "näin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "parantumaton"
+    },
+    {
+      "surface": "לשברך",
+      "gloss": "on sinun murtumasi"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "paha"
+    },
+    {
+      "surface": "מכתך",
+      "gloss": "sinun haavasi"
+    }
+  ],
+  "timestamp": "2026-09-07T00:37:52.399416629Z",
+  "model": "glm-5.3"
+}

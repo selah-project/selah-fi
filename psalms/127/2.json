@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 127,
+  "translation": "Turhaan teidän ⟨on⟩ nousta varhain, istuutua myöhään, syödä vaivan leipää: niin hän antaa rakkaalleen unen.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Turhaan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teidän"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "nousta varhain"
+    },
+    {
+      "surface": "קום",
+      "gloss": "( Noususta)"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "myöhään"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "istuutua"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "syödä"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "vaivan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "hän antaa"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "rakkaalleen"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "unen"
+    }
+  ],
+  "timestamp": "2026-09-07T02:51:35.205377678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Kaikki ⟨olivat⟩ Davidin poikia, paitsi sivuvaimojen pojat, ja Tamar heidän sisarensa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kaikki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "paitsi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "sivuvaimojen"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "ja Tamar"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "heidän sisarensa"
+    }
+  ],
+  "timestamp": "2026-09-07T05:12:14.964084990Z",
+  "model": "glm-5.3"
+}

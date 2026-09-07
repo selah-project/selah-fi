@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 52,
+  "translation": "Mutta minä ⟨olen⟩ kuin viheriä öljypuu Elohimin huoneessa: minä luotan Elohimin hesediin iankaikkisesti ja aina.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mutta minä"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "kuin öljypuu"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "viheriä"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "huoneessa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "luotan"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "hesediin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ja aina"
+    }
+  ],
+  "timestamp": "2026-09-07T04:32:52.721489768Z",
+  "model": "glm-5.3"
+}

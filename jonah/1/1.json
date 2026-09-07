@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja Jahven sana tuli Yonan (Joonan) luo, Amittain pojan, sanoen:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tuli"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "Amittain"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    }
+  ],
+  "timestamp": "2026-09-07T01:34:46.828632751Z",
+  "model": "glm-5.3"
+}

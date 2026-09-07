@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja kohen (pappi) savustuttaa ⟨את⟩ rasvan alttarilla, ja rinta on oleva Aharonin (Aaron) ja hänen poikiensa.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "savustuttaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen (pappi)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rasvan"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "rasvan"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "alttarilla"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "on oleva"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "rinta"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharonin (Aaron)"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ja hänen poikiensa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:48:54.827498818Z",
+  "model": "glm-5.3"
+}

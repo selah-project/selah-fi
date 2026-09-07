@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 36:5",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 36,
+  "translation": "Ja Moshe (Mooses) käski ⟨את⟩ Israelin poikia Jahven suun mukaan sanoen: oikein Josefin (Joosef) poikien heimo puhuu.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ja käski"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin poikia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "על",
+      "gloss": "mutta — suun"
+    },
+    {
+      "surface": "פי",
+      "gloss": "suun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "oikein"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "heimo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikien"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "puhuu"
+    }
+  ],
+  "timestamp": "2026-09-06T22:22:55.937870418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Kun nefeshini uupui minun ylitseni, minä muistin ⟨את⟩ Jahven, ja rukoukseni tuli sinun tykösi, sinun pyhään temppeliisi.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "kun uupui"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "minun ylitseni"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "muistin"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinun tykösi"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "rukoukseni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "temppeliin"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "pyhään sinun"
+    }
+  ],
+  "timestamp": "2026-09-07T01:33:18.622075496Z",
+  "model": "glm-5.3"
+}

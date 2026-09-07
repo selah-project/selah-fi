@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Sinä panet heidät kuin uunin tuleen kasvojesi aikaan; Jahve nielaisee heidät vihassaan, ja tuli syö heidät.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "sinä panet heidät"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "kuin uunin"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tulen"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "aikaan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "kasvojesi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "vihassaan"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "nielaisee heidät"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "ja syö heidät"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tuli"
+    }
+  ],
+  "timestamp": "2026-09-07T01:56:56.490370195Z",
+  "model": "glm-5.3"
+}

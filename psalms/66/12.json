@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 66,
+  "translation": "Sinä panit ihmisiä ratsain päidemme yli; tulimme tuleen ja veteen, mutta sinä toit meidät ulos runsauteen.",
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "Sinä panit ratsastamaan"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ihmiset"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "päidemme yli"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "tulimme"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tuleen"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "ja veteen"
+    },
+    {
+      "surface": "ותוציאנו",
+      "gloss": "mutta toit meidät ulos"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "runsauteen"
+    }
+  ],
+  "timestamp": "2026-09-07T02:15:54.711785117Z",
+  "model": "glm-5.3"
+}

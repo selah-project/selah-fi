@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Kuin lumi kesällä ja kuin sade sadonkorjuussa, niin kunnia ei sovi houkalle.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "kuin lumi"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "kesällä"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "ja kuin sade"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "sadonkorjuussa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "sovi"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "houkalle"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kunnia"
+    }
+  ],
+  "timestamp": "2026-09-07T03:17:12.146970569Z",
+  "model": "glm-5.3"
+}

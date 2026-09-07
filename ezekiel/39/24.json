@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 39,
+  "translation": "Heidän saastaisuutensa ja heidän rikkomustensa mukaan minä tein ⟨את⟩ heidät, ja kätkin kasvoni heiltä.",
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "heidän saastaisuutensa mukaan"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "ja heidän rikkomustensa"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "minä tein"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "heidät"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "ja kätkin"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kasvoni"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "heiltä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:15:46.647908202Z",
+  "model": "glm-5.3"
+}

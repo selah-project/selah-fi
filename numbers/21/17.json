@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Silloin lauloi Israel ⟨את⟩ tämän laulun: ”Nouse ylös, kaivo, vastatkaa sille.”",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Silloin"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "lauloi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän laulun"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "laulun"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Nouse ylös"
+    },
+    {
+      "surface": "באר",
+      "gloss": "kaivo"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "vastatkaa"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sille"
+    }
+  ],
+  "timestamp": "2026-09-06T22:13:31.177966188Z",
+  "model": "glm-5.3"
+}

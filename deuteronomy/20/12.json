@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Mutta jos se ei tee rauhaa kanssasi vaan tekee kanssasi sodan, piirittä se.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mutta jos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "tee rauhaa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kanssasi"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "vaan tekee"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kanssasi"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "sodan"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "piirittä se"
+    },
+    {
+      "surface": "עליה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-07T04:15:46.122639432Z",
+  "model": "glm-5.3"
+}

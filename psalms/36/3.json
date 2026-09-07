@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 36,
+  "translation": "Sillä hän silityttää itseään omien silmiensä edessä, kunnes hänen syyllisyytensä löydetään vihattavaksi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "silityttää"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "itseään"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "omien silmiensä edessä"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "löydetään"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "hänen syyllisyytensä"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "vihattavaksi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:04:34.124078541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja minä teen sinussa ⟨את⟩ sitä, mitä en ole tehnyt, ja ⟨את⟩ sitä, jonkaltaista en enää tee, kaikkien kauhistustesi tähden.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "Ja minä teen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinussa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sitä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "olen tehnyt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sitä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonkaltaista"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "teen"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "sen kaltaista"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enää"
+    },
+    {
+      "surface": "יען",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "kauhistuksesi"
+    }
+  ],
+  "timestamp": "2026-09-07T00:53:05.964575841Z",
+  "model": "glm-5.3"
+}

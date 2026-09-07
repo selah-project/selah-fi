@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 7:14",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja hänelle hän on valmistanut kuoleman välineet; nuolensa hän tekee palavina.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "ja hänelle"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "on valmistanut"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "välineet"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kuoleman"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "nuolensa"
+    },
+    {
+      "surface": "לדלקים",
+      "gloss": "palavina"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "hän tekee"
+    }
+  ],
+  "timestamp": "2026-09-07T01:51:22.015959728Z",
+  "model": "glm-5.3"
+}

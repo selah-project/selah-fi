@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 7:24",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja hän antaa heidän kuninkaansa sinun käsiisi, ja sinä tuhoat ⟨את⟩ heidän nimensä taivaan alta; ei yksikään mies pysy sinun edessäsi, kunnes sinä olet hävittänyt ⟨את⟩ heidät.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "Ja hän antaa"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "heidän kuninkaansa"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "sinun käsiisi"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "ja sinä tuhoat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän nimensä"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "heidän nimensä"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "alta"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "pysy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yksikään mies"
+    },
+    {
+      "surface": "בפניך",
+      "gloss": "sinun edessäsi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "sinä olet hävittänyt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ heidät"
+    }
+  ],
+  "timestamp": "2026-09-06T22:26:35.230910885Z",
+  "model": "glm-5.3"
+}

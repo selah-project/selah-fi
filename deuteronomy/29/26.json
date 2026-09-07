@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 29:26",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "niin että Jahven viha syttyi sitä maata vastaan, tuodakseen sen päälle ⟨את⟩ koko kirouksen, joka on kirjoitettuna tässä kirjassa;",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "silloin syttyi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "viha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sitä maata vastaan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sitä"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "tuodakseen"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sen päälle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko kirouksen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "kirouksen"
+    },
+    {
+      "surface": "הכתובה",
+      "gloss": "kirjoitettuna"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "kirjassa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tässä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:37:01.102330466Z",
+  "model": "glm-5.3"
+}

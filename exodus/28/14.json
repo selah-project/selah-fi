@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 28:14",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "ja kaksi ketjua puhdasta kultaa, köynnösmäisenä teet ⟨את⟩ ne, punoksen työnä, ja panet ⟨את⟩ ketjut, punoudesta tehdyt, jalustojen päälle.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "ja kaksi"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "ketjua"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kulta-"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "puhdasta"
+    },
+    {
+      "surface": "מגבלת",
+      "gloss": "köynnösmäisenä"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "teet"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ne",
+      "marks": "työn"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "työnä"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "punoksen"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ja panet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ketjut"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "ketjut"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "punoudesta tehdyt"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "המשבצת",
+      "gloss": "jalustojen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:40:23.998848570Z",
+  "model": "glm-5.3"
+}

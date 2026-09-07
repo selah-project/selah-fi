@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 15:2",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Näin sanoi Jahve Sebaot: olen käynyt ⟨את⟩ sen kimppuun, minkä Amalek teki Israelille, kun hän asetti häntä vastaan väijytyksen tiellä, hänen noustessaan Mitsrajimista (Egyptistä).",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Näin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaot"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "olen käynyt kimppuun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen, minkä Amalek teki Israelille"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minkä"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teki"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israelille"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kun"
+    },
+    {
+      "surface": "שם",
+      "gloss": "asetti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "häntä"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tiellä"
+    },
+    {
+      "surface": "בעלתו",
+      "gloss": "hän noustessaan"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrajimista"
+    }
+  ],
+  "timestamp": "2026-09-07T04:20:03.957967995Z",
+  "model": "glm-5.3"
+}

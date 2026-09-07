@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 4:7",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Mitä enemmän heitä tuli, sitä enemmän he syntivät minua vastaan; heidän kuniansa minä muutan häpeään.",
+  "tokens": [
+    {
+      "surface": "כרבם",
+      "gloss": "mitä enemmän heitä tuli"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sitä enemmän"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "he syntivät"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minua vastaan"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "heidän kuniansa"
+    },
+    {
+      "surface": "בקלון",
+      "gloss": "häpeään"
+    },
+    {
+      "surface": "אמיר",
+      "gloss": "minä muutan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:21:10.553706807Z",
+  "model": "glm-5.3"
+}

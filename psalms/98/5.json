@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 98,
+  "translation": "Veisatkaa Jahvelle kinnorilla, kinnorilla ja veisuun äänellä.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "veisatkaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinnorilla"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinnorilla"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ja ääni"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "veisu"
+    }
+  ],
+  "timestamp": "2026-09-07T02:35:43.192256806Z",
+  "model": "glm-5.3"
+}

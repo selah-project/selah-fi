@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "ja Shallum siitti ⟨את⟩ Hilkijan, ja Hilkija siitti ⟨את⟩ Azarjan;",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "ja Shallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hilkijan"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Hilkijan"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "ja Hilkija"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjan"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjan"
+    }
+  ],
+  "timestamp": "2026-09-07T05:12:30.389567429Z",
+  "model": "glm-5.3"
+}

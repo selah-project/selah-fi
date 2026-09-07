@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 85,
+  "translation": "Myös Jahve antaa hyvän, ja maamme antaa satonsa.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Myös"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "antaa"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "hyvän"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "ja maamme"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "antaa"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "satonsa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:28:18.371435796Z",
+  "model": "glm-5.3"
+}

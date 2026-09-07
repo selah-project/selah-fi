@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "Ja he sanoivat: ”Kuin porton hänenkö tuli kohdella ⟨את⟩ sisartamme?”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ja he sanoivat"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "Kuin porton"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hänkö tuli kohdella"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sisartamme"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "sisartamme"
+    }
+  ],
+  "timestamp": "2026-09-06T21:21:21.444689176Z",
+  "model": "glm-5.3"
+}

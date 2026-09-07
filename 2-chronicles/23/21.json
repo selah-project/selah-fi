@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja iloitsi koko maan kansa, ja kaupunki ⟨oli⟩ levossa, ja ⟨את⟩ Ataljahun he surmasivat miekalla.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "ja iloitsi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "ja kaupunki"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "⟨oli⟩ levossa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Ataljahun"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Ataljahun"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "he surmasivat"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "miekalla"
+    }
+  ],
+  "timestamp": "2026-09-07T05:41:22.088524607Z",
+  "model": "glm-5.3"
+}

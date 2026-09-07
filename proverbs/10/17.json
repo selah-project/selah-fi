@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 10:17",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Tie elämään ⟨on⟩ ⟨se⟩, joka ottaa vaarin kurista, mutta joka hylkää nuhteen, se eksyy.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "Tie"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "elämään"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "joka ottaa vaarin"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "kurista"
+    },
+    {
+      "surface": "ועוזב",
+      "gloss": "mutta joka hylkää"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "nuhteen"
+    },
+    {
+      "surface": "מתעה",
+      "gloss": "eksyy"
+    }
+  ],
+  "timestamp": "2026-09-07T04:35:20.470594528Z",
+  "model": "glm-5.3"
+}

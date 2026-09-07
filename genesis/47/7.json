@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 47:7",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 47,
+  "translation": "Ja Josef toi ⟨את⟩ Ja'akovin (Jaakob), isänsä, ja seisotti hänet Paron eteen; ja Ja'akov siunasi ⟨את⟩ Paron.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ja toi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ja'akovin"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akovin (Jaakob)"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isänsä"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "ja seisotti hänet"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ja siunasi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paron"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    }
+  ],
+  "timestamp": "2026-09-06T21:26:35.806015200Z",
+  "model": "glm-5.3"
+}

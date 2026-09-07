@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 18:11",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja Shaul heitti ⟨את⟩ keihään ja sanoi: ”Lyön Davidin seinään.” Ja David kääntyi pois hänen edestään kahdesti.",
+  "tokens": [
+    {
+      "surface": "ויטל",
+      "gloss": "Ja heitti"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keihään"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "keihään"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "Lyön"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "seinään"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "ja kääntyi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "pois hänen edestään"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kahdesti"
+    }
+  ],
+  "timestamp": "2026-09-06T23:12:46.345207607Z",
+  "model": "glm-5.3"
+}

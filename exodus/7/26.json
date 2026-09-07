@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 7:26",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja Jahve sanoi Moshelle: Mene Paron luo ja sano hänelle: Näin sanoo Jahve: Päästä ⟨את⟩ kansani, ja he palvelvat minua.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja ... sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshelle"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Mene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ja sano"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Näin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Päästä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansani"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kansani"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "ja he palvelvat minua"
+    }
+  ],
+  "timestamp": "2026-09-06T21:32:13.397064082Z",
+  "model": "glm-5.3"
+}

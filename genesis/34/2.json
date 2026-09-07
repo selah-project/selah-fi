@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 34:2",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "Ja näki hänet Shekhem (Sikem), Hamorin poika, hiviläinen, maan päämies; ja hän otti ⟨את⟩ hänet ja makasi ⟨את⟩ hänen kanssansa ja nöyryytti ⟨את⟩ häntä.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ja näki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hänet (Dinah)"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamorin"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "hiviläinen"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "päämies"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ja otti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hänet"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "ja makasi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hänen kanssansa"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "ja nöyryytti häntä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:10:51.248511630Z",
+  "model": "glm-5.3"
+}

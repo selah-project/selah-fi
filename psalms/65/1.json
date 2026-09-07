@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 65,
+  "translation": "Kuoronjohtajalle, mizmor ⟨psalmi⟩ Davidille ⟨Daavid⟩, laulu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kuoronjohtajalle"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor ⟨psalmi⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidille ⟨Daavid⟩"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "laulu"
+    }
+  ],
+  "timestamp": "2026-09-07T02:17:01.964258430Z",
+  "model": "glm-5.3"
+}

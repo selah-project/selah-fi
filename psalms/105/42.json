@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 105,
+  "translation": "Sillä hän muisti ⟨את⟩ pyhän sanansa, ⟨את⟩ Avrahamin (Aabraham), palvelijansa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "hän muisti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pyhän sanansa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sanansa"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "pyhän"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamin"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamin"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "palvelijansa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:38:55.795014998Z",
+  "model": "glm-5.3"
+}

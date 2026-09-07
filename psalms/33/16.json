@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Ei kuningas pelastu suurella sotajoukolla, eikä sankari vapaudu suurella voimalla.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "pelastu"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "suurella"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sotajoukolla"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "sankari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "vapaudu"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "suurella"
+    },
+    {
+      "surface": "כח",
+      "gloss": "voimalla"
+    }
+  ],
+  "timestamp": "2026-09-07T02:04:03.809289379Z",
+  "model": "glm-5.3"
+}

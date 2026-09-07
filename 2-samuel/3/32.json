@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 3:32",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja he hautasivat ⟨את⟩ Avnerin Hevronissa (Hebron); ja kuningas kohotti ⟨את⟩ äänensä ja itki Avnerin haudan äärellä, ja kaikki kansa itki.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "Ja hautasivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avnerin"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnerin"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Hevronissa"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "kohotti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "äänensä"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "äänensä"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "itki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "äärellä"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "haudan"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnerin"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "itki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:20:04.283167765Z",
+  "model": "glm-5.3"
+}

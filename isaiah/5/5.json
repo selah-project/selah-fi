@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 5:5",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja nyt, juuri nyt, ilmoitan ⟨את⟩ teille ⟨את⟩ minkä minä teen viinitarhalleni: poistan sen aidan, ja se ⟨on⟩ syötävä; murran sen muurin, ja se ⟨on⟩ tallattava.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ja nyt"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "ilmoitan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "juuri nyt"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minkä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minkä"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teen"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "viinitarhalleni"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "poistan"
+    },
+    {
+      "surface": "משוכתו",
+      "gloss": "sen aidan"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ja se ⟨on⟩"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "syötävä"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "murran"
+    },
+    {
+      "surface": "גדרו",
+      "gloss": "sen muurin"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ja se ⟨on⟩"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "tallattava"
+    }
+  ],
+  "timestamp": "2026-09-07T00:03:16.046745681Z",
+  "model": "glm-5.3"
+}

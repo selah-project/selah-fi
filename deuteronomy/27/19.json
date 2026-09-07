@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 27:19",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Kirottu olkoon se, joka vääristää muukalaisen, orvon ja lesken oikeuden, ja koko kansa sanokoon: Aamen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Kirottu olkoon"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "joka vääristää"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "oikeuden"
+    },
+    {
+      "surface": "גר",
+      "gloss": "muukalaisen"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "orvon"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "ja lesken"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ja sanokoon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Aamen"
+    }
+  ],
+  "timestamp": "2026-09-06T22:36:33.730020406Z",
+  "model": "glm-5.3"
+}

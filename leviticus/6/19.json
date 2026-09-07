@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Kohen (pappi), joka sen syntiuhriksi toimittaa, syö ⟨את⟩ sen; pyhässä paikassa se syödään, kokousteltan pihamassa.",
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "kohen (pappi)"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "joka syntiuhriksi toimittaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sen"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "syö sen"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "paikassa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhä"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "syödään"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "pihamassa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kokouksen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:48:32.416234960Z",
+  "model": "glm-5.3"
+}

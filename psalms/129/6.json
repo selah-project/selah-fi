@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 129,
+  "translation": "Olkoot kuin ruoho katoilla, joka kuivuu ennen kuin se on revitty esiin.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Olkoot"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "kuin ruoho"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "katoilla"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "joka ennen"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "on revitty esiin"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "kuivuu"
+    }
+  ],
+  "timestamp": "2026-09-07T02:50:20.542280693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Sillä näin ⟨את⟩ on minua käsketty Jahven sanalla sanoen: älä syö leipää äläkä juo vettä, äläkä palaa sitä tietä, jota tulit.”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "כן",
+      "gloss": "näin"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "on käsketty"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "minua"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "sanalla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "syö"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "äläkä"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "juo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vettä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "äläkä"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "palaa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sitä tietä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jota"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "tulit"
+    }
+  ],
+  "timestamp": "2026-09-06T23:39:13.759839536Z",
+  "model": "glm-5.3"
+}

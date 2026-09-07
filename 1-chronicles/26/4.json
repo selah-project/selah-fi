@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 26:4",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja Oved-Edomilla ⟨oli⟩ poikia: Shemajahu esikoinen, Jehozavad toinen, Joah kolmas, Sakar neljäs ja Netanel viides.",
+  "tokens": [
+    {
+      "surface": "ולעבד",
+      "gloss": "Ja Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edomilla"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "poikia"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Shemajahu"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "esikoinen"
+    },
+    {
+      "surface": "יהוזבד",
+      "gloss": "Jehozavad"
+    },
+    {
+      "surface": "השני",
+      "gloss": "toinen"
+    },
+    {
+      "surface": "יואח",
+      "gloss": "Joah"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "kolmas"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ja Sakar"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "neljäs"
+    },
+    {
+      "surface": "ונתנאל",
+      "gloss": "ja Netanel"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "viides"
+    }
+  ],
+  "timestamp": "2026-09-07T05:26:30.361023449Z",
+  "model": "glm-5.3"
+}

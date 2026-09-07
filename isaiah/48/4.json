@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 48:4",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 48,
+  "translation": "Koska tiesin, että sinä olet kova, ja rautajänne ⟨on⟩ niskasi, ja otsasi ⟨on⟩ vaskia.",
+  "tokens": [
+    {
+      "surface": "מדעתי",
+      "gloss": "Koska tiesin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "olet kova"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "וגיד",
+      "gloss": "ja jänne"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "rauta-"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "niskasi"
+    },
+    {
+      "surface": "ומצחך",
+      "gloss": "ja otsasi"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "vaski"
+    }
+  ],
+  "timestamp": "2026-09-07T00:17:35.420141552Z",
+  "model": "glm-5.3"
+}

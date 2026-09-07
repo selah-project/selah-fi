@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Sillä ihmistä, vanhurskasta maan päällä, ei ole — joka tekisi hyvää eikä tekisi syntiä.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmistä"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "vanhurskasta"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maan päällä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tekee"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvää"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "tee syntiä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:39:10.689741813Z",
+  "model": "glm-5.3"
+}

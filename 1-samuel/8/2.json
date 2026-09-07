@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 8:2",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja ensimmäisen pojan nimi ⟨oli⟩ Jo'el, ja toisen nimi Avijah; he ⟨olivat⟩ tuomareina Be'er Shevassa (Beersheba).",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ensimmäisen pojan"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ensimmäisen"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Jo'el"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ja toisen nimi"
+    },
+    {
+      "surface": "משנהו",
+      "gloss": "toisen"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Avijah"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "tuomareina"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Shevassa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:06:23.976221228Z",
+  "model": "glm-5.3"
+}

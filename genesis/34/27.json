@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 34:27",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "Ja'akovin pojat tulivat tapettujen kimpuun ja ryöstivät kaupungin, koska he olivat saastuttaneet heidän sisarensa.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akovin"
+    },
+    {
+      "surface": "באו",
+      "gloss": "tulivat"
+    },
+    {
+      "surface": "על",
+      "gloss": "kimpuun"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "tapettujen"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "ja ryöstivät"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koska"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "olivat saastuttaneet"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "heidän sisarensa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:20:51.704139321Z",
+  "model": "glm-5.3"
+}

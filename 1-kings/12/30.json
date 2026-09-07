@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja tämä asia tuli synniksi, ja kansa vaelsi toisen edellä aina Daniin asti.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja … tuli"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "tämä asia"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "synniksi"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ja … vaelsi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edellä"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "toisen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aina … asti"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Daniin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:40:23.593211726Z",
+  "model": "glm-5.3"
+}

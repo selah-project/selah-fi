@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 41,
+  "translation": "Ja laihat ja rumat lehmät söivät ⟨את⟩ ne seitsemän ensimmäistä lihavaa lehmää.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "ja ne söivät"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "lehmät"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "laihat"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "ja rumat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne seitsemän ensimmäistä lihavaa lehmää"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seitsemän"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "lehmää"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "ensimmäistä"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "lihavaa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:22:52.932091407Z",
+  "model": "glm-5.3"
+}

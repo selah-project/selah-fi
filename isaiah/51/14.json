@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 51:14",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 51,
+  "translation": "Nopeasti vapautetaan kumartuva, eikä hän kuole kuoppaan, eikä hänen leipänsä puutu.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "nopeasti"
+    },
+    {
+      "surface": "צעה",
+      "gloss": "kumartuva"
+    },
+    {
+      "surface": "להפתח",
+      "gloss": "vapautetaan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "kuole"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "kuoppaan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "puutu"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "hänen leipänsä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:19:04.755463618Z",
+  "model": "glm-5.3"
+}

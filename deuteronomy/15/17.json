@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 15:17",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Ja sinä otat ⟨את⟩ naskalin ja panet sen hänen korvaansa ja oveen, ja hän on sinulle orja ikuisesti; myös orjattarellesi sinä teet näin.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Ja sinä otat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naskalin"
+    },
+    {
+      "surface": "המרצע",
+      "gloss": "naskalin"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ja panet"
+    },
+    {
+      "surface": "באזנו",
+      "gloss": "hänen korvaansa"
+    },
+    {
+      "surface": "ובדלת",
+      "gloss": "ja oveen"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ja hän on"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "orja"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ikuisesti"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "myös"
+    },
+    {
+      "surface": "לאמתך",
+      "gloss": "orjattarellesi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sinä teet"
+    },
+    {
+      "surface": "כן",
+      "gloss": "näin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:29:33.576601949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 6:1",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Poikani, jos olet käynyt takaukseen ystäväsi puolesta, jos olet lyönyt kätesi vieraalle,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Poikani"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "ערבת",
+      "gloss": "olet käynyt takaukseen"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "ystäväsi"
+    },
+    {
+      "surface": "תקעת",
+      "gloss": "olet lyönyt"
+    },
+    {
+      "surface": "לזר",
+      "gloss": "vieraalle"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "kätesi"
+    }
+  ],
+  "timestamp": "2026-09-07T03:01:59.777164187Z",
+  "model": "glm-5.3"
+}

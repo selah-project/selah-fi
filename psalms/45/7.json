@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 45,
+  "translation": "Valtaistuimesi, Elohim, ⟨on⟩ iäti ja ainiaan; vanhurskauden valtikka ⟨on⟩ kuningaskuntasi valtikka.",
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "valtaistuimesi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iäti"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ja ainiaan"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "valtikka"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "vanhurskauden"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "valtikka"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "kuningaskuntasi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:10:44.763031391Z",
+  "model": "glm-5.3"
+}

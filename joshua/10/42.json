@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja ⟨את⟩ kaikki nämä kuninkaat ja ⟨את⟩ heidän maansa otti Jehoshua vangiksi yhdellä kertaa, sillä Jahve, Israelin Elohim, taisteli Israelin puolesta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ja ⟨את⟩",
+      "marks": "kaikki nämä kuninkaat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "kuninkaat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "heidän maansa"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "heidän maansa"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "otti vangiksi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshua"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "kerran"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yhdellä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "taisteli"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israelin puolesta"
+    }
+  ],
+  "timestamp": "2026-09-06T22:44:30.226911685Z",
+  "model": "glm-5.3"
+}

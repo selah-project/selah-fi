@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 43:2",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 43,
+  "translation": "Kun kuljet vesien halki — ⟨את⟩ — minä olen sinun kanssasi, ja virtojen halki, ne eivät peitä sinua alleen; kun käyt tulen keskellä, et sinä pala, eikä liekki syty sinussa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kun"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "kuljet"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vesien halki"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kanssasi",
+      "marks": "minä olen sinun kanssasi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "ja virtojen halki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ישטפוך",
+      "gloss": "ne peitä sinua alleen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "käyt"
+    },
+    {
+      "surface": "במו",
+      "gloss": "keskellä"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tulen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "et"
+    },
+    {
+      "surface": "תכוה",
+      "gloss": "sinä pala"
+    },
+    {
+      "surface": "ולהבה",
+      "gloss": "ja liekki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "syty"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinussa"
+    }
+  ],
+  "timestamp": "2026-09-07T00:15:16.209394121Z",
+  "model": "glm-5.3"
+}

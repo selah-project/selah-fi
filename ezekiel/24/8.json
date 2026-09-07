@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 24:8",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Nostamaan kiivautta, kostamaan koston: minä panin ⟨את⟩ sen veren paljaalle kalliolle, niin ettei sitä peitettäisi.",
+  "tokens": [
+    {
+      "surface": "להעלות",
+      "gloss": "nostamaan"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "kiivautta"
+    },
+    {
+      "surface": "לנקם",
+      "gloss": "kostamaan"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "koston"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "minä panin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen veren"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "sen veren"
+    },
+    {
+      "surface": "על",
+      "gloss": "…lle"
+    },
+    {
+      "surface": "צחיח",
+      "gloss": "paljaalle"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "kalliolle"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "niin ettei"
+    },
+    {
+      "surface": "הכסות",
+      "gloss": "peitettäisi"
+    }
+  ],
+  "timestamp": "2026-09-07T01:04:04.221797060Z",
+  "model": "glm-5.3"
+}

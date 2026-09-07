@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "judges 9:41",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja Avimelech jäi asumaan Arumaan, ja Zevul ajoi ⟨את⟩ Gaalin ja ⟨את⟩ hänen veljekseen pois asumasta Shkhemissä.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Ja jäi asumaan"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "בארומה",
+      "gloss": "Arumaan"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "ja ajoi pois"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zevul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gaalin"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Gaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "veljekset"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hänen veljekseen"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "pois asumasta"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "Shkhemissä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:19:14.195635822Z",
+  "model": "glm-5.3"
+}

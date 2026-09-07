@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 48,
+  "translation": "Ja Israel näki ⟨את⟩ Yosefin (Joosefin) pojat ja sanoi: ”Keitä nämä ovat?”",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ja näki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefin pojat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Keitä"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nämä ovat"
+    }
+  ],
+  "timestamp": "2026-09-06T21:26:58.364806852Z",
+  "model": "glm-5.3"
+}

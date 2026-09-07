@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 37:25",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Ja hän teki ⟨את⟩ suitsutusalttarin akasiapuusta: kyynärä ⟨oli⟩ sen pituus ja kyynärä sen leveys, neliskanttinen, ja kaksi kyynärää sen korkeus; sen sarvet olivat peräisin siitä.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ja hän teki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suitsutusalttarin"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "suitsutuksen"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "puusta"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kyynärä"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "sen pituus"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ja kyynärä"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "sen leveys"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "neliskanttinen"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "ja kaksi kyynärää"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "sen korkeus"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "siitä"
+    },
+    {
+      "surface": "היו",
+      "gloss": "olivat"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "sen sarvet"
+    }
+  ],
+  "timestamp": "2026-09-06T21:45:57.844277318Z",
+  "model": "glm-5.3"
+}

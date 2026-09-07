@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 4:8",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Korota häntä, niin hän korottaa sinua; hän kunnioittaa sinua, kun halaat häntä.",
+  "tokens": [
+    {
+      "surface": "סלסלה",
+      "gloss": "Korota häntä"
+    },
+    {
+      "surface": "ותרוממך",
+      "gloss": "niin hän korottaa sinua"
+    },
+    {
+      "surface": "תכבדך",
+      "gloss": "hän kunnioittaa sinua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "תחבקנה",
+      "gloss": "halaat häntä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:01:07.585087596Z",
+  "model": "glm-5.3"
+}

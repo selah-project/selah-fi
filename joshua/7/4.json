@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 7:4",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja kansasta nousi sinne noin kolmetuhatta miestä, ja he pakenivat Ain miesten edestä.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "nousi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-sta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansasta"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sinne"
+    },
+    {
+      "surface": "כשלשת",
+      "gloss": "noin kolme"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tuhatta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miestä"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "pakenivat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edestä"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "miesten"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ain"
+    }
+  ],
+  "timestamp": "2026-09-06T22:43:50.970474540Z",
+  "model": "glm-5.3"
+}

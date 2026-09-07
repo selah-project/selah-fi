@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 4:42",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja Merarin (Merari) poikien sukujen lasketut, sukunsa mukaan, isiensä perheittäin,",
+  "tokens": [
+    {
+      "surface": "ופקודי",
+      "gloss": "Ja lasketut"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "sukujen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikien"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merarin"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sukunsa mukaan"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "perheittäin"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "isiensä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:03:25.994484672Z",
+  "model": "glm-5.3"
+}

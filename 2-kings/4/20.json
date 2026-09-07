@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja hän kantoi hänet ja toi hänet äitinsä luo, ja hän istui hänen polvillaan keskipäivään asti, ja kuoli.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "Ja hän kantoi hänet"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "ja toi hänet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "äitinsä"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja hän istui"
+    },
+    {
+      "surface": "על",
+      "gloss": "…lla"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "polvillaan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "keskipäivään"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ja kuoli"
+    }
+  ],
+  "timestamp": "2026-09-06T23:48:32.671592175Z",
+  "model": "glm-5.3"
+}

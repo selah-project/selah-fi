@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja jos hän eläisi tuhat vuotta kahdesti, eikä olisi nähnyt hyvää — eivätkö kaikki kulke yhteen paikkaan?",
+  "tokens": [
+    {
+      "surface": "ואלו",
+      "gloss": "ja jos"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "eläisi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhat"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kahdesti"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "eikä hyvää"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "olisi nähnyt"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "eivätkö"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yhteen"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "paikkaan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yhdessä luvussa ⟨yhteen⟩"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "kulke"
+    }
+  ],
+  "timestamp": "2026-09-07T04:38:16.785358758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja he hajottivat ⟨את⟩ Baalin patsaan ja hajottivat ⟨את⟩ Baalin huoneen ja tekivät siitä käymälän, tähän päivään asti.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "Ja he hajottivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patsaan"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "patsaan"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baalin"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "ja hajottivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huoneen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baalin"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "ja tekivät siitä"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "käymälän"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tähän päivään"
+    }
+  ],
+  "timestamp": "2026-09-06T23:50:19.354334318Z",
+  "model": "glm-5.3"
+}

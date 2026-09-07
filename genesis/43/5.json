@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 43,
+  "translation": "Mutta jos et lähetä, emme me laskeudu, sillä mies sanoi meille: Ette te näe kasvojani, ellei veljenne ole ⟨את⟩ kanssanne.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Jos"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "et"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "lähetä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "laskeudu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "meille"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ette"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "nähkää"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kasvoni"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ellei"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "veljenne"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kanssanne",
+      "marks": "kanssanne"
+    }
+  ],
+  "timestamp": "2026-09-06T21:25:39.518578890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Jokainen mies Israelin heten talosta, joka teurastaa härän tai lampaan tai vuohen leirissä, tai joka teurastaa sen leirin ulkopuolella,",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "jokainen mies"
+    },
+    {
+      "surface": "איש",
+      "gloss": " mies"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "…n hetestä talosta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "teurastaa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "härän"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "lampaan"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "עז",
+      "gloss": "vuohen"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "leirissä"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "teurastaa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ulkopuolella"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "…sta leirin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:55:49.828119204Z",
+  "model": "glm-5.3"
+}

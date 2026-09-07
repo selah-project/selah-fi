@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "eikä hän tiedustellut Jahvelta, ja ⟨hän⟩ surmasi hänet ja käänsi ⟨את⟩ kuninkuuden Davidille (Daavid), Jishain (Iisai) pojalle.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "hän tiedustellut"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvelta"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "ja ⟨hän⟩ surmasi hänet"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "ja käänsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuninkuuden"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "kuninkuuden"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Davidille"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojalle"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jishain"
+    }
+  ],
+  "timestamp": "2026-09-07T05:18:30.484462382Z",
+  "model": "glm-5.3"
+}

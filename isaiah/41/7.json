@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 41:7",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 41,
+  "translation": "Ja käsityöläinen vahvistaa ⟨את⟩ jalosepän, vasaralla tasoittava ⟨את⟩ päälle lyövän, isku iskulta; hän sanoo liitoksesta: ”Se ⟨on⟩ hyvä”, ja hän kiinnittää sen nauloilla — ei se horju.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ja vahvistaa"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "käsityöläinen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jalosepän"
+    },
+    {
+      "surface": "צרף",
+      "gloss": "jaloseppä"
+    },
+    {
+      "surface": "מחליק",
+      "gloss": "tasoittava"
+    },
+    {
+      "surface": "פטיש",
+      "gloss": "vasaralla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "päälle lyövän"
+    },
+    {
+      "surface": "הולם",
+      "gloss": "päälle lyövän"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "isku iskulta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hän sanoo"
+    },
+    {
+      "surface": "לדבק",
+      "gloss": "liitoksesta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Se ⟨on⟩"
+    },
+    {
+      "surface": "ויחזקהו",
+      "gloss": "ja kiinnittää sen"
+    },
+    {
+      "surface": "במסמרים",
+      "gloss": "nauloilla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "horju"
+    }
+  ],
+  "timestamp": "2026-09-07T00:14:08.749997102Z",
+  "model": "glm-5.3"
+}

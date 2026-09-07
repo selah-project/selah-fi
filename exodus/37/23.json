@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 37:23",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Ja hän teki ⟨את⟩ sen seitsemän lamppua ja sen pihdit ja sen tuhka-astiat puhdasta kultaa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ja hän teki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen seitsemän lamppua"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "sen lamput"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "seitsemän"
+    },
+    {
+      "surface": "ומלקחיה",
+      "gloss": "ja sen pihdit"
+    },
+    {
+      "surface": "ומחתתיה",
+      "gloss": "ja sen tuhka-astiat"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kultaa"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "puhdasta"
+    }
+  ],
+  "timestamp": "2026-09-06T21:44:52.215646089Z",
+  "model": "glm-5.3"
+}

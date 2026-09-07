@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Jahve, Adonai meidän, kuinka mahtava on nimesi kaikessa maassa!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai meidän"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kuinka"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "mahtava"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nimesi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaikessa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maassa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:54:00.171976985Z",
+  "model": "glm-5.3"
+}

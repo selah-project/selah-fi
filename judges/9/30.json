@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 9:30",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja Zevul, kaupungin päällikkö, kuuli ⟨את⟩ Gaalin, Ebedin pojan, sanat, ja hänen vihansa syttyi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Ja … kuuli"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zevul"
+    },
+    {
+      "surface": "שר",
+      "gloss": "päällikkö"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gaalin … sanat"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Gaalin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Ebedin"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "sytyi"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "vihansa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:19:33.490700608Z",
+  "model": "glm-5.3"
+}

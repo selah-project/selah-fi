@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 48:11",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 48,
+  "translation": "Omani tähden, omani tähden minä teen sen — sillä kuinka ⟨minun nimeni⟩ häväistäisiin? — ja kunniaani en toiselle anna.",
+  "tokens": [
+    {
+      "surface": "למעני",
+      "gloss": "Omani tähden"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "omini tähden"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "minä teen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "איך",
+      "gloss": "kuinka"
+    },
+    {
+      "surface": "יחל",
+      "gloss": "häväistäisiin"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "ja kunniaani"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "toiselle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "anna"
+    }
+  ],
+  "timestamp": "2026-09-07T00:15:49.691614809Z",
+  "model": "glm-5.3"
+}

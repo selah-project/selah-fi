@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 73:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 73,
+  "translation": "Sillä ei ⟨ole⟩ kipuja heidän kuolemassaan, ja tanakka ⟨on⟩ heidän ruumiinsa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "kipuja"
+    },
+    {
+      "surface": "למותם",
+      "gloss": "heidän kuolemassaan"
+    },
+    {
+      "surface": "ובריא",
+      "gloss": "ja tanakka"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "heidän ruumiinsa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:21:05.068739236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 22:9",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Hyväsilmäinen ⟨on⟩ siunattu, sillä hän antaa leivästään köyhälle.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "hyvä"
+    },
+    {
+      "surface": "עין",
+      "gloss": "silväinen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "siunattu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "antaa"
+    },
+    {
+      "surface": "מלחמו",
+      "gloss": "leivästään"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "köyhälle"
+    }
+  ],
+  "timestamp": "2026-09-07T03:11:23.661346383Z",
+  "model": "glm-5.3"
+}

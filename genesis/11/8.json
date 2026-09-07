@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja Jahve hajotti heidät sieltä ⟨את⟩ kaiken maan päälle, ja he lakkasivat rakentamasta kaupunkia.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "Ja hajotti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "heidät"
+    },
+    {
+      "surface": "משם",
+      "gloss": "sieltä"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pinnalle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "ja he lakkasivat"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "rakentamasta"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupunkia"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:08.575787438Z",
+  "model": "glm-5.3"
+}

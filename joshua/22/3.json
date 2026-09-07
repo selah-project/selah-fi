@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 22:3",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "ette jättäneet ⟨את⟩ veljiänne näinä monina päivinä tähän päivään asti, ja te pitäneet ⟨את⟩ vartioviran, Jahven, Elohiminnen, käskyn.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ette"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "jättäneet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veljiänne"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "veljiänne"
+    },
+    {
+      "surface": "זה",
+      "gloss": "näinä"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivinä"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "monina"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tähän päivään"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tähän"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "ja te pitäneet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vartioviran"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "vartioviran"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "käskyn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminnen"
+    }
+  ],
+  "timestamp": "2026-09-06T22:49:05.459194152Z",
+  "model": "glm-5.3"
+}

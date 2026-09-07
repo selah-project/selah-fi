@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 34:31",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "Sillä onko kenellekään sanottu Elille: ”Olen kantanut ⟨rangaistukseni⟩, en tahdo enää vahingoittaa?”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kenellekään"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elille"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "on sanottu"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "olen kantanut"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אחבל",
+      "gloss": "tahdo vahingoittaa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:47:24.523373239Z",
+  "model": "glm-5.3"
+}

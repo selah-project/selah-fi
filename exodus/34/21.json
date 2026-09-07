@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 34:21",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "Kuusi päivää tee työtä, mutta seitsemäntenä päivänä pidä Shabbat; kyntöaikana ja sadonkorjuuaikana pidä Shabbat.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Kuusi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivää"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "tee työtä"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "mutta päivänä"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "seitsemäntenä"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "pidä Shabbat"
+    },
+    {
+      "surface": "בחריש",
+      "gloss": "kyntöaikana"
+    },
+    {
+      "surface": "ובקציר",
+      "gloss": "ja sadonkorjuuaikana"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "pidä Shabbat"
+    }
+  ],
+  "timestamp": "2026-09-06T21:43:15.304498118Z",
+  "model": "glm-5.3"
+}

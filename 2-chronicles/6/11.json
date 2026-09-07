@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja minä panin sinne ⟨את⟩ arkin, jossa on Jahven berit (liitto), jonka hän teki Israelin lasten kanssa.",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "Ja minä panin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sinne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkin"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arkin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jossa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "on"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "berit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "teki"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:31:33.347644859Z",
+  "model": "glm-5.3"
+}

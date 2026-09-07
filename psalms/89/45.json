@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 89:45",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 89,
+  "translation": "Häivyttämän hänyt kirkkautensa ja hänen valtaistuimensa olet syössyt maahan.",
+  "tokens": [
+    {
+      "surface": "השבת",
+      "gloss": "häivyttämän hänet"
+    },
+    {
+      "surface": "מטהרו",
+      "gloss": "hänen kirkkautensa"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "ja hänen valtaistuimensa"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "מגרתה",
+      "gloss": "olet syössyt"
+    }
+  ],
+  "timestamp": "2026-09-07T04:33:25.709494336Z",
+  "model": "glm-5.3"
+}

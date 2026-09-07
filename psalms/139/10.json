@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 139,
+  "translation": "sielläkin sinun kätesi ohjaa minua, ja sinun oikea kätesi pitää minusta kiinni.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "myös (-kin)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "sinun kätesi"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ohjaa minua"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "ja pitää minusta kiinni"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "sinun oikea"
+    }
+  ],
+  "timestamp": "2026-09-07T02:52:45.629271428Z",
+  "model": "glm-5.3"
+}

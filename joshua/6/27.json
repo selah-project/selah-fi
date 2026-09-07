@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja Jahve oli Jehoshuan ⟨את⟩ kanssa, ja hänen maineensa ⟨oli⟩ koko maassa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja oli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ kanssa",
+      "marks": "Jehoshuan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshuan"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja oli"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hänen maineensa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maassa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:41:53.515750169Z",
+  "model": "glm-5.3"
+}

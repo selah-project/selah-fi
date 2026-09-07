@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Poikani, älä unohda Toraani, vaan pidä sydämesi mielikäskoni (Toora).",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Poikani"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Toraani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "unohda"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "vaan mielikäskoni"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "pidä"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "sydämesi"
+    }
+  ],
+  "timestamp": "2026-09-07T03:00:32.021058881Z",
+  "model": "glm-5.3"
+}

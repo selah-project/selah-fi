@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Tyhjentäen tyhjennetään maa ja ryöstäen ryöstetään, sillä Jahve on puhunut ⟨את⟩ tämän sanan.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "Tyhjentäen"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "tyhjennetään"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "ja ryöstäen"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "ryöstetään"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "on puhunut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän sanan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sanan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    }
+  ],
+  "timestamp": "2026-09-07T00:08:23.185147505Z",
+  "model": "glm-5.3"
+}

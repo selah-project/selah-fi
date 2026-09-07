@@ -1,0 +1,125 @@
+#:rendering{:label "Suomi",
+            :source
+            {:text :oshb-wlc,
+             :corpus :tanakh,
+             :verses 23213,
+             :tokens 305507},
+            :provenance
+            {:derived
+             [:lang
+              :version
+              :label
+              :status
+              :lineage
+              :source
+              :rails
+              :rails-commit
+              :name-seat
+              :models
+              :tiers
+              :produced
+              :license
+              :catalog],
+             :declared
+             [:role :open-questions :rendering/adjudication]},
+            :role :served,
+            :produced {:from "2026-09-06", :to "2026-09-07"},
+            :id "fi.v1",
+            :catalog {:ui "resources/i18n/ui/fi.edn"},
+            :license "CC BY-SA 4.0 (The Selah Finnish Rendering)",
+            :model
+            {:provider :z.ai,
+             :models {"glm-5.3" 23213},
+             :tiers {"glm-5.2" 23213},
+             :prompt "selah.translate.prompt",
+             :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline
+            {:rails "docs/methodology/translation-discipline/fi.md",
+             :rails-commit "d13931ca",
+             :foundation
+             [:hebrew-first
+              :deut-6-4-double-fidelity
+              :no-foreknowledge
+              :aleph-tav-total
+              :fills-bracketed
+              :no-translator-notes
+              :tough-verse-lay-it-bare],
+             :name-seat
+             {"אדני" "Adonai",
+              "אל" "El",
+              "אלהים" "Elohim",
+              "אלוה" "Eloah",
+              "ב" "v",
+              "ג" "g",
+              "ד" "d",
+              "ה" "h",
+              "ו" "v",
+              "ז" "z",
+              "ח" "h",
+              "ט" "t",
+              "י" "j",
+              "יה" "Jah",
+              "יהוה" "Jahve",
+              "ל" "l",
+              "מ" "m",
+              "נ" "n",
+              "ס" "s",
+              "פ" "f",
+              "צ" "ts",
+              "צבאות" "Sebaot",
+              "ק" "k",
+              "ר" "r",
+              "שדי" "Shaddai",
+              "ת" "t"},
+             :open-questions
+             ["«Jahve (HERRA/Herra)» flow bridges ×4 (Isa 42:10, 2 Chr 18:4, Num 9:7, Num 9:8) — the Name-shadow question, shadow-convention §1 unratified"
+              "B10 THE HELFI CONVERGENCE: 1,498 empty glosses at אל/על/מן-class particles — the hand-curators route the same particles into Finnish case morphemes 49-87%; proposal: %case-style gloss instead of a hole (one-gloss-per-token invariant)"
+              "B6 suffixed-marker family ⟨אתו⟩×37/⟨אתם⟩×9/⟨מאת⟩×7 etc — 69 sites, coherent renderer decision: does the marker extend to suffixed את?"
+              "B2 Herra inside title parens (Isa 8:18, Mal 1:4, Lev 27:21) — may the witness paren carry the rejected weld?"
+              "B3 (Kaikkivaltias) paren at every occurrence vs rails first-occurrence-only — 26 verses"
+              "B7 mana at the manna seat (Num 11:6-7) — letter-for-letter the banned Kalevala death-word"
+              "B9 vowel-harmony wobble Jahveltä ×5 / Elohimiä ×4 vs ruled back series"
+              "kaikkivaltias at שדי seats (~25) + iankaikkinen at עולם seats (~267) — rails flags, Tekoa-read"
+              "fi bench flags ~20 incl Jahvea-vs-Jahveä vowel harmony, Sebaot-vs-Tsevaot"
+              "paren-shadows 6,069 across 4,291 files (near hu 4,225) — fleet shadow-convention campaign pending"
+              "«(Jeesua)» Ezra 10:18 — familiar-form bridge for ישוע kept per hidden-names ruling (fi cousin of ka's Joshua shadows)"]},
+            :status :live,
+            :adjudication
+            {:chair 64,
+             :date "2026-09-07",
+             :first :finnic,
+             :polarity :latin-home,
+             :control :helfi-external-hand-curated-never-authority,
+             :seal
+             {:tuonela 0,
+              :jahve 5794,
+              :herra-caps-at-name 0,
+              :aleph-tav [0 0 0 0],
+              :elohim 2064,
+              :jehova 0,
+              :nt-leak 0,
+              :et-verses 7244,
+              :spine-diff-vs-en 0},
+             :tekoa
+             {:auditor :opus-fork,
+              :mode :read-only-class-a,
+              :name-seat-violations 0,
+              :class-a-verses-applied
+              "11 groups: 5 spine faults incl Exod 26:32 SEVENTH-chair curtain-hook, Name-corrupted flows ×5, Jumala displacements ×9, supplied titles ×4, Eloah stem-breaks ×9, Messias ×4, lookalike а/κ ×10, Hebrew-leak gleans ~38 incl 6 model notes + Hebrew-for-Latin welds NEW CLASS, Ps 74:1-4 whole-English re-rendered, garbles",
+              :ambiguous-filed 11},
+             :cruxes
+             ["first Finnic chair — HELFI (Hebrew-Greek-Finnish morpheme-aligned corpus) as external CONTROL, never authority; the token-mapping assay gated integration BEFORE the burn"
+              "the Name through the agglutinative ladder — Jahven 4,344 genitive down to clitic Jahvelleko; 15 Jahva- stem-breaks restored; astevaihtelu NEVER touched the Name (Sebaod-weakening zero)"
+              "the HERRA erasure never fired at the gate — 0 in the first 1,450 files, 4 flow bridges in 23,213 (all filed, not displacements)"
+              "spine plague FIFTH witness at 3.1% (711 files, below the ~6% constant); NEW wrong-content class: Gen 14:1 arrived as Gen 12:1's text with Jehova + empty tokens"
+              "burned through a full engine restart mid-chair (00:10) with zero loss"]},
+            :version "v1",
+            :lineage
+            {:git
+             {:repo "selah-project/selah-fi",
+              :ref "v1-final",
+              :commit nil,
+              :tags [],
+              :branches []},
+             :parents []},
+            :lang :fi}

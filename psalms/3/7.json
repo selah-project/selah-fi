@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "En pelkää kymmeniätuhansia kansaa, jotka ympärillä asettuvat minua vastaan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "En"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "pelkää"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "kymmeniätuhansia"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympärillä"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "asettuvat"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "minua vastaan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:52:24.663327411Z",
+  "model": "glm-5.3"
+}

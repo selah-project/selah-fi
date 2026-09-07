@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 36,
+  "translation": "sekä ⟨את⟩ Bosmatin, Jishmaelin (Ismaelin) tyttären, Nevajotin sisaren.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sekä ⟨את⟩",
+      "marks": "Bosmatin"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmatin"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tyttären"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Jishmaelin"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "sisaren"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nevajotin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:20:12.168064047Z",
+  "model": "glm-5.3"
+}

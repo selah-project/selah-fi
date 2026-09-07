@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 97,
+  "translation": "Hänen salamansa valaisivat maanpiirin; maa näki ja vavahti.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "valaisivat"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "hänen salamansa"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "maanpiirin"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "näki"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "ja vavahti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:34:15.980023264Z",
+  "model": "glm-5.3"
+}

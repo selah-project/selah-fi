@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja tapahtui, kun Jahve otti Eliahun ⟨את⟩ taivaan pyörteessä, että Eliahu ja Elisha lähtivät Gilgalista.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "kun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliahun"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliahun"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "pyörteessä"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "lähtivät"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliahu"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "ja Elisha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-sta"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgalista"
+    }
+  ],
+  "timestamp": "2026-09-06T23:47:31.311580979Z",
+  "model": "glm-5.3"
+}

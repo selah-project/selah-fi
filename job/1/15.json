@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 1:15",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja Shava (Seba) ryntäsi päälle ja vei ne pois, ja ⟨את⟩ palvelijat he löivät miekan suulla, ja minä pelastuin — ainoastaan minä yksin — ilmoittamaan ⟨sen⟩ sinulle.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "Ja ryntäsi päälle"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Shava (Seba)"
+    },
+    {
+      "surface": "ותקחם",
+      "gloss": "vei ne pois"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "palvelijat"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "palvelijat"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "he löivät"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "suulla"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "miekan"
+    },
+    {
+      "surface": "ואמלטה",
+      "gloss": "ja minä pelastuin"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ainoastaan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "yksin"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "ilmoittamaan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    }
+  ],
+  "timestamp": "2026-09-07T03:23:28.128785127Z",
+  "model": "glm-5.3"
+}

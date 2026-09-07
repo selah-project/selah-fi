@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 30:4",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Jos sinun karkotettusi ⟨on⟩ taivaan ääressä, sieltä sinut kokoaa Jahve, sinun Elohimisi, ja sieltä hän ottaa sinut.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jos"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "on"
+    },
+    {
+      "surface": "נדחך",
+      "gloss": "sinun karkotettusi"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "ääressä"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "משם",
+      "gloss": "sieltä"
+    },
+    {
+      "surface": "יקבצך",
+      "gloss": "sinut kokoaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sinun Elohimisi"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "ja sieltä"
+    },
+    {
+      "surface": "יקחך",
+      "gloss": "ottaa sinut"
+    }
+  ],
+  "timestamp": "2026-09-06T22:37:05.488748734Z",
+  "model": "glm-5.3"
+}

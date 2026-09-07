@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 2:21",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Menemään kallioiden koloihin ja jyrkänteiden halkeamiin, Jahven pelon edestä ja hänen mahtinsa kirkkauden edestä, kun hän nousee järjättämään maan.",
+  "tokens": [
+    {
+      "surface": "לבוא",
+      "gloss": "Menemään"
+    },
+    {
+      "surface": "בנקרות",
+      "gloss": "koloihin"
+    },
+    {
+      "surface": "הצרים",
+      "gloss": "kallioiden"
+    },
+    {
+      "surface": "ובסעפי",
+      "gloss": "ja halkeamiin"
+    },
+    {
+      "surface": "הסלעים",
+      "gloss": "jyrkänteiden"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "edestä"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "pelon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "ja kirkkauden"
+    },
+    {
+      "surface": "גאונו",
+      "gloss": "hänen mahtinsa"
+    },
+    {
+      "surface": "בקומו",
+      "gloss": "kun hän nousee"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "järjättämään"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:59:25.986216121Z",
+  "model": "glm-5.3"
+}

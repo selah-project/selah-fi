@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 28:11",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Viisas ⟨on⟩ omien silmiensä mukaan rikas mies, ja ymmärtäväinen köyhä tutkii hänet lävitse.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "viisas"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "omien silmiensä mukaan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "rikas"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "ja köyhä"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "ymmärtäväinen"
+    },
+    {
+      "surface": "יחקרנו",
+      "gloss": "tutkii hänet lävitse"
+    }
+  ],
+  "timestamp": "2026-09-07T03:18:08.086971554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 8:17",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Jos et päästä ⟨את⟩ kansaani — katso, minä lähetän ⟨את⟩ hyönteisparvet sinun päällesi ja palvelijoidesi päälle ja kansasi päälle ja taloihisi, ja Mitsrajimin (Egyptin) talot täyttyvät hyönteisparvista, myös ⟨את⟩ maan, jonka päällä he ovat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jos"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "et"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "päästä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansaani"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kansaani"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "katso"
+    },
+    {
+      "surface": "משליח",
+      "gloss": "lähetän"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinun päällesi"
+    },
+    {
+      "surface": "ובעבדיך",
+      "gloss": "ja palvelijoidesi päälle"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "ja kansasi päälle"
+    },
+    {
+      "surface": "ובבתיך",
+      "gloss": "ja taloihisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hyönteisparvet"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "hyönteisparvet"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ja täyttyvät"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "talot"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hyönteisparvista"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "hyönteisparvista"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "maan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "הם",
+      "gloss": "he"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sen päällä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:31:49.231342147Z",
+  "model": "glm-5.3"
+}

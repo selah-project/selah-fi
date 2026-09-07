@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 6:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Häpeäkööt ja hämmästykööt hyvin paljon kaikki viholliseni; palatkoot, häpeäkööt hetkessä.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Häpeäkööt"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "ja hämmästykööt"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hyvin paljon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "viholliseni"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "palatkoot"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "häpeäkööt"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "hetkessä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:50:14.767420261Z",
+  "model": "glm-5.3"
+}

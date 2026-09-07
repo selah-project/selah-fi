@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 102:19",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 102,
+  "translation": "Tämä kirjoitettakoon viimeiselle sukupolvelle, ja kansa, joka luodaan, kiittäköön Jahia.",
+  "tokens": [
+    {
+      "surface": "תכתב",
+      "gloss": "kirjoitettakoon"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Tämä"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "sukupolvelle"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "viimeiselle"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ja kansa"
+    },
+    {
+      "surface": "נברא",
+      "gloss": "joka luodaan"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "kiittäköön"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jahia"
+    }
+  ],
+  "timestamp": "2026-09-07T02:35:58.809846834Z",
+  "model": "glm-5.3"
+}

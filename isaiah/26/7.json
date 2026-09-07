@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Vanhurskaan polku on suoruutta; sinä, joka olet suora, tasoitat vanhurskaan polun.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "polku"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "vanhurskaan"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "suoruutta"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "suora"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "polun"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "vanhurskaan"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "tasoitat"
+    }
+  ],
+  "timestamp": "2026-09-07T00:07:25.704058339Z",
+  "model": "glm-5.3"
+}

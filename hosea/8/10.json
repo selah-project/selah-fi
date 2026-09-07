@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 8:10",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Vaikka he palkkasivat ⟨liittolaisia⟩ kansojen joukossa, nyt minä kokoon heidät kasaan, ja he alkavat vähitellen vähetä kuninkaan ja pähälliköiden taakasta.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Vaikka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "he palkkasivat"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kansojen joukossa"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "אקבצם",
+      "gloss": "minä kokoon heidät"
+    },
+    {
+      "surface": "ויחלו",
+      "gloss": "ja he alkoivat"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "vähitellen"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "taakasta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "pähälliköiden"
+    }
+  ],
+  "timestamp": "2026-09-07T01:22:47.922458758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "obadiah 1:10",
+  "book": "obadiah",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Veljeäsi Ja'akovia (Jaakobia) kohdanneesta väkivallasta häpeä peittää sinut, ja sinut hävitetään iankaikkisesti.",
+  "tokens": [
+    {
+      "surface": "מחמס",
+      "gloss": "väkivallasta"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "veljeäsi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akovia (Jaakobia)"
+    },
+    {
+      "surface": "תכסך",
+      "gloss": "peittää sinut"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "häpeä"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "ja sinut hävitetään"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iankaikkisesti"
+    }
+  ],
+  "timestamp": "2026-09-07T01:31:21.253873044Z",
+  "model": "glm-5.3"
+}

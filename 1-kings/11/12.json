@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ainoastaan sinun päivinäsi en minä tee sitä, Davidin (Daavid), isäsi, tähden; sinun poikasi kädestä minä sen repäisen.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ainoastaan"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "sinun päivinäsi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "minä tee sitä"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin (Daavid)"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "isäsi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kädestä"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "sinun poikasi"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "minä sen repäisen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:39:20.072396796Z",
+  "model": "glm-5.3"
+}

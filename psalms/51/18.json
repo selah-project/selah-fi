@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 51,
+  "translation": "Sillä et sinä uhria halaja — ⟨sen⟩ antaisin — polttouhria et sinä mielisty.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "et"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "halaja"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "uhria"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "antaisin"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "polttouhria"
+    },
+    {
+      "surface": "לא",
+      "gloss": "et"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "mielisty"
+    }
+  ],
+  "timestamp": "2026-09-07T04:33:59.682860942Z",
+  "model": "glm-5.3"
+}

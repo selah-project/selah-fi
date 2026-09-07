@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 34:7",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "Ja hän repi alas ⟨את⟩ alttarit ja ⟨את⟩ asherat, ja patsaat hän murskasi jauhoksi, ja kaikki aurinkopatsaat hän kaatoi koko Israelin maassa, ja hän palasi Jerushalajimiin.",
+  "tokens": [
+    {
+      "surface": "וינתץ",
+      "gloss": "ja repi alas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alttarit"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "alttarit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "asherat"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "asherat"
+    },
+    {
+      "surface": "והפסלים",
+      "gloss": "ja patsaat"
+    },
+    {
+      "surface": "כתת",
+      "gloss": "hän murskasi"
+    },
+    {
+      "surface": "להדק",
+      "gloss": "jauhoksi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "aurinkopatsaat"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "hän kaatoi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja palasi"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Jerushalajimiin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:53:44.655292282Z",
+  "model": "glm-5.3"
+}

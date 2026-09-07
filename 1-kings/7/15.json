@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 7:15",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja hän valoi ⟨את⟩ kaksi pylvästä vaskea; kahdeksantoista kyynärää ⟨oli⟩ yhden pylvään korkeus, ja naru — kaksitoista kyynärää — ympäröi ⟨את⟩ toisen pylvään.",
+  "tokens": [
+    {
+      "surface": "ויצר",
+      "gloss": "Ja valoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaksi pylvästä"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "pylvästä"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "vaskea"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "kahdeksan"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "toista"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "קומת",
+      "gloss": "korkeus"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "pylvään"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yhden"
+    },
+    {
+      "surface": "וחוט",
+      "gloss": "ja naru"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "toista"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "ympäröi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toisen pylvään"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "pylvään"
+    },
+    {
+      "surface": "השני",
+      "gloss": "toisen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:36:01.424530895Z",
+  "model": "glm-5.3"
+}

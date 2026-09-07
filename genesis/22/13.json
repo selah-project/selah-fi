@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 22:13",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja Avraham nosti ⟨את⟩ silmänsä ja katsoi, ja katso: oinas ⟨oli⟩ takertunut pensaikkoon sarvistaan. Ja Avraham meni ja otti ⟨את⟩ oinaan ja nosti sen polttouhriksi poikansa tilalle.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "nosti"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "silmänsä"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "silmänsä"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ja katsoi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "איל",
+      "gloss": "oinas"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "⟨takana⟩"
+    },
+    {
+      "surface": "נאחז",
+      "gloss": "takertunut"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "pensaikkoon"
+    },
+    {
+      "surface": "בקרניו",
+      "gloss": "sarvistaan"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ja meni"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ja otti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oinaan"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "oinaan"
+    },
+    {
+      "surface": "ויעלהו",
+      "gloss": "ja nosti sen"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "polttouhriksi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tilalle"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "poikansa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:13:27.831393683Z",
+  "model": "glm-5.3"
+}

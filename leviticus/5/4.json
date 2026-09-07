@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 5:4",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Tai jos nefesh vannoo, huulillaan lausuen pahaksi tai hyväksi, mihin tahansa asiaan, jonka ihminen valalla lausuu, ja se on häneltä käynyt salatuksi, ja hän tiesi — ⟨ja on⟩ syyllinen yhteen näistä.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "Tai"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jos"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "vannoo"
+    },
+    {
+      "surface": "לבטא",
+      "gloss": "lausuen"
+    },
+    {
+      "surface": "בשפתים",
+      "gloss": "huulillaan"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "pahaksi"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "hyväksi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mihin tahansa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "יבטא",
+      "gloss": "lausuu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihminen"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "valalla"
+    },
+    {
+      "surface": "ונעלם",
+      "gloss": "ja on käynyt salatuksi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "häneltä"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ja hän"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tiesi"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "⟨ja on⟩ syyllinen"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "yhteen"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "näistä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:50:05.086372582Z",
+  "model": "glm-5.3"
+}

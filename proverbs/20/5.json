@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 20:5",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Syvää vettä ⟨on⟩ neuvo miehen sydämessä, ja ymmärtäväinen mies ammentaa sen.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "vettä"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "syvää"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "neuvo"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "sydämessä"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ja ymmärtäväinen mies"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "ymmärtäväinen"
+    },
+    {
+      "surface": "ידלנה",
+      "gloss": "ammentaa sen"
+    }
+  ],
+  "timestamp": "2026-09-07T03:11:22.459013581Z",
+  "model": "glm-5.3"
+}

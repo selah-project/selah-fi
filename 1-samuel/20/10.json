@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja David sanoi Jehonatanille: ”Kuka ilmoittaa minulle? Tai mitä, jos isäsi vastaa sinulle ankarasti?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatanille"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kuka"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ilmoittaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "או",
+      "gloss": "Tai"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "vastaa sinulle"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "isäsi"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ankarasti"
+    }
+  ],
+  "timestamp": "2026-09-06T23:13:23.751784620Z",
+  "model": "glm-5.3"
+}

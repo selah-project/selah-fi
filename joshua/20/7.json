@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja he pyhittivät ⟨את⟩ Kedeshin (Kedes) Galileassa, Naftalin vuoristossa, ja ⟨את⟩ Shekemin (Sikem) Efraimin vuoristossa, ja ⟨את⟩ Kirjat-Arban (Kirjat-Arba), se ⟨on⟩ Hevron (Hebron), Jehudan (Juuda) vuoristossa.",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "Ja he pyhittivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedeshin"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedeshin"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "Galileassa"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "vuoristossa"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftalin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemin"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "vuoristossa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arban"
+    },
+    {
+      "surface": "היא",
+      "gloss": "se"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "vuoristossa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:49:18.443353917Z",
+  "model": "glm-5.3"
+}

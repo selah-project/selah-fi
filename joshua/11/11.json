@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 11:11",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja he löivät ⟨את⟩ kaiken nefeshin, joka siinä oli, miekan terällä — hän oli pannut ⟨את⟩ niitä kiroukseen; ei jäänyt jäljelle yhtään henkäystä, ja ⟨את⟩ Hatsorin hän poltti tulessa.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "ja he löivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken nefeshin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nefeshin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "בה",
+      "gloss": "siinä"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "terällä"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "miekan"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "pannut kiroukseen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "jäänyt jäljelle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yhtään"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "henkäystä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Hatsorin"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsorin"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "polttoi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulessa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:44:46.055200522Z",
+  "model": "glm-5.3"
+}

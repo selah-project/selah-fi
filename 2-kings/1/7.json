@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 1:7",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "ja hän puhui heille: millainen tuon miehen olemus, joka nousi teitä vastaan ja puhui teille ⟨את⟩ nämä sanat?",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "puhui"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "מה",
+      "gloss": "millainen"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "olemus"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "tuon miehen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "nousi"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "teitä vastaan"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "puhui"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "näiden sanojen (näiden sanojen)"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nämä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:47:30.974098600Z",
+  "model": "glm-5.3"
+}

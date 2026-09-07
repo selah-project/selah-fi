@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja hän vei minut avaruuteen ⟨את⟩, hän vapahdutti minut, sillä hän mielistyi minuun.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ja hän vei"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "avaruuteen"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ minut",
+      "marks": "minut (avaruuteen vietävä)"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "vapahdutti minut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "mielistyi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "minuun"
+    }
+  ],
+  "timestamp": "2026-09-06T23:30:45.364818531Z",
+  "model": "glm-5.3"
+}

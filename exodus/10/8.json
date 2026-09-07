@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja tuotiin takaisin ⟨את⟩ Moshe ja ⟨את⟩ Aharon Paron eteen, ja hän sanoi heille: ”Menkää, palvelkaa ⟨את⟩ Jahvea, Elohimianne. Mutta ketkä ja ketkä ovat ne, jotka menevät?”",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "ja tuotiin takaisin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "heidän"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Menkää"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "palvelkaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimianne"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ketkä"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ja ketkä"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "ne, jotka menevät"
+    }
+  ],
+  "timestamp": "2026-09-06T21:32:35.149882439Z",
+  "model": "glm-5.3"
+}

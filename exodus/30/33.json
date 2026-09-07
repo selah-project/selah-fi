@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 30:33",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Mies, joka sekoittaa sen kaltaista, tai joka antaa siitä muille kuin vihityille, hävitetään kansansa keskeltä.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Mies"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "ירקח",
+      "gloss": "sekoittaa"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "sen kaltaista"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "tai joka"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "antaa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "siitä"
+    },
+    {
+      "surface": "על",
+      "gloss": "älle"
+    },
+    {
+      "surface": "זר",
+      "gloss": "muille kuin vihityille"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "hävitetään"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "kansansa keskeltä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:41:15.866443380Z",
+  "model": "glm-5.3"
+}

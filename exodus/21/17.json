@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja joka kiroaa isänsä tai äitinsä, kuoleman hän kuolkoon.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "ja joka kiroaa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isänsä"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "tai äitinsä"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kuoleman"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "hän kuolkoon"
+    }
+  ],
+  "timestamp": "2026-09-06T21:38:15.744358147Z",
+  "model": "glm-5.3"
+}

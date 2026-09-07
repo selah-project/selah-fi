@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja löytyi sieltä köyhä viisas mies, ja hän pelasti ⟨את⟩ kaupungin viisaudellaan; eikä mikään ihminen muistanut ⟨את⟩ sitä köyhää miestä.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "ja löytyi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "siitä"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "köyhä"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "viisas"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "ja pelasti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaupungin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "viisaudellaan"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "eikä ihminen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "muistanut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen köyhän miehen"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "miestä"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "köyhää"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sen"
+    }
+  ],
+  "timestamp": "2026-09-07T04:38:18.095164765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 3:7",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja minä sanoin: Kun hän oli tehnyt ⟨את⟩ kaikki nämä, hän palaa minun luokseni — mutta hän ei palannut. Ja hänen petollinen sisarensa Jehuda (Juuda) näki sen.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ja minä sanoin"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "עשותה",
+      "gloss": "hän oli tehnyt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki nämä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minun luokseni"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "hän palaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mutta ei"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "palannut"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "ja näki"
+    },
+    {
+      "surface": "בגודה",
+      "gloss": "petollinen"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "hänen sisarensa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda (Juuda)"
+    }
+  ],
+  "timestamp": "2026-09-07T00:24:16.970644878Z",
+  "model": "glm-5.3"
+}

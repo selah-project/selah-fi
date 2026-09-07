@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Onko sinulla lihan silmät, näetkö niin kuin kuolevainen näkee?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "silmät"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "lihan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulla"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vai"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "niin kuin näkee"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "kuolevainen"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "näetkö"
+    }
+  ],
+  "timestamp": "2026-09-07T03:31:21.397452096Z",
+  "model": "glm-5.3"
+}

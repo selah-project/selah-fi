@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 29:16",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Kun jumalattomia lisääntyy, rikollisuus kasvaa, mutta vanhurskaat näkevät heidän kukistumisensa.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "Kun ... lisääntyy"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jumalattomia"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "kasvaa"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "rikollisuus"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "mutta vanhurskaat"
+    },
+    {
+      "surface": "במפלתם",
+      "gloss": "heidän kukistumisensa"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "näkevät"
+    }
+  ],
+  "timestamp": "2026-09-07T03:18:45.700153676Z",
+  "model": "glm-5.3"
+}

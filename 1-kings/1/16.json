@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja Bat-Sheba kumarsi ja heittäytyi maahan kuninkaan eteen; ja kuningas sanoi: ”Mitä sinulle?”",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "Ja kumarsi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sheba"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "ja heittäytyi maahan"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuninkaan eteen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    }
+  ],
+  "timestamp": "2026-09-07T04:25:10.761036141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja Jehoshua teki heille, kuten Jahve hänelle sanoi: ⟨את⟩ heidän hevosensa hän lamautti ja ⟨את⟩ heidän sotavaununsa hän poltti tulessa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "teki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshua"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kuten"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän hevosensa"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "heidän hevosensa"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "lamautti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "heidän sotavaununsa"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "heidän sotavaununsa"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "polttoi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulessa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:44:46.053181242Z",
+  "model": "glm-5.3"
+}

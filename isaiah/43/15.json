@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 43,
+  "translation": "Minä ⟨olen⟩ Jahve, teidän Pyhänne, Israelin luoja, teidän kuninkaanne.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "teidän Pyhänne"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "luoja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "teidän kuninkaanne"
+    }
+  ],
+  "timestamp": "2026-09-07T00:14:26.466342256Z",
+  "model": "glm-5.3"
+}

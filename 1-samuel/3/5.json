@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja hän juoksi Elin luo ja sanoi: ”Katso, tässä minä olen, sillä sinä kutsuit minua.” Mutta hän sanoi: ”En minä kutsunut; palaa ja lepäile.” Ja hän meni ja laskeutui maata.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "ja hän juoksi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "katso, tässä minä olen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "sinä kutsuit"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minua"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "minä kutsunut"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "palaa"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "lepäile"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ja hän meni"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "ja laskeutui maata"
+    }
+  ],
+  "timestamp": "2026-09-06T23:06:59.398084443Z",
+  "model": "glm-5.3"
+}

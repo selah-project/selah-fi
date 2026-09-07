@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "ja hänen joukkonsa ja hänen luettunsa: neljä ja viisikymmentä tuhatta ja neljäsataa.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ja hänen joukkonsa"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "ja hänen luettunsa"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "neljä"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ja viisikymmentä"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhatta"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ja neljä"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sataa"
+    }
+  ],
+  "timestamp": "2026-09-07T06:56:13.461790438Z",
+  "model": "glm-5.3"
+}

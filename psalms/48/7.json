@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 48,
+  "translation": "Väristys tarttui heihin siellä, synnytystuska kuin synnyttävällä.",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "Väristys"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "tarttui heihin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "synnytystuska"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "kuin synnyttävällä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:33:00.850693280Z",
+  "model": "glm-5.3"
+}

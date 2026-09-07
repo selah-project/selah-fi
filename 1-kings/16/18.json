@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 16:18",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja tapahtui, kun Zimri näki, että kaupunki oli vallattu, että hän meni kuninkaanhuoneen linnaan ja poltti ⟨את⟩ kuninkaanhuoneen tulessa hänen päällään, ja hän kuoli.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja tapahtui"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "kun näki"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "oli vallattu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupunki"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ja meni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sisään"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "linnaan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "ja poltti"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hänen päällään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuninkaanhuoneen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulessa"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ja hän kuoli"
+    }
+  ],
+  "timestamp": "2026-09-07T04:22:55.132528627Z",
+  "model": "glm-5.3"
+}

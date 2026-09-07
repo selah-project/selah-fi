@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 3:9",
+  "book": "malachi",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Kirottuina te olette kirouksella, ja minua te riistatte — ⟨את⟩ te — koko tämä kansa.",
+  "tokens": [
+    {
+      "surface": "במארה",
+      "gloss": "kirouksella"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "te"
+    },
+    {
+      "surface": "נארים",
+      "gloss": "kirottuina"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "ja ⟨את⟩ minua",
+      "marks": "te"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "te"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "riistatte"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "kokonaan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:51:54.641034057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Sinun tahtosi tekemistä, Elohimini, minä olen halunnut, ja Torasi ⟨on⟩ sisimmässäni.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "tekemistä"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "sinun tahtosi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimini"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "minä olen halunnut"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ja Torasi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sisimmässä"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "minun sisälläni"
+    }
+  ],
+  "timestamp": "2026-09-07T02:07:37.362324088Z",
+  "model": "glm-5.3"
+}

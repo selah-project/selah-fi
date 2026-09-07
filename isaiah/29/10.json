@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 29:10",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Sillä Jahve on kaatanut teidän päällenne syvän unen hengen, ja hän on sulkenut ⟨את⟩ silmänne — ⟨את⟩ profeetat — ja ⟨את⟩ teidän päätnne, näkijät, on hän peittänyt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "on kaatanut"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "teidän päällenne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hengen"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "syvän unen"
+    },
+    {
+      "surface": "ויעצם",
+      "gloss": "ja hän on sulkenut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "silmänne"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "silmänne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "profeetat"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "profeetat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "päänne"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "päänne"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "näkijät"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "on hän peittänyt"
+    }
+  ],
+  "timestamp": "2026-09-07T00:09:27.287537809Z",
+  "model": "glm-5.3"
+}

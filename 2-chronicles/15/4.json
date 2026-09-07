@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 15:4",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Ja ahdistuksessaan he kääntyivät Jahven, Israelin Elohimin, puoleen, ja he etsivät häntä, ja hän löytyi heille.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "he kääntyivät"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ahdistuksessaan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "heille\/hänen"
+    },
+    {
+      "surface": "על",
+      "gloss": "...on puoleen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ויבקשהו",
+      "gloss": "he etsivät häntä"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "ja hän löytyi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    }
+  ],
+  "timestamp": "2026-09-07T05:39:18.635348213Z",
+  "model": "glm-5.3"
+}

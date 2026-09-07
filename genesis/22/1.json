@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja tapahtui näiden asioiden jälkeen, että Elohim koetteli ⟨את⟩ Avrahamin (Aabraham), ja hän sanoi hänelle: Avraham. Ja hän sanoi: Katso, tässä minä.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "jälkeen"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "näiden asioiden"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "näiden"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "että Elohim"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "koetteli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamin"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamin (Aabraham)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Katso, tässä minä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:13:29.629563491Z",
+  "model": "glm-5.3"
+}

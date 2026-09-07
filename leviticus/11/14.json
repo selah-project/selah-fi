@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "ja ⟨את⟩ mehiläishaukan ja ⟨את⟩ jalohaukan, kumpaistakin lajinsa mukaan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "mehiläishaukan"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "mehiläishaukka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "jalohaukan"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "jalohaukka"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "lajinsa mukaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:50:32.594362045Z",
+  "model": "glm-5.3"
+}

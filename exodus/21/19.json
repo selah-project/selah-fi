@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 21:19",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "jos hän nousee ja kävelee ulkona keppinsä varassa, lyöjä vapautetaan; vain hänen leponsa hän maksakoon ja lääkitäkös lääkitköön.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "hän nousee"
+    },
+    {
+      "surface": "והתהלך",
+      "gloss": "ja kävelee"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ulkona"
+    },
+    {
+      "surface": "על",
+      "gloss": "varassa"
+    },
+    {
+      "surface": "משענתו",
+      "gloss": "keppinsä"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "vapautetaan"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "lyöjä"
+    },
+    {
+      "surface": "רק",
+      "gloss": "vain"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "hänen leponsa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "hän maksakoon"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "ja lääkiten"
+    },
+    {
+      "surface": "ירפא",
+      "gloss": "lääkitköön"
+    }
+  ],
+  "timestamp": "2026-09-06T21:38:15.745035664Z",
+  "model": "glm-5.3"
+}

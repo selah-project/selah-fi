@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 12:2",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Täysin hävittäkää ⟨את⟩ kaikki paikat, joissa kansat, joiden te ajatte pois, siellä palvelivat ⟨את⟩ heidän jumaliaan korkeilla vuorilla ja kukkuloilla ja jokaisen vihannan puun alla.",
+  "tokens": [
+    {
+      "surface": "אבד",
+      "gloss": "Täysin"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "hävittäkää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki paikat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "המקמות",
+      "gloss": "paikat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joissa"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "palvelivat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kansat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joiden"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "te"
+    },
+    {
+      "surface": "ירשים",
+      "gloss": "ajatte pois"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ heitä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän jumaliaan"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "heidän jumaliaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "korkeilla"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "vuorilla"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "korkeilla"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja kukkuloilla"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "kukkuloilla"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ja jokaisen alla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokaisen"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "puun"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "vihannan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:30:00.397198316Z",
+  "model": "glm-5.3"
+}

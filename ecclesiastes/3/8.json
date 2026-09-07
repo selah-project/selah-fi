@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Aika rakastaa ja aika vihata; aikaa sodalle ja aikaa rauhalle.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Aika"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "rakastaa"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ja aika"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "vihata"
+    },
+    {
+      "surface": "עת",
+      "gloss": "aikaa"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "sodalle"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ja aikaa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rauhalle"
+    }
+  ],
+  "timestamp": "2026-09-07T04:05:02.444857762Z",
+  "model": "glm-5.3"
+}

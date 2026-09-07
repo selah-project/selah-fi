@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 1:27",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Tämän poisan puolesta minä rukoilin, ja Jahve antoi minulle ⟨את⟩ pyyntöni, jonka pyysin häneltä.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "…n puolesta"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "Tämän poisan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "התפללתי",
+      "gloss": "minä rukoilin"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ja antoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pyyntöni"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "pyyntöni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "pyysin"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "häneltä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:05:00.962199083Z",
+  "model": "glm-5.3"
+}

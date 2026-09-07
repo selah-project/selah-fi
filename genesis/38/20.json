@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 38:20",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 38,
+  "translation": "Ja Jehuda lähetti ⟨את⟩ vuohenpennun ystävänsä adullamilaisen käden kautta, ottamaan pantin naisen kädestä, mutta hän ei löytänyt häntä.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ja Jehuda lähetti"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vuohenpennun"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "vuohenpennun"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "vuohien"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käden kautta"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ystävänsä"
+    },
+    {
+      "surface": "העדלמי",
+      "gloss": "adullamilaisen"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ottamaan"
+    },
+    {
+      "surface": "הערבון",
+      "gloss": "pantin"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kädestä"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "naisen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mutta ei"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "löytänyt häntä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:22:40.414649694Z",
+  "model": "glm-5.3"
+}

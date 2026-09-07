@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja minä panen ⟨את⟩ Jerushalajimin (Jerusalem) kivikasoiksi, shakaalien asuinpaikaksi, ja ⟨את⟩ Jehudan (Juuda) kaupungit minä annan autioksi, ilman asujaa.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Ja minä panen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerushalajimin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimin (Jerusalem)"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "kivikasoiksi"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "asuinpaikaksi"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "shakaalien"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Jehudan kaupungit"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kaupungit"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan (Juuda)"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "minä annan"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "autioksi"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "ilman"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "asujaa"
+    }
+  ],
+  "timestamp": "2026-09-07T00:28:17.801595178Z",
+  "model": "glm-5.3"
+}

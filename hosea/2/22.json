@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja minä kihlaan sinut itselleni uskollisuudessa, ja sinä tulet tuntemaan ⟨את⟩ Jahven.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "ja minä kihlaan sinut"
+    },
+    {
+      "surface": "לי",
+      "gloss": "itselleni"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "uskollisuudessa"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "ja sinä tulet tuntemaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-07T01:20:24.147373646Z",
+  "model": "glm-5.3"
+}

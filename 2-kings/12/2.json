@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 12:2",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Jehun (Jeeun?) seitsemäntenä vuotena tuli Jehoash kuninkaaksi, ja neljäkymmentä vuotta hän hallitsi Jerushalajimissa (Jerusalem); ja hänen äitinsä nimi oli Tsivja, Be'er Shevasta (Beersheba).",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "vuonna"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seitsemäntenä"
+    },
+    {
+      "surface": "ליהוא",
+      "gloss": "Jehun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "tuli kuninkaaksi"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Jehoash"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ja neljäkymmentä"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hallitsi"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerushalajimissa"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ja nimi"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "hänen äitinsä"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "Tsivja"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Shevasta"
+    }
+  ],
+  "timestamp": "2026-09-06T23:54:16.864376406Z",
+  "model": "glm-5.3"
+}

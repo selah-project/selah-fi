@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja nyt minä paljastan ⟨את⟩ hänen häpeänsä hänen rakastajiensa silmien edessä, eikä yksikään mies pelasta häntä minun kädestäni.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ja nyt"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "minä paljastan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen häpeänsä"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "hänen häpeänsä"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "silmien edessä"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "hänen rakastajansa"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "eikä yksikään mies"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "pelasta häntä"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "minun kädestäni"
+    }
+  ],
+  "timestamp": "2026-09-07T01:20:27.292520765Z",
+  "model": "glm-5.3"
+}

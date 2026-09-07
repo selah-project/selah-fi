@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "ja glada, ja ⟨את⟩ haukka, ja korppikotka lajinsa mukaan",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "ja glada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "haukka"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "haukka"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "ja korppikotka"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "lajinsa mukaan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:29:03.858573648Z",
+  "model": "glm-5.3"
+}

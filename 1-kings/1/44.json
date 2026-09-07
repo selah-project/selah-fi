@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 1:44",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja lähetti ⟨את⟩ hänen kanssaan kuningas ⟨את⟩ Tsadokin, kohenin, ja ⟨את⟩ Natanin, navin (profeetta), ja Benajahun, Jehojadan pojan, ja kretit ja peletit, ja he panivat ⟨את⟩ hänet ratsastamaan kuninkaan muulilla.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ja lähetti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänen kanssaan",
+      "marks": "prepositionaalinen את (H854), 'hänen kanssaan' — ei objektimerkki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadokin"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadokin"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Natanin"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natanin"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "navin (profeetta)"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "ja Benajahun"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojadan"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ja kretit"
+    },
+    {
+      "surface": "והפלתי",
+      "gloss": "ja peletit"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "ja he panivat ratsastamaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hänet"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "פרדת",
+      "gloss": "muulilla"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:32:58.828396819Z",
+  "model": "glm-5.3"
+}

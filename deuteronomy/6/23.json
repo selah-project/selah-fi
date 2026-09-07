@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 6:23",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "ja ⟨את⟩ meidät hän toi sieltä ulos, tuodakseen ⟨את⟩ meidät sisään, antaakseen meille ⟨את⟩ maan, jonka hän vannoi isillemme.",
+  "tokens": [
+    {
+      "surface": "ואותנו",
+      "gloss": "ja ⟨את⟩ meidät",
+      "marks": "toi ulos"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "hän toi ulos"
+    },
+    {
+      "surface": "משם",
+      "gloss": "sieltä"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tuodakseen"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "hän toi sisään"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ meidät",
+      "marks": "toi sisään"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "antaakseen"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "hän vannoi"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "isillemme"
+    }
+  ],
+  "timestamp": "2026-09-06T22:25:07.890411456Z",
+  "model": "glm-5.3"
+}

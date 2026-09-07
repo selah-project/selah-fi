@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 59,
+  "translation": "Voimansa tähden sinua minä odotan, sillä Elohim ⟨on⟩ linnani.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "Voimansa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinua"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "odotan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "linnani"
+    }
+  ],
+  "timestamp": "2026-09-07T02:15:54.007550174Z",
+  "model": "glm-5.3"
+}

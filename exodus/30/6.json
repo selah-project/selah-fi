@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 30:6",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja sinä asetat ⟨את⟩ sen todistuksen arkun äärellä olevan verhon eteen, sovituslaitteen eteen, joka on todistuksen päällä, jossa minä tapaan sinut, siellä.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "Ja sinä asetat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sen",
+      "marks": "alttari (pronomininen kohde, suffiksikantainen)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "verhon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "על",
+      "gloss": "äärellä"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "arkun"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "todistuksen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "sovituslaitteen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "todistuksen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jossa"
+    },
+    {
+      "surface": "אועד",
+      "gloss": "minä tapaan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinut"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "siellä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:40:53.450020146Z",
+  "model": "glm-5.3"
+}

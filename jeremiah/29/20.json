@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 29:20",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja te, kuulkaa Jahven sana, koko pakkosiirtolaisuus, jonka minä lähetin Jerusalemista Babyloniaan.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Ja te"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kuulkaa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "pakkosiirtolaisuus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "minä lähetin"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Jerusalemista"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babyloniaan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:38:18.651221698Z",
+  "model": "glm-5.3"
+}

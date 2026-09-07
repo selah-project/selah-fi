@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja käsin sinä hetkenä ⟨את⟩ tuomareitanne sanoen: Kuulkaa veljienne väliset asiat ja tuomitkaa oikeutta miehen ja hänen veljensä välillä ja hänen muukalaisensa välillä.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "Ja käsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuomareitanne"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "tuomareitanne"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "hetkenä"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Kuulkaa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "välillä"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "veljienne"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "ja tuomitkaa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "oikeutta"
+    },
+    {
+      "surface": "בין",
+      "gloss": "välillä"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja välillä"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hänen veljensä"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja välillä"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "hänen muukalaisensa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:23:30.244679722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 11:14",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Sillä leviläiset jättivät ⟨את⟩ laidanmaansa ja omaisuutensa ja menivät Juudaan ja Jerushalajimiin (Jerusalemiin); sillä Jerovam (Jerobeam) ja hänen poikansa olivat hylänneet heidät [toimimasta] kohenina Jahvelle.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "jättivät"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviläiset"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laidanmaansa"
+    },
+    {
+      "surface": "מגרשיהם",
+      "gloss": "laidanmaansa"
+    },
+    {
+      "surface": "ואחזתם",
+      "gloss": "ja omaisuutensa"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ja menivät"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Juudaan"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "ja Jerushalajimiin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "הזניחם",
+      "gloss": "olivat hylänneet heidät"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jerovam"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ja hänen poikansa"
+    },
+    {
+      "surface": "מכהן",
+      "gloss": "[toimimasta] kohenina"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    }
+  ],
+  "timestamp": "2026-09-07T05:34:47.434756017Z",
+  "model": "glm-5.3"
+}

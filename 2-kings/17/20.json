@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 17:20",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja Jahve hylkäsi koko Israelin siemenen, ja kuritti heitä, ja antoi heidät ryöstäjien käteen, kunnes hän heitti heidät pois kasvojensa edestä.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "hylkäsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "siemenen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "kuritti heitä"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "antoi heidät"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käteen"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "ryöstäjien"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kun"
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "hän heitti heidät"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "kasvojensa edestä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:55:37.768214949Z",
+  "model": "glm-5.3"
+}

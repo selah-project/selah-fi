@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 15:18",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Puhu Israelin lapsille ja sano heille: kun te tulette maahan, johon minä tuon ⟨את⟩ teidät,",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "puhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…lle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lapset"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ja sano"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "בבאכם",
+      "gloss": "kun te tulette"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…an"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "johon"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "tuon"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät",
+      "marks": "שמה"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sinne"
+    }
+  ],
+  "timestamp": "2026-09-06T22:11:33.347493653Z",
+  "model": "glm-5.3"
+}

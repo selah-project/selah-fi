@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 26:44",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja siitä huolimatta, kun he ovat vihollistensa maassa, en minä heitä hylkää enkä heitä kammoksuta, niin että heidät hävitettäisiin ja liittoni ⟨את⟩ heidän kanssansa rikottaisiin; sillä minä olen Jahve, heidän Elohiminsa.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "Ja siitä huolimatta"
+    },
+    {
+      "surface": "גם",
+      "gloss": ""
+    },
+    {
+      "surface": "זאת",
+      "gloss": ""
+    },
+    {
+      "surface": "בהיותם",
+      "gloss": "kun he ovat"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "vihollistensa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "מאסתים",
+      "gloss": "minä heitä hylkää"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "געלתים",
+      "gloss": "heidän kammoksuta"
+    },
+    {
+      "surface": "לכלתם",
+      "gloss": "heidät hävitettäisiin"
+    },
+    {
+      "surface": "להפר",
+      "gloss": "rikottaisiin"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "liittoni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ heidän kanssansa",
+      "marks": "heidän kanssansa (H854, prepositio 'kanssa', ei objektimerkki)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä olen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "heidän Elohiminsa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:01:22.031297320Z",
+  "model": "glm-5.3"
+}

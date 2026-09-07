@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 69,
+  "translation": "Pelasta minut mudasta, älköön minun upotettako; olkoon minut pelastettu vihaajistani ja vesien syvyyksistä.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "pelasta minut"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "mudasta"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "älköön"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "upotettako"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "olkoon pelastettu"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "vihaajistani"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "ja syvyyksistä"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vesien"
+    }
+  ],
+  "timestamp": "2026-09-07T02:18:51.521271066Z",
+  "model": "glm-5.3"
+}

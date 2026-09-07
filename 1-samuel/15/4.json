@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 15:4",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Ja kutsui Shaul ⟨את⟩ kansan koolle ja laski heidät Talaimissa: kaksisataatuhatta jalkamiestä ja kymmenentuhatta ⟨את⟩ Judan miehistä.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Ja kutsui koolle"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "ja laski heidät"
+    },
+    {
+      "surface": "בטלאים",
+      "gloss": "Talaimissa"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "kaksisataa"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhatta"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "jalkamiestä"
+    },
+    {
+      "surface": "ועשרת",
+      "gloss": "ja kymmenen"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tuhatta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miestä"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:20:03.959676872Z",
+  "model": "glm-5.3"
+}

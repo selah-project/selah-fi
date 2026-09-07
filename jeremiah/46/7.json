@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 46:7",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 46,
+  "translation": "Kuka tämä on, joka nousee kuin joki, jonka vedet kuohuvat kuin virrat?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kuka"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "kuin joki"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "nousee"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "kuin virrat"
+    },
+    {
+      "surface": "יתגעשו",
+      "gloss": "kuohuvat"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "sen vedet"
+    }
+  ],
+  "timestamp": "2026-09-07T00:45:09.239728696Z",
+  "model": "glm-5.3"
+}

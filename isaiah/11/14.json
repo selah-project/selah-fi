@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 11:14",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja he syöksyvät pelistiläisten olkapäille länteen, yhdessä he ryöstävät ⟨את⟩ itäisen pojat; Edom ja Moab — heidän kätensä ulottuu, ja Ammonin pojat kuuluvat heidän valtaansa.",
+  "tokens": [
+    {
+      "surface": "ועפו",
+      "gloss": "ja he syöksyvät"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "olkapäille"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelistiläisten"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "länteen"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "yhdessä"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "he ryöstävät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itäisen pojat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "itäisen"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ומואב",
+      "gloss": "ja Moab"
+    },
+    {
+      "surface": "משלוח",
+      "gloss": "käden ulottuminen"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "heidän kätensä"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ja pojat"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammonin"
+    },
+    {
+      "surface": "משמעתם",
+      "gloss": "kuuluvat heidän valtaansa"
+    }
+  ],
+  "timestamp": "2026-09-07T00:04:37.854973089Z",
+  "model": "glm-5.3"
+}

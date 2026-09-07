@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 35,
+  "translation": "ja ⟨את⟩ balsamiraaka-aineen, ja ⟨את⟩ öljyn valoa varten ja voiteluöljyä varten ja pyhää suitsuketta varten, maustesekoituksen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "balsamiraaka-aineen"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "balsamiraaka-aine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "öljyn"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "öljyn"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "valoa varten"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "ja öljyä varten"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "voitelu-"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "ja suitsuketta varten"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "maustesekoituksen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:44:26.698349962Z",
+  "model": "glm-5.3"
+}

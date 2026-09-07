@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 28:18",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Joka eheänä kulkee, pelastuu, mutta teillään kiero lankeaa yhtä aikaa.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "joka kulkee"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "eheänä"
+    },
+    {
+      "surface": "יושע",
+      "gloss": "pelastuu"
+    },
+    {
+      "surface": "ונעקש",
+      "gloss": "mutta kiero"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "teillään"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "lankeaa"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "yhtä aikaa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:20:21.596834264Z",
+  "model": "glm-5.3"
+}

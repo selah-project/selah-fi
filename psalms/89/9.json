@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 89,
+  "translation": "Jahve, Elohim Sebaot, kuka ⟨on⟩ sinun kaltaisesi, väkevä Jah? Ja uskollisuutesi ⟨on⟩ ympärilläsi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaot"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "sinun kaltaisesi"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "väkevä"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "ja uskollisuutesi"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "ympärilläsi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:29:16.310107457Z",
+  "model": "glm-5.3"
+}

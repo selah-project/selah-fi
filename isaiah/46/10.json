@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 46:10",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 46,
+  "translation": "julistaa alusta lopun ja muinaisesta ajasta sen, mitä ei ole vielä tehty; sanoen: minun neuvoni pysyy, ja kaiken tahtoni minä teen.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "julistaa"
+    },
+    {
+      "surface": "מראשית",
+      "gloss": "alusta"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "lopun"
+    },
+    {
+      "surface": "ומקדם",
+      "gloss": "ja muinaisesta ajasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "tehty"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "minun neuvoni"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "pysyy"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaiken"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "tahtoni"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "minä teen"
+    }
+  ],
+  "timestamp": "2026-09-07T00:16:01.804422026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Lähettää Jahve sinun päällesi ⟨את⟩ kirouksen, ⟨את⟩ hämmennyksen ja ⟨את⟩ nuhteen, kaikessa käsisi työssä, jota teet, kunnes sinut hävitetään ja kunnes sinut hukutetaan pian — pahoista teoistasi, joilla hylkäsit minut.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Lähettää"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinun päällesi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kirouksen"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "kirouksen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hämmennyksen"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "hämmennyksen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "nuhteen"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "nuhteen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaikessa"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "käsisi työssä"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "käsisi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jota"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "teet"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "sinut hävitetään"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ja kunnes"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "sinut hukutetaan"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "pian"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "—"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pahoista"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "teoistasi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joilla"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "hylkäsit minut"
+    }
+  ],
+  "timestamp": "2026-09-06T22:36:24.241079392Z",
+  "model": "glm-5.3"
+}

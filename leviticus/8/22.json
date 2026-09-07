@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 8:22",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja hän toimitti esiin ⟨את⟩ toisen oinaan, vihkimisoinaan, ja Aharon (Aaron) ja hänen poikansa laskivat ⟨את⟩ kätensä oinaan pään päälle.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "toi esiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toisen oinaan"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "oinaan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "toisen"
+    },
+    {
+      "surface": "איל",
+      "gloss": "oinaan"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "vihkimis-"
+    },
+    {
+      "surface": "ויסמכו",
+      "gloss": "laskivat"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ja hänen poikansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kätensä"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "kätensä"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pään"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "oinaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:51:24.918296225Z",
+  "model": "glm-5.3"
+}

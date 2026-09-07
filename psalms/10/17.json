@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 10:17",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Nöyrien kaipuun sinä kuulit, Jahve; sinä vahvistat heidän sydämensä, sinä kallistat korvasi.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "kaipuun"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "nöyrien"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "sinä kuulit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "sinä vahvistat"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "heidän sydämensä"
+    },
+    {
+      "surface": "תקשיב",
+      "gloss": "sinä kallistat"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "korvasi"
+    }
+  ],
+  "timestamp": "2026-09-07T01:54:26.618136130Z",
+  "model": "glm-5.3"
+}

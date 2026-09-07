@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 30:25",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Muurahaiset ⟨ovat⟩ kansa, ei väkevä, ja ne valmistavat kesällä ravintonsa.",
+  "tokens": [
+    {
+      "surface": "הנמלים",
+      "gloss": "Muurahaiset"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "עז",
+      "gloss": "väkevä"
+    },
+    {
+      "surface": "ויכינו",
+      "gloss": "ja ne valmistavat"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "kesällä"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "ravintonsa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:19:27.163586755Z",
+  "model": "glm-5.3"
+}

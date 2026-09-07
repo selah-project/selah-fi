@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 28:19",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Ja hän kutsui ⟨את⟩ tuon paikan nimen Beit El (Betel), mutta aluksi kaupungin nimi oli Luz (Luus).",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ja hän kutsui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuon paikan nimen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimen"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "paikan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tuon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "mutta"
+    },
+    {
+      "surface": "לוז",
+      "gloss": "Luz"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "לראשנה",
+      "gloss": "aluksi"
+    }
+  ],
+  "timestamp": "2026-09-07T06:28:53.260256883Z",
+  "model": "glm-5.3"
+}

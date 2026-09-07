@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Pelasta nefeshini miekasta, koiran kädestä ainokaiseni.",
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "Pelasta"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "miekasta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshini"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kädestä"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "koiran"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "ainokaiseni"
+    }
+  ],
+  "timestamp": "2026-09-07T01:57:17.033624866Z",
+  "model": "glm-5.3"
+}

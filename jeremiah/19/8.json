@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 19:8",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja teen ⟨את⟩ tämän kaupungin hävitykseksi ja pilkaksi; jokainen ohikulkija hämmästyy ja viheltää kaikkien sen haavojen tähden.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Ja teen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaupungin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "hävitykseksi"
+    },
+    {
+      "surface": "ולשרקה",
+      "gloss": "ja pilkaksi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokainen"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ohikulkija"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ohitse"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "hämmästyy"
+    },
+    {
+      "surface": "וישרק",
+      "gloss": "ja viheltää"
+    },
+    {
+      "surface": "על",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkien"
+    },
+    {
+      "surface": "מכתה",
+      "gloss": "haavojen"
+    }
+  ],
+  "timestamp": "2026-09-07T00:33:38.595959539Z",
+  "model": "glm-5.3"
+}

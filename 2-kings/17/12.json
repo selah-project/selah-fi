@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "ja he palvelivat epäjumalia, joista Jahve oli sanonut heille: älkää tehkö ⟨את⟩ tätä asiaa.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "palvelivat"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "epäjumalia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joista"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oli sanonut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "tehkö"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tätä asiaa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asiaa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tätä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:25:19.022860898Z",
+  "model": "glm-5.3"
+}

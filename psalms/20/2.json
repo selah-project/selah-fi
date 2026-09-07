@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Vastatkoon Jahve sinua ahdistuksen päivänä, kohottakoon sinut Ja'akovin (Jaakobin) Elohimin nimi.",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "Vastatkoon sinua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ahdistuksen"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "kohottakoon sinut"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akovin (Jaakobin)"
+    }
+  ],
+  "timestamp": "2026-09-07T01:58:21.921728359Z",
+  "model": "glm-5.3"
+}

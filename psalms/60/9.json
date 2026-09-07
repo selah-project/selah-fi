@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 60,
+  "translation": "Minun ⟨on⟩ Gilad ⟨Gilad⟩, ja minun ⟨on⟩ Menashsheh ⟨Manasse⟩, ja Efrayim ⟨on⟩ pääni linnitus, Yehudah ⟨on⟩ säätäjäni.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "minun"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "ja minun"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "ja Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "linnitus"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "pääni"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "säätäjäni"
+    }
+  ],
+  "timestamp": "2026-09-07T04:33:47.280061385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja he jättivät sinne ⟨את⟩ jumalansa, ja David sanoi, ja ne poltettiin tulessa.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "Ja he jättivät"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sinne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jumalansa"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "jumalansa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "ja ne poltettiin"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulessa"
+    }
+  ],
+  "timestamp": "2026-09-07T05:20:34.594401418Z",
+  "model": "glm-5.3"
+}

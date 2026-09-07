@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Luota ⟨את⟩ Israelin lasten esikoisilta hän otti ⟨את⟩ hopean: viisi ja kuusikymmentä ja kolmesataa ja tuhat, pyhän shekelin mukaan.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "luota ⟨את⟩",
+      "marks": "Israelin lasten esikoisilta"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "esikoisilta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "otti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hopean"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "hopean"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "viisi"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ja kuusikymmentä"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ja kolme"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sataa"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "ja tuhat"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "shekelin"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pyhän"
+    }
+  ],
+  "timestamp": "2026-09-06T22:02:41.697247078Z",
+  "model": "glm-5.3"
+}

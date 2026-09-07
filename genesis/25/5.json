@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja Avraham (Aabraham) antoi ⟨את⟩ kaiken, mitä hänellä oli, Jitshakille (Iisakille).",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ja antoi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänellä oli"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Jitshakille"
+    }
+  ],
+  "timestamp": "2026-09-06T21:13:59.279084579Z",
+  "model": "glm-5.3"
+}

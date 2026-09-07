@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 24:3",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja Moshe tuli ja kertoi kansalle ⟨את⟩ kaikki Jahven sanat ja ⟨את⟩ kaikki oikeuskäskyt, ja kaikki kansa vastasi yhdellä äänellä ja sanoi: kaikki sanat, jotka Jahve on puhunut, me teemme.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ja tuli"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "ja kertoi"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kansalle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki Jahven sanat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki oikeuskäskyt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "oikeuskäskyt"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "ja vastasi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "äänellä"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yhdellä"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "on puhunut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "me teemme"
+    }
+  ],
+  "timestamp": "2026-09-06T21:38:36.596086833Z",
+  "model": "glm-5.3"
+}

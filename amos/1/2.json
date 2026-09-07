@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 1:2",
+  "book": "amos",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja hän sanoi: Jahve ryter Tsijonista (Siion) ja antaa äänensä Jerushalajimista (Jerusalem), ja paimenten laitumet surevat, ja Karmelin (Karmel) huippu kuivuu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Tsijonista"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "ryter"
+    },
+    {
+      "surface": "ומירושלם",
+      "gloss": "ja Jerushalajimista"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "antaa"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "äänensä"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "ja surevat"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "laitumet"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "paimenten"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "ja kuivuu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "huippu"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmelin"
+    }
+  ],
+  "timestamp": "2026-09-07T01:27:45.278272241Z",
+  "model": "glm-5.3"
+}

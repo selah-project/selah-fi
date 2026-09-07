@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 92,
+  "translation": "Kuinka suuret ovat teosi, Jahve; sangen syvät ovat ajatuksesi.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Kuinka"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "suuret ovat"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "teosi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangen"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "syvät ovat"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "ajatuksesi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:33:36.012980486Z",
+  "model": "glm-5.3"
+}

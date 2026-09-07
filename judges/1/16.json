@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 1:16",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja Moshen (Mooses) vävyn, keenien, pojat nousivat palmukaupungista Jehudan poikien ⟨את⟩ kanssa Jehudan erämaahan, joka on Aradin etelässä, ja hän meni ja asui ⟨את⟩ kansan kanssa.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ja ... pojat"
+    },
+    {
+      "surface": "קיני",
+      "gloss": "keenien"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "vävy"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mooses)"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "nousivat"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "kaupungista"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "palmu-"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ kanssa",
+      "marks": "Jehudan poikien"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikien"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "erämaahan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "etelässä"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "Aradin"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "meni"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "asui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ kanssa",
+      "marks": "kansan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:51:12.345117806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 12:2",
+  "book": "zechariah",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Katso, minä panen ⟨את⟩ Jerushalajimin (Jerusalem) huimauksen maljaksi kaikille kansoille ympärillä; myös Yehudalle (Juuda) se tulee piirityksessä Jerushalajimia vastaan.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "שם",
+      "gloss": "panen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerushalajimin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimin"
+    },
+    {
+      "surface": "סף",
+      "gloss": "maljaksi"
+    },
+    {
+      "surface": "רעל",
+      "gloss": "huimauksen"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kaikille"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "kansoille"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympärillä"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "על",
+      "gloss": "ylle"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudalle"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tulee"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "piirityksessä"
+    },
+    {
+      "surface": "על",
+      "gloss": "vastaan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimia"
+    }
+  ],
+  "timestamp": "2026-09-07T01:49:14.864672384Z",
+  "model": "glm-5.3"
+}

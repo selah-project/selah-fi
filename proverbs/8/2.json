@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Korkeimpien huippujen päällä, tien vierellä, polkujen risteyksessä hän seisoo.",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "huippujen päällä"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "korkeimpien"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tien"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "vierellä ⟨tien⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨paikassa⟩"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "polkujen"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "risteyksessä hän seisoo"
+    }
+  ],
+  "timestamp": "2026-09-07T03:04:03.249139251Z",
+  "model": "glm-5.3"
+}

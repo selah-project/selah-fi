@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 14:5",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Minä parannan heidän luopumuksensa, minä rakastan heitä nuhteettomasti, sillä kääntynyt on vihani hänestä pois.",
+  "tokens": [
+    {
+      "surface": "ארפא",
+      "gloss": "minä parannan"
+    },
+    {
+      "surface": "משובתם",
+      "gloss": "heidän luopumuksensa"
+    },
+    {
+      "surface": "אהבם",
+      "gloss": "minä rakastan heitä"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "nuhteettomasti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "שב",
+      "gloss": "kääntynyt on"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "vihani"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "hänestä pois"
+    }
+  ],
+  "timestamp": "2026-09-07T01:23:47.285547941Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 43,
+  "translation": "Älä pelkää, sillä minä olen ⟨את⟩ sinun kanssasi: idästä tuon sinun siemenesi, ja lännestä minä kokoon sinut.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "pelkää"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sinun kanssasi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "idästä"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "tuon"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sinun siemenesi"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "ja lännestä"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "kokoon sinut"
+    }
+  ],
+  "timestamp": "2026-09-07T00:14:14.256259423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 41:3",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 41,
+  "translation": "Kuka ennensi minua, että minä maksaisin ⟨hänelle⟩? Kaikki taivaan alla ⟨on⟩ minun.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kuka"
+    },
+    {
+      "surface": "הקדימני",
+      "gloss": "ennensi minua"
+    },
+    {
+      "surface": "ואשלם",
+      "gloss": "että minä maksaisin"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨on⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T03:52:15.609758114Z",
+  "model": "glm-5.3"
+}

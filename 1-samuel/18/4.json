@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja Jehonatan riisui ⟨את⟩ viittansa, joka oli hänen yllään, ja antoi sen Davidille, ja vaatteensa ja miekkansa ja jousensa ja vyönsä.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "Ja riisui"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viittansa"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "viittansa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "oli hänen yllään"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "ja antoi sen"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidille"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "ja vaatteensa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ja"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "miekkansa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ja"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "jousensa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ja"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "vyönsä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:12:28.394799108Z",
+  "model": "glm-5.3"
+}

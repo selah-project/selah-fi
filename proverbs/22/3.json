@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Varovainen näkee pahan ja kätkeytyy, mutta yksinkertaiset kulkevat eteenpäin ja saavat rangaistuksen.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "Varovainen"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "näkee"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pahan"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "ja kätkeytyy"
+    },
+    {
+      "surface": "ופתיים",
+      "gloss": "mutta yksinkertaiset"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "kulkevat eteenpäin"
+    },
+    {
+      "surface": "ונענשו",
+      "gloss": "ja saavat rangaistuksen"
+    }
+  ],
+  "timestamp": "2026-09-07T03:13:56.298535500Z",
+  "model": "glm-5.3"
+}

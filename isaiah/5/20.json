@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Voi niitä, jotka sanovat pahasta hyvää ja hyvästä pahaa, jotka panevat pimeyden valoksi ja valon pimeydeksi, panevat karvaan makeaksi ja makean karvaaksi!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Voi"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "jotka sanovat"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "pahasta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvää"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "ja hyvästä"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pahaa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "jotka panevat"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pimeyden"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "valoksi"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ja valon"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "pimeydeksi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "panevat"
+    },
+    {
+      "surface": "מר",
+      "gloss": "karvaan"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "makeaksi"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "ja makean"
+    },
+    {
+      "surface": "למר",
+      "gloss": "karvaaksi"
+    }
+  ],
+  "timestamp": "2026-09-07T00:02:46.134250914Z",
+  "model": "glm-5.3"
+}

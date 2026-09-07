@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja Amminadav siitti ⟨את⟩ Nahshonin (Naahshonin), ja Nahshon siitti ⟨את⟩ Salmonin.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "ja Amminadav"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahshonin"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nahshonin"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "ja Nahshon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salmonin"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salmonin"
+    }
+  ],
+  "timestamp": "2026-09-07T03:58:16.175985719Z",
+  "model": "glm-5.3"
+}

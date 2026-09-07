@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja asumuksen toiselle sivulle pohjoisen puolelle: kaksikymmentä lautaa.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "ja sivulle"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "asumuksen"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "toiselle"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "puolelle"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "pohjoisen"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kaksikymmentä"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "lautaa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:39:24.977163979Z",
+  "model": "glm-5.3"
+}

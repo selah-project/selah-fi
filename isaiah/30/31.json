@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 30:31",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Sillä Jahven äänen edestä Assur ⟨Suomi: Assyria⟩ murtuu; seipäällä hän lyö.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "äänen edestä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "murtuu"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "seipäällä"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "hän lyö"
+    }
+  ],
+  "timestamp": "2026-09-07T00:09:33.345456194Z",
+  "model": "glm-5.3"
+}

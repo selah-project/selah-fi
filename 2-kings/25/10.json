@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja ⟨את⟩ Jerushalajimin muurit ympärillä hajotti alas koko kasdilaisten joukko, joka ⟨oli⟩ teurastajien päällikön ⟨kanssa⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Jerushalajimin muurit"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "muurit"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimin"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympärillä"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "hajotti alas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "joukko"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "kasdilaisten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "רב",
+      "gloss": "päällikön"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "teurastajien"
+    }
+  ],
+  "timestamp": "2026-09-06T23:59:58.738671847Z",
+  "model": "glm-5.3"
+}

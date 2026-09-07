@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 66,
+  "translation": "Häntä minun suuni huusi, ja ylistys ⟨oli⟩ kieleni alla.",
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "Häntä"
+    },
+    {
+      "surface": "פי",
+      "gloss": "minun suuni"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "huusin"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "ja ylistys"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alla"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "kieleni"
+    }
+  ],
+  "timestamp": "2026-09-07T02:16:55.860879590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 2:18",
+  "book": "ruth",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja hän kantoi ⟨sen⟩ ja tuli kaupunkiin, ja hänen anoppinsa näki ⟨את⟩ minkä hän oli poiminut, ja hän otti esiin ja antoi hänelle ⟨את⟩ sen, mikä oli jäänyt yli hänen kylläisyydestään.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "ja hän kantoi"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "ja hän tuli"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupunkiin"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "ja näki"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "hänen anoppinsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minkä hän oli poiminut"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minkä"
+    },
+    {
+      "surface": "לקטה",
+      "gloss": "hän poimi"
+    },
+    {
+      "surface": "ותוצא",
+      "gloss": "ja hän otti esiin"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "ja hän antoi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen, mikä oli jäänyt yli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mikä"
+    },
+    {
+      "surface": "הותרה",
+      "gloss": "jäi yli"
+    },
+    {
+      "surface": "משבעה",
+      "gloss": "hänen kylläisyydestään"
+    }
+  ],
+  "timestamp": "2026-09-07T04:00:05.491952501Z",
+  "model": "glm-5.3"
+}

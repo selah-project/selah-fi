@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 1:18",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Jokainen mies, joka niskoittelee ⟨את⟩ suutasi vastaan eikä kuuntele ⟨את⟩ sanojasi kaikessa, mitä käsket häntä ⟨tekemään⟩, surmattakoon; ole sinä vain vahva ja rohkea.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Jokainen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "ימרה",
+      "gloss": "niskoittelee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suutasi"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "suutasi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "kuuntele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanojasi"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "sanojasi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kaikessa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "תצונו",
+      "gloss": "käsket häntä"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "surmattakoon"
+    },
+    {
+      "surface": "רק",
+      "gloss": "vain"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ole vahva"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "ja rohkea"
+    }
+  ],
+  "timestamp": "2026-09-06T22:39:38.956657993Z",
+  "model": "glm-5.3"
+}

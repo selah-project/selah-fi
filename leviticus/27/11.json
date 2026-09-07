@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 27:11",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ja jos mikä tahansa eläin on saastainen, josta ei tuoda korbania Jahvelle: niin hän asettaa ⟨את⟩ eläimen kohenin ⟨papistön⟩ eteen.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ja jos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mikä tahansa"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "eläin"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "saastainen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "josta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "tuoda"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "siitä"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "korban"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "niin hän asettaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eläimen"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "eläimen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:01:46.474523261Z",
+  "model": "glm-5.3"
+}

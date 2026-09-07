@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja mitsrit panivat ⟨את⟩ Israelin pojat palvelemaan ankaruudella.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "panivat palvelemaan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "mitsrit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin pojat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "ankaruudella"
+    }
+  ],
+  "timestamp": "2026-09-06T21:28:34.938961591Z",
+  "model": "glm-5.3"
+}

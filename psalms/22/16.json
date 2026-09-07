@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Voimani on kuivunut kuin saviastian pala, ja kieleni tarttuu leukoihini, ja kuoleman pölyyn sinä panelet minut.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "on kuivunut"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "kuin saviastian pala"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "voimani"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "ja kieleni"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "tarttuu"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "leukoihini"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "ja pölyyn"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kuoleman"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "sinä panelet minut"
+    }
+  ],
+  "timestamp": "2026-09-07T01:57:47.454957169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 72,
+  "translation": "Tarshishin kuninkaat ja saaret tuovat lahjaa, Sheban ja Sevan kuninkaat tuovat kalleuksia.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "kuninkaat"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshishin"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "ja saaret"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "lahjaa"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "tuovat"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kuninkaat"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheban"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "ja Sevan"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "kalleuksia"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "tuovat esille"
+    }
+  ],
+  "timestamp": "2026-09-07T04:33:28.274162631Z",
+  "model": "glm-5.3"
+}

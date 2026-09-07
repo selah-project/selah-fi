@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "kansan päämiehet: Parosh (Paros), Pahat-Moab (Pahat-Moab), Elam, Zattu (Sattu), Bani,",
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "päämiehet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Parosh (Paros)"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "Pahat-"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "Zattu (Sattu)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Bani"
+    }
+  ],
+  "timestamp": "2026-09-07T05:05:36.852857209Z",
+  "model": "glm-5.3"
+}

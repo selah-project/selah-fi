@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 11:25",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja hän ⟨oli⟩ vastustajana Israelille kaikkina Shelomon päivinä, ja ⟨את⟩ pahan, jota Hadad teki; ja hän vihasi Israelia ja hallitsi Aramin yli.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja hän oli"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "vastustajana"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israelille"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkina"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päivinä"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "pahan"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "pahan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jota"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "ja hän vihasi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israelia"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ja hallitsi"
+    },
+    {
+      "surface": "על",
+      "gloss": "yli"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:40:00.838837694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 2:20",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Eli siunasi ⟨את⟩ Elkanan ja ⟨את⟩ hänen vaimonsa ja sanoi: ”Asettakoon Jahve sinulle siementä tästä naisesta sen pyynnön tilalle, jonka hän pyysi Jahvelta.” Ja he menivät paikkaansa.",
+  "tokens": [
+    {
+      "surface": "וברך",
+      "gloss": "Ja siunasi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elkanan"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen vaimonsa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hänen vaimonsa"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "Asettakoon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "siementä"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "naisesta"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tilalle"
+    },
+    {
+      "surface": "השאלה",
+      "gloss": "pyynnön"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "pyysi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelta"
+    },
+    {
+      "surface": "והלכו",
+      "gloss": "ja menivät"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "paikkaansa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:04:36.768183506Z",
+  "model": "glm-5.3"
+}

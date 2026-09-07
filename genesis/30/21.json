@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja sen jälkeen hän synnytti tyttären ja kutsui ⟨את⟩ hänen nimensä Dinah.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "Ja sen jälkeen"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "hän synnytti"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tyttären"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ja kutsui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen nimensä"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "hänen nimensä"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    }
+  ],
+  "timestamp": "2026-09-06T21:16:00.667076499Z",
+  "model": "glm-5.3"
+}

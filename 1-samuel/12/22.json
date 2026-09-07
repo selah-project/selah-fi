@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 12:22",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Sillä ei Jahve hylkää ⟨את⟩ kansaansa suuren nimensä tähden, sillä Jahve suostui tekemään ⟨את⟩ teidät itselleen kansaksi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "hylkää"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansaansa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kansaansa"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nimensä"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "suuren"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "suostui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "tekemään"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät"
+    },
+    {
+      "surface": "לו",
+      "gloss": "itselleen"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kansaksi"
+    }
+  ],
+  "timestamp": "2026-09-07T04:20:47.912521510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 14:30",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja sotaa oli Rehavamin ja Jarovamin (Jerobeam) välillä kaikkina päivinä.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Ja sotaa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "בין",
+      "gloss": "välillä"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavamin"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarovamin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkina"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "päivinä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:41:13.737573262Z",
+  "model": "glm-5.3"
+}

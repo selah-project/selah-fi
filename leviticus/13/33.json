@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "ja hän ajaa ⟨itsensä⟩ parturaksi, mutta ⟨את⟩ netek-kohtaa hän ei ajoi; ja kohen sulkee ⟨את⟩ netek-kohdan toiseksi seitsemäksi päiväksi.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "ja hän ajaa parturaksi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mutta ⟨את⟩",
+      "marks": "netek-kohdan"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "netek-kohtaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "hän ajoi"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "ja sulkee"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "netek-kohdan"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "netek-kohdan"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seitsemäksi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päiväksi"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "toiseksi"
+    }
+  ],
+  "timestamp": "2026-09-07T04:13:00.686408155Z",
+  "model": "glm-5.3"
+}

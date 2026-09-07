@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 19:3",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ihmisen hulluus vääristää hänen tiensä, ja Jahvea vastaan kiivastuu hänen sydämensä.",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "hulluus"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Ihmisen"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "vääristää"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "tiensä"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja ... vastaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "יזעף",
+      "gloss": "kiivastuu"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sydämensä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:13:19.551633483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 30:5",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja tuo sinut Jahve, sinun Elohimisi, siihen maahan, jonka sinun isäsi perivät, ja sinä perit sen, ja hän tekee sinulle hyvää ja moninkertaistaa sinut enemmän kuin sinun isäsi.",
+  "tokens": [
+    {
+      "surface": "והביאך",
+      "gloss": "ja tuo sinut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sinun Elohimisi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "siihen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "perivät"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "sinun isäsi"
+    },
+    {
+      "surface": "וירשתה",
+      "gloss": "ja sinä perit sen"
+    },
+    {
+      "surface": "והיטבך",
+      "gloss": "ja hän tekee sinulle hyvää"
+    },
+    {
+      "surface": "והרבך",
+      "gloss": "ja moninkertaistaa sinut"
+    },
+    {
+      "surface": "מאבתיך",
+      "gloss": "enemmän kuin sinun isäsi"
+    }
+  ],
+  "timestamp": "2026-09-07T04:15:53.151820275Z",
+  "model": "glm-5.3"
+}

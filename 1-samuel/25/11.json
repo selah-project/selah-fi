@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja ottaisinko ⟨את⟩ leipäni ja ⟨את⟩ veteni ja ⟨את⟩ teuraskarjani, jonka teurastin keritsijöilleni, ja antaisinko sitä miehille, joita en tunne, mistä he ovat?",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "ja ottaisinko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leipäni"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "leipäni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "veteni"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "veteni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "teuraskarjani"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "teuraskarjani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "teurastin"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "keritsijöilleni"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ja antaisinko"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "miehille"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "tunne"
+    },
+    {
+      "surface": "אי",
+      "gloss": "mistä"
+    },
+    {
+      "surface": "מזה",
+      "gloss": ""
+    },
+    {
+      "surface": "המה",
+      "gloss": "he ovat"
+    }
+  ],
+  "timestamp": "2026-09-06T23:15:23.301241039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 116,
+  "translation": "Ja Jahven nimeen minä kutsun: oi, Jahve, pelasta nefeshini (sieluni).",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "ja nimeen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "minä kutsun"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "oi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "pelasta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshini"
+    }
+  ],
+  "timestamp": "2026-09-07T02:45:10.556404012Z",
+  "model": "glm-5.3"
+}

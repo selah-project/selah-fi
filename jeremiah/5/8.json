@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 5:8",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "He olivat kuin ravitut hevoset, himossaan vaeltavia; kukin hirnuu toverinsa vaimon perään.",
+  "tokens": [
+    {
+      "surface": "סוסים",
+      "gloss": "hevoset"
+    },
+    {
+      "surface": "מיזנים",
+      "gloss": "ravitut"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "himossaan vaeltavia"
+    },
+    {
+      "surface": "היו",
+      "gloss": "he olivat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kukin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vaimon"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "toverinsa"
+    },
+    {
+      "surface": "יצהלו",
+      "gloss": "hirnuvat"
+    }
+  ],
+  "timestamp": "2026-09-07T00:26:55.992224762Z",
+  "model": "glm-5.3"
+}

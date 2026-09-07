@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 21:31",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Hevonen on valjastettu sotapäivää varten, mutta Jahvelle ⟨on⟩ pelastus.",
+  "tokens": [
+    {
+      "surface": "סוס",
+      "gloss": "Hevonen"
+    },
+    {
+      "surface": "מוכן",
+      "gloss": "on valjastettu"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "päivää varten"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "sota-"
+    },
+    {
+      "surface": "וליהוה",
+      "gloss": "mutta Jahvelle"
+    },
+    {
+      "surface": "התשועה",
+      "gloss": "pelastus"
+    }
+  ],
+  "timestamp": "2026-09-07T03:12:31.960634124Z",
+  "model": "glm-5.3"
+}

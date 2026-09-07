@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 131,
+  "ref": "psalms 119:131",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Suuni minä avasin auki ja huokasin, sillä sinun käskyjäsi minä himoitsin.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Suuni"
+    },
+    {
+      "surface": "פערתי",
+      "gloss": "minä avasin auki"
+    },
+    {
+      "surface": "ואשאפה",
+      "gloss": "ja huokasin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "למצותיך",
+      "gloss": "sinun käskyjäsi"
+    },
+    {
+      "surface": "יאבתי",
+      "gloss": "minä himoitsin"
+    }
+  ],
+  "timestamp": "2026-09-07T02:47:27.800178282Z",
+  "model": "glm-5.3"
+}

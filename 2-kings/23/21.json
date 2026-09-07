@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 23:21",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja kuningas käski ⟨את⟩ koko kansaa sanoen: Pitäkää pesah (pääsiäinen) Jahvelle, Elohimillenne, niinkuin ⟨on⟩ kirjoitettu tämän liiton kirjaan.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Ja kuningas käski"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko kansaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansaa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Pitäkää"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "pesah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimillenne"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "niinkuin ⟨on⟩ kirjoitettu"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kirjaan"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "liiton"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    }
+  ],
+  "timestamp": "2026-09-06T23:58:08.243545493Z",
+  "model": "glm-5.3"
+}

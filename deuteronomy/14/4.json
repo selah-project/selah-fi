@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Tämä on eläin, jonka te saatte syödä: härkä, lammas lampaista ja kiti vuohista.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Tämä"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "eläin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "saatte syödä"
+    },
+    {
+      "surface": "שור",
+      "gloss": "härkä"
+    },
+    {
+      "surface": "שה",
+      "gloss": "lammas"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "lampaista"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "ja kiti"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "vuohista"
+    }
+  ],
+  "timestamp": "2026-09-06T22:29:11.882258334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 2:30",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Joab palasi Avnerin takaa ja kokoosi ⟨את⟩ koko kansan, ja he laskivat Davidin (Daavid) palvelijoista puuttuvan yhdeksätoista miestä ja Asahelin.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Ja Joab"
+    },
+    {
+      "surface": "שב",
+      "gloss": "palasi"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "takaa"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnerin"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "ja kokoosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko kansan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "ויפקדו",
+      "gloss": "ja he laskivat"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "palveljoista"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin (Daavid)"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "yhdeksän"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "toista"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miestä"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ja Asahel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "puuttuvan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:19:43.852733317Z",
+  "model": "glm-5.3"
+}

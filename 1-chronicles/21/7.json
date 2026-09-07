@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja tämä asia oli paha Elohimin silmissä, ja hän löi ⟨את⟩ Israelia.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "oli paha"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "silmissä"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "על",
+      "gloss": "-sta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asia"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "löi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelia"
+    }
+  ],
+  "timestamp": "2026-09-07T05:23:48.789625297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Ikuiseen asti en unohda sinun määräyksiäsi, sillä niillä sinä olet minut elvyttänyt.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "ikuiseen asti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "unohda"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "sinun määräyksiäsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "בם",
+      "gloss": "niillä"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "sinä olet minut elvyttänyt"
+    }
+  ],
+  "timestamp": "2026-09-07T02:47:30.665787405Z",
+  "model": "glm-5.3"
+}

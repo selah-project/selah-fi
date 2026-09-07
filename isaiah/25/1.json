@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 25:1",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Jahve, Elohimini, sinä ⟨olet⟩; minä korotan sinua, minä kiitän nimeäsi, sillä sinä teit ihmeen — neuvot kaukaisuudesta, uskollisuus, totuus.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimini"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "korotan sinua"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "kiitän"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nimeäsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "teit"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "ihmeen"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "neuvot"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "kaukaisuudesta"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "uskollisuus"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "totuus"
+    }
+  ],
+  "timestamp": "2026-09-07T00:08:22.179259881Z",
+  "model": "glm-5.3"
+}

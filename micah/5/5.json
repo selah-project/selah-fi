@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja he laiduttavat ⟨את⟩ Ashurin maan (Assyria) miekalla ja ⟨את⟩ Nimrodin maan sen porteissa, ja hän pelastaa meidät Assyriasta, kun se tulee maahamme ja astuu rajoillemme.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "Ja he laiduttavat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashurin maan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashurin (Assyria)"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "miekalla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Nimrodin maan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrodin"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "sen porteissa"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "ja hän pelastaa"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "Assyriasta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "se tulee"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "maahamme"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ja kun"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "se astuu"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "rajoillemme"
+    }
+  ],
+  "timestamp": "2026-09-07T01:36:14.783356697Z",
+  "model": "glm-5.3"
+}

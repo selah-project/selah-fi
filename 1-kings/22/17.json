@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 22:17",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja hän sanoi: Minä näin ⟨את⟩ koko Israelin hajallaan vuorilla, kuin lauman, jolla ei ole paimenta. Ja Jahve sanoi: Näillä ei ole herraa; palatkoon kukin rauhassa taloonsa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "näin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko Israelin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "נפצים",
+      "gloss": "hajallaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "vuorilla"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "kuin lauman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jolla"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ole"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "paimenta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "herraa"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "näillä"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "palatkoon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kukin"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "taloonsa"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "rauhassa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:46:51.107781974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Sadonkorjuu on mennyt, kesä on loppunut, eikä meitä ole autettu.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "on mennyt"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "sadonkorjuu"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "on loppunut"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "kesä"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ja me"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "ole autettu"
+    }
+  ],
+  "timestamp": "2026-09-07T00:28:47.250176020Z",
+  "model": "glm-5.3"
+}

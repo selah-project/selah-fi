@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 13:23",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja Avija nukkui isiensä luo, ja he hautasivat ⟨את⟩ hänet Davidin (Daavid) kaupunkiin, ja Asa, hänen poikansa, tuli kuninkaaksi hänen sijaansa; hänen päivinään maa oli rauhallinen kymmenen vuotta.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "nukkui"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Avija"
+    },
+    {
+      "surface": "עם",
+      "gloss": "luo"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "isiensä"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ja he hautasivat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet",
+      "marks": "hänet"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kaupunkiin"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "tuli kuninkaaksi"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "hänen sijaansa"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "hänen päivinään"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "oli rauhallinen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kymmenen"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vuotta"
+    }
+  ],
+  "timestamp": "2026-09-07T05:38:22.390468907Z",
+  "model": "glm-5.3"
+}

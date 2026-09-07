@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 64:9",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 64,
+  "translation": "Pyhät kaupunkesi ovat autiomaaksi tulleet, Tsijon (Siion) on autiomaaksi tullut, Jerushalajim (Jerusalem) on hävitys.",
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "kaupunkesi"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "pyhät"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ovat tulleet"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "autiomaaksi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijon"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "autiomaaksi"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "on tullut"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajim"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "hävitys"
+    }
+  ],
+  "timestamp": "2026-09-07T00:22:17.371057250Z",
+  "model": "glm-5.3"
+}

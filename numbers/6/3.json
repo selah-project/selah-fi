@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 6:3",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "viinistä ja väkevästä juomasta hän pidättäytyköön; viinin etikkaa ja väkevän etikkaa hän ei juoko, eikä mitään rypäleiden liotetta hän juoko; tuoreita eikä kuivattuja rypäleitä hän ei syö.",
+  "tokens": [
+    {
+      "surface": "מיין",
+      "gloss": "viinistä"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ja väkevästä juomasta"
+    },
+    {
+      "surface": "יזיר",
+      "gloss": "hän pidättäytyköön"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "etikkaa"
+    },
+    {
+      "surface": "יין",
+      "gloss": "viinin"
+    },
+    {
+      "surface": "וחמץ",
+      "gloss": "ja väkevän"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "etikkaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "hän juoko"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "eikä mitään"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "liotetta"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "rypäleiden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "hän juoko"
+    },
+    {
+      "surface": "וענבים",
+      "gloss": "tuoreita rypäleitä"
+    },
+    {
+      "surface": "לחים",
+      "gloss": "tuoreita"
+    },
+    {
+      "surface": "ויבשים",
+      "gloss": "eikä kuivattuja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "hän syö"
+    }
+  ],
+  "timestamp": "2026-09-06T22:05:32.263989966Z",
+  "model": "glm-5.3"
+}

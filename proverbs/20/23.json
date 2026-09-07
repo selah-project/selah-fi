@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 20:23",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Jahven kauhistus ⟨on⟩ kivi ja kivi, ja petolliset va'at eivät ⟨ole⟩ hyvät.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "kauhistus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kivi"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ja kivi"
+    },
+    {
+      "surface": "ומאזני",
+      "gloss": "ja va'at"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "petolliset"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvät"
+    }
+  ],
+  "timestamp": "2026-09-07T03:11:41.089260266Z",
+  "model": "glm-5.3"
+}

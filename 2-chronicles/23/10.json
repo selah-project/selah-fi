@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 23:10",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja hän asetti ⟨את⟩ kaiken kansan, kukin keihäänsä kädessään, temppelin oikealta olkalta aina temppelin vasemmalle olalle, alttarin kohdalle ja temppeliin, kuninkaan ympäriltä.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ja asetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken kansan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ja kukin"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "keihäänsä"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "kädessään"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "olkalta"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "temppelin"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "oikealta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aina"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "olalle"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "temppelin"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "vasemmalle"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "alttarin kohdalle"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "ja temppeliin"
+    },
+    {
+      "surface": "על",
+      "gloss": "ympäriltä"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kaikilta puolilta"
+    }
+  ],
+  "timestamp": "2026-09-07T05:43:05.192046050Z",
+  "model": "glm-5.3"
+}

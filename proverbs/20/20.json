@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 20:20",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Isäänsä ja äitiänsä kiroava — hänen lamppunsa sammuu pimeyden synkkyydessä.",
+  "tokens": [
+    {
+      "surface": "מקלל",
+      "gloss": "kiroava"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isäänsä"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ja äitiänsä"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "sammuu"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "hänen lamppunsa"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "synkkyydessä"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pimeyden"
+    }
+  ],
+  "timestamp": "2026-09-07T03:11:55.330186156Z",
+  "model": "glm-5.3"
+}

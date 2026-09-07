@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 55,
+  "translation": "Turmiota ⟨on⟩ sen keskellä, eivätkä sorto ja petos väisty sen toreilta.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Turmiota"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "sen keskellä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "väisty"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "sen toreilta"
+    },
+    {
+      "surface": "תך",
+      "gloss": "sorto"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "ja petos"
+    }
+  ],
+  "timestamp": "2026-09-07T02:13:01.244386160Z",
+  "model": "glm-5.3"
+}

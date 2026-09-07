@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Pahansilmäinen mies kiirehtii rikkauteen, eikä hän tiedä, että puute tulee hänen kimppuunsa.",
+  "tokens": [
+    {
+      "surface": "נבהל",
+      "gloss": "kiirehtii"
+    },
+    {
+      "surface": "להון",
+      "gloss": "rikkauteen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "רע",
+      "gloss": "paha-"
+    },
+    {
+      "surface": "עין",
+      "gloss": "silmäinen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tiedä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "puute"
+    },
+    {
+      "surface": "יבאנו",
+      "gloss": "tulee hänen kimppuunsa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:20:14.359762427Z",
+  "model": "glm-5.3"
+}

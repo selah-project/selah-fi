@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Pelastivatko kansojen jumalat heidät ⟨את⟩, jotka isäni hävittivät — ⟨את⟩ Gozanin ja ⟨את⟩ Haranin ja Retsefin ja Edenin pojat, jotka olivat Telassarissa?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Pelastivatko"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "heidät"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "jumalat"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kansojen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "hävittivät"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "isäni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozanin"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozanin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Haranin"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haranin"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "ja Retsefin"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ja ... pojat"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edenin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "Telassarissa"
+    }
+  ],
+  "timestamp": "2026-09-07T00:12:07.743750471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Minä tunsin sinut erämaassa, suuren kuivuuden maassa.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Minä"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "tunsin sinut"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "erämaassa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "suuren kuivuuden"
+    }
+  ],
+  "timestamp": "2026-09-07T01:23:20.078160662Z",
+  "model": "glm-5.3"
+}

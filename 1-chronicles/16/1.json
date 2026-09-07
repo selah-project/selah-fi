@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 16:1",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja he toivat ⟨את⟩ Elohimin (Jumalan) arkin ja asettivat ⟨את⟩ sen teltan keskelle, jonka David (Daavid) oli pystyttänyt sille, ja he toimittivat polttouhreja ja rauhanuhreja Elohimin edessä.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "ja he toivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimin arkin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "ja asettivat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sen"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keskelle"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "teltan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "oli pystyttänyt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sille"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "ja he toimittivat"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "polttouhreja"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "ja rauhanuhreja"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:20:32.540602245Z",
+  "model": "glm-5.3"
+}

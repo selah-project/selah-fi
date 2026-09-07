@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 11:13",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Kulkiessaan juoruilija paljastaa salaisuuden, mutta se, joka on uskollinen hengeltään, peittää asian.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "kulkiessaan"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "juoruilija"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "paljastaa"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "salaisuuden"
+    },
+    {
+      "surface": "ונאמן",
+      "gloss": "mutta se, joka on uskollinen"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hengeltään"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "peittää"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asian"
+    }
+  ],
+  "timestamp": "2026-09-07T03:07:40.391949667Z",
+  "model": "glm-5.3"
+}

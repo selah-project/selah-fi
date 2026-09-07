@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 8:5",
+  "book": "song-of-songs",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Kuka ⟨on⟩ tämä, nouseva erämaasta, nojaavaisena rakkaaseensa? Omenapuun alla minä herätin sinut; siellä äitisi synnytti sinut, siellä hän synnytti, joka sinut synnytti.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kuka"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "nouseva"
+    },
+    {
+      "surface": "מן",
+      "gloss": "erämaasta"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "erämaasta"
+    },
+    {
+      "surface": "מתרפקת",
+      "gloss": "nojaavaisena"
+    },
+    {
+      "surface": "על",
+      "gloss": "rakkaaseensa"
+    },
+    {
+      "surface": "דודה",
+      "gloss": "rakkaaseensa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alla"
+    },
+    {
+      "surface": "התפוח",
+      "gloss": "Omenapuun"
+    },
+    {
+      "surface": "עוררתיך",
+      "gloss": "herätin sinut"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "חבלתך",
+      "gloss": "synnytti sinut"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "äitisi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "חבלה",
+      "gloss": "hän synnytti"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "joka sinut synnytti"
+    }
+  ],
+  "timestamp": "2026-09-07T03:59:34.135310242Z",
+  "model": "glm-5.3"
+}

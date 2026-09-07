@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 9:11",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Efraimin kunnia lentää pois kuin lintu — ei syntymää, ei kohtua, eikä raskautta.",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimin"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "kuin lintu"
+    },
+    {
+      "surface": "יתעופף",
+      "gloss": "lentää pois"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "heidän kunniansa"
+    },
+    {
+      "surface": "מלדה",
+      "gloss": "ei syntymää"
+    },
+    {
+      "surface": "ומבטן",
+      "gloss": "ei kohtua"
+    },
+    {
+      "surface": "ומהריון",
+      "gloss": "eikä raskautta"
+    }
+  ],
+  "timestamp": "2026-09-07T01:22:52.441621340Z",
+  "model": "glm-5.3"
+}

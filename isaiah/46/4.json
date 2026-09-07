@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 46:4",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 46,
+  "translation": "Ja vanhuuteen asti minä ⟨olen⟩ hän, ja harmaaseen ikään asti minä kannan; minä tein, ja minä kannan, minä kannan ja pelastan.",
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "ja ... asti"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "vanhuuteen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän ⟨olen⟩"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ja ... asti"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "harmaaseen ikään"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "kannan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "tein"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ja minä"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "kannan"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ja minä"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "kannan"
+    },
+    {
+      "surface": "ואמלט",
+      "gloss": "ja pelastan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:17:12.167621350Z",
+  "model": "glm-5.3"
+}

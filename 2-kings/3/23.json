@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 3:23",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja he sanoivat: Tämä ⟨on⟩ verta; kuninkaat ovat totisesti tuhonneet toisensa ja lyöneet kukin ⟨את⟩ lähimmäisensä; ja nyt — Moav, saaliille!",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ja he sanoivat"
+    },
+    {
+      "surface": "דם",
+      "gloss": "verta"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "totisesti tuhonneet"
+    },
+    {
+      "surface": "נחרבו",
+      "gloss": "ovat tuhonneet toisensa"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "kuninkaat"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ja löivät"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kukin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lähimmäisensä"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "lähimmäisensä"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ja nyt"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "saaliille"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    }
+  ],
+  "timestamp": "2026-09-06T23:48:07.670575877Z",
+  "model": "glm-5.3"
+}

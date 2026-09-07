@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja he sanoivat Moshelle (Mooses): ”Puhu sinä meidän kanssamme, niin me kuulemme; mutta älköön Elohim puhunut meidän kanssamme, ettemme kuolisi.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ja he sanoivat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Moshelle"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mooses)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Puhu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "meidän kanssamme"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "niin me kuulemme"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mutta älköön"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "puhunut"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "meidän kanssamme"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ette"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "kuolisi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:36:28.700934219Z",
+  "model": "glm-5.3"
+}

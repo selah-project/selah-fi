@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 49:25",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 49,
+  "translation": "Sillä näin sanoi Jahve: myös vahvan vangittu viedään, ja tyrannin saalis pelastetaan; ja ⟨את⟩ riitajasi minä riidan, ja ⟨את⟩ poikasi minä pelastan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "כה",
+      "gloss": "näin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "vangittu"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "vahvan"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "viedään"
+    },
+    {
+      "surface": "ומלקוח",
+      "gloss": "ja saalis"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "tyrannin"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "pelastetaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "riitajasi"
+    },
+    {
+      "surface": "יריבך",
+      "gloss": "riitajasi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "riidan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "poikasi"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "poikasi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "pelastan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:17:54.842602961Z",
+  "model": "glm-5.3"
+}

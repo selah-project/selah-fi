@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Poikani, jos otat sanani ja kätket käskyni ⟨את⟩ luonasi,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Poikani"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "otat"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "sanani"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ja käskyni"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "kätket"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ luonasi",
+      "marks": "luonasi"
+    }
+  ],
+  "timestamp": "2026-09-07T03:00:18.357123981Z",
+  "model": "glm-5.3"
+}

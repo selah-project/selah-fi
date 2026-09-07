@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Hän sanoi sydämessään: en minä koskaan horju, polvesta polveen minä en joudu pahaan.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Hän sanoi"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "sydämessään"
+    },
+    {
+      "surface": "בל",
+      "gloss": "en minä koskaan"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "horju"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "polvesta"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "polveen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "joudu pahaan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:56:19.882400628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Hän teurasti teurastettavansa, sekoitti viininsä, myös kattoi hän pöytänsä.",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "teurasti"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "teurastettavansa"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "sekoitti"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "viininsä"
+    },
+    {
+      "surface": "אף",
+      "gloss": "myös"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "kattoi"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "pöytänsä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:05:10.186432922Z",
+  "model": "glm-5.3"
+}

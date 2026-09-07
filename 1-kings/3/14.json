@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 3:14",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja jos käyt minun teilläni, noudattaakseni säädöksiäni ja käskyjäni, niinkuin David, isäsi, käveli, niin minä pidennän ⟨את⟩ päiviäsi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ja jos"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "käyt"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "minun teilläni"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "noudattaakseni"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "säädökseni"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ja käskyjäni"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niinkuin"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "käveli"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "isäsi"
+    },
+    {
+      "surface": "והארכתי",
+      "gloss": "niin minä pidennän"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "päiviäsi"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "päiviäsi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:33:32.950195176Z",
+  "model": "glm-5.3"
+}

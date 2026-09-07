@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja voimanne kuluvat tyhjäksi, eikä maanne anna ⟨את⟩ satoansa, eikä maan puu anna hedelmäänsä.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "ja kuluvat loppuun"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "tyhjäksi"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "voimanne"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ette"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "anna"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "maanne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "satoansa"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "satoansa"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "eikä puu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "anna"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "hedelmäänsä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:00:56.132067645Z",
+  "model": "glm-5.3"
+}

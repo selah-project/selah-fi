@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja kymmenen nuorukaista, Yoavin varusteiden kantajia, kiersi ympäri ja löi ⟨את⟩ Avshalomin ja tappoi hänet.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "Kiersivät"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kymmenen"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "nuorukaista"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "kantajia"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "varusteita"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoavin"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ja löi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalomin"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalomin"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "ja tappoi hänet"
+    }
+  ],
+  "timestamp": "2026-09-06T23:28:33.840576122Z",
+  "model": "glm-5.3"
+}

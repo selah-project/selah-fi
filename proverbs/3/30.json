@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Älä riitele ihmisen kanssa syyttä, jos hän ei ole tehnyt sinulle pahaa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "riitele"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmisen"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "syyttä"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "ole tehnyt sinulle"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pahaa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:01:17.530312233Z",
+  "model": "glm-5.3"
+}

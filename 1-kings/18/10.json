@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Niin totta kuin Jahve, Elohimisi, elää: ei ole kansaa eikä kuningaskuntaa, jonne herrani ei olisi lähettänyt etsimään sinua; ja kun he sanoivat: ”Ei hän ole”, hän vannotti ⟨את⟩ kuningaskunnan ja ⟨את⟩ kansan, ettei sinua löydy.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "elää"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimisi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "niin totta kuin"
+    },
+    {
+      "surface": "יש",
+      "gloss": "on"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "kansaa"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "eikä kuningaskuntaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "lähetänyt"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "herrani"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sinne"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "etsimään sinua"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ja he sanoivat"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Ei hän ole"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "hän vannotti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuningaskunnan"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kuningaskunnan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kansan"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "sinua löydy"
+    }
+  ],
+  "timestamp": "2026-09-06T23:42:51.749658195Z",
+  "model": "glm-5.3"
+}

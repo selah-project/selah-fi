@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja Elohim kiersi ⟨את⟩ kansan erämaan tietä, Kaislameren ⟨Punaisenmeren⟩ suuntaan; ja sotavarustuksissa nousivat Israelin pojat Mitsrajimin maasta.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "Ja kiersi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tietä"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "erämaan"
+    },
+    {
+      "surface": "ים",
+      "gloss": "meren"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "kaisla-"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "sotavarustuksissa"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "nousivat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:34:39.214477320Z",
+  "model": "glm-5.3"
+}

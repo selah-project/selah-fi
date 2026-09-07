@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 42:12",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Ja Jahve siunasi ⟨את⟩ Ijovin loppua enemmän kuin hänen alkuaan; ja hänelle oli neljätoistatuhatta pientaelainta ja kuusituhatta kamelia ja tuhat härkäparia ja tuhat aasintamoa.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ja Jahve"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "siunasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijovin loppua"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "loppua"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijovin"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "enemmän kuin alkuaan"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "neljä"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-toista"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhatta"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "pientaelainta"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "ja kuusi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tuhatta"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "kamelia"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "ja tuhat"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "härkäparia"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "karjaa"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "ja tuhat"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "aasintamoa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:53:49.092382930Z",
+  "model": "glm-5.3"
+}

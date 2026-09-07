@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Katso minuun, vastaa minua, Jahve, Elohimini! Kirkasta silmäni, etten nukkuisi kuoleman ⟨uneen⟩,",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "vastaa minua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimini"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "Kirkasta"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "silmäni"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ettei"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "nukkuisin"
+    },
+    {
+      "surface": "המות",
+      "gloss": "kuoleman"
+    }
+  ],
+  "timestamp": "2026-09-07T01:55:58.374558838Z",
+  "model": "glm-5.3"
+}

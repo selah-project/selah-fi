@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 10:29",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Vain Yarav'amin, Nevatin pojan, synneistä, joilla hän sai ⟨את⟩ Israelin syntiin, ei Yehu poikennut niiden jäljestä — kultavasikoista, jotka ⟨ovat⟩ Beit-Elissä ja jotka ovat Danissa.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Vain"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "synneistä"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarav'amin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevatin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "saattoi syntiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "סר",
+      "gloss": "poikennut"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "מאחריהם",
+      "gloss": "niiden jäljestä"
+    },
+    {
+      "surface": "עגלי",
+      "gloss": "vasikoista"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kulta-"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elissä"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ja jotka"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Danissa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:51:29.316934750Z",
+  "model": "glm-5.3"
+}

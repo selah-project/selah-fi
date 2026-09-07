@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja nyt, Jahve, ota ⟨את⟩ nefeshini minulta, sillä parempi on kuolemani kuin elämäni.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ja nyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ota"
+    },
+    {
+      "surface": "נא",
+      "gloss": "pyydän"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefeshini"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshini"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minulta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "parempi"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "kuolemani"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "kuin elämäni"
+    }
+  ],
+  "timestamp": "2026-09-07T01:33:48.350800332Z",
+  "model": "glm-5.3"
+}

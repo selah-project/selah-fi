@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Köyhäksi tekee petollinen kämmen, mutta ahkerien käsi tekee rikkaaksi.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "köyhäksi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tekee"
+    },
+    {
+      "surface": "כף",
+      "gloss": "kämmen"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "petollinen"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "mutta käsi"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "ahkerien"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "tekee rikkaaksi"
+    }
+  ],
+  "timestamp": "2026-09-07T03:05:16.183716528Z",
+  "model": "glm-5.3"
+}

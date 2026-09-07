@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Leikattakoon Jahve pois kaikki sileät huulet, kielen, joka puhuu suuria.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "Leikattakoon pois"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "huulet"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "sileät"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "kielen"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "joka puhuu"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "suuria"
+    }
+  ],
+  "timestamp": "2026-09-07T01:54:54.814596372Z",
+  "model": "glm-5.3"
+}

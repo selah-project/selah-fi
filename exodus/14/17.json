@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 14:17",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja minä — katso, minä vahvistan ⟨את⟩ Mitsrajimin (Egypti) sydämen, ja he tulevat heidän perässään, ja minä kirkastun Paron (farao) ja koko hänen sotajoukkonsa, hänen vaunujensa ja hänen ratsumiestensä kautta.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ja minä"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "katso"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "vahvistan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajimin sydämen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sydämen"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ja he tulevat"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "heidän perässään"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "ja minä kirkastun"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ja koko"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "sotajoukkonsa"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "hänen vaunujensa"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "ja hänen ratsumiestensä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:34:54.397514804Z",
+  "model": "glm-5.3"
+}

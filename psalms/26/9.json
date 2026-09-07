@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Älä kokoa yhdessä rikollisten minun nefeshiani, älä yhdessä verimiesten minun elämääni.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "kokoa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yhdessä"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "rikollisten"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "minun nefeshiani"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ja yhdessä"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "miesten"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "veri-"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "minun elämääni"
+    }
+  ],
+  "timestamp": "2026-09-07T01:59:52.600170262Z",
+  "model": "glm-5.3"
+}

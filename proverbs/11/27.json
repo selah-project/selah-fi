@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 11:27",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Hyvää varhain etsivä etsii suosiota, mutta pahaa etsivän se tulee vastaan.",
+  "tokens": [
+    {
+      "surface": "שחר",
+      "gloss": "varhain (aamunkoitolla) etsivä"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvää"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "etsii"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "suosiota"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "mutta etsivän"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pahaa"
+    },
+    {
+      "surface": "תבואנו",
+      "gloss": "se tulee hänen päällensä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:05:46.071672110Z",
+  "model": "glm-5.3"
+}

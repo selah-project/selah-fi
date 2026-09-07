@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "”Herrani, kuule minua: maa ⟨on⟩ neljä sataa sekeliä hopeaa — mikä se on minun ja sinun välilläsi? Ja ⟨את⟩ kuolleesi hautaa.”",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Herrani"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "kuule minua"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "neljä"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "sataa"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "sekeliä"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "hopeaa"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "minun ja"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "sinun välilläsi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mikä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se on"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kuolleesi"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "kuolleesi"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "hautaa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:12:38.698155099Z",
+  "model": "glm-5.3"
+}

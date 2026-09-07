@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 3:5",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja Jehoshua sanoi kansalle: Pyhittäkää itsenne, sillä huomenna Jahve tekee teidän keskellänne ihmeitä.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kansalle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansalle"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "Pyhittäkää itsenne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "huomenna"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tekee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "teidän keskellänne"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "ihmeitä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:40:09.883309573Z",
+  "model": "glm-5.3"
+}

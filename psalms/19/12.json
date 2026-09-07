@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Myös sinun palvelijasi varoitetaan niillä; niitä noudattamalla ⟨on⟩ suuri palkka.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sinun palvelijasi"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "varoitetaan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "niillä"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "niitä noudattamalla"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "palkka"
+    },
+    {
+      "surface": "רב",
+      "gloss": "suuri"
+    }
+  ],
+  "timestamp": "2026-09-07T01:56:53.084604022Z",
+  "model": "glm-5.3"
+}

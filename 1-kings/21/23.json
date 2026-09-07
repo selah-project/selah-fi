@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja myös Izebelistä puhui Jahve sanoen: koirat syövät ⟨את⟩ Izebelin Yizreelin (Jisreel) vallilla.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ja myös"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "Izebelistä"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "puhui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "koirat"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "syövät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izebelin"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebelin"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "vallilla"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreelin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:43:33.352908859Z",
+  "model": "glm-5.3"
+}

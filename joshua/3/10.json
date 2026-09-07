@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 3:10",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja sanoi Jehoshua: Tästä te tulette tietämään, että elävä El ⟨on⟩ keskuudessanne ja että hän karkottaa varmasti teidän edestänne ⟨את⟩ kenaanilaisen ja ⟨את⟩ hettiläisen ja ⟨את⟩ hivviläisen ja ⟨את⟩ perissiläisen ja ⟨את⟩ girgasilaisen ja amorilaisen ja jebusilaisen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshua"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "Tästä"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "te tulette tietämään"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "elävä"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "keskuudessanne"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "karkottaa varmasti"
+    },
+    {
+      "surface": "יוריש",
+      "gloss": "karkottaa"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "teidän edestänne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenaanilaisen"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kenaanilaisen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hettiläisen"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hettiläisen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hivviläisen"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "hivviläisen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "perissiläisen"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "perissiläisen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "girgasilaisen"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "girgasilaisen"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "ja amorilaisen"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ja jebusilaisen"
+    }
+  ],
+  "timestamp": "2026-09-06T22:39:49.656234346Z",
+  "model": "glm-5.3"
+}

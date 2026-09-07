@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja ⟨את⟩ Jehudan heimoa minä armahdan, ja pelastan heidät Jahven, heidän Elohiminsa, kautta, enkä pelasta heitä jousella, miekalla eikä sodalla, hevosilla enkä ratsumiehillä.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ja ⟨את⟩",
+      "marks": "Jehudan heimoa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "heimoa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "minä armahdan"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "ja pelastan heidät"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahven kautta"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "heidän Elohiminsa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "pelasta heitä"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "jousella"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "miekalla"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "eikä sodalla"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "hevosilla"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "enkä ratsumiehillä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:21:17.178077518Z",
+  "model": "glm-5.3"
+}

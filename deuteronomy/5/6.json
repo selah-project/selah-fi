@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Minä ⟨olen⟩ Jahve, Elohimisi, joka vein sinut ulos Mitsrajimin (Egyptin) maasta, orjuuden huoneesta.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimisi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "vein sinut ulos"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "huoneesta"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "orjien"
+    }
+  ],
+  "timestamp": "2026-09-06T22:24:37.146129191Z",
+  "model": "glm-5.3"
+}

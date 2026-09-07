@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Ja Jahve antaa heidät teidän eteenne, ja teette heille koko käskyn mukaan, jonka minä olen käskenyt ⟨את⟩ teitä.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "ja antaa heidät"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "teidän eteenne"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ja teette"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "koko ... mukaan"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "käskyn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "olen käskenyt"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teitä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:38:52.103118051Z",
+  "model": "glm-5.3"
+}

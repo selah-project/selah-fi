@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja David viritti tämän valituslaulun ⟨את⟩ Shaulista (Saul) ja Jehonatanista (Jonatan), hänen pojastaan.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "ja viritti valituslaulun"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän valituslaulun"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "valituslaulun"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "על",
+      "gloss": "sta"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatanista"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hänen pojastaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:18:59.490656134Z",
+  "model": "glm-5.3"
+}

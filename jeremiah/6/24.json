@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 6:24",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Kuulimme ⟨את⟩ sanoman siitä: väistyvät kätemme, ahdistus tarttuu meihin, kipu synnyttävän naisen kaltainen.",
+  "tokens": [
+    {
+      "surface": "שמענו",
+      "gloss": "Kuulimme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanoman"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "sanoman"
+    },
+    {
+      "surface": "רפו",
+      "gloss": "väistyvät"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "kätemme"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ahdistus"
+    },
+    {
+      "surface": "החזיקתנו",
+      "gloss": "tarttuu meihin"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kipu"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "synnyttävän naisen kaltainen"
+    }
+  ],
+  "timestamp": "2026-09-07T00:25:36.946270966Z",
+  "model": "glm-5.3"
+}

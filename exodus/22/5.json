@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Jos tuli lähtee ja löytää ohdakkeet, ja syödään seinäke tai seisova vilja tai pelto, hyvityksen hyvittäköön hän, joka sytytti polttamaan ⟨את⟩ palaneen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jos"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "lähtee"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "ja löytää"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "ohdakkeet"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "ja syödään"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "seinäke"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "seisova vilja"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pelto"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "hyvityksen"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "hyvittäköön"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "hän, joka sytytti polttamaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palaneen"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "palaneen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:38:30.230923372Z",
+  "model": "glm-5.3"
+}

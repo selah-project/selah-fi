@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 9:2",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja kun sinä tulet sinne, etsi sieltä Jehu, Jehoshafatin (Joosefat) poika, Nimshin (Nimsi) poika, ja astu sisään ja nosta hänet veljiensä keskeltä ja vie ⟨את⟩ hänet huoneeseen huoneen sisään.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "ja kun sinä tulet"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sinne"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "etsi\/katso"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sieltä"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehoshafatin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimshin"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "ja astu"
+    },
+    {
+      "surface": "והקמתו",
+      "gloss": "ja nosta hänet"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "keskeltä"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "veljiensä"
+    },
+    {
+      "surface": "והביאת",
+      "gloss": "ja vie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hänet (huoneeseen huoneen sisään)"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "huoneeseen"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "huoneen sisään"
+    }
+  ],
+  "timestamp": "2026-09-06T23:51:00.545506344Z",
+  "model": "glm-5.3"
+}

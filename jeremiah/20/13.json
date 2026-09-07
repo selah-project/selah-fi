@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 20:13",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Laulakaa Jahvelle, kiittäkää ⟨את⟩ Jahvea, sillä hän pelasti ⟨את⟩ köyhän nefeshin pahojen käsistä.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Laulakaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "kiittäkää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "hän pelasti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "köyhän nefeshin"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefeshin"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "köyhän"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "käsistä"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "pahojen"
+    }
+  ],
+  "timestamp": "2026-09-07T00:31:51.942809259Z",
+  "model": "glm-5.3"
+}

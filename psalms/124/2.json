@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 124,
+  "translation": "jos ei Jahve olisi ollut meitä varten, kun ihminen nousi meitä vastaan,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "jos ei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "olisi ollut"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meitä varten"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "kun nousi"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "meitä vastaan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihminen"
+    }
+  ],
+  "timestamp": "2026-09-07T02:49:30.786680860Z",
+  "model": "glm-5.3"
+}

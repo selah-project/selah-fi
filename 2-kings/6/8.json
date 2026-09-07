@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja Aramin (Syyrian) kuningas kävi sotaa Israelia vastaan ja neuvotteli palvelijoidensa kanssa sanoen: ”Siinä ja siinä paikassa on leirini.”",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "Ja kuningas"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kävi"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "sotaa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israelia vastaan"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "ja neuvotteli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "palvelijoidensa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "paikassa"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "siinä ja"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "siinä"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "leirini"
+    }
+  ],
+  "timestamp": "2026-09-06T23:48:24.246203239Z",
+  "model": "glm-5.3"
+}

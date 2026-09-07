@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 39,
+  "translation": "Neliönmallinen ⟨oli⟩ se, kaksinkertaisena tekivät he ⟨את⟩ rintakilven; vaaksan ⟨oli⟩ sen pituus ja vaaksan sen leveys, kaksinkertaisena.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "neliönmallinen"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨oli⟩"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "kaksinkertaisena"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "tekivät he"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rintakilven"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "rintakilven"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "vaaksan"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "sen pituus"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "ja vaaksan"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "sen leveys"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "kaksinkertaisena"
+    }
+  ],
+  "timestamp": "2026-09-06T21:45:26.900970391Z",
+  "model": "glm-5.3"
+}

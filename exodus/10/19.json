@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 10:19",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja Jahve käänsi mereltä ⟨ tulevan ⟩ tuulen, väkevän, sangen voimakkaan, ja se nosti ⟨את⟩ heinäsirkat ja paiskasi ne Kaislameren ⟨ rantaan ⟩; ei jäänyt yhtään heinäsirkkaa jäljelle koko Mitsrajimin ⟨ alueelle ⟩.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "Ja käänsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "tuulen"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mereltä ⟨ tulevan ⟩"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "väkevän"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangen voimakkaan"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ja se nosti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heinäsirkat"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "heinäsirkat"
+    },
+    {
+      "surface": "ויתקעהו",
+      "gloss": "ja paiskasi ne"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "mereen"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Kaislameren ⟨ rantaan ⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "jäänyt"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "heinäsirkkaa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yhtään"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "⟨ alueelle ⟩"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:32:25.963431196Z",
+  "model": "glm-5.3"
+}

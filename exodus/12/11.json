@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja näin te syötte ⟨את⟩ sen: kupeenne vyötettyinä, sandaalit jalossanne ja sauva kädessänne, ja te syötte ⟨את⟩ sen kiireesti — se ⟨on⟩ Pesach (pääsiäinen), Jahvelle.",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "Ja näin"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "te syötte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sen",
+      "marks": "sen — pesach-eläimen"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "kupeenne"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "vyötettyinä"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "sandaalit"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "jalossanne"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "ja sauvanne"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "kädessänne"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "ja te syötte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sen",
+      "marks": "sen — kiireesti syötävän"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "kiireesti"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se ⟨on⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    }
+  ],
+  "timestamp": "2026-09-06T21:33:02.140762624Z",
+  "model": "glm-5.3"
+}

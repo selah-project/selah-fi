@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 21:5",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja pappi vastasi ⟨את⟩ Davidia ja sanoi: ”Arkileipää ei ole minun käteni alla, vaan pyhää leipää on — jos nuoret miehet ovat varjelleet itsensä naisista.”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Ja vastasi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pappi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidia"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidia"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    },
+    {
+      "surface": "חל",
+      "gloss": "arki-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "käteni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vaan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhää"
+    },
+    {
+      "surface": "יש",
+      "gloss": "on"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "ovat varjelleet"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "nuoret miehet"
+    },
+    {
+      "surface": "אך",
+      "gloss": "—"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "naisista"
+    }
+  ],
+  "timestamp": "2026-09-06T23:15:49.433329136Z",
+  "model": "glm-5.3"
+}

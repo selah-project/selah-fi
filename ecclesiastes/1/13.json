@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 1:13",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja minä annoin ⟨את⟩ sydämeni etsiä ja tutkia viisaudessa kaiken, mikä on tehty taivaan alla — se ⟨on⟩ paha vaiva, jonka Elohim on antanut ihmisten lapsille vaivata heitä sillä.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Ja minä annoin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sydämeni"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sydämeni"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "etsiä"
+    },
+    {
+      "surface": "ולתור",
+      "gloss": "ja tutkia"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "viisaudessa"
+    },
+    {
+      "surface": "על",
+      "gloss": "koskien"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mikä"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "on tehty"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alla"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "vaiva"
+    },
+    {
+      "surface": "רע",
+      "gloss": "paha"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "antoi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "lapsille"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihmisten"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "vaivata"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sillä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:06:06.151178299Z",
+  "model": "glm-5.3"
+}

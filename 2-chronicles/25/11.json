@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 25:11",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja Amatsjahu vahvistui ja johti ⟨את⟩ kansaansa ja meni Suolalaaksoon ja löi ⟨את⟩ Seirin poikia, kymmenen tuhatta.",
+  "tokens": [
+    {
+      "surface": "ואמציהו",
+      "gloss": "Ja Amatsjahu"
+    },
+    {
+      "surface": "התחזק",
+      "gloss": "vahvistui"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "ja johti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansaansa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kansaansa"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ja meni"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "laaksoon"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Suola-"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ja löi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seirin poikia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikia"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seirin"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "kymmenen"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tuhatta"
+    }
+  ],
+  "timestamp": "2026-09-07T05:48:41.023555662Z",
+  "model": "glm-5.3"
+}

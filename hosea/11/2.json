@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 11:2",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "He kutsuivat heitä, niin he kulivat heidän edestään; baaleille he teurasuhrasivat ja patsaille he suitsuttivat.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "kutsuivat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heitä"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "kulivat"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "heidän edestään"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "baaleille"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "teurasuhrasivat"
+    },
+    {
+      "surface": "ולפסלים",
+      "gloss": "ja patsaille"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "suitsuttivat"
+    }
+  ],
+  "timestamp": "2026-09-07T01:23:33.416878111Z",
+  "model": "glm-5.3"
+}

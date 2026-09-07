@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Ja hän kokosi ⟨את⟩ heidät vartiointiin kolmeksi päiväksi.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "kokosi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ heidät"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vartiointiin"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "vartioon"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kolmeksi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päiväksi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:25:00.784214155Z",
+  "model": "glm-5.3"
+}

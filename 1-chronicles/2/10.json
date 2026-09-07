@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Ram siitti ⟨את⟩ Aminadavin, ja Aminadav siitti ⟨את⟩ Nahshonin, Yehudan poikien päällikön.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "Ja Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadavin"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadavin"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "ja Aminadav"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahshonin"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nahshonin"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "päällikön"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikien"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudan"
+    }
+  ],
+  "timestamp": "2026-09-07T05:11:03.657366891Z",
+  "model": "glm-5.3"
+}

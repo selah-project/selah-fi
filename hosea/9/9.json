@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 9:9",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Syvästi he turmelivat itsensä, kuin Giv'ahin (Gibea) päivinä; hän muistaa heidän pahat tekonsa, hän käy heidän syntiensä kimppuun.",
+  "tokens": [
+    {
+      "surface": "העמיקו",
+      "gloss": "Syvästi"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "turmelivat"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "kuin päivinä"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Giv'ahin"
+    },
+    {
+      "surface": "יזכור",
+      "gloss": "hän muistaa"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "heidän pahat tekonsa"
+    },
+    {
+      "surface": "יפקוד",
+      "gloss": "hän käy kimppuun"
+    },
+    {
+      "surface": "חטאותם",
+      "gloss": "heidän syntiensä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:22:52.438917982Z",
+  "model": "glm-5.3"
+}

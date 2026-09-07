@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 20:21",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja Edom kieltäytyi antamasta ⟨את⟩ Israelin kulkea rajoittensa läpi, ja Israel kääntyi pois hänen luotaan.",
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "Ja kieltäytyi"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "antamasta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kulkea"
+    },
+    {
+      "surface": "בגבלו",
+      "gloss": "rajoittensa läpi"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ja kääntyi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "pois hänen luotaan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:13:40.547874814Z",
+  "model": "glm-5.3"
+}

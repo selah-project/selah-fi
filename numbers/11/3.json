@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja hän kutsui sen paikan nimen Tavera, koska Jahven tuli oli palanut heidän keskellään.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ja hän kutsui"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimen"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "sen paikan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sen"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "Tavera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "oli palanut"
+    },
+    {
+      "surface": "בם",
+      "gloss": "heidän keskellään"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-06T22:07:44.793872822Z",
+  "model": "glm-5.3"
+}

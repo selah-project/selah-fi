@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 26:15",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Katso alas pyhästä asuinsijastasi, taivaasta, ja siunaa ⟨את⟩ kansaasi, ⟨את⟩ Israelia, ja ⟨את⟩ maan, jonka sinä meille annoit, niin kuin vannoit isillemme: maan, joka vuotaa maitoa ja hunajaa.",
+  "tokens": [
+    {
+      "surface": "השקיפה",
+      "gloss": "Katso alas"
+    },
+    {
+      "surface": "ממעון",
+      "gloss": "asuinsijastasi"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "pyhästä"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-sta"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaasta"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "ja siunaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansaasi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kansaasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "maan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "maan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "sinä annoit"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meille"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "vannoit"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "isillemme"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "joka vuotaa"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "maitoa"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ja hunajaa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:35:09.655442868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 78,
+  "translation": "Ja heidän sydämensä ei ⟨ollut⟩ vakaa hänen kanssaan, eivätkä he pysyneet uskollisina hänen Beritissään (liitossaan).",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "Ja heidän sydämensä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "vakaa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hänen kanssaan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "pysyneet uskollisina"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "hänen Beritissään (liitossaan)"
+    }
+  ],
+  "timestamp": "2026-09-07T02:25:58.301447661Z",
+  "model": "glm-5.3"
+}

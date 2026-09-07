@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 19:9",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja saan heidät syömään ⟨את⟩ poikiensa lihan ja ⟨את⟩ tyttäriensä lihan, ja kukin syö lähimmäisensä lihan piirityksessä ja ahdistuksessa, jolla heidän vihollisensa ja nefeshiansa etsijät heitä ahdistavat.",
+  "tokens": [
+    {
+      "surface": "והאכלתים",
+      "gloss": "ja saan heidät syömään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poikiensa lihan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "lihan"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "poikiensa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "tyttäriensä lihan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "lihan"
+    },
+    {
+      "surface": "בנתיהם",
+      "gloss": "tyttäriensä"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ja kukin"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "lihan"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "lähimmäisensä"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "syö"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "piirityksessä"
+    },
+    {
+      "surface": "ובמצוק",
+      "gloss": "ja ahdistuksessa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jolla"
+    },
+    {
+      "surface": "יציקו",
+      "gloss": "ahdistavat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heitä"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "heidän vihollisensa"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "ja etsijät"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "heidx nefeshiansä",
+      "marks": "nefeshiansa etsijät"
+    }
+  ],
+  "timestamp": "2026-09-07T00:32:18.374622519Z",
+  "model": "glm-5.3"
+}

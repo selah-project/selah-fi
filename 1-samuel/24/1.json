@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja David nousi sieltä ja asettui asumaan Ein Gedin (En-Gedi) linnoituksiin.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ja nousi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "משם",
+      "gloss": "sieltä"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja asettui asumaan"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "linnoituksiin"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ein"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:15:24.283857994Z",
+  "model": "glm-5.3"
+}

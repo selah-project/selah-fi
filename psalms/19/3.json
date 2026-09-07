@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Päivä päivälle vuotaa esiin puhetta, ja yö yölle ilmoittaa tiedon.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Päivä"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "päivälle"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "vuotaa esiin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "puhetta"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ja yö"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "yölle"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "ilmoittaa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tiedon"
+    }
+  ],
+  "timestamp": "2026-09-07T01:59:10.832745135Z",
+  "model": "glm-5.3"
+}

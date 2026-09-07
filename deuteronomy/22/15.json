@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "niin tytön isä ja hänen äitinsä ottavat ja tuovat ⟨את⟩ tytön neitsyyden todisteet kaupungin vanhimmille portille.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ja ottavat"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "isä"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "tytön"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ja hänen äitinsä"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "ja tuovat esiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tytön neitsyyden todisteet"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "neitsyyden todisteet"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "tytön"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vanhimmille"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "portille"
+    }
+  ],
+  "timestamp": "2026-09-06T22:34:45.975515220Z",
+  "model": "glm-5.3"
+}

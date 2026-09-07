@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Jahve köyhdyttää ja rikkaaksi tekee; hän alentaa, myös korottaa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "köyhdyttää"
+    },
+    {
+      "surface": "ומעשיר",
+      "gloss": "ja rikkaaksi tekee"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "alentaa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "myös"
+    },
+    {
+      "surface": "מרומם",
+      "gloss": "korottaa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:03:56.397406090Z",
+  "model": "glm-5.3"
+}

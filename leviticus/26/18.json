@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 26:18",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja jos vielä näiden ⟨kään⟩ ette kuuntele minua, niin minä lisään teitä kurittamaan ⟨את⟩ seitsemänkertaisesti rikostenne päälle.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ja jos"
+    },
+    {
+      "surface": "עד",
+      "gloss": "vielä"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "näiden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ette"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "kuuntele"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minua"
+    },
+    {
+      "surface": "ויספתי",
+      "gloss": "niin minä lisään"
+    },
+    {
+      "surface": "ליסרה",
+      "gloss": "kurittamaan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "teitä"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seitsemänkertaisesti"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "rikostenne"
+    }
+  ],
+  "timestamp": "2026-09-06T22:00:56.131061987Z",
+  "model": "glm-5.3"
+}

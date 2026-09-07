@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 17:9",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Nouse, mene Tsarefatiin (Sarepta), joka kuuluu Tsidoniin (Sidon), ja asu siellä. Katso, minä olen käskenyt siellä leskenaisen elättää sinua.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Nouse"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mene"
+    },
+    {
+      "surface": "צרפתה",
+      "gloss": "Tsarefatiin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "לצידון",
+      "gloss": "kuuluu Tsidoniin"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "ja asu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "minä olen käskenyt"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "naisen"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "leski-"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "elättää sinua"
+    }
+  ],
+  "timestamp": "2026-09-06T23:41:54.774938490Z",
+  "model": "glm-5.3"
+}

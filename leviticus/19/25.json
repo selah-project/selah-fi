@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja viidentenä vuotena te saatte syödä ⟨את⟩ sen hedelmän, lisätäksenne teille sen sadon; minä olen Jahve, teiden Elohiminne.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "Ja vuotena"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "viidentenä"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "te saatte syödä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen hedelmän"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "sen hedelmän"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "lisätäksenne"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "sen sadon"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminne"
+    }
+  ],
+  "timestamp": "2026-09-06T21:56:44.899515442Z",
+  "model": "glm-5.3"
+}

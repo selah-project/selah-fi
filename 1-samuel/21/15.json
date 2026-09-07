@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 21:15",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja Akish sanoi palvelijoilleen: ”Katso, te näette, että mies ⟨on⟩ hullu — miksi te tuotte ⟨את⟩ hänet minun luokseni?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "palvelijoilleen"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "te näette"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "משתגע",
+      "gloss": "hullu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miksi"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "te tuotte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hänet"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minun luokseni"
+    }
+  ],
+  "timestamp": "2026-09-06T23:14:21.238602471Z",
+  "model": "glm-5.3"
+}

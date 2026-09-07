@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Mitsrajimille (Egyptille) annoimme käden, Ashshurille (Assyrialle), tullaksemme kylläisiksi leivästä.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimille"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "annoimme"
+    },
+    {
+      "surface": "יד",
+      "gloss": "käden"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshurille"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "tullaksemme kylläisiksi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leivästä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:04:55.537046123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Talven tähden laiska ei kynnä; sadonkorjuussa hän anelee — eikä mitään.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "talven tähden"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "laiska"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "kynnä"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "anelee"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "sadonkorjuussa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä mitään"
+    }
+  ],
+  "timestamp": "2026-09-07T03:13:15.040798219Z",
+  "model": "glm-5.3"
+}

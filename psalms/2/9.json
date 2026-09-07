@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 2:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Rikko heidät rautasauvalla, kuin saviastian muovaajan sinä pirstot heidät.",
+  "tokens": [
+    {
+      "surface": "תרעם",
+      "gloss": "rikko heidät"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "sauvalla"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "rauta-"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "kuin astian"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "muovaajan"
+    },
+    {
+      "surface": "תנפצם",
+      "gloss": "pirstot heidät"
+    }
+  ],
+  "timestamp": "2026-09-07T01:50:59.279149998Z",
+  "model": "glm-5.3"
+}

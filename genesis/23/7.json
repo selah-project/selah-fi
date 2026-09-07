@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja nousi Avraham ja kumartui maan kansalle, Khetin pojille.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Ja nousi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ja kumartui"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kansalle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pojille"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Khetin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:13:22.479290604Z",
+  "model": "glm-5.3"
+}

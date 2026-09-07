@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 4:6",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "jotta tämä ⟨olisi⟩ merkkinä keskuudessanne, kun teidän poikanne huomenna kysyvät sanoen: ”Mitkä nämä kivet ovat teille?”",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "jotta"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨olisi⟩"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "אות",
+      "gloss": "merkkinä"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "keskuudessanne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ישאלון",
+      "gloss": "kysyvät"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "teidän poikanne"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "huomenna"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mitkä"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kivet"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    }
+  ],
+  "timestamp": "2026-09-06T22:40:19.926302645Z",
+  "model": "glm-5.3"
+}

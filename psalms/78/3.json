@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 78,
+  "translation": "jotka me olemme kuulleet ja tulleet tuntemaan, ja meidän isämme kertoivat meille.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "olemme kuulleet"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "ja tulleet tuntemaan ne"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "ja meidän isämme"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "kertoivat"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meille"
+    }
+  ],
+  "timestamp": "2026-09-07T04:34:01.026742892Z",
+  "model": "glm-5.3"
+}

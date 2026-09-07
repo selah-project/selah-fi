@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 6:15",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja hän rakensi ⟨את⟩ talon seinät sisäpuolelta setrin laudoilla, talon lattiasta lakeparrujen seiniin saakka; hän verhoosi sisäpuolen puulla ja verhoi ⟨את⟩ talon lattian sypressin laudoilla.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ja hän rakensi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "talon seinät"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "seinät"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "מביתה",
+      "gloss": "sisäpuolelta"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "laudoilla"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "setrin"
+    },
+    {
+      "surface": "מקרקע",
+      "gloss": "lattiasta"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saakka"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "seinät"
+    },
+    {
+      "surface": "הספן",
+      "gloss": "lakeparrujen"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "hän verhoosi"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "puulla"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "sisäpuolelta"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ja verhoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "talon lattian"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "lattian"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "laudoilla"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "sypressin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:35:07.880967026Z",
+  "model": "glm-5.3"
+}

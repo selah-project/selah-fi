@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 81,
+  "translation": "Ahdistuksessa sinä huusit, ja minä pelastin sinut; ukkosen kätkössä minä vastasin sinua; Merivan (Meriban?) vesillä sinua minä koetin. Sela.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "Ahdistuksessa"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "sinä huusit"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "ja minä pelastin sinut"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "minä vastasin sinua"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "kätkössä"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "ukkosen"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "minä koetin sinua"
+    },
+    {
+      "surface": "על",
+      "gloss": "äärellä"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vesillä"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Merivan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-07T02:26:27.683337588Z",
+  "model": "glm-5.3"
+}

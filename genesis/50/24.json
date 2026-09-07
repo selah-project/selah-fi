@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 50:24",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 50,
+  "translation": "Ja Josef sanoi veljilleen: Minä kuolen, ja Elohim aivan varmasti pitää ⟨את⟩ teistä huolta ja nostaa ⟨את⟩ teidät ylös tästä maasta siihen maahan, jonka hän vannoi Avrahamille (Aabraham), Jitshakille (Iisak) ja Ja'akoville (Jaakob).",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja Josef sanoi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "veljilleen"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Minä"
+    },
+    {
+      "surface": "מת",
+      "gloss": "kuolen"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "ja Elohim"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "aivan varmasti"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "pitää huolta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teistä",
+      "marks": "teistä (objektipronomini)"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "ja nostaa ylös"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tästä"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "אל",
+      "gloss": "siihen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "hän vannoi"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahamille"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Jitshakille"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "ja Ja'akoville"
+    }
+  ],
+  "timestamp": "2026-09-06T21:28:08.221643466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 29:1",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja tämä on se asia, jonka sinä teet heille pyhittääksesi heidät ⟨את⟩, niin että he minulle kohenin virassa toimivat: ota yksi härkä, karjan vasikka, ja kaksi oinasta, virheettömät.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Ja tämä"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sinä teet"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "pyhittääksesi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ heidät",
+      "marks": "heidät"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kohenin virassa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ota"
+    },
+    {
+      "surface": "פר",
+      "gloss": "härkä"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "vasikka"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "karjan"
+    },
+    {
+      "surface": "ואילם",
+      "gloss": "ja kaksi oinasta"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "virheettömät"
+    }
+  ],
+  "timestamp": "2026-09-06T21:42:01.956690472Z",
+  "model": "glm-5.3"
+}

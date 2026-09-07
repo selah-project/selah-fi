@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 23:15",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "sillä Jahve, Elohimisi, vaeltaa leirisi keskellä pelastaakseen sinut ja antaakseen vihollisesi sinun eteesi; ja leirisi ⟨olko⟩ pyhä, eikä hän näkisi sinussa häpeällistä asiaa, niin ettei hän kääntyisi sinusta pois.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimisi"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "vaeltaa"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "keskellä"
+    },
+    {
+      "surface": "מחנך",
+      "gloss": "leirisi"
+    },
+    {
+      "surface": "להצילך",
+      "gloss": "pelastaakseen sinut"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "ja antaakseen"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "vihollisesi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sinun eteesi"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ja olkoon"
+    },
+    {
+      "surface": "מחניך",
+      "gloss": "leirisi"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "pyhä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "näkö"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinussa"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "häpeällistä"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asiaa"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ja kääntyisi"
+    },
+    {
+      "surface": "מאחריך",
+      "gloss": "sinusta pois"
+    }
+  ],
+  "timestamp": "2026-09-06T22:34:01.801079792Z",
+  "model": "glm-5.3"
+}

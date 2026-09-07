@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja sinä asetat ne ⟨את⟩ kahtena rivinä, kuusi rivissä, puhtaalle pöydälle Jahven eteen.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ja sinä asetat"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "kahtena rivinä (kakut)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "rivinä"
+    },
+    {
+      "surface": "שש",
+      "gloss": "kuusi"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "rivissä"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "pöydälle"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "puhtaan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-06T21:58:59.809849968Z",
+  "model": "glm-5.3"
+}

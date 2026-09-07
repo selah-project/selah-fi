@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 20:16",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja Yonatan teki liiton Davidin (Daavidin) suvun kanssa, ja Jahve vaatii sen Davidin vihollisten kädestä.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "ja teki liiton"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suvun"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "ובקש",
+      "gloss": "ja vaatii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kädestä"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "vihollisten"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:14:02.646468069Z",
+  "model": "glm-5.3"
+}

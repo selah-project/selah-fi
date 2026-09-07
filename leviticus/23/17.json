@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 23:17",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Asumuksistanne tuokaa leipää heilutusuhriksi: kaksi ⟨leipää⟩, kaksi esronia juomajauhoa — happamina ne paistettakoon — ensihedelminä Jahvelle.",
+  "tokens": [
+    {
+      "surface": "ממושבתיכם",
+      "gloss": "asumuksistanne"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "tuokaa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "heilutusuhriksi"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "esronia"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "juomajauhoa"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "olkoot"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "happamina"
+    },
+    {
+      "surface": "תאפינה",
+      "gloss": "paistettakoon"
+    },
+    {
+      "surface": "בכורים",
+      "gloss": "ensihedelminä"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    }
+  ],
+  "timestamp": "2026-09-06T21:59:16.214606639Z",
+  "model": "glm-5.3"
+}

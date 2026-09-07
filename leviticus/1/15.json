@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja kohen tuokoon sen alttarin luo ja niskauttakoon ⟨את⟩ sen pään ja suitsuttakoon alttarille, ja sen veri valutettakoon alttarin seinää pitkin.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "Ja tuokoon sen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "ja niskauttakoon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen pään"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "sen pään"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "ja suitsuttakoon"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "alttarille"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "ja valutettakoon"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sen veri"
+    },
+    {
+      "surface": "על",
+      "gloss": "pitkin"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "seinää"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:47:36.539781554Z",
+  "model": "glm-5.3"
+}

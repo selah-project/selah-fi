@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 12:9",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja hän sanoi heille: Mitä te neuvotte, ⟨että⟩ vastaamme ⟨את⟩ tälle kansalle, joka puhui minulle sanoen: Kevennä taakkaa, jonka isäsi pani meidän päällemme?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mitä"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "te"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "neuvotte"
+    },
+    {
+      "surface": "ונשיב",
+      "gloss": "⟨että⟩ vastaamme"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sanaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tälle kansalle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansalle"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tälle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "puhui"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "Kevennä"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-sta"
+    },
+    {
+      "surface": "העל",
+      "gloss": "taakkaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "pani"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "isäsi"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "meidän päällemme"
+    }
+  ],
+  "timestamp": "2026-09-07T04:24:42.336784286Z",
+  "model": "glm-5.3"
+}

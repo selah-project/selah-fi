@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 38,
+  "translation": "Paras, Kush ja Fut ⟨את⟩ ⟨אתם⟩ heidän kanssansa, kaikki heistä kilvellä ja kypärällä.",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "Paras"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "ja Fut"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "marks": "heidän kanssansa"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "kaikki heistä"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "kilpi"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "ja kypärä"
+    }
+  ],
+  "timestamp": "2026-09-07T07:21:08.705520387Z",
+  "model": "glm-5.3"
+}

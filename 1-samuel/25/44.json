@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 25:44",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja Shaul (Saul) oli antanut ⟨את⟩ Mikalin, tyttärensä, Davidin vaimon, Paltille, Laishin (Lais) pojalle, joka oli Gallimista.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "Ja Shaul (Saul)"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "oli antanut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikalin"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikalin"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "tyttärensä"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vaimon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "לפלטי",
+      "gloss": "Paltille"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojalle"
+    },
+    {
+      "surface": "ליש",
+      "gloss": "Laishin (Lais)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "מגלים",
+      "gloss": "Gallimista"
+    }
+  ],
+  "timestamp": "2026-09-06T23:16:17.933720658Z",
+  "model": "glm-5.3"
+}

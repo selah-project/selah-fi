@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 18:2",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja Israelin lapsista jäi jäljelle niitä, jotka eivät olleet jakaneet ⟨את⟩ perintöään, seitsemän heimoa.",
+  "tokens": [
+    {
+      "surface": "ויותרו",
+      "gloss": "ja jäi jäljelle"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "lapsista"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "olleet jakaneet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perintöään"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "perintöään"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "seitsemän"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "heimoa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:47:02.967804024Z",
+  "model": "glm-5.3"
+}

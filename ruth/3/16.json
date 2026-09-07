@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja hän tuli anoppinsa luo, ja tämä sanoi: Kuka sinä ⟨olet⟩, tyttäreni? Ja hän kertoi hänelle ⟨את⟩ kaiken, mitä mies oli tehnyt hänelle.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "ja hän tuli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "anoppinsa"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "tyttäreni"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "ja hän kertoi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "oli tehnyt"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mies"
+    }
+  ],
+  "timestamp": "2026-09-07T03:58:34.887468049Z",
+  "model": "glm-5.3"
+}

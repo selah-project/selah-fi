@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Poikani, älä kulje heidän tiellään ⟨את⟩; pidätä jalkasi heidän polultansa.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Poikani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "kulje"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "heidän tiellään"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "heidän (kanssa)"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "pidätä"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "jalkasi"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "heidän polultansa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:57:35.351868940Z",
+  "model": "glm-5.3"
+}

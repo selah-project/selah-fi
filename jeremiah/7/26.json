@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 7:26",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Eivätkä he kuulleet minua eivätkä kallistaneet ⟨את⟩ korvaansa, vaan paaduttivat ⟨את⟩ niskansa, tekivät pahaa enemmän kuin isänsä.",
+  "tokens": [
+    {
+      "surface": "ולוא",
+      "gloss": "Eivätkä"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "he kuulleet"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minua"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "kallistaneet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korvaansa"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "korvaansa"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "vaan paaduttivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niskansa"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "niskansa"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "tekivät pahaa"
+    },
+    {
+      "surface": "מאבותם",
+      "gloss": "enemmän kuin isänsä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:27:28.532517861Z",
+  "model": "glm-5.3"
+}

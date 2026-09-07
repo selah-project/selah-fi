@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Älä häpäise ⟨את⟩ tytärtäsi saattaaksesi häntä haureuteen, ettei maa ryhdy haureuteen ja ettei maa täyty iljetystä.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "hämäise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tytärtäsi"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "tytärtäsi"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "saattaaksesi häntä haureuteen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ettei"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "ryhdy haureuteen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "täyty"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "iljetystä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:56:40.172192528Z",
+  "model": "glm-5.3"
+}

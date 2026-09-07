@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Lohduttakaa, lohduttakaa kansaani, sanoo teidän Elohiminne.",
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "gloss": "Lohduttakaa"
+    },
+    {
+      "surface": "נחמו",
+      "gloss": "lohduttakaa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kansaani"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "teidän Elohiminne"
+    }
+  ],
+  "timestamp": "2026-09-07T00:15:09.742931403Z",
+  "model": "glm-5.3"
+}

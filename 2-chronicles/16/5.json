@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 16:5",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja tapahtui, kun Baasha kuuli sen, hän lakkasi rakentamasta ⟨את⟩ Raman, ja hän lopetti ⟨את⟩ työnsä.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "kun kuuli"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "hän lakkasi"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "rakentamasta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raman"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Raman"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "ja hän lopetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "työnsä"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "työnsä"
+    }
+  ],
+  "timestamp": "2026-09-07T05:40:53.290499668Z",
+  "model": "glm-5.3"
+}

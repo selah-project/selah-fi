@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ahimaats Naftalissa; myös hän otti ⟨את⟩ Basematin, Shelomon tyttären, vaimokseen.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Ahimaats"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "Naftalissa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "otti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Basematin"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Basematin"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tytär"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomon"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "vaimokseen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:33:01.202585420Z",
+  "model": "glm-5.3"
+}

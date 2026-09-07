@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja hän sanoi: Kutsu hänet. Ja hän kutsui hänet, ja hän seisoi ovella.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Kutsu"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hänet"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "Ja hän kutsui"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hänet"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ja hän seisoi"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "ovella"
+    }
+  ],
+  "timestamp": "2026-09-06T23:48:42.898213855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 22:2",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja hän sanoi: Jahve ⟨on⟩ kallioni ja linnani ja pelastajani minulle.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "kallioni"
+    },
+    {
+      "surface": "ומצדתי",
+      "gloss": "ja linnani"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "ja pelastajani"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    }
+  ],
+  "timestamp": "2026-09-06T23:29:50.701582566Z",
+  "model": "glm-5.3"
+}

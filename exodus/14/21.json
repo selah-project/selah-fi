@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 14:21",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja Moshe ojensi ⟨את⟩ kätensä meren ylle, ja Jahve ajoi ⟨את⟩ meren takaisin voimakkaalla itätuulella koko yön ja teki ⟨את⟩ merestä kuivan maan, ja vedet halkesivat.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "ojensi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kätensä"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kätensä"
+    },
+    {
+      "surface": "על",
+      "gloss": "yllä"
+    },
+    {
+      "surface": "הים",
+      "gloss": "meren"
+    },
+    {
+      "surface": "ויולך",
+      "gloss": "ja ajoi takaisin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meren"
+    },
+    {
+      "surface": "הים",
+      "gloss": "meren"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "tuulella"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "itä-"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "voimakkaalla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "yön"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ja teki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "merestä"
+    },
+    {
+      "surface": "הים",
+      "gloss": "merestä"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "kuivaksi maaksi"
+    },
+    {
+      "surface": "ויבקעו",
+      "gloss": "ja halkesivat"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vedet"
+    }
+  ],
+  "timestamp": "2026-09-06T21:33:10.414809487Z",
+  "model": "glm-5.3"
+}

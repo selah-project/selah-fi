@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja David (Daavid) lepäsi isiensä kanssa, ja hänet haudattiin Davidin kaupunkiin.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Ja lepäsi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "isiensä"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ja haudattiin"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kaupungissa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:32:39.451622628Z",
+  "model": "glm-5.3"
+}

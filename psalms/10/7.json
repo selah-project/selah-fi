@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Kirousta hänen suunsa on täynnä, ja petosta ja vilppiä; kielen alla on vaivaa ja vääryyttä.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "kirousta"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "hänen suunsa"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "on täynnä"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "ja petosta"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "ja vilppiä"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alla"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "kielen"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "vaivaa"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "ja vääryyttä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:56:19.883247802Z",
+  "model": "glm-5.3"
+}

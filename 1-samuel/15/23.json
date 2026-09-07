@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 15:23",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Sillä kapina on kuin ennustamisen synti, ja itsepintaisuus kuin pahuus ja terafim (jumalankuvat). Koska sinä hylkäsit ⟨את⟩ Jahven sanan, on hänkin hylännyt sinut sinua olemasta kuningas.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "synti"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "ennustamisen"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "kapina"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "ja pahuus"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "ja terafim (jumalankuvat)"
+    },
+    {
+      "surface": "הפצר",
+      "gloss": "itsepintaisuus"
+    },
+    {
+      "surface": "יען",
+      "gloss": "Koska"
+    },
+    {
+      "surface": "מאסת",
+      "gloss": "sinä hylkäsit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven sanan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "וימאסך",
+      "gloss": "on hänkin hylännyt sinut"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "sinua olemasta kuningas"
+    }
+  ],
+  "timestamp": "2026-09-06T23:10:03.260026829Z",
+  "model": "glm-5.3"
+}

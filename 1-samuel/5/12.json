@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 5:12",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja miehet, jotka eivät kuolleet, lyötiin paiseilla, ja kaupungin huuto nousi taivaaseen.",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "Ja miehet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "kuolleet"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "lyötiin"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "paiseilla"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "ja nousi"
+    },
+    {
+      "surface": "שועת",
+      "gloss": "huuto"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaaseen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:06:36.621166095Z",
+  "model": "glm-5.3"
+}

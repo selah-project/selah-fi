@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 48:10",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 48,
+  "translation": "Ja Israelin silmät olivat painuneet vanhuudesta, niin ettei hän voinut nähdä. Ja hän toi ⟨את⟩ heidät luokseen, ja hän suuteli heitä ja halasi heitä.",
+  "tokens": [
+    {
+      "surface": "ועיני",
+      "gloss": "Ja silmät"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "olivat painuneet"
+    },
+    {
+      "surface": "מזקן",
+      "gloss": "vanhuudesta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "hän voinut"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "nähdä"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "Ja hän toi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "heidät"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "luokseen"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "ja hän suuteli"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heitä"
+    },
+    {
+      "surface": "ויחבק",
+      "gloss": "ja hän halasi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heitä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:26:37.641358063Z",
+  "model": "glm-5.3"
+}

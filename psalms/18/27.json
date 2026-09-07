@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Puhtaan kanssa ⟨toimit⟩ puhtaasti, ja kieron kanssa ⟨toimit⟩ kiertävästi.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "puhdas"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "toimit puhtaasti"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ja ... kanssa"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "kiero"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "toimit kiertävästi"
+    }
+  ],
+  "timestamp": "2026-09-07T01:57:55.220658668Z",
+  "model": "glm-5.3"
+}

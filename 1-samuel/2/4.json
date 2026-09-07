@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Sankarien jouset ovat murtuneet, ja kompastujat ovat vyöttäytyneet voimaan.",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "jouset"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "sankarien"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "ovat murtuneet"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "ja kompastujat"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "ovat vyöttäytyneet"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "voimaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:04:02.223004786Z",
+  "model": "glm-5.3"
+}

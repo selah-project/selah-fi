@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 1:30",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja kaikille maan eläimille ja kaikille taivaan linnuille ja kaikille maan päällä liikkuville, joissa on elävä nefesh: ⟨את⟩ kaiken vihreän kasvin ruuaksi. Ja tapahtui niin.",
+  "tokens": [
+    {
+      "surface": "ולכל",
+      "gloss": "Ja kaikille"
+    },
+    {
+      "surface": "חית",
+      "gloss": "eläimille"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ja kaikille"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "linnuille"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ja kaikille"
+    },
+    {
+      "surface": "רומש",
+      "gloss": "liikkuville"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joissa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "niissä"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "elävä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken (vihreän kasvin)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "vihreän"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "kasvin"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "ruuaksi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:05:00.535557554Z",
+  "model": "glm-5.3"
+}

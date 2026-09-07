@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 6:12",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Tämä talo, jota sinä rakennat: jos käyt minun säädöissäni ja toimit ⟨את⟩ minun oikeuteni ja pidät ⟨את⟩ kaikki minun käskyni vaeltaaksesi niissä, niin minä pystytän ⟨את⟩ sanani ⟨את⟩ kanssasi — sen, jonka minä puhuin Davidille (Daavid), sinun isällesi.",
+  "tokens": [
+    {
+      "surface": "הבית",
+      "gloss": "talo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jota"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "rakennat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "käyt"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "minun säädöissäni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "minun oikeuteni"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "minun oikeuteni"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "toimit"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ja pidät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "minun käskyni"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "vaeltaaksesi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "niissä"
+    },
+    {
+      "surface": "והקמתי",
+      "gloss": "niin minä pystytän"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanani"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanani"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kanssasi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sen, jonka"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "minä puhuin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Davidille"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "(Daavid)"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "sinun isällesi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:34:36.055267831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja Ja'akov suuteli Rahelia, ja hän kohotti ⟨את⟩ äänensä ja itki.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "ja suuteli"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akov"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rahelia"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ja kohotti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "äänensä"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "äänensä"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "ja itki"
+    }
+  ],
+  "timestamp": "2026-09-06T21:16:19.383641888Z",
+  "model": "glm-5.3"
+}

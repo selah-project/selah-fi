@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 25:14",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Jahven salaisuus on niillä, jotka häntä pelkäävät, ja Beritinsä (liitto) ⟨on⟩ heidän tunnettavakseen.",
+  "tokens": [
+    {
+      "surface": "סוד",
+      "gloss": "salaisuus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "niillä, jotka häntä pelkäävät"
+    },
+    {
+      "surface": "ובריתו",
+      "gloss": "ja Beritinsä"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "heidän tunnettavakseen"
+    }
+  ],
+  "timestamp": "2026-09-07T04:29:29.329637227Z",
+  "model": "glm-5.3"
+}

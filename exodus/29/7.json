@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja ota ⟨את⟩ voidelun öljyn ja kaada hänen päänsä päälle, ja voida ⟨את⟩ hänet.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Ja ota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "voidelun öljyn"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "öljyn"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "voidelun"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "ja kaada"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hänen päänsä"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ja voida"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet",
+      "marks": "Aharon"
+    }
+  ],
+  "timestamp": "2026-09-06T21:40:57.819799548Z",
+  "model": "glm-5.3"
+}

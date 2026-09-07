@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja Toi (Tou), Hamatin kuningas, kuuli, että David oli lyönyt ⟨את⟩ koko Hadadezerin sotajoukon.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Ja kuuli"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "Toi (Tou)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamatin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "oli lyönyt"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko Hadadezerin sotajoukon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sotajoukon"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezerin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:21:13.193692171Z",
+  "model": "glm-5.3"
+}

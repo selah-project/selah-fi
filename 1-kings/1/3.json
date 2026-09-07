@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 1:3",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja he etsivät kaunista nuorta neitoa koko Israelin alueelta, ja he löysivät ⟨את⟩ Avishagin (Abisag), shunamilaisen, ja toivat ⟨את⟩ hänet kuninkaalle.",
+  "tokens": [
+    {
+      "surface": "ויבקשו",
+      "gloss": "Ja he etsivät"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "nuorta neitoa"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "kaunista"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "alueelta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "ja he löysivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avishagin"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Avishagin (Abisag)"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "shunamilaisen"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ja toivat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ hänet"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuninkaalle"
+    }
+  ],
+  "timestamp": "2026-09-06T23:32:12.271026366Z",
+  "model": "glm-5.3"
+}

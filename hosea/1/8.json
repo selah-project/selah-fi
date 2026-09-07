@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja hän vieroitti ⟨את⟩ Lo-Ruhamahin, ja hän tuli raskaaksi ja synnytti pojan.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "Ja hän vieroitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Ruhamahin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhamahin"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ja hän tuli raskaaksi"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ja synnytti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:21:17.178445961Z",
+  "model": "glm-5.3"
+}

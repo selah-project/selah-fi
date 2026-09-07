@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 8:7",
+  "book": "zechariah",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Näin sanoo Jahve Sebaot: Katso, minä pelastan ⟨את⟩ kansani idän maasta ja auringon laskun maasta.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Näin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaot"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Katso, minä"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "pelastan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansani"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kansani"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "idän"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "ja maasta"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "laskun"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "auringon"
+    }
+  ],
+  "timestamp": "2026-09-07T01:46:19.419414709Z",
+  "model": "glm-5.3"
+}

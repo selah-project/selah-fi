@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 23:15",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja laskekaa itsellenne sapatin jälkeisestä aamusta, siitä päivästä, jona toitte ⟨את⟩ heilutusomerin, seitsemän sapattia; ne olkoot täydelliset.",
+  "tokens": [
+    {
+      "surface": "וספרתם",
+      "gloss": "ja laskekaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "itsellenne"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "jälkeisestä aamusta"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "sapatin"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "siitä päivästä"
+    },
+    {
+      "surface": "הביאכם",
+      "gloss": "toitte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omerin"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "omerin"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "heilutus-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seitsemän"
+    },
+    {
+      "surface": "שבתות",
+      "gloss": "sapattia"
+    },
+    {
+      "surface": "תמימת",
+      "gloss": "täydelliset"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "olkoot"
+    }
+  ],
+  "timestamp": "2026-09-06T21:59:03.490194634Z",
+  "model": "glm-5.3"
+}

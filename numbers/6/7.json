@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 6:7",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Isänsä ja äitinsä, veljensä ja sisarensa puolesta hän ei saastu heille heidän kuollessaan, sillä hänen Elohimiinsa erottautuminen on hänen päänsä päällä.",
+  "tokens": [
+    {
+      "surface": "לאביו",
+      "gloss": "Isänsä"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "ja äitinsä"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "veljensä"
+    },
+    {
+      "surface": "ולאחתו",
+      "gloss": "ja sisarensa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "hän saastu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "במתם",
+      "gloss": "heidän kuollessaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "erottautuminen"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "hänen Elohimiinsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hänen päänsä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:04:37.947493771Z",
+  "model": "glm-5.3"
+}

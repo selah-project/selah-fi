@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 24:8",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja toin ⟨את⟩ teidät emorilaisten maahan, joka asui Yardenin (Jordan) toisella puolella, ja he sotivat ⟨את⟩ teitä vastaan, ja annoin heidät teidän käsiinne, ja te otitte ⟨את⟩ heidän maansa omaksenne, ja hävitin heidät teidän silmistänne.",
+  "tokens": [
+    {
+      "surface": "ואבאה",
+      "gloss": "Ja toin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emorilaisten"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "joka asui"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "toisella puolella"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardenin"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ja he sotivat"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teitä vastaan"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "ja annoin"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "he myös ⟨את⟩: heidät",
+      "marks": "heidät"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "teidän käsiinne"
+    },
+    {
+      "surface": "ותירשו",
+      "gloss": "ja te otitte omaksenne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän maansa"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "heidän maansa"
+    },
+    {
+      "surface": "ואשמידם",
+      "gloss": "ja hävitin heidät"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "teidän silmistänne"
+    }
+  ],
+  "timestamp": "2026-09-07T04:17:36.112580651Z",
+  "model": "glm-5.3"
+}

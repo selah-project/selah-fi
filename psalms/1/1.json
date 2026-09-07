@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Autuas ⟨on⟩ se mies, joka ei kulkenut jumalattomien neuvossa, ei seissyt syntisten tiellä eikä istunut pilkkaajien istuimessa.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Autuas"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "se mies"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "kulkenut"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "neuvossa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jumalattomien"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "ei tiellä"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "syntisten"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "seissyt"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "eikä istuimessa"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "pilkkaajien"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "istunut"
+    }
+  ],
+  "timestamp": "2026-09-07T01:53:15.662809181Z",
+  "model": "glm-5.3"
+}

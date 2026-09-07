@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 20:16",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja he lähtivät ulos keskipäivällä; mutta Ben-Hadad (Benhadad) juoi juopuneena suojuksissa, hän ja kuninkaat, kolmekymmentäkaksi kuningasta, jotka auttoivat ⟨את⟩ häntä.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Ja he lähtivät ulos"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "keskipäivällä"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ja Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "juoi"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "juopuneena"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "suojuksissa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "ja kuninkaat"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "kolmekymmentä"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ja kaksi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningasta"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "auttoivat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ häntä",
+      "marks": "hän (Ben-Hadad)"
+    }
+  ],
+  "timestamp": "2026-09-06T23:44:44.941810816Z",
+  "model": "glm-5.3"
+}

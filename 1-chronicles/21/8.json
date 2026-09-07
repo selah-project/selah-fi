@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 21:8",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja David sanoi Elohimille: ”Suuresti olen syntiä tehnyt, koska tein ⟨את⟩ tämän asian; ja nyt, siirrä pois, pyydän, ⟨את⟩ palvelaisesi vääryyden, sillä olen menetellyt hyvin tyhmästi.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-lle"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "olen syntiä tehnyt"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "suuresti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koska"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "tein"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän asian"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asian"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ja nyt"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "siirrä pois"
+    },
+    {
+      "surface": "נא",
+      "gloss": "pyydän"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palvelaisesi vääryyden"
+    },
+    {
+      "surface": "עוון",
+      "gloss": "vääryyden"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "palvelaisesi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "נסכלתי",
+      "gloss": "olen menetellyt tyhmästi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hyvin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:23:48.791006171Z",
+  "model": "glm-5.3"
+}

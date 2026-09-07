@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 4:7",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja Shelomolla (Salomo) ⟨oli⟩ kaksitoista virkamiestä koko Israelin yllä, ja he elättivät ⟨את⟩ kuningasta ja ⟨את⟩ hänen talouttaan; kuukausi vuodessa tuli kunkin osalle elättämään.",
+  "tokens": [
+    {
+      "surface": "ולשלמה",
+      "gloss": "ja Shelomolla"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "toista"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "virkamiestä"
+    },
+    {
+      "surface": "על",
+      "gloss": "yllä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "וכלכלו",
+      "gloss": "ja he elättivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuningasta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningasta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen talouttaan"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hänen talouttaan"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "kuukausi"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "vuodessa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "על",
+      "gloss": "osalle"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "kunkin"
+    },
+    {
+      "surface": "לכלכל",
+      "gloss": "elättämään"
+    }
+  ],
+  "timestamp": "2026-09-06T23:33:18.782094837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 12:8",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "vuoristossa ja alangolla ja Arabassa ja rinteillä ja erämaassa ja etelässä: heettiläinen, amorilainen ja kanaanilainen, perissiläinen, hivviläinen ja jebusilainen —",
+  "tokens": [
+    {
+      "surface": "בהר",
+      "gloss": "vuoristossa"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "ja alangolla"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "ja Arabassa"
+    },
+    {
+      "surface": "ובאשדות",
+      "gloss": "ja rinteillä"
+    },
+    {
+      "surface": "ובמדבר",
+      "gloss": "ja erämaassa"
+    },
+    {
+      "surface": "ובנגב",
+      "gloss": "ja etelässä"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "heettiläinen"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "amorilainen"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "ja kanaanilainen"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "perissiläinen"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "hivviläinen"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ja jebusilainen"
+    }
+  ],
+  "timestamp": "2026-09-07T04:18:19.709463666Z",
+  "model": "glm-5.3"
+}

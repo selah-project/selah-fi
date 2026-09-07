@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 8:3",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Mutta hänen poikansa eivät vaeltaneet hänen teissään, vaan kääntyivät väärän voiton perään ja ottivat lahjuksia ja vääristivät oikeutta.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Mutta eivät"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "vaeltaneet"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "בדרכו",
+      "gloss": "hänen teissään"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "vaan kääntyivät"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "perään"
+    },
+    {
+      "surface": "הבצע",
+      "gloss": "väärän voiton"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ja ottivat"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "lahjuksia"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "ja vääristivät"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "oikeutta"
+    }
+  ],
+  "timestamp": "2026-09-06T23:06:23.977545877Z",
+  "model": "glm-5.3"
+}

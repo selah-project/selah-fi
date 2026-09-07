@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 24:5",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja maa ⟨on⟩ saastunut asujiensa alla, sillä he ylittivät Torat (Toora), muuttivat säädöksen ja purkivat iankaikkisen Beritin (liiton).",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Ja maa"
+    },
+    {
+      "surface": "חנפה",
+      "gloss": "⟨on⟩ saastunut"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "asujiensa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ylittivät"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torat"
+    },
+    {
+      "surface": "חלפו",
+      "gloss": "muuttivat"
+    },
+    {
+      "surface": "חק",
+      "gloss": "säädöksen"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "purkivat"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Beritin"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iankaikkisen"
+    }
+  ],
+  "timestamp": "2026-09-07T00:07:48.390723496Z",
+  "model": "glm-5.3"
+}

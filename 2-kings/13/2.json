@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 13:2",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja hän teki pahaa Jahven silmissä ja seurasi Yarav'amin, Nevatin pojan, syntejä, joka saattoi ⟨את⟩ Israelin syntiin; hän ei poikennut siitä.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ja hän teki"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "pahaa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "silmissä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ja seurasi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": ""
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "syntejä"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarav'amin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevatin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "saattoi syntiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "סר",
+      "gloss": "poikennut"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "siitä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:54:13.764364064Z",
+  "model": "glm-5.3"
+}

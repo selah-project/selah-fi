@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 14:19",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja hän siunasi hänet ja sanoi: Siunattu ⟨ole⟩ Avram (Abram) El Eljonin ⟨suostumuksesta⟩, taivaan ja maan omistajan.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "Ja hän siunasi hänet"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Siunattu"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "⟨ole⟩ Avram"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "El"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eljonin"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "omistajan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ja maan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:09:12.511156592Z",
+  "model": "glm-5.3"
+}

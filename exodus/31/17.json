@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 31:17",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "minun ja Israelin lasten välillä ⟨on⟩ merkki iankaikkisesti, sillä kuutena päivänä Jahve teki ⟨את⟩ taivaan ja ⟨את⟩ maan, ja seitsemäntenä päivänä hän lepäsi ja virkistyi.",
+  "tokens": [
+    {
+      "surface": "ביני",
+      "gloss": "minun ja"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "välillä"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "אות",
+      "gloss": "merkki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "kuutena"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taivaan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "maan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ja seitsemäntenä päivänä"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": ""
+    },
+    {
+      "surface": "שבת",
+      "gloss": "lepäsi"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "ja virkistyi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:42:37.881335535Z",
+  "model": "glm-5.3"
+}

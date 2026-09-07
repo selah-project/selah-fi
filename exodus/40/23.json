@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 40:23",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ja hän asetteli sen päälle leivän rivin Jahven eteen — niin kuin Jahve oli käskenyt ⟨את⟩ Moshea.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "asetteli"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sen päälle"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "rivin"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leivän"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oli käskenyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshea"
+    }
+  ],
+  "timestamp": "2026-09-06T21:46:42.234995973Z",
+  "model": "glm-5.3"
+}

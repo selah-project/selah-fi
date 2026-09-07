@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 8:11",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "eivätkä papit voineet seistä palvelemaan pilven tähden, sillä Jahven kunnia oli täyttänyt ⟨את⟩ Jahven huoneen.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "voineet"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "papit"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "seistä"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "palvelemaan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "pilven"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "oli täyttänyt"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kunnia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven huoneen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-06T23:37:20.741661716Z",
+  "model": "glm-5.3"
+}

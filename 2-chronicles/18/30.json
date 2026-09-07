@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 18:30",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja Aramin (Syyrian) kuningas oli käskenyt ⟨את⟩ vaunuilyöriensä, jotka olivat hänen luonaan, sanoen: Älkää taistelko ⟨את⟩ pienen eikä ⟨את⟩ suuren kanssa, vaan ainoastaan ⟨את⟩ Israelin kuningasta, häntä yksin.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "Ja kuningas"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramin"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oli käskenyt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaunuilyöriensä"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "päälliköiden"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "vaunujoukon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Älkää"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "taistelko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pienen"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "pienen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suuren"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "suuren"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vaan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ainoastaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin kuningasta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningasta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "häntä yksin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:39:26.359270875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 6:3",
+  "book": "amos",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "jotka työntävät pahan päivän kauas ja tuovat lähelle väkivallan istuimen",
+  "tokens": [
+    {
+      "surface": "המנדים",
+      "gloss": "jotka työntävät kauas"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "päivän"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pahan"
+    },
+    {
+      "surface": "ותגישון",
+      "gloss": "ja tuovat lähelle"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "istuimen"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "väkivallan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:30:08.431718457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja tapahtui, kun Shemuël (Samuel) oli tullut vanhaksi, että hän asetti poikansa ⟨את⟩ tuomareiksi Israelille.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kun"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "oli tullut vanhaksi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "että hän asetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poikansa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "poikansa"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "tuomareiksi"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israelille"
+    }
+  ],
+  "timestamp": "2026-09-06T23:06:23.974233661Z",
+  "model": "glm-5.3"
+}

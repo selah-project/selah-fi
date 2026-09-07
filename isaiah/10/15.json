@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 10:15",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Kerskuuko kirves häntä vastaan, joka sillä hakkaa? Vai saha suurennatteleeko sitä vastaan, joka sitä heiluttaa? Kuin sauva heiluttaisi ⟨את⟩ häntä, joka sen nostaa, tai kuin sauva nostaisi ⟨sen⟩, joka ei ole puu!",
+  "tokens": [
+    {
+      "surface": "היתפאר",
+      "gloss": "kerskuuko"
+    },
+    {
+      "surface": "הגרזן",
+      "gloss": "kirves"
+    },
+    {
+      "surface": "על",
+      "gloss": "vastaan"
+    },
+    {
+      "surface": "החצב",
+      "gloss": "hakkaajaa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sitä"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vai"
+    },
+    {
+      "surface": "יתגדל",
+      "gloss": "suurennatteleeko"
+    },
+    {
+      "surface": "המשור",
+      "gloss": "saha"
+    },
+    {
+      "surface": "על",
+      "gloss": "vastaan"
+    },
+    {
+      "surface": "מניפו",
+      "gloss": "sitä heiluttaa"
+    },
+    {
+      "surface": "כהניף",
+      "gloss": "kuin heiluttaisi"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "sauva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "häntä, joka sen nostaa"
+    },
+    {
+      "surface": "מרימיו",
+      "gloss": "häntä, joka sen nostaa"
+    },
+    {
+      "surface": "כהרים",
+      "gloss": "kuin nostaisi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "sauva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "puu"
+    }
+  ],
+  "timestamp": "2026-09-07T00:04:53.106680464Z",
+  "model": "glm-5.3"
+}

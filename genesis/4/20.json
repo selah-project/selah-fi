@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja Adah synnytti ⟨את⟩ Yavalin; hän oli teltassa asuvien ja karjaa paimentavien isä.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yavalin"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Yavalin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "isä"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "asuvien"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltassa"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "ja karjaa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:10:55.350386714Z",
+  "model": "glm-5.3"
+}

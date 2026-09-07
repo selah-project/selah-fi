@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 41:28",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 41,
+  "translation": "Se ⟨on⟩ sana, jonka olen puhunut Parolle: minkä Elohim tekee, hän on näyttänyt ⟨את⟩ Parolle.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Se ⟨on⟩"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "olen puhunut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "←"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parolle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minkä"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tekee"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "on näyttänyt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Parolle"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parolle"
+    }
+  ],
+  "timestamp": "2026-09-06T21:22:35.202170168Z",
+  "model": "glm-5.3"
+}

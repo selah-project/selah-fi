@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 7:9",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja Ephraimin pää ⟨on⟩ Shomeron, ja Shomeronin pää ⟨on⟩ Remaljanin poika. Jos ette usko, sillä ette te pysy lujina.",
+  "tokens": [
+    {
+      "surface": "וראש",
+      "gloss": "ja pää"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ephraimin"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "ja pää"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeronin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remaljanin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "ette usko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ette"
+    },
+    {
+      "surface": "תאמנו",
+      "gloss": "pysy lujina"
+    }
+  ],
+  "timestamp": "2026-09-07T00:01:48.147793278Z",
+  "model": "glm-5.3"
+}

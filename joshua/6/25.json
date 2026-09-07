@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 6:25",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja ⟨את⟩ Rahabin (Raahab) porton ja ⟨את⟩ hänen isänsä talon ja ⟨את⟩ kaiken, mitä hänellä oli, antoi Jehoshua (Joosua) elää; ja hän asui Israelin keskellä tähän päivään asti, koska hän kätki ⟨את⟩ lähettiläät, jotka Jehoshua oli lähettänyt vakoilemaan ⟨את⟩ Jerikhoa (Jeriko).",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Rahabin"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rahabin (Raahab)"
+    },
+    {
+      "surface": "הזונה",
+      "gloss": "porton"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "isänsä talon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "isänsä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaiken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hänellä"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "antoi elää"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshua (Joosua)"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "ja hän asui"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "keskellä"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päivään"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tähän"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "החביאה",
+      "gloss": "hän kätki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lähetilit"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "lähettiläät"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "lähetti"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshua"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "vakoilemaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerikkoa"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jerikhoa (Jeriko)"
+    }
+  ],
+  "timestamp": "2026-09-06T22:41:53.513050578Z",
+  "model": "glm-5.3"
+}

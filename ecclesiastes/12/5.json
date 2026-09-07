@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 12:5",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Myös korkeudesta pelätään, ja pelot ⟨on⟩ tiellä, ja mantelipuu kukoistaa, ja heinäsirkka painuu painoksi, ja kääriäinen raukeaa; sillä ihminen käy iän-ikuisen taloonsa, ja torilla kiertävät itkijät.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Myös"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "korkeudesta"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "pelätään"
+    },
+    {
+      "surface": "וחתחתים",
+      "gloss": "ja pelot"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tiellä"
+    },
+    {
+      "surface": "וינאץ",
+      "gloss": "ja kukoistaa"
+    },
+    {
+      "surface": "השקד",
+      "gloss": "mantelipuu"
+    },
+    {
+      "surface": "ויסתבל",
+      "gloss": "ja painuu painoksi"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "heinäsirkka"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "ja raukeaa"
+    },
+    {
+      "surface": "האביונה",
+      "gloss": "kääriäinen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "käy"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihminen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "taloon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iän-ikuisen taloonsa"
+    },
+    {
+      "surface": "עולמו",
+      "gloss": "iän-ikuisen"
+    },
+    {
+      "surface": "וסבבו",
+      "gloss": "ja kiertävät"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "torilla"
+    },
+    {
+      "surface": "הספדים",
+      "gloss": "itkijät"
+    }
+  ],
+  "timestamp": "2026-09-07T04:38:41.954521487Z",
+  "model": "glm-5.3"
+}

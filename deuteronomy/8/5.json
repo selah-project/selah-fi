@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja sinä tiedät sydämessäsi, että niin kuin mies kurittaa ⟨את⟩ poikansa, niin Jahve, Elohimisi, sinua kurittaa.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "ja sinä tiedät"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sydämessäsi"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "sydämessäsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "kurittaa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poikansa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "poikansa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimisi"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "sinua kurittaa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:26:47.241842079Z",
+  "model": "glm-5.3"
+}

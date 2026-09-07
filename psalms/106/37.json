@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 106,
+  "translation": "Ja he uhrasivat ⟨את⟩ poikansa ja ⟨את⟩ tyttärensä shedeille ⟨(paholaisille)⟩.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "Ja he uhrasivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poikansa"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "poikansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "tyttärensä"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "tyttärensä"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "shedeille"
+    }
+  ],
+  "timestamp": "2026-09-07T02:38:22.809508383Z",
+  "model": "glm-5.3"
+}

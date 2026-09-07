@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "⟨את⟩ karitsan, yhden, sinä teet aamulla, ja ⟨את⟩ karitsan, toisen, sinä teet iltahämärissä.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karitsan, yhden"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "karitsan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yhden"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sinä teet"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamulla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "karitsan, toisen"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "karitsan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "toisen"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sinä teet"
+    },
+    {
+      "surface": "בין",
+      "gloss": "välillä"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "iltahämärissä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:41:41.115070296Z",
+  "model": "glm-5.3"
+}

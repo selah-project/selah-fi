@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 9:28",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "ettei maa, josta meidät toit, sanoisi: Jahvelta puuttui voima tuoda heitä maahan, josta hän puhui heille, ja koska hän vihasi heitä, hän toi ⟨את⟩ heidät ulos tappaakseen heidät erämaassa.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "ettei"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "sanoisi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "josta"
+    },
+    {
+      "surface": "הוצאתנו",
+      "gloss": "meidät toit"
+    },
+    {
+      "surface": "משם",
+      "gloss": "sieltä"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "koska ei"
+    },
+    {
+      "surface": "יכלת",
+      "gloss": "kykenevä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להביאם",
+      "gloss": "tuomaan heitä"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "puhui"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "ומשנאתו",
+      "gloss": "ja vihatessaan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "heidät"
+    },
+    {
+      "surface": "הוציאם",
+      "gloss": "toi heidät ulos"
+    },
+    {
+      "surface": "להמתם",
+      "gloss": "tappaakseen heidät"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "erämaassa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:27:53.782150325Z",
+  "model": "glm-5.3"
+}

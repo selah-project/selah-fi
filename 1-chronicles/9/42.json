@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 9:42",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja Ahas synnytti ⟨את⟩ Jaran, ja Jara synnytti ⟨את⟩ Alemetin ja ⟨את⟩ Azmavetin ja ⟨את⟩ Zimrin, ja Zimri synnytti ⟨את⟩ Motzan.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "Ja Ahas"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaran"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "Jaran"
+    },
+    {
+      "surface": "ויערה",
+      "gloss": "ja Jara"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Alemetin"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Alemetin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Azmavetin"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Azmavetin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Zimrin"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimrin"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "ja Zimri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Motzan"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motzan"
+    }
+  ],
+  "timestamp": "2026-09-07T05:17:43.428151771Z",
+  "model": "glm-5.3"
+}

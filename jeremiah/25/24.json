@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 25:24",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "ja ⟨את⟩ kaikki Arabian kuninkaat ja ⟨את⟩ kaikki sekakansan kuninkaat, jotka asuvat erämaassa",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki Arabian kuninkaat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kuninkaat"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Arabian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki sekakansan kuninkaat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kuninkaat"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "sekakansan"
+    },
+    {
+      "surface": "השכנים",
+      "gloss": "jotka asuvat"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "erämaassa"
+    }
+  ],
+  "timestamp": "2026-09-07T00:34:25.126317335Z",
+  "model": "glm-5.3"
+}

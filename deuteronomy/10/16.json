@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja ympärilkää ⟨את⟩ sydämenne esinahan, älkää enää paaduttako niskaanne.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "Ja ympärilkää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sydämenne esinahan"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "esinahan"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "sydämenne"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "niskaanne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "paaduttako"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enää"
+    }
+  ],
+  "timestamp": "2026-09-06T22:26:23.309902713Z",
+  "model": "glm-5.3"
+}

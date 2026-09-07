@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Tekeekö ihminen itselleen jumalia, eivätkä ne ole jumalia?",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "Tekeekö"
+    },
+    {
+      "surface": "לו",
+      "gloss": "itselleen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihminen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jumalia"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "eivätkä ne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jumalia"
+    }
+  ],
+  "timestamp": "2026-09-07T00:30:25.209366022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 69,
+  "translation": "Älkööt minun tähteni hävetkö sinuun luottavasi, Adonai Jahve Sebaot; älkööt minun tähteni häpeäkö sinua etsiväsi, Israelin Elohim.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "älkööt"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "hävetkö"
+    },
+    {
+      "surface": "בי",
+      "gloss": "minun tähteni"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "sinuun luottavasi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älkööt"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "häpeäkö"
+    },
+    {
+      "surface": "בי",
+      "gloss": "minun tähteni"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "sinua etsiväsi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-07T02:18:18.280354834Z",
+  "model": "glm-5.3"
+}

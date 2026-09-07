@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 18:3",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja David löi ⟨את⟩ Hadadezerin, Zovan kuninkaan, Hamatiin asti, tämän mennessä vakiinnuttamaan kätensa Eufrat-virralle.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Ja löi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezerin"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezerin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Zovan"
+    },
+    {
+      "surface": "חמתה",
+      "gloss": "Hamatiin asti"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "hänen mennessään"
+    },
+    {
+      "surface": "להציב",
+      "gloss": "vakiinnuttamaan"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kätensa"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "virralle"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Eufrat-"
+    }
+  ],
+  "timestamp": "2026-09-07T05:22:39.701729262Z",
+  "model": "glm-5.3"
+}

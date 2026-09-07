@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja David ja hänen miehensä tulivat kaupunkiin, ja katso, se oli palanut tuleen, ja heidän vaimonsa ja heidän poikansa ja heidän tyttärensä oli viety vangiksi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ja tulivat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ja hänen miehensä"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupunkiin"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "palanut"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tuleen"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "ja heidän vaimonsa"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "ja heidän poikansa"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "ja heidän tyttärensä"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "viety vangiksi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:17:40.552401889Z",
+  "model": "glm-5.3"
+}

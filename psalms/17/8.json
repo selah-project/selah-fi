@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Varjele minua niin kuin silmänsisästä, silmän tytärtä; varjoon siipiesi alle sinä kätket minut.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "varjele minua"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "niin kuin silmänsisästä"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tytärtä"
+    },
+    {
+      "surface": "עין",
+      "gloss": "silmän"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "varjoon"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "siipiesi"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "sinä kätket minut"
+    }
+  ],
+  "timestamp": "2026-09-07T01:55:24.575192666Z",
+  "model": "glm-5.3"
+}

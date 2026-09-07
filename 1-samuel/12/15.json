@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Mutta jos ette kuuntele Jahven ääntä, vaan kapinoitte ⟨את⟩ Jahven suuta vastaan, niin Jahven käsi ⟨on⟩ teitä vastaan ja teidän isiänne vastaan.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mutta jos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ette"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "kuuntele"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ääntä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "vaan kapinoitte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven suuta"
+    },
+    {
+      "surface": "פי",
+      "gloss": "suuta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "יד",
+      "gloss": "käsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "teitä vastaan"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "ja teidän isiänne vastaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:09:04.158175920Z",
+  "model": "glm-5.3"
+}

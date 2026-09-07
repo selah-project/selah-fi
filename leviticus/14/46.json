@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja joka menee taloon kaikkina päivinä, joina se on suljettu, tulee saastaiseksi iltaan asti.",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "ja joka menee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sisään"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkina"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päivinä"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "sen sulkemisen aikana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sitä"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "tulee saastaiseksi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "iltaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:53:52.691744251Z",
+  "model": "glm-5.3"
+}

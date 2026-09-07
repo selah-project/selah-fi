@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 71,
+  "translation": "Elohimini, vapahda minut pahan kädestä, väärintekijän ja väkivaltaisen kämmenestä.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimini"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "vapahda minut"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kädestä"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "pahan"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "kämmenestä"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "väärintekijän"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "ja väkivaltaisen"
+    }
+  ],
+  "timestamp": "2026-09-07T02:20:33.449985576Z",
+  "model": "glm-5.3"
+}

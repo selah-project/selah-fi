@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 13:8",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja Elohimin mies sanoi kuninkaalle: Jos annat minulle ⟨את⟩ puolet talostasi, en tule kanssasi, enkä syö leipää enkä juo vettä tässä paikassa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-lle"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaalle"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Jos"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "annat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "puolet talostasi"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "puolet"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "talostasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "tule"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kanssasi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "syö"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "juo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vettä"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "paikassa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tässä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:40:33.534180097Z",
+  "model": "glm-5.3"
+}

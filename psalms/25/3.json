@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Myöskin kaikki sinua odottavat eivät joudu häpeään; häpeään joutuvat petolliset, syyttä.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Myöskin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "sinua odottavat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "joudu häpeään"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "häpeään joutuvat"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "petolliset"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "syyttä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:01:12.086582799Z",
+  "model": "glm-5.3"
+}

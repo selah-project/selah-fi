@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 94,
+  "translation": "He purskahtavat esiin, he puhuvat röyhkeyttä, kaikki vääryyden tekijät kerskaavat.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "purskahtavat esiin"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "he puhuvat"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "röyhkeyttä"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "kerskaavat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "vääryyden tekijät"
+    },
+    {
+      "surface": "און",
+      "gloss": "vääryyden"
+    }
+  ],
+  "timestamp": "2026-09-07T02:33:44.733490277Z",
+  "model": "glm-5.3"
+}

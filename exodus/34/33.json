@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 34:33",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "Kun Moshe (Mooses) lopetti puhumisen ⟨את⟩ heidän kanssaan, hän pani kasvojensa päälle verhon (masveh).",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "lopetti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "puhumisen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "heidän kanssaan ⟨את⟩",
+      "marks": "heidän kanssaan"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "hän pani"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "kasvojensa"
+    },
+    {
+      "surface": "מסוה",
+      "gloss": "verhon"
+    }
+  ],
+  "timestamp": "2026-09-06T21:43:55.535131729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja Hushimista hän siitti ⟨את⟩ Avitubin ja ⟨את⟩ Elpaalin.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "ja Hushimista"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "hän siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avitubin"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "Avitubin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Elpaalin"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaalin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:14:43.067228276Z",
+  "model": "glm-5.3"
+}

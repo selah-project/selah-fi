@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja Mitsrajimin (Egypti) kuningas sanoi heille: Miksi te, Moshe ja Aharon, päästätte ⟨את⟩ kansan sen töistä? Menkää taakkojenne ääreen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Miksi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ja Aharon"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "päästätte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "sen töistä"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Menkää"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "taakkojenne ääreen"
+    }
+  ],
+  "timestamp": "2026-09-07T04:11:13.064515184Z",
+  "model": "glm-5.3"
+}

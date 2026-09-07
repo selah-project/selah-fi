@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Kunnioita ⟨את⟩ isääsi ja ⟨את⟩ äitiäsi, että päiväsi piteneisivät sillä maalla, jonka Jahve, Elohimisi, sinulle antaa.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Kunnioita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isääsi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "isääsi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "äitiäsi"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "äitiäsi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "jotta"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "piteneisivät"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "päiväsi"
+    },
+    {
+      "surface": "על",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "maalla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimisi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "antaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    }
+  ],
+  "timestamp": "2026-09-06T21:36:38.978311193Z",
+  "model": "glm-5.3"
+}

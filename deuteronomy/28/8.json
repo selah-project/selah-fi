@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 28:8",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Käskee Jahve ⟨את⟩ kanssasi ⟨את⟩ siunauksen sinun viljavarastoissasi ja kaikessa, mihin kätesi ulottuu, ja hän siunaa sinua siinä maassa, jonka Jahve, sinun Elohimisi, sinulle antaa.",
+  "tokens": [
+    {
+      "surface": "יצו",
+      "gloss": "Käskee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kanssasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siunauksen"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "siunauksen"
+    },
+    {
+      "surface": "באסמיך",
+      "gloss": "sinun viljavarastoissasi"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ja kaikessa"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "ulottuu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kätesi"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "ja hän siunaa sinua"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "siinä maassa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sinun Elohimisi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "antaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    }
+  ],
+  "timestamp": "2026-09-06T22:35:24.399392907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja hän kukisti ⟨את⟩ nämä kaupungit ja ⟨את⟩ koko tasangon ja ⟨את⟩ kaikki kaupunkien asukkaat ja maan kasvun.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "Ja hän kukisti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nämä kaupungit"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "kaupungit"
+    },
+    {
+      "surface": "האל",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "koko tasangon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "tasangon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki kaupunkien asukkaat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "asukkaat"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "kaupunkien"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "ja kasvun"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:11:14.705597917Z",
+  "model": "glm-5.3"
+}

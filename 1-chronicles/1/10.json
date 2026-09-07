@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja Kush synnytti ⟨את⟩ Nimrodin; hän alkoi olla väkevä maan päällä.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Ja Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrodin"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrodin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "החל",
+      "gloss": "alkoi"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "olla"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "väkevä"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maan päällä"
+    }
+  ],
+  "timestamp": "2026-09-07T05:10:58.947761575Z",
+  "model": "glm-5.3"
+}

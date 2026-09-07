@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 26:12",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja David otti ⟨את⟩ keihään ja ⟨את⟩ vesikannun Shaulin pään vierestä, ja he lähtivät pois; eikä ollut näkevää eikä tietävää eikä heräävää, sillä kaikki nukkuivat, sillä Jahven syvä uni oli laskeutunut heidän päälleen.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ja otti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keihään"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "keihään"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "vesikannun"
+    },
+    {
+      "surface": "צפחת",
+      "gloss": "vesikannun"
+    },
+    {
+      "surface": "המים",
+      "gloss": ""
+    },
+    {
+      "surface": "מראשתי",
+      "gloss": "pään vierestä"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulin"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ja he lähtivät"
+    },
+    {
+      "surface": "להם",
+      "gloss": "pois"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä ollut"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "näkevää"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "tietävää"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "מקיץ",
+      "gloss": "heräävää"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "ישנים",
+      "gloss": "nukkuivat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "תרדמת",
+      "gloss": "syvä uni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "oli laskeutunut"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "heidän päälleen"
+    }
+  ],
+  "timestamp": "2026-09-07T04:20:20.575255113Z",
+  "model": "glm-5.3"
+}

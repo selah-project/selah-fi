@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 19:7",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Katso, minä huudan väkivaltaa, mutta en minä saa vastausta; minä huudan apua, mutta oikeutta ei ole.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "אצעק",
+      "gloss": "minä huudan"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "väkivaltaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mutta en"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "minä saa vastausta"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "minä huudan apua"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mutta ei ole"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "oikeutta"
+    }
+  ],
+  "timestamp": "2026-09-07T03:35:10.167523712Z",
+  "model": "glm-5.3"
+}

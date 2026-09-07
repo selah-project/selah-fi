@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Jos myös kaksi makaavat yhdessä, ⟨on⟩ heille lämpöä; mutta yhdelle — miten hän lämpenee?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "makaavat"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "lämpöä"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "mutta yhdelle"
+    },
+    {
+      "surface": "איך",
+      "gloss": "miten"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "hän lämpenee"
+    }
+  ],
+  "timestamp": "2026-09-07T04:05:38.983553690Z",
+  "model": "glm-5.3"
+}

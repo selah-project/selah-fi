@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 61:2",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 61,
+  "translation": "julistamaan Jahvelle suosion vuotta ja Elohimimme koston päivää, lohduttaakseen kaikkia murheellisia",
+  "tokens": [
+    {
+      "surface": "לקרא",
+      "gloss": "julistamaan"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "suosion"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "ja päivää"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "koston"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Elohimimme"
+    },
+    {
+      "surface": "לנחם",
+      "gloss": "lohduttaakseen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkia"
+    },
+    {
+      "surface": "אבלים",
+      "gloss": "murheellisia"
+    }
+  ],
+  "timestamp": "2026-09-07T00:22:11.341302322Z",
+  "model": "glm-5.3"
+}

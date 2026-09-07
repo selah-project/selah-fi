@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ja sinä kuulet Jahven, Elohimisi, äänen ja teet ⟨את⟩ hänen käskynsä ja ⟨את⟩ hänen säädöksensä, jotka minä käsken sinulle tänä päivänä.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "Ja sinä kuulet"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "äänen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimisi"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ja teet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen käskynsä"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "hänen käskynsä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen säädöksensä"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "hänen säädöksensä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "käsken sinulle"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tänä päivänä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:33:49.222573065Z",
+  "model": "glm-5.3"
+}

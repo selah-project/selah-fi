@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja ⟨את⟩ hiilipannut ja ⟨את⟩ suihkukulhot, jotka olivat kultaa, kultaa, ja jotka olivat hopeaa, hopeaa, otti teurastajien päämies.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hiilipannut"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "hiilipannut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "suihkukulhot"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "suihkukulhot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kultaa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kultaa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ja jotka"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "hopeaa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "hopeaa"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "otti"
+    },
+    {
+      "surface": "רב",
+      "gloss": "päämies"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "teurastajien"
+    }
+  ],
+  "timestamp": "2026-09-06T23:59:53.165628201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 19:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja hän ⟨on⟩ kuin sulhanen, joka lähtee häämajastaan; hän riemuitsee kuin voimamies juostakseen ratansa.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "ja hän"
+    },
+    {
+      "surface": "כחתן",
+      "gloss": "kuin sulhanen"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lähtee"
+    },
+    {
+      "surface": "מחפתו",
+      "gloss": "häämajastaan"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "riemuitsee"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "kuin voimamies"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "juostakseen"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ratansa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:59:23.937968375Z",
+  "model": "glm-5.3"
+}

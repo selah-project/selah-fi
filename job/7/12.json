@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Olenko minä meri, vai merihirvi, että sinä panet minun päälleni vartion?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "meri"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vai"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "merihirvi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "sinä panet"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "minun päälleni"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "vartion"
+    }
+  ],
+  "timestamp": "2026-09-07T03:25:23.043192448Z",
+  "model": "glm-5.3"
+}

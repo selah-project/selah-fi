@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 30:10",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Näin sanoi Adonai Jahve: ja minä lakkautan ⟨את⟩ Mitsrajimin paljouden Nevukhadretstsarin (Nebukadnessar), Bavelin (Babylon) kuninkaan, käden kautta.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Näin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "ja minä lakkautan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paljouden"
+    },
+    {
+      "surface": "המון",
+      "gloss": "paljouden"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käden"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nevukhadretstsarin (Nebukadnessar)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavelin (Babylon)"
+    }
+  ],
+  "timestamp": "2026-09-07T01:06:37.662559739Z",
+  "model": "glm-5.3"
+}

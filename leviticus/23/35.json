@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ensimmäisenä päivänä on pyhä kokous; kaikkea työtehtävää älkää tehkö.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ensimmäisenä päivänä"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ensimmäisenä"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "kokous"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkea"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "työtehtävää"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "työ-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älköön"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "tehkö"
+    }
+  ],
+  "timestamp": "2026-09-06T21:58:37.545532310Z",
+  "model": "glm-5.3"
+}

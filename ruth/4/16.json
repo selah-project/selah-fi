@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja Noomi otti ⟨את⟩ lapsen ja pani hänet syliinsä ja tuli hänelle hoitajaksi.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "Ja otti"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Noomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lapsen"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "lapsen"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "ja pani hänet"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "syliinsä"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "hoitajaksi"
+    }
+  ],
+  "timestamp": "2026-09-07T03:57:46.775630314Z",
+  "model": "glm-5.3"
+}

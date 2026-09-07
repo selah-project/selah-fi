@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja kuuli Jahve ⟨את⟩ äänen teidän sanoistenne, ja hän vihastui ja vannoi sanoen:",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Ja kuuli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "äänen"
+    },
+    {
+      "surface": "קול",
+      "gloss": "äänen"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "teidän sanoistenne"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "ja hän vihastui"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ja vannoi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    }
+  ],
+  "timestamp": "2026-09-06T22:22:45.497919110Z",
+  "model": "glm-5.3"
+}

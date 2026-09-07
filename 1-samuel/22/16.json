@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja kuningas sanoi: Kuolemalla sinä kuolet, Ahimeleh, sinä ja koko isäsi talo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kuolemalla"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "sinä kuolet"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimeleh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja koko"
+    },
+    {
+      "surface": "בית",
+      "gloss": "talo"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "isäsi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:15:04.957029013Z",
+  "model": "glm-5.3"
+}

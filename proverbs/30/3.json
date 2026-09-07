@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Enkä ole viisautta oppinut, enkä pyhien tuntemusta ⟨en⟩ tunne.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "oppinut"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "viisautta"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ja tuntemusta"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "pyhien"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "⟨en⟩ tunne"
+    }
+  ],
+  "timestamp": "2026-09-07T03:21:22.767024999Z",
+  "model": "glm-5.3"
+}

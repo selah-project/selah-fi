@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 8:25",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja hän otti ⟨את⟩ rasvan ja ⟨את⟩ rasvahännän ja ⟨את⟩ kaiken rasvan, joka on suolistoilla, ja ⟨את⟩ maksan liuskan ja ⟨את⟩ molemmat munuaiset ja ⟨את⟩ niiden rasvan ja ⟨את⟩ oikean reiden.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ja hän otti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rasvan"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "rasvan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "rasvahännän"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "rasvahännän"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaiken rasvan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "rasvan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "suolistoilla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "maksan liuskan"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "liuskan"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "maksan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "molemmat munuaiset"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "molemmat"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "munuaiset"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "niiden rasvan"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "niiden rasvan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "oikean reiden"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "reiden"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "oikean"
+    }
+  ],
+  "timestamp": "2026-09-06T21:51:53.917847714Z",
+  "model": "glm-5.3"
+}

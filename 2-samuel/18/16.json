@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 18:16",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja Yoav puhalsi shofaria, ja kansa palasi seuraamasta Israelia, sillä Yoav pidätti ⟨את⟩ kansan.",
+  "tokens": [
+    {
+      "surface": "ויתקע",
+      "gloss": "Ja puhalsi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "בשפר",
+      "gloss": "shofaria"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja palasi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "seurannasta"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "‑a"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pidätti"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:28:33.841260343Z",
+  "model": "glm-5.3"
+}

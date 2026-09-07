@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Silloin minä sanoin: Katso, minä tulen — kirjakääröön ⟨on⟩ kirjoitettu minusta.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Silloin"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "minä sanoin"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "minä tulen"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "kirjakääröön"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kirjan"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "on kirjoitettu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "minusta"
+    }
+  ],
+  "timestamp": "2026-09-07T02:08:48.212178171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 130,
+  "translation": "Adonai, kuule ääneni; olkoot korvasi tarkkaavaiset anomiseni äänelle.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "kuule"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "ääneni"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "olkoot"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "korvasi"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "tarkkaavaiset"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "äänelle"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "anomiseni"
+    }
+  ],
+  "timestamp": "2026-09-07T04:33:23.481861204Z",
+  "model": "glm-5.3"
+}

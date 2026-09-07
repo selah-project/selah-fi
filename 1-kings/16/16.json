@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 16:16",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja leiriytynyt kansa kuuli sanottavan: ”Zimri on tehnyt salaliiton ja myös löi ⟨את⟩ kuninkaan.” Silloin koko Israel teki kuninkaaksi ⟨את⟩ Omrin (Omri), Israelin sotajoukon päällikön, sinä päivänä leirissä.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ja kuuli"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "leiriytynyt"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanottavan"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "on tehnyt salaliiton"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja myös"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "löi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuninkaan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "teki kuninkaaksi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Omrin"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omrin (Omri)"
+    },
+    {
+      "surface": "שר",
+      "gloss": "päällikön"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "sotajoukon"
+    },
+    {
+      "surface": "על",
+      "gloss": "yli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sinä päivänä"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "leirissä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:42:11.618138211Z",
+  "model": "glm-5.3"
+}

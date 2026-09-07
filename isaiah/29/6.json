@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 29:6",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Jahve Sebaotin taholta sinut tarkastetaan jylinällä ja maanjäristyksellä ja suurella äänellä, pyörremyrskyllä ja myrskyllä ja kuluttavan tulen liekillä.",
+  "tokens": [
+    {
+      "surface": "מעם",
+      "gloss": "taholta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaot"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "sinut tarkastetaan"
+    },
+    {
+      "surface": "ברעם",
+      "gloss": "jylinällä"
+    },
+    {
+      "surface": "וברעש",
+      "gloss": "ja maanjäristyksellä"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ja ääni"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suurella"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "pyörremyrskyllä"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "ja myrskyllä"
+    },
+    {
+      "surface": "ולהב",
+      "gloss": "ja liekillä"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tulen"
+    },
+    {
+      "surface": "אוכלה",
+      "gloss": "kuluttavan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:09:27.246762543Z",
+  "model": "glm-5.3"
+}

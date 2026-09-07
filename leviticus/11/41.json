@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 11:41",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja kaikki maata pitkin ryömivä ryömijä ⟨on⟩ kauhistus; sitä ei saa syödä.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ja kaikki"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "ryömijä"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "pitkin ryömivä"
+    },
+    {
+      "surface": "על",
+      "gloss": "pitkin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maata"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "kauhistus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "saa syödä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:50:58.598200569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 41:8",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 41,
+  "translation": "Yksi toiseen ne liittyvät, eikä henkeä pääse niiden väliin.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "toiseen"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "ne liittyvät"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "eikä henkeä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "pääse"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "niiden väliin"
+    }
+  ],
+  "timestamp": "2026-09-07T03:51:48.685251522Z",
+  "model": "glm-5.3"
+}

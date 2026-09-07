@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 105,
+  "translation": "Kiittäkää Jahvea, huutakaa hänen nimeään, tehkää tunnetuiksi kansojen keskuudessa hänen tekonsa.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Kiittäkää"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "huutakaa"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "hänen nimeään"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "tehkää tunnetuiksi"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "kansojen keskuudessa"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "hänen tekonsa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:39:22.871037975Z",
+  "model": "glm-5.3"
+}

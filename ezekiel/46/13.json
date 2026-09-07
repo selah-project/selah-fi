@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 46:13",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 46,
+  "translation": "Ja karitsa, vuoden vanha, virheetön, sinä teet polttouhriksi päivittäin Jahvelle; aamuisin, aamuisin sinä teet ⟨את⟩ sen.",
+  "tokens": [
+    {
+      "surface": "וכבש",
+      "gloss": "Ja karitsa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "vuoden vanha"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "virheetön"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sinä teet"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "polttouhri"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "päivittäin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamuisin"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamuisin"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sinä teet"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sen",
+      "marks": "sen (objektimerkki + suffiksi 3. pers. yks.)"
+    }
+  ],
+  "timestamp": "2026-09-07T01:17:15.873143738Z",
+  "model": "glm-5.3"
+}

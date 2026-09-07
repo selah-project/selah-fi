@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 15:18",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Sinä päivänä teki Jahve ⟨את⟩ Avramin (Aabrahamin) kanssa liiton sanoen: ”Sinun siemenellesi minä olen antanut ⟨את⟩ tämän maan, Mitsrajimin (Egyptin) joesta aina siihen suureen jokeen asti, Perat-jokeen (Eufrat):",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Sinä päivänä"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tuona"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "teki (katkaisi)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avramin"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramin (Aabrahamin)"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "liiton"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "sinun siemenellesi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "minä olen antanut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän maan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "מנהר",
+      "gloss": "joesta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin (Egyptin)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "jokeen"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "suureen"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "jokeen"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perat (Eufrat)"
+    }
+  ],
+  "timestamp": "2026-09-06T21:11:11.833522226Z",
+  "model": "glm-5.3"
+}

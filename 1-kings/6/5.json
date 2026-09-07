@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 6:5",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja hän rakensi temppelin seinää vasten sivurakennuksen ympäri, ⟨את⟩ temppelin seinät ympäri, heikalia ja deviriä ⟨varten⟩; ja hän teki kylkiä ympäri.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ja hän rakensi"
+    },
+    {
+      "surface": "על",
+      "gloss": "vasten"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "seinää"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "temppelin"
+    },
+    {
+      "surface": "יצוע",
+      "gloss": "sivurakennuksen"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympäri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "temppelin seinät"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "seinät"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "temppelin"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympäri"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "heikalia"
+    },
+    {
+      "surface": "ולדביר",
+      "gloss": "ja deviriä"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ja hän teki"
+    },
+    {
+      "surface": "צלעות",
+      "gloss": "kylkiä"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympäri"
+    }
+  ],
+  "timestamp": "2026-09-06T23:35:28.639138008Z",
+  "model": "glm-5.3"
+}

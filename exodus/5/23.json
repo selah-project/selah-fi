@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 5:23",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja siitä asti kun tulin Paron luo puhumaan sinun nimessäsi, ⟨hän⟩ on pahoin kohdellut tätä kansaa — ja pelastaa: et sinä ole pelastanut ⟨את⟩ kansaasi.",
+  "tokens": [
+    {
+      "surface": "ומאז",
+      "gloss": "Ja siitä asti kun"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "tulin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "puhuakseni"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "sinun nimessäsi"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "on pahoin kohdellut"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kansaa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tätä"
+    },
+    {
+      "surface": "והצל",
+      "gloss": "ja pelastaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "sinä ole pelastanut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansaasi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kansaasi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:29:44.363449832Z",
+  "model": "glm-5.3"
+}

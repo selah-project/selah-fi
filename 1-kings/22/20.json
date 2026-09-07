@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja Jahve sanoi: Kuka houkuttelee ⟨את⟩ Ahabin, niin että hän nousee ja kaatuu Ramot-Giladissa? Ja yksi sanoi näin, ja toinen sanoi näin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kuka"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "houkuttelee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahabin"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabin"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ja nousee"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ja kaatuu"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "Ramotissa"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "näin"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ja toinen"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "näin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:46:51.109307711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja Jehoshua (Joosua) nousi varhain aamulla ja saattoi ⟨את⟩ Israelin heimojensa eteen; ja Jehudan (Juudan) heimo otettiin kiinni.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "Ja nousi varhain"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamulla"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "ja saattoi lähelle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "heimojensa eteen"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ja otettiin kiinni"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "heimo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:42:52.807607381Z",
+  "model": "glm-5.3"
+}

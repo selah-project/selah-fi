@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja Jahve korotti ⟨את⟩ Retsinin ahdistajat hänen ylleen, ja ⟨את⟩ hänen vihollisiaan hän yllytti.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "ja korotti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Retsinin ahdistajat"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ahdistajat"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsinin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hänen ylleen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen vihollisiaan"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "hänen vihollisiaan"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "yllytti"
+    }
+  ],
+  "timestamp": "2026-09-07T04:25:22.493559377Z",
+  "model": "glm-5.3"
+}

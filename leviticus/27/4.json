@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ja jos se on nainen, olkoon arviosi kolmekymmentä shekeliä.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ja jos"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "nainen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se ⟨on⟩"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "olkoon"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "arviosi"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "kolmekymmentä"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekeliä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:01:40.777583194Z",
+  "model": "glm-5.3"
+}

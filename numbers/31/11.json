@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Ja he ottivat ⟨את⟩ kaikki saaliin ja ⟨את⟩ kaikki riiston, sekä ihmisistä että eläimistä.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Ja he ottivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki saaliin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "saaliin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki riiston"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "riiston"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ihmisistä"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ja eläimistä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:19:50.638824274Z",
+  "model": "glm-5.3"
+}

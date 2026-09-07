@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "1-kings 8:66",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Kahdeksantena päivänä hän lähetti ⟨את⟩ kansan pois, ja he siunasivat ⟨את⟩ kuninkaan ja menivät maioilleen iloisina ja hyvällä sydämellä sen kaiken hyvän tähden, jonka Jahve oli tehnyt Davidille (Daavid), palvelijalleen, ja Israelille, kansalleen.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "kahdeksantena"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "hän lähetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "ja he siunasivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuninkaan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ja menivät"
+    },
+    {
+      "surface": "לאהליהם",
+      "gloss": "maioilleen"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "iloisina"
+    },
+    {
+      "surface": "וטובי",
+      "gloss": "ja hyvällä"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sydämellä"
+    },
+    {
+      "surface": "על",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "hyvän"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "oli tehnyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidille"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "palvelijalleen"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "ja Israelille"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kansalleen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:36:52.360748427Z",
+  "model": "glm-5.3"
+}

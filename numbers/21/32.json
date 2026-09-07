@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 21:32",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja Moshe (Mooses) lähetti vakoilemaan ⟨את⟩ Ja'ezerin (Jaeser), ja he valtasivat sen tyttökylät ja karkottivat ⟨את⟩ emorilaiset, jotka siellä olivat.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ja lähetti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "vakoilemaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ja'ezerin"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Ja'ezerin"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "ja he valtasivat"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "sen tyttökylät"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "ja karkottivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emorilaiset"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emorilaiset"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:14:05.571463837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja ⟨kun⟩ kokoatte ⟨את⟩ seurakunnan, te puhallatte, mutta ette hälyytä.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "ja ⟨kun⟩ kokoatte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seurakunnan"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "seurakunnan"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "te puhallatte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mutta ette"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "hälyytä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:06:55.203113956Z",
+  "model": "glm-5.3"
+}

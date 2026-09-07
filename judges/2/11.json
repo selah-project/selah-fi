@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 2:11",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Israelin lapset tekivät ⟨את⟩ pahan Jahven silmissä, ja he palvelivat ⟨את⟩ baaleja.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Ja... tekivät"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lapset"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pahan"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "pahan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "silmissä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ja he palvelivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baaleja"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "baaleja"
+    }
+  ],
+  "timestamp": "2026-09-06T22:50:16.178203796Z",
+  "model": "glm-5.3"
+}

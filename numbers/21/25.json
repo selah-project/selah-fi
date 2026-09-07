@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja Israel otti ⟨את⟩ kaikki nämä kaupungit, ja Israel asui kaikissa emorilaisten kaupungeissa, Heshbonissa (Hesbon) ja kaikissa sen tyttärissä.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ja otti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki nämä kaupungit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "kaupungit"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja asui"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaikissa"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kaupungeissa"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emorilaisten"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "Heshbonissa"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ja kaikissa"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "sen tyttärissä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:13:38.268356834Z",
+  "model": "glm-5.3"
+}

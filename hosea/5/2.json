@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 5:2",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja luopuneet ovat syventyneet teurastukseen, ja minä olen ollut kurituksena heille kaikille.",
+  "tokens": [
+    {
+      "surface": "ושחטה",
+      "gloss": "teurastukseen"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "luopuneet"
+    },
+    {
+      "surface": "העמיקו",
+      "gloss": "ovat syventyneet"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ja minä"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "kurituksena"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "heille kaikille"
+    }
+  ],
+  "timestamp": "2026-09-07T01:21:59.014718323Z",
+  "model": "glm-5.3"
+}

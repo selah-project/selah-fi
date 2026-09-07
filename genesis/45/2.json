@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 45,
+  "translation": "Ja hän antoi ⟨את⟩ äänensä kuulua itkuun; ja Mitsrajim kuuli, ja Paron talo kuuli.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ja antoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "äänensä"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "äänensä"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "itkuun"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "ja kuulivat"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ja kuuli"
+    },
+    {
+      "surface": "בית",
+      "gloss": "talo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    }
+  ],
+  "timestamp": "2026-09-06T21:26:58.882672725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja näin hän teki kaikille vaimoillensa, muukalaisille, jotka suitsuttivat uhreja ja uhrasivat jumalillensa.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "Ja näin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teki"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kaikille"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "vaimoillensa"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "muukalaisille"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "jotka suitsuttivat"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "ja uhrasivat"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "jumalillensa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:38:57.172379465Z",
+  "model": "glm-5.3"
+}

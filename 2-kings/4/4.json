@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 4:4",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja sinä tulet sisään ja suljet oven itsesi ja poikiesi taakse, ja kaadat näihin kaikkiin astioihin, ja täytä täytettävä siirrät syrjään.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "Ja sinä tulet sisään"
+    },
+    {
+      "surface": "וסגרת",
+      "gloss": "ja suljet"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "oven"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "itsesi taakse"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ja"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "poikiesi taakse"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "ja kaadat"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "כל",
+      "gloss": "näihin kaikkiin"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "astioihin"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "näihin"
+    },
+    {
+      "surface": "והמלא",
+      "gloss": "ja täytä täytettävä"
+    },
+    {
+      "surface": "תסיעי",
+      "gloss": "sirrät syrjään"
+    }
+  ],
+  "timestamp": "2026-09-06T23:48:32.410250516Z",
+  "model": "glm-5.3"
+}

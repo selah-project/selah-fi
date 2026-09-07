@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 37:23",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Ja tapahtui, kun Josef (Joosef) tuli veljiensä luo, että he riisuivat ⟨את⟩ Josefin, ⟨את⟩ hänen viittansa, ⟨את⟩ kirjavien viittaa, joka oli hänen päällään.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kun"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "veljiensä"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "että he riisuivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josefin"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen viittansa"
+    },
+    {
+      "surface": "כתנתו",
+      "gloss": "hänen viittansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kirjavien viittaa"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "viitan"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "kirjavien"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "oli hänen päällään"
+    }
+  ],
+  "timestamp": "2026-09-06T21:21:57.628052321Z",
+  "model": "glm-5.3"
+}

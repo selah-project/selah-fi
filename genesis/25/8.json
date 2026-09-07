@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 25:8",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja Avraham hiljeni ja kuoli hyvässä vanhuudessa, vanhana ja kylläisenä, ja hänet koottiin kansansa luo.",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "Ja ... hiljeni"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ja kuoli"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "hyvässä vanhuudessa"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "hyvässä"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "vanhana"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ja kylläisenä"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "ja hänet koottiin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "kansansa"
+    }
+  ],
+  "timestamp": "2026-09-07T06:35:12.206363073Z",
+  "model": "glm-5.3"
+}

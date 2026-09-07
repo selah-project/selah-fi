@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja Ja'akov (Jaakob) kohotti jalkansa ja kulki itään asuvien kansojen maahan.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ja kohotti"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akov"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "jalkansa"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ja kulki"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "… kansojen"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "itään asuvien"
+    }
+  ],
+  "timestamp": "2026-09-06T21:16:40.722734040Z",
+  "model": "glm-5.3"
+}

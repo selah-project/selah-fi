@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 38:2",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 38,
+  "translation": "Kuka on tämä, joka pimentää neuvoa sanoilla ilman tietoa?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kuka"
+    },
+    {
+      "surface": "זה",
+      "gloss": "on tämä"
+    },
+    {
+      "surface": "מחשיך",
+      "gloss": "joka pimentää"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "neuvoa"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "sanoilla"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ilman"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tietoa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:51:02.954172067Z",
+  "model": "glm-5.3"
+}

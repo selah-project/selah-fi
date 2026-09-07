@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 5:6",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja hän tuo ⟨את⟩ asham-uhrinsa Jahvelle, hänen synnistään, jossa hän on tehnyt syntiä: naaras pikkukarjasta, uuhi tai vuohinen, synninuhriksi; ja kohen (pappi) toimittaa sovituksen hänen puolestaan hänen synnistään.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "Ja hän tuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asham-uhrinsa"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "asham-uhrinsa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "על",
+      "gloss": "koskien"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "hänen syntiään"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jossa"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "hän on tehnyt syntiä"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "naaras"
+    },
+    {
+      "surface": "מן",
+      "gloss": "joukosta"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "pikkukarjasta"
+    },
+    {
+      "surface": "כשבה",
+      "gloss": "uuhi"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "שעירת",
+      "gloss": "vuohinen"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "vuohista"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "synninuhriksi"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ja hän toimittaa sovituksen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hänen puolestaan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen (pappi)"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "hänen synnistään"
+    }
+  ],
+  "timestamp": "2026-09-06T21:50:00.211134826Z",
+  "model": "glm-5.3"
+}

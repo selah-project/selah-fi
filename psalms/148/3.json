@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 148,
+  "translation": "Kiittäkää häntä, aurinko ja kuu, kiittäkää häntä, kaikki valon tähdet!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Kiittäkää häntä"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "aurinko"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "ja kuu"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "kiittäkää häntä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "tähdet"
+    },
+    {
+      "surface": "אור",
+      "gloss": "valon"
+    }
+  ],
+  "timestamp": "2026-09-07T02:57:02.739421235Z",
+  "model": "glm-5.3"
+}

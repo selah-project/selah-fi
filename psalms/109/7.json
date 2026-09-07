@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 109,
+  "translation": "Kun hänet tuomitaan, lähteköön syyllisenä, ja hänen rukouksensa olkoon synniksi.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "Kun hänet tuomitaan"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lähteköön"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "syyllisenä"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "ja hänen rukouksensa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olkoon"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "synniksi"
+    }
+  ],
+  "timestamp": "2026-09-07T04:34:13.212201088Z",
+  "model": "glm-5.3"
+}

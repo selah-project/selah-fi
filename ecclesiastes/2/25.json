@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Sillä kuka voi syödä, ja kuka voi kiirehtiä nauttimaan, muuta kuin minä?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "voi syödä"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ja kuka"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "voi kiirehtiä nauttimaan"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "muuta"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kuin minä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:05:17.388180483Z",
+  "model": "glm-5.3"
+}

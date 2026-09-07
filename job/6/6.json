@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Syödäänkö mauton ⟨ruoka⟩ ilman suolaa? Vai onko makua munanvalkuaisessa?",
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "syödäänkö"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "mauton"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "ilman"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "suolaa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vai"
+    },
+    {
+      "surface": "יש",
+      "gloss": "onko"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "makua"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "munanvalkuaisessa"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "munanvalkuaisessa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:26:15.730197578Z",
+  "model": "glm-5.3"
+}

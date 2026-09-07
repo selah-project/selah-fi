@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 19:12",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Näin minä teen tälle paikalle, sanoo Jahve, ja sen asukkaille, tehdäkseni ⟨את⟩ tämän kaupungin niin kuin Tofet.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Näin"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "minä teen"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "tälle paikalle"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tälle"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וליושביו",
+      "gloss": "ja sen asukkaille"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "ja tehdäkseni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän kaupungin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "niin kuin Tofet"
+    }
+  ],
+  "timestamp": "2026-09-07T00:32:18.377667486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 89,
+  "translation": "Ryöstävät ⟨häntä⟩ kaikki tietä kulkijat; hän on tullut häpeäksi naapureilleen.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "ryöstävät ⟨häntä⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "kulkevat"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tietä"
+    },
+    {
+      "surface": "היה",
+      "gloss": "on tullut"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "häpeäksi"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "naapureilleen"
+    }
+  ],
+  "timestamp": "2026-09-07T02:28:46.133815145Z",
+  "model": "glm-5.3"
+}

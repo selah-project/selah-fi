@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 6:25",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Älä mene kedolle äläkä tiellä kulje, sillä vihollisella ⟨on⟩ miekka, kauhu kaikkialla ympärillä.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "mene"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "kedolle"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "ja tiellä"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "kulje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "miekka"
+    },
+    {
+      "surface": "לאיב",
+      "gloss": "vihollisella"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "kauhu"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ympärillä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:25:22.899579500Z",
+  "model": "glm-5.3"
+}

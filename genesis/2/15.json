@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Jahve Elohim otti ⟨את⟩ ihmisen ja asetti hänet Edenin (Eedenin) puutarhaan sitä viljelemään ja sitä vartioimaan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ja otti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihmisen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihmisen"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "ja asetti hänet"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "puutarhaan"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edenin (Eedenin)"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "sitä viljelemään"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "ja sitä vartioimaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:04:16.268059648Z",
+  "model": "glm-5.3"
+}

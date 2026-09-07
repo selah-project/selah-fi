@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Kun Israel ⟨oli⟩ lapsi, rakastin häntä, ja Mitsrajimista (Egyptistä) kutsuin poikaani.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "נער",
+      "gloss": "lapsi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "ja rakastin häntä"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "ja Mitsrajimista"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "kutsuin"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "poikani"
+    }
+  ],
+  "timestamp": "2026-09-07T01:23:33.416079271Z",
+  "model": "glm-5.3"
+}

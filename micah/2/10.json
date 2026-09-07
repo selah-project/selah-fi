@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 2:10",
+  "book": "micah",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Nouskaa ja lähtekää, sillä tämä ei ⟨ole⟩ leposijanne; sen saastaisuuden tähden se tuhoaa ⟨teidät⟩ — ja tuho ⟨on⟩ raju.",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "Nouskaa"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ja lähtekää"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "leposija"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "saastaisuuden"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "se tuhoaa"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "ja tuho"
+    },
+    {
+      "surface": "נמרץ",
+      "gloss": "raju"
+    }
+  ],
+  "timestamp": "2026-09-07T01:34:08.308051171Z",
+  "model": "glm-5.3"
+}

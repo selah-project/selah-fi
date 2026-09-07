@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Maassasi ei ole keskenmenoa eikä lapsettomuutta; ⟨את⟩ päiviesi luvun minä täytän.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ole"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "keskenmenoa"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "eikä lapsettomuutta"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "maassasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "päiviesi luvun"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "luvun"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "päiviesi"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "minä täytän"
+    }
+  ],
+  "timestamp": "2026-09-06T21:37:51.616155828Z",
+  "model": "glm-5.3"
+}

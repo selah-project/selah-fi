@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 18:11",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Myös ⟨את⟩ ne kuningas David pyhitti Jahvelle hopean ja kullan ohella, jotka hän otti kaikilta kansoilta — Edomista ja Moabista ja Ammonin pojista ja Plishtiläisistä ja Amalekista.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Myös"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ne",
+      "marks": "ne (v. 10 astiat, objektipronomini)"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "pyhitti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ohella"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "hopean"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "ja kullan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "otti"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kaikilta"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kansoilta"
+    },
+    {
+      "surface": "מאדום",
+      "gloss": "Edomista"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "ja Moabista"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "ja pojista"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammonin"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "ja Plishtiläisistä"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "ja Amalekista"
+    }
+  ],
+  "timestamp": "2026-09-07T05:23:15.214778344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Murskaa se ⟨את⟩ paloiksi ja kaada sen päälle öljyä: mincha-uhri se ⟨on⟩.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "Murskaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "paloiksi"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "paloiksi"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "ja kaada"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sen päälle"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "öljyä"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mincha-uhri"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se ⟨on⟩"
+    }
+  ],
+  "timestamp": "2026-09-06T21:47:35.663358471Z",
+  "model": "glm-5.3"
+}

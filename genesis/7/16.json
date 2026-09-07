@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 7:16",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja ne jotka menivät sisään, koiras ja naaras kaikesta lihasta, menivät sisään, niin kuin Elohim oli käskenyt ⟨את⟩ häntä; ja Jahve sulki hänen edestään.",
+  "tokens": [
+    {
+      "surface": "והבאים",
+      "gloss": "Ja ne jotka menivät"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "koiras"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "ja naaras"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kaikesta"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "lihasta"
+    },
+    {
+      "surface": "באו",
+      "gloss": "menivät sisään"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "käskenyt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ häntä",
+      "marks": "hän (Noach)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "ja sulki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "hänen edestään"
+    }
+  ],
+  "timestamp": "2026-09-06T21:06:21.641650495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 4:30",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja pappi ottaa siltä verta sormeensa ja panna alttarin, polttouhrien alttarin, sarviin, ja ⟨את⟩ kaiken sen veren hän vuodattaa alttarin juurelle.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Ja ... ottaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pappi"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "siltä verta"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "sormeensa"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ja panna"
+    },
+    {
+      "surface": "על",
+      "gloss": "--"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "sarviin"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "polttouhrien"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaiken sen veren"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "sen veren"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "hän vuodattaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "--"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "juurelle"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:49:31.154628403Z",
+  "model": "glm-5.3"
+}

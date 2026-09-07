@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ruth 2:15",
+  "book": "ruth",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja hän nousi poimimaan, ja Boaz käski ⟨את⟩ nuoriansa sanoen: ”Myös neitoskimien keskeltä hän saakoon poimia, älkää hävetättäkö häntä.”",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "ja hän nousi"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "poimimaan"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "ja hän käski"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nuoriansa"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "nuoriansa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "בין",
+      "gloss": "keskeltä"
+    },
+    {
+      "surface": "העמרים",
+      "gloss": "neitoskimia"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "hän saakoon poimia"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "etteivät"
+    },
+    {
+      "surface": "תכלימוה",
+      "gloss": "hävetä häntä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:58:57.480994996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja minä annan tälle kansalle ⟨את⟩ suosion Mitsrajimilaisten silmissä; ja tapahtuu, kun te lähdette, ettette lähde tyhjin käsin.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Ja minä annan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suosion"
+    },
+    {
+      "surface": "חן",
+      "gloss": "suosion"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansalle"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tälle"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "silmissä"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimilaisten"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ja tapahtuu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "te lähdette"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "lähdette"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "tyhjin käsin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:29:30.803642587Z",
+  "model": "glm-5.3"
+}

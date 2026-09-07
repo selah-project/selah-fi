@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 30:3",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "niin Jahve, sinun Elohimisi, palauttaa ⟨את⟩ sinun vankeutesi ja armahtaa sinua, ja hän palaa ja kokoaa sinut kaikista kansoista, joihin Jahve, sinun Elohimisi, on sinut sinne hajoittanut.",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "niin palauttaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sinun Elohimisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinun vankeutesi"
+    },
+    {
+      "surface": "שבותך",
+      "gloss": "sinun vankeutesi"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "ja armahtaa sinua"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ja palaa"
+    },
+    {
+      "surface": "וקבצך",
+      "gloss": "ja kokoaa sinut"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kaikista"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "kansoista"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joihin"
+    },
+    {
+      "surface": "הפיצך",
+      "gloss": "on sinut hajoittanut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sinun Elohimisi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sinne"
+    }
+  ],
+  "timestamp": "2026-09-06T22:37:05.488282506Z",
+  "model": "glm-5.3"
+}

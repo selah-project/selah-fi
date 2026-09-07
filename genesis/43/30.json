@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 43:30",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 43,
+  "translation": "Ja Josef (Joosef) kiiruhti, sillä hänen sääliensä sisus paloi hänen veljeänsä kohti, ja hän haki paikkaa itkulleen; ja hän tuli kammioon ja itki siellä.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "Ja kiiruhti"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "paloi"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "hänen sääliensä sisus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hänen veljeänsä"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "ja hän haki"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "itkulle"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ja hän tuli"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "kammioon"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "ja itki"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "siellä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:24:56.779248142Z",
+  "model": "glm-5.3"
+}

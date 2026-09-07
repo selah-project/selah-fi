@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 3:25",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Sillä pelkoa minä pelkäsin, ja se tuli minun päälleni, ja minkä minä pelkäsin, se tuli minulle.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "pelkoa"
+    },
+    {
+      "surface": "פחדתי",
+      "gloss": "minä pelkäsin"
+    },
+    {
+      "surface": "ויאתיני",
+      "gloss": "ja se tuli minun päälleni"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ja minkä"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "minä pelkäsin"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "se tuli"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    }
+  ],
+  "timestamp": "2026-09-07T03:21:53.260198687Z",
+  "model": "glm-5.3"
+}

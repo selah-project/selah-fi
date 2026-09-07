@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 27:9",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ja Jotam (Jotam) lepäsi isiensä kanssa, ja he hautasivat hänet ⟨את⟩ Davidin (Daavid) kaupunkiin; ja hänen poikansa Ahaz (Ahas) tuli kuninkaaksi hänen sijaansa.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Ja lepäsi"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Jotam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "isiensä"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ja hautasivat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet",
+      "marks": "hänet"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kaupunkiin"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ja tuli kuninkaaksi"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "hänen sijaansa"
+    }
+  ],
+  "timestamp": "2026-09-07T05:44:59.351532090Z",
+  "model": "glm-5.3"
+}

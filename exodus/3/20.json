@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja minä ojennan ⟨את⟩ käteni ja lyön ⟨את⟩ Mitsrajimia (Egyptiä) kaikilla ihmeilläni, jotka teen sen keskellä; ja sen jälkeen hän lähettää ⟨את⟩ teidät pois.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Ja minä ojennan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "käteni"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "käteni"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "ja lyön"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajimia"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimia"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaikilla"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "ihmeilläni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "teen"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "sen keskellä"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ja sen jälkeen"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "hän lähettää pois"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät",
+      "marks": "teidät"
+    }
+  ],
+  "timestamp": "2026-09-06T21:31:01.392764236Z",
+  "model": "glm-5.3"
+}

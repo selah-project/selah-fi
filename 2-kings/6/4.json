@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja hän kulki ⟨את⟩ heidän kanssaan, ja he tulivat Yardenille, ja he kaatoivat puita.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ja hän kulki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "heidän kanssaan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ja he tulivat"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "Yardenille"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "ja he kaatoivat"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "puita"
+    }
+  ],
+  "timestamp": "2026-09-06T23:49:32.708487745Z",
+  "model": "glm-5.3"
+}

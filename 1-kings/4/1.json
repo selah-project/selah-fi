@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja kuningas Shelomo oli kuningas koko Israelin yllä.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "oli"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo (Salomo)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "על",
+      "gloss": "yllä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-07T04:22:33.123861870Z",
+  "model": "glm-5.3"
+}

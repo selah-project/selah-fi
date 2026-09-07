@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "kirsuja kaksisataa ja pukkia kaksikymmentä, uuhia kaksisataa ja oinaita kaksikymmentä",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "kirsuja"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "kaksisataa"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "ja pukkia"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kaksikymmentä"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "uuhia"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "kaksisataa"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "ja oinaita"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kaksikymmentä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:18:03.758423475Z",
+  "model": "glm-5.3"
+}

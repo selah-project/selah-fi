@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 13:8",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja hän odotti seitsemän päivää määrättyyn aikaan, jonka Shmuel (Samuel) oli säätänyt, mutta Shmuel ei tullut Gilgaliin, ja kansa hajaantui hänen luotaan.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "Ja hän odotti"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seitsemän"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivää"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "määrättyyn aikaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mutta ei"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tullut"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgaliin"
+    },
+    {
+      "surface": "ויפץ",
+      "gloss": "ja hajaantui"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "hänen luotaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:08:27.264593819Z",
+  "model": "glm-5.3"
+}

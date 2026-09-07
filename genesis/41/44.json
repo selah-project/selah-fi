@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 41:44",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 41,
+  "translation": "Ja Paro sanoi Josefille: Minä olen Paro, ja ilman sinua ei mies saa nostaa ⟨את⟩ kättään eikä ⟨את⟩ jalkaansa koko Mitsrajimin maassa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…lle"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ובלעדיך",
+      "gloss": "ja ilman sinua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "nostaa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kättään"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kättään"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "eikä ⟨את⟩",
+      "marks": "jalkaansa"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "jalkaansa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-09-06T21:24:06.870209457Z",
+  "model": "glm-5.3"
+}

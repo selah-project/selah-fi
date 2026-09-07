@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 118:26",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 118,
+  "translation": "Siunattu olkoon hän, joka tulee Jahven nimessä; me siunaamme teitä Jahven huoneesta.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Siunattu olkoon"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "hän, joka tulee"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nimessä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ברכנוכם",
+      "gloss": "me siunaamme teitä"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "huoneesta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-07T02:44:33.745988365Z",
+  "model": "glm-5.3"
+}

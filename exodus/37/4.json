@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Ja hän teki kannelliset sauvoat akasiapuusta ja päällysti ne ⟨את⟩ kullalla.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ja hän teki"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "sauvoat"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "puusta"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ja päällysti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ne"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kullalla"
+    }
+  ],
+  "timestamp": "2026-09-06T21:45:38.149129713Z",
+  "model": "glm-5.3"
+}

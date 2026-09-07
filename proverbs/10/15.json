@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Rikkaan omaisuus ⟨on⟩ hänen väkevä kaupunkinsa; köyhien tuho ⟨on⟩ heidän köyhyytensä.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "omaisuus"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "rikkaan"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "kaupunki"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "hänen väkevyytensä"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "tuho"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "köyhien"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "köyhyys"
+    }
+  ],
+  "timestamp": "2026-09-07T03:06:19.209950289Z",
+  "model": "glm-5.3"
+}

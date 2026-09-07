@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Siksi minun sydämeni iloitsee ja minun kunniani riemuitsee, myös minun lihani asuu turvassa.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Siksi"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "iloitsee"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "minun sydämeni"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "ja riemuitsee"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "minun kunniani"
+    },
+    {
+      "surface": "אף",
+      "gloss": "myös"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "minun lihani"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "asuu"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "turvassa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:54:36.984559855Z",
+  "model": "glm-5.3"
+}

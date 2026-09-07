@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 17:19",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Nämä ⟨olivat⟩ ne, jotka palvelivat ⟨את⟩ kuningasta, sen lisäksi, mitä kuningas oli pannut linnoitettuihin kaupunkeihin koko Jehudan maahan.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Nämä"
+    },
+    {
+      "surface": "המשרתים",
+      "gloss": "palvelivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuningasta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "sen lisäksi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "oli pannut"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "kaupunkeihin"
+    },
+    {
+      "surface": "המבצר",
+      "gloss": "linnoitettuihin"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    }
+  ],
+  "timestamp": "2026-09-07T05:37:52.269305559Z",
+  "model": "glm-5.3"
+}

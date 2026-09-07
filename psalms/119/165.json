@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Suuri shalom ⟨on⟩ Toraasi (Toora) rakastavilla, eikä heille ole mikään kompastuskivi.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "Suuri shalom — huom: shalom"
+    },
+    {
+      "surface": "רב",
+      "gloss": "suuri"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "rakastavilla"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Toraasi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä ole"
+    },
+    {
+      "surface": "למו",
+      "gloss": "heille"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "kompastuskivi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:47:49.487142108Z",
+  "model": "glm-5.3"
+}

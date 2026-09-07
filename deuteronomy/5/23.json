@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 5:23",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja kun te kuulitte ⟨את⟩ äänen pimeyden keskeltä — vuori kun paloi tulessa —, te lähestyitte minua, kaikki heimojenne päämiehet ja vanhimpanne.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja kun"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "te kuulitte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "äänen"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "äänen"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "keskeltä"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "pimeyden"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "vuori"
+    },
+    {
+      "surface": "בער",
+      "gloss": "paloi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulessa"
+    },
+    {
+      "surface": "ותקרבון",
+      "gloss": "te lähestyitte"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "päämiehet"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "heimojenne"
+    },
+    {
+      "surface": "וזקניכם",
+      "gloss": "ja vanhimpanne"
+    }
+  ],
+  "timestamp": "2026-09-07T04:17:49.723002424Z",
+  "model": "glm-5.3"
+}

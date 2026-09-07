@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 107,
+  "translation": "sillä he kapinoivat Elin sanoja vastaan ja Elyonin neuvoa he pilkkasivat,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "he kapinoivat"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "sanoja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elin"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "ja neuvoa"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyonin"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "he pilkkasivat"
+    }
+  ],
+  "timestamp": "2026-09-07T02:38:24.123508395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Maahan vehnää ja ohraa, viiniköynnöstä ja viikunapuuta ja granaattiomenaa; maahan öljypuun oliivia ja hunajaa.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "vehnää"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "ja ohraa"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "viiniköynnöstä"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "ja viikunapuuta"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "ja granaattiomenaa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "זית",
+      "gloss": "öljypuun"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "oliivia"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ja hunajaa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:26:47.242787178Z",
+  "model": "glm-5.3"
+}

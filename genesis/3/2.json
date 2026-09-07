@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja nainen sanoi käärmeelle: ”Puutarhan puiden hedelmiä me syömme.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "nainen"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "käärmeelle"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "hedelmiä"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "puiden"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "puutarhan"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "me syömme"
+    }
+  ],
+  "timestamp": "2026-09-06T21:05:44.300842503Z",
+  "model": "glm-5.3"
+}

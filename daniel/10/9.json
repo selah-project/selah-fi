@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja kuulin ⟨את⟩ äänen hänen sanojensa; ja kun kuulin ⟨את⟩ äänen hänen sanojensa, olin minä syvässä unossa kasvoillani, ja kasvoni ⟨olivat⟩ maata kohti.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "ja kuulin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "äänen"
+    },
+    {
+      "surface": "קול",
+      "gloss": "äänen"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "hänen sanojensa"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "ja kun kuulin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "äänen"
+    },
+    {
+      "surface": "קול",
+      "gloss": "äänen"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "hänen sanojensa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ja minä"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "olin"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "syvässä unossa"
+    },
+    {
+      "surface": "על",
+      "gloss": "…illa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kasvoillani"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ja kasvoni"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "maata kohti"
+    }
+  ],
+  "timestamp": "2026-09-07T04:50:05.796463210Z",
+  "model": "glm-5.3"
+}

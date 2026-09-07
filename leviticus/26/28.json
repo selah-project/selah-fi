@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "niin minä käyn teidän kanssanne vimmassani vastahakoisesti, ja minä kuritan ⟨את⟩ teidät, ja vielä minä, seitsemän kertaa synteinne tähden.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "niin minä käyn"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "teidän kanssanne"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "vimmassani"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "vastahakoisesti"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "ja minä kuritan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät",
+      "marks": "ja vielä minä"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja vielä"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seitsemän kertaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "synteinne"
+    }
+  ],
+  "timestamp": "2026-09-06T22:01:28.384694988Z",
+  "model": "glm-5.3"
+}

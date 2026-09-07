@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 28:23",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Ja tee rintakilpeen kaksi kultarenkaita ja aseta ⟨את⟩ ne kaksi rengasta rintakilven kahteen päähän.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ja tee"
+    },
+    {
+      "surface": "על",
+      "gloss": "-"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "rintakilpeen"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "rengasta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kulta-"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ja aseta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne kaksi rengasta"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "הטבעות",
+      "gloss": "rengasta"
+    },
+    {
+      "surface": "על",
+      "gloss": "-"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kahteen"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "päähän"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "rintakilven"
+    }
+  ],
+  "timestamp": "2026-09-06T21:40:17.596365443Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 15:10",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Ja hän otti itselleen ⟨את⟩ kaikki nämä ja halkaisi ⟨את⟩ ne keskeltä ja pani kunkin puolikkaan vasten toistaan; mutta ⟨את⟩ lintuja hän ei halkaissut.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ja hän otti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "itselleen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki nämä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "ויבתר",
+      "gloss": "ja halkaisi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ne"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keskeltä"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ja pani"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kunkin"
+    },
+    {
+      "surface": "בתרו",
+      "gloss": "puolikkaan"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "vasten"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "toistaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "lintuja"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "lintuja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "בתר",
+      "gloss": "halkaissut"
+    }
+  ],
+  "timestamp": "2026-09-06T21:11:31.993821798Z",
+  "model": "glm-5.3"
+}

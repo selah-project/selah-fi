@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "sillä käsky käskyn päälle, käsky käskyn päälle, mittanauha mittanauhan perään, mittanauha mittanauhan perään, vähän siellä, vähän siellä.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "צו",
+      "gloss": "käsky"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "käskyn päälle"
+    },
+    {
+      "surface": "צו",
+      "gloss": "käsky"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "käskyn päälle"
+    },
+    {
+      "surface": "קו",
+      "gloss": "mittanauha"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "mittanauhan perään"
+    },
+    {
+      "surface": "קו",
+      "gloss": "mittanauha"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "mittanauhan perään"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "vähän"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "vähän"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:07:58.594477429Z",
+  "model": "glm-5.3"
+}

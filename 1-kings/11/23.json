@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja Elohim nosti hänelle vastustajan: ⟨את⟩ Rezonin, Eljadain pojan, joka pakeni herransa ⟨את⟩ Hadadezerin, Tsoban kuninkaan, luota.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Ja nosti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "vastustajan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rezonin"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Rezonin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "Eljadain"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "pakeni"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ luota"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezerin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsoban"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "herransa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:39:18.950443707Z",
+  "model": "glm-5.3"
+}

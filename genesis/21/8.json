@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja lapsi kasvoi ja vieroitettiin, ja Avraham teki suuret pidot sinä päivänä, jona ⟨את⟩ Jitshak vieroitettiin.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "ja kasvoi"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "lapsi"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "ja vieroitettiin"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ja teki"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "pidot"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suuret"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sinä päivänä"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "vieroitettiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshak"
+    }
+  ],
+  "timestamp": "2026-09-06T21:12:20.511687770Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 30:26",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Anna ⟨את⟩ vaimoni ja ⟨את⟩ lapseni, joita varten palvelin sinua ⟨אתך⟩ niillä, ja lähtisin — sillä sinä tunnet ⟨את⟩ palvelukseni, jota palvelin sinua.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Anna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaimoni"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "vaimoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "lapseni"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "lapseni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joita"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "palvelin"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ⟨אתך⟩ sinua",
+      "marks": "niillä"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "niillä"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "ja lähtisin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tunnet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palvelukseni"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "palvelukseni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jota"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "palvelin sinua"
+    }
+  ],
+  "timestamp": "2026-09-07T07:21:08.568795363Z",
+  "model": "glm-5.3"
+}

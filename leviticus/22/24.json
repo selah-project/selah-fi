@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 22:24",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja muserrettua tai pirstoutunutta tai revittyä tai leikattua älkää tuoko Jahvelle, älkääkä maassanne sellaista tehkö.",
+  "tokens": [
+    {
+      "surface": "וּמָעוּךְ",
+      "gloss": "muserrettua"
+    },
+    {
+      "surface": "וכתות",
+      "gloss": "pirstoutunutta"
+    },
+    {
+      "surface": "ונתוק",
+      "gloss": "revittyä"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "leikattua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "tuoko"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "ובארצכם",
+      "gloss": "maassanne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "tehkö"
+    }
+  ],
+  "timestamp": "2026-09-06T21:57:40.245193662Z",
+  "model": "glm-5.3"
+}

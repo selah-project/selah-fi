@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Davidin (Daavid). Tuomitse minut, Jahve, sillä minä olen vaeltanut viattomuudessani, ja Jahveen minä olen turvautunut, enkä horju.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidin (Daavid)"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "Tuomitse minut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "viattomuudessani"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "olen vaeltanut"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "ja Jahveen"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "olen turvautunut"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "horju"
+    }
+  ],
+  "timestamp": "2026-09-07T02:01:28.118363665Z",
+  "model": "glm-5.3"
+}

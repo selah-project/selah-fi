@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 39,
+  "translation": "Ja Jahve oli ⟨את⟩ Josefin kanssa, ja hän oli menestyvä mies; ja hän oli talossa herransa, mitsriläisen, luona.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josef (kanssa)"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja hän oli"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "menestyvä"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja hän oli"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "talossa"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "herransa"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "mitsriläisen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:23:21.442441974Z",
+  "model": "glm-5.3"
+}

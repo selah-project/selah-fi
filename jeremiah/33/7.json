@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Ja minä palautan ⟨את⟩ Jehudan (Juuda) pakkosiirtolaisuuden ja ⟨את⟩ Israelin pakkosiirtolaisuuden, ja minä rakennan heidät niinkuin alussa.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "ja minä palautan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakkosiirtolaisuuden"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "pakkosiirtolaisuuden"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan (Juuda)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "pakkosiirtolaisuuden"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "pakkosiirtolaisuuden"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "ja minä rakennan"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "niinkuin alussa"
+    }
+  ],
+  "timestamp": "2026-09-07T00:39:33.026188891Z",
+  "model": "glm-5.3"
+}

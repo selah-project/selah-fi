@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 29:3",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "ja niiden ruokauhri: öljyyn sekoitettua soolajauhoa, kolme kymmenystä härälle ja kaksi kymmenystä oinaalle,",
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "ja niiden ruokauhri"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "soolajauhoa"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "sekoitettua"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "öljyyn"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "kymmenystä"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "härälle"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "kymmenystä"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "oinaalle"
+    }
+  ],
+  "timestamp": "2026-09-06T22:17:37.733779213Z",
+  "model": "glm-5.3"
+}

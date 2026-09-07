@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 5:11",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Voi niitä, jotka nousevat varhain aamulla juomaaajhtaakseen, ja jotka iltaa myöhäisellä viini heidät sytyttää!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "voi"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": " jotka nousevat varhain"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamulla"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "juomaa"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "ajhtaakseen"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "myöhäisellä"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "illaa"
+    },
+    {
+      "surface": "יין",
+      "gloss": "viini"
+    },
+    {
+      "surface": "ידליקם",
+      "gloss": "heidät sytyttää"
+    }
+  ],
+  "timestamp": "2026-09-07T00:02:36.976733898Z",
+  "model": "glm-5.3"
+}

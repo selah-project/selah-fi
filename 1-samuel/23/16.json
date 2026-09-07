@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 23:16",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja Johonatan (Joonatan), Shaulin poika, nousi ja meni Davidin luo Horesaan ja vahvisti ⟨את⟩ hänen kättään Elohimissa.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "nousi"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Johonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulin"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ja meni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "חרשה",
+      "gloss": "Horesaan"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "ja vahvisti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen kättään"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hänen kättään"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimissa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:14:24.188382688Z",
+  "model": "glm-5.3"
+}

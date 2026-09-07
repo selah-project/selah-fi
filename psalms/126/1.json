@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 126,
+  "translation": "Vaelluksen laulu. Kun Jahve käänsi ⟨את⟩ Tsijonin (Siionin) paluun, me olimme kuin uneksijat.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "laulu"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "vaelluksen"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "kun...käänsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsijonin paluun"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "paluun"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijonin"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "me olimme"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "kuin uneksijat"
+    }
+  ],
+  "timestamp": "2026-09-07T02:50:35.919471755Z",
+  "model": "glm-5.3"
+}

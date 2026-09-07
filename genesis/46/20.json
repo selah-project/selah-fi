@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 46:20",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 46,
+  "translation": "Ja Josefille syntyi Mitsrajimin (Egyptin) maassa, jotka hänelle synnytti Asnat, Poti-feran tytär, Onin kohen (pappi): ⟨את⟩ Menashe ja ⟨את⟩ Efraim.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "Ja syntyi"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "Josefille"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin (Egyptin)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "אסנת",
+      "gloss": "Asnat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tytär"
+    },
+    {
+      "surface": "פוטי",
+      "gloss": "Poti-"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "feran"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohen (pappi)"
+    },
+    {
+      "surface": "אן",
+      "gloss": "Onin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menashe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Efraim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    }
+  ],
+  "timestamp": "2026-09-06T21:26:00.175660945Z",
+  "model": "glm-5.3"
+}

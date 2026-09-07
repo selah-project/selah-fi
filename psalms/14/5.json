@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Siellä he pelkäsivät pelkoa, sillä Elohim ⟨on⟩ vanhurskaan sukupolven keskellä.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Siellä"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "he pelkäsivät"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "pelkoa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "sukupolven keskellä"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "vanhurskaan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:54:55.661621672Z",
+  "model": "glm-5.3"
+}

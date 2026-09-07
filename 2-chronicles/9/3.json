@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja Sheban kuningatar näki ⟨את⟩ Shelomon viisauden ja talon, jonka hän oli rakentanut,",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Ja ... näki"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "kuningatar"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viisauden"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "viisauden"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomon"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "ja talon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "hän oli rakentanut"
+    }
+  ],
+  "timestamp": "2026-09-07T05:36:42.820163332Z",
+  "model": "glm-5.3"
+}

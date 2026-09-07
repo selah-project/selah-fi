@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja tämä ⟨on⟩ minchah-uhrian (jauhouhrin) Tora: Aharonin pojat tuovat ⟨את⟩ sen Jahven eteen, alttarin kasvojen eteen.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Ja tämä"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchah-uhrian"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "tuovat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sen (minchah-uhrin)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edeen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kasvojen"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:49:12.156090597Z",
+  "model": "glm-5.3"
+}

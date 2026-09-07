@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja asetan Mishkanini (asumukseni) keskellänne, ja Nefeshini ei kammoksua ⟨את⟩ teitä.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ja asetan"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "Mishkanini"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "keskellänne"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "kammoksua"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshini"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teitä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:00:10.628622149Z",
+  "model": "glm-5.3"
+}

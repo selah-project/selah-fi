@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 23:7",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Sillä niinkuin hän sisimmässään laskostaa, niin hän on: ”Syö ja juo”, sanoo hän sinulle, mutta hänen sydämensä ei suinkaan ole sinun kanssasi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "niinkuin"
+    },
+    {
+      "surface": "שער",
+      "gloss": "laskostaa"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "sisimmässään"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän on"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "Syö"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "ja juo"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "mutta hänen sydämensä"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ei suinkaan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ole sinun kanssasi"
+    }
+  ],
+  "timestamp": "2026-09-07T03:14:52.424401636Z",
+  "model": "glm-5.3"
+}

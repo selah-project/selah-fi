@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "mutta sumu nousi maasta ja kasteli ⟨את⟩ koko maan pinnan.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "mutta sumu"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "nousi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "maasta (min)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "ja kasteli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko maan pinnan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pinnan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:04:25.077347578Z",
+  "model": "glm-5.3"
+}

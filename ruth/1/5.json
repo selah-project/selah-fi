@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja kuolivat myös molemmat, Mahlon ja Kiljon, ja nainen jäi jäljelle molemmista lapsistaan ja miehestään.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "ja kuolivat"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "molemmat"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Mahlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "ja Kiljon"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "ja jäi jäljelle"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "nainen"
+    },
+    {
+      "surface": "משני",
+      "gloss": "molemmista"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "lapsistaan"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "ja miehestään"
+    }
+  ],
+  "timestamp": "2026-09-07T03:59:16.462599102Z",
+  "model": "glm-5.3"
+}

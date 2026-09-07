@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 2:15",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja hän laski heidät köydellä alas ikkunan kautta, sillä hänen talonsa oli muurin sisällä, muurissa hän asui.",
+  "tokens": [
+    {
+      "surface": "ותורדם",
+      "gloss": "ja hän laski heidät alas"
+    },
+    {
+      "surface": "בחבל",
+      "gloss": "köydellä"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "kautta"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "ikkunan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "hänen talonsa"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "oli muurin sisällä"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "muurin"
+    },
+    {
+      "surface": "ובחומה",
+      "gloss": "ja muurissa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "asui"
+    }
+  ],
+  "timestamp": "2026-09-06T22:40:36.479518194Z",
+  "model": "glm-5.3"
+}

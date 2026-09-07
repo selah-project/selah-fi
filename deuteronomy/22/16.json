@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja tytön isä sanoo vanhimmille: ⟨את⟩ tyttäreni minä annoin tälle miehelle vaimoksi, ja hän on vihannut häntä.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ja sanoo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "isä"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "tytön"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "vanhimmille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tyttäreni"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "tyttäreni"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "minä annoin"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "miehelle"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tälle"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "vaimoksi"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "ja hän on vihannut häntä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:34:45.975729162Z",
+  "model": "glm-5.3"
+}

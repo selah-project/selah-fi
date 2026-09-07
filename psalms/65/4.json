@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 65,
+  "translation": "Pahuuden teot ovat minua väkevämmät; mitä kapinoihimme tulee, sinä peität ne.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "teot"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "pahuuden"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "ovat väkevämmät"
+    },
+    {
+      "surface": "מני",
+      "gloss": "minua"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "kapinoihimme"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "peität ne"
+    }
+  ],
+  "timestamp": "2026-09-07T02:17:01.964976248Z",
+  "model": "glm-5.3"
+}

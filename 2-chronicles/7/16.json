@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 7:16",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja nyt minä olen valinnut ja pyhittänyt ⟨את⟩ tämän temppelin, että nimeni olisi siellä ikuisesti, ja minun silmäni ja sydämeni ovat siellä kaikki päivät.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ja nyt"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "olen valinnut"
+    },
+    {
+      "surface": "והקדשתי",
+      "gloss": "ja pyhittänyt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän temppelin"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "temppelin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "että olisi"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "nimeni"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "עד",
+      "gloss": ""
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ikuisesti"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ja ovat"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "minun silmäni"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "ja sydämeni"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "päivät"
+    }
+  ],
+  "timestamp": "2026-09-07T05:32:33.044187660Z",
+  "model": "glm-5.3"
+}

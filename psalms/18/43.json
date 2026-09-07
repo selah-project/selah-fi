@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 18:43",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja minä murskasin heidät kuin pölyn tuulen kasvojen ⟨edessä⟩, kuin kadun lian minä kaadin heidät ulos.",
+  "tokens": [
+    {
+      "surface": "ואשחקם",
+      "gloss": "ja minä murskasin heidät"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "kuin pölyn"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨edessä⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kasvojen"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "tuulen"
+    },
+    {
+      "surface": "כטיט",
+      "gloss": "kuin lian"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "kadun"
+    },
+    {
+      "surface": "אריקם",
+      "gloss": "minä kaadan heidät ulos"
+    }
+  ],
+  "timestamp": "2026-09-07T01:58:04.504015765Z",
+  "model": "glm-5.3"
+}

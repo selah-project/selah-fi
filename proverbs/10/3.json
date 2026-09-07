@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 10:3",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Jahve ei jätä vanhurskaan nefeshia (elämänvoimaa) nälkään, mutta jumalattomien himon hän sysää pois.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ירעיב",
+      "gloss": "jätä nälkään"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefeshia"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "vanhurskaan"
+    },
+    {
+      "surface": "והות",
+      "gloss": "mutta himon"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jumalattomien"
+    },
+    {
+      "surface": "יהדף",
+      "gloss": "hän sysää pois"
+    }
+  ],
+  "timestamp": "2026-09-07T03:05:16.183389994Z",
+  "model": "glm-5.3"
+}

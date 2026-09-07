@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "⟨את⟩ itsepoussutta satoasi et leikkaa, ja ⟨את⟩ karsimattomien köynnöstesi viinimarjoja et poimi; shabbatonin (lepovuoden) vuosi ⟨on⟩ maalle.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itsepoussutta satoasi"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "itsepoussutta"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "satoasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "et"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "leikkaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "karsimattomien köynnöstesi viinimarjoja"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "viinimarjoja"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "karsimattomien köynnöstesi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "et"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "poimi"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "vuosi"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "shabbatonin"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "on"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "maalle"
+    }
+  ],
+  "timestamp": "2026-09-06T21:59:34.221034507Z",
+  "model": "glm-5.3"
+}

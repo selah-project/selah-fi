@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 2:6",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ruokaa ostakaa heiltä ⟨את⟩ hopealla ja syökää; myös vettä ostakaa heiltä ⟨את⟩ hopealla ja juokaa.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "Ruokaa"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "ostakaa"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "heiltä ⟨את⟩"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "hopealla"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "ja syökää"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vettä"
+    },
+    {
+      "surface": "תכרו",
+      "gloss": "ostakaa"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "heiltä ⟨את⟩"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "hopealla"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "ja juokaa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:24:01.977956016Z",
+  "model": "glm-5.3"
+}

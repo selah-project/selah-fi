@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 18:36",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja kansa vaikeni eikä vastannut häntä ⟨את⟩ sanaakaan, sillä kuninkaan käsky oli: älkää vastatko hänelle.",
+  "tokens": [
+    {
+      "surface": "והחרישו",
+      "gloss": "Ja vaikeni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "vastannut"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sanaakaan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sanaakaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "käsky"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "היא",
+      "gloss": "oli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תענהו",
+      "gloss": "vastatko hänelle"
+    }
+  ],
+  "timestamp": "2026-09-06T23:56:01.133501302Z",
+  "model": "glm-5.3"
+}

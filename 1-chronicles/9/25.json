@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 9:25",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja heidän veljensä kylissään tulivat vuoroon seitsemäksi päiväksi, ajasta aikaan, näiden kanssa.",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "ja heidän veljensä"
+    },
+    {
+      "surface": "בחצריהם",
+      "gloss": "kylissään"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "tulivat vuoroon"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "seitsemäksi"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "päiväksi"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "ajasta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aikaan"
+    },
+    {
+      "surface": "עת",
+      "gloss": "(aikaan)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "näiden"
+    }
+  ],
+  "timestamp": "2026-09-07T05:17:46.440543878Z",
+  "model": "glm-5.3"
+}

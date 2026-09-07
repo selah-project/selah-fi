@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 26:16",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "silloin minäkin teen tämän teille: asetan yllenne kauhun, ⟨את⟩ riutumistaudin ja ⟨את⟩ kuumetaudin, jotka näivettävät silmiä ja vaivaavat sisintänne; ja kylvätte turhaan siemenenne, ja vihollisenne syövät sen.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "silloin myös"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "teen"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "והפקדתי",
+      "gloss": "ja asetan"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "yllenne"
+    },
+    {
+      "surface": "בהלה",
+      "gloss": "kauhun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riutumistaudin"
+    },
+    {
+      "surface": "השחפת",
+      "gloss": "riutumistaudin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kuumetaudin"
+    },
+    {
+      "surface": "הקדחת",
+      "gloss": "kuumetaudin"
+    },
+    {
+      "surface": "מכלות",
+      "gloss": "näivettävät"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "silmiä"
+    },
+    {
+      "surface": "ומדיבת",
+      "gloss": "ja vaivaavat"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sisintänne"
+    },
+    {
+      "surface": "וזרעתם",
+      "gloss": "ja kylvätte"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "turhaan"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "siemenenne"
+    },
+    {
+      "surface": "ואכלהו",
+      "gloss": "ja syövät"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "vihollisenne"
+    }
+  ],
+  "timestamp": "2026-09-07T04:14:44.277256773Z",
+  "model": "glm-5.3"
+}

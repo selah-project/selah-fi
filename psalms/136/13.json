@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 136,
+  "translation": "Sille, joka halkoi ruokomeren osiin, sillä iankaikkisesti ⟨on⟩ hänen hesedinsä.",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "Sille, joka halkoi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "meren"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ruoko-"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "osiin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "⟨on⟩ hänen hesedinsä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:52:51.572078887Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "jonka hän leikkasi ⟨teki⟩ ⟨את⟩ Avrahamin (Aabraham) kanssa, ja hänen valansa Jitshakille (Iisak).",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "leikkasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamin"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamin"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "ja hänen valansa"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Jitshakille"
+    }
+  ],
+  "timestamp": "2026-09-07T05:19:39.763187668Z",
+  "model": "glm-5.3"
+}

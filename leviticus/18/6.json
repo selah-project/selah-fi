@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 18:6",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Jokainen mies — kenen tahansa lihansa sukulaisen luo älkää lähestykö paljastaaksenne alastomuutta; minä olen Jahve.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jokainen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-luo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kenen tahansa"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "sukulaisen"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "lihansa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תקרבו",
+      "gloss": "lähestykö"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "paljastaaksenne"
+    },
+    {
+      "surface": "ערוה",
+      "gloss": "alastomuutta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-06T21:54:40.672358272Z",
+  "model": "glm-5.3"
+}

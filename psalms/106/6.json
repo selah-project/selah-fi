@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 106,
+  "translation": "Me teimme syntiä isiemme kanssa, me väänsimme verran, me tekimme jumalattomuutta.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "Me teimme syntiä"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "isiemme"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "me väänsimme verran"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "me tekimme jumalattomuutta"
+    }
+  ],
+  "timestamp": "2026-09-07T02:39:00.360074646Z",
+  "model": "glm-5.3"
+}

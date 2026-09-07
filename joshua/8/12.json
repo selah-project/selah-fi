@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 8:12",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja hän otti noin viisituhatta miestä ja asetti ⟨את⟩ heidät väijytykseen Beit-Elin ja HaAin väliin, kaupungin länsipuolelle.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ja hän otti"
+    },
+    {
+      "surface": "כחמשת",
+      "gloss": "noin viisi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tuhatta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miestä"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ja asetti"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ heidät",
+      "marks": "heistä miehiä"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "väijytykseen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "väliin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "elin"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja"
+    },
+    {
+      "surface": "העי",
+      "gloss": "HaAin"
+    },
+    {
+      "surface": "מים",
+      "gloss": "länteen"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kaupungista"
+    }
+  ],
+  "timestamp": "2026-09-07T04:17:04.854438346Z",
+  "model": "glm-5.3"
+}

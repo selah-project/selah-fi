@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 19:15",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja kun aamunkoitto nousi, enkelit kiirehtivät Lotia sanoen: Nouse, ota ⟨את⟩ vaimosi ja ⟨את⟩ kaksi tytärtäsi, jotka ovat läsnä, ettet sinä tulisi pyyhityksi kaupungin pahouteen.",
+  "tokens": [
+    {
+      "surface": "וכמו",
+      "gloss": "kun"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "aamunkoitto"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "nousi"
+    },
+    {
+      "surface": "ויאיצו",
+      "gloss": "kiirehtivät"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "enkelit"
+    },
+    {
+      "surface": "בלוט",
+      "gloss": "Lotia"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Nouse"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaimosi"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "vaimosi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaksi tytärtäsi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "בנתיך",
+      "gloss": "tytärtäsi"
+    },
+    {
+      "surface": "הנמצאת",
+      "gloss": "jotka ovat läsnä"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ettet"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "tulisi pyyhityksi"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "pahouteen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:11:35.582723976Z",
+  "model": "glm-5.3"
+}

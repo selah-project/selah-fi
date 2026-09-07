@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 50:22",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 50,
+  "translation": "Ymmärtäkää ⟨nyt⟩ tämä, te jotka unohdatte Eloahin, ett'en repisi teitä eikä pelastajaa olisi.",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "Ymmärtäkää"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨nyt⟩"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "te jotka unohdatte"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloahin"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ett'en"
+    },
+    {
+      "surface": "אטרף",
+      "gloss": "repisi teitä"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä ole"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "pelastajaa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:09:14.133681805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "”Puuttuuko minulta hulluja, että toitte ⟨את⟩ tämän hulluilemaan minun eteeni? Pitääkö tämän tulla minun talooni?”",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "Puuttuuko"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "hulluja"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minulta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "toitte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "hulluilemaan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "minun eteeni"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämänkö"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "Pitääkö tulla"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "minun talooni"
+    }
+  ],
+  "timestamp": "2026-09-06T23:14:21.238861114Z",
+  "model": "glm-5.3"
+}

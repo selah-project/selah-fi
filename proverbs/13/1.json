@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Viisas poika ⟨on⟩ isän kasvatuksen ⟨kuulija⟩, mutta pilkkaaja ei kuullut nuhdetta.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "Viisas"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "kasvatuksen"
+    },
+    {
+      "surface": "אב",
+      "gloss": "isän"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "mutta pilkkaaja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kuullut"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "nuhdetta"
+    }
+  ],
+  "timestamp": "2026-09-07T03:08:04.307404317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 4:11",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja Elohimin arkki otettiin, ja Elin kaksi poikaa kuolivat, Hofni ja Pinhas.",
+  "tokens": [
+    {
+      "surface": "וארון",
+      "gloss": "Ja arkki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "otettiin"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ja kaksi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikaa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elin"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "kuolivat"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "Hofni"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "ja Pinhas"
+    }
+  ],
+  "timestamp": "2026-09-06T23:06:03.099207830Z",
+  "model": "glm-5.3"
+}

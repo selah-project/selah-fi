@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 25:22",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja lapset tappelivat keskenään hänen sisällään, ja hän sanoi: jos näin on, miksi tämä minun kohdallani? Niin hän meni kysymään ⟨את⟩ Jahvea.",
+  "tokens": [
+    {
+      "surface": "ויתרצצו",
+      "gloss": "tappelivat keskenään"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "lapset"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "hänen sisällään"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "כן",
+      "gloss": "näin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miksi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minun"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "niin hän meni"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "kysymään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    }
+  ],
+  "timestamp": "2026-09-06T21:14:11.877858044Z",
+  "model": "glm-5.3"
+}

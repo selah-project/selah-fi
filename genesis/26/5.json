@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "sillä Avraham (Aabraham) kuuli ääneni ja piti vahtini, käskyni, säädökseni ja Torani (Toorani).",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "että"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kuuli"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "ääneni"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "ja piti"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "vahtini"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "käskyni"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "säädökseni"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "ja Torani"
+    }
+  ],
+  "timestamp": "2026-09-06T21:14:56.394535981Z",
+  "model": "glm-5.3"
+}

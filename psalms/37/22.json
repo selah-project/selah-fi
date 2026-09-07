@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 37:22",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Sillä ⟨hänen⟩ siunaamansa perivät maan, ja ⟨hänen⟩ kirottunsa katkaistaan pois.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מברכיו",
+      "gloss": "hänen siunaamansa"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "perivät"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "ומקלליו",
+      "gloss": "ja hänen kirottunsa"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "katkaistaan pois"
+    }
+  ],
+  "timestamp": "2026-09-07T02:06:39.530222598Z",
+  "model": "glm-5.3"
+}

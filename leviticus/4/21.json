@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 4:21",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja hän vie sonnin ⟨את⟩ leirin ulkopuolelle ja polttaa ⟨את⟩ sen, niin kuin hän poltti ⟨את⟩ ensimmäisen sonnin; se ⟨on⟩ seurakunnan hattat (syntiuhri).",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "ja hän vie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sonnin"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "sonnin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pois"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ulkopuolelle"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "leirin"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "ja polttaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "hän poltti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ensimmäisen sonnin"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "sonnin"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ensimmäisen"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "hattat"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "seurakunnan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-09-06T21:48:35.980416371Z",
+  "model": "glm-5.3"
+}

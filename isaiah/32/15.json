@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 32:15",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "kunnes ylhäältä vuodatetaan meidän päällemme ruach, ja autiomaasta tulee hedelmäinen karmeli ja karmeli luetaan metsäksi.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "vuodatetaan"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "meidän päällemme"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "ylhäältä"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ja tulee"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "autiomaasta"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "hedelmäinen karmeli"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "ja karmeli"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "metsäksi"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "luetaan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:09:05.369823617Z",
+  "model": "glm-5.3"
+}

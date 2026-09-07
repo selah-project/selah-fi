@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Melkein he hävittivät minut maassa, mutta minä en hylännyt määräyksiäsi.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "Melkein"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "he hävittivät minut"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mutta minä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "hylännyt"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "määräyksiäsi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:46:54.630385812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 14:23",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "eivät he näe ⟨את⟩ maata, jonka vannon heidän isillensä, eivätkä kaikki minun pilkkaajani sitä näe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "he näe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "vannon"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "heidän isillensä"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "eivätkä kaikki"
+    },
+    {
+      "surface": "מנאצי",
+      "gloss": "minun pilkkaajani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "יראוה",
+      "gloss": "sitä näe"
+    }
+  ],
+  "timestamp": "2026-09-06T22:09:59.828036305Z",
+  "model": "glm-5.3"
+}

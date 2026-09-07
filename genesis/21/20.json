@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja Elohim oli pojan ⟨את⟩ kanssa, ja hän kasvoi ja asui erämaassa, ja hänestä tuli jousimies.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja oli"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ kanssa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "ja hän kasvoi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja asui"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "erämaassa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja hänestä tuli"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "jousimies"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "jousen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:13:12.380101652Z",
+  "model": "glm-5.3"
+}

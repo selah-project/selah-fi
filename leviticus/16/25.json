@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja ⟨את⟩ syntiuhrin rasvan hän suitsuttaa alttarille.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "syntiuhrin rasvan"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "rasvan"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syntiuhrin"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "hän suitsuttaa"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "alttarille"
+    }
+  ],
+  "timestamp": "2026-09-06T21:56:11.897713533Z",
+  "model": "glm-5.3"
+}

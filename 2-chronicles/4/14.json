@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "ja ⟨את⟩ jalustat hän teki, ja ⟨את⟩ altaat hän teki jalustojen päälle.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "jalustat"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "jalustat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "altaat"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "altaat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teki"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "jalustojen"
+    }
+  ],
+  "timestamp": "2026-09-07T05:31:33.254399074Z",
+  "model": "glm-5.3"
+}

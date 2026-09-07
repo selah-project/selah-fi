@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Silmäni loppuivat sinun sanasi ⟨tähden⟩, sanoen: milloin sinä minut lohdutat?",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "loppuivat"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "silmäni"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "sinun sanasi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "milloin"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "minut lohdutat"
+    }
+  ],
+  "timestamp": "2026-09-07T02:48:28.091654353Z",
+  "model": "glm-5.3"
+}

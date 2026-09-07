@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 119:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Onnelliset ne, jotka ottavat vaarin hänen todistuksistaan, jotka koko sydämellä etsivät häntä.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Onnelliset"
+    },
+    {
+      "surface": "נצרי",
+      "gloss": "jotka ottavat vaarin"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "hänen todistuksistaan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sydämellä"
+    },
+    {
+      "surface": "ידרשוהו",
+      "gloss": "etsivät häntä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:45:44.032235873Z",
+  "model": "glm-5.3"
+}

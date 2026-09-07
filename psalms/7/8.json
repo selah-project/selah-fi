@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja kansojen kokous ympäröiköön sinut, ja sen ylle korkeuteen pala.",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "Ja kokous"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "kansojen"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "ympäröiköön sinut"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "ja sen ylle"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "korkeuteen"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "pala"
+    }
+  ],
+  "timestamp": "2026-09-07T01:52:31.210600566Z",
+  "model": "glm-5.3"
+}

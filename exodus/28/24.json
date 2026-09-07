@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 28:24",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Ja panna ⟨את⟩ ne kaksi kultanauhaa ne kahteen renkaaseen, rintakilven päihin.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "Ja panna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne kaksi kultanauhaa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "עבתת",
+      "gloss": "nauhaa"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kulta-"
+    },
+    {
+      "surface": "על",
+      "gloss": "-"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kahteen"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "renkaaseen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "päihin"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "rintakilven"
+    }
+  ],
+  "timestamp": "2026-09-06T21:40:17.596706646Z",
+  "model": "glm-5.3"
+}

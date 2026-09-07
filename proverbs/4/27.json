@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Älä käänny oikealle eikä vasemmalle, käännä jalkasi pois pahasta.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תט",
+      "gloss": "käänny"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "oikealle"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "eikä vasemmalle"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "käännä pois"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "jalkasi"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "pahasta"
+    }
+  ],
+  "timestamp": "2026-09-07T03:00:52.443601802Z",
+  "model": "glm-5.3"
+}

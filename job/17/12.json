@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 17:12",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Yön he asettavat päiväksi, valo ⟨on⟩ lähellä pimeyden edessä.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "yön"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "päiväksi"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "he asettavat"
+    },
+    {
+      "surface": "אור",
+      "gloss": "valo"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "lähellään"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pimeyden edessä"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pimeyden"
+    }
+  ],
+  "timestamp": "2026-09-07T03:32:22.302932601Z",
+  "model": "glm-5.3"
+}

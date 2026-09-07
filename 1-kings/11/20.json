@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 11:20",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja Tahpenesin sisar synnytti hänelle ⟨את⟩ hänen poikansa Genubatin, ja Tahpenes vieroitti hänet Paron talon keskellä; ja Genubat oli Paron talossa Paron poikien keskellä.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ja synnytti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "sisar"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "Tahpenesin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen poikansa Genubatin"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubatin"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "ותגמלהו",
+      "gloss": "ja hän vieroitti hänet"
+    },
+    {
+      "surface": "תחפנס",
+      "gloss": "Tahpenes"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keskellä"
+    },
+    {
+      "surface": "בית",
+      "gloss": "talossa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja hän oli"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "talossa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keskellä"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikien"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    }
+  ],
+  "timestamp": "2026-09-06T23:40:40.790422635Z",
+  "model": "glm-5.3"
+}

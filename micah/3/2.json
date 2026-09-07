@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Jotka vihaavat hyvää ja rakastavat pahaa, jotka riistävät heidän nahkansa heidän päältään ja lihan heidän luittaan.",
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "jotka vihaavat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvää"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "ja rakastavat"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pahaa"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "jotka riistävät"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "heidän nahkansa"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "heidän päältään"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "ja lihan"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "päältä"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "heidän luittaan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:34:59.586036222Z",
+  "model": "glm-5.3"
+}

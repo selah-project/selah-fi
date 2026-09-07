@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja hän taivutti taivaat ja astui alas, ja paksu pimeys hänen jalkojensa alla.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "ja hän taivutti"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "taivaat"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ja astui alas"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "ja paksu pimeys"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alla"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "hänen jalkojensa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:57:46.897448771Z",
+  "model": "glm-5.3"
+}

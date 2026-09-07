@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja varokaa hyvin sielujenne tähden, niin että rakastatte ⟨את⟩ Jahvea, Elohimianne.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "ja varokaa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hyvin"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "sielujenne tähden"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "rakastamaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimianne"
+    }
+  ],
+  "timestamp": "2026-09-06T22:50:05.042874523Z",
+  "model": "glm-5.3"
+}

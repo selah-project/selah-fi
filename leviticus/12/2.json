@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 12:2",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Puhu Israelin lapsille sanoen: nainen, kun hän kylvää siementä ja synnyttää pojan, hän on epäpuhdas seitsemän päivää; niin kuin hänen erottautumisensa päivinä, hänen tautinsa aikana, hän on epäpuhdas.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Puhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Israelin lapsille"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lapsille"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "nainen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "תזריע",
+      "gloss": "kylvää siementä"
+    },
+    {
+      "surface": "וילדה",
+      "gloss": "ja synnyttää"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "hän on epäpuhdas"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seitsemän"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivää"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "niin kuin päivinä"
+    },
+    {
+      "surface": "נדת",
+      "gloss": "hänen erottautumisensa"
+    },
+    {
+      "surface": "דותה",
+      "gloss": "hänen tautinsa"
+    },
+    {
+      "surface": "תטמא",
+      "gloss": "hän on epäpuhdas"
+    }
+  ],
+  "timestamp": "2026-09-06T21:51:38.983705332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 13:14",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Mutta hän ei suostunut kuulemaan hänen ääntään, vaan hän väkevöityi häntä vastaan ja painoi hänet maahan ja makasi ⟨את⟩ hänen kanssaan.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mutta ei"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "suostunut"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "kuulemaan"
+    },
+    {
+      "surface": "בקולה",
+      "gloss": "hänen ääntään"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "väkevöityi"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "häntä vastaan"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "painoi maahan"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "makasi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hänen"
+    }
+  ],
+  "timestamp": "2026-09-07T04:21:29.489745392Z",
+  "model": "glm-5.3"
+}

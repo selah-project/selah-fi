@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 83,
+  "translation": "Elohimini, pane heidät kuin vierivä kiekonpalanen, kuin akana tuulen edessä.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimini"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "pane heidät"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "kuin vierivä kiekonpalanen"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "kuin akana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "tuulen"
+    }
+  ],
+  "timestamp": "2026-09-07T04:33:02.786618774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja sanoi Elohim: ”Kerääntykööt vedet taivaan alapuolelta yhteen paikkaan, jaulköön kuiva maa.” Ja niin tapahtui.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "kerääntykööt"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vedet"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "alapuolelta"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yhteen"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "paikkaan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yhden"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "jaulköön"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "kuiva maa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:04:12.092535340Z",
+  "model": "glm-5.3"
+}

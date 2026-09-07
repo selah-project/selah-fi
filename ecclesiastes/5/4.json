@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Parempi ⟨on⟩ se, ettet lupaa, kuin että lupaat etkä maksa.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Parempi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se, joka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "et"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "lupaa"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "kuin että lupaat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "etkä"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "maksa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:35:41.336133386Z",
+  "model": "glm-5.3"
+}

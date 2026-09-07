@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja ⟨את⟩ oinaan sinä paloittelet palasikseen, ja peset sen sisälmykset ja sen sääret, ja panet ⟨ne⟩ sen palojensa päälle ja sen pään päälle.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "oinaan"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "oinaan"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "paloittelet"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "palasikseen"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "ja peset"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "sen sisälmykset"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "ja sen sääret"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ja panet"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "sen palojensa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja päälle"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "sen pään"
+    }
+  ],
+  "timestamp": "2026-09-06T21:42:09.068427508Z",
+  "model": "glm-5.3"
+}

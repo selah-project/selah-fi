@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Ja hän palasi veljiensä luo ja sanoi: Poikaa ei ole, ja minä — minne minä menen?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Ja hän palasi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "veljiensä"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "Poikaa"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ja minä"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "minne"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "בא",
+      "gloss": "menen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:21:53.914262632Z",
+  "model": "glm-5.3"
+}

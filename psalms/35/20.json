@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 35,
+  "translation": "Sillä ei rauhasta he puhu, vaan maan hiljaisia vastaan he petollisia sanoja punovat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rauhasta"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "he puhu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "vastaan"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "hiljaisia"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanoja"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "petollisia"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "he punovat"
+    }
+  ],
+  "timestamp": "2026-09-07T02:05:06.511779013Z",
+  "model": "glm-5.3"
+}

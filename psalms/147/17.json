@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 147,
+  "translation": "Hän heittää jäänsä kuin murusia; hänen kylmyyttään — kuka voi seistä sen edessä?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "Hän heittää"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "jäänsä"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "kuin murusia"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "hänen kylmyyttään"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "voi seistä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:56:05.921279042Z",
+  "model": "glm-5.3"
+}

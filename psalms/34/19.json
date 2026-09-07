@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "Lähellä ⟨on⟩ Jahve särkyneitäsydämiä, ja ⟨את⟩ murskattuja-hengisiä hän pelastaa.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Lähellä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "särkyneitä"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sydämiä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "murskattuja-hengisiä"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "murskattuja"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "-hengisiä"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "hän pelastaa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:32:52.819737211Z",
+  "model": "glm-5.3"
+}

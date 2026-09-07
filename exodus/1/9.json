@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja hän sanoi kansalleen: Katso, Israelin lasten kansa ⟨on⟩ suurempi ja väkevämpi kuin me.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kansalleen"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kansalleen"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "רב",
+      "gloss": "suurempi"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "ja väkevämpi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuin me"
+    }
+  ],
+  "timestamp": "2026-09-06T21:28:42.732920388Z",
+  "model": "glm-5.3"
+}

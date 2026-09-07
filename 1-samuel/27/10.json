@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ja Akish sanoi: Ettekö ryöstäneet tänään? Ja David sanoi: Jehudan (Juudan) etelämaahan ja Jerahmeelin etelämaahan ja kiiniläisten etelämaahan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "etkö"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "ryöstäneet"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tänään"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "vastaan"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "etelämaahan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan (Juudan)"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja vastaan"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "etelämaahan"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "Jerahmeelin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "etelämaahan"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "kiiniläisten"
+    }
+  ],
+  "timestamp": "2026-09-06T23:16:58.097779498Z",
+  "model": "glm-5.3"
+}

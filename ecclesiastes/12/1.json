@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 12:1",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja muista ⟨את⟩ sinun Luojasi sinun nuoruutesi päivinä, siihen asti kun eivät vielä tule pahat päivät eivätkä lähesty vuodet, joina sanot: ei minulla ole niissä halua.",
+  "tokens": [
+    {
+      "surface": "וזכר",
+      "gloss": "Ja muista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinun Luojasi"
+    },
+    {
+      "surface": "בוראיך",
+      "gloss": "sinun Luojasi"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "päivinä"
+    },
+    {
+      "surface": "בחורתיך",
+      "gloss": "sinun nuoruutesi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "siihen asti kun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jolloin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "tule"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päivät"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "pahat"
+    },
+    {
+      "surface": "והגיעו",
+      "gloss": "eivätkä lähesty"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vuodet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joina"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "sanot"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulla ole"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "niissä"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "halua"
+    }
+  ],
+  "timestamp": "2026-09-07T04:39:48.903010594Z",
+  "model": "glm-5.3"
+}

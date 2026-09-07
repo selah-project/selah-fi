@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 10:3",
+  "book": "daniel",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Herkullista leipää en syönyt, eikä lihaa eikä viiniä tullut suuhuni, enkä voidellut itseäni voiteella, ennen kuin kolme viikkoa päiviä täyttyi.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    },
+    {
+      "surface": "חמדות",
+      "gloss": "herkullista"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "syönyt"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "eikä lihaa"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "eikä viiniä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tullut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "suuntaan"
+    },
+    {
+      "surface": "פי",
+      "gloss": "suuhuni"
+    },
+    {
+      "surface": "וסוך",
+      "gloss": "enkä voiteella"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "סכתי",
+      "gloss": "voidellut"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ennen kuin"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "täyttyi"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kolmen"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "viikon"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivien"
+    }
+  ],
+  "timestamp": "2026-09-07T04:51:33.907854149Z",
+  "model": "glm-5.3"
+}

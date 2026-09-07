@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 32:8",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Todellakin, henki se ⟨on⟩ ihmisessä, ja Shaddain henkäys antaa heille ymmärryksen.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Todellakin"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "henki"
+    },
+    {
+      "surface": "היא",
+      "gloss": "se ⟨on⟩"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "ihmisessä"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "ja henkäys"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddain"
+    },
+    {
+      "surface": "תבינם",
+      "gloss": "antaa heille ymmärryksen"
+    }
+  ],
+  "timestamp": "2026-09-07T03:43:47.973806556Z",
+  "model": "glm-5.3"
+}

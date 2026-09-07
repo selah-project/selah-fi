@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 22:8",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja maa järkkyi ja vavahti, taivaan perustukset värähtivät ja järkyttyivät, sillä hänen vihansa syttyi.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "ja järkkyi"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "ja vavahti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "perustukset"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "värähtivät"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "ja järkyttyivät"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "vihansa syttyi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:29:17.007095136Z",
+  "model": "glm-5.3"
+}

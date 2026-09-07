@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 145,
+  "translation": "Niiden toiveen, jotka häntä pelkäävät, hän toteuttaa, ja ⟨את⟩ heidän huutonsa hän kuulee ja pelastaa heidät.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "toiveen"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "jotka häntä pelkäävät"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hän toteuttaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "heidän huutonsa"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "heidän huutonsa"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "hän kuulee"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "ja pelastaa heidät"
+    }
+  ],
+  "timestamp": "2026-09-07T02:56:26.574697949Z",
+  "model": "glm-5.3"
+}

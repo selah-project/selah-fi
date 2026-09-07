@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 3:1",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja Jehoshua (Joosua) nousi varhain aamulla, ja he lähtivät liikkeelle HaShittimistä (Suitista) ja tulivat Jordanille, hän ja kaikki Israelin pojat, ja he leiriytyivät siellä, ennen kuin he kulkivat yli.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "nousi varhain"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamulla"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "ja he lähtivät liikkeelle"
+    },
+    {
+      "surface": "מהשטים",
+      "gloss": "HaShittimistä"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ja he tulivat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanille"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "וילנו",
+      "gloss": "ja he leiriytyivät"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ennen kuin"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "he kulkivat yli"
+    }
+  ],
+  "timestamp": "2026-09-07T04:16:26.235205847Z",
+  "model": "glm-5.3"
+}

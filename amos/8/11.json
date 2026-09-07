@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 8:11",
+  "book": "amos",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Katso, päivät tulevat, Adonai Jahven oraakkeli, ja minä lähetän maahan nälän — ei leivän nälkää eikä veden janoa, vaan ⟨את⟩ Jahven sanojen kuulemisen nälän.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivät"
+    },
+    {
+      "surface": "באים",
+      "gloss": "tulevat"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oraakkeli"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "והשלחתי",
+      "gloss": "ja minä lähetän"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "nälän"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "nälkää"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "leivän"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "janoa"
+    },
+    {
+      "surface": "למים",
+      "gloss": "veden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vaan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "kuulemisen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven sanat"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "Jahven sanojen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-07T01:31:06.213844665Z",
+  "model": "glm-5.3"
+}

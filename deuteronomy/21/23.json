@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 21:23",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "ei saa hänen ruumiinsa jäädä yöksi puun päälle, vaan hautaa hänet varmasti sinä päivänä, sillä jumalan kirosanan alainen on hirtetty — älä saastuta ⟨את⟩ maata, jonka Jahve, sinun Elohimisi, antaa sinulle perintöosaksi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "saa jäädä yöksi"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "hänen ruumiinsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "puun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "קבור",
+      "gloss": "hautaa"
+    },
+    {
+      "surface": "תקברנו",
+      "gloss": "hänet varmasti"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "kirosanan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jumalan"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "on hirtetty"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תטמא",
+      "gloss": "saastuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maata"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "maata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sinun Elohimisi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "antaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "perintöosaksi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:31:35.590524565Z",
+  "model": "glm-5.3"
+}

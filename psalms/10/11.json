@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Hän sanoi sydämessään: ”El ⟨on⟩ unohtanut, hän kätkee kasvonsa, hän ei koskaan näe.”",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "sydämessään"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "on unohtanut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "kätkee"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "kasvonsa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "näe"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "koskaan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:54:36.008655967Z",
+  "model": "glm-5.3"
+}

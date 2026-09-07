@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja tämä on ashamin (rikosuhrin) Tora: pyhien pyhin se ⟨on⟩.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Ja tämä"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ashamin"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhyyden"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "pyhien"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se ⟨on⟩"
+    }
+  ],
+  "timestamp": "2026-09-06T21:49:23.568320130Z",
+  "model": "glm-5.3"
+}

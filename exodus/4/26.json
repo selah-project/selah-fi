@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 4:26",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja hän lakosi hänestä; silloin hän sanoi: verisulhanen — ympärileikkauksen tähden.",
+  "tokens": [
+    {
+      "surface": "וירף",
+      "gloss": "lakosi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "hänestä"
+    },
+    {
+      "surface": "אז",
+      "gloss": "silloin"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "hän sanoi"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "sulhanen"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "veri-"
+    },
+    {
+      "surface": "למולת",
+      "gloss": "ympärileikkauksen tähden"
+    }
+  ],
+  "timestamp": "2026-09-06T21:30:16.484346687Z",
+  "model": "glm-5.3"
+}

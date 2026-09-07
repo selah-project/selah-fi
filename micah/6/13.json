@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "micah 6:13",
+  "book": "micah",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja myös minä olen saattanut sinut sairaaksi, lyömällä sinua, hävittämään sinun syntihtesi tähden.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ja myös"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "החליתי",
+      "gloss": "olen saattanut sairaaksi"
+    },
+    {
+      "surface": "הכותך",
+      "gloss": "lyömällä sinua"
+    },
+    {
+      "surface": "השמם",
+      "gloss": "hävittämään"
+    },
+    {
+      "surface": "על",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "sinun syntihtesi"
+    }
+  ],
+  "timestamp": "2026-09-07T01:37:21.271091991Z",
+  "model": "glm-5.3"
+}

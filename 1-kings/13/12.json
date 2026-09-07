@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 13:12",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja heidän isänsä sanoi heille: missä on se tie, jota hän kulki? Ja hänen poikansa näkivät ⟨את⟩ tien, jota Elohimin mies oli kulkenut, hän, joka tuli Jehudasta.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "heidän isänsä"
+    },
+    {
+      "surface": "אי",
+      "gloss": "missä"
+    },
+    {
+      "surface": "זה",
+      "gloss": "se"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "tie"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "kulki"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ja näkivät"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tien"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "tien"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jota"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "oli kulkenut"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "Jehudasta"
+    }
+  ],
+  "timestamp": "2026-09-06T23:39:13.763526968Z",
+  "model": "glm-5.3"
+}

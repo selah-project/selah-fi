@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 63,
+  "translation": "Sillä parempi on hesedisi ⟨armosi⟩ kuin elämä; huuleni ylistävät sinua.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "parempi on"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesedisi"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "kuin elämä"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "huuleni"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "ylistävät sinua"
+    }
+  ],
+  "timestamp": "2026-09-07T02:17:38.212750696Z",
+  "model": "glm-5.3"
+}

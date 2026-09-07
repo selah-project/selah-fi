@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Jos veljesi köyhtyy ja myy omistusmaataan, ja hänen lunastajansa, lähimmäinenensä, tulee, niin hän lunastaa ⟨את⟩ veljensä myynnin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jos"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "köyhtyy"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "veljesi"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "ja myy"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "omistusmaataan"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "tulee"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "hänen lunastajansa"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "lähimmäinenensä"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "ja lunastaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veljensä myynnin"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "myynnin"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "veljensä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:00:28.511769303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 28:14",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Ja aseistetut miehet jättivät ⟨את⟩ vangitut ja ⟨את⟩ saaliin ruhtinasten ja koko seurakunnan eteen.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "Ja jättivät"
+    },
+    {
+      "surface": "החלוץ",
+      "gloss": "aseistetut miehet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vangitut"
+    },
+    {
+      "surface": "השביה",
+      "gloss": "vangitut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "saaliin"
+    },
+    {
+      "surface": "הבזה",
+      "gloss": "saaliin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "ruhtinasten"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja koko"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "seurakunnan"
+    }
+  ],
+  "timestamp": "2026-09-07T05:47:56.334575216Z",
+  "model": "glm-5.3"
+}

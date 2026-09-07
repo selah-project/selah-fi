@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja hän palasi ⟨את⟩ hänen kanssaan ja söi leipää hänen talossaan ja joi vettä.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Ja hän palasi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänen kanssaan",
+      "marks": "hänen kanssaan"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ja söi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "hänen talossaan"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "ja joi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vettä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:24:36.238835290Z",
+  "model": "glm-5.3"
+}

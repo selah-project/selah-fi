@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Aika heittää kiviä ja aika koota kivet; aika halata ja aika olla kaukana halaamasta.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Aika"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "heittää"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kiviä"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ja aika"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "koota"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kivet"
+    },
+    {
+      "surface": "עת",
+      "gloss": "aika"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "halata"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ja aika"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "olla kaukana"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "halaamasta"
+    }
+  ],
+  "timestamp": "2026-09-07T04:05:02.443778696Z",
+  "model": "glm-5.3"
+}

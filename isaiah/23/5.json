@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Niin kuin sanomasta Mitsrajimista ⟨he⟩ tuskoituvat, niin sanomasta Tsorista ⟨he⟩ tuskoituvat.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Niin kuin"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sanomasta"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Mitsrajimista"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "tuskoituvat"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "niin sanomasta"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsorista"
+    }
+  ],
+  "timestamp": "2026-09-07T00:07:48.714005150Z",
+  "model": "glm-5.3"
+}

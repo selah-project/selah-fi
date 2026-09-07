@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 35:10",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 35,
+  "translation": "Ja sanoi hänelle Elohim: ”Nimesi ⟨on⟩ Ja'akov; ei enää kutsuta nimeäsi Ja'akov, vaan Israel tulee olemaan nimesi.” Ja hän kutsui ⟨את⟩ hänen nimensä Israeliksi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Nimesi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akov"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "kutsuta"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nimeäsi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enää"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vaan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tulee olemaan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nimesi"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "Ja hän kutsui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen nimensä"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hänen nimensä"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeliksi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:21:11.917132546Z",
+  "model": "glm-5.3"
+}

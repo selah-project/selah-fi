@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja jos sitä yleensä syödään kolmantena päivänä, se ⟨on⟩ pahennus, ei sitä hyväksytä.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ja jos"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "yleensä syödään"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "syödään"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "kolmantena"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "pahennus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "hyväksytä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:56:00.976608275Z",
+  "model": "glm-5.3"
+}

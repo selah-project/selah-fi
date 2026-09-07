@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja hän ajoi ulos ⟨את⟩ ihmisen, ja asetti Edenin puutarhan itäpuolelle ⟨את⟩ kerubit ja ⟨את⟩ miekan liekin, joka kääntyy ympäri, vartioimaan ⟨את⟩ elämän puun tietä.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "Ja ajoi ulos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihmisen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihmisen"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "ja asutti"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "itäpuolelle"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "puutarhan"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edenin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerubit"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerubit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "miekan liekin"
+    },
+    {
+      "surface": "להט",
+      "gloss": "liekin"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "miekan"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "joka kääntyy ympäri"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "vartioimaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elämän puun tietä"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tietä"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "puun"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "elämän"
+    }
+  ],
+  "timestamp": "2026-09-06T21:05:11.308704966Z",
+  "model": "glm-5.3"
+}

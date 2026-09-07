@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 25:10",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja minä kadotan heistä ilon äänen ja riemun äänen, sulhasen äänen ja morsiamen äänen, myllynkivien äänen ja lampun valon.",
+  "tokens": [
+    {
+      "surface": "והאבדתי",
+      "gloss": "Ja minä kadotan"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "heistä"
+    },
+    {
+      "surface": "קול",
+      "gloss": "äänen"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "ilon"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ja äänen"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "riemun"
+    },
+    {
+      "surface": "קול",
+      "gloss": "äänen"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "sulhasen"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ja äänen"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "morsiamen"
+    },
+    {
+      "surface": "קול",
+      "gloss": "äänen"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "myllynkivien"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ja valon"
+    },
+    {
+      "surface": "נר",
+      "gloss": "lampun"
+    }
+  ],
+  "timestamp": "2026-09-07T04:27:54.914714550Z",
+  "model": "glm-5.3"
+}

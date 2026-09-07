@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 89,
+  "translation": "Ja minä asetan hänen siemenensä iäti, ja hänen valtaistuimensa ⟨kestää⟩ niinkuin taivaan päivät.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Ja minä asetan"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "äti"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "hänen siemenensä"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "ja hänen valtaistuimensa"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "niinkuin päivät"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "taivaan"
+    }
+  ],
+  "timestamp": "2026-09-07T02:30:32.921241213Z",
+  "model": "glm-5.3"
+}

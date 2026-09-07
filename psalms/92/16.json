@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 92,
+  "translation": "Julistamaan, että Jahve ⟨on⟩ suora, minun kallioni, ja ei vääryyttä hänessä.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "julistamaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "suora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "minun kallioni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "vääryyttä"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hänessä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:32:28.989219094Z",
+  "model": "glm-5.3"
+}

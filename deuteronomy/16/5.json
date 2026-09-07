@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Et voi teurastaa ⟨את⟩ pesahia yhdessäkään porteistasi, jotka Jahve, Elohimisi, sinulle antaa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Et"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "voi"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "teurastaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesahia"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesahia"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "yhdessäkään"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "porteistasi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimisi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "antaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    }
+  ],
+  "timestamp": "2026-09-06T22:30:15.147438847Z",
+  "model": "glm-5.3"
+}

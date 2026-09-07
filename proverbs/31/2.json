@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Mitä, poikani? Ja mitä, kohduni poika? Ja mitä, lupauksieni poika?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Mitä"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "poikani"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Ja mitä"
+    },
+    {
+      "surface": "בר",
+      "gloss": "poika"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "kohduni"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Ja mitä"
+    },
+    {
+      "surface": "בר",
+      "gloss": "poika"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "lupauksieni"
+    }
+  ],
+  "timestamp": "2026-09-07T03:23:03.606088609Z",
+  "model": "glm-5.3"
+}

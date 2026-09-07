@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Minä lyön heidät kulkutaudilla ja hävitän heidät, ja teen ⟨את⟩ sinut kansaksi, suureksi ja väkevämmäksi kuin se.",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "lyön heidät"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "kulkutaudilla"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "ja hävitän heidät"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "ja teen"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sinut",
+      "marks": "kansaksi"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "kansaksi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suureksi"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "ja väkeväksi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuin se"
+    }
+  ],
+  "timestamp": "2026-09-06T22:09:19.087602548Z",
+  "model": "glm-5.3"
+}

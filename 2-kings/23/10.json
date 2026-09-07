@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja hän saastutti ⟨את⟩ Tofetin, joka on Hinomin poikien laaksossa, ettei kukaan antaisi ⟨את⟩ poikansa eikä ⟨את⟩ tyttärensä kulkea tulen läpi Molekille.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "Ja hän saastutti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tofetin"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Tofetin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "laaksossa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikien"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinomin"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ettei"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "antaisi kulkea"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kukaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poikansa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "poikansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "eikä ⟨את⟩",
+      "marks": "tyttärensä"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "tyttärensä"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulen"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Molekille"
+    }
+  ],
+  "timestamp": "2026-09-06T23:58:46.653715608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 8:31",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "leikkien hänen maansa piirissä, ja riemuni ⟨on⟩ ⟨את⟩ ihmislapsien parissa.",
+  "tokens": [
+    {
+      "surface": "משחקת",
+      "gloss": "leikkien"
+    },
+    {
+      "surface": "בתבל",
+      "gloss": "maailmassa"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "hänen maansa"
+    },
+    {
+      "surface": "ושעשעי",
+      "gloss": "ja riemuni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihmislapsien"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lapsien"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmis-"
+    }
+  ],
+  "timestamp": "2026-09-07T03:04:46.086933379Z",
+  "model": "glm-5.3"
+}

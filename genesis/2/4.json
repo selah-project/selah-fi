@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 2:4",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Nämä ovat taivaan ja maan sukupolvet niiden luomisessa, sinä päivänä, jona Jahve Elohim teki maan ja taivaat.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "näiden"
+    },
+    {
+      "surface": "תולדות",
+      "gloss": "sukupolvet"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ja maan"
+    },
+    {
+      "surface": "בהבראם",
+      "gloss": "niiden luomisessa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "tekemisessä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "ja taivaat"
+    }
+  ],
+  "timestamp": "2026-09-06T21:05:30.171437031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "Tulkaa, lapset, kuulkaa minua: Jahven pelkoa minä opetan teille.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Tulkaa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "lapset"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kuulkaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minua"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "pelkoa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "opetan teille"
+    }
+  ],
+  "timestamp": "2026-09-07T02:03:22.603445641Z",
+  "model": "glm-5.3"
+}

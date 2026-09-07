@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 26:13",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja mies kasvoi suureksi, ja hän jatkoi, käyen eteenpäin ja kasvaen, kunnes hänestä tuli hyvin suuri.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "kasvoi suureksi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ja hän jatkoi"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "käyen eteenpäin"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "ja kasvaen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "tuli suureksi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hyvin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:14:51.308970421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Taakka näyn laakson. Mitä sinulle nyt, että nousit, sinä kokonaan, kattoteraille?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Taakka"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "laakson"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "näyn"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mitä"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "nousit"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "sinä kokonaan"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "kattoteraille"
+    }
+  ],
+  "timestamp": "2026-09-07T00:06:58.967579950Z",
+  "model": "glm-5.3"
+}

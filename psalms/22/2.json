@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Elini, Elini, miksi jätit minut? Kaukana pelastuksestani, huutoni sanat.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Elini"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Elini"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miksi"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "jätit minut"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "Kaukana"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "pelastuksestani"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "huutoni"
+    }
+  ],
+  "timestamp": "2026-09-07T01:58:20.613497582Z",
+  "model": "glm-5.3"
+}

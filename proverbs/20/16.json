@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 20:16",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ota hänen viattakinsa, sillä hän käysi takaus vieraalle, ja outoja varten pidä hänet panttina.",
+  "tokens": [
+    {
+      "surface": "לקח",
+      "gloss": "Ota"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "hänen viattakinsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "hän käysi takaus"
+    },
+    {
+      "surface": "זר",
+      "gloss": "vieraalle"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ja ... varten"
+    },
+    {
+      "surface": "נכרים",
+      "gloss": "outoja"
+    },
+    {
+      "surface": "חבלהו",
+      "gloss": "pidä hänet panttina"
+    }
+  ],
+  "timestamp": "2026-09-07T03:12:00.707338846Z",
+  "model": "glm-5.3"
+}

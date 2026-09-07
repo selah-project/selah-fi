@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja Moshe kirjoitti ⟨את⟩ kaikki Jahven sanat, ja hän nousi aikaisin aamulla ja rakensi alttarin vuoren juurelle ja kaksitoista pystykiveä Israelin kahdentoista heimon mukaan.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Ja kirjoitti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki Jahven sanat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "ja nousi aikaisin"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamulla"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ja rakensi"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "juurelle"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "vuoren"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ja kaksitoista"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(kaksitoista)"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "pystykiveä"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "kahdentoista"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(kahdentoista)"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "heimon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:38:36.596446127Z",
+  "model": "glm-5.3"
+}

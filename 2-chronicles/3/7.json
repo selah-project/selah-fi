@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 3:7",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja hän verhoi ⟨את⟩ huoneen — parrat, kynnykset, sen seinät ja sen ovet — kullalla, ja hän kaiversi kerubeja seinille.",
+  "tokens": [
+    {
+      "surface": "ויחף",
+      "gloss": "ja hän verhoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huoneen"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "הקרות",
+      "gloss": "parrat"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "kynnykset"
+    },
+    {
+      "surface": "וקירותיו",
+      "gloss": "ja sen seinät"
+    },
+    {
+      "surface": "ודלתותיו",
+      "gloss": "ja sen ovet"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kullalla"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "ja hän kaiversi"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerubeja"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ille"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "seinille"
+    }
+  ],
+  "timestamp": "2026-09-07T05:31:36.956847594Z",
+  "model": "glm-5.3"
+}

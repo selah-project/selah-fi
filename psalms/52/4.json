@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 52,
+  "translation": "Tuhoja punoo kielesi, kuin partaveitsen joka on teroitetty, sinä joka teet petosta.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Tuhoja"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "punoo"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "kielesi"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "kuin partaveitsen"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "joka on teroitetty"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teet"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "petosta"
+    }
+  ],
+  "timestamp": "2026-09-07T02:13:37.905004697Z",
+  "model": "glm-5.3"
+}

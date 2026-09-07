@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ääni huutaa: erämaassa valmistakaa tien Jahvelle, tasaisksi tehkää autiomaassa maantie Elohimillemme.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Ääni"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "huutaa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "erämaassa"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "valmistakaa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "tasaisksi tehkää"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "autiomaassa"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "maantie"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Elohimillemme"
+    }
+  ],
+  "timestamp": "2026-09-07T00:15:09.744992940Z",
+  "model": "glm-5.3"
+}

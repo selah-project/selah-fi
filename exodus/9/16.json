@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Mutta juuri sitä varten olen saattanut sinut seisomaan, että näyttäisin sinulle ⟨את⟩ voimani ja että nimeni kerrottaisiin koko maassa.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Mutta"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "juuri sitä varten"
+    },
+    {
+      "surface": "זאת",
+      "gloss": ""
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "olen saattanut sinut seisomaan"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "jotta"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "näyttäisin sinulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "voimani"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "voimani"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ja että"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kerrottaisiin"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "nimeni"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maassa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:31:52.751581204Z",
+  "model": "glm-5.3"
+}

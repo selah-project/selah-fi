@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 128,
+  "translation": "Ja näe poikiesi pojat. Rauha Israelin päälle!",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ja näe"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "poikiesi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Rauha"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-07T02:49:04.254677612Z",
+  "model": "glm-5.3"
+}

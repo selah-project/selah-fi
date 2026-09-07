@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 7:14",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "He, ja kaikki eläimet lajinsa mukaan, ja kaikki karjaeläimet lajinsa mukaan, ja kaikki matelevaiset, jotka matelevat maan päällä, lajinsa mukaan, ja kaikki lentäväiset lajinsa mukaan, kaikki linnut, kaikki siivekkäät.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "He"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "eläimet"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "lajinsa mukaan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "karjaeläimet"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "lajinsa mukaan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "matelevaiset"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "jotka matelevat"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "lajinsa mukaan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "lentäväiset"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "lajinsa mukaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "linnut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "siivekkäät"
+    }
+  ],
+  "timestamp": "2026-09-06T21:06:21.641175326Z",
+  "model": "glm-5.3"
+}

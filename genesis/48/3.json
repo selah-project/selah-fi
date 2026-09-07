@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 48:3",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 48,
+  "translation": "Ja Ja'akov sanoi Josefille: El Shaddai (Kaikkivaltias) ilmestyi minulle Luzissa Kenaanin maassa ja siunasi ⟨את⟩ minua.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Josefille"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefille"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ilmestyi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "בלוז",
+      "gloss": "Luzissa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaanin"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ja siunasi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ minua",
+      "marks": "minua"
+    }
+  ],
+  "timestamp": "2026-09-06T21:27:09.388189810Z",
+  "model": "glm-5.3"
+}

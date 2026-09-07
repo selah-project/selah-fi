@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 2:5",
+  "book": "amos",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja minä lähetän tulen Jehudaan, ja se kuluttaa Jerushalajimin (Jerusalem) linnat.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ja minä lähetän"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tulen"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Jehudaan"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ja se kuluttaa"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "linnat"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimin"
+    }
+  ],
+  "timestamp": "2026-09-07T01:27:05.312562357Z",
+  "model": "glm-5.3"
+}

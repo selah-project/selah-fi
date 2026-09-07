@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 36:13",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 36,
+  "translation": "Ja Mikajahu ilmoitti heille ⟨את⟩ kaikki sanat, jotka hän kuuli Barukin lukiessa kirjasta kansan korvissa.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Ja ilmoitti"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "מכיהו",
+      "gloss": "Mikajahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki sanat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hän kuuli"
+    },
+    {
+      "surface": "בקרא",
+      "gloss": "lukiessa"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Barukin"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "kirjasta"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "korvissa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:41:41.170518040Z",
+  "model": "glm-5.3"
+}

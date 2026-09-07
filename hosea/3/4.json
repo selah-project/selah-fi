@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 3:4",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Sillä monia päiviä Israelin lapset istuvat ilman ⟨olematta⟩ kuningasta ja ilman ruhtinasta ja ilman uhria ja ilman pystykiveä ja ilman efodia ja ilman terafeja.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päiviä"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "monia"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "istuvat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lapset"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningasta"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ja ei ole"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ruhtinasta"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ja ei ole"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "uhria"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ja ei ole"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "pystykiveä"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ja ei ole"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efodia"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "ja terafeja"
+    }
+  ],
+  "timestamp": "2026-09-07T01:21:16.441561074Z",
+  "model": "glm-5.3"
+}

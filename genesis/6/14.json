@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Tee itsellesi gofer-puusta arkki; kammioita sinä teet ⟨את⟩ arkkiin, ja sinä päällystät ⟨את⟩ sen pihkalla — sisäpuolelta ja ulkopuolelta pihkalla.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Tee"
+    },
+    {
+      "surface": "לך",
+      "gloss": "itsellesi"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "arkki"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "gofer-puun"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "gofer"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "kammioita"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sinä teet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkkiin"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arkkiin"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "ja sinä päällystät"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ sen",
+      "marks": "arkki"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "sisäpuolelta"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "ja ulkopuolelta"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "pihkalla"
+    }
+  ],
+  "timestamp": "2026-09-07T04:11:40.347653854Z",
+  "model": "glm-5.3"
+}

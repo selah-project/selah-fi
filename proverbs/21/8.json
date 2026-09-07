@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Vino ja vieras on miehen tie, joka rikkoo, mutta puhtaan tekemä ⟨on⟩ suora.",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "vino (kiertynyt)"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tie"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "ja vieras"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "mutta puhdas"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "suora"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "hänen tekemänsä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:11:52.366980889Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 83,
+  "translation": "Sillä katso: vihollisesi pauhaavat, ja sinun vihaajasi ovat nostaneet pään.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "katso"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "vihollisesi"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "pauhaavat"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "ja sinun vihaajasi"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ovat nostaneet"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pään"
+    }
+  ],
+  "timestamp": "2026-09-07T02:25:23.999110672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 7:24",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja itsestään kuolleen eläimen rasvaa ja petoeläimen raateleman rasvaa voidaan käyttää mihin tahansa työhön, mutta syömäänmielisesti syödä sitä älkää syömästä.",
+  "tokens": [
+    {
+      "surface": "וחלב",
+      "gloss": "Ja rasva"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "itsestään kuolleen"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "ja rasva"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "raadellun"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "voidaan käyttää"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mihin tahansa"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "työhön"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "mutta syömään"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תאכלהו",
+      "gloss": "te sitä syö"
+    }
+  ],
+  "timestamp": "2026-09-06T21:48:09.141263240Z",
+  "model": "glm-5.3"
+}

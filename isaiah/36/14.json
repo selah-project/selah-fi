@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 36:14",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 36,
+  "translation": "Näin on sanonut kuningas: Älköön Hizkijahu (Hiskia) viekö teitä harhaan, sillä hän ei voi pelastaa ⟨את⟩ teitä.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Näin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "on sanonut"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Älköön"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "viekö harhaan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teitä"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkijahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "voi"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "pelastaa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teitä",
+      "marks": "teitä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:12:39.308911286Z",
+  "model": "glm-5.3"
+}

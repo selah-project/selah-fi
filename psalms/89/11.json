@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 89:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 89,
+  "translation": "Sinä murskasit Rahabin kuin surmatun, voimasi käsivarrella hajotit vihollisesi.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sinä"
+    },
+    {
+      "surface": "דכאת",
+      "gloss": "murskasit"
+    },
+    {
+      "surface": "כחלל",
+      "gloss": "kuin surmatun"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahabin"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "käsivarrella"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "voimasi"
+    },
+    {
+      "surface": "פזרת",
+      "gloss": "hajotit"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "vihollisesi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:29:16.312677685Z",
+  "model": "glm-5.3"
+}

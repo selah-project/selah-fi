@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Ja hän asetti ⟨את⟩ orjattaret ja ⟨את⟩ näiden lapset ensimmäisiksi, ja ⟨את⟩ Lean ja ⟨את⟩ tämän lapset viimeisiksi, ja ⟨את⟩ Rahelin ja ⟨את⟩ Josef (Joosef) viimeisimmiksi.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "asetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orjattaret"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "orjattaret"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "näiden lapset"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "näiden lapset"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "ensimmäisiksi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Lean"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lean"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "ja tämän lapset"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "viimeisiksi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Rahelin"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahelin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Josef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "viimeisimmiksi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:19:34.833317848Z",
+  "model": "glm-5.3"
+}

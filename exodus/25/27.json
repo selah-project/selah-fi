@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 25:27",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Vastapäätä reunusta olkoot ⟨את⟩ renkaat, asemiksi sauvoille, kantamaan ⟨את⟩ pöytää.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "vastapäätä"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "reunusta"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "olkoot"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "renkaat"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "asemiksi"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "sauvoille"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "kantamaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pöytää"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "pöytää"
+    }
+  ],
+  "timestamp": "2026-09-07T04:11:21.042451365Z",
+  "model": "glm-5.3"
+}

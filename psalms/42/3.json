@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Janoittaa Nefeshini Elohimia, elävää El:iä. Milloin minä tulen ja ilmestyn Elohimin kasvojen eteen?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "Janoittaa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshini"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimia"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "El:iä"
+    },
+    {
+      "surface": "חי",
+      "gloss": "elävää"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Milloin"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "tulen"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ja ilmestyn"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kasvojen eteen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    }
+  ],
+  "timestamp": "2026-09-07T02:08:31.337724591Z",
+  "model": "glm-5.3"
+}

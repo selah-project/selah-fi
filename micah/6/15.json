@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "micah 6:15",
+  "book": "micah",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Sinä kylvät, mutta et leikkaa; sinä tallat oliivia, mutta et voitele itseäsi öljyllä; ja rypälemehua — mutta et juo viiniä.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "kylvät"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mutta et"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "leikkaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "tallat"
+    },
+    {
+      "surface": "זית",
+      "gloss": "oliivia"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mutta et"
+    },
+    {
+      "surface": "תסוך",
+      "gloss": "voitele"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "öljyllä"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "ja rypälemehua"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mutta et"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "juo"
+    },
+    {
+      "surface": "יין",
+      "gloss": "viiniä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:37:21.272863726Z",
+  "model": "glm-5.3"
+}

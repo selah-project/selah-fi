@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 22:11",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja ⟨את⟩ lähimmäisensä vaimon mies teki kauhistukseksi, ja ⟨את⟩ miniänsä mies saastutti häväistyksessä, ja ⟨את⟩ sisarensa, isänsä tyttären, mies nöyryytti sinussa.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ja mies"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lähimmäisensä vaimon"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vaimon"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "lähimmäisensä"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teki"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "kauhistukseksi"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ja mies"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miniänsä"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "miniänsä"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "saastutti"
+    },
+    {
+      "surface": "בזמה",
+      "gloss": "häväistyksessä"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ja mies"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sisarensa"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "sisarensa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tyttären"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isänsä"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "nöyryytti"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinussa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:04:17.494129209Z",
+  "model": "glm-5.3"
+}

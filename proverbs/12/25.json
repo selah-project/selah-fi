@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 12:25",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Huoli miehen sydämessä painaa sitä masaan, mutta hyvä sana ilahduttaa sitä.",
+  "tokens": [
+    {
+      "surface": "דאגה",
+      "gloss": "Huoli"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "sydämessä"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "ישחנה",
+      "gloss": "painaa sitä masaan"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "mutta sana"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvä"
+    },
+    {
+      "surface": "ישמחנה",
+      "gloss": "ilahduttaa sitä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:07:31.582049161Z",
+  "model": "glm-5.3"
+}

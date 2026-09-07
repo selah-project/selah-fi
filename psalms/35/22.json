@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 35,
+  "translation": "Sinä näit ⟨sen⟩, Jahve; älä vaikene, Adonai, älä ole kaukana minusta.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Sinä näit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "vaikene"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ole kaukana"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minusta"
+    }
+  ],
+  "timestamp": "2026-09-07T02:03:47.727398436Z",
+  "model": "glm-5.3"
+}

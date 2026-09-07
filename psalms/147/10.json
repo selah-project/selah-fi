@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 147,
+  "translation": "Ei hevosen voimassa hän ilahdu, ei miehen särissä hän mielly.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ei"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "voimassa"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "hevosen"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "hän ilahdu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "särissä"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "hän mielly"
+    }
+  ],
+  "timestamp": "2026-09-07T02:55:43.164111413Z",
+  "model": "glm-5.3"
+}

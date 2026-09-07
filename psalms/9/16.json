@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Kansat vajosivat kuoppaan, jonka he tekivät; verkkoon, jonka he kätkivät, jäi heidän jalkansa kiinni.",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "vajosivat"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kansat"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "kuoppaan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "jonka he tekivät"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "verkkoon"
+    },
+    {
+      "surface": "זו",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "he kätkivät"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "jäi kiinni"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "heidän jalkansa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:55:32.135554179Z",
+  "model": "glm-5.3"
+}

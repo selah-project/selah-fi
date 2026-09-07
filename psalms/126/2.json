@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 126:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 126,
+  "translation": "Silloin täyttyi suumme naurusta ja kielimme riemuhuudosta; silloin sanoivat kansojen keskuudessa: ”Suuria on Jahve tehnyt näiden kanssa.”",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "silloin"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "täyttyi"
+    },
+    {
+      "surface": "שחוק",
+      "gloss": "naurusta"
+    },
+    {
+      "surface": "פינו",
+      "gloss": "suumme"
+    },
+    {
+      "surface": "ולשוננו",
+      "gloss": "ja kielimme"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "riemuhuudosta"
+    },
+    {
+      "surface": "אז",
+      "gloss": "silloin"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "sanoivat"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kansojen keskuudessa"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "suuria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "tehnyt"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "näiden"
+    }
+  ],
+  "timestamp": "2026-09-07T02:50:35.920037516Z",
+  "model": "glm-5.3"
+}

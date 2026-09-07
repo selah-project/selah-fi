@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja kansa ahdistetaan, mies miestä ⟨vastaan⟩ ja jokainen lähimmäistään ⟨vastaan⟩; nuori käy röyhkeästi vanhinta vastaan ja halveksittu kunnioitettua vastaan.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "ja ahdistetaan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "miestä"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ja jokainen"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "lähimmäistään"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "käy röyhkeästi"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "nuori"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "vanhinta vastaan"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "ja halveksittu"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "kunnioitettua vastaan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:01:00.042376209Z",
+  "model": "glm-5.3"
+}

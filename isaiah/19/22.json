@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja Jahve lyö ⟨את⟩ Mitsrajimia, lyöden ja parantaen, ja he palautuvat Jahven luo, ja hän antaa rukoustensa kuulua ja parantaa heidät.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "ja lyö"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajimia"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimia"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "lyöden"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "ja parantaen"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ja he palautuvat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "luo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "ja hän vastaa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heidät"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "ja parantaa heidät"
+    }
+  ],
+  "timestamp": "2026-09-07T00:05:59.961425523Z",
+  "model": "glm-5.3"
+}

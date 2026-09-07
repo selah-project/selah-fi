@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Ja hänen veljensä näkivät, että ⟨את⟩ häntä rakasti heidän isänsä enemmän kuin kaikkia hänen veljiään, ja he vihasivat ⟨את⟩ häntä, eivätkä voineet puhua hänelle rauhanomaisesti.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Ja näkivät"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hänen veljensä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "häntä"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "rakasti"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "heidän isänsä"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "enemmän kuin kaikkia"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hänen veljiään"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "ja he vihasivat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "häntä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "voineet"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "puhua"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "rauhanomaisesti"
+    }
+  ],
+  "timestamp": "2026-09-07T04:11:34.048211002Z",
+  "model": "glm-5.3"
+}

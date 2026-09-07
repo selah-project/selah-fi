@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 21:31",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "⟨את⟩ Chelkatin ja ⟨את⟩ sen laidusmaat, ja ⟨את⟩ Rechovin ja ⟨את⟩ sen laidusmaat; kaupunkeja neljä.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chelkatin"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Chelkatin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen laidusmaat"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sen laidusmaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Rechovin"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechovin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen laidusmaat"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sen laidusmaat"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kaupunkeja"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "neljä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:48:28.680620276Z",
+  "model": "glm-5.3"
+}

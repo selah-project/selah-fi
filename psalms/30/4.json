@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Jahve, sinä nostit nefeshini Sheolista, sinä pidät minut hengissä, pinnun laskeutujista.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "sinä nostit"
+    },
+    {
+      "surface": "מן",
+      "gloss": ""
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheolista"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshini"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "sinä pidät minut hengissä"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "pinnun laskeutujista"
+    },
+    {
+      "surface": "בור",
+      "gloss": "kuoppaan"
+    }
+  ],
+  "timestamp": "2026-09-07T02:01:20.002178984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 29:28",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja Ja'akov teki niin ja täytti tämän viikon, ja hän antoi hänelle ⟨את⟩ Rahelin, tyttärensä, hänelle vaimoksi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "teki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akov"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "täytti"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "viikon"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "antoi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rahelin"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahelin"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "tyttärensä"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "vaimoksi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:16:49.918926523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 18:5",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja he jakavat ⟨את⟩ sen seitsemään osaan: Jehuda (Juuda) seisoo rajallaan etelässä, ja Josef (Joosef) -huone seisoo rajallaan pohjoisessa.",
+  "tokens": [
+    {
+      "surface": "והתחלקו",
+      "gloss": "ja he jakavat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sen"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "seitsemään"
+    },
+    {
+      "surface": "חלקים",
+      "gloss": "osaan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "seisoo"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "rajallaan"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "etelässä"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ja huone"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "seisoo"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "rajallaan"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "pohjoisessa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:47:35.697802617Z",
+  "model": "glm-5.3"
+}

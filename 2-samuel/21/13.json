@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 21:13",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja hän nosti sieltä ⟨את⟩ Shaulin (Saul) luut ja ⟨את⟩ hänen poikansa Jehonatanin luut, ja he kokosivat ⟨את⟩ teloitettujen luut.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "nosti"
+    },
+    {
+      "surface": "משם",
+      "gloss": "sieltä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaulin luut"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "luut"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Jehonatanin luut"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "luut"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatanin"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ja he kokosivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teloitettujen luut"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "luut"
+    },
+    {
+      "surface": "המוקעים",
+      "gloss": "teloitettujen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:30:07.402344027Z",
+  "model": "glm-5.3"
+}

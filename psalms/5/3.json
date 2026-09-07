@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Kuuntele huutoni ääntä, kuninkaani ja Elohimini, sillä sinun eteesi minä rukoilen.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "kuuntele"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ääntä"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "huutoni"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kuninkaani"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ja Elohimini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinun eteesi"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "rukoilen"
+    }
+  ],
+  "timestamp": "2026-09-07T01:52:17.996433199Z",
+  "model": "glm-5.3"
+}

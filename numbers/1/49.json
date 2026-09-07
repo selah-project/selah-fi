@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ainoastaan ⟨את⟩ Levin heimoa älä laske lukuun, äläkä nosta ⟨את⟩ heidän päälukuaan keskellä Israelin poikia.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ainoastaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levin heimoa"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "heimoa"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "laske lukuun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "heidän päälukuaan"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "heidän päälukuaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "nosta"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keskellä"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:02:17.934257613Z",
+  "model": "glm-5.3"
+}

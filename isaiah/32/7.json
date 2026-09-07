@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 32:7",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Ja saiturin välineet ovat pahoja; hän suunnittelee pahoja juonia tuhotakseen nöyrät valheellisilla sanoilla, ja köyhän puhuessa oikeutta.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "Ja ... (välineet)"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "välineensä"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "pahoja"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "זמות",
+      "gloss": "pahoja juonia"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "suunnittelee"
+    },
+    {
+      "surface": "לחבל",
+      "gloss": "tuhotakseen"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "nöyrät"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "sanoilla"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "valheellisilla"
+    },
+    {
+      "surface": "ובדבר",
+      "gloss": "ja ... puhuessa"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "köyhän"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "oikeutta"
+    }
+  ],
+  "timestamp": "2026-09-07T00:09:58.598288876Z",
+  "model": "glm-5.3"
+}

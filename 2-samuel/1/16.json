@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 1:16",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja David sanoi hänelle: Veresi ⟨olkoon⟩ sinun pääsi päällä, sillä sinun suusi todisti sinua vastaan sanoen: Minä tapoin ⟨את⟩ Jahven Mashiahin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "Veresi"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "pääsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "suusi"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "todisti"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinua vastaan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Minä"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "tapoin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven Mashiahin"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Mashiahin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-06T23:19:21.734119136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Matsaa syödään ⟨את⟩ seitsemän päivää, eikä hiivallista näy sinulla, eikä hiivaa näy sinulla koko rajoissasi.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "Matsaa"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "syödään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seitsemän päivää"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seitsemän"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "päivää"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "näy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulla"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "hiivallista"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "näy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulla"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "hiivaa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "rajoissasi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:33:37.890945538Z",
+  "model": "glm-5.3"
+}

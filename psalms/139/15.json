@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 139,
+  "translation": "Ei luurunkoni ole sinulta kätketty, kun minut tehtiin salassa, kun minut kirjailtiin maan perukoihin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "ole kätketty"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "luurunkoni"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "sinulta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kun"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "minut tehtiin"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "salassa"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "minut kirjailtiin"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "maan perukoihin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:53:04.892647398Z",
+  "model": "glm-5.3"
+}

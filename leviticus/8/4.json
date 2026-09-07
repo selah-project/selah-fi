@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja Moshe teki niin kuin Jahve oli käskenyt ⟨את⟩ hänet; ja seurakunta kokoontui kokousteltan eteen.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ja teki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oli käskenyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "ja kokoontui"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "seurakunta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…-paikalle"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kokous-"
+    }
+  ],
+  "timestamp": "2026-09-06T21:49:58.213914846Z",
+  "model": "glm-5.3"
+}

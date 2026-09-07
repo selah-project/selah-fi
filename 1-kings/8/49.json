@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-kings 8:49",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "ja kuulit taivaassa, istuimesi asuinsijassa, ⟨את⟩ heidän rukouksensa ja ⟨את⟩ heidän vetoomuksensa, ja teit heidän oikeuden heille;",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "ja kuulit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaassa"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "asuinsijassa"
+    },
+    {
+      "surface": "שבתך",
+      "gloss": "istuimesi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän rukouksensa"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "heidän rukouksensa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "heidän vetoomuksensa"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "heidän vetoomuksensa"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ja teit"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "heidän oikeuden"
+    }
+  ],
+  "timestamp": "2026-09-06T23:36:58.005880553Z",
+  "model": "glm-5.3"
+}

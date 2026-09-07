@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja hän nylkee ⟨את⟩ olah-uhrin (polttouhrin) ja paloittelee ⟨את⟩ sen paloihinsa.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "ja hän nylkee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olah-uhrin"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olah-uhrin (polttouhrin)"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "ja paloittelee"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ sen",
+      "marks": "sen (paloihinsa)"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "paloihinsa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:47:41.377422535Z",
+  "model": "glm-5.3"
+}

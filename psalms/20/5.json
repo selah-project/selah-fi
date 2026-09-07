@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Antakoon ⟨hän⟩ sinulle sydämesi mukaisesti, ja koko sinun neuvosi hän täyttäköön.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "antakoon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "sydämesi mukaisesti"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja koko"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "neuvosi"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "hän täyttäköön"
+    }
+  ],
+  "timestamp": "2026-09-07T01:59:00.575361279Z",
+  "model": "glm-5.3"
+}

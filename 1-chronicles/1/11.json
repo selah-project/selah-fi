@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja Mitsrajim synnytti ⟨את⟩ ludilaiset ja ⟨את⟩ anamilaiset ja ⟨את⟩ lehabilaiset ja ⟨את⟩ naftukhilaiset.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Ja Mitsrajim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ludilaiset"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "ludilaiset"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "anamilaiset"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "anamilaiset"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "lehabilaiset"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "lehabilaiset"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "naftukhilaiset"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "naftukhilaiset"
+    }
+  ],
+  "timestamp": "2026-09-07T05:10:58.948526678Z",
+  "model": "glm-5.3"
+}

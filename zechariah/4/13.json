@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 4:13",
+  "book": "zechariah",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja hän sanoi minulle sanoen: ”Etkö sinä tiedä, mitä nämä ovat?” Ja minä sanoin: ”En, herrani.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Etkö"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "sinä tiedät"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nämä ovat"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ja minä sanoin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "En"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "herrani"
+    }
+  ],
+  "timestamp": "2026-09-07T01:46:12.147732613Z",
+  "model": "glm-5.3"
+}

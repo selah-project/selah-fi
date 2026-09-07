@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Mutta juomien päällikkö ei muistanut ⟨את⟩ Josefia, vaan unohti hänet.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Mutta ei"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "muistanut"
+    },
+    {
+      "surface": "שר",
+      "gloss": "päällikkö"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "juomien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "vaan unohti hänet"
+    }
+  ],
+  "timestamp": "2026-09-06T21:21:42.291072183Z",
+  "model": "glm-5.3"
+}

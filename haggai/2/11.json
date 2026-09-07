@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "haggai 2:11",
+  "book": "haggai",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Näin sanoi Jahve Sebaot: Kysy nyt ⟨את⟩ papeilta Toraa (Toora) sanoen:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Näin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaot"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Kysy"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papeilta"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "papeilta"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Toraa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    }
+  ],
+  "timestamp": "2026-09-07T01:43:35.657749800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "ja ⟨את⟩ serad-vaatteet (palvelusvaatteet) ja ⟨את⟩ pyhät vaatteet pappi Aharonille (Aaron) ja ⟨את⟩ hänen poikiensa vaatteet pappisvirkaan toimimista varten,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "serad-vaatteet"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "vaatteet"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "serad-"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "pyhät vaatteet"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "vaatteet"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pyhät"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharonille"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pappi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen poikiensa vaatteet"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "vaatteet"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "pappisvirkaan toimimista varten"
+    }
+  ],
+  "timestamp": "2026-09-06T21:41:49.701037148Z",
+  "model": "glm-5.3"
+}

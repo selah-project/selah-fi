@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Käteksi löytää kaikki vihollisesi, oikea kätesi löytää sinua vihaavat.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "löytää"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kätesi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "vihollisesi"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "oikea kätesi"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "löytää"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "sinua vihaavat"
+    }
+  ],
+  "timestamp": "2026-09-07T01:56:56.489969832Z",
+  "model": "glm-5.3"
+}

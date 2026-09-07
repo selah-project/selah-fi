@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 28:12",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Kun oikeamieliset riemuitsevat, suuri ⟨on⟩ kunnia, mutta kun jumalattomat nousevat, ihmiset piiloutuvat.",
+  "tokens": [
+    {
+      "surface": "בעלץ",
+      "gloss": "kun riemuitsevat"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "oikeamieliset"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "suuri"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "kunnia"
+    },
+    {
+      "surface": "ובקום",
+      "gloss": "mutta kun nousevat"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jumalattomat"
+    },
+    {
+      "surface": "יחפש",
+      "gloss": "piiloutuvat"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmiset"
+    }
+  ],
+  "timestamp": "2026-09-07T03:18:08.087309334Z",
+  "model": "glm-5.3"
+}

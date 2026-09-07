@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 104,
+  "translation": "joissa linnut pesivät; haikaralle sypressit ⟨ovat⟩ hänen kotinsa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "joissa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "linnut"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "pesivät"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "haikara"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "sypressit"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "hänen kotinsa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:36:35.674600205Z",
+  "model": "glm-5.3"
+}

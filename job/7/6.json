@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 7:6",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Minun päiväni ovat nopeammat kuin sukkula, ja ne loppuvat ilman toivoa.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "minun päiväni"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "ovat nopeammat"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kuin"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "sukkula"
+    },
+    {
+      "surface": "ויכלו",
+      "gloss": "ja ne loppuvat"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "ilman"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "toivoa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:26:20.349930999Z",
+  "model": "glm-5.3"
+}

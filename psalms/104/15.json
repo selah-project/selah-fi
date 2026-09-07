@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 104,
+  "translation": "ja viini, joka ilahduttaa kuolevaisen sydämen, öljy kirkastamaan kasvot öljystä, ja leipä, joka tukee kuolevaisen sydäntä.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "ja viini"
+    },
+    {
+      "surface": "יְשַׂמַּח",
+      "gloss": "ilahduttaa"
+    },
+    {
+      "surface": "לְבַב",
+      "gloss": "sydämen"
+    },
+    {
+      "surface": "אֱנוֹשׁ",
+      "gloss": "kuolevaisen"
+    },
+    {
+      "surface": "לְהַצְהִיל",
+      "gloss": "kirkastamaan"
+    },
+    {
+      "surface": "פָנִים",
+      "gloss": "kasvot"
+    },
+    {
+      "surface": "מִשָּׁמֶן",
+      "gloss": "öljystä"
+    },
+    {
+      "surface": "וְלֶחֶם",
+      "gloss": "ja leipä"
+    },
+    {
+      "surface": "לְבַב",
+      "gloss": "sydämen"
+    },
+    {
+      "surface": "אֱנוֹשׁ",
+      "gloss": "kuolevaisen"
+    },
+    {
+      "surface": "יִסְעָד",
+      "gloss": "tukee"
+    }
+  ],
+  "timestamp": "2026-09-07T02:36:56.188599042Z",
+  "model": "glm-5.3"
+}

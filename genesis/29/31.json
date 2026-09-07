@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 29:31",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja Jahve näki, että Leaa vihattiin, ja hän avasi ⟨את⟩ hänen kohtunsa; mutta Rahel ⟨oli⟩ hedelmätön.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ja näki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "vihattiin"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leaa"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "ja hän avasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen kohtunsa"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "hänen kohtunsa"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "mutta Rahel"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "hedelmätön"
+    }
+  ],
+  "timestamp": "2026-09-06T21:17:02.804315850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 41:4",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 41,
+  "translation": "Ja hän mittasi ⟨את⟩ sen pituuden, kaksikymmentä kyynärää, ja leveyden, kaksikymmentä kyynärää, temppelin eteen; ja hän sanoi minulle: ”Tämä ⟨on⟩ kaikkein pyhin.”",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "ja hän mittasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen pituuden"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "sen pituuden"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kaksikymmentä"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ja leveyden"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kaksikymmentä"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hon"
+    },
+    {
+      "surface": "פני",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "temppelin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhin"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "pyhistä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:16:04.314436795Z",
+  "model": "glm-5.3"
+}

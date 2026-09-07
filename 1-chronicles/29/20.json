@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 29:20",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja David (Daavid) sanoi koko seurakunnalle: Siunatkaa nyt ⟨את⟩ Jahvea, teidän Elohimianne. Ja koko seurakunta siunasi Jahvea, heidän isiensä Elohimia, ja he kumarsivat ja heittivät itsensä maahan Jahven ja kuninkaan eteen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David (Daavid)"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "seurakunnalle"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "siunatkaa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea, teidän Elohimianne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "teidän Elohimianne"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "ja siunasi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "seurakunta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimia"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "heidän isiensä"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "ja kumarsivat"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ja heittivät itsensä maahan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahven eteen"
+    },
+    {
+      "surface": "ולמלך",
+      "gloss": "ja kuninkaan eteen"
+    }
+  ],
+  "timestamp": "2026-09-07T05:28:59.051588828Z",
+  "model": "glm-5.3"
+}

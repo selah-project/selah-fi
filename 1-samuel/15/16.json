@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 15:16",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Ja Shemuel sanoi Shaulille: ”Pysähdy, ja minä ilmoitan sinulle ⟨את⟩ sen, minkä Jahve on puhunut minulle tänä yönä.” Ja hän sanoi hänelle: ”Puhu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulille"
+    },
+    {
+      "surface": "הרף",
+      "gloss": "Pysähdy"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "ja minä ilmoitan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen, minkä Jahve on puhunut"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minkä"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "on puhunut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "tänä yönä"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Puhu"
+    }
+  ],
+  "timestamp": "2026-09-06T23:09:57.682469613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 26:40",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja Belan pojat olivat Ard ja Na'aman: Ardille suku ardilaista, Na'amanille suku na'amanilaista.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ja ... olivat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Belan"
+    },
+    {
+      "surface": "ארד",
+      "gloss": "Ard"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "ja Na'aman"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "suku"
+    },
+    {
+      "surface": "הארדי",
+      "gloss": "ardilaista"
+    },
+    {
+      "surface": "לנעמן",
+      "gloss": "Na'amanille"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "suku"
+    },
+    {
+      "surface": "הנעמי",
+      "gloss": "na'amanilaista"
+    }
+  ],
+  "timestamp": "2026-09-06T22:17:18.018157078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Vääristyneellä sydämellä ei ⟨ole⟩ löytymässä hyvää, ja kielensä kääntäjä lankeaa pahaan.",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "Vääristyneellä"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sydämellä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "⟨ole⟩ löytymässä"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvää"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "ja kääntäjä"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "kielellään"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "lankeaa"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "pahaan"
+    }
+  ],
+  "timestamp": "2026-09-07T03:09:48.146381023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 5:10",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ratsastajat valkoisten aasintammojen selässä, satulapeitteillä istujat ja tietä kulkijat — puhukaa!",
+  "tokens": [
+    {
+      "surface": "רכבי",
+      "gloss": "ratsastajat"
+    },
+    {
+      "surface": "אתנות",
+      "gloss": "aasintammojen"
+    },
+    {
+      "surface": "צחרות",
+      "gloss": "valkoisten"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "istujat"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "satulapeitteiden"
+    },
+    {
+      "surface": "והלכי",
+      "gloss": "ja kulkijat"
+    },
+    {
+      "surface": "על",
+      "gloss": "pitkin"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tietä"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "puhukaa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:19:13.814470454Z",
+  "model": "glm-5.3"
+}

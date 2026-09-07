@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja hän levitti ⟨את⟩ sen auki minun eteeni, ja se ⟨oli⟩ kirjoitettu edestä ja takaa, ja siihen ⟨oli⟩ kirjoitettu valitusvirsiä, huokailua ja ”voi!”-huutoja.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "Ja hän levitti auki"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ sen",
+      "marks": "rulla"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "minun eteeni"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ja se"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "kirjoitettu"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "edestä"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "ja takaa"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "ja kirjoitettu"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "siihen"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "valitusvirsiä"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "ja huokailua"
+    },
+    {
+      "surface": "והי",
+      "gloss": "ja ”voi!”-huutoja"
+    }
+  ],
+  "timestamp": "2026-09-07T00:52:13.797125096Z",
+  "model": "glm-5.3"
+}

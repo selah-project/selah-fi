@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 23:8",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Katso, itään käyn, eikä häntä ole; ja länteen — enkä minä häntä ymmärrä.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "itään (eteen)"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "käyn"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "eikä häntä ole"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "ja länteen (taakse)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "ymmärrä"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänntä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:38:32.387817424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 8:4",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja sinä sanot heille: Näin sanoo Jahve: Kaatuuko mies ja nouseeko hän ylös? Kääntyykö hän palatakseen eikö hän käänny?",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "Ja sinä sanot"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Näin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היפלו",
+      "gloss": "Kaatuuko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja eikö"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "nouse ylös"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Kääntyykö"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "palatakseen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikö"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "käänny"
+    }
+  ],
+  "timestamp": "2026-09-07T00:28:42.368532268Z",
+  "model": "glm-5.3"
+}

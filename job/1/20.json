@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja Ijov nousi ja repi ⟨את⟩ viittansa ja ajoi ⟨את⟩ päänsä ja lankesi maahan ja kumartui.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ja nousi"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijov"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "ja repi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viittansa"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "viittansa"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "ja ajoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "päänsä"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "päänsä"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ja lankesi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ja kumartui"
+    }
+  ],
+  "timestamp": "2026-09-07T03:23:47.198967356Z",
+  "model": "glm-5.3"
+}

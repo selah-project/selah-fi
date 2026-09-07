@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja myös ⟨את⟩ herhilaisen Jahve, Elohimisi, lähettää heidän keskelleen, kunnes jäljellä olevat ja sinulta piiloutuneet häviävät.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ja myös"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "herhilaisen"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "herhilaisen"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "lähettää"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimisi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "heidän keskelleen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "häviävät"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "jäljellä olevat"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "ja piiloutuneet"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "sinulta"
+    }
+  ],
+  "timestamp": "2026-09-06T22:27:41.620615188Z",
+  "model": "glm-5.3"
+}

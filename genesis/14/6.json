@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "ja ⟨את⟩ horilaiset heidän vuorillaan Seirissä, aina El-Paraniin asti, joka ⟨on⟩ erämaassa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "horilaiset"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "horilaiset"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "heidän vuorillaan"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seirissä"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "איל",
+      "gloss": "El-"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paraniin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "erämaassa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:09:08.372034134Z",
+  "model": "glm-5.3"
+}

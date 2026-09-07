@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 21:13",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Sillä sinä käännät heidän hartiansa paetakseen, jousijänteilläsi tähtäät heidän kasvojensa kohdalle.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "panet heidät"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "hartian selkänsä kääntäen"
+    },
+    {
+      "surface": "במיתריך",
+      "gloss": "jousijänteilläsi"
+    },
+    {
+      "surface": "תכונן",
+      "gloss": "tähtäät"
+    },
+    {
+      "surface": "על",
+      "gloss": "kohdalle"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "heidän kasvojensa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:56:49.590603454Z",
+  "model": "glm-5.3"
+}

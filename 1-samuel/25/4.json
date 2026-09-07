@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja David kuuli erämaassa, että Naval keritsi ⟨את⟩ laumansa.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ja kuuli"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "erämaassa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "keritsi"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Naval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laumansa"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "laumansa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:15:25.799789264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja Israelin kuningas sanoi: Voi, sillä Jahve on kutsunut nämä kolme kuningasta antamaan ⟨את⟩ heidät Moabin käteen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Voi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "on kutsunut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "kuningasta"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "näitä"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "antamaan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "heidät"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käteen"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:47:13.876171859Z",
+  "model": "glm-5.3"
+}

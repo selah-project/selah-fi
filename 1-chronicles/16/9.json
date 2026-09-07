@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 16:9",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Laulakaa hänelle, soittakaa hänelle, puhukaa kaikista hänen ihmeistään.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Laulakaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "soittakaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "puhukaa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaikista"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "hänen ihmeistään"
+    }
+  ],
+  "timestamp": "2026-09-07T05:19:25.797413629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja hän tuomitsi ⟨את⟩ Israelia kaksikymmentäkolme vuotta, ja hän kuoli ja haudattiin Shamiriin.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "tuomitsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelia"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kaksikymmentä"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "kuoli"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "haudattiin"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "Shamiriin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:57:14.788277420Z",
+  "model": "glm-5.3"
+}

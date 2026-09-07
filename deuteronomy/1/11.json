@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Jahve, teidän isienne Elohim, lisätköön teihin niin kuin olette tuhat kertaa, ja siunatkoon ⟨את⟩ teidät, niin kuin hän on teille puhunut.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "teidän isienne"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "lisätköön"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "teihin"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "niin kuin olette"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhatta"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kertaa"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ja siunatkoon"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät",
+      "marks": "teidät"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hän on puhunut"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    }
+  ],
+  "timestamp": "2026-09-06T22:22:21.022419783Z",
+  "model": "glm-5.3"
+}

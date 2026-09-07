@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 1:51",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Kun Mishkan lähtee liikkeelle, leviiläiset laskevat ⟨את⟩ sen alas; kun Mishkan leiriytyy, leviiläiset pystyttävät ⟨את⟩ sen; ja ulkopuolinen, joka lähestyy, surmataan.",
+  "tokens": [
+    {
+      "surface": "ובנסע",
+      "gloss": "Kun lähtee liikkeelle"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "יורידו",
+      "gloss": "laskevat alas"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sen",
+      "marks": "sen (asumuksen)"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviiläiset"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "kun leiriytyy"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "יקימו",
+      "gloss": "pystyttävät"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sen",
+      "marks": "sen (asumuksen)"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviiläiset"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "ja ulkopuolinen"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "joka lähestyy"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "surmataan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:02:17.935117150Z",
+  "model": "glm-5.3"
+}

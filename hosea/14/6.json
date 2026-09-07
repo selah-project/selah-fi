@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 14:6",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Minä olen kuin kaste Israelille; hän kukoistaa kuin shoshannan ⟨kukka⟩, ja hän lyö juurensa niin kuin Levinon.",
+  "tokens": [
+    {
+      "surface": "אהיה",
+      "gloss": "minä olen"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "kuin kaste"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israelille"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "hän kukoistaa"
+    },
+    {
+      "surface": "כשושנה",
+      "gloss": "kuin shoshannan ⟨kukka⟩"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ja hän lyö"
+    },
+    {
+      "surface": "שרשיו",
+      "gloss": "juurensa"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "niin kuin Levinon"
+    }
+  ],
+  "timestamp": "2026-09-07T01:23:47.287044552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 12:22",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Sillä Jozavad, Shimeatin poika, ja Jehozavad, Shomerin poika, hänen palvelijansa, löivät häntä, ja hän kuoli; ja he hautasivat ⟨את⟩ hänet hänen isiensä kanssa Davidin kaupungissa, ja Amatsja, hänen poikansa, hallitsi hänen sijaansa.",
+  "tokens": [
+    {
+      "surface": "ויוזבד",
+      "gloss": "Sillä Jozavad"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "Shimeatin"
+    },
+    {
+      "surface": "ויהוזבד",
+      "gloss": "ja Jehozavad"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Shomerin"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "hänen palvelijansa"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "löivät häntä"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ja hän kuoli"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ja he hautasivat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "hänen isiensä"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kaupungissa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ja hallitsi"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Amatsja"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "hänen sijaansa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:52:42.402559580Z",
+  "model": "glm-5.3"
+}

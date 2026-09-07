@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 38,
+  "translation": "Ja hän tuli taas raskaaksi ja synnytti pojan, ja hän kutsui ⟨את⟩ hänen nimensä Onan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "Ja hän tuli raskaaksi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "taas"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ja synnytti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ja hän kutsui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen nimensä"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hänen nimensä"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:22:18.264262035Z",
+  "model": "glm-5.3"
+}

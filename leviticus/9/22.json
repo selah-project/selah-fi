@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 9:22",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja kohotti Aharon ⟨את⟩ kätensä kansan suuntaan ja siunasi ⟨את⟩ heidät, ja hän astui alas tekemästä syntiuhria ja polttouhria ja rauhanuhreja.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Ja kohotti"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kätensä"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kätensä"
+    },
+    {
+      "surface": "אל",
+      "gloss": "suuntaan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "ויברכם",
+      "gloss": "ja siunasi heidät"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ja hän astui alas"
+    },
+    {
+      "surface": "מעשת",
+      "gloss": "tekemästä"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syntiuhria"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "ja polttouhria"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "ja rauhanuhreja"
+    }
+  ],
+  "timestamp": "2026-09-06T21:50:58.133850083Z",
+  "model": "glm-5.3"
+}

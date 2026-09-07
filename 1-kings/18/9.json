@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja hän sanoi: Mitä olen rikkonut, että sinä annat ⟨את⟩ palvelijasi Ahavin (Ahab) käteen tappaakseni minut?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mitä"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "olen rikkonut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "annat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palvelijasi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "palvelijasi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käteen"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahavin"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "tappaakseni minut"
+    }
+  ],
+  "timestamp": "2026-09-06T23:42:51.749203631Z",
+  "model": "glm-5.3"
+}

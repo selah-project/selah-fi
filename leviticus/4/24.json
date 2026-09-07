@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 4:24",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja hän laskee kätensä pukin päälle ja teurastaa ⟨את⟩ sen siinä paikassa, jossa polttouhri teurastetaan ⟨את⟩ Jahven edessä; se ⟨on⟩ hattat.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "ja hän laskee"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kätensä"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pään"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "pukin"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ja teurastaa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sen"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "siinä paikassa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jossa"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "teurastetaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "polttouhrin"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "polttouhrin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "hattat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-09-06T21:48:35.981489501Z",
+  "model": "glm-5.3"
+}

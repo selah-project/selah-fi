@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Jos murtautumisesta varas tavataan ja hänet lyödään niin että hän kuolee, ei hänelle ⟨ole⟩ verivelkaa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jos"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "murtautumisesta"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "tavataan"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "varas"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "ja hänet lyödään"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ja hän kuolee"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ⟨ole⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "verivelkaa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:38:25.931641181Z",
+  "model": "glm-5.3"
+}

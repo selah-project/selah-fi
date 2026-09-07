@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Ja he ottivat ⟨את⟩ heidän luunsa ja hautasivat ne tamariskin (hälytamarkin) alle Jabeshissa (Jabes), ja he paastosivat seitsemän päivää.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ja he ottivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän luunsa"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "heidän luunsa"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ja hautasivat"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alle"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "tamariskin"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "Jabeshissa"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "ja he paastosivat"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seitsemän"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivää"
+    }
+  ],
+  "timestamp": "2026-09-06T23:18:34.848639361Z",
+  "model": "glm-5.3"
+}

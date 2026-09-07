@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja Reajah, Shovalin poika, synnytti ⟨את⟩ Jahatin, ja Jahat synnytti ⟨את⟩ Achumain ja ⟨את⟩ Lahadin; nämä ⟨ovat⟩ Tsoratin suvut.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "Ja Reajah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Shovalin"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahatin"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Jahatin"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "ja Jahat"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achumain"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Achumain"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Lahadin"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Lahadin"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "suvut"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "Tsoratin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:13:44.459180284Z",
+  "model": "glm-5.3"
+}

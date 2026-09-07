@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 5:7",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja nämä nimitetyt elättivät ⟨את⟩ kuningas Shelomoa ja ⟨את⟩ kaikkia, jotka tulivat kuningas Shelomon pöytään, kukin kuukautensa mukaan; ei mitään puuttunut.",
+  "tokens": [
+    {
+      "surface": "וכלכלו",
+      "gloss": "Ja elättivät"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "nimitetyt"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuningas Shelomoa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikkia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkia"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "jotka tulivat"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "pöytään"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kukin"
+    },
+    {
+      "surface": "חדשו",
+      "gloss": "kuukautensa mukaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יעדרו",
+      "gloss": "puuttunut"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mitään"
+    }
+  ],
+  "timestamp": "2026-09-06T23:35:20.888021012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Ja te tiedätte, että kaikella voimallani palvelin ⟨את⟩ isäänne.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Ja te"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "tiedätte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaikella"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "voimallani"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "palvelin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isäänne"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "isäänne"
+    }
+  ],
+  "timestamp": "2026-09-06T21:18:43.658229242Z",
+  "model": "glm-5.3"
+}

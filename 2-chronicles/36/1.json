@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 36,
+  "translation": "Ja maan kansa otti ⟨את⟩ Yehoahazin, Yoshiyahun pojan, ja asetti hänet kuninkaaksi isänsä sijaan Jerushalajimissa (Jerusalem).",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ja otti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoahazin"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyahu"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "ja asetti hänet kuninkaaksi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sijaan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isänsä"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerushalajimissa"
+    }
+  ],
+  "timestamp": "2026-09-07T05:55:43.785821194Z",
+  "model": "glm-5.3"
+}

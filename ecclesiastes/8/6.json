@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Sillä jokaiselle toiveelle ⟨on⟩ aika ja tuomio, sillä ihmisen pahuus on suuri hänen päällään.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "jokaiselle"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "toiveelle"
+    },
+    {
+      "surface": "יש",
+      "gloss": "on"
+    },
+    {
+      "surface": "עת",
+      "gloss": "aika"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ja tuomio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "pahuus"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihmisen"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "suuri"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hänen päällään"
+    }
+  ],
+  "timestamp": "2026-09-07T04:38:57.591456576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 9:12",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja Jahve sanoi: koska he hylkäsivät ⟨את⟩ Torani (Toora), jonka olin pannut heidän eteensä, eivätkä kuulleet ääntäni, eivätkä vaeltaneet siinä;",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "koska"
+    },
+    {
+      "surface": "עזבם",
+      "gloss": "he hylkäsivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torani"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Torani (Toora)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "olin pannut"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "heidän eteensä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kuulleet"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "ääntäni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "vaeltaneet"
+    },
+    {
+      "surface": "בה",
+      "gloss": "siinä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:28:17.802977999Z",
+  "model": "glm-5.3"
+}

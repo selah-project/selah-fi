@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-samuel 19:42",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja katso, kaikki Israelin miehet tulivat kuninkaan luo, ja he sanoivat kuninkaalle: Miksi varastivat meidän veljemme, Juudan miehet, sinut, ja veivät yli ⟨את⟩ kuninkaan ja ⟨את⟩ hänen talonsa, ⟨את⟩ Jordanin, ja kaikki Davidin miehet hänen kanssaan?",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Ja katso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "באים",
+      "gloss": "tulivat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ja sanoivat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuninkaalle"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaalle"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Miksi"
+    },
+    {
+      "surface": "גנבוך",
+      "gloss": "varastivat sinut"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "veljemme"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juudan"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "ja veivät yli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuninkaan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen talonsa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hänen talonsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordanin"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hänen kanssaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:30:29.470308489Z",
+  "model": "glm-5.3"
+}

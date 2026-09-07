@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 10:20",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Mutta Jahve lujitti ⟨את⟩ Paron sydämen, eikä hän päästänyt ⟨את⟩ Israelin ⟨ poikia ⟩ lähtemään.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Mutta lujisti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paron sydämen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sydämen"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "hän päästänyt lähtemään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin ⟨ poikia ⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨ poikia ⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:32:25.963909369Z",
+  "model": "glm-5.3"
+}

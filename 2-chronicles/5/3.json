@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja kokoontuivat kuninkaan luo kaikki Israelin miehet juhlana aikana — se ⟨on⟩ seitsemäs kuukausi.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "Ja kokoontuivat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "juhlana aikana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "kuukausi"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "seitsemäs"
+    }
+  ],
+  "timestamp": "2026-09-07T05:32:08.244267867Z",
+  "model": "glm-5.3"
+}

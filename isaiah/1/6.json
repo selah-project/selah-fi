@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 1:6",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Pohjasta päähän siinä ei ole tervettä kohtaa: haava ja ruhje ja tuore ruhjomanisku; niitä ei ole painettu eikä sidottu eikä pehmennetty öljyllä.",
+  "tokens": [
+    {
+      "surface": "מכף",
+      "gloss": "Pohjasta"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "jalan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "päähän"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "asti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siinä"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "tervettä kohtaa"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "haava"
+    },
+    {
+      "surface": "וחבורה",
+      "gloss": "ja ruhje"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "ja isku"
+    },
+    {
+      "surface": "טריה",
+      "gloss": "tuore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "ole painettu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "sidottu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "רככה",
+      "gloss": "pehmennetty"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "öljyllä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:00:44.858877781Z",
+  "model": "glm-5.3"
+}

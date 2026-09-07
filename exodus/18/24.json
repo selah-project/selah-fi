@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 18:24",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja Moshe (Mooses) kuuli appensa ääntä ja teki kaiken, mitä hän sanoi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Ja kuuli"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mooses)"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ääntä"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "appensa"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ja teki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hän sanoi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:36:12.275351290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Onko niin kuin lyöjänsä lyömistä — hän on lyönyt häntä? Vai niin kuin surmattujensa surmaamista on surmattu?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "Onko niin kuin lyömistä"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "hänen lyöjänsä"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "hän on lyönyt häntä"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Vai"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "niin kuin surmaamista"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "hänen surmattunsa"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "on surmattu"
+    }
+  ],
+  "timestamp": "2026-09-07T00:08:03.349966714Z",
+  "model": "glm-5.3"
+}

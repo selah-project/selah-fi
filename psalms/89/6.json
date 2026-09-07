@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 89,
+  "translation": "Ja taivaat ylistävät sinun ihmeitäsi, Jahve, myös sinun uskollisuutesi pyhien joukossa.",
+  "tokens": [
+    {
+      "surface": "ויודו",
+      "gloss": "Ja taivaat ylistävät"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "taivaat"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "sinun ihmeitäsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אף",
+      "gloss": "myös"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "sinun uskollisuutesi"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "joukossa"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "pyhien"
+    }
+  ],
+  "timestamp": "2026-09-07T02:29:05.938115641Z",
+  "model": "glm-5.3"
+}

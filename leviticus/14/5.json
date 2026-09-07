@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja kohen käskee, ja ⟨את⟩ toinen linnuista teurastetaan saviruukkuun, elävän veden ylle.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "ja käskee"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ja teurastetaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toisen linnuista"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "linnun"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "toinen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saviruukkuun"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ruukkuun"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "savi-"
+    },
+    {
+      "surface": "על",
+      "gloss": "ylle"
+    },
+    {
+      "surface": "מים",
+      "gloss": "veden"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "elävän"
+    }
+  ],
+  "timestamp": "2026-09-06T21:54:01.260759596Z",
+  "model": "glm-5.3"
+}

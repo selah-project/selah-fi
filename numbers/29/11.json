@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 29:11",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "yksi vuohenpukki syntiuhriksi, paitsi kippurin syntiuhri, ja jatkuva polttouhri ja sen jauhouhri ja niiden juomauhrit.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "pukki"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "vuohen"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "syntiuhriksi"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "paitsi"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "syntiuhri"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "kippurin"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "ja polttouhri"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "jatkuva"
+    },
+    {
+      "surface": "ומנחתה",
+      "gloss": "ja sen jauhouhri"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "ja niiden juomauhrit"
+    }
+  ],
+  "timestamp": "2026-09-06T22:17:11.636249736Z",
+  "model": "glm-5.3"
+}

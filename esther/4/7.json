@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja Mordekai kertoi hänelle ⟨את⟩ kaiken, mitä hänelle oli tapahtunut, ja ⟨את⟩ rahasumman, jonka Haman oli sanonut punnittavaksi kuninkaan aarrekammioihin juutalaisten kohdalta, tuhotakseen heidät.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ja kertoi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "hänelle oli tapahtunut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "rahasumman"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "rahasumman"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "hopean"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oli sanonut"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "punnittavaksi"
+    },
+    {
+      "surface": "על",
+      "gloss": "kammioihin"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "aarrekammioihin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "juutalaisten kohdalta"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "tuhotakseen heidät"
+    }
+  ],
+  "timestamp": "2026-09-07T04:42:34.741100109Z",
+  "model": "glm-5.3"
+}

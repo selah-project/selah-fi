@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 3:8",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja sinä käske ⟨את⟩ pappeja, liiton arkkia kantavia, sanoen: Kun tulette Jordanin vesien reunaan asti, Jordanissa te seisotte.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ja sinä"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "käske"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pappeja"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "pappeja"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "kantavia"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkkia"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "liiton"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "כבאכם",
+      "gloss": "Kun tulette"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "reunaan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vesien"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanin"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "Jordanissa"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "te seisotte"
+    }
+  ],
+  "timestamp": "2026-09-06T22:40:09.887049749Z",
+  "model": "glm-5.3"
+}

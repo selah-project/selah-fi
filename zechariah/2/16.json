@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Jahve perii ⟨את⟩ Jehudan (Juudan) osakseen pyhän maan päällä ja valitsee vielä Jerushalajimin (Jerusalemin).",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "Ja perii"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehudan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "osakseen"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "maan"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pyhän"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "ja valitsee"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vielä"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerushalajimin"
+    }
+  ],
+  "timestamp": "2026-09-07T01:44:45.133563431Z",
+  "model": "glm-5.3"
+}

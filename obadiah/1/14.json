@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "obadiah 1:14",
+  "book": "obadiah",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Älä seiso solan suulla hävittääksesi ⟨את⟩ hänen pakenevaisensa, äläkä luovuta hänen eloonjääneitään ahdistuksen päivänä.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "seiso"
+    },
+    {
+      "surface": "על",
+      "gloss": "-lla"
+    },
+    {
+      "surface": "הפרק",
+      "gloss": "solan suulla"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "hävittääksesi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen pakenevaisensa"
+    },
+    {
+      "surface": "פליטיו",
+      "gloss": "hänen pakenevaisensa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "äläkä"
+    },
+    {
+      "surface": "תסגר",
+      "gloss": "luovuta"
+    },
+    {
+      "surface": "שרידיו",
+      "gloss": "hänen eloonjääneitään"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ahdistuksen"
+    }
+  ],
+  "timestamp": "2026-09-07T01:30:57.036189451Z",
+  "model": "glm-5.3"
+}

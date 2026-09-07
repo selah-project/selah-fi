@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 105,
+  "translation": "Hän muutti ⟨את⟩ vetensä vereksi, ja hän kuolitti ⟨את⟩ kalansa.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "muutti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vetensä"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "vetensä"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "vereeksi"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ja hän kuolitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalansa"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "kalansa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:38:54.148273997Z",
+  "model": "glm-5.3"
+}

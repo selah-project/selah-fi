@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Älä ole viisas omien silmiesi mukaan; pelkää ⟨את⟩ Jahvea, ja käänny pois pahasta.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ole"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "viisas"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "omien silmiesi mukaan"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "pelkää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "ja käänny pois"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "pahasta"
+    }
+  ],
+  "timestamp": "2026-09-07T02:59:16.500514952Z",
+  "model": "glm-5.3"
+}

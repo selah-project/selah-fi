@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja Jahve sanoi Kajinille: Miksi sinä olet vihastunut, ja miksi ovat kasvosi lanneet?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…lle"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajinille"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miksi"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "olet vihastunut"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ja miksi"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "lanneet"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "kasvosi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:04:17.492929445Z",
+  "model": "glm-5.3"
+}

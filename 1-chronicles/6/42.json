@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 6:42",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja Aharonin (Aaron) pojille he antoivat ⟨את⟩ turvakaupungit: ⟨את⟩ Hevronin (Hebron), ⟨את⟩ Livnan ja ⟨את⟩ sen laitumet, ⟨את⟩ Jattirin ja ⟨את⟩ Eshtemoan ja ⟨את⟩ sen laitumet.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Ja pojille"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonin (Aaron)"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "antoivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "turvakaupungit"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kaupungit"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "turva-"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevronin"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevronin (Hebron)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Livnan"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livnan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen laitumet"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "sen laitumet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Jattirin"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Jattirin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Eshtemoan"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen laitumet"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "sen laitumet"
+    }
+  ],
+  "timestamp": "2026-09-07T05:15:46.967823164Z",
+  "model": "glm-5.3"
+}

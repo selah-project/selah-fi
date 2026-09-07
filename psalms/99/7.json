@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 99:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 99,
+  "translation": "Pilvipilarissa hän puhui heille; he pitivät hänen todistuksensa ja säädöksen, jonka hän antoi heille.",
+  "tokens": [
+    {
+      "surface": "בעמוד",
+      "gloss": "pilarissa"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "pilvi"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "hän puhui"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "he pitivät"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "hänen todistuksensa"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "ja säädöksen"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "hän antoi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "heille"
+    }
+  ],
+  "timestamp": "2026-09-07T02:37:20.264203348Z",
+  "model": "glm-5.3"
+}

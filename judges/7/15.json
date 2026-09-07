@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 7:15",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja tapahtui, kun Gidon kuuli ⟨את⟩ unen kertomuksen ja ⟨את⟩ sen selityksen, että hän kumartui maahan; ja hän palasi Israelin leiriin ja sanoi: ”Nouskaa, sillä Jahve on antanut käsiinne ⟨את⟩ Midjanin leirin.”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "kun kuuli"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gidon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unen kertomuksen"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "kertomuksen"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "unen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen selityksen"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "sen selityksen"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "hän kumartui maahan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja hän palasi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "leiriin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "Nouskaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "on antanut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "käsiinne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midjanin leirin"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "leirin"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjanin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:58:04.053302568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja Shelach eli kolmekymmentä vuotta, ja hän sai ⟨את⟩ Everin (Eber).",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "Ja Shelach"
+    },
+    {
+      "surface": "חי",
+      "gloss": "eli"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "kolmekymmentä"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ja hän sai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Everin"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Everin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:01.363769409Z",
+  "model": "glm-5.3"
+}

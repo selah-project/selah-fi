@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 68,
+  "translation": "Elohim asettaa yksinäiset kotiin, hän vie vangitut ulos onneen; vain uppiniskaiset asuvat paljaalla erämaalla.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "asettaa asumaan"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "yksinäiset"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "kotiin"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "vie ulos"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "vangitut"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "onneen"
+    },
+    {
+      "surface": "אך",
+      "gloss": "vain"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "uppiniskaiset"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "asuvat"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "paljaalla erämaalla"
+    }
+  ],
+  "timestamp": "2026-09-07T02:19:24.908415593Z",
+  "model": "glm-5.3"
+}

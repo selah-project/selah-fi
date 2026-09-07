@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 89,
+  "translation": "Minä leikkasin liiton valitulle, minä vannoin valani Davidille, palveljelleni.",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "Minä leikkasin"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "liiton"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "valitulle"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "minä vannoin valani"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidille"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "palveljelleni"
+    }
+  ],
+  "timestamp": "2026-09-07T02:29:42.803290530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 28:22",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Jahve lööi sinua keuhkotaudilla ja kuumeella ja tulehduksella ja polttavalla helteellä ja miekalla ja hävitystaudilla ja ruostehallalla, ja ne vainoavat sinua, kunnes sinut tuhoutuu.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "lööi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בשחפת",
+      "gloss": "keuhkotaudilla"
+    },
+    {
+      "surface": "ובקדחת",
+      "gloss": "ja kuumeella"
+    },
+    {
+      "surface": "ובדלקת",
+      "gloss": "ja tulehduksella"
+    },
+    {
+      "surface": "ובחרחר",
+      "gloss": "ja polttavalla helteellä"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "ja miekalla"
+    },
+    {
+      "surface": "ובשדפון",
+      "gloss": "ja hävitystaudilla"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "ja ruostehallalla"
+    },
+    {
+      "surface": "ורדפוך",
+      "gloss": "ja ne vainoivat sinua"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "sinut tuhoutuu"
+    }
+  ],
+  "timestamp": "2026-09-06T22:36:26.111377385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 36:16",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 36,
+  "translation": "päämies Korah, päämies Gatam, päämies Amalek; nämä olivat Elifazin päämiehet Edomin maassa; nämä olivat Adan pojat.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "päämies"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "päämies"
+    },
+    {
+      "surface": "געתם",
+      "gloss": "Gatam"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "päämies"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "päämiehet"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifazin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomin"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:11:40.333941073Z",
+  "model": "glm-5.3"
+}

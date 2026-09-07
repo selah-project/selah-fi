@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja hän jatkoi ⟨את⟩ veljensä ⟨את⟩ Hebelin (Abelin) synnyttämistä. Ja Hebel ⟨oli⟩ lammaskarjan paimen, ja Kain ⟨oli⟩ maan viljelijä.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "Ja hän jatkoi"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "synnyttämään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veljensä"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "veljensä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebelin"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebelin (Abelin)"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "paimen"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "lammaskarjaa"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "ja Kain"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "viljelijä"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "maata"
+    }
+  ],
+  "timestamp": "2026-09-06T21:05:33.412601899Z",
+  "model": "glm-5.3"
+}

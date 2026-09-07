@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Ja hän otti heidät ja sai heidät kulkemaan ⟨את⟩ purojen yli, ja hän sai kulkemaan yli ⟨את⟩ kaiken, mitä hänellä oli.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "Ja hän otti heidät"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "ja sai heidät kulkemaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "purojen"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "purojen"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ja hän sai kulkemaan yli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken, mitä hänellä oli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänellä oli"
+    }
+  ],
+  "timestamp": "2026-09-06T21:17:56.392792046Z",
+  "model": "glm-5.3"
+}

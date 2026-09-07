@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Älä olko kiireissään hengessäsi vihastumaan, sillä viha tyhmien poveen asettuu lepoon.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "olko kiireissään"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "hengessäsi"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "vihastumaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "viha"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "poveen"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "tyhmien"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "asettuu lepoon"
+    }
+  ],
+  "timestamp": "2026-09-07T04:37:38.396634922Z",
+  "model": "glm-5.3"
+}

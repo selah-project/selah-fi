@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Olen nähnyt orjia hevosten päällä ja päämiehiä kulkemassa kuin orjat maan päällä.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Olen nähnyt"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "orjia"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "hevosten"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "ja päämiehiä"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "kulkemassa"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "kuin orjat"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:38:17.153131085Z",
+  "model": "glm-5.3"
+}

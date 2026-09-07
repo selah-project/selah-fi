@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 45:20",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 45,
+  "translation": "Älköön teidän silmänne säälikö tavaroitanne, sillä koko Mitsrajimin maan hyvyys on teillä.",
+  "tokens": [
+    {
+      "surface": "ועינכם",
+      "gloss": "teidän silmänne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Älköön"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "säälikö"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "כליכם",
+      "gloss": "tavaroitanne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvyys"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on teillä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-06T21:26:42.789340693Z",
+  "model": "glm-5.3"
+}

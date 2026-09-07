@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 11:12",
+  "book": "daniel",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja kun joukko on nostettu, hänen sydämensä ylpeilee, ja hän kaataa kymmeniätuhansia, mutta ei ⟨sitä⟩ vahvistu.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "Ja nostettu"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "joukko"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "ylpeilee"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "hänen sydämensä"
+    },
+    {
+      "surface": "והפיל",
+      "gloss": "ja kaataa"
+    },
+    {
+      "surface": "רבאות",
+      "gloss": "kymmeniätuhansia"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mutta ei"
+    },
+    {
+      "surface": "יעוז",
+      "gloss": "vahvistu"
+    }
+  ],
+  "timestamp": "2026-09-07T04:53:49.908008904Z",
+  "model": "glm-5.3"
+}

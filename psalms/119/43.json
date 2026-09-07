@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 119:43",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Älä riistä suustani totuuden sanaa ylenmäärin, sillä sinun oikeuttasi minä odotan.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ja älä"
+    },
+    {
+      "surface": "תצל",
+      "gloss": "riistä"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "suustani"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sana"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "totuuden"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ylenmäärin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "למשפטך",
+      "gloss": "sinun oikeuttasi"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "minä odotan"
+    }
+  ],
+  "timestamp": "2026-09-07T02:45:04.259559127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "ja annoin sinulle ⟨את⟩ herrasi huoneen ja ⟨את⟩ herrasi vaimot syliisi, ja annoin sinulle ⟨את⟩ Israelin ja Jehudan (Juudan) huoneen; ja jos ⟨se olisi ollut⟩ vähän, olisin lisännyt sinulle vielä tätä ja tuota.”",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ja annoin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "herrasi huoneen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "herrasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "herrasi vaimot"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "vaimot"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "herrasi"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "syliisi"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ja annoin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin ja Jehudan huoneen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ja Jehudan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ja jos"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "vähän"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "ja olisin lisännyt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "tätä"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "ja tuota"
+    }
+  ],
+  "timestamp": "2026-09-06T23:24:03.622369474Z",
+  "model": "glm-5.3"
+}

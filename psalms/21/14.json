@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 21:14",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Kohoa, Jahve, voimassasi! Me laulamme ja ylistämme sinun väkevyyttäsi.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Kohoa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "voimassasi"
+    },
+    {
+      "surface": "נשירה",
+      "gloss": "me laulamme"
+    },
+    {
+      "surface": "ונזמרה",
+      "gloss": "ja ylistämme"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "sinun väkevyyttäsi"
+    }
+  ],
+  "timestamp": "2026-09-07T01:56:49.591636770Z",
+  "model": "glm-5.3"
+}

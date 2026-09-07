@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 43,
+  "translation": "Ja hän tulee ja lyö ⟨את⟩ Mitsrajimin (Egyptin) maan: jotka kuolemaan, kuolemaan; ja jotka vankeuteen, vankeuteen; ja jotka miekkaan, miekkaan.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "Ja hän tulee"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "ja lyö"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajimin maan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "למות",
+      "gloss": "kuolemaan"
+    },
+    {
+      "surface": "למות",
+      "gloss": "kuolemaan"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ja jotka"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "vankeuteen"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "vankeuteen"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ja jotka"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "miekkaan"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "miekkaan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:46:05.637712627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja nyt, vanno minulle Jahven kautta: ettet hävitä ⟨את⟩ siementäni minun jälkeenni, äläkä tuhoa ⟨את⟩ nimeäni isäni talosta.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ja nyt"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "vanno"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahven kautta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ettet"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "hävitä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siementäni"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "siementäni"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "minun jälkeenni"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "äläkä"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "tuhoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nimeäni"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "nimeäni"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "talosta"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "isäni"
+    }
+  ],
+  "timestamp": "2026-09-06T23:13:48.863168948Z",
+  "model": "glm-5.3"
+}

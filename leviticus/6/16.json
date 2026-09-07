@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja kaikkien kohenein (pappien) mincha ⟨on⟩ kokonaan savutettava; sitä ei syötä.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ja kaikki"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohenein (pappien)"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "kokonaan"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "syötävä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:49:19.239058885Z",
+  "model": "glm-5.3"
+}

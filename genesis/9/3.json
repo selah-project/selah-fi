@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Kaikki liikkuva, joka elää, olkoon teille ruoaksi; kuten vihreän ruohon olen antanut teille ⟨את⟩ kaiken.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kaikki"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "liikkuva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "חי",
+      "gloss": "elää"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olkoon"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "ruoaksi"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "kuten vihreän"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ruohon"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "olen antanut"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    }
+  ],
+  "timestamp": "2026-09-06T21:07:20.789462656Z",
+  "model": "glm-5.3"
+}

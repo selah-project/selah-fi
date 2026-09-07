@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "isaiah 10:32",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Vielä tänä päivänä ⟨hän⟩ pysähtyy Novissa; ⟨hän⟩ heiluttaa kättään Beit-Tsijonin vuorta, Jerushalajimin kukkulaa vastaan.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "vielä"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tänä päivänä"
+    },
+    {
+      "surface": "בנב",
+      "gloss": "Novissa"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "pysähtyä"
+    },
+    {
+      "surface": "ינפף",
+      "gloss": "heiluttaa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kättään"
+    },
+    {
+      "surface": "הר",
+      "gloss": "vuorta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijonin"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "kukkula"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimin"
+    }
+  ],
+  "timestamp": "2026-09-07T00:04:33.160570111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 130,
+  "ref": "psalms 119:130",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Sinun sanojesi avautuminen valaisee, se antaa ymmärryksen yksinkertaisille.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "avautuminen"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "sinun sanojesi"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "valaisee"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "antaa ymmärryksen"
+    },
+    {
+      "surface": "פתיים",
+      "gloss": "yksinkertaisille"
+    }
+  ],
+  "timestamp": "2026-09-07T02:47:27.799590869Z",
+  "model": "glm-5.3"
+}

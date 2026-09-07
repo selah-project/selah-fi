@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Osa osan tavoin he syövät — paitsi ⟨se, mikä tulee⟩ hänen myynnistään — isien perhekunnittain.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "Osa"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "osan tavoin"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "he syövät"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "paitsi"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "hänen myynnistään"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨se, mikä tulee⟩"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "isien perhekunnittain"
+    }
+  ],
+  "timestamp": "2026-09-06T22:31:42.069165699Z",
+  "model": "glm-5.3"
+}

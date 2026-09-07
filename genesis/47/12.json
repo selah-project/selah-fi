@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 47,
+  "translation": "Ja Josef elätti ⟨את⟩ isänsä ja ⟨את⟩ veljensä ja ⟨את⟩ koko isänsä talon leivällä, pienten lasten suun mukaan.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "ja elätti"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isänsä"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isänsä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "veljensä"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "veljensä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "koko isänsä talon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "בית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isänsä"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leivällä"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "suun mukaan"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "pienten lasten"
+    }
+  ],
+  "timestamp": "2026-09-06T21:26:22.618360417Z",
+  "model": "glm-5.3"
+}

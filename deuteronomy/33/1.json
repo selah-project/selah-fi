@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Ja tämä on se siunaus, jolla Moshe (Mooses), Elohimin mies, siunasi ⟨את⟩ Israelin (Israel) pojat ennen kuolemaansa.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Ja tämä"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "siunaus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jolla"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "siunasi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin pojat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ennen"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "kuolemaansa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:38:00.257572678Z",
+  "model": "glm-5.3"
+}

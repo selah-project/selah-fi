@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Jehoshua (Joosua) nousi aikaisin aamulla, ja kohenit (papit) kantivat ⟨את⟩ Jahven arkki (aron).",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "nousi aikaisin"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamulla"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ja kantoivat"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohenit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven arkki"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-07T04:15:21.066295941Z",
+  "model": "glm-5.3"
+}

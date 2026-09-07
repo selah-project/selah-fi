@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 28:41",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Poikia ja tyttäriä sinä synnytät, eivätkä ne ole sinulle, sillä ne lähtevät vankeuteen.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "poikia"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ja tyttäriä"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "synnytät"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ole"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "lähtevät"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "vankeuteen"
+    }
+  ],
+  "timestamp": "2026-09-06T22:35:37.981158055Z",
+  "model": "glm-5.3"
+}

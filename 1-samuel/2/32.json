@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 2:32",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja sinä näet ahdistusta asuinpaikassani, kaikessa siinä hyvässä, jonka hän tekee ⟨את⟩ Israelille; eikä sinun huoneessasi ole vanhusta kaikkina päivinä.",
+  "tokens": [
+    {
+      "surface": "והבטת",
+      "gloss": "ja sinä näet"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ahdistusta"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "asuinpaikassani"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaikessa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "siinä"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "hyvässä, jonka hän tekee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelille"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelille"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ole"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "vanhus"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "sinun huoneessasi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkina"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "päivinä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:04:30.418418323Z",
+  "model": "glm-5.3"
+}

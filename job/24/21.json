@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 24:21",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Hän paimentaa hedelmätöntä, joka ei synnytä, ja leskelle hän ei tee hyvää.",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "paimentaa"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "hedelmätöntä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "synnytä"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "ja leskelle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "tee hyvää"
+    }
+  ],
+  "timestamp": "2026-09-07T03:39:42.749986921Z",
+  "model": "glm-5.3"
+}

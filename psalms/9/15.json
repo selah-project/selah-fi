@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "jotta voisin kertoa kaikki ylistyksesi Tsijonin (Siionin) tyttären porteissa, ilosta sinun pelastuksestasi.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "jotta"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "voisin kertoa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "תהלתיך",
+      "gloss": "ylistyksesi"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "porteissa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tyttären"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijonin"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "iloitsen"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "sinun pelastuksestasi"
+    }
+  ],
+  "timestamp": "2026-09-07T01:55:32.134984368Z",
+  "model": "glm-5.3"
+}

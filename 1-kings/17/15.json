@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 17:15",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja hän meni ja teki Elian sanan mukaan; ja hän söi, hän ja tämä ja hänen taloutensa, päivät.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "Ja hän meni"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "ja teki"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sanan mukaan"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elian"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ja hän söi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ja tämä"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "ja hänen taloutensa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivät"
+    }
+  ],
+  "timestamp": "2026-09-06T23:41:37.432518785Z",
+  "model": "glm-5.3"
+}

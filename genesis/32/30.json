@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Ja Ja'akov kysyi ja sanoi: Kerro nyt nimesi. Ja hän sanoi: miksi tämä — sinä kysyt nimeäni? Ja hän siunasi ⟨את⟩ hänet siellä.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Ja kysyi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Kerro"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nimesi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miksi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "sinä kysyt"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "nimeäni"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ja hän siunasi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hänet"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:18:55.762965817Z",
+  "model": "glm-5.3"
+}

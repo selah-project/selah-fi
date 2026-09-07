@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 11:5",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Muistamme ⟨את⟩ kalan, jota söimme Mitsrajimissa (Egyptissä) ilmaiseksi: ⟨את⟩ kurkut ja ⟨את⟩ melonit ja ⟨את⟩ purjot ja ⟨את⟩ sipulit ja ⟨את⟩ valkosipulit.",
+  "tokens": [
+    {
+      "surface": "זכרנו",
+      "gloss": "Muistamme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalan"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "kalan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jota"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "söimme"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrajimissa"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ilmaiseksi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurkut"
+    },
+    {
+      "surface": "הקשאים",
+      "gloss": "kurkut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "melonit"
+    },
+    {
+      "surface": "האבטחים",
+      "gloss": "melonit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "purjot"
+    },
+    {
+      "surface": "החציר",
+      "gloss": "purjot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sipulit"
+    },
+    {
+      "surface": "הבצלים",
+      "gloss": "sipulit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "valkosipulit"
+    },
+    {
+      "surface": "השומים",
+      "gloss": "valkosipulit"
+    }
+  ],
+  "timestamp": "2026-09-06T22:07:34.974576978Z",
+  "model": "glm-5.3"
+}

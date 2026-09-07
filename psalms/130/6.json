@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 130,
+  "translation": "Nefeshini ⟨odottaa⟩ Adonaita, enemmän kuin vartijat aamua vartioiden, aamua vartioiden.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshini"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonaita"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "kuin vartijat"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "aamua"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "vartioiden"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "aamua"
+    }
+  ],
+  "timestamp": "2026-09-07T02:50:01.161795454Z",
+  "model": "glm-5.3"
+}

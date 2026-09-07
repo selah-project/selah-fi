@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 13:6",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja maa ei voinut kantaa ⟨את⟩ heitä ⟨asumaan⟩ yhdessä, sillä heidän omaisuutensa oli suuri, eivätkä he voineet asua yhdessä.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ja ei"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "voinut kantaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "heidät"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "asumaan"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "yhdessä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "heidän omaisuutensa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "suuri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "he voineet"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "asua"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "yhdessä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:09:27.758115502Z",
+  "model": "glm-5.3"
+}

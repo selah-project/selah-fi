@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 19:16",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "”Ja ⟨את⟩ Jehun (Jehu), Nimshin pojan, sinä voit voidella kuninkaaksi Israelin yli, ja ⟨את⟩ Elishan (Elisa), Shafatin pojan, joka on Avel-Meholasta, sinä voit voidella profeetaksi sinun sijaasi.”",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Jehun"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehun"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimshin"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "sinä voit voidella"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuninkaaksi"
+    },
+    {
+      "surface": "על",
+      "gloss": "yli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Elishan"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elishan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Shafatin"
+    },
+    {
+      "surface": "מאבל",
+      "gloss": "Avel-"
+    },
+    {
+      "surface": "מחולה",
+      "gloss": "Meholasta"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "sinä voit voidella"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "profeetaksi"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "sinun sijaasi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:44:19.546549788Z",
+  "model": "glm-5.3"
+}

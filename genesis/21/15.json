@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja vesi loppui leilistä, ja hän laskeutui ⟨את⟩ lapsen yhden pensaan alle.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "Ja loppui"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vesi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "--"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "leilistä"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "ja hän laskeutui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lapsen"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "lapsen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yhden"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "pensaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:12:51.705445901Z",
+  "model": "glm-5.3"
+}

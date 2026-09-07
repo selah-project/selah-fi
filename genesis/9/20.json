@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja ryhtui Noach, maan mies, ⟨viljelemään⟩ ja istutti viinitarhan.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ryhtui"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "maan"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "istutti"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "viinitarha"
+    }
+  ],
+  "timestamp": "2026-09-06T21:06:08.428096394Z",
+  "model": "glm-5.3"
+}

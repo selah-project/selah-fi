@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja hän paljasti ⟨את⟩ Jehudan (Juudan) verhon, ja sinä katsoit sinä päivänä Metsän talon aseistusta kohti.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Ja hän paljasti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehudan verhon"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "verhon"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "ja sinä katsoit"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "aseistusta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Metsän talon"
+    },
+    {
+      "surface": "היער",
+      "gloss": "Metsän"
+    }
+  ],
+  "timestamp": "2026-09-07T00:06:43.142553380Z",
+  "model": "glm-5.3"
+}

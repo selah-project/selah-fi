@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 68,
+  "translation": "Ja vanhurskaat iloitkoot, riemuitkoot Elohimi edessä ja iloitkoot riemulla.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "ja vanhurskaat"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "iloitkoot"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "riemuitkoot"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "ja riemukoott"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ilolla"
+    }
+  ],
+  "timestamp": "2026-09-07T02:17:58.593436690Z",
+  "model": "glm-5.3"
+}

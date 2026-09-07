@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 30:32",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Jos olet toiminut tyhmästi kohottautuessasi, ja jos olet suunnitellut pahaa — pane kätesi suullesi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jos"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "olet toiminut tyhmästi"
+    },
+    {
+      "surface": "בהתנשא",
+      "gloss": "kohottautuessasi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ja jos"
+    },
+    {
+      "surface": "זמות",
+      "gloss": "olet suunnitellut pahaa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kätesi"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "suullesi"
+    }
+  ],
+  "timestamp": "2026-09-07T03:20:55.048561595Z",
+  "model": "glm-5.3"
+}

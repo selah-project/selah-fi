@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja sinä rakastat ⟨את⟩ Jahvea, Elohimiasi, ja pidät hänen vahtinsa ja hänen säädöksensä ja hänen oikeusmääränsä ja hänen käskynsä, kaikki päivät.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "Ja sinä rakastat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimiasi"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ja pidät"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "hänen vahtinsa"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "ja hänen säädöksensä"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "ja hänen oikeusmääränsä"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "ja hänen käskynsä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "päivät"
+    }
+  ],
+  "timestamp": "2026-09-06T22:28:31.314713596Z",
+  "model": "glm-5.3"
+}

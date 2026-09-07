@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 17:1",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Taakka Dameshekin (Damaskos): Katso, Dameshek lakkaa olemasta kaupunki, ja se ⟨on⟩ raunioita, kukkula sortuneita kiviä.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Taakka"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dameshekin (Damaskos)"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dameshek"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "lakkaa olemasta"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "kaupunki"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ja se tulee"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "raunioita"
+    },
+    {
+      "surface": "מפלה",
+      "gloss": "kukkula sortuneita kiviä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:06:35.802729597Z",
+  "model": "glm-5.3"
+}

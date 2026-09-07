@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 22:3",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Kaikki sinun päällikkösi pakenivat yhdessä, jousesta ⟨ja⟩ sidottiin; kaikki sinun löydetyistäsi sidottiin yhdessä, kaukaa he pakenivat.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kaikki"
+    },
+    {
+      "surface": "קציניך",
+      "gloss": "sinun päällikkösi"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "pakenivat"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "yhdessä"
+    },
+    {
+      "surface": "מקשת",
+      "gloss": "jousesta"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "sidottiin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "נמצאיך",
+      "gloss": "sinun löydetyistäsi"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "sidottiin"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "yhdessä"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "kaukaa"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "pakenivat"
+    }
+  ],
+  "timestamp": "2026-09-07T00:06:58.968123221Z",
+  "model": "glm-5.3"
+}

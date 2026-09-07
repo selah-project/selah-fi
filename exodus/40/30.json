@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 40:30",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ja hän asetti ⟨את⟩ pesu altaan kokousteltin ja alttarin väliin, ja pani sinne vettä pesemistä varten.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ja hän asetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesualltaan"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "pesualltaan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "väliin"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltin"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kokous-"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja ... väliin"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ja pani"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sinne"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vettä"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "pesemistä varten"
+    }
+  ],
+  "timestamp": "2026-09-06T21:47:28.619561268Z",
+  "model": "glm-5.3"
+}

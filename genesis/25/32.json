@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja Esav sanoi: Katso, minä olen menossa kuolemaan, ja miksi minulle tämä — esikoisoikeus?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "olen menossa"
+    },
+    {
+      "surface": "למות",
+      "gloss": "kuolemaan"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ja miksi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "esikoisoikeus"
+    }
+  ],
+  "timestamp": "2026-09-06T21:14:37.936513549Z",
+  "model": "glm-5.3"
+}

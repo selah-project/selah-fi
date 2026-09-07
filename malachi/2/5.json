@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 2:5",
+  "book": "malachi",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Liittoni oli ⟨את⟩ hänen kanssansa, elämän ja rauhan, ja annoin ne hänelle peloksi; ja hän pelkäsi minua, ja minun nimeni edessä hän vavahti.",
+  "tokens": [
+    {
+      "surface": "בריתי",
+      "gloss": "Liittoni"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänen kanssansa",
+      "marks": "hänen"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "elämän"
+    },
+    {
+      "surface": "והשלום",
+      "gloss": "ja rauhan"
+    },
+    {
+      "surface": "ואתנם",
+      "gloss": "ja annoin ne"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "מורא",
+      "gloss": "peloksi"
+    },
+    {
+      "surface": "וייראני",
+      "gloss": "ja hän pelkäsi minua"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ja nimeni edessä"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "minun nimeni"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "hän vavahti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    }
+  ],
+  "timestamp": "2026-09-07T01:48:54.746848929Z",
+  "model": "glm-5.3"
+}

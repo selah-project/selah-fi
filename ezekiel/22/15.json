@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 22:15",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja minä hajotan ⟨את⟩ sinut kansojen sekaan ja sirotan sinut maihin, ja minä annan sinun epäpuhtausesi lakata sinusta.",
+  "tokens": [
+    {
+      "surface": "והפיצותי",
+      "gloss": "Ja minä hajotan"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "sinut"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kansojen sekaan"
+    },
+    {
+      "surface": "וזריתיך",
+      "gloss": "ja sirotan sinut"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "maihin"
+    },
+    {
+      "surface": "והתמתי",
+      "gloss": "ja minä annan lakata"
+    },
+    {
+      "surface": "טמאתך",
+      "gloss": "sinun epäpuhtausesi"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "sinusta"
+    }
+  ],
+  "timestamp": "2026-09-07T01:03:39.023997938Z",
+  "model": "glm-5.3"
+}

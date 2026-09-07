@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 18:4",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja tapahtui, kun Izebel hävitti ⟨את⟩ Jahven profeetat, että Ovadjahu otti sata profeettaa ja kätki heidät, viisikymmentä miestä luolaan, ja elätti heitä leivällä ja vedellä.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "בהכרית",
+      "gloss": "kun hävitti"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven profeetat"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "profeetat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "otti"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Ovadjahu"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sata"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "profeettaa"
+    },
+    {
+      "surface": "ויחביאם",
+      "gloss": "ja kätki heidät"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "viisikymmentä"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miestä"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "luolaan"
+    },
+    {
+      "surface": "וכלכלם",
+      "gloss": "ja elätti heitä"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leivällä"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ja vedellä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:42:51.859766857Z",
+  "model": "glm-5.3"
+}

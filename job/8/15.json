@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 8:15",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Hän nojaa taloonsa, eikä se seiso; hän tarttuu siihen, eikä se nouse.",
+  "tokens": [
+    {
+      "surface": "ישען",
+      "gloss": "Hän nojaa"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "taloonsa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "seiso"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "hän tarttuu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siihen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "nouse"
+    }
+  ],
+  "timestamp": "2026-09-07T03:26:03.618782503Z",
+  "model": "glm-5.3"
+}

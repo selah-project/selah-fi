@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 108,
+  "translation": "Minun on Gilad (Gilead), minun on Menasheh (Manasse); Efrayim ⟨on⟩ pääni vahvuus, Yehudah (Juuda) ⟨on⟩ säätäjäni.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "minun on"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minun on"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasheh"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "ja Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "pääni vahvuus"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "pääni"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "säätäjäni"
+    }
+  ],
+  "timestamp": "2026-09-07T02:41:22.983551910Z",
+  "model": "glm-5.3"
+}

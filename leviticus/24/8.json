@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 24:8",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Shabbatpäivänä, shabbatpäivänä hän asettaa sen Jahven eteen jatkuvasti; se ⟨on⟩ Israelin lasten ⟨את⟩, ikuinen Berit (liitto).",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "shabbat-"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "shabbat-"
+    },
+    {
+      "surface": "יערכנו",
+      "gloss": "hän asettaa sen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "jatkuvasti"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Berit (liitto)"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ikuinen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:58:59.810647551Z",
+  "model": "glm-5.3"
+}

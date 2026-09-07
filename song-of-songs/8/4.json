@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Minä vannotin ⟨את⟩ teidät, Jerushalajimin (Jerusalemin) tyttäret: miksi herättäisitte ja miksi herätelkää ⟨את⟩ rakkautta, kunnes se tahtoo!",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "vannotin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät",
+      "marks": "Jerushalajimin tyttäret"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "tyttäret"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimin"
+    },
+    {
+      "surface": "מה",
+      "gloss": "miksi"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "herättäisitte"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ja miksi"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "herätelkää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rakkautta"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "rakkautta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "se tahtoo"
+    }
+  ],
+  "timestamp": "2026-09-07T03:58:04.835292392Z",
+  "model": "glm-5.3"
+}

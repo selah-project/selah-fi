@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 106,
+  "translation": "Nähdä valittuiesi hyvyyden, iloitse kansasi ilossa, ylistää yhdessä perintösi kanssa.",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "Nähdä"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "hyvyyden"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "valittuiesi"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "iloitse"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "ilossa"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "kansasi"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "yllistä yhdessä"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "perintösi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:39:00.359372473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ja hän otti ja pani ⟨את⟩ todistuksen arkkiin ja asetti ⟨את⟩ sauvarat arkin päälle ja pani ⟨את⟩ kappora-istuimen arkin päälle ylhäältä.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "otti"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "pani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "todistuksen"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "todistuksen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "arkkiin"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arkkiin"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "asetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sauvarat"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "sauvarat"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arkin"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "pani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kappora-istuimen"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kappora-istuimen"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arkin"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ylhäältä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:47:19.948348466Z",
+  "model": "glm-5.3"
+}

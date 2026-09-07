@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 47:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 47,
+  "translation": "Hän valitsee meille ⟨את⟩ perintömme, ⟨את⟩ Ja'akovin (Jaakob) ylpeyden, jota hän rakasti. Sela.",
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "valitsee"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perintömme"
+    },
+    {
+      "surface": "נחלתנו",
+      "gloss": "perintömme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ja'akovin ylpeyden"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ylpeys"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jota"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "rakasti"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-07T02:10:28.363153908Z",
+  "model": "glm-5.3"
+}

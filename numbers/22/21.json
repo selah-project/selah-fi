@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja Bilam nousi aamulla ja satuloi ⟨את⟩ aasintammansa ja lähti Mooabin päämiesten kanssa.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "nousi"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamulla"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "satuloi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aasintammansa"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "aasintammansa"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "lähti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "päämiesten"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mooabin"
+    }
+  ],
+  "timestamp": "2026-09-07T04:14:15.411796363Z",
+  "model": "glm-5.3"
+}

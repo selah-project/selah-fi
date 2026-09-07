@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Minä kiitän Jahvea hänen vanhursauteensa mukaan, ja veisaan ⟨kiitosta⟩ nimen Jahve Eljonin.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Kiitän minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "hänen vanhursauteensa mukaan"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ja veisaan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eljonin"
+    }
+  ],
+  "timestamp": "2026-09-07T01:50:40.488006658Z",
+  "model": "glm-5.3"
+}

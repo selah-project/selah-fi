@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 116,
+  "translation": "Minä rakastan, koska Jahve kuulee ⟨את⟩ ääneni, rukoukseni.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "minä rakastan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "kuulee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ääneni"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ääneni"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "rukoukseni"
+    }
+  ],
+  "timestamp": "2026-09-07T02:45:10.554473441Z",
+  "model": "glm-5.3"
+}

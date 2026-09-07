@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja Elisha sanoi hänelle: ”Ota jousi ja nuolet.” Ja hän otti hänen luokseen jousen ja nuolet.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Ota"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "jousi"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "ja nuolet"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ja otti"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänen luokseen"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "jousen"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "ja nuolet"
+    }
+  ],
+  "timestamp": "2026-09-06T23:53:24.019373818Z",
+  "model": "glm-5.3"
+}

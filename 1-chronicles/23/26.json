@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 23:26",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja myös leviiläisille: ei ⟨ole⟩ enää kannettavana ⟨את⟩ Mishkan ⟨asumus⟩ ja ⟨את⟩ kaikki sen astiat sen palvelusta varten.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ja myös"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "leviiläisille"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "kannettavana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkanin"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sen astiat"
+    },
+    {
+      "surface": "לעבדתו",
+      "gloss": "sen palvelusta varten"
+    }
+  ],
+  "timestamp": "2026-09-07T05:26:08.917218103Z",
+  "model": "glm-5.3"
+}

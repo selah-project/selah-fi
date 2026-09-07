@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 20:12",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Vaikka pahuus on makeaa hänen suussaan, hän kätköö sen kielensä alle,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "vaikka"
+    },
+    {
+      "surface": "תמתיק",
+      "gloss": "on makeaa"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "hänen suussaan"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pahuus"
+    },
+    {
+      "surface": "יכחידנה",
+      "gloss": "hän kätköö sen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alle"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "kielensä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:36:08.951187756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja he näkivät ⟨את⟩ Israelin Elohimin, ja hänen jalkojensa alla ⟨oli⟩ kuin safiirikiven levytyö ja kuin taivaan kangas puhtaudessaan.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Ja he näkivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimin"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ja ... alla"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "jalkojensa"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "kuin työ"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "levy"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "safiirin"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "ja kuin ... olemus"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "puhtauteen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:38:19.630439567Z",
+  "model": "glm-5.3"
+}

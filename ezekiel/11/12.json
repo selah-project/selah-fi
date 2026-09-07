@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 11:12",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja te tulette tuntemaan, että minä olen Jahve, sillä minun säädöissäni te et ole kulkeneet, ja minun oikeuksiani te et ole tehneet, vaan ympärillänne olevien kansojen oikeuksien mukaan te teitte.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "ja te tulette tuntemaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sillä (joka-konjunktio)"
+    },
+    {
+      "surface": "בחקי",
+      "gloss": "minun säädöissäni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "הלכתם",
+      "gloss": "te et ole kulkeneet"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "ja minun oikeuksiani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "te et ole tehneet"
+    },
+    {
+      "surface": "וכמשפטי",
+      "gloss": "vaan ... mukaan kuin minun oikeuksieni"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kansojen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "ympärillänne olevien"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "te teitte"
+    }
+  ],
+  "timestamp": "2026-09-07T00:55:01.776430789Z",
+  "model": "glm-5.3"
+}

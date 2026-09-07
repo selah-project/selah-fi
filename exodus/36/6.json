@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 36:6",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 36,
+  "translation": "Ja Moshe käski, ja he kuljettivat äänen yli leirin sanoen: mies ja nainen, älkööt tehkö enää työtä pyhän lahjoituksen hyväksi. Ja kansa pidättyi tuomasta.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Ja käski"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויעבירו",
+      "gloss": "ja he kuljettivat"
+    },
+    {
+      "surface": "קול",
+      "gloss": "äänen"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "leirin yli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "ja nainen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älkööt"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "tehkö"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enää"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "työtä"
+    },
+    {
+      "surface": "לתרומת",
+      "gloss": "lahjoituksen"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pyhän"
+    },
+    {
+      "surface": "ויכלא",
+      "gloss": "ja pidättyi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "מהביא",
+      "gloss": "tuomasta"
+    }
+  ],
+  "timestamp": "2026-09-06T21:46:12.477774057Z",
+  "model": "glm-5.3"
+}

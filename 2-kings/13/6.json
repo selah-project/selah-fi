@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 13:6",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Vaan eivät he luopuneet Ja'arovamin suvun synneistä, joilla hän saattoi Israelin syntiin ⟨את⟩; niissä he vaelsivat; ja myös ashera seisoi Shomronissa.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Vaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "he luopuneet"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "synneistä"
+    },
+    {
+      "surface": "בית",
+      "gloss": "suvun"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Ja'arovamin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joilla"
+    },
+    {
+      "surface": "החטי",
+      "gloss": "hän saattoi syntiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "בה",
+      "gloss": "niissä"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "hän vaelsi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja myös"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "ashera"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "seisoi"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Shomronissa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:53:25.109102414Z",
+  "model": "glm-5.3"
+}

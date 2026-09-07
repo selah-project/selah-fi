@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "ja ⟨את⟩ jokainen korppi lajinsa mukaan",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "jokainen korppi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokainen"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "korppi"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "lajinsa mukaan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:29:03.858853595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 13:13",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Synnyttäjän tuskat tulevat hänen ylleen; hän on ymmärtämätön poika, sillä hän ei seisahdu oikealla hetkellä lasten murroksen kohdalla.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "tuskat"
+    },
+    {
+      "surface": "יולדה",
+      "gloss": "synnyttäjän"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "tulevat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänen ylleen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ymmärtämätön"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "עת",
+      "gloss": "hetkellä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "seisahdu"
+    },
+    {
+      "surface": "במשבר",
+      "gloss": "murroksen kohdalla"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "lasten"
+    }
+  ],
+  "timestamp": "2026-09-07T01:23:13.396479622Z",
+  "model": "glm-5.3"
+}

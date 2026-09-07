@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 11:6",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja Elohimin henki tuli voimallisesti Shaulin päälle, kun hän kuuli ⟨את⟩ nämä sanat, ja hänen vihansa syttyi kovasti.",
+  "tokens": [
+    {
+      "surface": "ותצלח",
+      "gloss": "ja tuli voimallisesti"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "henki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulin"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "kun hän kuuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nämä sanat"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ja syttyi"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "hänen vihansa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kovasti"
+    }
+  ],
+  "timestamp": "2026-09-06T23:08:04.758586633Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 21:28",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Valheellinen todistaja hukkuu, mutta kuunteleva mies puhuu iäti.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "todistaja"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "valheellinen"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "hukkuu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mutta mies"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "kuunteleva"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "iäti"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "puhuu"
+    }
+  ],
+  "timestamp": "2026-09-07T03:11:57.083495105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ja sinä käske ⟨את⟩ Israelin poikia, ja he tuokoot sinulle puhdasta, survottua oliiviöljyä lamppua varten, pitämään lampun palavana alati.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ja sinä"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "käske"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin poikia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ja he tuokoot"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "öljyä"
+    },
+    {
+      "surface": "זית",
+      "gloss": "oliivi"
+    },
+    {
+      "surface": "זך",
+      "gloss": "puhdasta"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "survottua"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "lamppua varten"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "pitämään palavana"
+    },
+    {
+      "surface": "נר",
+      "gloss": "lampun"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "alati"
+    }
+  ],
+  "timestamp": "2026-09-06T21:40:10.839322635Z",
+  "model": "glm-5.3"
+}

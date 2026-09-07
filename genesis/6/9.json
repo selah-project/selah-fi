@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 6:9",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Nämä ovat sukupolvet Noachin (Noahan): Noach, vanhurskas ja nuhteeton mies, oli sukupolvissaan; ⟨את⟩ Elohimin kanssa vaelsi Noach.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Nämä"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ovat sukupolvet"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noachin (Noahan)"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "vanhurskas"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ja nuhteeton"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "בדרתיו",
+      "gloss": "sukupolvissaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimin kanssa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "vaelsi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    }
+  ],
+  "timestamp": "2026-09-06T21:06:13.310582303Z",
+  "model": "glm-5.3"
+}

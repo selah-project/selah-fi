@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja Ahav lähetti sanan kaikkien Israelin lasten keskuuteen ja kokosi ⟨את⟩ profeetat Karmelin vuorelle.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ja lähetti"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaikkien"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "ja kokosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "profeetat"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "profeetat"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "הר",
+      "gloss": "vuorelle"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmelin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:44:08.298628167Z",
+  "model": "glm-5.3"
+}

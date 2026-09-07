@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 13:3",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja sanoi Moshe kansalle: Muistakaa ⟨את⟩ tämä päivä, jona te lähditte Mitsrajimista (Egypti), orjuuden talosta, sillä väkevällä kädellä Jahve vei ⟨את⟩ teidät ulos tästä — ja hapatettua ei syötäköön.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansaa"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "muistakaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän päivän"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päivä"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jona"
+    },
+    {
+      "surface": "יצאתם",
+      "gloss": "te lähditte"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrajimista"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "talosta"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "orjuuden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "väkevällä"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kädellä"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "hän vei ulos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "tästä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "syötäköön"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "hapatettua"
+    }
+  ],
+  "timestamp": "2026-09-06T21:34:00.145291020Z",
+  "model": "glm-5.3"
+}

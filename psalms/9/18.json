@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Palaavat jumalattomat Sheoliin, kaikki kansat, jotka unhottavat Elohimin.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "Palaavat"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jumalattomat"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "Sheoliin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kansat"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "jotka unhottavat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    }
+  ],
+  "timestamp": "2026-09-07T01:55:22.475790850Z",
+  "model": "glm-5.3"
+}

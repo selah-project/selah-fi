@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 8:6",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Sillä koska tämä kansa on hyljännyt ⟨את⟩ Shiloan vedet, jotka virtaavat hiljaa, ja riemuitsee ⟨את⟩ Retsinin ja Remaljahun pojan kanssa,",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "on hyljännyt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shiloan vedet"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vedet"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "Shiloan"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "jotka virtaavat"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "hiljaa"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "ja riemuitsee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Retsinin"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsinin"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ja pojan"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remaljahun"
+    }
+  ],
+  "timestamp": "2026-09-07T00:03:15.987431142Z",
+  "model": "glm-5.3"
+}

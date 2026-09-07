@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 33:27",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Hän katselee ihmisiä ja sanoo: minä tein syntiä, ja sen, mikä suoraa oli, minä väänsin, eikä se minua hyödyttänyt.",
+  "tokens": [
+    {
+      "surface": "ישר",
+      "gloss": "hän katselee"
+    },
+    {
+      "surface": "על",
+      "gloss": "… kohti"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ihmisiä"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoo"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "minä tein syntiä"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "sen mikä suoraa oli"
+    },
+    {
+      "surface": "העויתי",
+      "gloss": "minä väänsin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "se hyödyttänyt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minua"
+    }
+  ],
+  "timestamp": "2026-09-07T03:48:26.344455958Z",
+  "model": "glm-5.3"
+}

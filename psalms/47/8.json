@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 47,
+  "translation": "Sillä koko maan kuninkaana ⟨on⟩ Elohim; veisatkaa taitavasti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "veisatkaa"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "taitavasti"
+    }
+  ],
+  "timestamp": "2026-09-07T02:10:28.364301844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "ja aamulla te näette ⟨את⟩ Jahven kunnian, kun hän kuulee ⟨את⟩ valituksenne, jotka ovat Jahvea vastaan; ja mitä me olemme, koska te nurisette meitä vastaan?",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "ja aamulla"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "te näette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven kunnian"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kunnian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "kuullessaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "valituksenne"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "valituksenne"
+    },
+    {
+      "surface": "על",
+      "gloss": "vastaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "ja me"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "te nurisette"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "meitä vastaan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:09:35.128619825Z",
+  "model": "glm-5.3"
+}

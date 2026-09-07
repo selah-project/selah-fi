@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Ja Betsalel teki ⟨את⟩ arkin akasiapuusta: kaksi ja puoli kyynärää oli sen pituus, ja kyynärä ja puoli sen leveys, ja kyynärä ja puoli sen korkeus.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ja teki"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkin"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arkin"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "puusta"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "kaksi kyynärää"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ja puoli"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "sen pituus"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ja kyynärä"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ja puoli"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "sen leveys"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ja kyynärä"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ja puoli"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "sen korkeus"
+    }
+  ],
+  "timestamp": "2026-09-06T21:45:38.148174135Z",
+  "model": "glm-5.3"
+}

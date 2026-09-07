@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "”Minä annan sinulle ymmärrystä ja opetan sinua tiellä, jota sinä kuljet; minä neuvon sinua, silmäni sinuun katsoen.”",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "minä annan sinulle ymmärrystä"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "ja opetan sinua"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tiellä"
+    },
+    {
+      "surface": "זו",
+      "gloss": "jota"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "sinä kuljet"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "minä neuvon"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sinua"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "silmäni"
+    }
+  ],
+  "timestamp": "2026-09-07T02:05:32.136427721Z",
+  "model": "glm-5.3"
+}

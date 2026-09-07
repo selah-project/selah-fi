@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezekiel 23:34",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja sinä juot ⟨את⟩ sen ja tyhjennät sen, ja ⟨את⟩ sen sirsut sinä murset, ja rintasi sinä repäiset irti, sillä minä olen puhunut, Adonai Jahven sananparsi.",
+  "tokens": [
+    {
+      "surface": "ושתית",
+      "gloss": "ja sinä juot"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "sen (maljan)"
+    },
+    {
+      "surface": "ומצית",
+      "gloss": "ja tyhjennät"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen sirsut"
+    },
+    {
+      "surface": "חרשיה",
+      "gloss": "sen sirsut"
+    },
+    {
+      "surface": "תגרמי",
+      "gloss": "sinä murset"
+    },
+    {
+      "surface": "ושדיך",
+      "gloss": "ja rintasi"
+    },
+    {
+      "surface": "תנתקי",
+      "gloss": "sinä repäiset irti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "olen puhunut"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sananparsi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-07T04:30:56.715454313Z",
+  "model": "glm-5.3"
+}

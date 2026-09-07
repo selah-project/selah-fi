@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Ja kun nostan ⟨את⟩ käteni pois, sinä näet ⟨את⟩ selkäni, mutta kasvojani ei näytetä.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "Ja kun nostan pois"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "käteni"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "käteni"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "sinä näet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selkäni"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "selkäni"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "mutta kasvoni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "näytetä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:42:47.901941805Z",
+  "model": "glm-5.3"
+}

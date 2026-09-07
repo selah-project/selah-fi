@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "ja hänen joukkonsa ja heidän laskennalliset olivat neljä ja seitsemänkymmentä tuhatta ja kuusisataa.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ja hänen joukkonsa"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ja heidän laskennalliset"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "neljä"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ja seitsemänkymmentä"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhatta"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ja kuusi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sataa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:02:17.137141189Z",
+  "model": "glm-5.3"
+}

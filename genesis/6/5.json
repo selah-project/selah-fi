@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 6:5",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja Jahve näki, että suuri oli ihmisen pahuus maassa, ja että jokainen hänen sydämensä ajatusten muoto oli vain pahaa koko päivän.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ja näki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "suuri"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "pahuus"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihmisen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja jokainen"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "muoto"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "ajatusten"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hänen sydämensä"
+    },
+    {
+      "surface": "רק",
+      "gloss": "vain"
+    },
+    {
+      "surface": "רע",
+      "gloss": "paha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päivän"
+    }
+  ],
+  "timestamp": "2026-09-06T21:06:47.287348523Z",
+  "model": "glm-5.3"
+}

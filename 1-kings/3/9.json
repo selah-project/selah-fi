@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 3:9",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Anna siis palvelallesi kuuleva sydän tuomitsemaan ⟨את⟩ kansaasi, erottamaan hyvän pahasta, sillä kuka voi tuomita ⟨את⟩ kansaasi, tämän suuren?",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Anna siis"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "palvelallesi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sydän"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kuuleva"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "tuomitsemaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansaasi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kansaasi"
+    },
+    {
+      "surface": "להבין",
+      "gloss": "erottamaan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "…välistä"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvän"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "pahasta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "voi"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "tuomita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansaasi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kansaasi"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "suuren"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    }
+  ],
+  "timestamp": "2026-09-06T23:33:30.317541747Z",
+  "model": "glm-5.3"
+}

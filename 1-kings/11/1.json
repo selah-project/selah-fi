@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja kuningas Shelomo (Salomo) rakasti monia vieraita naisia, ja ⟨את⟩ Paron (farao) tytärtä: moabilaisia, ammonilaisia, edomilaisia, tsidonilaisia ja hettiläisiä.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Ja kuningas"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "rakasti"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "naisia"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "vieraita"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "monia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Paron tyttären"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tyttären"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "moabilaisia"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "ammonilaisia"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "edomilaisia"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "tsidonilaisia"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "hettiläisiä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:40:57.934033026Z",
+  "model": "glm-5.3"
+}

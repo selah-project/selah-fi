@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 29:3",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Mies, joka rakastaa viisautta, ilahduttaa isäänsä; mutta se, joka haikailee porttojen luo, hävittää omaisuuden.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Mies"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "rakastaa"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "viisautta"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ilahduttaa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isäänsä"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "mutta joka haikailee ... luo"
+    },
+    {
+      "surface": "זונות",
+      "gloss": "porttojen"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "hävittää"
+    },
+    {
+      "surface": "הון",
+      "gloss": "omaisuuden"
+    }
+  ],
+  "timestamp": "2026-09-07T03:19:40.910750430Z",
+  "model": "glm-5.3"
+}

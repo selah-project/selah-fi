@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 107,
+  "translation": "ja maista hän kokosi heidät, idästä ja lännestä, pohjoisesta ja merestä.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "ja maista"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "hän kokosi heidät"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "idästä"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "ja lännestä"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "pohjoisesta"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ja merestä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:40:28.285258361Z",
+  "model": "glm-5.3"
+}

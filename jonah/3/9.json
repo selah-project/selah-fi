@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 3:9",
+  "book": "jonah",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Kuka tietää, jos Elohim kääntyy ja katuu ja palaa kiivaasta vihastansa, emmekä me huku.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kuka"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "tietää"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "kääntyy"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "ja katuu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ja palaa"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "kiivaasta"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "vihastansa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "emme"
+    },
+    {
+      "surface": "נאבד",
+      "gloss": "huku"
+    }
+  ],
+  "timestamp": "2026-09-07T01:33:24.158736112Z",
+  "model": "glm-5.3"
+}

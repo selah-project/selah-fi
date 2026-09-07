@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Jahven sana, joka tuli Joelin (Joelin) luo, Petuelin (Petuelin) pojan.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "sana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "היה",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Joelin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "Petuelin"
+    }
+  ],
+  "timestamp": "2026-09-07T01:25:01.236045102Z",
+  "model": "glm-5.3"
+}

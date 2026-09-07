@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 43,
+  "translation": "Ja mies teki, kuten Josef (Joosef) oli sanonut, ja toi ⟨את⟩ miehet Josefin taloon.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ja teki"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kuten"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oli sanonut"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ja toi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miehet"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "taloon"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:25:10.603597524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 23:4",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Häpeä, Tsidon, sillä meri on puhunut, meren linnoitus, sanoen: En ole tuskissa ollut, enkä ole synnyttänyt, enkä ole kasvattanut nuorukaisia, enkä ole korottanut neitoja.",
+  "tokens": [
+    {
+      "surface": "בושי",
+      "gloss": "Häpeä"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "on puhunut"
+    },
+    {
+      "surface": "ים",
+      "gloss": "meri"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "linnoitus"
+    },
+    {
+      "surface": "הים",
+      "gloss": "meren"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "חלתי",
+      "gloss": "ole tuskissa ollut"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "synnyttänyt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "kasvattanut"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "nuorukaisia"
+    },
+    {
+      "surface": "רוממתי",
+      "gloss": "korottanut"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "neitoja"
+    }
+  ],
+  "timestamp": "2026-09-07T04:26:16.887116851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 12:7",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja Jeftah tuomitsi ⟨את⟩ Israelia kuusi vuotta. Sitten Jeftah, gileadilainen, kuoli ja hänet haudattiin Giladin kaupunkeihin.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Ja tuomitsi"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jeftah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelia"
+    },
+    {
+      "surface": "שש",
+      "gloss": "kuusi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ja kuoli"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jeftah"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "gileadilainen"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ja hänet haudattiin"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "kaupunkeihin"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:58:54.562028519Z",
+  "model": "glm-5.3"
+}

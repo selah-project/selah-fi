@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Asetan Jahven alati silmäini eteen; sillä hänen oikealla puolellani en minä horju.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "Asetan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "alati silmäini eteen"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "alati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "hänen oikealla puolellani"
+    },
+    {
+      "surface": "בל",
+      "gloss": "en"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "horju"
+    }
+  ],
+  "timestamp": "2026-09-07T01:55:35.774129260Z",
+  "model": "glm-5.3"
+}

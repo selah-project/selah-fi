@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Härkä tuntee omistajansa, ja aasi isäntänsä karsinansa; Israel ei tunne, kansani ei ymmärrä.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "tuntee"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Härkä"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "omistajansa"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "ja aasi"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "karsina"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "isäntänsä"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tunne"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kansani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "ymmärrä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:01:07.038602249Z",
+  "model": "glm-5.3"
+}

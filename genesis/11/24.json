@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja Nahor eli yhdeksän ja kaksikymmentä vuotta, ja hän siitti ⟨את⟩ Terachin.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "eli"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "yhdeksän"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ja kaksikymmentä"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ja hän siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terachin"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terachin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:07:59.559463919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 106,
+  "translation": "Ja hän nuhteli Kaislameren (Punaisenmeren), ja se kuivui, ja hän johdatti heidät syvyyksien halki kuin autiomaahan.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "Ja hän nuhteli"
+    },
+    {
+      "surface": "בים",
+      "gloss": "Kaislameren"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "(Punaisenmeren)"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "ja se kuivui"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "ja hän johdatti heidät"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "syvyyksien halki"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "kuin autiomaahan"
+    }
+  ],
+  "timestamp": "2026-09-07T02:39:04.197640086Z",
+  "model": "glm-5.3"
+}

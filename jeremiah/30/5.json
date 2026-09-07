@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Sillä näin sanoi Jahve: kuulimme äänen vapinaa — pelkoa, eikä rauhaa ole.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "כה",
+      "gloss": "näin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קול",
+      "gloss": "äänen"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "vapinaa"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "kuulimme"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "pelkoa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä ole"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rauhaa"
+    }
+  ],
+  "timestamp": "2026-09-07T00:38:16.368550688Z",
+  "model": "glm-5.3"
+}

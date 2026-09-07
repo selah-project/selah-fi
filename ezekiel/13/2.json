@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 13:2",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ihmisen poika, profetoi Israelin profeetoille, jotka profetoivat, ja sano niille, jotka profetoivat oman sydämensä mukaan: Kuulkaa Jahven sana.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmisen"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "profetoi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "profeetoille"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "jotka profetoivat"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ja sano"
+    },
+    {
+      "surface": "לנביאי",
+      "gloss": "niille, jotka profetoivat"
+    },
+    {
+      "surface": "מלבם",
+      "gloss": "oman sydämensä mukaan"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Kuulkaa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-07T00:56:27.277214291Z",
+  "model": "glm-5.3"
+}

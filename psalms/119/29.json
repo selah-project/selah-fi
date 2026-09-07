@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Valheen tien poista minulta, ja armahda minua Torallasi (Toora).",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "tien"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "valheen"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "poista"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minulta"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ja Torallasi"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "armahda minua"
+    }
+  ],
+  "timestamp": "2026-09-07T02:45:44.812682178Z",
+  "model": "glm-5.3"
+}

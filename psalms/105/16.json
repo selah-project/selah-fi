@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 105,
+  "translation": "Ja hän kutsui nälänhädän maan päälle, koko leivän sauvan hän mursi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ja hän kutsui"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "nälänhädän"
+    },
+    {
+      "surface": "על",
+      "gloss": "–"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "sauvan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leivän"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "hän mursi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:38:17.824227931Z",
+  "model": "glm-5.3"
+}

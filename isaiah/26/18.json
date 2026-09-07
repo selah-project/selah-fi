@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 26:18",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Raskaaksi tulimme, vääntelehdimme tuskissa, niin kuin synnyitimme tuulen; pelastusta emme saaneet aikaan maassa, eivätkä maailman asukkaat lankea maahan.",
+  "tokens": [
+    {
+      "surface": "הרינו",
+      "gloss": "raskaaksi tulimme"
+    },
+    {
+      "surface": "חלנו",
+      "gloss": "vääntelehdimme"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "ילדנו",
+      "gloss": "synnyitimme"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "tuulen"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "pelastusta"
+    },
+    {
+      "surface": "בל",
+      "gloss": "emme"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "saa aikaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "eivätkä myöskään"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "lankea maahan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "asukkaat"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "maailman"
+    }
+  ],
+  "timestamp": "2026-09-07T00:08:08.573517937Z",
+  "model": "glm-5.3"
+}

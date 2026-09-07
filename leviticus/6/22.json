@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Jokainen miespuoli kohenien joukosta syö ⟨את⟩ sen; pyhä pyhimmistä se ⟨on⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "jokainen"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "miespuoli"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "kohenien joukosta"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "syö"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sen (uhri-annoksen)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhä"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "pyhimmistä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-09-06T21:48:08.084882489Z",
+  "model": "glm-5.3"
+}

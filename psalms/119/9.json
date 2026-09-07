@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Millä nuori puhdistaa ⟨את⟩ tiensä, varjellakseen sitä sinun sanasi mukaan?",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "Millä"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "puhistaa"
+    },
+    {
+      "surface": "נער",
+      "gloss": "nuori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiensä"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "tiensä"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "varjellakseen"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "sinun sanasi mukaan"
+    }
+  ],
+  "timestamp": "2026-09-07T02:46:13.250433901Z",
+  "model": "glm-5.3"
+}

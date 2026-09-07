@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 6:17",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja ⟨את⟩ oinaan hän valmistaa rauhanuhriksi Jahvelle, korian happamattomia leipiä ⟨yhdessä⟩; ja kohen (pappi) valmistaa ⟨את⟩ hänen ruokauhrinsa ja ⟨את⟩ hänen juomauhrinsa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "oinaan"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "oinaan"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "valmistaa"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "uhriksi"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "rauhan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "על",
+      "gloss": "yhdessä"
+    },
+    {
+      "surface": "סל",
+      "gloss": "korin"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "happamattomia leipiä"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ja valmistaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen ruokauhrinsa"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "hänen ruokauhrinsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen juomauhrinsa"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "hänen juomauhrinsa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:05:33.736313819Z",
+  "model": "glm-5.3"
+}

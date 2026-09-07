@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "ja ⟨את⟩ pikkupöllön ja ⟨את⟩ lokin ja ⟨את⟩ pöllön",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "pikkupöllön"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "pikkupöllön"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "lokin"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "lokin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "pöllön"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "pöllön"
+    }
+  ],
+  "timestamp": "2026-09-06T21:51:03.397167459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja jos sinä ilmoitat ⟨את⟩ tämän meidän sanamme, olemme me viattomia sinun valastasi, jonka sinä meidät vannoit.”",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ja jos"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "sinä ilmoitat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän meidän sanamme"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "meidän sanamme"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "olemme me"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "viattomia"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "sinun valastasi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "meidät vannoit"
+    }
+  ],
+  "timestamp": "2026-09-06T22:41:14.599509755Z",
+  "model": "glm-5.3"
+}

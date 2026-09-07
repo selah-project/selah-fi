@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "ja ilmoittakoon meille Jahve, Elohimesi, ⟨את⟩ tien, jota kulkisimme, ja ⟨את⟩ asian, jonka tekisimme.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ja ilmoittakoon"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meille"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimesi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tien"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "tien"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jota"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "kulkisimme"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sitä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "asian"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "tekisimme"
+    }
+  ],
+  "timestamp": "2026-09-07T00:44:20.887343302Z",
+  "model": "glm-5.3"
+}

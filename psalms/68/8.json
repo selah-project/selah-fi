@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 68,
+  "translation": "Elohim, kun sinä kuljit kansasi edessä, kun astuit erämaan halki — Sela.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "kun sinä kuljit"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kansasi"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "kun astuit"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "erämaan halki"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-07T02:19:24.908818331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 51,
+  "translation": "Minä, minä ⟨olen⟩ hän, joka teitä lohduttaa. Kuka sinä olet, että pelkäät kuolevaista ihmistä, ihmislapsenta, joka on kuin ruoho?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Minä"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "joka teitä lohduttaa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "sinä olet",
+      "marks": "sinä olet"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "että pelkäät"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "kuolevaista ihmistä"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "kuolevaa"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "ja ihmislapsenta"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmislapsenta"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ruoho"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "joka annetaan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:18:27.065138369Z",
+  "model": "glm-5.3"
+}

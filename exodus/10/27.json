@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja Jahve lujitti ⟨את⟩ Paron sydämen, eikä hän suostunut päästämään heitä.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ja lujitti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paron sydämen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sydämen"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "suostunut"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "päästämään heitä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:31:44.166111018Z",
+  "model": "glm-5.3"
+}

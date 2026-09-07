@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 6:3",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja he sanoivat: ”Jos te lähetätte pois ⟨את⟩ arkin, Israelin Elohimin arkin, älkää lähettäkö ⟨את⟩ sitä tyhjänä, vaan palauttakaa sille varmasti asham (syyllisyysuhri); silloin te parannutte, ja teille tulevat tuntemaan, miksi hänen kätensä ei väisty teistä.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ja he sanoivat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Jos"
+    },
+    {
+      "surface": "משלחים",
+      "gloss": "te lähetätte pois"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkin"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "lähetäkö"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sitä",
+      "marks": "tyhjänä"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "tyhjänä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "השב",
+      "gloss": "varmasti palauttakaa"
+    },
+    {
+      "surface": "תשיבו",
+      "gloss": "palauttakaa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sille"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "asham"
+    },
+    {
+      "surface": "אז",
+      "gloss": "silloin"
+    },
+    {
+      "surface": "תרפאו",
+      "gloss": "te parannutte"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "ja tuntemaan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miksi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "väisty"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hänen kätensä"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "teistä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:07:21.288505746Z",
+  "model": "glm-5.3"
+}

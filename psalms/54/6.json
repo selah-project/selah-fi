@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 54,
+  "translation": "Katso, Elohim ⟨on⟩ auttajanani; Adonai ⟨on⟩ nefeshiani (sieluani) tukevien joukossa.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "auttaja"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minun"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "tukevien joukossa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshiani (sieluani)"
+    }
+  ],
+  "timestamp": "2026-09-07T02:12:47.997909010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja he kertoivat Mordekaille ⟨את⟩ Esterin sanat.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "ja kertoivat"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordekaille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esterin sanat"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esterin"
+    }
+  ],
+  "timestamp": "2026-09-07T04:40:14.159934443Z",
+  "model": "glm-5.3"
+}

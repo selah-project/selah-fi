@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja tapahtui tiellä, yöpymispaikassa: Jahve kohtasi hänet ja etsi hänen surmaamistaan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tiellä"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "yöpymispaikassa"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "kohtasi hänet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "ja etsi"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "hänen surmaamistaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:29:29.269578783Z",
+  "model": "glm-5.3"
+}

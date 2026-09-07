@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Sillä heidän jalkansa juoksevat pahuuteen, ja he kiirehtivät verta vuodattamaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "heidän jalkansa"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "pahuuteen"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "juoksevat"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "ja he kiirehtivät"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "vuodattamaan"
+    },
+    {
+      "surface": "דם",
+      "gloss": "verta"
+    }
+  ],
+  "timestamp": "2026-09-07T02:57:35.352139178Z",
+  "model": "glm-5.3"
+}

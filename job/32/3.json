@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 32:3",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Ja hänen vihansa paloi hänen kolmea toveriaan vastaan, koska he eivät löytäneet vastausta, ja kuitenkin tuomitsivat ⟨את⟩ Ijovin syylliseksi.",
+  "tokens": [
+    {
+      "surface": "ובשלשת",
+      "gloss": "Ja hänen kolmea"
+    },
+    {
+      "surface": "רעיו",
+      "gloss": "toveriaan vastaan"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "paloi"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "hänen vihansa"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koska"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "löytäneet"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "vastausta"
+    },
+    {
+      "surface": "וירשיעו",
+      "gloss": "tuomitsivat syylliseksi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijovin"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijovin"
+    }
+  ],
+  "timestamp": "2026-09-07T03:45:13.566772029Z",
+  "model": "glm-5.3"
+}

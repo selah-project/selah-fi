@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja Uzzi (Ussi) siitti ⟨את⟩ Zerachjan (Seraja), ja Zerachja (Seraja) siitti ⟨את⟩ Merajotin (Merajot).",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "ja Uzzi (Ussi)"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zerachjan (Seraja)"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Zerachjan (Seraja)"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "ja Zerachja (Seraja)"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merajotin (Merajot)"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merajotin (Merajot)"
+    }
+  ],
+  "timestamp": "2026-09-07T05:13:41.851828918Z",
+  "model": "glm-5.3"
+}

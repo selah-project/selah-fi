@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 57,
+  "translation": "Armahda minua, Elohim, armahda minua, sillä sinuun turvaa nefeshini, ja sinun siipiesi varjoon minä turvaan, kunnes onnettomuudet kulkevat ohi.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Armahda minua"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "armahda minua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinuun"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "turvaa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshini"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "ja varjoon"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "siipiesi"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "minä turvaan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "kulkevat ohi"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "onnettomuudet"
+    }
+  ],
+  "timestamp": "2026-09-07T02:14:04.390565316Z",
+  "model": "glm-5.3"
+}

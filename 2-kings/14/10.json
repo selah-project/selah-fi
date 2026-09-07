@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Sinä löit ⟨את⟩ Edomin, ja sydämesi on sinut kohottanut; korehdi ja istu talossasi; ja miksi haluat sotkea pahuuteen ja kaatua, sinä ja Jehuda kanssasi?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "tosiaan"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "sinä löit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomin"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomin"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "ja sinut kohotti"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "sydämesi"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "korehdi"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ja istu"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "talossasi"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ja miksi"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "haastat riitaa"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "pahuuteen"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "ja kaadut"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ja Jehuda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kanssasi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:53:23.788363126Z",
+  "model": "glm-5.3"
+}

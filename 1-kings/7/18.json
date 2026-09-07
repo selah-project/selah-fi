@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 7:18",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja hän teki ⟨את⟩ pylväät, ja kaksi riviä ympäri ensimmäisen verkon päällä peittämään ⟨את⟩ korot, jotka ovat granaattiomenoiden pään päällä; ja samoin hän teki toiselle korolle.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ja hän teki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pylväät"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "pylväät"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ja kaksi"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "riviä"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympäri"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "השבכה",
+      "gloss": "verkon"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ensimmäisen"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "peittämään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korot"
+    },
+    {
+      "surface": "הכתרת",
+      "gloss": "korot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ovat päällä"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pään"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "granaattiomenoiden"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "ja samoin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hän teki"
+    },
+    {
+      "surface": "לכתרת",
+      "gloss": "korolle"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "toiselle"
+    }
+  ],
+  "timestamp": "2026-09-06T23:35:46.450199476Z",
+  "model": "glm-5.3"
+}

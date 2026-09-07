@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja David sanoi Shaulille: ”Miksi kuulet ⟨את⟩ ihmisten sanat, jotka sanovat: ’Katso, David etsii sinun pahaaasi’?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaulille"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miksi"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "kuulet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihmisten sanat"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmisten"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "jotka sanovat"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "katso"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "etsii"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "sinun pahaaasi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:15:05.381028418Z",
+  "model": "glm-5.3"
+}

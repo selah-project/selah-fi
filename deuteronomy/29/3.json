@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "eikä Jahve antanut teille sydäntä tietämään eikä silmiä näkemään eikä korvia kuulemaan tähän päivään asti.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "antanut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sydäntä"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "tietämään"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "eikä silmiä"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "näkemään"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "eikä korvia"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "kuulemaan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päivään"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tähän"
+    }
+  ],
+  "timestamp": "2026-09-06T22:36:56.434069213Z",
+  "model": "glm-5.3"
+}

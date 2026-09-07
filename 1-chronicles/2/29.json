@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 2:29",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Avishurin vaimon nimi ⟨oli⟩ Avihail, ja hän synnytti hänelle ⟨את⟩ Ahbanin ja ⟨את⟩ Molidin.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Ja nimi"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vaimon"
+    },
+    {
+      "surface": "אבישור",
+      "gloss": "Avishurin"
+    },
+    {
+      "surface": "אביהיל",
+      "gloss": "Avihail"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ja synnytti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahbanin"
+    },
+    {
+      "surface": "אחבן",
+      "gloss": "Ahbanin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Molidin"
+    },
+    {
+      "surface": "מוליד",
+      "gloss": "Molidin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:11:16.949841072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 106,
+  "translation": "Ja vedet peittivät heidän ahdistajansa; ei yksi heistä jäänyt jäljelle.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "Ja... peittivät"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vedet"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "heidän ahdistajansa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "heistä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "jäänyt jäljelle"
+    }
+  ],
+  "timestamp": "2026-09-07T02:39:04.199128946Z",
+  "model": "glm-5.3"
+}

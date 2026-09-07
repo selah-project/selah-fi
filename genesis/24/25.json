@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 24:25",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja hän sanoi hänelle: myös pahnaa ja myös rehua on meillä runsaasti, myös paikka yöpyä.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "pahnaa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "rehua"
+    },
+    {
+      "surface": "רב",
+      "gloss": "runsaasti"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "meillä"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "paikka"
+    },
+    {
+      "surface": "ללון",
+      "gloss": "yöpyä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:15:07.079802069Z",
+  "model": "glm-5.3"
+}

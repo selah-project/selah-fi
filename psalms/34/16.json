@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "Jahven silmät ⟨ovat⟩ vanhurskaita kohti, ja hänen korvansa heidän huutonsa kuullen.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "silmät"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "vanhurskaita"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "ja hänen korvansa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuullen"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "heidän huutonsa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:03:25.817017228Z",
+  "model": "glm-5.3"
+}

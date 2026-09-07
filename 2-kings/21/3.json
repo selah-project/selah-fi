@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 21:3",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja hän kääntyi takaisin ja rakensi ⟨את⟩ uhrikukkulat, jotka Hizkijahu, hänen isänsä, oli hävittänyt, ja hän pystytti alttareita Baalille ja teki Asheran, kuten Ahav, Israelin kuningas, oli tehnyt; ja hän kumartui koko taivaan joukolle ja palveli ⟨את⟩ heitä.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ja hän kääntyi takaisin"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ja rakensi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uhrikukkulat"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "uhrikukkulat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "oli hävittänyt"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkijahu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "hänen isänsä"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ja hän pystytti"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "alttareita"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baalille"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ja teki"
+    },
+    {
+      "surface": "אשרה",
+      "gloss": "Asheran"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kuten"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "oli tehnyt"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ja hän kumartui"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "joukolle"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "ja palveli"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ heitä",
+      "marks": "heitä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:57:53.744942405Z",
+  "model": "glm-5.3"
+}

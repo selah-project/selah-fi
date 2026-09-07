@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 29:25",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja sinä otat ⟨את⟩ ne heidän käsistään ja savutat ne alttarilla polttouhrin päällä, levolliseksi tuoksuksi Jahven edessä; se ⟨on⟩ tulinen uhri Jahvelle.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ja sinä otat"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ne",
+      "marks": "ne (heidän käsistään ottamansa)"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "heidän käsistään"
+    },
+    {
+      "surface": "והקטרת",
+      "gloss": "ja savutat"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "alttarilla"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "polttouhrin"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "tuoksuksi"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "levolliseksi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tulinen uhri"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    }
+  ],
+  "timestamp": "2026-09-06T21:42:23.666382918Z",
+  "model": "glm-5.3"
+}

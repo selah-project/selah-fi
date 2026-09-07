@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 60,
+  "translation": "Kun hän sotii ⟨את⟩ Aram Naharajimia ⟨Mesopotamiaa⟩ ja ⟨את⟩ Aram Tsobaa ⟨Tsoban Aramia⟩ vastaan, ja Joab palasi ja löi ⟨את⟩ Edomin ⟨Edomin⟩ Suolalaaksossa — kaksitoistatuhatta.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "Kun hän sotii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram Naharajimia"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Aram Tsobaa"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsoba"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja palasi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ja löi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomin"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "laaksossa"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "suola"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-toista"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhatta"
+    }
+  ],
+  "timestamp": "2026-09-07T02:16:59.121112229Z",
+  "model": "glm-5.3"
+}

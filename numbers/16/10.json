@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja hän on tuonut lähelle ⟨את⟩ sinut ja ⟨את⟩ kaikki veljesi, Levin pojat, ⟨את⟩ kanssasi — ja te pyydätte myös pappisuutta?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ja toi lähelle"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sinut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki veljesi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "veljesi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levin"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kanssasi"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "ja te pyydätte"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "pappisuutta"
+    }
+  ],
+  "timestamp": "2026-09-06T22:11:31.230195210Z",
+  "model": "glm-5.3"
+}

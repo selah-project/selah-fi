@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Kun vanhurskaat ovat monilukuisia, kansa iloitsee; mutta kun jumalaton hallitsee, kansa huokaa.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "Kun ... ovat monilukuisia"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "vanhurskaat"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "iloitsee"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "mutta kun ... hallitsee"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "jumalaton"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "huokaa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:19:40.908699374Z",
+  "model": "glm-5.3"
+}

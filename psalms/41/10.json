@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 41,
+  "translation": "Myös minun rauhani mies, johon minä luotin, joka söi minun leiväni — hän suurensi kantapään minua vastaan.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "minun rauhani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "luotin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "häneen"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "söi"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "leiväni"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "suurensi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "minua vastaan"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "kantapään"
+    }
+  ],
+  "timestamp": "2026-09-07T02:07:05.592357623Z",
+  "model": "glm-5.3"
+}

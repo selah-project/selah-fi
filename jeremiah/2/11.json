@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 2:11",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Onko kansa vaihtanut jumalia, eivätkä ne ⟨ole⟩ jumalia? Mutta kansani on vaihtanut kuniansa siihen, mikä ei hyödytä.",
+  "tokens": [
+    {
+      "surface": "ההימיר",
+      "gloss": "Onko vaihtanut"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jumalia"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "eivätkä ne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jumalia"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "Mutta kansani"
+    },
+    {
+      "surface": "המיר",
+      "gloss": "on vaihtanut"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kuniansa"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "mikä ei"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "hyödytä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:22:38.408626469Z",
+  "model": "glm-5.3"
+}

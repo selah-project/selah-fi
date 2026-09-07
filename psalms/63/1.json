@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 63,
+  "translation": "Daavidin mizmor ⟨psalmi⟩, kun hän oli Jehudan ⟨Juudan⟩ erämaassa.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Daavidin"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "kun hän oli"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "erämaassa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan (Juudan)"
+    }
+  ],
+  "timestamp": "2026-09-07T02:17:38.211462089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Kiitetty olkoon Jahve, sillä hän on tehnyt hesedinsä (armolahjansa) ihmeelliseksi minulle piiritetyssä kaupungissa.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Kiitetty olkoon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "on tehnyt ihmeelliseksi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesedinsä"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kaupungissa"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "piirityksen"
+    }
+  ],
+  "timestamp": "2026-09-07T02:05:51.478843876Z",
+  "model": "glm-5.3"
+}

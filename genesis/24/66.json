@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja palvelija kertoi Jitshakille (Iisak) ⟨את⟩ kaikki asiat, jotka hän oli tehnyt.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "ja kertoi"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "palvelija"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Jitshakille (Iisak)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "asiat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hän oli tehnyt"
+    }
+  ],
+  "timestamp": "2026-09-06T21:15:00.558955485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 2:27",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Kulkea saan maasi halki, tietä tietä kuljen, en poikkea oikealle enkä vasemmalle.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "kulkea saan"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "maasi halki"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tietä"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tietä"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "kuljen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "poikkea"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "oikealle"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "enkä vasemmalle"
+    }
+  ],
+  "timestamp": "2026-09-06T22:23:03.805131500Z",
+  "model": "glm-5.3"
+}

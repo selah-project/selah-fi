@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Käsittele ⟨hyvyydellä⟩ palvelijaasi, että eläisin ja noudattaisin sinun sanaasi.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "Käsittele"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "palvelijaasi"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "eläisin"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "ja noudattaisin"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "sanaasi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:45:20.036824702Z",
+  "model": "glm-5.3"
+}

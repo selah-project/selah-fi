@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja kuningas antoi ⟨את⟩ hopean ja ⟨את⟩ kullan Jerushalajimissa kuten kivet, ja ⟨את⟩ setripuut hän antoi kuten sikomorit, jotka ovat alangossa, runsain määrin.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ja antoi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaalle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hopean"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "hopean"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kullan"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kullan"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerushalajimissa"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "kuten kivet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "setripuut"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "setripuut"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "hän antoi"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "kuten sikomorit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "alangossa"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "runsain määrin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:28:52.398897574Z",
+  "model": "glm-5.3"
+}

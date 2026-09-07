@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 12:14",
+  "book": "zechariah",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Kaikki jäljellä olevat suvut, suvuittain ⟨jokainen⟩ erikseen, ja heidän vaimonsa erikseen.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kaikki"
+    },
+    {
+      "surface": "המשפחות",
+      "gloss": "suvut"
+    },
+    {
+      "surface": "הנשארות",
+      "gloss": "jäljellä olevat"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "suvuittain"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "suku"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "erikseen"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "ja heidän vaimonsa"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "erikseen"
+    }
+  ],
+  "timestamp": "2026-09-07T04:28:48.605469905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 11:20",
+  "book": "nehemiah",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja Israelin loput, papit ja leviiläiset, ⟨olivat⟩ kaikissa Jehudan kaupungeissa, kukin omassa perintömaassaan.",
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "Ja loput"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "papit"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviiläiset"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaikissa"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kaupungeissa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kukin"
+    },
+    {
+      "surface": "בנחלתו",
+      "gloss": "perintömaassaan"
+    }
+  ],
+  "timestamp": "2026-09-07T05:09:18.002113296Z",
+  "model": "glm-5.3"
+}

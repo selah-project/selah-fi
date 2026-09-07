@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Tämä ⟨on⟩ minun lohtuni kurjuudessani, sillä sinun sanasi on elävöittänyt minut.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Tämä"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "minun lohtuni"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "kurjuudessani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "sinun sanasi"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "on elävöittänyt minut"
+    }
+  ],
+  "timestamp": "2026-09-07T02:45:37.314178719Z",
+  "model": "glm-5.3"
+}

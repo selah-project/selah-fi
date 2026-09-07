@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 10:9",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja hän sanoi heille: Mitä te neuvotte, ja me vastaamme sanan ⟨את⟩ tälle kansalle, joka puhui minulle sanoen: Kevennä iestä, jonka sinun isäsi pani meidän päällemme?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mitä"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "te"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "neuvotte"
+    },
+    {
+      "surface": "ונשיב",
+      "gloss": "ja me vastaamme"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sanan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tälle kansalle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansalle"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tälle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "puhui"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "Kevennä"
+    },
+    {
+      "surface": "מן",
+      "gloss": "vähän"
+    },
+    {
+      "surface": "העל",
+      "gloss": "iestä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "pani"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "sinun isäsi"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "meidän päällemme"
+    }
+  ],
+  "timestamp": "2026-09-07T05:36:12.823817696Z",
+  "model": "glm-5.3"
+}

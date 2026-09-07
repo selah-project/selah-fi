@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 4:17",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Jordanin tasangolla kuningas valoi ne maan savimaassa, Sukkotin (Sukkot) ja Tseredan (Sereda) välillä.",
+  "tokens": [
+    {
+      "surface": "בככר",
+      "gloss": "tasangolla"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanin"
+    },
+    {
+      "surface": "יצקם",
+      "gloss": "valoi ne"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "בעבי",
+      "gloss": "savessa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "maan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "välillä"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkotin"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja välillä"
+    },
+    {
+      "surface": "צרדתה",
+      "gloss": "Tseredan"
+    }
+  ],
+  "timestamp": "2026-09-07T05:31:36.513586606Z",
+  "model": "glm-5.3"
+}

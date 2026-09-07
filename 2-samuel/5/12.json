@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 5:12",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja David tiesi, että Jahve oli vahvistanut hänet kuninkaaksi Israelin ylle, ja että hän oli korottanut hänen kuninkuutensa väkensä Israelin tähden.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "Ja tiesi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "oli vahvistanut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuninkaaksi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ylle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ja että"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "korotti"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "hänen kuninkuutensa"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kansansa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:20:50.410669612Z",
+  "model": "glm-5.3"
+}

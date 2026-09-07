@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Siihen aikaan nousivat Nevukhadnetsarin (Nebukadnessarin), Babelin kuninkaan, palvelijat Jerushalajimiin (Jerusalemiin), ja kaupunki joutui piiritykseen.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Siihen aikaan"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "siihen"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "nousivat"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "palvelijat"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nevukhadnetsarin (Nebukadnessarin)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babelin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimiin (Jerusalemiin)"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ja joutui"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupunki"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "piiritykseen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:59:38.015619818Z",
+  "model": "glm-5.3"
+}

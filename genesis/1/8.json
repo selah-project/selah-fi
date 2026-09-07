@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja kutsui Elohim vahvistuksen taivaaksi; ja tapahtui ilta, ja tapahtui aamu: päivä toinen.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ja kutsui"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "vahvistuksen"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "taivaaksi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja tapahtui"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ilta"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja tapahtui"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "aamu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivä"
+    },
+    {
+      "surface": "שני",
+      "gloss": "toinen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:05:16.254464418Z",
+  "model": "glm-5.3"
+}

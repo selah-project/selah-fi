@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 1:10",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Anna minulle nyt viisaus ja tieto, että voin lähteä ja astua sisään tämän kansan edessä, sillä kuka voi tuomita ⟨את⟩ kansasi, tätä suurta kansaa?",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "viisaus"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "ja tieto"
+    },
+    {
+      "surface": "תן",
+      "gloss": "anna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "ואצאה",
+      "gloss": "että voin lähteä"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "ja astua sisään"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "voi tuomita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansasi, tätä suurta kansaa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kansasi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "suuren"
+    }
+  ],
+  "timestamp": "2026-09-07T05:29:36.422081827Z",
+  "model": "glm-5.3"
+}

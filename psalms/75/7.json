@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 75,
+  "translation": "Sillä ei idästä eikä lännestä eikä autiomaasta tulee korotus.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "idästä"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "eikä lännestä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "autiomaasta"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "tulee korotus"
+    }
+  ],
+  "timestamp": "2026-09-07T02:22:21.201222465Z",
+  "model": "glm-5.3"
+}

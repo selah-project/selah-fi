@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 3:12",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja hän sanoi: Minä olen sinun kanssasi, ja tämä on sinulle merkkinä siitä, että minä olen lähettänyt sinut: kun johdat ⟨את⟩ kansan ulos Mitsrajimista, te palvelette ⟨את⟩ Elohimia tällä vuorella.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Minä olen"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sinun kanssasi"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ja tämä"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "האות",
+      "gloss": "merkkinä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "siitä, että"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "שלחתיך",
+      "gloss": "olen lähettänyt sinut"
+    },
+    {
+      "surface": "בהוציאך",
+      "gloss": "kun johdat ulos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrajimista"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "te palvelette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimia"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimia"
+    },
+    {
+      "surface": "על",
+      "gloss": "-llä"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "vuorella"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tällä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:30:25.500145433Z",
+  "model": "glm-5.3"
+}

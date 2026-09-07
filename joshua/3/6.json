@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 3:6",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja Jehoshua puhui papeille sanoen: Ottakaa ⟨את⟩ liiton arkki ja kulkekaa kansan edellä. Ja he nostivat ⟨את⟩ liiton arkkin ja kulkivat kansan edellä.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja puhui"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "papeille"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "papeille"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "Ottakaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liiton arkkin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkin"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "liiton"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "ja kulkekaa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edellä"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "Ja he nostivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liiton arkkin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkin"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "liiton"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ja kulkivat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edellä"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:40:09.884766794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 3:16",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Mene ja kokoa Israelin vanhimmat ja sano heille: 'Jahve, teidän isienne Elohim, Avrahamin, Jitshakin ja Ja'akovin Elohim, ilmestyi minulle ja sanoi: Olen varmasti ⟨את⟩ teitä käsittänyt ⟨את⟩, ja ⟨את⟩ sen, mikä on teille tehty Mitsrajimissa (Egyptissä).",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Mene"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "ja kokoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin vanhimmat"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vanhimmat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ja sano"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "teidän isienne"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ilmestyi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamin"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshakin"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "ja Ja'akovin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "varmasti"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "olen käsittänyt"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teitä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen, mikä on teille tehty"
+    },
+    {
+      "surface": "העשוי",
+      "gloss": "sen, mikä on tehty"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrajimissa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:30:34.249400365Z",
+  "model": "glm-5.3"
+}

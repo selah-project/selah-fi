@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Sillä minä toin sinut ylös Mitsrajimin (Egyptin) maasta ja orjuuden huoneesta lunastin sinut, ja lähetin sinun edelläsi ⟨את⟩ Moshen (Mooseksen), ⟨את⟩ Aharonin (Aaronin) ja Mirjamin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "toin sinut ylös"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin (Egyptin)"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "ja huoneesta"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "orjuuden"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "lunastin sinut"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "ja lähetin"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sinun edelläsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshen (Mooseksen)"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonin (Aaronin)"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "ja Mirjamin"
+    }
+  ],
+  "timestamp": "2026-09-07T01:38:20.035740921Z",
+  "model": "glm-5.3"
+}

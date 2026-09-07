@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 19:25",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Jota siunasi Jahve Sebaot sanoen: Siunattu ⟨olkoon⟩ kansani Mitsrajim (Egypti), ja kästeni teos Ashshur (Assyria), ja perintöni Israel.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "jota"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "siunasi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "siunattu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kansani"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim (Egypti)"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "ja teos"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "kästeni"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur (Assyria)"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "ja perintöni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-07T00:05:12.912389603Z",
+  "model": "glm-5.3"
+}

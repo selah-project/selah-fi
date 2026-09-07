@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja yksi sanoi: Suostu, ole hyvä, ja kulje ⟨את⟩ palvelijoidesi kanssa. Ja hän sanoi: Minä menen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "Suostu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ole hyvä"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ja kulje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palvelijoidesi"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "palvelijoidesi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Minä"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "menen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:49:32.708201650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 20:7",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja Israelin kuningas kutsui kokoon kaikki maan vanhimmat ja sanoi: Tietäkää nyt ja katsokaa, että hän tämä pahaa etsii, sillä hän lähetti minun luokseni vaimojeni ja poikieni ja hopeani ja kultani vuoksi, enkä minä kieltänyt häneltä mitään.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ja kutsui kokoon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vanhimmat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "דעו",
+      "gloss": "Tietäkää"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ja katsokaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pahaa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "hän etsii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "hän lähetti"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minun luokseni"
+    },
+    {
+      "surface": "לנשי",
+      "gloss": "vaimojeni vuoksi"
+    },
+    {
+      "surface": "ולבני",
+      "gloss": "ja poikieni"
+    },
+    {
+      "surface": "ולכספי",
+      "gloss": "ja hopeani"
+    },
+    {
+      "surface": "ולזהבי",
+      "gloss": "ja kultani"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "מנעתי",
+      "gloss": "minä kieltänyt"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "häneltä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:44:58.938507759Z",
+  "model": "glm-5.3"
+}

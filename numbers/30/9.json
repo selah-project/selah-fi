@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 30:9",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja jos päivänä, jona hänen miehensä kuulee, hän kieltää ⟨את⟩ häntä, hän mitätöi ⟨את⟩ hänen lupauksensa, joka on hänen päällään, ja ⟨את⟩ huultensa hätälausuman, jolla hän sitoi nefeshensa; ja Jahve antaa hänelle anteeksi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ja jos"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kuullessaan"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "hänen miehensä"
+    },
+    {
+      "surface": "יניא",
+      "gloss": "kieltää"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ häntä",
+      "marks": "häntä (pronomininen objekti, ei merkki)"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "hän mitätöi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen lupauksensa"
+    },
+    {
+      "surface": "נדרה",
+      "gloss": "hänen lupauksensa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "on hänen päällään"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hätälausuman"
+    },
+    {
+      "surface": "מבטא",
+      "gloss": "hätälausuman"
+    },
+    {
+      "surface": "שפתיה",
+      "gloss": "huultensa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jolla"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "hän sitoi"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "nefeshensa"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ja Jahve"
+    },
+    {
+      "surface": "יסלח",
+      "gloss": "antaa anteeksi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hänelle"
+    }
+  ],
+  "timestamp": "2026-09-06T22:19:38.216910456Z",
+  "model": "glm-5.3"
+}

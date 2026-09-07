@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 13:15",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja kun kohen näkee ⟨את⟩ elävän lihan, hän julistakoon hänet saastaiseksi: elävä liha ⟨on⟩ saastainen, tsaraat se on.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ja kun näkee"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elävän lihan"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "lihan"
+    },
+    {
+      "surface": "החי",
+      "gloss": "elävän"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "hän julistakoon hänet saastaiseksi"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "liha"
+    },
+    {
+      "surface": "החי",
+      "gloss": "elävä"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "saastainen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-09-06T21:52:16.809006470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja jos mies myy ⟨את⟩ tyttärensä orjattareksi, hän ei lähdä niin kuin orjat lähtevät.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ja jos"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "mies myy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tyttärensä"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "tyttärensä"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "orjattareksi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "hän lähdä"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "niin kuin lähtevät"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "orjat"
+    }
+  ],
+  "timestamp": "2026-09-06T21:37:40.387484531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 12:7",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja nyt asettukaa paikoillenne, niin että minä voin käydä oikeutta ⟨את⟩ kanssanne Jahven edessä ⟨את⟩ kaikkien Jahven vanhurskaiden tekojen suhteen, jotka hän teki ⟨את⟩ kanssanne ja ⟨את⟩ isienne kanssa.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ja nyt"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "asettukaa paikoillenne"
+    },
+    {
+      "surface": "ואשפטה",
+      "gloss": "niin että minä voin käydä oikeutta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kanssanne"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikkien vanhurskaiden tekojen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "vanhurskaat teot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hän teki"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kanssanne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "isienne kanssa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:08:34.850199675Z",
+  "model": "glm-5.3"
+}

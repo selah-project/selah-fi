@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Jahve, sinun hesed (armon) täyttää maan; opeta minulle sinun säädöksesi.",
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "sinun hesed-armon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "täyttää"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "sinun säädöksesi"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "opeta minulle"
+    }
+  ],
+  "timestamp": "2026-09-07T02:46:38.128220867Z",
+  "model": "glm-5.3"
+}

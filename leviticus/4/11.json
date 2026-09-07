@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja ⟨את⟩ härän nahan ja ⟨את⟩ kaiken sen lihan, sen päätä ja sen sääriä, ja sen sisuskalut ja sen ulosteet.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "härän nahan"
+    },
+    {
+      "surface": "עור",
+      "gloss": "nahan"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "härän"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaiken sen lihan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sen lihan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sen päätä"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "päätä"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja sen"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "sääriä"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "ja sen sisuskalut"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "ja sen ulosteet"
+    }
+  ],
+  "timestamp": "2026-09-06T21:48:31.827231499Z",
+  "model": "glm-5.3"
+}

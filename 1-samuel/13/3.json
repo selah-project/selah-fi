@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 13:3",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja Yonatan löi ⟨את⟩ filistealaisten vartioaseman, joka oli Gevassa, ja filistealaiset kuulivat sen; ja Shaul puhalsi shofarilla koko maassa sanoen: Kuulkoot heprealaiset.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Ja löi"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistealaisten vartioaseman"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "vartioaseman"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistealaisten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "Gevassa"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "ja kuulivat"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistealaiset"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ja Shaul"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "puhalsi"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "shofarilla"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "kuulkoot"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "heprealaiset"
+    }
+  ],
+  "timestamp": "2026-09-06T23:09:44.056550029Z",
+  "model": "glm-5.3"
+}

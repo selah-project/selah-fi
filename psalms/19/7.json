@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Taivaan päästä ⟨on⟩ hänen lähtönsä, ja hänen kiertonsa niiden ääriin asti; eikä mikään ole kätketty hänen helteeltään.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "päästä"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "hänen lähtönsä"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "ja hänen kiertonsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "asti"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "niiden ääriin"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä mikään ole"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "kätkeytynyttä"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "hänen helteeltään"
+    }
+  ],
+  "timestamp": "2026-09-07T01:59:23.938618510Z",
+  "model": "glm-5.3"
+}

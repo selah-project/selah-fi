@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 37:8",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Ja hänen veljensä sanoivat hänelle: Aiotko ⟨todella⟩ kuninkaana hallita meitä, vai aiotko ⟨todella⟩ meitä hallita? Ja he vihasivat ⟨את⟩ häntä vielä enemmän hänen uniensa tähden ja hänen sanojensa tähden.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ja he sanoivat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hänen veljensä"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaana ⟨todella⟩"
+    },
+    {
+      "surface": "תמלך",
+      "gloss": "hallita"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "meitä"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vai"
+    },
+    {
+      "surface": "משול",
+      "gloss": "⟨todella⟩"
+    },
+    {
+      "surface": "תמשל",
+      "gloss": "hallita"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "meitä"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "ja he lisäsivät"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vielä"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "vihata"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ häntä",
+      "marks": "häntä (hän)"
+    },
+    {
+      "surface": "על",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "חלמתיו",
+      "gloss": "hänen uniensa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja tähden"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "hänen sanojensa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:21:32.253463174Z",
+  "model": "glm-5.3"
+}

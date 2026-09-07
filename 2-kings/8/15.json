@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 8:15",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja seuraavana päivänä hän otti peitteen ja kastoi sen veteen ja levitti sen hänen kasvojensa päälle, ja hän kuoli; ja Chazael tuli kuninkaaksi hänen sijaansa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "seuraavana päivänä"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "otti"
+    },
+    {
+      "surface": "המכבר",
+      "gloss": "peitteen"
+    },
+    {
+      "surface": "ויטבל",
+      "gloss": "kastoi"
+    },
+    {
+      "surface": "במים",
+      "gloss": "veteen"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "levitti"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "hänen kasvojensa"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ja hän kuoli"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "tuli kuninkaaksi"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "Chazael"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "hänen sijaansa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:50:50.598590536Z",
+  "model": "glm-5.3"
+}

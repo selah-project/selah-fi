@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 20:20",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Sillä ei hän tunne lepoa vatsassaan; halustaan hän ei pelastu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "hän tunne"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "lepoa"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "vatsassaan"
+    },
+    {
+      "surface": "בחמודו",
+      "gloss": "halustaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "hän pelastu"
+    }
+  ],
+  "timestamp": "2026-09-07T03:37:34.819766733Z",
+  "model": "glm-5.3"
+}

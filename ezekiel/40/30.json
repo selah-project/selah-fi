@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 40:30",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ja pihakäytävät ympärillä ympäri: pituus viisi ja kaksikymmentä kyynärää ja leveys viisi kyynärää.",
+  "tokens": [
+    {
+      "surface": "ואלמות",
+      "gloss": "ja pihakäytävät"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympärillä"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympäri"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "pituus"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "viisi"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ja kaksikymmentä"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ja leveys"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "viisi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kyynärää"
+    }
+  ],
+  "timestamp": "2026-09-07T01:14:15.937240973Z",
+  "model": "glm-5.3"
+}

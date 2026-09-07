@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 9:15",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja tämä on sen pakkotyön asia, jonka kuningas Shelomo (Salomo) nosti rakentaakseen ⟨את⟩ Jahven talon ja ⟨את⟩ talonsa ja ⟨את⟩ Millon ja ⟨את⟩ Jerushalajimin (Jerusalem) muurin ja ⟨את⟩ Hatsorin ja ⟨את⟩ Megiddon ja ⟨את⟩ Gezerin.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ja tämä"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asia"
+    },
+    {
+      "surface": "המס",
+      "gloss": "pakkotyön"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nosti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkas"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo (Salomo)"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "rakentaakseen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven talon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "talonsa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "talonsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Millon"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Millon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "muurin"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "muurin"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimin (Jerusalem)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Hatsorin"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "Hatsorin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Megiddon"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "Megiddon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Gezerin"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezerin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:38:53.233624986Z",
+  "model": "glm-5.3"
+}

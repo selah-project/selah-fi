@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja Jehoshua palasi sillä hetkellä ja valtasi ⟨את⟩ Hatsorin, ja ⟨את⟩ sen kuninkaan hän löi miekalla — sillä Hatsor oli ennen kaikkien näiden kuningaskuntien pää.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "palasi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshua"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "sillä hetkellä"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ja valtasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hatsorin"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsorin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen kuninkaan"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "sen kuninkaan"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "löi"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "miekalla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsor"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "ennen"
+    },
+    {
+      "surface": "היא",
+      "gloss": "oli"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pää"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkien"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "kuningaskuntien"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "näiden"
+    }
+  ],
+  "timestamp": "2026-09-06T22:44:46.054367735Z",
+  "model": "glm-5.3"
+}

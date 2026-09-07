@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja hän tulee etelän kuninkaan kuningaskuntaan ja palaa maaperäänsä.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "Ja hän tulee"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "kuningaskuntaan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "etelän"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ja palaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨omalle⟩"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "maaperäänsä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:53:49.902735108Z",
+  "model": "glm-5.3"
+}

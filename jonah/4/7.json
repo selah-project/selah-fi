@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Mutta Elohim määräsi madon aamunkoitteen noustessa seuraavana päivänä, ja se löi ⟨את⟩ kikajon-kasvin, ja se kuivui.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "mutta määräsi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "madon"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "noustessa"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "aamunkoitteen"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "seuraavana päivänä"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "ja löi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kikajon-kasvin"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "kikajon-kasvin"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "ja se kuivui"
+    }
+  ],
+  "timestamp": "2026-09-07T01:35:14.021363140Z",
+  "model": "glm-5.3"
+}

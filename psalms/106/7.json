@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 106,
+  "translation": "Isämme Mitsrajimissa eivät ottaneet vaarin ihmeistäsi, eivät he muistaneet ⟨את⟩ runsasta hesediäsi (⟨armon⟩ ⟨runsautta⟩), vaan he kapinoivat merellä, Kaislamerellä.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "Isämme"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrajimissa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "ottaneet vaarin"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ihmeistäsi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "he muistaneet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runsasta hesediäsi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "runsasta"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "hesediäsi"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "vaan he kapinoivat"
+    },
+    {
+      "surface": "על",
+      "gloss": "merellä"
+    },
+    {
+      "surface": "ים",
+      "gloss": "merellä"
+    },
+    {
+      "surface": "בים",
+      "gloss": "merellä"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Kaislamerellä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:39:00.360798751Z",
+  "model": "glm-5.3"
+}

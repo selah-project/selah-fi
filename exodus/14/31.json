@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 14:31",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja Israel näki ⟨את⟩ suuren käden, jonka Jahve oli tehnyt Mitsrajimissa, ja kansa pelkäsi ⟨את⟩ Jahvea, ja he uskoivat Jahveen ja Mosheen (Mooses), hänen palvelijaansa.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ja näki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suuren käden"
+    },
+    {
+      "surface": "היד",
+      "gloss": "käden"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "suuren"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "oli tehnyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrajimissa"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ja pelkäsi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "ויאמינו",
+      "gloss": "ja he uskoivat"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahveen"
+    },
+    {
+      "surface": "ובמשה",
+      "gloss": "ja Mosheen"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "hänen palvelijaansa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:33:59.184278966Z",
+  "model": "glm-5.3"
+}

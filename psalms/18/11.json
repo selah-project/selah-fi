@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja hän ratsasti kerubin ja lensi, ja hän liihotti tuulen siipien päällä.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "ja hän ratsasti"
+    },
+    {
+      "surface": "על",
+      "gloss": "(päällä)"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "kerubin"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "ja lensi"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "ja liihotti"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "siipien"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "tuulen"
+    }
+  ],
+  "timestamp": "2026-09-07T01:57:46.897829227Z",
+  "model": "glm-5.3"
+}

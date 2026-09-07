@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Älä halajansa hänen herkkujaan, sillä se ⟨on⟩ petollista leipää.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "halajansa"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "hänen herkkujaan"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "sillä se"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "petollista"
+    }
+  ],
+  "timestamp": "2026-09-07T03:15:19.274149315Z",
+  "model": "glm-5.3"
+}

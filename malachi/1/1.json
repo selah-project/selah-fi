@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Taakka: Jahven sana Israelille Malakin käden kautta.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Taakka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelille"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käden kautta"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Malakin"
+    }
+  ],
+  "timestamp": "2026-09-07T01:49:50.386915662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 58,
+  "translation": "Ei, sydämessänne te harjoitatte vääryyttä, maassa kätenne väkivallan te punnitsette.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Ei"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "sydämessänne"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "vääryyttä"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "te harjoitatte"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "väkivallan"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "kätenne"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "te punnitsette"
+    }
+  ],
+  "timestamp": "2026-09-07T02:14:28.851408337Z",
+  "model": "glm-5.3"
+}

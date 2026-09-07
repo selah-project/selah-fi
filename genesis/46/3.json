@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 46:3",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 46,
+  "translation": "Ja hän sanoi: ”Minä olen El, isäsi Elohim. Älä pelkää laskeutua Mitsrajimiin (Egyptiin), sillä suureksi kansaksi minä sinut siellä teen.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Minä"
+    },
+    {
+      "surface": "האל",
+      "gloss": "olen El"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "isäsi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "pelkää"
+    },
+    {
+      "surface": "מרדה",
+      "gloss": "laskeutua"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrajimiin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "kansaksi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suureksi"
+    },
+    {
+      "surface": "אשימך",
+      "gloss": "minä sinut teen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:25:59.994953360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 34:29",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "Ja ⟨את⟩ kaiken heidän omaisuutensa ja ⟨את⟩ kaikki heidän lapsensa ja ⟨את⟩ heidän vaimonsa he veivät vankeuteen, ja he ryöstivät, myös ⟨את⟩ kaiken, mitä talossa oli.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaiken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "heidän omaisuutensa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "heidän lapsensa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "heidän vaimonsa"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "heidän vaimonsa"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "veivät vankeuteen"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "ja he ryöstivät"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "myös ⟨את⟩",
+      "marks": "kaiken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "talossa oli"
+    }
+  ],
+  "timestamp": "2026-09-06T21:21:21.440264718Z",
+  "model": "glm-5.3"
+}

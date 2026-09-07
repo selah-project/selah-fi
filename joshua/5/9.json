@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 5:9",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja Jahve sanoi Jehoshualle (Joosua): Tänä päivänä minä kieritin pois ⟨את⟩ Mitsrajimin (Egypti) häpeän teidän päältänne. Ja hän kutsui sen paikan nimeksi Gilgal, tähän päivään asti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…lle"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshua (Joosua)"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Tänä päivänä"
+    },
+    {
+      "surface": "גלותי",
+      "gloss": "kieritin pois"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajimin häpeän"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "häpeän"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin (Egypti)"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "teidän päältänne"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "Ja hän kutsui"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimeksi"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "sen paikan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tuon"
+    },
+    {
+      "surface": "גלגל",
+      "gloss": "Gilgal"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päivään"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tähän"
+    }
+  ],
+  "timestamp": "2026-09-06T22:39:35.122694857Z",
+  "model": "glm-5.3"
+}

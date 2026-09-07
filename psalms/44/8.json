@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 44,
+  "translation": "Sillä sinä pelastit meidät ahdistajistamme ja vihaajamme sinä hävilit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "pelastit meidät"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "ahdistajistamme"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "ja vihaajamme"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "hävilit"
+    }
+  ],
+  "timestamp": "2026-09-07T02:08:19.236017002Z",
+  "model": "glm-5.3"
+}

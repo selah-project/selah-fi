@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 13:25",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja kun kohen on nähnyt ⟨את⟩ sen, ja katso, karva on muuttunut valkoiseksi täplässä ja sen ulkonäkö on syvempi kuin ihossa — tsaraat se ⟨on⟩, puhjennut palovammassa; ja kohen julistaa hänet ⟨את⟩ epäpuhtaaksi: tsaraatin tauti se ⟨on⟩.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ja on nähnyt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sen (palovamman täplän)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "on muuttunut"
+    },
+    {
+      "surface": "שער",
+      "gloss": "karva"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "valkoiseksi"
+    },
+    {
+      "surface": "בבהרת",
+      "gloss": "täplässä"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "ja sen ulkonäkö"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "syvempi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuin"
+    },
+    {
+      "surface": "העור",
+      "gloss": "iho"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "במכוה",
+      "gloss": "palovammassa"
+    },
+    {
+      "surface": "פרחה",
+      "gloss": "on puhjennut"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ja julistaa epäpuhtaaksi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hänet"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "tauti"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-09-06T21:53:10.719066411Z",
+  "model": "glm-5.3"
+}

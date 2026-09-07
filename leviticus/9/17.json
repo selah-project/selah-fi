@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 9:17",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja hän toimitti ⟨את⟩ ruokouhrin, täytti kouransa siitä ja savutti ⟨sen⟩ alttarille, aamun polttouhrin lisäksi.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "toimitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruokouhrin"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ruokouhrin"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "täytti"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "kouransa"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "siitä"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "savutti"
+    },
+    {
+      "surface": "על",
+      "gloss": "alttarille"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarille"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "lisäksi"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "polttouhrin"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "aamun"
+    }
+  ],
+  "timestamp": "2026-09-06T21:50:53.459657783Z",
+  "model": "glm-5.3"
+}

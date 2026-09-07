@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja David näki, että Shaul oli lähtenyt etsimään ⟨את⟩ hänen elämäänsä; ja David oli Zifin erämaassa Horesassa (Horessa).",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ja näki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "oli lähtenyt"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "etsimään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen elämäänsä"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "hänen elämäänsä"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ja David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "erämaassa"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zifin"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "Horesassa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:14:24.188147583Z",
+  "model": "glm-5.3"
+}

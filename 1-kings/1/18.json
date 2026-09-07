@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 1:18",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja nyt, katso, Adonijah on kuninkaana — eikä sinä, minun herrani kuningas, ole ⟨sitä⟩ tietänyt.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ja nyt"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "katso"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Adonijah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "on kuninkaana"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ja nyt"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "minun herrani"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "sinä tiedät"
+    }
+  ],
+  "timestamp": "2026-09-06T23:32:18.043648745Z",
+  "model": "glm-5.3"
+}

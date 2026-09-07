@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "amos 5:26",
+  "book": "amos",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja te kannatte ⟨את⟩ Sikkut-kuninkaanne ja ⟨את⟩ Kijunin, kuvienne tähtijumalan, jonka te teitte itsellenne.",
+  "tokens": [
+    {
+      "surface": "ונשאתם",
+      "gloss": "ja te kannatte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sikkut-kuninkaanne"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sikkut"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "kuninkaanne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Kijunin"
+    },
+    {
+      "surface": "כיון",
+      "gloss": "Kijunin"
+    },
+    {
+      "surface": "צלמיכם",
+      "gloss": "kuvienne"
+    },
+    {
+      "surface": "כוכב",
+      "gloss": "tähti"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jumalanne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "te teitte"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "itsellenne"
+    }
+  ],
+  "timestamp": "2026-09-07T01:29:37.736488422Z",
+  "model": "glm-5.3"
+}

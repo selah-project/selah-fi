@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja sinun silmäsi ei saa sääliä: nefesh nefeshin edestä, silmä silmän edestä, hammas hampaan edestä, käsi käden edestä, jalka jalan edestä.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "sääli"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "silmäsi"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "nefeshin edestä"
+    },
+    {
+      "surface": "עין",
+      "gloss": "silmä"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "silmän edestä"
+    },
+    {
+      "surface": "שן",
+      "gloss": "hammas"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "hampaan edestä"
+    },
+    {
+      "surface": "יד",
+      "gloss": "käsi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käden edestä"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "jalka"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "jalan edestä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:31:24.321717688Z",
+  "model": "glm-5.3"
+}

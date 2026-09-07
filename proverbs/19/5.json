@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 19:5",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Valheiden todistaja ei jää rankaisematta, ja valheita puhaltaessaan ⟨kukaan⟩ ei pääse pakoon.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "todistaja"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "valheiden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "jää rankaisematta"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "ja joka puhaltaa"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "valheita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "pääse pakoon"
+    }
+  ],
+  "timestamp": "2026-09-07T03:12:00.760531154Z",
+  "model": "glm-5.3"
+}

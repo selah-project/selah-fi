@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 14:17",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "joka pani maailman kuin erämaaksi ja hävitti sen kaupungit, hän ei avannut vangeilleen kotia.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "pani"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "maailman"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "kuin erämaaksi"
+    },
+    {
+      "surface": "ועריו",
+      "gloss": "ja sen kaupungit"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "hävitti"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "vangeilleen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "avannut"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "kotia"
+    }
+  ],
+  "timestamp": "2026-09-07T00:04:53.282318040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 15:15",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Ja leviläisten pojat kantoivat ⟨את⟩ Elohimin arkin, niin kuin Moshe (Mooses) oli käskenyt Jahven sanan mukaan, olkapäillään sauvoilla, niiden yllä.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "ja kantoivat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviläisten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimin arkin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oli käskenyt"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mooses)"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sanan mukaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "בכתפם",
+      "gloss": "olkapäillään"
+    },
+    {
+      "surface": "במטות",
+      "gloss": "sauvoilla"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "niiden yllä"
+    }
+  ],
+  "timestamp": "2026-09-07T05:21:24.228422019Z",
+  "model": "glm-5.3"
+}

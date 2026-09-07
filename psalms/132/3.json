@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 132,
+  "translation": "Jos menen taloni telttaan, jos nousen petini vuoteelle —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jos"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "menen"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "telttaan"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "taloni"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "nousen"
+    },
+    {
+      "surface": "על",
+      "gloss": "vuoteelle"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "petini"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "lepovuoteeni"
+    }
+  ],
+  "timestamp": "2026-09-07T02:51:11.518501423Z",
+  "model": "glm-5.3"
+}

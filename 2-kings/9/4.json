@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 9:4",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja nuori mies, se nuori mies, navi, meni Ramot-Giladiin.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ja meni"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "nuori mies"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "se nuori mies"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "navi"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladiin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:51:00.545983611Z",
+  "model": "glm-5.3"
+}

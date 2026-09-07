@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 21:5",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Eivät he kaluta kaljua päähänsä eivätkä partansa kulmia ajaisi, eivätkä ihonsa pintaan viiltäisi viiltoa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "יקרחה",
+      "gloss": "kaluta"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "kaljua"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "päähänsä"
+    },
+    {
+      "surface": "ופאת",
+      "gloss": "eivätkä kulmaa"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "partansa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "ajaisi"
+    },
+    {
+      "surface": "ובבשרם",
+      "gloss": "eivätkä ihonsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "ישרטו",
+      "gloss": "viiltäisi"
+    },
+    {
+      "surface": "שרטת",
+      "gloss": "viiltoa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:57:56.078777170Z",
+  "model": "glm-5.3"
+}

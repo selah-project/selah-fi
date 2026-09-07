@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja sen syöjä kantaa pahennoksensa, koska hän häpäisi ⟨את⟩ Jahven pyhän; ja se nefesh ⟨ihminen⟩ hävitettäköön kansansa keskeltä.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "Ja sen syöjä"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "pahennoksensa"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "kantaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven pyhän"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhän"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "hävysi"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "ja hävitettäköön"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "se nefesh"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "kansansa keskeltä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:56:00.976947173Z",
+  "model": "glm-5.3"
+}

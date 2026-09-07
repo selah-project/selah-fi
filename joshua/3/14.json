@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 3:14",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja tapahtui, kun kansa lähti majoistaan ylittääkseen ⟨את⟩ Jordanin, ja kohenit, liiton arkkia kantavat, kansan edellä.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "kun… lähti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "מאהליהם",
+      "gloss": "majoistaan"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "ylittääkseen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordanin"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordanin"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "ja kohenit"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "kantavat"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "liiton arkkia"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "liiton"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edellä"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:40:12.494428071Z",
+  "model": "glm-5.3"
+}

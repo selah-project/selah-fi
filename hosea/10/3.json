@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Sillä nyt he sanovat: ”Ei meillä ⟨ole⟩ kuningasta, sillä emme pelänneet ⟨את⟩ Jahvea — ja kuningas, mitä hän tekee meille?”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "he sanovat"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningasta"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meillä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emme"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "pelänneet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "ja kuningas"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hän tekee"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meille"
+    }
+  ],
+  "timestamp": "2026-09-07T01:25:01.255352273Z",
+  "model": "glm-5.3"
+}

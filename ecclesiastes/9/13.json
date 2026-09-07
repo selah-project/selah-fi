@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Myös tämän minä olen nähnyt: viisautta auringon alla, ja suuri se ⟨on⟩ minun mielestäni.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Myös"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "olen nähnyt"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "viisautta"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alla"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "auringon"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "ja suuri"
+    },
+    {
+      "surface": "היא",
+      "gloss": "se ⟨on⟩"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minun mielestäni"
+    }
+  ],
+  "timestamp": "2026-09-07T04:38:18.094235102Z",
+  "model": "glm-5.3"
+}

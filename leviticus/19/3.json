@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Jokainen äitiänsä ja isäänsä pelatkoon, ja ⟨את⟩ Shabbattini pitäkää; minä olen Jahve, Elohiminne.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "jokainen"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "äitiänsä"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "ja isäänsä"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "pelatkoon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Shabbattini"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Shabbattini"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "pitäkää"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminne"
+    }
+  ],
+  "timestamp": "2026-09-06T21:56:01.131631236Z",
+  "model": "glm-5.3"
+}

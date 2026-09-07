@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja teki Elohim ⟨את⟩ kaksi suurta valaisinta: ⟨את⟩ suuren valaisimen hallitsemaan päivää ja ⟨את⟩ pienen valaisimen hallitsemaan yötä — ja ⟨את⟩ tähdet.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ja teki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaksi suurta valaisinta"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "valaisinta"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "suurta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suuren valaisimen"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "valaisimen"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "suuren"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "hallitsemaan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päivää"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "pienen valaisimen"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "valaisimen"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "pienen"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "hallitsemaan"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "yötä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "tähdet"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "tähdet"
+    }
+  ],
+  "timestamp": "2026-09-06T21:04:43.428316100Z",
+  "model": "glm-5.3"
+}

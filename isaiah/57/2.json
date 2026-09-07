@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 57,
+  "translation": "Rauhaan hän saapuu, he lepäävät vuoteilleen, joka vaelsi suoraa tietä.",
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "saapuu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rauhaan"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "he lepäävät"
+    },
+    {
+      "surface": "על",
+      "gloss": "vuoteilleen"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "vuoteilleen"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "joka vaelsi"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "suoraa tietä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:19:46.288895730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 51,
+  "translation": "Pelasta minut verilöylystä, Elohim, pelastukseni Elohim, niin kieleni riemuitsen sinun vanhursauttasi.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "pelasta minut"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "verilöylystä"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "pelastukseni"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "riemuitsen"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "kieleni"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "vanhursauttasi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:13:08.678307605Z",
+  "model": "glm-5.3"
+}

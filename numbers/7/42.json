@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 7:42",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Kuudentena päivänä Gadin poikien päämies, Eljasaf, Deuelin poika ⟨uhrai⟩.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "kuudentena"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "päämies"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "poikien"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadin"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Eljasaf"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Deuelin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:04:50.214382367Z",
+  "model": "glm-5.3"
+}

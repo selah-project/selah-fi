@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 81,
+  "translation": "Kuorojohtajalle, Gittit-sävellyksellä, Asafille.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kuorojohtajalle"
+    },
+    {
+      "surface": "על",
+      "gloss": "sävellyksellä"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gittit"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafille"
+    }
+  ],
+  "timestamp": "2026-09-07T02:26:07.367342963Z",
+  "model": "glm-5.3"
+}

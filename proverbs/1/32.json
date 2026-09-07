@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 1:32",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Sillä luopumus tappaa yksinkertaiset, ja tyhmien turva tuhoaa heidät.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "משובת",
+      "gloss": "luopumus"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "yksinkertaiset"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "tappaa heidät"
+    },
+    {
+      "surface": "ושלות",
+      "gloss": "ja turva"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "tyhmien"
+    },
+    {
+      "surface": "תאבדם",
+      "gloss": "tuhoaa heidät"
+    }
+  ],
+  "timestamp": "2026-09-07T03:00:07.941102490Z",
+  "model": "glm-5.3"
+}

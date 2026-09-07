@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 12:1",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja Jahve sanoi Avramille (Abram): ”Mene itsellesi pois maastasi ja sukukunnastasi ja isäsi talosta siihen maahan, jonka minä sinulle näytän.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(-lle)"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram (Abram)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Mene"
+    },
+    {
+      "surface": "לך",
+      "gloss": "itsellesi"
+    },
+    {
+      "surface": "מארצך",
+      "gloss": "pois maastasi"
+    },
+    {
+      "surface": "וממולדתך",
+      "gloss": "ja sukukunnastasi"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "ja talosta"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "isäsi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-lle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "minä sinulle näytän"
+    }
+  ],
+  "timestamp": "2026-09-06T21:09:28.721309204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Teidän isänne — missä he ovat? Ja profeetat — elävätkö he ikuisesti?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "teidän isänne"
+    },
+    {
+      "surface": "איה",
+      "gloss": "missä"
+    },
+    {
+      "surface": "הם",
+      "gloss": "he"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "ja profeetat"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "ikuisesti"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "elävätkö"
+    }
+  ],
+  "timestamp": "2026-09-07T01:43:01.001388778Z",
+  "model": "glm-5.3"
+}

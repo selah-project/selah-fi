@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja antaa Jahve, sinun Elohimisi, ⟨את⟩ kaikki nämä kiroukset vihollisiesi päälle ja vihaajiesi päälle, jotka sinua vainosivat.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "ja antaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sinun Elohimisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki nämä kiroukset"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "kiroukset"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "על",
+      "gloss": "vihollisiesi päälle"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "vihollisiesi päälle"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja vihaajiesi päälle"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "ja vihaajiesi päälle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "sinua vainosivat"
+    }
+  ],
+  "timestamp": "2026-09-07T04:15:53.155702929Z",
+  "model": "glm-5.3"
+}

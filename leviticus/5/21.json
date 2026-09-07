@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 5:21",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Jos nefesh tekee syntiä ja pettää petoksella Jahvea ja kieltää tovereiltaan: talletuksen tai käden pantin, tai ryöstää, tai painostaa ⟨את⟩ toverinsa —",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jos"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "tekee syntiä"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ja pettää"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "petoksella"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "ja kieltää"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "toreiltaan"
+    },
+    {
+      "surface": "בפקדון",
+      "gloss": "talletuksen"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "בתשומת",
+      "gloss": "pannin"
+    },
+    {
+      "surface": "יד",
+      "gloss": "käden"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "בגזל",
+      "gloss": "ryöstää"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "painostaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toverinsa"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "toverinsa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:49:40.264676993Z",
+  "model": "glm-5.3"
+}

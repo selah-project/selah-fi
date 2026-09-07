@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Joka kaivaa kuopan, siihen hän putoaa, ja joka murtaa aidan, käärme puree häntä.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "Joka kaivaa"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "kuopan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siihen"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "hän putoaa"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "ja joka murtaa"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "aidan"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "puree"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "käärme"
+    }
+  ],
+  "timestamp": "2026-09-07T04:38:17.153415920Z",
+  "model": "glm-5.3"
+}

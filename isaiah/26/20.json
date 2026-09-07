@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 26:20",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Mene, kansani, siirry kammioihisi ja sulje ovesi sisäpuolellesi, kätkeydy hetken ajan, kunnes viha menee ohitse.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "mene"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kansani"
+    },
+    {
+      "surface": "בא",
+      "gloss": "siirry"
+    },
+    {
+      "surface": "בחדריך",
+      "gloss": "kammioihisi"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "ja sulje"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "ovesi"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "sisäpuolellesi"
+    },
+    {
+      "surface": "חבי",
+      "gloss": "kätkeydy"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "hetken"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "ajan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "menee ohitse"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "viha"
+    }
+  ],
+  "timestamp": "2026-09-07T00:08:08.574421898Z",
+  "model": "glm-5.3"
+}

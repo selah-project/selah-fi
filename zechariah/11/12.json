@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 11:12",
+  "book": "zechariah",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja minä sanoin heille: jos se on hyvä teidän silminne, antakaa palkkani, ja jos ei, jättäkää. Ja he punnitsivat ⟨את⟩ palkkani — kolmekymmentä hopeaa.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ja minä sanoin"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvä"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "teidän silminne"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "antakaa"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "palkkani"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ja jos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "jättäkää"
+    },
+    {
+      "surface": "וישקלו",
+      "gloss": "Ja he punnitsivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palkkani"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "palkkani"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "kolmekymmentä"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "hopeaa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:47:38.700993189Z",
+  "model": "glm-5.3"
+}

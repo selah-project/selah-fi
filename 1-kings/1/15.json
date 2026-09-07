@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja Bat-Sheba (Batsabea) meni kuninkaan luo sisähuoneeseensa; ja kuningas oli hyvin vanha, ja Avishag (Abisag), shunamilainen (Sunamin nainen), palveli ⟨את⟩ kuningasta.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "Ja meni"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sheba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "sisähuoneeseensa"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "ja kuningas"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "oli vanha"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hyvin"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "ja Avishag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "shunamilainen"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "palveli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuningasta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningasta"
+    }
+  ],
+  "timestamp": "2026-09-07T04:25:10.760640738Z",
+  "model": "glm-5.3"
+}

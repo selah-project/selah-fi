@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 107,
+  "translation": "Ja he huusivat Jahvea ahdistuksessaan; ahdistuksistaan hän pelasti heidät.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "Ja he huusivat"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ahdistuksessaan"
+    },
+    {
+      "surface": "להם",
+      "gloss": ""
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "ahdistuksistaan"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "hän pelasti heidät"
+    }
+  ],
+  "timestamp": "2026-09-07T02:39:48.630179699Z",
+  "model": "glm-5.3"
+}

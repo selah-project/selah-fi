@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 10:12",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja Israelin pojat lähtivät etappeineen Sinain erämaasta, ja pilvi asettui Paranin erämaahan.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "Ja lähtivät"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "etappeineen"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "erämaasta"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinain"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "ja asettui"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "pilvi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "erämaahan"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paranin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:06:35.795680661Z",
+  "model": "glm-5.3"
+}

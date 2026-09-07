@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 9:32",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja hän nosti kasvonsa ikkunaa kohti ja sanoi: Kuka on ⟨את⟩ kanssani? kuka? Ja kaksi tai kolme hovimiestä katsahti häntä kohti.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Ja nosti"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "kasvonsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "ikkunaa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kuka"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kanssani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "וישקיפו",
+      "gloss": "ja katsahtivat"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "häntä kohti"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "סריסים",
+      "gloss": "hovimiestä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:50:10.748177184Z",
+  "model": "glm-5.3"
+}

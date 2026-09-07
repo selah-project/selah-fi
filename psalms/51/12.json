@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 51,
+  "translation": "Puhdassydäminen luo minulle, Elohim, ja lujan hengen uudista minun sisimmässäni.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "sydän"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "puhdassydäminen"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "luo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ja lujan hengen"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "lujan"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "uudista"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "minun sisimmässäni"
+    }
+  ],
+  "timestamp": "2026-09-07T02:12:25.891069893Z",
+  "model": "glm-5.3"
+}

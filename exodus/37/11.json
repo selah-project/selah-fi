@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Ja hän päällysti ⟨את⟩ sen puhtaalla kullalla ja teki sille kultaisen seppeleen ympäri.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "ja hän päällysti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sen"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kullalla"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "puhtaalla"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ja hän teki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sille"
+    },
+    {
+      "surface": "זר",
+      "gloss": "seppeleen"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kultaisen"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympäri"
+    }
+  ],
+  "timestamp": "2026-09-07T04:13:04.118358672Z",
+  "model": "glm-5.3"
+}

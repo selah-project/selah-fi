@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Sillä he eivät ymmärrä Jahven tekoja enkä hänen kättensä työtä; hän hajottaa heidät eikä rakenna heitä.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ymmärrä"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "tekoja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "työtä"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "kättensä"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "hajottaa heidät"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "rakenna heitä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:01:35.525945674Z",
+  "model": "glm-5.3"
+}

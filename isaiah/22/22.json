@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 22:22",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja minä panen Davidin talon avaimen hänen olkapäälleen, ja hän avaa, eikä ketään joka sulkee, ja hän sulkee, eikä ketään joka avaa.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ja minä panen"
+    },
+    {
+      "surface": "מפתח",
+      "gloss": "avaimen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "hänen olkapäälleen"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "ja hän avaa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä ketään"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "joka sulkee"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "ja hän sulkee"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä ketään"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "joka avaa"
+    }
+  ],
+  "timestamp": "2026-09-07T00:07:08.551464071Z",
+  "model": "glm-5.3"
+}

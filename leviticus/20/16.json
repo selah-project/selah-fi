@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja nainen, joka lähestyy mitä tahansa karjaa makaamista varten ⟨את⟩ sitä — sinä tapat ⟨את⟩ naisen ja ⟨את⟩ karjan: kuolemalla heidät surmattakoon, heidän verensä ⟨on⟩ heissä.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "Ja nainen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "lähestyy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mitä tahansa"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "karjaa"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "makaamista varten"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ sitä",
+      "marks": "sit (karjan)"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "sinä tapat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naisen"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "naisen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "karjan"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "karjan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kuolemalla"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "heidät surmattakoon"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "heidän verensä"
+    },
+    {
+      "surface": "בם",
+      "gloss": "heissä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:58:21.399081971Z",
+  "model": "glm-5.3"
+}

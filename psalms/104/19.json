@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 104:19",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 104,
+  "translation": "Hän teki kuun määräaikoihin; aurinko tietää laskemisensa.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "teki"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "למועדים",
+      "gloss": "määräaikoihin"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "aurinko"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tietää"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "laskemisensa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:36:35.677195229Z",
+  "model": "glm-5.3"
+}

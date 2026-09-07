@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 69,
+  "translation": "Minusta puhuvat portissa istujat, ja minä olen väkijuomien juojien soittolaulu.",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "puhuvat"
+    },
+    {
+      "surface": "בי",
+      "gloss": "minusta"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "istujat"
+    },
+    {
+      "surface": "שער",
+      "gloss": "portissa"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "soittolaulu"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "juojien"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "väkijuomien"
+    }
+  ],
+  "timestamp": "2026-09-07T02:18:51.519190324Z",
+  "model": "glm-5.3"
+}

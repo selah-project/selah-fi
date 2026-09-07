@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 46,
+  "translation": "Hän antaa sotien levätä maan ääreen asti; jousen hän murskaa, keihään hän katkaisee, sotavaunut hän polttaa tulessa.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "antaa levätä"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "sotien"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "ääreen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "jousen"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "hän murskaa"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "hän katkaisee"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "keihään"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "sotavaunut"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "hän polttaa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulessa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:09:49.029607527Z",
+  "model": "glm-5.3"
+}

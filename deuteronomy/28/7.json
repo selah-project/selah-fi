@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 28:7",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Antaa Jahve ⟨את⟩ vihollisesi, jotka sinua vastaan nousevat, lyötäviksi sinun edessäsi; yhdellä tiellä he lähtevät sinua vastaan, ja seitsemällä tiellä he pakenevat sinun edestäsi.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "Antaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vihollisesi"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "vihollisesi"
+    },
+    {
+      "surface": "הקמים",
+      "gloss": "jotka nousevat"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sinua vastaan"
+    },
+    {
+      "surface": "נגפים",
+      "gloss": "lyötäviksi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sinun edessäsi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tiellä"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yhdellä"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "he lähtevät"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinua vastaan"
+    },
+    {
+      "surface": "ובשבעה",
+      "gloss": "ja seitsemällä"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "tiellä"
+    },
+    {
+      "surface": "ינוסו",
+      "gloss": "he pakenevat"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sinun edestäsi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:35:24.399223598Z",
+  "model": "glm-5.3"
+}

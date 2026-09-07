@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ja siitä pesivät itsensä Moshe (Mooses) ja Aharon (Aaron) ja hänen poikansa, ⟨את⟩ kätensä ja ⟨את⟩ jalkansa.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "ja pesivät"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "siitä"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mooses)"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ja Aharon (Aaron)"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ja hänen poikansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kätensä"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "kätensä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "jalkansa"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "jalkansa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:47:28.619799935Z",
+  "model": "glm-5.3"
+}

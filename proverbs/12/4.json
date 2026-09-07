@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Vahva vaimo on miehensä kruunu, mutta häpiää tuottava on kuin mädänneisyyshänen luissaan.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "vaimo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "vahva"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "kruunu"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "miehensä"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "mutta kuin mädänneisyys"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "hänen luissaan"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "häpiää tuottava"
+    }
+  ],
+  "timestamp": "2026-09-07T03:07:26.232529195Z",
+  "model": "glm-5.3"
+}

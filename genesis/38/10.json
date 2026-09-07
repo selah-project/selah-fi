@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 38,
+  "translation": "Ja se oli pahaa Jahven silmissä, mitä hän oli tehnyt; ja hän tappoi myös hänet ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ja oli pahaa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "silmissä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hän oli tehnyt"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ja hän tappoi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hänet"
+    }
+  ],
+  "timestamp": "2026-09-06T21:22:20.637473505Z",
+  "model": "glm-5.3"
+}

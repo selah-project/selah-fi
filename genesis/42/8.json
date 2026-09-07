@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Ja Josef tunsi ⟨את⟩ veljensä, mutta he eivät tunteneet häntä.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "Ja tunsi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veljensä"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "veljensä"
+    },
+    {
+      "surface": "והם",
+      "gloss": "mutta he"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "tunteneet häntä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:24:24.360866469Z",
+  "model": "glm-5.3"
+}

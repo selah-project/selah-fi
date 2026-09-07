@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja sinä lyöd Ahabin, isäntäsi, huoneen ⟨את⟩, ja minä maksan kostoksi palvelijoideni profeettojen veren ja kaikkien Jahven palvelijoiden veren Isebelin kädestä.”",
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "Ja sinä lyöd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahabin huoneen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabin (Ahab)"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "isäntäsi"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "ja minä maksan kostoksi"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "veren"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "palvelijoideni"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "profeettojen"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "ja veren"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkien"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "palvelijoiden"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kädestä"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Isebelin (Iisabel)"
+    }
+  ],
+  "timestamp": "2026-09-06T23:50:03.427404202Z",
+  "model": "glm-5.3"
+}

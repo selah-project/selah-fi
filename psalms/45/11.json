@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 45,
+  "translation": "Kuule, tytär, ja katso, ja taivuta korvasi, ja unohda kansasi ja isäsi huone.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "Kuule"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tytär"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "ja taivuta"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "korvasi"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "ja unohda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kansasi"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ja huone"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "isäsi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:09:34.891479642Z",
+  "model": "glm-5.3"
+}

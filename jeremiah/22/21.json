@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 22:21",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Puhuin sinulle sinun levollisuutesi aikana, mutta sinä sanoit: ”En kuule.” Tämä on sinun tiesi nuoruudestasi asti, sillä et ole kuunnellut minun ääntäni.",
+  "tokens": [
+    {
+      "surface": "דברתי",
+      "gloss": "Puhuin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "בשלותיך",
+      "gloss": "sinun levollisuutesi aikana"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "sanoit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "En"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "kuule"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Tämä"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "sinun tiesi"
+    },
+    {
+      "surface": "מנעוריך",
+      "gloss": "nuoruudestasi asti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "et"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ole kuunnellut"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "minun ääntäni"
+    }
+  ],
+  "timestamp": "2026-09-07T00:32:29.745785928Z",
+  "model": "glm-5.3"
+}

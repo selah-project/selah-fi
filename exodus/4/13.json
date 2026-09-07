@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja hän sanoi: Pyydän, Adonai, lähetä pyydän käden kautta, jonka sinä lähetät.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "pyydän"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "lähetä"
+    },
+    {
+      "surface": "נא",
+      "gloss": "pyydän"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käden kautta"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "jonka sinä lähetät"
+    }
+  ],
+  "timestamp": "2026-09-06T21:30:02.384943516Z",
+  "model": "glm-5.3"
+}

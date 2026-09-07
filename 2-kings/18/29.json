@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 18:29",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Näin sanoi kuningas: älköön Hizkijahu (Hiskia) viekoistako teitä, sillä hän ei voi pelastaa ⟨את⟩ teidät hänen kädestään.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Näin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älköön"
+    },
+    {
+      "surface": "ישיא",
+      "gloss": "viekoistako"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teitä"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkijahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "hän voi"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "pelastaa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät",
+      "marks": "teidät"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "hänen kädestään"
+    }
+  ],
+  "timestamp": "2026-09-07T04:25:53.369334707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 7:38",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "jonka Jahve käski ⟨את⟩ Moshea (Mooses) Sinain vuorella, päivänä jona hän käski ⟨את⟩ Israelin lapsia tuomaan ⟨את⟩ korbaniansa uhriksi Jahvelle, Sinain erämaassa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "käski"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshea"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "Sinain vuorella"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "צותו",
+      "gloss": "jona hän käski"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin lapsia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lapsia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "tuomaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korbaniansa"
+    },
+    {
+      "surface": "קרבניהם",
+      "gloss": "korbaniansa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "erämaassa"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinain"
+    }
+  ],
+  "timestamp": "2026-09-06T21:47:51.428690514Z",
+  "model": "glm-5.3"
+}

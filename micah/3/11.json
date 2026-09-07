@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 3:11",
+  "book": "micah",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Sen päämiehet tuomitsevat lahjusten perusteella, ja sen kohenit opettavat maksua vastaan, ja sen profeetat ennustavat rahasta — ja Jahveen he nojaavat sanoen: ”Eikö Jahve ⟨ole⟩ keskellämme? Pahuus ei tule meidän päällemme.”",
+  "tokens": [
+    {
+      "surface": "ראשיה",
+      "gloss": "sen päämiehet"
+    },
+    {
+      "surface": "בשחד",
+      "gloss": "lahjuksilla"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "tuomitsevat"
+    },
+    {
+      "surface": "וכהניה",
+      "gloss": "ja sen kohenit"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "maksusta"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "opettavat"
+    },
+    {
+      "surface": "ונביאיה",
+      "gloss": "ja sen profeetat"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "rahasta"
+    },
+    {
+      "surface": "יקסמו",
+      "gloss": "ennustavat"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja päälle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveen"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "he nojaavat"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "eikö"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקרבנו",
+      "gloss": "keskellämme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "tule"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "päällemme"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pahuus"
+    }
+  ],
+  "timestamp": "2026-09-07T04:29:16.368376199Z",
+  "model": "glm-5.3"
+}

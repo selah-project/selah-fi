@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 8:15",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja Jehoshua ja koko Israel antoivat lyödä itseään heidän edessään ja pakenivat erämaahan johtavaa tietä.",
+  "tokens": [
+    {
+      "surface": "וינגעו",
+      "gloss": "antoi lyödä itseään"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoshua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja koko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "heidän edessään"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "pakenivat"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tietä"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "erämaahan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:42:01.897267430Z",
+  "model": "glm-5.3"
+}

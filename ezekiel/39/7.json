@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 39:7",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 39,
+  "translation": "Ja ⟨את⟩ pyhän nimeni minä teen tunnetuksi kansani Israelin keskellä, enkä tahraa ⟨את⟩ pyhää nimeäni enää, ja kansakunnat tuntevat, että minä olen Jahve, pyhä Israelissa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "pyhän nimeni"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimeni"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "pyhän"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "minä teen tunnetuksi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keskellä"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kansani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "אחל",
+      "gloss": "tahraa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pyhää nimeäni"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimeäni"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "pyhää"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enää"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ja tuntevat"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kansakunnat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä olen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "pyhä"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israelissa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:13:44.387628500Z",
+  "model": "glm-5.3"
+}

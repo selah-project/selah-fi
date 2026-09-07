@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Taakka ⟨on⟩ autiomaan meri: kuin pyörremyrskyt etelässä vyöryvät ohitse, ⟨se⟩ tulee autiomaasta, hirmuisesta maasta.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Taakka"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "autiomaan"
+    },
+    {
+      "surface": "ים",
+      "gloss": "meri"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "kuin pyörremyrskyt"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "etelässä"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "vyöryvät ohitse"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "autiomaasta"
+    },
+    {
+      "surface": "בא",
+      "gloss": "se tulee"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "hirmuisesta"
+    }
+  ],
+  "timestamp": "2026-09-07T00:06:17.571747539Z",
+  "model": "glm-5.3"
+}

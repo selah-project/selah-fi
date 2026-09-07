@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 2:13",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja he istuivat hänen kanssaan ⟨את⟩ maassa seitsemän päivää ja seitsemän yötä, eikä kukaan puhunut hänelle sanaa, sillä he näkivät, että kipu oli sangen suuri.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ja he istuivat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänen kanssaan",
+      "marks": "hänen kanssaan"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seitsemän"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivää"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "ja seitsemän"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "yötä"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "puhuva"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sanaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "he näkivät"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "oli suuri"
+    },
+    {
+      "surface": "הכאב",
+      "gloss": "kipu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sangen"
+    }
+  ],
+  "timestamp": "2026-09-07T03:20:48.509540913Z",
+  "model": "glm-5.3"
+}

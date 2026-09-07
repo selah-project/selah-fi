@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 43:6",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 43,
+  "translation": "Minä sanon pohjoiselle: ”Anna”, ja etelälle: ”Älä pidätä”; tue esiin poikani kaukaa ja tyttäreni maan ääristä.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Minä sanon"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "pohjoiselle"
+    },
+    {
+      "surface": "תני",
+      "gloss": "Anna"
+    },
+    {
+      "surface": "ולתימן",
+      "gloss": "ja etelälle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תכלאי",
+      "gloss": "pidätä"
+    },
+    {
+      "surface": "הביאי",
+      "gloss": "tue esiin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikani"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "kaukaa"
+    },
+    {
+      "surface": "ובנותי",
+      "gloss": "ja tyttärenti"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ääristä"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:14:14.256688843Z",
+  "model": "glm-5.3"
+}

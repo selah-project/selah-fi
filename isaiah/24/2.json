@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 24:2",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja tapahtuu: niinkuin kansa, niin kohen; niinkuin orja, niin hänen herransa; niinkuin orjatar, niin hänen rouvansa; niinkuin ostaja, niin myyjä; niinkuin lainaaja, niin lainaottaja; niinkuin korkonoidoija, niin se, joka hänelle korkoa maksaa.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ja tapahtuu"
+    },
+    {
+      "surface": "כעם",
+      "gloss": "niinkuin kansa"
+    },
+    {
+      "surface": "ככהן",
+      "gloss": "niin kohen"
+    },
+    {
+      "surface": "כעבד",
+      "gloss": "niinkuin orja"
+    },
+    {
+      "surface": "כאדניו",
+      "gloss": "niin hänen herransa"
+    },
+    {
+      "surface": "כשפחה",
+      "gloss": "niinkuin orjatar"
+    },
+    {
+      "surface": "כגברתה",
+      "gloss": "niin hänen rouvansa"
+    },
+    {
+      "surface": "כקונה",
+      "gloss": "niinkuin ostaja"
+    },
+    {
+      "surface": "כמוכר",
+      "gloss": "niin myyjä"
+    },
+    {
+      "surface": "כמלוה",
+      "gloss": "niin lainaaja"
+    },
+    {
+      "surface": "כלוה",
+      "gloss": "niin lainaottaja"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "niinkuin korkonoidoija"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niinkuin"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "joka korkoa kannattaa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hänelle"
+    }
+  ],
+  "timestamp": "2026-09-07T00:08:23.184083734Z",
+  "model": "glm-5.3"
+}

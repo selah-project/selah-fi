@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 34:8",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "Ja Israelin lapset itkivät ⟨את⟩ Moshea Moavin aroilla kolmekymmentä päivää; ja loppuivat Moshen itkun ja surun päivät.",
+  "tokens": [
+    {
+      "surface": "ויבכו",
+      "gloss": "Ja itkivät"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lapset"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshea"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "aroilla"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moavin"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "kolmekymmentä"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivää"
+    },
+    {
+      "surface": "ויתמו",
+      "gloss": "ja loppuivat"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päivät"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "itkun"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "surun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshen"
+    }
+  ],
+  "timestamp": "2026-09-06T22:38:44.559317669Z",
+  "model": "glm-5.3"
+}

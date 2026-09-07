@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Tyhmän tie on suora hänen silmissään, mutta neuvoa kuuleva on viisas.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "tie"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "tyhmän"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "suora"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "hänen silmissään"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "mutta kuuleva"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "neuvoa"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "viisas"
+    }
+  ],
+  "timestamp": "2026-09-07T03:07:03.687510280Z",
+  "model": "glm-5.3"
+}

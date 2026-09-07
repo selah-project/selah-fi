@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 20:8",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja virkamiehet lisäävät puhua kansalle ja sanovat: Kuka on mies, joka pelkää ja on pehmeäsydäminen? Menköön ja palatkoon taloonsa, eikä hänen veljiensä sydän sulaisi ⟨את⟩ hänen sydämensä kaltaiseksi.",
+  "tokens": [
+    {
+      "surface": "ויספו",
+      "gloss": "ja lisäävät"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "virkamiehet"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "puhua"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansalle"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ja sanovat"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "on mies"
+    },
+    {
+      "surface": "הירא",
+      "gloss": "joka pelkää"
+    },
+    {
+      "surface": "ורך",
+      "gloss": "ja on pehmeäsydäminen"
+    },
+    {
+      "surface": "הלבב",
+      "gloss": ""
+    },
+    {
+      "surface": "ילך",
+      "gloss": "menköön"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja palatkoon"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "taloonsa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "sulaisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sydämen"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "sydän"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "hänen veljiensä"
+    },
+    {
+      "surface": "כלבבו",
+      "gloss": "hänen sydämensä kaltaiseksi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:32:46.923645445Z",
+  "model": "glm-5.3"
+}

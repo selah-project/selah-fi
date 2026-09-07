@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 39:34",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 39,
+  "translation": "ja ⟨את⟩ peitteen punaisiksi väritetyistään oinaannahasta ja ⟨את⟩ peitteen tahash-nahasta ja ⟨את⟩ esiripun verhon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "peitteen"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "peitteen"
+    },
+    {
+      "surface": "עורת",
+      "gloss": "nahasta"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "oinaan"
+    },
+    {
+      "surface": "המאדמים",
+      "gloss": "punaisiksi väritetyistään"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "peitteen"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "peitteen"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "nahasta"
+    },
+    {
+      "surface": "התחשים",
+      "gloss": "tahash-"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "esiripun"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "esiripun"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "verhon"
+    }
+  ],
+  "timestamp": "2026-09-06T21:46:32.497842293Z",
+  "model": "glm-5.3"
+}

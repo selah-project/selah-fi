@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 43,
+  "translation": "Ja sinä otat ⟨את⟩ sonnin, syntiuhrieläimen, ja poltat sen talon määrätyssä paikassa, pyhäkköalueen ulkopuolella.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ja sinä otat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sonnin"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "sonnin"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syntiuhrieläimen"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "ja poltat sen"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "määrätyssä paikassa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ulkopuolella"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "pyhäkköalueen"
+    }
+  ],
+  "timestamp": "2026-09-07T01:16:53.659191097Z",
+  "model": "glm-5.3"
+}

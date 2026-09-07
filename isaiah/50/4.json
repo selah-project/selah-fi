@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 50:4",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 50,
+  "translation": "Adonai Jahve antoi minulle opetettujen kielen, tietääkseni auttaa ⟨את⟩ väsynyttä sanalla. Aamusta aamuun hän herättää minulle korvan, kuulemaan opetettujen tavoin.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "antoi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "kielen"
+    },
+    {
+      "surface": "למודים",
+      "gloss": "opetettujen"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "tietääkseni"
+    },
+    {
+      "surface": "לעות",
+      "gloss": "auttaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "väsynyttä"
+    },
+    {
+      "surface": "יעף",
+      "gloss": "väsynyttä"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sanalla"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "herättää"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamusta"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamuun"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "herättää"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "korvan"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "kuulemaan"
+    },
+    {
+      "surface": "כלמודים",
+      "gloss": "opetettujen tavoin"
+    }
+  ],
+  "timestamp": "2026-09-07T00:19:44.518432989Z",
+  "model": "glm-5.3"
+}

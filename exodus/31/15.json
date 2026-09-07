@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 31:15",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Kuutena päivänä tehtäköön työtä, mutta seitsemäntenä päivänä ⟨on⟩ Shabbat, shabbaton, pyhä Jahvelle; jokainen, joka tekee työtä Shabbatin päivänä, kuolemalla kuolkoon.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Kuutena"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tehtäköön"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "työtä"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "mutta päivänä"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "seitsemäntenä"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "shabbaton"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhä"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokainen"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "joka tekee"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "työtä"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbatin"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kuolemalla"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "kuolkoon"
+    }
+  ],
+  "timestamp": "2026-09-06T21:41:50.606050891Z",
+  "model": "glm-5.3"
+}

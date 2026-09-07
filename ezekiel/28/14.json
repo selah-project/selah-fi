@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 28:14",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Sinä, keruv, voiteltu suojaava — ja asetin sinut pyhälle vuorelle, Elohimin ⟨vuorelle⟩; olit tulisten kivien keskellä, kuljit edestakaisin.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "sinä",
+      "marks": "keruv"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "keruv"
+    },
+    {
+      "surface": "ממשח",
+      "gloss": "voiteltu"
+    },
+    {
+      "surface": "הסוכך",
+      "gloss": "suojaava"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "ja asetin sinut"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "vuorelle"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhälle"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "היית",
+      "gloss": "olit"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keskellä"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "kivien"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tulisten"
+    },
+    {
+      "surface": "התהלכת",
+      "gloss": "kuljit edestakaisin"
+    }
+  ],
+  "timestamp": "2026-09-07T01:06:10.835667949Z",
+  "model": "glm-5.3"
+}

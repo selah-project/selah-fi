@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Ja Iyov eli tämän jälkeen sata ja neljäkymmentä vuotta, ja hän näki ⟨את⟩ poikansa ja ⟨את⟩ poikiensa pojat, neljä sukupolvea.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ja eli"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "jälkeen"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sata"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ja neljäkymmentä"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ja näki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poikansa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "poikansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "poikiensa pojat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikien"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "neljä"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "sukupolvea"
+    }
+  ],
+  "timestamp": "2026-09-07T03:52:46.706524983Z",
+  "model": "glm-5.3"
+}

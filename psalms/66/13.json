@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 66:13",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 66,
+  "translation": "Tulen taloosi polttouhreilla, maksan sinulle lupaukseni.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "Tulen"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "taloosi"
+    },
+    {
+      "surface": "בעולות",
+      "gloss": "polttouhreilla"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "maksan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "lupaukseni"
+    }
+  ],
+  "timestamp": "2026-09-07T02:16:33.357828913Z",
+  "model": "glm-5.3"
+}

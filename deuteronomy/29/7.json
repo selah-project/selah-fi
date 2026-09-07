@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja me otimme ⟨את⟩ heidän maansa ja annoimme sen perintömaaksi ruubenilaisille ja gaadilaisille ja puolelle Menashen heimoa.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "Ja me otimme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän maansa"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "heidän maansa"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "ja annoimme sen"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "perintömaaksi"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "ruubenilaisille"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "ja gaadilaisille"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "ja puolelle"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "heimoa"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "Menashen"
+    }
+  ],
+  "timestamp": "2026-09-06T22:35:44.606440080Z",
+  "model": "glm-5.3"
+}

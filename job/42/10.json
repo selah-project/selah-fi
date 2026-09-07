@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Ja Jahve käänsi ⟨את⟩ Ijovin kohtalon, kun hän rukoili lähimmäistensä puolesta; ja Jahve antoi ⟨את⟩ kaiken, mitä Ijovilla oli, tulla hänelle kaksinkertaiseksi.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ja Jahve"
+    },
+    {
+      "surface": "שב",
+      "gloss": "käänsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijovin kohtalon"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "kohtalon"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijovin"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "kun hän rukoili"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "puolesta"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "lähimmäistensä"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ja antoi tulla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "Ijovilla"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "kaksinkertaiseksi"
+    }
+  ],
+  "timestamp": "2026-09-07T03:53:49.091461438Z",
+  "model": "glm-5.3"
+}

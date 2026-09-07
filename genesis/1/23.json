@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja tuli ilta ja tuli aamu, päivä viides.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tuli"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ilta"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "aamu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivä"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "viides"
+    }
+  ],
+  "timestamp": "2026-09-06T21:04:21.680732799Z",
+  "model": "glm-5.3"
+}

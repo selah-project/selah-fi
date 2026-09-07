@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "ja sulkeutuvat ovet torille, kun jauhimen ääni madaltuu, ja noustaan linnun äänen vuoksi, ja kaikki laulun tyttäret painuvat kumaraan.",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "ja sulkeutuvat"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "ovet"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "torille"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "kun madaltuu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ääni"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "jauhimen"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "ja noustaan"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "äänen vuoksi"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "linnun"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "ja painuvat kumaraan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "tyttäret"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "laulun"
+    }
+  ],
+  "timestamp": "2026-09-07T04:39:48.985575655Z",
+  "model": "glm-5.3"
+}

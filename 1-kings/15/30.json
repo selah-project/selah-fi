@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Yarav'amin syntien tähden, joissa hän syntiä teki, ja joilla hän saattoi ⟨את⟩ Israelin syntiin, vihastuttamisellaan, jolla hän vihastutti ⟨את⟩ Jahvea, Israelin Elohimia.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "syntien"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarav'amin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joissa"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "syntiä teki"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ja joilla"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "saattoi syntiin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "vihastuttamisellaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jolla"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "vihastutti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:42:18.433337780Z",
+  "model": "glm-5.3"
+}

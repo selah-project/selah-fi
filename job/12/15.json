@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 12:15",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Katso, hän pidättää vedet, ja ne kuivuvat; hän päästää ne irti, ja ne kääntävät maan.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "hän pidättää"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vedet"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "ja ne kuivuvat"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "hän lähettää ne"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "ja ne kääntävät"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-07T03:29:48.991447126Z",
+  "model": "glm-5.3"
+}

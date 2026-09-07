@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Jäännöksen, jonka palmentoukka jätti, söi heinäsirkka, ja heinäsirkän jättämän jäännöksen söi toukka, ja toukan jättämän jäännöksen söi tuholainen.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "Jäännöksen"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "palmentoukka"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "söi"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "heinäsirkka"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ja jäännöksen"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "heinäsirkan"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "söi"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "toukka"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ja jäännöksen"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "toukan"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "söi"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "tuholainen"
+    }
+  ],
+  "timestamp": "2026-09-07T01:25:01.238056415Z",
+  "model": "glm-5.3"
+}

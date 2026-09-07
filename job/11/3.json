@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 11:3",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Pöyhkeytesi saa miehet vaikenemaan, ja sinä pilkkaat, eikä ketään joka häpeään saisi —",
+  "tokens": [
+    {
+      "surface": "בדיך",
+      "gloss": "pöyhkeytesi"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "יחרישו",
+      "gloss": "vaikenemaan"
+    },
+    {
+      "surface": "ותלעג",
+      "gloss": "ja pilkkaat"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä ketään"
+    },
+    {
+      "surface": "מכלם",
+      "gloss": "häpeään saisi"
+    }
+  ],
+  "timestamp": "2026-09-07T03:30:33.915744194Z",
+  "model": "glm-5.3"
+}

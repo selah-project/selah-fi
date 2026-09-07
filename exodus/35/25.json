@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 35:25",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 35,
+  "translation": "Ja jokainen viisasydäminen nainen kehräsi käsillään, ja he toivat kehruutavaraa: ⟨את⟩ sinisen, ja ⟨את⟩ purpuran, ⟨את⟩ karmosiinin ja ⟨את⟩ hienon pellavan.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ja jokainen"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "nainen"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "viisasydäminen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sydän"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "käsillään"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "kehräsi"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ja he toivat"
+    },
+    {
+      "surface": "מטוה",
+      "gloss": "kehruutavaraa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinisen"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "sinisen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "purpuran"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "purpuran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karmosiinin"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "karmosiini"
+    },
+    {
+      "surface": "השני",
+      "gloss": "punainen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hienon pellavan"
+    },
+    {
+      "surface": "השש",
+      "gloss": "hieno pellava"
+    }
+  ],
+  "timestamp": "2026-09-06T21:44:26.696544066Z",
+  "model": "glm-5.3"
+}

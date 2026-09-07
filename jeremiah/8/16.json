@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 8:16",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Danista kuuluu hänen hevostensa tuhina; hänen urhojensa korskunnan äänestä vavahtaa koko maa, ja he tulevat ja syövät maan ja sen täytteen, kaupungin ja sen asujat.",
+  "tokens": [
+    {
+      "surface": "מדן",
+      "gloss": "Danista"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "kuuluu"
+    },
+    {
+      "surface": "נחרת",
+      "gloss": "tuhina"
+    },
+    {
+      "surface": "סוסיו",
+      "gloss": "hevostensa"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "äänestä"
+    },
+    {
+      "surface": "מצהלות",
+      "gloss": "korskunnan"
+    },
+    {
+      "surface": "אביריו",
+      "gloss": "urojensa"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "vavahtaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ויבואו",
+      "gloss": "ja he tulevat"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ja syövät"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "ja sen täytteen"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "ja sen asujat"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sen"
+    }
+  ],
+  "timestamp": "2026-09-07T00:28:33.793439844Z",
+  "model": "glm-5.3"
+}

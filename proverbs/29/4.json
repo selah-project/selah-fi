@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Kuningas pitää maan pystyssä oikeudella, mutta mies, joka vaatii lahjoja, revittää sen maahan.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "Kuningas"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "oikeudella"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "pitää pystyssä"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mutta mies"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "lahjoja"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "revittää sen maahan"
+    }
+  ],
+  "timestamp": "2026-09-07T03:19:40.912623167Z",
+  "model": "glm-5.3"
+}

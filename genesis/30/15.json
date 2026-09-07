@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 30:15",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja hän sanoi hänelle: Onko vähäistä, että sinä otit ⟨את⟩ mieheni, ja että otat myös ⟨את⟩ poikani dudaim-t? Ja Rahel sanoi: Sen tähden hän makaa sinun kanssasi tänä yönä poikasi dudaim-t:sta.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "onko vähäistä"
+    },
+    {
+      "surface": "קחתך",
+      "gloss": "että sinä otit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mieheni"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "mieheni"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ja otat"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poikani dudaim"
+    },
+    {
+      "surface": "דודאי",
+      "gloss": "dudaim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikani"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahel"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "sen tähden"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "hän makaa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sinun kanssasi"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "tänä yönä"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "vastineeksi"
+    },
+    {
+      "surface": "דודאי",
+      "gloss": "dudaim"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "poikasi"
+    }
+  ],
+  "timestamp": "2026-09-07T04:12:07.724451039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 35:19",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 35,
+  "translation": "Veren lunastaja, hän itse tappakoon ⟨את⟩ murhaajan; hänen kohdatessaan hänet hän tappaa hänet.",
+  "tokens": [
+    {
+      "surface": "גאל",
+      "gloss": "lunastaja"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "veren"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän itse"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "tappakoon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "murhaajan"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "murhaajan"
+    },
+    {
+      "surface": "בפגעו",
+      "gloss": "kohdatessaan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hänet"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "tappaa hänet"
+    }
+  ],
+  "timestamp": "2026-09-06T22:21:31.261744989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 89,
+  "translation": "Ja hesedini ⟨en⟩ murskaa hänestä pois, enkä valehtele uskollisuudessani.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "ja hesedini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "murskaa"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "hänestä pois"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "valehtele"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "uskollisuudessani"
+    }
+  ],
+  "timestamp": "2026-09-07T05:58:59.723641650Z",
+  "model": "glm-5.3"
+}

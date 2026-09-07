@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Ja he ottivat hänet ja heittivät ⟨את⟩ hänet kuoppaan; ja kuoppa oli tyhjä, ei siinä ollut vettä.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "Ja he ottivat hänet"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "ja he heittivät"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hänet"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "kuoppaan"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "ja kuoppa"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tyhjä"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siinä"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ollut vettä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:21:57.629617453Z",
+  "model": "glm-5.3"
+}

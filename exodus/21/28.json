@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 21:28",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja jos härkä sarvii ⟨את⟩ miehen tai ⟨את⟩ naisen, ja hän kuolee, kivittämällä kivitettäköön härkä, älköön syötäkö ⟨את⟩ sen lihaa, ja härän omistaja ⟨on⟩ viaton.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ja jos"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "sarvii"
+    },
+    {
+      "surface": "שור",
+      "gloss": "härkä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miehen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naisen"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "naisen"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ja hän kuolee"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "kivittämällä"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "kivitettäköön"
+    },
+    {
+      "surface": "השור",
+      "gloss": "härkä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "syötäkö"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen lihaa"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sen lihaa"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "ja omistaja"
+    },
+    {
+      "surface": "השור",
+      "gloss": "härän"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "viaton"
+    }
+  ],
+  "timestamp": "2026-09-06T21:37:20.752853714Z",
+  "model": "glm-5.3"
+}

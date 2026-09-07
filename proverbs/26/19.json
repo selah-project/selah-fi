@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 26:19",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "— niin on se mies, joka pettää ⟨את⟩ ystävänsä ja sanoo: ”Eikö minä vain leiki?”",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "pettää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ystävänsä"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ystävänsä"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ja sanoo"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "eikö"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "leiki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:18:07.637791433Z",
+  "model": "glm-5.3"
+}

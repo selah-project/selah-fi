@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 12:22",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Valheen huulet ovat Jahven kauhistus, ja uskollisesti toimivat ovat hänen mielensä.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "kauhistus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "huulet"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "valheen"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "ja toimivat"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "uskollisesti"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "hänen mielensä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:36:39.106840549Z",
+  "model": "glm-5.3"
+}

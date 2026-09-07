@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 50,
+  "translation": "Kokaa luokseni hasidini, ne, jotka leikkasivat beritini (liittoni) uhrin päälle.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Kokaa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "luokseni"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "hasidini"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "leikkasivat"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "beritini (liittoni)"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "uhrin"
+    }
+  ],
+  "timestamp": "2026-09-07T02:10:30.220399773Z",
+  "model": "glm-5.3"
+}

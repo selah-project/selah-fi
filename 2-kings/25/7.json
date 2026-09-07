@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 25:7",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja ⟨את⟩ Tsidkijahun (Sidkian) pojat hän teurasti hänen silmiensä edessä, ja ⟨את⟩ Tsidkijahun silmät hän sokaisi, ja hän sitoi hänet pronssikahleisiin ja vei hänet Baveliin (Babylon).",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Tsidkijahun pojat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkijahun (Sidkian)"
+    },
+    {
+      "surface": "שחטו",
+      "gloss": "teurasti"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "hänen silmiensä edessä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Tsidkijahun silmät"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "silmät"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkijahun"
+    },
+    {
+      "surface": "עור",
+      "gloss": "sokaisi"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "ja hän sitoi hänet"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "pronssikahleisiin"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "ja vei hänet"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baveliin (Babylon)"
+    }
+  ],
+  "timestamp": "2026-09-07T04:24:05.129080668Z",
+  "model": "glm-5.3"
+}

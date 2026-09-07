@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 31:3",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Älä anna voimaasi naisille äläsi teitäsi niille, jotka hävittävät kuninkaita.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "anna"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "naisille"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "voimaasi"
+    },
+    {
+      "surface": "ודרכיך",
+      "gloss": "äläsi teitäsi"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "jotka hävittävät"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "kuninkaita"
+    }
+  ],
+  "timestamp": "2026-09-07T03:23:03.606297871Z",
+  "model": "glm-5.3"
+}

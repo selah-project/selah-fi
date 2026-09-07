@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Kuule, Jahve, ja ole minulle armollinen; Jahve, ole minulle auttajaksi.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Kuule"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ja ole minulle armollinen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ole"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "auttajaksi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    }
+  ],
+  "timestamp": "2026-09-07T02:00:40.369645697Z",
+  "model": "glm-5.3"
+}

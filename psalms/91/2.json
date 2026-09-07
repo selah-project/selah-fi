@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 91,
+  "translation": "Minä sanon Jahvelle: ”Turvapaikkani ja linnoitukseni, Elohimini, häneen minä panen turvani.”",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "minä sanon"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "turvapaikkani"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ja linnoitukseni"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimini"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "minä panen turvani"
+    },
+    {
+      "surface": "בו",
+      "gloss": "häneen"
+    }
+  ],
+  "timestamp": "2026-09-07T02:34:20.042486859Z",
+  "model": "glm-5.3"
+}

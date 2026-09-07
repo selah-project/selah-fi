@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 33:11",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Siunaa, Jahve, hänen voimansa, ja hänen kättensä työtä sinä mielistelet; murskaa nousevien vihamiestensä lanteet, ja hänen vihaajansa — älkööt he nousko.",
+  "tokens": [
+    {
+      "surface": "ברך",
+      "gloss": "Siunaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "hänen voimansa"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "ja työn"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "hänen kättensä"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "sinä mielistelet"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "murskaa"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "lanteet"
+    },
+    {
+      "surface": "קמיו",
+      "gloss": "hänen nousevansa"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "ja hänen vihaajansa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "niin etteivät"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "he nouse"
+    }
+  ],
+  "timestamp": "2026-09-06T22:37:25.853759183Z",
+  "model": "glm-5.3"
+}

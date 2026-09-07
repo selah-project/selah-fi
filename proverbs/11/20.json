@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 11:20",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Jahven iljettäviä ovat sydämeltään kierot, ja hänen mieluisansa ovat ne, jotka ovat kokonaisia tiellään.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "iljettäviä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "עקשי",
+      "gloss": "kierot"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sydämeltään"
+    },
+    {
+      "surface": "ורצונו",
+      "gloss": "ja hänen mieluisansa"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "kokonaisia"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tiellään"
+    }
+  ],
+  "timestamp": "2026-09-07T03:07:10.389795238Z",
+  "model": "glm-5.3"
+}

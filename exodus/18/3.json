@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "ja ⟨את⟩ hänen kaksi poikaansa, joista toisen nimi oli Gershom, sillä hän sanoi: muukalainen olen ollut vieraassa maassa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen kaksi poikaansa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "poikaansa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joista"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "toisen"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gershom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hän sanoi"
+    },
+    {
+      "surface": "גר",
+      "gloss": "muukalainen"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "olen ollut"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "vieraassa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:36:46.404199038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 19:2",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja hän lähetti ⟨את⟩ Elijakimin, joka oli talon yllä, ja kirjurin Shevnan ja ⟨את⟩ pappien vanhimmat, säkkeihin verhoutuneina, profeetan Yeshajahun (Jesaja), Amotsin pojan, luo.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ja hän lähetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elijakimin"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elijakimin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "על",
+      "gloss": "oli … yllä"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "ושבנא",
+      "gloss": "ja kirjurin Shevnan"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "kirjurin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "pappien vanhimmat"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vanhimmat"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "pappien"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "verhoutuneina"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "säkkeihin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshajahun (Jesaja)"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profeetan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amotsin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:56:51.648495309Z",
+  "model": "glm-5.3"
+}

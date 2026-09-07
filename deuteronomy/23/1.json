@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ei mies saa ottaa ⟨את⟩ isänsä vaimoa, eikä hän saa paljastaa isänsä lievettä.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ei"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "saa ottaa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isänsä vaimon"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vaimoa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isänsä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "saa paljastaa"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "lievettä"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isänsä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:34:18.905131774Z",
+  "model": "glm-5.3"
+}

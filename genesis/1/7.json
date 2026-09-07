@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja teki Elohim ⟨את⟩ vahvistuksen ja erotti väliltä vedet, jotka ⟨olivat⟩ vahvistuksen alla, ja väliltä vedet, jotka ⟨olivat⟩ vahvistuksen yllä; ja tapahtui niin.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ja teki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vahvistuksen"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "vahvistuksen"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "ja erotti"
+    },
+    {
+      "surface": "בין",
+      "gloss": "väliltä"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vedet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "alla"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "vahvistuksen"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja väliltä"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vedet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "yllä"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "vahvistuksen"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja tapahtui"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:05:16.254107919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Jos mies antaa karjan syödä pellon tai viinitarhan ja päästää ⟨את⟩ karjansa ja se laiduntaa toisen pellolla, omasta pellostaan parhaasta ja omasta viinitarhastaan parhaasta hän korvaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jos"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "antaa syödä"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "pellon"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "viinitarhan"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ja päästää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karjansa"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "karjansa"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "ja se laiduntaa"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "pellolla"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "toisen"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "parhaasta"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "omasta pellostaan"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "ja parhaasta"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "omasta viinitarhastaan"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "hän korvaa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:38:25.933272390Z",
+  "model": "glm-5.3"
+}

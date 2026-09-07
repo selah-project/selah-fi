@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 51,
+  "translation": "Minä opetan rikollisia sinun teitäsi, ja syntiset palaavat sinun tykösi.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "opetan"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "rikollisia"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "tiesi"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "ja syntiset"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinun tykösi"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "palaavat"
+    }
+  ],
+  "timestamp": "2026-09-07T02:13:08.677813298Z",
+  "model": "glm-5.3"
+}

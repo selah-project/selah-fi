@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja he ottivat ⟨את⟩ Lotin, Avramin veljen pojan, ja ⟨את⟩ hänen omaisuutensa, ja he menivät pois; ja hän asui Sodomissa.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Ja he ottivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lotin"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lotin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "omaisuutensa"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "omaisuutensa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "veljen"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramin"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ja he menivät pois"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ja hän"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "asui"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "Sodomissa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:29.567437865Z",
+  "model": "glm-5.3"
+}

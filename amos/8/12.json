@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 8:12",
+  "book": "amos",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja he vaeltavat merestä mereen ja pohjoisesta itään, he juoksevat edestakaisin etsimään ⟨את⟩ Jahven sanaa, mutta eivät löydä.",
+  "tokens": [
+    {
+      "surface": "ונעו",
+      "gloss": "Ja he vaeltavat"
+    },
+    {
+      "surface": "מים",
+      "gloss": "merestä"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mereen"
+    },
+    {
+      "surface": "ומצפון",
+      "gloss": "ja pohjoisesta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "itään"
+    },
+    {
+      "surface": "ישוטטו",
+      "gloss": "he juoksevat edestakaisin"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "etsimään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven sana"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sanaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mutta eivät"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "löydä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:31:06.214275060Z",
+  "model": "glm-5.3"
+}

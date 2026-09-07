@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Kohelet etsi löytääkseen mieluisia sanoja, ja kirjoitetut ⟨olivat⟩ suoria sanoja, totuuden sanoja.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "etsi"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "löytääkseen"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanoja"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "mieluisia"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "ja kirjoitetut"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "suoria"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanoja"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "totuuden"
+    }
+  ],
+  "timestamp": "2026-09-07T04:38:05.279436585Z",
+  "model": "glm-5.3"
+}

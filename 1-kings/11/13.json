@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ainoastaan — koko kuningaskuntaa en minä repäise ⟨את⟩ koko kuningaskuntaa; yhden heimon annan pojallesi, Davidin (Daavid), palvelijani, tähden ja Jerushalajimin (Jerusalem) tähden, jonka minä olen valinnut.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ainoastaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko kuningaskunnan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kuningaskuntaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "minä repäise"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "heimon"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yhden"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "annan"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "pojallesi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "palvelijani"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ja tähden"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "minä olen valinnut"
+    }
+  ],
+  "timestamp": "2026-09-06T23:39:29.241349704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 36,
+  "translation": "Ja hän yhdisti ⟨את⟩ viisi verhoa erikseen ja ⟨את⟩ kuusi verhoa erikseen.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "ja hän yhdisti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viisi verhoa"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "viisi"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "verhoa"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "erikseen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kuusi verhoa"
+    },
+    {
+      "surface": "שש",
+      "gloss": "kuusi"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "verhoa"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "erikseen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:45:11.226067038Z",
+  "model": "glm-5.3"
+}

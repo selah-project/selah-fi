@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Kun Efrayim puhui, ⟨oli⟩ vavistus; hän kohosi Israelissa, mutta Baalissa hän syyllistyi ja kuoli.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "Kun"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "vavistus"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "kohosi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israelissa"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "ja syyllistyi"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "Baalissa"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ja kuoli"
+    }
+  ],
+  "timestamp": "2026-09-07T01:24:26.977084252Z",
+  "model": "glm-5.3"
+}

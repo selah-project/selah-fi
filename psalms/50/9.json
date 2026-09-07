@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 50,
+  "translation": "En minä ota sinun talostasi härkää, sinun tarhoistasi koiraita.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "En"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "minä ota"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "sinun talostasi"
+    },
+    {
+      "surface": "פר",
+      "gloss": "härkää"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "sinun tarhoistasi"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "koiraita"
+    }
+  ],
+  "timestamp": "2026-09-07T02:09:35.603016923Z",
+  "model": "glm-5.3"
+}

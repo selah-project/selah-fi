@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Kikkarallinen puhdasta kultaa — siitä tehdään ⟨את⟩ sen, ⟨את⟩ kaikki nämä astiat.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "kikkarallinen"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kultaa"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "puhdasta"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tehdään"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ sen",
+      "marks": "sen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki nämä astiat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "nämä astiat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nämä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:39:06.415901328Z",
+  "model": "glm-5.3"
+}

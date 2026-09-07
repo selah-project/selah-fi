@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 105,
+  "translation": "Hän käänsi heidän sydämensä vihaamaan kansaansa, menettelemään kavalasti palvelijoitaan vastaan.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "käänsi"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "heidän sydämensä"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "vihaamaan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kansaansa"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "menettelemään kavalasti"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "palvelijoitaan vastaan"
+    }
+  ],
+  "timestamp": "2026-09-07T02:39:17.846326821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 118,
+  "translation": "Sanokoot nyt Aharonin (Aaronin) huone: ”Sillä iankaikkisesti ⟨on⟩ hänen hesedinsä.”",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Sanokoot"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huone"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hänen hesedinsä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:44:21.227033987Z",
+  "model": "glm-5.3"
+}

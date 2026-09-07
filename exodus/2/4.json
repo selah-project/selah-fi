@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja hänen sisarensa asettui etäälle tietääkseen, mitä hänelle tehtäisiin.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "Ja asettui"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "hänen sisarensa"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "etäälle"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "tietääkseen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tehtäisiin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    }
+  ],
+  "timestamp": "2026-09-06T21:29:16.264683991Z",
+  "model": "glm-5.3"
+}

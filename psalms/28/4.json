@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 28:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Anna heille heidän tekojensa mukaan ja heidän menojensa pahan mukaan; heidän kättensä töiden mukaan anna heille, palauta heidän palkkansa heille.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Anna"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "כפעלם",
+      "gloss": "heidän tekojensa mukaan"
+    },
+    {
+      "surface": "וכרע",
+      "gloss": "ja heidän menojensa pahan mukaan"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "heidän menojaan"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "töiden mukaan"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "heidän kättensä"
+    },
+    {
+      "surface": "תן",
+      "gloss": "anna"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "השב",
+      "gloss": "palauta"
+    },
+    {
+      "surface": "גמולם",
+      "gloss": "heidän palkkansa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    }
+  ],
+  "timestamp": "2026-09-07T04:31:04.215046548Z",
+  "model": "glm-5.3"
+}

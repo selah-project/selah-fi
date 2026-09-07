@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja hän otti ⟨את⟩ kaiken sisälmyksiä peittävän rasvan ja ⟨את⟩ maksan liuskan ja ⟨את⟩ molemmat munuaiset ja ⟨את⟩ niiden rasvan, ja Moshe savusti ne alttarille.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "otti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken rasvan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "rasvan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "על",
+      "gloss": "peittävän"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "sisälmyksiä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "maksan liuskan"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "liuskan"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "maksan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "molemmat munuaiset"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "molemmat"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "munuaiset"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "niiden rasvan"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "niiden rasvan"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "savutti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "alttarille"
+    }
+  ],
+  "timestamp": "2026-09-06T21:51:41.265358537Z",
+  "model": "glm-5.3"
+}

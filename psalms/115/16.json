@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 115,
+  "translation": "Taivaat, taivaat ovat Jahven, mutta maan hän on antanut ihmisten lapsille.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "taivaat"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "taivaat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "mutta maan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "hän on antanut"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "lapsille"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmisten"
+    }
+  ],
+  "timestamp": "2026-09-07T02:45:02.915319734Z",
+  "model": "glm-5.3"
+}

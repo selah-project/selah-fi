@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja Jahve kävi Sarahin kimppua ⟨את⟩ Sarahin, niinkuin hän oli sanonut, ja Jahve teki Sarahille, niinkuin hän oli puhunut.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ja Jahve"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "kävi kimppua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarahin"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarahin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niinkuin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oli sanonut"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ja teki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "Sarahille"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niinkuin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oli puhunut"
+    }
+  ],
+  "timestamp": "2026-09-06T21:12:50.578219972Z",
+  "model": "glm-5.3"
+}

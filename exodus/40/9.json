@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 40:9",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ja sinä otat ⟨את⟩ voitelun öljyn ja voit ⟨את⟩ Mishkanin (asumusteltan) ja ⟨את⟩ kaiken, mitä siinä on, ja pyhität ⟨את⟩ sen ja ⟨את⟩ kaikki sen astiat, ja se ⟨on⟩ pyhä.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ja otat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "voitelun öljyn"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "öljyn"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "voitelun"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ja voit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkanin"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaiken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siinä"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ja pyhität"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sen astiat"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ja ⟨on⟩"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:47:06.980038212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja minä annan ⟨את⟩ kaupunkinne autioksi, ja minä hävytän ⟨את⟩ pyhäkkönne, enkä minä nuuhdi lemua lepoisista tuoksuistanne.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ja minä annan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaupunkinne"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "kaupunkinne"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "autioksi"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "ja minä hävytän"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pyhäkkönne"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "pyhäkkönne"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "minä nuuhdi"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "lemua"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "lepoisista tuoksuistanne"
+    }
+  ],
+  "timestamp": "2026-09-06T22:01:14.869855439Z",
+  "model": "glm-5.3"
+}

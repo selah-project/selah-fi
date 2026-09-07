@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Jahve saa tarttumaan sinuun ⟨את⟩ ruton, kunnes hän kuluttaa ⟨את⟩ sinut pois siitä maasta, johon sinä tulet ottaaksesi sen haltuun.",
+  "tokens": [
+    {
+      "surface": "ידבק",
+      "gloss": "saa tarttumaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinuun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruton"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ruton"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "hän kuluttaa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sinut"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "pois"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "johon"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tulet"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sinne"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "ottaaksesi sen haltuun"
+    }
+  ],
+  "timestamp": "2026-09-06T22:36:26.110595099Z",
+  "model": "glm-5.3"
+}

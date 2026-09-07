@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Ja hän käski myös ⟨את⟩ toista, myös ⟨את⟩ kolmatta, myös ⟨את⟩ kaikkia, jotka kulkevat laumain jälkeen, sanoen: ”Näin te puhutte Esaville, kun hänet löydätte;”",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "käski"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toista"
+    },
+    {
+      "surface": "השני",
+      "gloss": "toista"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kolmatta"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "kolmatta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikkia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkia"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "kulkevat"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "jälkeen"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "laumain"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "näin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "puhutte"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaville"
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "kun löydätte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hänet"
+    }
+  ],
+  "timestamp": "2026-09-06T21:19:10.973075278Z",
+  "model": "glm-5.3"
+}

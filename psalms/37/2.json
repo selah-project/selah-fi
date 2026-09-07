@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Sillä kuin ruoho pian he leikataan, ja kuin vihreä ruoho he lakastuvat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "kuin ruoho"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "pian"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "he leikataan"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "ja kuin vihreä"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ruoho"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "he lakastuvat"
+    }
+  ],
+  "timestamp": "2026-09-07T02:05:30.037878521Z",
+  "model": "glm-5.3"
+}

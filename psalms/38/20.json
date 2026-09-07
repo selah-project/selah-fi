@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 38,
+  "translation": "Ja viholliseni ovat eläviä ja väkeviä, ja ne, jotka vihaavat minua valheellisesti, ovat lukuisiksi tulleet.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "Ja viholliseni"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ovat eläviä"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "ja väkeviä"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ovat lukuisiksi tulleet"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "jotka vihaavat minua"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "valheellisesti"
+    }
+  ],
+  "timestamp": "2026-09-07T02:07:38.284791420Z",
+  "model": "glm-5.3"
+}

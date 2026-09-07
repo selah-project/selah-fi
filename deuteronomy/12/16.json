@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Vain verta älkää syökö; maan päälle valakaa se kuin vesi.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Vain"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "verta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "syökö"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "valakaa se"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "kuin vesi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:29:33.925856109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 16:26",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Raatajan nefesh raataa hänen hyväkseen, sillä hänen suunsa painaa häntä.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "Raatajan"
+    },
+    {
+      "surface": "עמלה",
+      "gloss": "raataa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänen hyväkseen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אכף",
+      "gloss": "painaa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "häntä"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "hänen suunsa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:09:37.560655029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 104,
+  "translation": "Syvyyden sinä peitit sen ylle niinkuin vaatteen — vuorten ylle seisoivat vedet.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "syvyyden"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "niinkuin vaatteen"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "peitit sen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ylle"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "vuorten"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "seisoivat"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vedet"
+    }
+  ],
+  "timestamp": "2026-09-07T02:36:48.245305393Z",
+  "model": "glm-5.3"
+}

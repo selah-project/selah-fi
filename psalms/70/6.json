@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 70,
+  "translation": "Mutta minä ⟨olen⟩ köyhä ja kurja; Elohim, kiiruhda minun tyköni; sinä ⟨olet⟩ apuni ja pelastajani; Jahve, älä viivytä.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mutta minä"
+    },
+    {
+      "surface": "עני",
+      "gloss": "köyhä"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ja kurja"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "kiiruhda"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minun tyköni"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "apuni"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "ja pelastajani"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "viivytä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:18:07.297235629Z",
+  "model": "glm-5.3"
+}

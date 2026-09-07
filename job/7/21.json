@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 7:21",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja miksi et kanna ⟨את⟩ kapinaani, ja anna mennä ohi ⟨את⟩ syyllisyyteni? Sillä nyt käyn levolle pölyyn, ja aikaisin sinä etsit minua — mutta minua ei enää ⟨ole⟩.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "Ja miksi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "et"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "kanna"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "kapinaani"
+    },
+    {
+      "surface": "ותעביר",
+      "gloss": "ja anna mennä ohi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syyllisyyteni"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "syyllisyyteni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "pölyyn"
+    },
+    {
+      "surface": "אשכב",
+      "gloss": "käyn levolle"
+    },
+    {
+      "surface": "ושחרתני",
+      "gloss": "ja aikaisin sinä etsit minua"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "mutta minua ei enää"
+    }
+  ],
+  "timestamp": "2026-09-07T03:25:06.078526600Z",
+  "model": "glm-5.3"
+}

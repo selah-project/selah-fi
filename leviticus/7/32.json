@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja ⟨את⟩ oikean reiden te antakaa korotusuhriksi kohenille shelamim-uhreistanne.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ja ⟨את⟩",
+      "marks": "oikean reiden"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "reiden"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "oikean"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "te antakaa"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "korotusuhriksi"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kohenille"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "uhreistanne"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "shelamim-"
+    }
+  ],
+  "timestamp": "2026-09-06T21:48:54.827727637Z",
+  "model": "glm-5.3"
+}

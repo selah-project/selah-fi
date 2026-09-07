@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Sillä jos kieltäydyt päästämästä ⟨את⟩ kansani, katso, minä tuon huomenna heinäsirkat rajallesi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "kieltäydyt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "päästämästä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansani"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kansani"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "katso"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "minä tuon"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "huomenna"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "heinäsirkat"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "rajallesi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:32:25.430450536Z",
+  "model": "glm-5.3"
+}

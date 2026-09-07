@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 8:6",
+  "book": "amos",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "ostaa köyhät hopealla ja vaivaisen sandaaliparin hinnalla, ja myydä vehnän roskat?",
+  "tokens": [
+    {
+      "surface": "לקנות",
+      "gloss": "ostaa"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "hopealla"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "köyhät"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ja vaivaisen"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "hinnalla"
+    },
+    {
+      "surface": "נעלים",
+      "gloss": "sandaaleista"
+    },
+    {
+      "surface": "ומפל",
+      "gloss": "ja roskat"
+    },
+    {
+      "surface": "בר",
+      "gloss": "vehnän"
+    },
+    {
+      "surface": "נשביר",
+      "gloss": "myydäksemme"
+    }
+  ],
+  "timestamp": "2026-09-07T01:31:07.841603600Z",
+  "model": "glm-5.3"
+}

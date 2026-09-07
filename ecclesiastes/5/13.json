@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja tuo rikkaus hukkuu pahassa puuhassa, ja hän siittää pojan, eikä hänen kädessään ole mitään.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "ja hukkuu"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "rikkaus"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tuo"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "puuhassa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pahassa"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "ja hän siittää"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "kädessään"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "mitään"
+    }
+  ],
+  "timestamp": "2026-09-07T04:35:14.677285885Z",
+  "model": "glm-5.3"
+}

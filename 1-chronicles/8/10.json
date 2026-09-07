@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja ⟨את⟩ Jeutsin ja ⟨את⟩ Sakhjan ja ⟨את⟩ Mirman; nämä ⟨ovat⟩ hänen poikansa, sukupäiden päämiehet.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Jeutsin"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Jeutsin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Sakhjan"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Sakhjan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Mirman"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirman"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "päämiehet"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "sukupäiden"
+    }
+  ],
+  "timestamp": "2026-09-07T05:14:43.065373491Z",
+  "model": "glm-5.3"
+}

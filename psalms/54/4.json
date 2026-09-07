@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 54,
+  "translation": "Elohim, kuule rukoukseni, kallista korvasi suuni sanoihin.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kuule"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "rukoukseni"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "kallista korvasi"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "sanoihin"
+    },
+    {
+      "surface": "פי",
+      "gloss": "suuni"
+    }
+  ],
+  "timestamp": "2026-09-07T02:12:18.317269461Z",
+  "model": "glm-5.3"
+}

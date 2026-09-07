@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja Paron (farao) ruhtinaat näkivät ⟨את⟩ hänet ja kiittivät ⟨את⟩ häntä Paron edessä, ja nainen otettiin Paron huoneeseen.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Ja näkivät"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hänet"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ruhtinaat"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron (farao)"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "ja kiittivät"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "häntä"
+    },
+    {
+      "surface": "אל",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ja otettiin"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "nainen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneeseen"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:22.787588715Z",
+  "model": "glm-5.3"
+}

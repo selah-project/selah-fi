@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 5:10",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Kun hyvää on paljon, sen syöjiä on paljon, ja mitä etua omistajalle, paitsi että hänen silmänsä näkevät ⟨sen⟩?",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "kun on paljon"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "hyvää"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "on paljon"
+    },
+    {
+      "surface": "אוכליה",
+      "gloss": "sen syöjiä"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ja mitä"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "etua"
+    },
+    {
+      "surface": "לבעליה",
+      "gloss": "omistajalle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paitsi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "että"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "näkevät"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "hänen silmänsä"
+    }
+  ],
+  "timestamp": "2026-09-07T05:57:54.858708576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 13:2",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Tämä on maa, joka on jäljellä: kaikki Filistimin (filistealaisten) alueet ja kaikki Gshurin maa,",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Tämä"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "on maa"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "joka on jäljellä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "גלילות",
+      "gloss": "alueet"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Filistimin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "Gshurin maa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:44:41.601157674Z",
+  "model": "glm-5.3"
+}

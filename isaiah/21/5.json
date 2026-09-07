@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 21:5",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "He kattavat pöydän, he pitävät vahtia vartiotornissa, he syövät, he juovat: nouskaa, ruhtinaat, ja voidelkaa kilpi.",
+  "tokens": [
+    {
+      "surface": "ערך",
+      "gloss": "he kattavat"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "pöydän"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "he pitävät vahtia"
+    },
+    {
+      "surface": "הצפית",
+      "gloss": "vartiotornissa"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "he syövät"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "he juovat"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "nouskaa"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "ruhtinaat"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "voidelkaa"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "kilpi"
+    }
+  ],
+  "timestamp": "2026-09-07T00:06:14.920221032Z",
+  "model": "glm-5.3"
+}

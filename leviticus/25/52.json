@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 25:52",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja jos vuosista on vähän jäljellä Yovel-vuoteen asti, hän laskee hänen kanssaan; vuosiensa mukaan hän maksaa ⟨את⟩ lunastuksensa takaisin.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ja jos"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "vähän"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "on jäljellä"
+    },
+    {
+      "surface": "בשנים",
+      "gloss": "vuosista"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "vuoteen"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "Yovelin"
+    },
+    {
+      "surface": "וחשב",
+      "gloss": "hän laskee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänen kanssaan"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "mutta"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "vuosiensa"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "hän maksaa takaisin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lunastuksensa"
+    },
+    {
+      "surface": "גאלתו",
+      "gloss": "lunastuksensa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:59:56.663370701Z",
+  "model": "glm-5.3"
+}

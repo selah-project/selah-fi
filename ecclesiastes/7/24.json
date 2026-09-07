@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Kaukana on se, mikä on ollut, ja syvä, syvä — kuka sen löytää?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "Kaukana"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mikä"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "on ollut"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "ja syvä"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "syvä"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "sen löytää"
+    }
+  ],
+  "timestamp": "2026-09-07T04:37:42.789803778Z",
+  "model": "glm-5.3"
+}

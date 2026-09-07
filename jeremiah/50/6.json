@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 50:6",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 50,
+  "translation": "Kadonneita lampaita ⟨on⟩ kansani ollut: heidän paimenensa saattoivat heidät harhaan, vuorille he käänsivät heidät pois; vuorelta kukkulalle he vaelsivat, he unohditivat leponsa.",
+  "tokens": [
+    {
+      "surface": "צאן",
+      "gloss": "lampaita"
+    },
+    {
+      "surface": "אבדות",
+      "gloss": "kadonneita"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ollut"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kansani"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "heidän paimenensa"
+    },
+    {
+      "surface": "התעום",
+      "gloss": "saattoivat heidät harhaan"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "vuorille"
+    },
+    {
+      "surface": "שובבים",
+      "gloss": "käänsivät heidät pois"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "vuorelta"
+    },
+    {
+      "surface": "אל",
+      "gloss": null,
+      "marks": "kukkulalle"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "kukkulalle"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "he vaelsivat"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "he unohditivat"
+    },
+    {
+      "surface": "רבצם",
+      "gloss": "leponsa"
+    }
+  ],
+  "timestamp": "2026-09-07T00:48:14.890559077Z",
+  "model": "glm-5.3"
+}

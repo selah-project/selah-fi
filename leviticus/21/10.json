@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 21:10",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja se kohen, joka on veljistään suurin, jonka päälle voidelun öljy on kaadettu ja jonka käsi on täytetty pukemaan ⟨את⟩ vaatteet — ⟨את⟩ päätään hän ei päästä löysälle, eikä vaatteitaan hän repikö.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "Ja kohen"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "suurin"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "veljistään"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "יוצק",
+      "gloss": "on kaadettu"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "päätään"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "öljy"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "voidelun"
+    },
+    {
+      "surface": "ומלא",
+      "gloss": "ja on täyttänyt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kätensä"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kätensä"
+    },
+    {
+      "surface": "ללבש",
+      "gloss": "pukemaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaatteet"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "vaatteet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "päätään"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "päätään"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יפרע",
+      "gloss": "päästä löysälle"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "ja vaatteitaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יפרם",
+      "gloss": "repikö"
+    }
+  ],
+  "timestamp": "2026-09-06T21:57:41.299110323Z",
+  "model": "glm-5.3"
+}

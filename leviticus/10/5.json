@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja he lähestyivät ja kantivat heidät heidän kutteneissaan ulos leiriin, kuten Moshe (Mooses) oli puhunut.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "Ja he lähestyivät"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "ja kantivat heidät"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "heidän kutteneissaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ulos"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ulkopuolelle"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "leiriin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kuten"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oli puhunut"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mooses)"
+    }
+  ],
+  "timestamp": "2026-09-06T21:51:19.287036951Z",
+  "model": "glm-5.3"
+}

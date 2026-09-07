@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Mikä on ollut, ⟨on⟩ jo entuudestaan, ja mikä on tuleva, on jo entuudestaan ollut; ja Elohim etsii ⟨את⟩ ajoissa ajettua.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Mikä"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "on ollut"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "jo entuudestaan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ja mikä"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "on tuleva"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "jo entuudestaan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ollut"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "ja Elohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "etsii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ajoissa ajettua"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "ajoissa ajettua"
+    }
+  ],
+  "timestamp": "2026-09-07T04:05:51.965257521Z",
+  "model": "glm-5.3"
+}

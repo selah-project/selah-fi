@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 41:13",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 41,
+  "translation": "Ja tapahtui, kun kaikki kansa, joka oli ⟨את⟩ Yishmaelin (Iismael) kanssa, näki ⟨את⟩ Yochananin, Kerachin pojan, ja ⟨את⟩ kaikki sotapäälliköt, jotka ⟨את⟩ hänen kanssaan olivat, niin he ilahtuivat.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "kun näki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishmaelin kanssa"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmaelin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yochananin"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yochananin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Kerachin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki sotapäälliköt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "päälliköt"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "sota-"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kanssaan"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "he ilahtuivat"
+    }
+  ],
+  "timestamp": "2026-09-07T00:43:48.214380158Z",
+  "model": "glm-5.3"
+}

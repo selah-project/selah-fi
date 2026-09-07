@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 40:13",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ja hän mittasi ⟨את⟩ portin yhden huoneen katolta sen toiseen kattoon: leveys kaksikymmentä ja viisi kyynärää, ovi vasten ovea.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "Ja hän mittasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "portin"
+    },
+    {
+      "surface": "השער",
+      "gloss": "portin"
+    },
+    {
+      "surface": "מגג",
+      "gloss": "yhden huoneen katolta"
+    },
+    {
+      "surface": "התא",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "לגגו",
+      "gloss": "sen toiseen kattoon"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "leveys"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kaksikymmentä"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ja viisi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ovi"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "vasten"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ovea"
+    }
+  ],
+  "timestamp": "2026-09-07T01:14:50.824927685Z",
+  "model": "glm-5.3"
+}

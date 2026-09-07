@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja tapahtuu sinä päivänä, että minä murskaan ⟨את⟩ Israelin jousen Jizreelin laaksossa.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ja tapahtuu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sinä päivänä"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "että minä murskaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin jousen"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "jousen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "laaksossa"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreelin"
+    }
+  ],
+  "timestamp": "2026-09-07T01:21:17.176813777Z",
+  "model": "glm-5.3"
+}

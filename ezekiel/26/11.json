@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 26:11",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Hevostensa kavioilla hän tallaa ⟨את⟩ koko katusi; kansasi hän surmaa miekalla, ja voimasi pylväät laskeutuvat maahan.",
+  "tokens": [
+    {
+      "surface": "בפרסות",
+      "gloss": "kavioilla"
+    },
+    {
+      "surface": "סוסיו",
+      "gloss": "hevostensa"
+    },
+    {
+      "surface": "ירמס",
+      "gloss": "hän tallaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko katusi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "חוצותיך",
+      "gloss": "katusi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kansasi"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "miekalla"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "hän surmaa"
+    },
+    {
+      "surface": "ומצבות",
+      "gloss": "ja pylväät"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "voimasi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "laskeutuvat"
+    }
+  ],
+  "timestamp": "2026-09-07T01:06:17.886163469Z",
+  "model": "glm-5.3"
+}

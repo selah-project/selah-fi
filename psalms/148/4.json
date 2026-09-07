@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 148,
+  "translation": "Kiittäkää häntä, taivaiden taivaat, ja vedet, jotka ⟨ovat⟩ taivaiden yllä!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Kiittäkää häntä"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "taivaiden"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaat"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "ja vedet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "yllä"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaiden"
+    }
+  ],
+  "timestamp": "2026-09-07T02:57:02.739755662Z",
+  "model": "glm-5.3"
+}

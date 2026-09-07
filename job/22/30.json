@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 22:30",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Hän pelastaa syyttömän ⟨saaren⟩, ja se pelastetaan sinun käsiesi puhtaudesta.",
+  "tokens": [
+    {
+      "surface": "ימלט",
+      "gloss": "Hän pelastaa"
+    },
+    {
+      "surface": "אי",
+      "gloss": "⟨saaren⟩"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "syyttömän"
+    },
+    {
+      "surface": "ונמלט",
+      "gloss": "ja se pelastetaan"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "puhtaudesta"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "sinun käsiesi"
+    }
+  ],
+  "timestamp": "2026-09-07T03:36:44.556969460Z",
+  "model": "glm-5.3"
+}

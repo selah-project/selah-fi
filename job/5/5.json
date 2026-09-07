@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 5:5",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Jonka sadon nälkäinen syö, ja okkaiden seasta se viedään, ja janoiset ahmivat heidän varallisuutensa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "sadon"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "nälkäinen"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "syö"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja ⟨seasta⟩"
+    },
+    {
+      "surface": "מצנים",
+      "gloss": "okkaiden"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "viedään"
+    },
+    {
+      "surface": "ושאף",
+      "gloss": "ja ahmii"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "janoiset"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "heidän varallisuutensa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:26:44.002125743Z",
+  "model": "glm-5.3"
+}

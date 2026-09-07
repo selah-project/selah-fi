@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 77,
+  "translation": "Sinä ⟨olet⟩ El, joka teet ihmeitä; sinä teit tunnetuksi voimasi kansojen keskellä.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sinä"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teet"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "ihmeitä"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "teit tunnetuksi"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "kansojen keskellä"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "voimasi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:22:09.991556131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Viherjäisillä ruohoniityillä hän lasketaan minut lepäämään, levon vetten äärellä hän johdattaa minut.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "niityillä"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ruoho"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "hän lasketaan minut lepäämään"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "מי",
+      "gloss": "vetten"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "levon"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "hän johdattaa minut"
+    }
+  ],
+  "timestamp": "2026-09-07T01:59:20.811726452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "genesis 24:59",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja he lähettivät ⟨את⟩ Rivkan, sisarensa, ja ⟨את⟩ hänen imettäjänsä, ja ⟨את⟩ Avrahamin (Aabraham) palvelijan ja ⟨את⟩ hänen miehiään.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "ja he lähettivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivkan"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivkan"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "sisarensa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen imettäjänsä"
+    },
+    {
+      "surface": "מנקתה",
+      "gloss": "hänen imettäjänsä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "palvelijan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "palvelijan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamin (Aabraham)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen miehiään"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "hänen miehiään"
+    }
+  ],
+  "timestamp": "2026-09-06T21:15:39.008651425Z",
+  "model": "glm-5.3"
+}

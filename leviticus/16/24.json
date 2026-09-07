@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 16:24",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja hän pesee ⟨את⟩ ruumiinsa vedessä pyhässä paikassa ja pukee ⟨את⟩ vaatteensa ja tulee ulos ja toimittaa ⟨את⟩ polttouhrinsa ja ⟨את⟩ kansan polttouhrin ja sovittaa puolestaan ja kansan puolesta.",
+  "tokens": [
+    {
+      "surface": "ורחץ",
+      "gloss": "ja pesee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruumiinsa"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ruumiinsa"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vedessä"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "paikassa"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "pyhässä"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "ja pukee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaatteensa"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "vaatteensa"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ja tulee ulos"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ja toimittaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "polttouhrinsa"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "polttouhrinsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kansan polttouhrin"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "polttouhrin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ja sovittaa"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "puolestaan"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ja puolesta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:55:47.320601721Z",
+  "model": "glm-5.3"
+}

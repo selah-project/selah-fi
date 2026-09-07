@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 93,
+  "translation": "Todistuksesi ovat hyvin varmat; sinun huoneellesi sopii pyhyys, Jahve, päivien pituuteen.",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "todistuksesi"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "ovat varmat"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hyvin"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "sinun huoneellesi"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "sopii"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhyys"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "pituuteen"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivien"
+    }
+  ],
+  "timestamp": "2026-09-07T02:31:49.497068720Z",
+  "model": "glm-5.3"
+}

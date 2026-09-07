@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Miksi polvet ottivat minut vastaan, ja miksi rinnat, että imisin?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "miksi"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "ottivat minut vastaan"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "polvet"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ja miksi"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "rinnat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "imisin"
+    }
+  ],
+  "timestamp": "2026-09-07T03:22:06.528566520Z",
+  "model": "glm-5.3"
+}

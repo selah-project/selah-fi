@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 48,
+  "translation": "He näkivät — niin hämmästyivät, joutuivat hätään ja pakenivat kiireesti.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "He"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "näKivät"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "hämmästyivät"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "joutuivat hätään"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "pakenivat kiireesti"
+    }
+  ],
+  "timestamp": "2026-09-07T04:33:00.849045311Z",
+  "model": "glm-5.3"
+}

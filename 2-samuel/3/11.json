@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Eikä hän enää voinut vastata ⟨את⟩ Avnerille sanaa, sillä hän pelkäsi ⟨את⟩ häntä.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "voinut"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enää"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "vastata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avnerille"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnerille"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sanaa"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "pelkäsi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ häntä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:19:05.829350629Z",
+  "model": "glm-5.3"
+}

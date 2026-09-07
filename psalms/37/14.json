@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 37:14",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Miekan ovat pahat avanneet ja jousensa he jännittäneet, kaataakseen kurjan ja köyhän, teurastaakseen oikeamieliset.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "miekan"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "ovat avanneet"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "pahat"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "ja jännittäneet"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "jousensa"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "kaataakseen"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kurjan"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ja köyhän"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "teurastaakseen"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "oikeamieliset"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tietä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:05:15.214864160Z",
+  "model": "glm-5.3"
+}

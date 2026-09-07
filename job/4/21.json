@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 4:21",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Eikö heidän telttaköyttänsä revitä irti heidän keskellään? He kuolevat, eivät viisaudessa.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "eikö"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "revitä irti"
+    },
+    {
+      "surface": "יתרם",
+      "gloss": "heidän telttaköyttänsä"
+    },
+    {
+      "surface": "בם",
+      "gloss": "heidän keskellään"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "he kuolevat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "viisaudessa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:20:40.149970694Z",
+  "model": "glm-5.3"
+}

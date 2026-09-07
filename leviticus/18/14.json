@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 18:14",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Isäsi veljen alastomuutta älä paljasta, älä lähesty hänen vaimoaan: hän ⟨on⟩ sinun tätisi.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "alastomuutta"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "veljen"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "isäsi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "paljasta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luokse"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "hänen vaimoaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "lähesty"
+    },
+    {
+      "surface": "דדתך",
+      "gloss": "tätiäsi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    }
+  ],
+  "timestamp": "2026-09-07T04:13:38.405553905Z",
+  "model": "glm-5.3"
+}

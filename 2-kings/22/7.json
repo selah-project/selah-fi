@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Vain ⟨את⟩ heidän kanssaan ei lasketa sitä hopeaa, joka on annettu heidän käsiinsä, sillä uskollisuudessa he toimivat.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "vain"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "lasketa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ heidän kanssaan",
+      "marks": "he"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sitä hopeaa"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "joka on annettu"
+    },
+    {
+      "surface": "על",
+      "gloss": "-"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "heidän käsiinsä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "uskollisuudessa"
+    },
+    {
+      "surface": "הם",
+      "gloss": "he"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "toimivat"
+    }
+  ],
+  "timestamp": "2026-09-06T23:58:03.501801091Z",
+  "model": "glm-5.3"
+}

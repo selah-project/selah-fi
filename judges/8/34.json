@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "judges 8:34",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Eivät Israelin pojat muistaneet ⟨את⟩ Jahvea, Elohimiaan, joka pelasti ⟨את⟩ heidät kaikkien ympärillään olevien vihollistensa kädestä.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "muistaneet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimiaan"
+    },
+    {
+      "surface": "המציל",
+      "gloss": "pelasti"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ heidät",
+      "marks": "kaikkien vihollisten käsi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kädestä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkien"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "vihollistensa"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ympärillään"
+    }
+  ],
+  "timestamp": "2026-09-06T22:56:06.634400531Z",
+  "model": "glm-5.3"
+}

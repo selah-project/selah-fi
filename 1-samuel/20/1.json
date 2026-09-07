@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 20:1",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja David pakeni Navotista (Naiootista), Ramassa, ja tuli ja sanoi Jehonatanin (Joonatanin) eteen: mitä minä olen tehnyt, mikä on minun pahani ja mikä minun syntini isäsi edessä, kun hän etsii ⟨את⟩ minun nefeshini?",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "ja pakeni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מנוות",
+      "gloss": "Navotista"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "Ramassa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatanin"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "olen tehnyt"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mikä"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "on minun pahani"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ja mikä"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "minun syntini"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "isäsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "hän etsii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minun nefeshini"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "minun nefeshini"
+    }
+  ],
+  "timestamp": "2026-09-06T23:13:50.478313283Z",
+  "model": "glm-5.3"
+}

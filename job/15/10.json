@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 15:10",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Sekä harmaapäinen että hyvin vanha on meidän keskellämme, vanhempia kuin sinun isäsi päivistään.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Sekä"
+    },
+    {
+      "surface": "שב",
+      "gloss": "harmaapäinen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "että"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "hyvin vanha"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "meidän keskellämme"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "vanhempia"
+    },
+    {
+      "surface": "מאביך",
+      "gloss": "kuin sinun isäsi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivistään"
+    }
+  ],
+  "timestamp": "2026-09-07T04:35:45.831214575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "ja ⟨את⟩ arvadilaiset ja ⟨את⟩ tsemarilaiset ja ⟨את⟩ hamatilaiset.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "arvadilaiset"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "arvadilaiset"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "tsemarilaiset"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "tsemarilaiset"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hamatilaiset"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "hamatilaiset"
+    }
+  ],
+  "timestamp": "2026-09-07T05:11:15.940754829Z",
+  "model": "glm-5.3"
+}

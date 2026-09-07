@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja Moshe laski ⟨את⟩ appensa matkaan, ja hän lähti ⟨matkaansa⟩ omaan maahansa.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "laski matkaan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "appensa"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "appensa"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "lähti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "matkaansa"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "omaan maahansa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:35:47.043788303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 91,
+  "translation": "Koska minuun hän on kiintynyt, minä pelastan hänet; minä korotan hänet, koska hän tuntee minun nimeni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "בי",
+      "gloss": "minuun"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "hän on kiintynyt"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "minä pelastan hänet"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "minä korotan hänet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "hän tuntee"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "minun nimeni"
+    }
+  ],
+  "timestamp": "2026-09-07T02:32:54.946765586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 105,
+  "translation": "Hän ⟨on⟩ Jahve, Elohimimme; koko maassa ⟨ovat⟩ hänen tuomionsa.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Hän"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimme"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "hänen tuomionsa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:38:28.655276973Z",
+  "model": "glm-5.3"
+}

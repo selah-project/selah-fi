@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Näin Elohim riisti pois ⟨את⟩ teidän isänne karjan ja antoi ⟨ sen ⟩ minulle.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "riisti pois"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teidän isänne karjan"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "karjan"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "teidän isänne"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ja antoi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    }
+  ],
+  "timestamp": "2026-09-06T21:18:18.933355075Z",
+  "model": "glm-5.3"
+}

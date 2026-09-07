@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 6:20",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja debirin edessä ⟨oli⟩ kaksikymmentä kyynärää pituus, ja kaksikymmentä kyynärää leveys, ja kaksikymmentä kyynärää korkeus — ja hän päällysti sen puhdistetulla kullalla, ja hän päällysti setrialttarin.",
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "Ja edessä"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "debirin"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kaksikymmentä"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "pituus"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ja kaksikymmentä"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "leveys"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ja kaksikymmentä"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "korkeus"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "ja hän päällysti sen"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kulta"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "puhdistettu"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ja hän päällysti"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "setri-"
+    }
+  ],
+  "timestamp": "2026-09-06T23:34:56.445144521Z",
+  "model": "glm-5.3"
+}

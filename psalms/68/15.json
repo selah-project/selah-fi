@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 68,
+  "translation": "Kun Shaddai hajottaa kuninkaita sen ⟨sisällä⟩, se luntaa Tsalmonissa ⟨vuorella⟩.",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "kun ... hajottaa"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kuninkaita"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sen ⟨sisällä⟩"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "se luntaa"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "Tsalmonissa ⟨vuorella⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T02:20:14.331773293Z",
+  "model": "glm-5.3"
+}

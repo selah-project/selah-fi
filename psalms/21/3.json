@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Hänen sydämensä toiveen sinä annoit hänelle, ja huultensa pyynnön sinä et lainkaan kieltänyt. Selah.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "toiveen"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hänen sydämensä"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "sinä annoit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "ja pyynnön"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "hänen huultensa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "lainkaan"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "sinä kieltänyt"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-07T01:58:34.610360539Z",
+  "model": "glm-5.3"
+}

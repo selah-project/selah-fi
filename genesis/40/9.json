@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 40:9",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ja juomiovrien päämies kertoi ⟨את⟩ unensa Josefille ja sanoi hänelle: Unessani, ja katso, viiniköynnös minun edessäni.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "Ja kertoi"
+    },
+    {
+      "surface": "שר",
+      "gloss": "päämies"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "juomiovrien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unensa"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "unensa"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "Josefille"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "בחלומי",
+      "gloss": "unessani"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "viiniköynnös"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "minun edessäni"
+    }
+  ],
+  "timestamp": "2026-09-06T21:22:01.227155345Z",
+  "model": "glm-5.3"
+}

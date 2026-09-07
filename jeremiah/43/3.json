@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 43:3",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 43,
+  "translation": "sillä Baruk, Nerijan poika, kiihottaa ⟨את⟩ sinua meitä vastaan jotta hän antaisi ⟨את⟩ meidät kasdilaisten käteen tappaakseen ⟨את⟩ meidät ja pakkosiirtääkseen ⟨את⟩ meidät Babeliin (Babylon).»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruk"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "Nerijan"
+    },
+    {
+      "surface": "מסית",
+      "gloss": "kiihottaa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "sinua"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "meitä"
+    },
+    {
+      "surface": "למען",
+      "gloss": "jotta"
+    },
+    {
+      "surface": "תת",
+      "gloss": "antaisi"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "meidät (kasdilaisten käteen)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käteen"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "kasdilaisten"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "tappaakseen"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "meidät (tappamaan)"
+    },
+    {
+      "surface": "ולהגלות",
+      "gloss": "ja pakkosiirtääkseen"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "meidät (Babeliin)"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babeliin (Babylon)"
+    }
+  ],
+  "timestamp": "2026-09-07T00:47:15.905786956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 3:15",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja annan teille paimenia sydämeni mukaan, ja he paimentavat ⟨את⟩ teitä tiedolla ja ymmärryksellä.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Ja annan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "paimenia"
+    },
+    {
+      "surface": "כלבי",
+      "gloss": "sydämeni mukaan"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "ja he paimentavat"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teitä",
+      "marks": "teitä"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "tiedolla"
+    },
+    {
+      "surface": "והשכיל",
+      "gloss": "ja ymmärryksellä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:26:17.531459246Z",
+  "model": "glm-5.3"
+}

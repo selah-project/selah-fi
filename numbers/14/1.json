@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja nosti koko seurakunta ⟨את⟩ äänensä ja antoi sen kuulua, ja kansa itki yöllä, sinä yönä.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "nosti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "seurakunta"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ja antoivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "äänensä"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "äänensä"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "ja itkivät"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "yöllä"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sinä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:09:21.126156422Z",
+  "model": "glm-5.3"
+}

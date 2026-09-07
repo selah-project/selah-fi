@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja ⟨את⟩ toisen hän tekee polttuhriksi säädöksen mukaan, ja kohen toimittaa hänen puolestaan sovituksen hänen synnistään, jonka hän teki, ja hänelle annetaan anteeksi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "toisen"
+    },
+    {
+      "surface": "השני",
+      "gloss": "toinen"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hän tekee"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "polttuhri"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "säädöksen mukaan"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ja toimittaa sovituksen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hänen puolestaan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "hänen synnistään"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "hän teki"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "ja annetaan anteeksi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    }
+  ],
+  "timestamp": "2026-09-06T21:49:29.585125176Z",
+  "model": "glm-5.3"
+}

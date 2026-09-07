@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja hän siitti Hodeshista, vaimostaan, ⟨את⟩ Jovavin ja ⟨את⟩ Tsivjan ja ⟨את⟩ Meshan ja ⟨את⟩ Malkamin.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "ja hän siitti"
+    },
+    {
+      "surface": "מן",
+      "gloss": "–sta"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Hodeshista"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vaimostaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jovavin"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Jovavin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Tsivjan"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Tsivjan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Meshan"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Meshan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Malkamin"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkamin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:14:43.063247072Z",
+  "model": "glm-5.3"
+}

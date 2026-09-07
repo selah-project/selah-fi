@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "daniel 8:7",
+  "book": "daniel",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja minä näin hänen tulevan oinaan viereen, ja hän suuttui sitä vastaan ja löi ⟨את⟩ oinasta ja mursi ⟨את⟩ sen molemmat sarvet; eikä oinaassa ollut voimaa seisoa hänen edessään, vaan hän heitti sen maahan ja polki sitä, eikä ollut pelastajaa oinaalle hänen kädestään.",
+  "tokens": [
+    {
+      "surface": "וראיתיו",
+      "gloss": "Ja minä näin hänet"
+    },
+    {
+      "surface": "מגיע",
+      "gloss": "tulevan"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "viereen"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "oinaan"
+    },
+    {
+      "surface": "ויתמרמר",
+      "gloss": "ja hän suuttui"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "sitä vastaan"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ja löi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oinasta"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "oinasta"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "ja mursi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen molemmat sarvet"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "molemmat (kaksi)"
+    },
+    {
+      "surface": "קרניו",
+      "gloss": "sarvea"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ollut"
+    },
+    {
+      "surface": "כח",
+      "gloss": "voimaa"
+    },
+    {
+      "surface": "באיל",
+      "gloss": "oinaassa"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "seisoa"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "hänen edessään"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "ja hän heitti sen"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "וירמסהו",
+      "gloss": "ja polki sitä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ollut"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "pelastajaa"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "oinalle"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "hänen kädestään"
+    }
+  ],
+  "timestamp": "2026-09-07T04:52:18.846594380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja sinä yhdistät ⟨את⟩ viisi verhoa erikseen ja ⟨את⟩ kuusi verhoa erikseen, ja sinä kaksinkertaistat ⟨את⟩ kuudennen verhon vastapäätä teltan edustaa.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "ja yhdistät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viisi verhoa"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "viisi"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "verhoa"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "erikseen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kuusi verhoa"
+    },
+    {
+      "surface": "שש",
+      "gloss": "kuusi"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "verhoa"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "erikseen"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "ja kaksinkertaistat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuudennen verhon"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "verhon"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "kuudennen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vastapäätä"
+    },
+    {
+      "surface": "מול",
+      "gloss": "suuntaan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "edustaa"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "teltan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:39:22.023176650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Jahven ääni ⟨on⟩ vetten päällä; kirkkauden El jyrisee ukkosen, Jahve monien vetten päällä.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ääni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vetten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "kirkkauden"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "jyrisee ukkosen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vetten"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "monien"
+    }
+  ],
+  "timestamp": "2026-09-07T02:02:08.265252238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Alussa loi Elohim ⟨את⟩ taivaan ja ⟨את⟩ maan.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Alussa"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "loi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taivaan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "maan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:05:00.694166401Z",
+  "model": "glm-5.3"
+}

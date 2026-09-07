@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Anna minun ylittää, pyydän, ja nähdä ⟨את⟩ hyvän maan, joka on tuolla puolen Yardenin, tämän hyvän vuoren ja Levanonin.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "Anna minun ylittää"
+    },
+    {
+      "surface": "נא",
+      "gloss": "pyydän"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ja nähdä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hyvän maan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "hyvän"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "tuolla puolen"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardenin"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "vuoren"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "hyvän"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "ja Levanonin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:24:11.263842591Z",
+  "model": "glm-5.3"
+}

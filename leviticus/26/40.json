@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja he tunnustavat ⟨את⟩ epäoikeutensa ja ⟨את⟩ isiensä epäoikeuden, petollisuudessaan, jolla he minua pettivät, ja myös sen, että he vaelsivat kanssani vastahakoisesti.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "Ja he tunnustavat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "epäoikeutensa"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "epäoikeutensa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "isiensä epäoikeuden"
+    },
+    {
+      "surface": "עון",
+      "gloss": "epäoikeuden"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "isiensä"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "petollisuudessaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jolla"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "he pettivät"
+    },
+    {
+      "surface": "בי",
+      "gloss": "minua"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ja myös"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sen että"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "he vaelsivat"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kanssani"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "vastahakoisesti"
+    }
+  ],
+  "timestamp": "2026-09-06T22:01:11.684183247Z",
+  "model": "glm-5.3"
+}

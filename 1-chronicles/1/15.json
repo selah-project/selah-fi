@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "ja ⟨את⟩ hiviläiset ja ⟨את⟩ arkkilaiset ja ⟨את⟩ siniläiset,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hiviläiset"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "hiviläiset"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "arkkilaiset"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "arkkilaiset"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "siniläiset"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "siniläiset"
+    }
+  ],
+  "timestamp": "2026-09-07T05:11:15.939772432Z",
+  "model": "glm-5.3"
+}

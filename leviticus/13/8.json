@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 13:8",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja kun kohen katsoo, ja katso, ruve on levinnyt ihossa, niin kohen julistakoon hänet saastaiseksi: tsaraat (spitaali) se ⟨on⟩.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Ja kun katsoo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "פשתה",
+      "gloss": "on levinnyt"
+    },
+    {
+      "surface": "המספחת",
+      "gloss": "ruve"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "ihossa"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "julistakoon saastaiseksi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se ⟨on⟩"
+    }
+  ],
+  "timestamp": "2026-09-06T21:52:33.229553095Z",
+  "model": "glm-5.3"
+}

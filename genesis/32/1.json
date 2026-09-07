@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 32:1",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Ja Lavan nousi varhain aamulla ja suuteli poikiansa ja tyttäriensä ⟨ja⟩ siunasi ⟨את⟩ heidät, ja hän lähti ja palasi Lavan paikkaansa.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "nousi varhain"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Ja Lavan"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamulla"
+    },
+    {
+      "surface": "וינשק",
+      "gloss": "ja suuteli"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "poikiansa"
+    },
+    {
+      "surface": "ולבנותיו",
+      "gloss": "ja tyttäriensä"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "siunasi"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "heidät"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ja hän lähti"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja palasi"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "paikkaansa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:18:56.999552038Z",
+  "model": "glm-5.3"
+}

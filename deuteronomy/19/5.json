@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 19:5",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja joka menee ⟨את⟩ toverinsa kanssa metsään hakkamaan puita, ja hänen kätensä singahtaa kirveellä puun kaataamiseksi, ja rauta liukenee puusta ja osuu ⟨את⟩ toveriinsa, niin että tämä kuolee — hän paetkoon yhteen näistä kaupungeista ja eläköön.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "ja joka"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "menee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toverinsa kanssa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "toverinsa"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "metsään"
+    },
+    {
+      "surface": "לחטב",
+      "gloss": "hakkamaan"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "puita"
+    },
+    {
+      "surface": "ונדחה",
+      "gloss": "ja singahtaa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kätensä"
+    },
+    {
+      "surface": "בגרזן",
+      "gloss": "kirveellä"
+    },
+    {
+      "surface": "לכרת",
+      "gloss": "kaataakseen"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "puun"
+    },
+    {
+      "surface": "ונשל",
+      "gloss": "ja liukenee"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "rauta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "−sta"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "puu"
+    },
+    {
+      "surface": "ומצא",
+      "gloss": "ja osuu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toveriinsa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "toveriinsa"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ja kuolee"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "paetkoon"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yhteen"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "kaupungeista"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "näistä"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ja eläköön"
+    }
+  ],
+  "timestamp": "2026-09-06T22:32:40.984217299Z",
+  "model": "glm-5.3"
+}

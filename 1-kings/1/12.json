@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja nyt mene, minä annan sinulle neuvon, pyydän: pelasta ⟨את⟩ henkesi ja ⟨את⟩ poikasi Shelomon henki.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ja nyt"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "mene"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "minä neuvon sinua"
+    },
+    {
+      "surface": "נא",
+      "gloss": "pyydän"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "neuvon"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "ja pelasta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "henkesi"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "henkesi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "henki"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "henki"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "poikasi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomon"
+    }
+  ],
+  "timestamp": "2026-09-06T23:32:14.802028342Z",
+  "model": "glm-5.3"
+}

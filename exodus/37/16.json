@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 37:16",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Ja hän teki ⟨את⟩ astiat, jotka ovat pöydän päällä: ⟨את⟩ sen lautasensa ja ⟨את⟩ sen kupinsa ja ⟨את⟩ sen maljansa ja ⟨את⟩ sen kannut, joista niillä kaadetaan — puhdasta kultaa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "teki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "astiat"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "astiat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "pöydän"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lautasensa"
+    },
+    {
+      "surface": "קערתיו",
+      "gloss": "lautasensa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kupinsa"
+    },
+    {
+      "surface": "כפתיו",
+      "gloss": "kupinsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "maljansa"
+    },
+    {
+      "surface": "מנקיתיו",
+      "gloss": "maljansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kannut"
+    },
+    {
+      "surface": "הקשות",
+      "gloss": "kannut"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joista"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "kaadetaan"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "niillä"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kultaa"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "puhdasta"
+    }
+  ],
+  "timestamp": "2026-09-06T21:45:49.535192142Z",
+  "model": "glm-5.3"
+}

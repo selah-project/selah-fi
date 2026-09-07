@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Sillä vankilasta hän lähti kuninkaaksi, vaikka omassa kuningaskunnassaan hän syntyi köyhänä.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "talosta"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "vankiloiden"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "hän lähti"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuninkaaksi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vaikka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "kuninkuudessansa"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "hän syntyi"
+    },
+    {
+      "surface": "רש",
+      "gloss": "köyhänä"
+    }
+  ],
+  "timestamp": "2026-09-07T04:05:47.515351395Z",
+  "model": "glm-5.3"
+}

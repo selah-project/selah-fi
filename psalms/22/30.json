@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Kaikki maan lihavat syövät ja kumartuvat hänen edessään, kaikki pölyyn laskeutuvat polvistuvat, ⟨jopa⟩ hän, jonka nefesh ei elä.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "syövät"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ja kumartuvat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "lihavat"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "hänen edessään"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "polvistuvat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "laskeutuvat"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pölyyn"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "ja hänen nefeshinsä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "elä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:58:41.014059482Z",
+  "model": "glm-5.3"
+}

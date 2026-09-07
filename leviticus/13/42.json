@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 13:42",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Mutta jos on takakaljuudessa tai otsakaljuudessa valkoinen punertava lyönti, se ⟨on⟩ Tsaraat, joka puhkeaa hänen takakaljuudessaan tai otsakaljuudessaan.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Mutta jos"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "on"
+    },
+    {
+      "surface": "בקרחת",
+      "gloss": "takakaljuudessa"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "בגבחת",
+      "gloss": "otsakaljuudessa"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "lyönti"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "valkoinen"
+    },
+    {
+      "surface": "אדמדם",
+      "gloss": "punertava"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "Tsaraat"
+    },
+    {
+      "surface": "פרחת",
+      "gloss": "joka puhkeaa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "בקרחתו",
+      "gloss": "hänen takakaljuudessaan"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "בגבחתו",
+      "gloss": "hänen otsakaljuudessaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:52:41.518072784Z",
+  "model": "glm-5.3"
+}

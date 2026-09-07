@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 113,
+  "translation": "istuttaakseen heidät yhdessä ruhtinasten, yhdessä kansansa ruhtinasten ⟨kanssa⟩.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "istuttaakseen heidät"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yhdessä"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "ruhtinasten"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yhdessä"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "ruhtinasten"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kansansa"
+    }
+  ],
+  "timestamp": "2026-09-07T02:42:02.166699302Z",
+  "model": "glm-5.3"
+}

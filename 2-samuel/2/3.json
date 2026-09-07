@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 2:3",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja miehensä, jotka olivat hänen kanssaan, toi David ylös, jokainen mieheensä ⟨ja⟩ perheineensä; ja he asettuivat asumaan Hevronin (Hebron) kaupunkeihin.",
+  "tokens": [
+    {
+      "surface": "ואנשיו",
+      "gloss": "Ja miehensä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hänen kanssaan"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "toi ylös"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "ja kotinsa"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ja he asettuivat asumaan"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "kaupunkeihin"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevronin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:19:52.812145269Z",
+  "model": "glm-5.3"
+}

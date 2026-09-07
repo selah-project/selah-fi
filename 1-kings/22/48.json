@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-kings 22:48",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja kuningasta ei ⟨ollut⟩ Edomissa; ⟨asiamies⟩ seisoi kuninkaana.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "Ja kuningasta"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Edomissa"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "asiamies seisoi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaana"
+    }
+  ],
+  "timestamp": "2026-09-06T23:46:18.545106710Z",
+  "model": "glm-5.3"
+}

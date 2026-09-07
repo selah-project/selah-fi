@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 25:34",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Eikä heidän kaupunkiensa laidanpeltoa saa myydä, sillä ikuinen omistus se ⟨on⟩ heillä.",
+  "tokens": [
+    {
+      "surface": "ושדה",
+      "gloss": "Eikä peltoa"
+    },
+    {
+      "surface": "מגרש",
+      "gloss": "laidan"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "heidän kaupunkiensa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "saa myydä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "omistus"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ikuinen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heidän"
+    }
+  ],
+  "timestamp": "2026-09-06T21:59:16.172327397Z",
+  "model": "glm-5.3"
+}

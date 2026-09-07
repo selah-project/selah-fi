@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Älä suita härkää sen puhtia jyrsiessä.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "suita"
+    },
+    {
+      "surface": "שור",
+      "gloss": "härkä"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "sen puhtia jyrsiessä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:34:44.080810490Z",
+  "model": "glm-5.3"
+}

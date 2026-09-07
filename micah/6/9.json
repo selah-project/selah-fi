@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 6:9",
+  "book": "micah",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Jahven ääni huutaa kaupunkiin, ja järkevyys ⟨on⟩ pelätä nimeäsi: kuulkaa, sauva, ja kuka sen on säätänyt.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ääni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kaupunkiin"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "huutaa"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "ja järkevyys"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "pelätä"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nimeäsi"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kuulkaa"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "sauva"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ja kuka"
+    },
+    {
+      "surface": "יעדה",
+      "gloss": "on säätänyt"
+    }
+  ],
+  "timestamp": "2026-09-07T01:36:45.409748779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Tunnetuksi on tehnyt Jahven ⟨on⟩ tuomionsa, jonka hän teki; oman kättensä töihin on joutunut paulaan jumalaton. Higgajon. Sela.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "Tunnetuksi on tehnyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "tuomionsa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "jonka hän teki"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "töihin"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "oman kättensä"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "on joutunut paulaan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "jumalaton"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higgajon"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-07T01:55:22.474821794Z",
+  "model": "glm-5.3"
+}

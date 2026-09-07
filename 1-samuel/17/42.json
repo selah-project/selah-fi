@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja filistealainen katsoi ja näki ⟨את⟩ Davidin ja halveksi häntä, sillä hän oli nuori, ja punertava, ja kaunis näöltään.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "ja katsoi"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filistealainen"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "ja näki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "ja halveksi häntä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "נער",
+      "gloss": "nuori"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "ja punertava"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "kaunis"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "näöltään"
+    }
+  ],
+  "timestamp": "2026-09-06T23:12:50.411929797Z",
+  "model": "glm-5.3"
+}

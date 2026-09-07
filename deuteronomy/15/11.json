@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 15:11",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Sillä ei köyhä lakkaa maan keskeltä; sen tähden minä käsken sinua sanoen: Auki avaa ⟨את⟩ kätesi veljellesi, köyhällesi ja tarvitsevallesi maassasi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "lakkaa"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "köyhä"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "keskeltä"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "käsken sinua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "Auki"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "avaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kätesi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kätesi"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "veljellesi"
+    },
+    {
+      "surface": "לעניך",
+      "gloss": "köyhällesi"
+    },
+    {
+      "surface": "ולאבינך",
+      "gloss": "ja tarvitsevallesi"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "maassasi"
+    }
+  ],
+  "timestamp": "2026-09-07T04:17:54.369313858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "Ja solmikaa meidän kanssamme avioliittoja: ⟨את⟩ tyttärenne antakaa meille, ja ⟨את⟩ meidän tyttäremme ottakaa itsellenne.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "solmikaa avioliittoja"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "tyttärenne"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "tyttärenne"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "antakaa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meille"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "meidän tyttäremme"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "meidän tyttäremme"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "ottakaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "itsellenne"
+    }
+  ],
+  "timestamp": "2026-09-06T21:20:21.732132425Z",
+  "model": "glm-5.3"
+}

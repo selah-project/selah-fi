@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 4:8",
+  "book": "joel",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja minä myin ⟨את⟩ poikanne ja ⟨את⟩ tyttärenne Jehudan poikien käteen, ja he myivät heidät shebalaisille (Sheban miehille), kaukaiselle kansalle, sillä Jahve on puhunut",
+  "tokens": [
+    {
+      "surface": "ומכרתי",
+      "gloss": "Ja minä myin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poikanne"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "poikanne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "tyttärenne"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "tyttärenne"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käteen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikien"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "ומכרום",
+      "gloss": "ja he myivät heidät"
+    },
+    {
+      "surface": "לשבאים",
+      "gloss": "shebalaisille (Sheban miehille)"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "גוי",
+      "gloss": "kansalle"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "kaukaiselle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "on puhunut"
+    }
+  ],
+  "timestamp": "2026-09-07T01:26:24.674488315Z",
+  "model": "glm-5.3"
+}

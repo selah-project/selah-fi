@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Elohim siunasi ⟨את⟩ seitsemännen päivän ja pyhitti ⟨את⟩ sen, koska sinä päivänä hän lakosi kaikesta työstään, jonka Elohim oli luonut tehdäkseen.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "siunasi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seitsemännen päivän"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivän"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "seitsemännen"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ja pyhitti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sen",
+      "marks": "seitsemännen päivän"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siinä"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "lakosi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kaikesta"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "työstään"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "loi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "tehdäkseen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:05:30.171160926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 25:8",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Älä riennä riitaan, ettei kävisi, ettet tietäisi mitä tehdä sen lopulla, kun lähimmäisesi häpäisee ⟨את⟩ sinut.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "lähde"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "riitaan"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "riennä"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ettei kävisi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "teet"
+    },
+    {
+      "surface": "באחריתה",
+      "gloss": "sen lopulla"
+    },
+    {
+      "surface": "בהכלים",
+      "gloss": "kun …häväisee"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sinut",
+      "marks": "sinut (objekti: häväisy kohdistuu kuulijaan)"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "lähimmäisesi"
+    }
+  ],
+  "timestamp": "2026-09-07T04:37:02.847682575Z",
+  "model": "glm-5.3"
+}

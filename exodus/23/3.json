@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "eikä köyhää älä suosi hänen riidassaan.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "eikä köyhää"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "suosi"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "hänen riidassaan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:09:23.007074327Z",
+  "model": "glm-5.3"
+}

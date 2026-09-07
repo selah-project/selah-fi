@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Siunattu ⟨olet⟩ sinä kaupungissa, ja siunattu ⟨olet⟩ sinä kedolla.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Siunattu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kaupungissa"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "ja siunattu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kedolla"
+    }
+  ],
+  "timestamp": "2026-09-06T22:36:20.541412971Z",
+  "model": "glm-5.3"
+}

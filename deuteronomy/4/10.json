@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 4:10",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Sinä päivänä, jona seisoit Jahven, Elohimisi, edessä Horevissa (Horeb), kun Jahve sanoi minulle: Kokoa minulle ⟨את⟩ kansa, ja anna heidän kuulla ⟨את⟩ sanani, että he oppisivat pelkäämään ⟨את⟩ minua kaikki ne päivät, jotka he elävät maan päällä, ja että he opettaisivat ⟨את⟩ lapsensa.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "sinä päivänä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jona"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "seisoit"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimisi"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "Horevissa"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "kun sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "kokoa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "ואשמעם",
+      "gloss": "ja anna heidän kuulla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanani"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "että"
+    },
+    {
+      "surface": "ילמדון",
+      "gloss": "he oppisivat"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "pelkäämään"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "minua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ne päivät"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "הם",
+      "gloss": "he"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "elävät"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "maan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "lapsensa"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "lapsensa"
+    },
+    {
+      "surface": "ילמדון",
+      "gloss": "opettaisivat"
+    }
+  ],
+  "timestamp": "2026-09-06T22:24:42.562805844Z",
+  "model": "glm-5.3"
+}

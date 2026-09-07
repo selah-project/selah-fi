@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Ja Ja'akov (Jaakob) näki, että viljaa on Mitsrajimissa (Egypti), ja Ja'akov sanoi pojilleen: ”Miksi katsotte toisianne?”",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "יש",
+      "gloss": "on"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "viljaa"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrajimissa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akov"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "pojilleen"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miksi"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "katsotte toisianne"
+    }
+  ],
+  "timestamp": "2026-09-06T21:25:01.400104623Z",
+  "model": "glm-5.3"
+}

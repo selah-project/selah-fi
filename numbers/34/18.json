@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 34:18",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "Ja yksi nasi, yksi nasi jokaisesta sukukunnasta, te otatte perimään ⟨את⟩ maan.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "Ja yksi nasi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "nasi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "jokaisesta sukukunnasta"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "te otatte"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "perimään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:21:14.028927288Z",
+  "model": "glm-5.3"
+}

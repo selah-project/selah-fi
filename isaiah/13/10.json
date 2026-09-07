@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 13:10",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Sillä taivaan tähdet ja niiden tähtikuvat eivät anna valoaan; pimenee aurinko lähtiessään, eikä kuu anna valoaan loistaa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "tähdet"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "וכסיליהם",
+      "gloss": "ja niiden tähtikuvat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "יהלו",
+      "gloss": "anna"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "valoaan"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pimenee"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "aurinko"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "lähtiessään"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "eikä kuu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יגיה",
+      "gloss": "anna"
+    },
+    {
+      "surface": "אורו",
+      "gloss": "valoaan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:03:52.332844017Z",
+  "model": "glm-5.3"
+}

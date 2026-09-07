@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 24:7",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Jos joku löydetään varastamasta Nefeshin veljistään, Israelin pojista, ja hän kohtelee häntä orjana ja myy hänet, se varas kuolkoon; ja sinä hävität pahan keskeltäsi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jos"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "löydetään"
+    },
+    {
+      "surface": "איש",
+      "gloss": "joku"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "varastamasta"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Nefeshin"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "veljistään"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "pojista"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "והתעמר",
+      "gloss": "kohtelee orjana"
+    },
+    {
+      "surface": "בו",
+      "gloss": "häntä"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "ja myy hänet"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "kuolkoon"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "se varas"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "ja sinä hävität"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "pahan"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "keskeltäsi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:33:40.183147970Z",
+  "model": "glm-5.3"
+}

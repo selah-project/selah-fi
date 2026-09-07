@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 27:1",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ja sinä teet ⟨את⟩ alttarin akasiapuusta: viisi kyynärää pituus, ja viisi kyynärää leveys — neliskanttainen ⟨on⟩ alttari — ja kolme kyynärää sen korkeus.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ja sinä teet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alttarin"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "puusta"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "viisi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "pituus"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ja viisi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "leveys"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "neliskanttainen"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "on"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttari"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ja kolme"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "sen korkeus"
+    }
+  ],
+  "timestamp": "2026-09-06T21:40:07.727580261Z",
+  "model": "glm-5.3"
+}

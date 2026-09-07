@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Ja he eivät tienneet, että Josef (Joosef) ymmärsi, sillä tulkki oli heidän välillään.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "Ja he"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tienneet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ymmärsi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef (Joosef)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "tulkki"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "heidän välillään"
+    }
+  ],
+  "timestamp": "2026-09-06T21:24:41.709983043Z",
+  "model": "glm-5.3"
+}

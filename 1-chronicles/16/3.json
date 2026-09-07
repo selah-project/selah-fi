@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 16:3",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja hän jakoi jokaiselle Israelin miehelle, miehestä naiseen asti, jokaiselle miehelle leipäkakun ja lihanpalan ja viinirypälekakun.",
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "ja hän jakoi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "jokaiselle"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehelle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "miehestä"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "naiseen"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "jokaiselle miehelle"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kakun"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipä-"
+    },
+    {
+      "surface": "ואשפר",
+      "gloss": "ja lihanpalan"
+    },
+    {
+      "surface": "ואשישה",
+      "gloss": "ja viinirypälekakun"
+    }
+  ],
+  "timestamp": "2026-09-07T05:20:32.541285278Z",
+  "model": "glm-5.3"
+}

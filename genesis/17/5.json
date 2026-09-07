@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Eikä ⟨את⟩ nimeäsi kutsuta enää Avramiksi (Abram), vaan nimesi olkoon Avraham (Aabraham), sillä kansojen paljon isäksi minä olen sinut tehnyt.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "kutsutaan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enää"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nimeäsi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nimeäsi"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramiksi"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "vaan olkoon"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nimesi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אב",
+      "gloss": "isäksi"
+    },
+    {
+      "surface": "המון",
+      "gloss": "paljon"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kansojen"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "sinut olen tehnyt"
+    }
+  ],
+  "timestamp": "2026-09-06T21:10:36.148088941Z",
+  "model": "glm-5.3"
+}

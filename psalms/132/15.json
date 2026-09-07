@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 132,
+  "translation": "Sen ravinnon minä siunaan, siunaan varmasti, ja sen köyhät minä ravitsen leivällä.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "Sen ravinnon"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "siunaan"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "siunaan varmasti"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "sen köyhät"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "minä ravitsen"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leivällä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:49:52.208769386Z",
+  "model": "glm-5.3"
+}

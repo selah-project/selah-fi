@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Davidin (Daavidin) shiggajon, jonka hän lauloi Jahvelle, Kushin, benjaminilaisen, sanoista.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "shiggajon"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "שר",
+      "gloss": "lauloi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "על",
+      "gloss": "...sta"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanoista"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kushin"
+    },
+    {
+      "surface": "בן",
+      "gloss": ""
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "benjaminilaisen"
+    }
+  ],
+  "timestamp": "2026-09-07T01:52:28.502719077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Ja he kuormittivat ⟨את⟩ viljansa aasejensa selkään ja lähtivät sieltä.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "ja he kuormittivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viljansa"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "viljansa"
+    },
+    {
+      "surface": "על",
+      "gloss": "−"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "aasejensa selkään"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ja lähtivät"
+    },
+    {
+      "surface": "משם",
+      "gloss": "sieltä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:24:30.241573633Z",
+  "model": "glm-5.3"
+}

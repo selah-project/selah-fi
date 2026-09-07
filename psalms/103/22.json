@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 103,
+  "translation": "Siunatkaa Jahvea, kaikki hänen tekonsa, kaikissa hänen valtakuntansa paikoissa. Siunaa, nefeshini ⟨sieluni⟩, ⟨את⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Siunatkaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "hänen tekonsa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaikissa"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "paikoissa"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "hänen valtakuntansa"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Siunaa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshini ⟨sieluni⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-07T02:34:49.504344534Z",
+  "model": "glm-5.3"
+}

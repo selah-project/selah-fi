@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 69,
+  "translation": "Olen uupunut huutaessani, kurkkuni on palanut, silmäni ovat sammuneet odottaessani Elohimiäni.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Olen uupunut"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "huutaessani"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "on palanut"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "kurkkuni"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ovat sammuneet"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "silmäni"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "odottaessani"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohimiäni"
+    }
+  ],
+  "timestamp": "2026-09-07T02:19:25.319691108Z",
+  "model": "glm-5.3"
+}

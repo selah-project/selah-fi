@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja sinä päivänä, jona te heilutatte ⟨את⟩ omerin, valmistakaa virheetön vuoden vanha karitsa polttuhriksi Jahvelle.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "Ja valmistakaa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sinä päivänä"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "jona te heilutatte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omerin"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "omerin"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "karitsa"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "virheetön"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ikäinen"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "vuoden"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "polttuhriksi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    }
+  ],
+  "timestamp": "2026-09-06T21:57:38.494086978Z",
+  "model": "glm-5.3"
+}

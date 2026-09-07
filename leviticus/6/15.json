@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 6:15",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja kohen (pappi), joka on voideltu hänen sijaansa hänen pojistaan, tekee ⟨את⟩ sen — ikuinen säädös Jahvelle; kokonaan se savutetaan.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "Ja kohen (pappi)"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "voideltu"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "hänen sijastaan"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "hänen pojistaan"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tekee"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sen (minchan)"
+    },
+    {
+      "surface": "חק",
+      "gloss": "säädös"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ikuinen"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "kokonaan"
+    },
+    {
+      "surface": "תקטר",
+      "gloss": "savutetaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:49:19.238346515Z",
+  "model": "glm-5.3"
+}

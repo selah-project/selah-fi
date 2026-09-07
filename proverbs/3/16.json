@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 3:16",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Päivien pituus ⟨on⟩ hänen oikeassaan, hänen vasemmassaan rikkaus ja kunnia.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "pituus"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivien"
+    },
+    {
+      "surface": "בימינה",
+      "gloss": "hänen oikeassaan"
+    },
+    {
+      "surface": "בשמאולה",
+      "gloss": "hänen vasemmassaan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "rikkaus"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ja kunnia"
+    }
+  ],
+  "timestamp": "2026-09-07T03:00:25.963577094Z",
+  "model": "glm-5.3"
+}

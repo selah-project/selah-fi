@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 22:30",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Näin sanoi Jahve: Kirjoittakaa ⟨את⟩ tämä mies lapsikkaaksi, mieheksi, joka ei onnistu päivinään, sillä ei onnistu kukaan hänen siemenestään, mies, joka istuisi Davidin (Daavidin) valtaistuimella ja hallitsisi enää Jehudassa.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "näin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "kirjoittakaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämä mies"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "tämä mies"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "ערירי",
+      "gloss": "lapsikkaaksi"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "mieheksi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "onnistu"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "päivinään"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "onnistu"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "hänen siemenestään"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kukaan"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "istuisi"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "valtaistuimella"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ja hallitsisi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enää"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Jehudassa"
+    }
+  ],
+  "timestamp": "2026-09-07T00:31:30.574436542Z",
+  "model": "glm-5.3"
+}

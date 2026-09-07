@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Sillä Jahve on lunastanut ⟨את⟩ Ja'akovin (Jaakob) ja vapahtanut hänet väkevämmän kädestä kuin hän on.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "on lunastanut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ja'akovin"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akovin"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "ja vapahtanut hänet"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kädestä"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "väkevämmän"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuin hän"
+    }
+  ],
+  "timestamp": "2026-09-07T00:37:29.546363637Z",
+  "model": "glm-5.3"
+}

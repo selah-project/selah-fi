@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 3:19",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja minä tiedän, ettei Mitsrajimin (Egyptin) kuningas anna teidän ⟨את⟩ lähteä, ⟨muutoin kuin⟩ väkevällä kädellä.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ja minä"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "tiedän"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "anna"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "teidän ⟨את⟩",
+      "marks": "teidän lähtemänne"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "lähteä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kädellä"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "väkevällä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:31:01.392474162Z",
+  "model": "glm-5.3"
+}

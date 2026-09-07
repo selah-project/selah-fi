@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja Moshe ilmoitti Aharonille ⟨את⟩ kaikki Jahven sanat, joilla hän oli hänet lähettänyt, ja ⟨את⟩ kaikki merkityöt, jotka hän oli hänelle käskenyt.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Ja ilmoitti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharonille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki sanat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joilla"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "oli lähettänyt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki merkityöt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "merkityöt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "oli käskenyt"
+    }
+  ],
+  "timestamp": "2026-09-06T21:30:16.484877105Z",
+  "model": "glm-5.3"
+}

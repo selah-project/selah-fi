@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Niin hävitti Zimri ⟨את⟩ koko Baashan huonekunnan, Jahven sanan mukaan, jonka hän puhui Baashaa vastaan Yehun (Huu), navi (profeetta), käden kautta.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "Niin hävitti"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko Baashan huonekunnan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huonekunnan"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baashan"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sanan mukaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hän puhui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vastaan"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baashaa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käden kautta"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehun (Huu)"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "navi (profeetta)"
+    }
+  ],
+  "timestamp": "2026-09-06T23:41:34.883672452Z",
+  "model": "glm-5.3"
+}

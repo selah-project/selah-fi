@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 40:25",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Ja keneen te minua vertaatte, ja kenen vertainen minä ⟨olen⟩? sanoo Pyhä.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "מי",
+      "gloss": "keneen"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "te minua vertaatte"
+    },
+    {
+      "surface": "ואשוה",
+      "gloss": "ja kenen vertainen"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Pyhä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:14:08.438975413Z",
+  "model": "glm-5.3"
+}

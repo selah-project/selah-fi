@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja Avram oli kahdeksankymmentä ja kuusi vuotta vanha, kun Hagar synnytti ⟨את⟩ Yishmaelin Avramille.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "ja Avram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oli"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "kahdeksankymmentä"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ja kuusi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "kun synnytti"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishmaelin"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmaelin"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "Avramille"
+    }
+  ],
+  "timestamp": "2026-09-06T21:09:52.803432112Z",
+  "model": "glm-5.3"
+}

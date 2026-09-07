@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 16:15",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "vaan: 'Niin totta kuin Jahve elää, joka toi ⟨את⟩ Israelin pojat ylös pohjoisen maasta ja kaikista maista, joihin hän oli karkottanut heidät'; ja minä tuon heidät takaisin heidän maalleen, jonka annoin heidän isillensa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vaan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "חי",
+      "gloss": "elää"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "toi ylös"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin pojat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "pohjoisen"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ja kaikista"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "maista"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joihin"
+    },
+    {
+      "surface": "הדיחם",
+      "gloss": "hän oli karkottanut heidät"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sinne"
+    },
+    {
+      "surface": "והשבתים",
+      "gloss": "ja minä tuon takaisin heidät"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "heidän maalleen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "annoin"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "heidän isillensä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:31:27.875588361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Muukalainen minä olen maassa; älä kätkä minulta käskyjäsi.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "Muukalainen"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "kätkä"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minulta"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "käskyjäsi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:45:20.037709105Z",
+  "model": "glm-5.3"
+}

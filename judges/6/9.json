@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 6:9",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja minä pelastin ⟨את⟩ teidät Mitsrajimin kädestä (Egypti) ja kaikkien teitä sortajien kädestä, ja minä karkotin ⟨את⟩ heidät teidän edestänne ja annoin teille ⟨את⟩ heidän maansa.",
+  "tokens": [
+    {
+      "surface": "ואצל",
+      "gloss": "ja minä pelastin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät",
+      "marks": "teidät"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kädestä"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ja kädestä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkien"
+    },
+    {
+      "surface": "לחציכם",
+      "gloss": "teitä sortajien"
+    },
+    {
+      "surface": "ואגרש",
+      "gloss": "ja minä karkotin"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ heidät",
+      "marks": "heidät"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "teidän edestänne"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ja annoin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän maansa"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "heidän maansa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:54:45.612346593Z",
+  "model": "glm-5.3"
+}

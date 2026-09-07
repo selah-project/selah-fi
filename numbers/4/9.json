@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 4:9",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja he ottavat violetin vaipan ja peittävät ⟨את⟩ valon valaisimen, ja ⟨את⟩ sen lamput, ja ⟨את⟩ sen pihdit ja ⟨את⟩ sen hiilipannut, ja ⟨את⟩ kaikki sen öljyastiat, joilla he palvelevat sitä niillä.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "ja he ottavat"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "vaipan"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "violetin"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "ja he peittävät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "valon valaisimen"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "valaisimen"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "valon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen lamput"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "sen lamput"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen pihdit"
+    },
+    {
+      "surface": "מלקחיה",
+      "gloss": "sen pihdit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen hiilipannut"
+    },
+    {
+      "surface": "מחתתיה",
+      "gloss": "sen hiilipannut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaikki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "astiat"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "öljy-"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joita"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "he palvelevat"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sitä"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "niillä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:04:20.740084475Z",
+  "model": "glm-5.3"
+}

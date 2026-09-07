@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 17:5",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja Ashurin (Assyrian) kuningas nousi koko maahan, ja hän nousi Shomronia (Samariaa) vastaan ja piiritti sitä kolme vuotta.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "nousi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashurin"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ja nousi"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomronia"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "ja piiritti"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sitä"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vuotta"
+    }
+  ],
+  "timestamp": "2026-09-06T23:55:40.914940475Z",
+  "model": "glm-5.3"
+}

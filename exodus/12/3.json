@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 12:3",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Puhukaa koko Israelin seurakunnalle ja sanokaa: Tämän kuukauden kymmenentenä päivänä ottakoon jokainen mies itselleen karitsan isiensä perhekunnan mukaan, karitsa taloa kohden.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "Puhukaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "seurakunnalle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanokaa"
+    },
+    {
+      "surface": "בעשר",
+      "gloss": "kymmenentenä päivänä"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "kuukauden"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "Tämän"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ottakoon"
+    },
+    {
+      "surface": "להם",
+      "gloss": "itselleen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jokainen mies"
+    },
+    {
+      "surface": "שה",
+      "gloss": "karitsan"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "perhekunnan"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "isien"
+    },
+    {
+      "surface": "שה",
+      "gloss": "karitsa"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "taloa kohden"
+    }
+  ],
+  "timestamp": "2026-09-06T21:32:53.387490388Z",
+  "model": "glm-5.3"
+}

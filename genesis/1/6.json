@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja sanoi Elohim: ”Tulkoon vahvistus vesien keskelle, ja olkoon se erottamassa välillä vedet vedistä.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "Tulkoon"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "vahvistus"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keskelle"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vesien"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja olkoon"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "erottamassa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "välillä"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vedet"
+    },
+    {
+      "surface": "למים",
+      "gloss": "vedistä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:05:16.253575615Z",
+  "model": "glm-5.3"
+}

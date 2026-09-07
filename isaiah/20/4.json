@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 20:4",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "niin Ashurin kuningas ajaa pois ⟨את⟩ Mitsrajimin vankeuden ja ⟨את⟩ Kushin pakkosiirtolaisuuden, nuoria ja vanhoja, alastomina ja paljain jaloin, ja paljain takamuksin — Mitsrajimin häpeänä.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "ajaa pois"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkas"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashurin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajimin vankeuden"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "vankeuden"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Kushin pakkosiirtolaisuuden"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "pakkosiirtolaisuuden"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kushin"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "nuoria"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "ja vanhoja"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "alastomina"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "ja paljain jaloin"
+    },
+    {
+      "surface": "וחשופי",
+      "gloss": "ja paljain"
+    },
+    {
+      "surface": "שת",
+      "gloss": "takamuksin"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "häpeänä"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    }
+  ],
+  "timestamp": "2026-09-07T00:06:38.015485547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 1:10",
+  "book": "zechariah",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja mies, joka seisoi myrttien keskellä, vastasi ja sanoi: nämä ⟨ovat⟩ ne, jotka Jahve on lähettänyt vaeltamaan maassa.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "vastasi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "seisova"
+    },
+    {
+      "surface": "בין",
+      "gloss": "keskellä"
+    },
+    {
+      "surface": "ההדסים",
+      "gloss": "myrttien"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "lähetti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להתהלך",
+      "gloss": "vaeltamaan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:41:29.929192155Z",
+  "model": "glm-5.3"
+}

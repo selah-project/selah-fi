@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 109,
+  "translation": "Kuoronjohtajalle; Davidin ⟨Daavid⟩ mizmor ⟨psalmi⟩. Minun ylistykseni Elohim, älä vaikene.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kuoronjohtajalle"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "minun ylistykseni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "vaikene"
+    }
+  ],
+  "timestamp": "2026-09-07T02:42:35.455064544Z",
+  "model": "glm-5.3"
+}

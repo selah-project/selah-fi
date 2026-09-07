@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Ei panettele kielellään, ei tee lähimmäiselleen pahaa eikä nosta häväistysväitettä läheisensä päälle.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ei"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "panettele"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "kielellään"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tee"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "lähimmäiselleen"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pahaa"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "eikä häväistysväitettä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nostaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "läheisensä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:56:14.883753265Z",
+  "model": "glm-5.3"
+}

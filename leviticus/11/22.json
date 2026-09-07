@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "⟨את⟩ Nämä niistä te saatte syödä: ⟨את⟩ arbeh-lisäyksen lajinsa mukaan, ja ⟨את⟩ sol'am-lisäyksen lajinsa mukaan, ja ⟨את⟩ hargol-lisäyksen lajinsa mukaan, ja ⟨את⟩ hagav-lisäyksen lajinsa mukaan.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nämä"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Nämä"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "niistä"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "te saatte syödä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arbeh-lisäyksen"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arbeh-lisäyksen"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "lajinsa mukaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sol'am-lisäyksen"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "sol'am-lisäyksen"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "lajinsa mukaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hargol-lisäyksen"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "hargol-lisäyksen"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "lajinsa mukaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hagav-lisäyksen"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "hagav-lisäyksen"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "lajinsa mukaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:50:28.796442581Z",
+  "model": "glm-5.3"
+}

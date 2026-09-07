@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 68,
+  "translation": "Totisesti, Elohim murskaa vihollistensa pään, karvaisen päälakkeen sille, joka vaeltaa syyllisyydessään.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Totisesti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "murskaa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pään"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "vihollistensa"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "päälakkeen"
+    },
+    {
+      "surface": "שער",
+      "gloss": "karvaisen"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "vaeltavan"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "syyllisyydessään"
+    }
+  ],
+  "timestamp": "2026-09-07T02:18:49.786709358Z",
+  "model": "glm-5.3"
+}

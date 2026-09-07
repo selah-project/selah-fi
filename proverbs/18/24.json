@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 18:24",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ystäville antautuva mies voi joutua turmioon, mutta on ystävä, joka pysyy liikkumattomampana kuin veli.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ystäville"
+    },
+    {
+      "surface": "להתרעע",
+      "gloss": "antautuva \/ turmioon"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "mutta on"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ystävä"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "pysyy liikkumattomampana"
+    },
+    {
+      "surface": "מאח",
+      "gloss": "kuin veli"
+    }
+  ],
+  "timestamp": "2026-09-07T03:13:03.592618786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 38,
+  "translation": "Ja hän teki ⟨את⟩ sauvot shittapuusta ja päällysti ⟨את⟩ ne vaskeella.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ja hän teki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sauvot"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "sauvot"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "punameesta"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitta"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ja hän päällysti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ne"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "vaskeella"
+    }
+  ],
+  "timestamp": "2026-09-06T21:44:53.956652155Z",
+  "model": "glm-5.3"
+}

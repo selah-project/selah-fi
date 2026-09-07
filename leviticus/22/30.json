@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Sinä päivänä se on syötävä; älkää jättäkö siitä mitään aamuun asti: minä olen Jahve.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sinä päivänä"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "siinä"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "on syötävä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "jättäkö"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "siitä"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "aamuun"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-06T21:57:38.621652162Z",
+  "model": "glm-5.3"
+}

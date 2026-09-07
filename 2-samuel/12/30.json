@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 12:30",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja hän otti ⟨את⟩ heidän kuninkaansa kruunun hänen päästään, ja sen paino ⟨oli⟩ kikkarollinen kultaa ja kallis kivi, ja se ⟨oli⟩ Davidin päässä; ja kaupungin saaliin hän vei ulos hyvin paljon.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ja otti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän kuninkaansa kruunun"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "kruunun"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "heidän kuninkaansa"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "päästään"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hänen päänsä"
+    },
+    {
+      "surface": "ומשקלה",
+      "gloss": "ja sen paino"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kikkarollinen"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kultaa"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ja kivi"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "kallis"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ja se oli"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pään"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "ja saaliin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "hän vei ulos"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "hyvin paljon"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "äärimmäisen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:23:59.257176498Z",
+  "model": "glm-5.3"
+}

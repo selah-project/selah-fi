@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja he syökööt ⟨את⟩ lihan tänä yönä; tulessa paistettuna, ja happamattomia leipiä karvaiden yrttien kera he syökööt sen.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "Ja he syökööt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lihan"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "lihan"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "yönä"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tänä"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "paistettuna"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tulessa"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "ja happamattomia leipiä"
+    },
+    {
+      "surface": "על",
+      "gloss": "kera"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "karvaiden yrttien"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "he syökööt sen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:33:02.850316951Z",
+  "model": "glm-5.3"
+}

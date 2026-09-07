@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "⟨את⟩ Jahvea, sinun Elohimiasi, pelää; ⟨את⟩ häntä palvele, ja häneen liity, ja hänen nimessään vanno.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sinun Elohimiasi"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "pelää"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ häntä"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "palvele"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "ja häneen"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "liity"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "ja hänen nimessään"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "vanno"
+    }
+  ],
+  "timestamp": "2026-09-06T22:27:16.508816624Z",
+  "model": "glm-5.3"
+}

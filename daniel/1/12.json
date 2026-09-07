@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Koettele ⟨pyydän⟩ ⟨את⟩ palvelojasi kymmenen päivää, ja annettakoon meille siemenravintoa, ja me syömme, ja vettä, ja me juomme.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "koettele"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨pyydän⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palvelojasi"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "palvelojasi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivää"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kymmenen"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ja annettakoon"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meille"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-a"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "siemenravintoa"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "ja me syömme"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ja vettä"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "ja me juomme"
+    }
+  ],
+  "timestamp": "2026-09-07T04:44:27.281745065Z",
+  "model": "glm-5.3"
+}

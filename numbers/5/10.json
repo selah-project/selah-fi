@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja jokaisen miehen ⟨את⟩ pyhät lahjansa ovat hänen: mitä mies antaa kohenille, se on hänen.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ja jokaisen miehen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pyhät lahjansa"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "pyhät lahjansa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ovat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "antaa"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kohenille"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "on"
+    }
+  ],
+  "timestamp": "2026-09-06T22:04:05.663116016Z",
+  "model": "glm-5.3"
+}

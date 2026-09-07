@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 2:12",
+  "book": "zechariah",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Sillä näin sanoi Jahve Sebaot: kirkkauden jälkeen hän lähetti minut ⟨את⟩ kansojen luokse, jotka ⟨את⟩ teitä ryöstivät, sillä joka teihin koskee, koskee hänen silmänsä pupilliin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "כה",
+      "gloss": "näin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaot"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "jälkeen"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kirkkauden"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "lähetti minut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luokse"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kansojen"
+    },
+    {
+      "surface": "השללים",
+      "gloss": "jotka ryöstivät"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teitä",
+      "marks": "אתכם on pronomini 'teitä' (H859 + k-2mp), ei objektimerkki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "joka koskee"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "teihin"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "koskee"
+    },
+    {
+      "surface": "בבבת",
+      "gloss": "pupilliin"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "hänen silmänsä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:44:24.888680711Z",
+  "model": "glm-5.3"
+}

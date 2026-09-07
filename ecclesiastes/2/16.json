@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 2:16",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Sillä ei ole iankaikkisesti muistoa viisaalle samoin kuin hullulle, sillä jo tulevina päivinä kaikki on unohdettu; ja kuinka viisas kuolee samoin kuin hullu!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "muistoa"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "viisaalle"
+    },
+    {
+      "surface": "עם",
+      "gloss": "samoin kuin"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "hullulle"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "בשכבר",
+      "gloss": "sillä jo"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "päivinä"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "tulevina"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "on unohdettu"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "ja kuinka"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "kuolee"
+    },
+    {
+      "surface": "החכם",
+      "gloss": "viisas"
+    },
+    {
+      "surface": "עם",
+      "gloss": "samoin kuin"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "hullu"
+    }
+  ],
+  "timestamp": "2026-09-07T04:07:15.033809304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 14:42",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja he ottavat muita kiviä ja panevat ne näiden kivien tilalle, ja toista pölyä hän ottaa ja rapauttaa ⟨את⟩ talon.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "ja he ottavat"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kiviä"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "muita"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "ja he panevat"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tilalle"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "näiden kivien"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "ja pölyä"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "toista"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "hän ottaa"
+    },
+    {
+      "surface": "וטח",
+      "gloss": "ja hän rapauttaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "talon"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "talon"
+    }
+  ],
+  "timestamp": "2026-09-06T21:53:48.996919032Z",
+  "model": "glm-5.3"
+}

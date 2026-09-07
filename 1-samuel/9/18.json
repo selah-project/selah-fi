@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 9:18",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja Shaul lähestyi ⟨את⟩ Shmuelin portin keskellä ja sanoi: ”Kerro, pyydän, minulle, missä ⟨on⟩ näkijän talo?”",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "Ja Shaul lähestyi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shmuelin"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuelin"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keskellä"
+    },
+    {
+      "surface": "השער",
+      "gloss": "portin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Kerro"
+    },
+    {
+      "surface": "נא",
+      "gloss": "pyydän"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "אי",
+      "gloss": "missä"
+    },
+    {
+      "surface": "זה",
+      "gloss": ""
+    },
+    {
+      "surface": "בית",
+      "gloss": "talo"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "näkijän"
+    }
+  ],
+  "timestamp": "2026-09-07T04:19:26.740260902Z",
+  "model": "glm-5.3"
+}

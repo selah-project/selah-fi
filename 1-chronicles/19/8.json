@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Kun David kuuli sen, hän lähetti Joobab ⟨Moab⟩in ⟨את⟩ Joobabin ja ⟨את⟩ koko sotaväen, väkevät miehet.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Kun kuuli"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "hän lähetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joobabin"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joobab (Joab)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "koko sotaväen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "sotaväen"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "väkevät miehet"
+    }
+  ],
+  "timestamp": "2026-09-07T05:24:22.780052891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 10:11",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja Jehu löi ⟨את⟩ kaikki, jotka olivat jäljellä Ahmadin suvusta, Jisreelissä, ja kaikki hänen suurmiehensä ja tuttavansa ja pappinsa, niin ettei hänelle jättänyt henkiin jäänyttä.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ja löi"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki, jotka olivat jäljellä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "jotka olivat jäljellä"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "suvusta"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahavin"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "Jisreelissä"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kaikki"
+    },
+    {
+      "surface": "גדליו",
+      "gloss": "hänen suurmiehensä"
+    },
+    {
+      "surface": "ומידעיו",
+      "gloss": "ja tuttavansa"
+    },
+    {
+      "surface": "וכהניו",
+      "gloss": "ja pappinsa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "niin ettei"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ei"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "jättänyt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "henkiin jäänyttä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:50:35.338738600Z",
+  "model": "glm-5.3"
+}

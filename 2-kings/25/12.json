@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 25:12",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja maan köyhimmistä teurastajien päällikkö jätti ⟨jäljelle⟩ viininviljelijöiksi ja peltoviljelijöiksi.",
+  "tokens": [
+    {
+      "surface": "ומדלת",
+      "gloss": "ja köyhimmistä"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "jätti"
+    },
+    {
+      "surface": "רב",
+      "gloss": "päällikkö"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "teurastajien"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "viininviljelijöiksi"
+    },
+    {
+      "surface": "וליגבים",
+      "gloss": "ja peltoviljelijöiksi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:59:58.739234117Z",
+  "model": "glm-5.3"
+}

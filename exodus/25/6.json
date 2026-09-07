@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 25:6",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "öljyä valoa varten, tuoksinaineita voiteluöljyyn ja suitsukkeeseen mausteista.",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "öljyä"
+    },
+    {
+      "surface": "למאר",
+      "gloss": "valoa varten"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "tuoksinaineita"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "öljyyn"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "voitelu-"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "ja suitsukkeeseen"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "mausteista"
+    }
+  ],
+  "timestamp": "2026-09-06T21:38:59.861879330Z",
+  "model": "glm-5.3"
+}

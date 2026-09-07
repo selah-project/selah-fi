@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Mutta hän hylkäsi ⟨את⟩ vanhinten neuvon, jonka he olivat hänelle antaneet, ja neuvotteli ⟨את⟩ nuorten kanssa, jotka olivat kasvaneet ⟨את⟩ hänen kanssaan, jotka seisoivat hänen edessään.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "Mutta hylkäsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhinten neuvon"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "neuvon"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "vanhinten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "he olivat hänelle antaneet"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "ja neuvotteli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nuorten kanssa"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "nuorten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "olivat kasvaneet"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänen kanssaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "seisoivat"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "hänen edessään"
+    }
+  ],
+  "timestamp": "2026-09-06T23:39:29.321680361Z",
+  "model": "glm-5.3"
+}

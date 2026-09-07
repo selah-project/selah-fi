@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja sanoi Jahve Elohim naiselle: ”Mitä tämän sinä teit?” Ja nainen sanoi: ”Käärme viettteli minut, ja minä söin.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "naiselle"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mitä"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "sinä teit"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "nainen"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "Käärme"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "viettteli minut"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ja minä söin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:04:57.925343347Z",
+  "model": "glm-5.3"
+}

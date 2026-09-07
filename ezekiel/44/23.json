@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 44:23",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 44,
+  "translation": "Ja ⟨את⟩ kansaani he opettavat pyhän ja maallisen välille, ja epäpuhtaan ja puhtaan välillä he siitä tiettäväksi tekevät heille.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kansaani"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kansaani"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "he opettavat"
+    },
+    {
+      "surface": "בין",
+      "gloss": "välille"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhän"
+    },
+    {
+      "surface": "לחל",
+      "gloss": "ja maallisen"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja välillä"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "epäpuhtaan"
+    },
+    {
+      "surface": "לטהור",
+      "gloss": "ja puhtaan"
+    },
+    {
+      "surface": "יודעם",
+      "gloss": "he siitä tiettäväksi tekevät heille"
+    }
+  ],
+  "timestamp": "2026-09-07T01:16:47.336753651Z",
+  "model": "glm-5.3"
+}

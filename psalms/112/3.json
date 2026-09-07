@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 112,
+  "translation": "Varallisuus ja rikkaus ⟨ovat⟩ hänen huoneessaan, ja hänen vanhurskautensa pysyy iankaikkisesti.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Varallisuus"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ja rikkaus"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "hänen huoneessaan"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ja hänen vanhurskautensa"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "pysyy"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "iankaikkisesti"
+    }
+  ],
+  "timestamp": "2026-09-07T02:42:33.399669457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Eivät ⟨ole⟩ näin jumalattomat, vaan he ovat kuin akana, jota tuuli ajaa pois.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Eivät"
+    },
+    {
+      "surface": "כן",
+      "gloss": "näin"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "jumalattomat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vaan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vaan"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "kuin akana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jota"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "ajaa pois"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "tuuli"
+    }
+  ],
+  "timestamp": "2026-09-07T01:53:15.663977510Z",
+  "model": "glm-5.3"
+}

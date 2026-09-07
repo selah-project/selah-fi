@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja he keräsivät ⟨את⟩ sitä aamusta aamuun, jokainen syömisensä mukaan; ja kun aurinko lämmensi, se suli.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "ja he keräsivät"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sitä (manna)"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamusta"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamuun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jokainen"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "miekan"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "syömisensä"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "ja lämmensi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "aurinko"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "ja se suli"
+    }
+  ],
+  "timestamp": "2026-09-06T21:36:00.921226286Z",
+  "model": "glm-5.3"
+}

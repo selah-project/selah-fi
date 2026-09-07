@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 142:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 142,
+  "translation": "Vie Nefeshini ulos vankilasta kiittämään ⟨את⟩ nimeäsi; minun ympärilleni vanhurskaat kruunaavat ⟨itsensä⟩, sillä sinä teet minulle hyvää.",
+  "tokens": [
+    {
+      "surface": "הוציאה",
+      "gloss": "Vie ulos"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "vankilasta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshini"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "kiittämään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nimeäsi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nimeäsi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "minun ympärilleni"
+    },
+    {
+      "surface": "יכתרו",
+      "gloss": "kruunaavat"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "vanhurskaat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "תגמל",
+      "gloss": "teet hyvää"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "minulle"
+    }
+  ],
+  "timestamp": "2026-09-07T04:34:07.621249433Z",
+  "model": "glm-5.3"
+}

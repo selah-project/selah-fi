@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 37:23",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Jahvelta ovat miehen askeleet — ne ⟨on⟩ vahvistettu, ja hänen tietään hän suosii.",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "Jahvelta"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "askeleet"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "⟨on⟩ vahvistettu"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "ja hänen tiensä"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "hän suosii"
+    }
+  ],
+  "timestamp": "2026-09-07T02:06:39.534964377Z",
+  "model": "glm-5.3"
+}

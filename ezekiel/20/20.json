@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 20:20",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja pyhittäkää ⟨את⟩ Shabbatini, ja olkoot ne merkiksi minun ja teidän välillänne, että te tietäisitte, että minä ⟨olen⟩ Jahve, teidän Elohiminne.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Shabbatini"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "Shabbatini"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "pyhittäkää"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ja olkoot"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "merkiksi"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "minun"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "ja teidän välillänne"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "että te tietäisitte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "teidän Elohiminne"
+    }
+  ],
+  "timestamp": "2026-09-07T01:00:52.544799056Z",
+  "model": "glm-5.3"
+}

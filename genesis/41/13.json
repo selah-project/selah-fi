@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 41,
+  "translation": "Ja tapahtui, kun hän selitti meille, niin se tapahtui: ⟨את⟩ minut hän palautti takaisin asemaansa, ja ⟨את⟩ hänet hän ripusti.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kun"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "hän selitti"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meille"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "se tapahtui"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "minut"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "hän palautti"
+    },
+    {
+      "surface": "על",
+      "gloss": "takaisin"
+    },
+    {
+      "surface": "כני",
+      "gloss": "asemaansa"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänet"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "hän ripusti"
+    }
+  ],
+  "timestamp": "2026-09-07T06:34:34.214795467Z",
+  "model": "glm-5.3"
+}

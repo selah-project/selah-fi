@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja Pelishtit ahdistivat Shaulia (Saul) ja hänen poikiaan, ja Pelishtit löivät ⟨את⟩ Jonatanin ja ⟨את⟩ Avinadavin ja ⟨את⟩ Malki-Shuan, Shaulin pojat.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "Ja ahdistivat"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtit"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "perässä"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulia"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ja perässä"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "hänen poikiensa"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ja löivät"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonatanin"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatanin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Avinadavin"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadavin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Malki-Shuan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "-Shuan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:18:54.912192652Z",
+  "model": "glm-5.3"
+}

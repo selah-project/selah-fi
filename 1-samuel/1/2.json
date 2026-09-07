@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja hänellä oli kaksi vaimoa; yhden nimi ⟨oli⟩ Hana ja toisen nimi ⟨oli⟩ Pinena; ja Pinenalla oli lapsia, ja Hanalla ei ollut lapsia.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "ja hänellä"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kaksi"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "vaimoa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimi"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yhden"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ja nimi"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "toisen"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "Pinena"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja oli"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "Pinenalla"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "lapsia"
+    },
+    {
+      "surface": "ולחנה",
+      "gloss": "ja Hanalla"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "lapsia"
+    }
+  ],
+  "timestamp": "2026-09-06T23:05:01.608317328Z",
+  "model": "glm-5.3"
+}

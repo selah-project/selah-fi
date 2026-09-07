@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 11:28",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja Haran kuoli Terachin, isänsä, kasvojen edessä synnyinmaassaan, Urissa, kaskidilaisilla ⟨alueella⟩.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "kuoli"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "על",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kasvojen"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terachin"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isänsä"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "synnyin-"
+    },
+    {
+      "surface": "באור",
+      "gloss": "Urissa"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "kaskidilaisilla"
+    }
+  ],
+  "timestamp": "2026-09-06T21:08:00.780334464Z",
+  "model": "glm-5.3"
+}

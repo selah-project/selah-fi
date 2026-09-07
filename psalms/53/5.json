@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 53,
+  "translation": "Eivätkö vääryyden tekijät tiedä, ne, jotka syövät kansani, söivät leipää? Elohimia he eivät huutaneet.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "eivätkö"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tiedä"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "tekijät"
+    },
+    {
+      "surface": "און",
+      "gloss": "vääryyden"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "jotka syövät"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kansani"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "söivät"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "huutaneet"
+    }
+  ],
+  "timestamp": "2026-09-07T02:13:29.497939358Z",
+  "model": "glm-5.3"
+}

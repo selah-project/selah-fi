@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 10:6",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja hän sanoi kuninkaalle: ”Totta ⟨oli⟩ se sana, jonka kuulin omassa maassani, sanoistasi ja viisaudestasi.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-lle"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "totta"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨oli⟩"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "kuulin"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "omaan maahani"
+    },
+    {
+      "surface": "על",
+      "gloss": "-sta"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "sanoistasi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja -sta"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "viisaudestasi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:37:42.632968369Z",
+  "model": "glm-5.3"
+}

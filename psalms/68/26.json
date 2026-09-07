@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 68,
+  "translation": "Edellä laulajat, perässä soittajat, keskellä neitoja, tamburiineja lyöden.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "edellä"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "laulajat"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "perässä"
+    },
+    {
+      "surface": "נגנים",
+      "gloss": "soittajat"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keskellä"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "neitoja"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "tamburiineja lyöden"
+    }
+  ],
+  "timestamp": "2026-09-07T02:20:03.683732721Z",
+  "model": "glm-5.3"
+}

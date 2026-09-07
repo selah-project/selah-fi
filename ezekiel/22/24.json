@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 22:24",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ihmisen poika, sano sille: sinä olet maa, joka ei ⟨ ole ⟩ puhdistettu, jota ei ⟨ ole ⟩ sadekastelet vihan päivänä.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmisen"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sano"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sille"
+    },
+    {
+      "surface": "את",
+      "gloss": "sinä",
+      "marks": "maa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "מטהרה",
+      "gloss": "puhdistettu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "se on"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "גשמה",
+      "gloss": "sadekastelet"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "vihan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:02:25.522051943Z",
+  "model": "glm-5.3"
+}

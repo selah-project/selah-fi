@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "genesis 24:64",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja Rivkah nosti ⟨את⟩ silmänsä ja näki ⟨את⟩ Jitshakin, ja hän putosi alas kamelin selästä.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "Ja nosti"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivkah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "silmänsä"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "silmänsä"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "ja näki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitshakin"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshakin"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "ja hän putosi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "alas"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "kamelin selästä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:14:37.863840482Z",
+  "model": "glm-5.3"
+}

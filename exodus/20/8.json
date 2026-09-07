@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Muista ⟨את⟩ Shabbatin päivä pyhittääksesi sen.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Muista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabbatin päivä"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivä"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbatin"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "pyhittääksesi sen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:35:03.744630366Z",
+  "model": "glm-5.3"
+}

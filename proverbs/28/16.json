@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 28:16",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Johtaja, jolta ymmärrys puuttuu, ⟨on⟩ myös suuri sortaja; mutta joka vihaa epäreilua voittoa, pitkittää päivänsä.",
+  "tokens": [
+    {
+      "surface": "נגיד",
+      "gloss": "Johtaja"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "jolta puuttuu"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "ymmärrys"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "myös suuri"
+    },
+    {
+      "surface": "מעשקות",
+      "gloss": "sortaja"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "joka vihaa"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "epäreilua voittoa"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "pitkittää"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivänsä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:19:53.424553418Z",
+  "model": "glm-5.3"
+}

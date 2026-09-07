@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja Kush siitti ⟨את⟩ Nimrodin; hän alkoi olla väkevä maassa.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Ja Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrodin"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrodin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "החל",
+      "gloss": "alkoi"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "olla"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "väkevä"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:07:08.129537962Z",
+  "model": "glm-5.3"
+}

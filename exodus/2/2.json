@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja nainen tuli raskaaksi ja synnytti pojan, ja hän näki ⟨את⟩ hänet, että hän ⟨oli⟩ hyvä, ja hän piilotti hänet kolme kuukautta.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "Ja tuli raskaaksi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "nainen"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ja synnytti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "ja näki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet",
+      "marks": "hänet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "ja piilotti hänet"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "kuukautta"
+    }
+  ],
+  "timestamp": "2026-09-06T21:29:16.264199043Z",
+  "model": "glm-5.3"
+}

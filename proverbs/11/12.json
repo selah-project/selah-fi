@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Joka halveksii lähimmäistään, on ymmärrystä vailla, mutta ymmärryksen mies vaikenee.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "halveksii"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "lähimmäistään"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "on vailla"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ymmärrystä"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mutta mies"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "ymmärryksen"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "vaikenee"
+    }
+  ],
+  "timestamp": "2026-09-07T03:06:05.567913985Z",
+  "model": "glm-5.3"
+}

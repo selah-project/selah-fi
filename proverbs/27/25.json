@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 27:25",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Heinä vedetään pois, ja ruoho näkyy, ja vuorten yrtit kerätään.",
+  "tokens": [
+    {
+      "surface": "גלה",
+      "gloss": "vedetään pois"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "heinä"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "ja näkyy"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ruoho"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "ja kerätään"
+    },
+    {
+      "surface": "עשבות",
+      "gloss": "yrtit"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "vuorten"
+    }
+  ],
+  "timestamp": "2026-09-07T03:18:02.766428534Z",
+  "model": "glm-5.3"
+}

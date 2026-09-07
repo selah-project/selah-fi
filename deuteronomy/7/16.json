@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 7:16",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja sinä kulutat ⟨את⟩ kaikki ne kansat, jotka Jahve, Elohimisi, sinulle antaa; älköön silmäsi säälikö heitä, äläkä palvele ⟨את⟩ heidän jumaliaan, sillä se ⟨on⟩ sinulle ansa.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "ja sinä kulutat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki ne kansat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "kansat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimisi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "antaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "säälikö"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "silmäsi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "heitä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "äläkä"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "palvele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän jumaliaan"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "heidän jumaliaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "ansa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se ⟨on⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    }
+  ],
+  "timestamp": "2026-09-06T22:28:30.228367882Z",
+  "model": "glm-5.3"
+}

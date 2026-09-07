@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 17:10",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja myös se, joka on väkevien poika, jonka sydän on kuin leijonan sydän, sulaa ja hajoaa; sillä koko Israel tietää, että sinun isäsi on väkevä ja väkevien pojat, jotka ovat hänen kanssaan ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Ja myös se"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "väkevien"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hänen sydämensä"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "on kuin sydän"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "leijonan"
+    },
+    {
+      "surface": "המס",
+      "gloss": "sulaa"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "hajoaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tietää"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "väkevä"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "sinun isäsi"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ja pojat"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "väkevien"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ (hänen kanssaan)",
+      "marks": "hänen kanssaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:27:10.237525026Z",
+  "model": "glm-5.3"
+}

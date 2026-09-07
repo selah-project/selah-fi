@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 3:8",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja he kuulivat ⟨את⟩ Jahve Elohimin äänen, joka kulki puutarhassa päivän tuulessa; ja mies ja hänen vaimonsa piiloutuivat Jahve Elohimin kasvojen edestä puutarhan puiden keskeltä.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ja he kuulivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve Elohimin äänen"
+    },
+    {
+      "surface": "קול",
+      "gloss": "äänen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "kulki"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "puutarhassa"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "tuulessa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päivän"
+    },
+    {
+      "surface": "ויתחבא",
+      "gloss": "ja piiloutui"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mies"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ja hänen vaimonsa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kasvojen edestä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keskeltä"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "puiden"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "puutarhan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:04:48.536799955Z",
+  "model": "glm-5.3"
+}

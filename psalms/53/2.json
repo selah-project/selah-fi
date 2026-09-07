@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 53,
+  "translation": "Narri sanoi sydämessään: ”Ei ole Elohimia.” He ovat turmeltuneet ja tehneet iljettävää vääryyttä; ei ole ketään hyvää tekevää.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Narri"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "sydämessään"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Ei ole"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimia"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "ovat turmeltuneet"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "ja tehneet iljettävää"
+    },
+    {
+      "surface": "עול",
+      "gloss": "vääryyttä"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tekevää"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvää"
+    }
+  ],
+  "timestamp": "2026-09-07T02:13:01.546342708Z",
+  "model": "glm-5.3"
+}

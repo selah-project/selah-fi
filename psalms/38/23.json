@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 38,
+  "translation": "Kiiruhda avukseni, Adonai, pelastukseni.",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "kiiruhda"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "avukseni"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "pelastukseni"
+    }
+  ],
+  "timestamp": "2026-09-07T02:06:25.761621326Z",
+  "model": "glm-5.3"
+}

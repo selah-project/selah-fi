@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 2:18",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Kalev, Hetshronin poika, siitti ⟨את⟩ Azuvan vaimon ja ⟨את⟩ Jeriotin; ja nämä ⟨olivat⟩ hänen poikansa: Jesher, Shovav ja Ardon.",
+  "tokens": [
+    {
+      "surface": "וכלב",
+      "gloss": "Ja Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Hetshronin"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azuvan"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "Azuvan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "vaimon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Jeriotin"
+    },
+    {
+      "surface": "יריעות",
+      "gloss": "Jeriotin"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ja nämä"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "Jesher"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "ja Shovav"
+    },
+    {
+      "surface": "וארדון",
+      "gloss": "ja Ardon"
+    }
+  ],
+  "timestamp": "2026-09-07T05:11:52.081623078Z",
+  "model": "glm-5.3"
+}

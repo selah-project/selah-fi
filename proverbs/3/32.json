@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Sillä kieroutunut on Jahven kauhistus, ja ⟨את⟩ oikeamielisillä ⟨on⟩ hänen salaisuutensa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "kauhistus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "kieroutunut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "oikeamielisillä"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "oikeamielisillä"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "hänen salaisuutensa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:01:17.531111911Z",
+  "model": "glm-5.3"
+}

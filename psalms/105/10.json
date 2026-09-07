@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 105,
+  "translation": "ja hän vahvisti sen Ja'akoville (Jaakobille) säädöksessä, Israelille iankaikkiseksi liitoksi (Berit),",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "ja hän vahvisti sen"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Ja'akoville (Jaakobille)"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "säädöksessä"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israelille"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "liitoksi (Berit)"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iankaikkiseksi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:38:10.937816970Z",
+  "model": "glm-5.3"
+}

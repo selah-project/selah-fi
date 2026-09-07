@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "malachi 3:11",
+  "book": "malachi",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja minä nuhtelen teidän puolestanne syöjän, eikä se turmele ⟨את⟩ maan hedelmää, eikä viiniköynnöksenne kedolla kesken jää, sanoo Jahve Sebaot.",
+  "tokens": [
+    {
+      "surface": "וגערתי",
+      "gloss": "ja nuhtelen"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teidän puolestanne"
+    },
+    {
+      "surface": "באכל",
+      "gloss": "syöjää"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "ישחת",
+      "gloss": "turmele"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maan hedelmän"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "hedelmän"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "maan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "kesken jää"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teiltä"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "viiniköynnöksen"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kedolla"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaot"
+    }
+  ],
+  "timestamp": "2026-09-07T01:51:54.642498468Z",
+  "model": "glm-5.3"
+}

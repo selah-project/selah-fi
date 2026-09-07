@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 119:70",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Tunnottomaksi kuin rasva on muuttunut heidän sydämensä — minä sinun Torassasi (Toora) riemuitsen.",
+  "tokens": [
+    {
+      "surface": "טפש",
+      "gloss": "tunnottomaksi"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "kuin rasva"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "heidän sydämensä"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "sinun Torassasi"
+    },
+    {
+      "surface": "שעשעתי",
+      "gloss": "riemuitsen"
+    }
+  ],
+  "timestamp": "2026-09-07T04:33:22.752109439Z",
+  "model": "glm-5.3"
+}

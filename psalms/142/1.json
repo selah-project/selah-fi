@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 142,
+  "translation": "Maskil (opettavainen runo) Davidilta (Daavid), kun hän oli luolassa: rukous.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil (opettavainen runo)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidilta (Daavid)"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "kun hän oli"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "luolassa"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "rukous"
+    }
+  ],
+  "timestamp": "2026-09-07T02:52:57.960576052Z",
+  "model": "glm-5.3"
+}

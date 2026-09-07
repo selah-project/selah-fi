@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "siirtääkseen kuningaskunnan Shaulin talosta ja pystyttääkseen ⟨את⟩ Davidin valtaistuimen Israelin ja Yehudan ylle, Danista aina Be'er Shevaan asti.",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "siirtääkseen"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kuningaskunnan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "talosta"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulin"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "ja pystyttääkseen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidin valtaistuimen"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "valtaistuimen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "על",
+      "gloss": "ylle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudan"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Danista"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "aina asti"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Shevaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:19:05.828715790Z",
+  "model": "glm-5.3"
+}

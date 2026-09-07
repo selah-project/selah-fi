@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 111,
+  "translation": "Loisto ⟨ja⟩ kunnia ⟨on⟩ hänen työnsä, ja hänen vanhurskautensa pysyy iankaikkisesti.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Loisto"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "⟨ja⟩ kunnia"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "hänen työnsä"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ja hänen vanhurskautensa"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "pysyy"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "iankaikkisesti"
+    }
+  ],
+  "timestamp": "2026-09-07T02:43:16.423413691Z",
+  "model": "glm-5.3"
+}

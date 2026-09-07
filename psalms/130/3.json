@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 130,
+  "translation": "Jos rikkomuksia sinä pidät kirjaa, Jah, Adonai, kuka voi seisoa?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "rikkomuksia"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "sinä pidät kirjaa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "voi seisoa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:33:23.483136819Z",
+  "model": "glm-5.3"
+}

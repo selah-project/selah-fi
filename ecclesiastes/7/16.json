@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Älä ole liian vanhursas äläkä viisastele liiaksi — miksi hävittäisit ⟨itsesi⟩?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Älä"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ole"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "vanhurskas"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "liian"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "äläkää"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "viisastele"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "liiaksi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miksi"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "hävitä itsesi"
+    }
+  ],
+  "timestamp": "2026-09-07T04:38:09.710241671Z",
+  "model": "glm-5.3"
+}

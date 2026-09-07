@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Niin Ja'akov (Jaakob) nousi ja kantoi ⟨את⟩ poikansa ja ⟨את⟩ vaimonsa kameleiden päälle.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Niin nousi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akov"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ja kantoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poikansa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "poikansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "vaimonsa"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "vaimonsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "kameleiden"
+    }
+  ],
+  "timestamp": "2026-09-06T21:18:11.875944708Z",
+  "model": "glm-5.3"
+}

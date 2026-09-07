@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 149:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 149,
+  "translation": "Tehdä heille kirjoitettu tuomio — se ⟨on⟩ kunnia kaikille hänen hasideilleen. Kiittäkää Jah!",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "Tehdä"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "tuomio"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "kirjoitettu"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "kunnia"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kaikille"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "hänen hasideilleen"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Kiittäkää"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-07T06:56:32.100107668Z",
+  "model": "glm-5.3"
+}

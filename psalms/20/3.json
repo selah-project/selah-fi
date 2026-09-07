@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Lähettäköön apusi pyhästä paikasta, ja Tsijonista (Siionista) kannattakoon hän sinua.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Lähettäköön"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "apisi"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "pyhästä paikasta"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "ja Tsijonista (Siionista)"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "kannattakoon sinua"
+    }
+  ],
+  "timestamp": "2026-09-07T01:58:21.922437445Z",
+  "model": "glm-5.3"
+}

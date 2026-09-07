@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 21:13",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Joka tukkii korvansa köyhän huudolta, hänkin huutaa eikä saa vastausta.",
+  "tokens": [
+    {
+      "surface": "אטם",
+      "gloss": "tukkii"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "korvansa"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "huudolta"
+    },
+    {
+      "surface": "דל",
+      "gloss": "köyhän"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "huutaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "saa vastausta"
+    }
+  ],
+  "timestamp": "2026-09-07T03:11:56.805312858Z",
+  "model": "glm-5.3"
+}

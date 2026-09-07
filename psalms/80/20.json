@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 80,
+  "translation": "Jahve, Elohim Sebaot, käännä meidät takaisin; valista kasvosi, ja pelastumme.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "käännä meidät takaisin"
+    },
+    {
+      "surface": "האר",
+      "gloss": "valista"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "kasvosi"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "ja pelastumme"
+    }
+  ],
+  "timestamp": "2026-09-07T02:26:03.312994508Z",
+  "model": "glm-5.3"
+}

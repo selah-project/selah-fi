@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Jahven ruach puhui minun kauttani, ja hänen sanansa ⟨on⟩ kielelläni.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "puhui"
+    },
+    {
+      "surface": "בי",
+      "gloss": "minun kauttani"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "ja hänen sanansa"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "kielelläni"
+    }
+  ],
+  "timestamp": "2026-09-06T23:31:28.838780707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 24:11",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja israelilaisen naisen poika läpäisi ⟨את⟩ Nimen ja kirosi, ja he toivat hänet ⟨את⟩ Moshen (Mooses) luo; ja hänen äitinsä nimi ⟨oli⟩ Shelomith, Dibrin tytär, Danin heimosta.",
+  "tokens": [
+    {
+      "surface": "ויקב",
+      "gloss": "ja läpäisi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "naisen"
+    },
+    {
+      "surface": "הישראלית",
+      "gloss": "israelilaisen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimen"
+    },
+    {
+      "surface": "השם",
+      "gloss": "Nimi"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "ja kirosi"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ja he toivat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "hänet ⟨את⟩",
+      "marks": "hänet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ja nimi"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "hänen äitinsä"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Shelomith"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tytär"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "Dibrin"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "heimosta"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Danin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:58:53.362108516Z",
+  "model": "glm-5.3"
+}

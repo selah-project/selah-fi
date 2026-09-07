@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 28:19",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Maataan viljelevä saa leipää kyllikseen, mutta tyhjyyttä jahtaava saa köyhyyttä kyllikseen.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "viljelevä"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "maataan"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "saa kyllikseen"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "mutta jahtaava"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "tyhjyyttä"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "saa kyllikseen"
+    },
+    {
+      "surface": "ריש",
+      "gloss": "köyhyyttä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:20:21.598097586Z",
+  "model": "glm-5.3"
+}

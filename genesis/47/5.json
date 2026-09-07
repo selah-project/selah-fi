@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 47,
+  "translation": "Ja Paro (farao) sanoi Josefille (Joosef) sanoen: sinun isäsi ja veljesi ovat tulleet sinun luoksesi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro (farao)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefille (Joosef)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "sinun isäsi"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "ja veljesi"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ovat tulleet"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinun luoksesi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:26:35.805504478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja tapahtui päivien loputtua, että puro kuivui, koska sadea ei ollut maassa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "loputtua"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivien"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "kuivui"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "puro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "sadea"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:41:14.690478669Z",
+  "model": "glm-5.3"
+}

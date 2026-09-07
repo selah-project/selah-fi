@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Ja Gadin lapset rakensivat ⟨את⟩ Dibonin ja ⟨את⟩ Atarotin ja ⟨את⟩ Aroerin.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "räakensivat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lapset"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dibonin"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "Dibonin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Atarotin"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atarotin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Aroerin"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroerin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:19:35.169555062Z",
+  "model": "glm-5.3"
+}

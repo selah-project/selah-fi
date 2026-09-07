@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja hänen jalkavaimonsa — hänen nimensä oli Reumah — synnytti myös hän ⟨את⟩ Tevahin ja ⟨את⟩ Gahamin ja ⟨את⟩ Tahashin ja ⟨את⟩ Maakhan.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "ja hänen jalkavaimonsa"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "hänen nimensä"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "Reumah"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tevahin"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "Tevahin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Gahamin"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "Gahamin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Tahashin"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "Tahashin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Maakhan"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakhan"
+    }
+  ],
+  "timestamp": "2026-09-07T06:33:32.847862061Z",
+  "model": "glm-5.3"
+}

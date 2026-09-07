@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 5:4",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja hän meni sisään ja ilmoitti herralleen sanoen: näin ja näin puhui se tyttö, joka on Israelin maasta.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ja hän meni sisään"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ja ilmoitti"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "herralleen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "näin"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "ja näin"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "puhui"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "se tyttö"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:49:38.899502028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 103,
+  "translation": "Ei alati hän riidoi, eikä iankaikkisuuteen hän vihaa varjele.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ei"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "alati"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "hän riidoi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iankaikkisuuteen"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "hän vihaa varjele"
+    }
+  ],
+  "timestamp": "2026-09-07T02:35:24.599347514Z",
+  "model": "glm-5.3"
+}

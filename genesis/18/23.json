@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 18:23",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja Avraham tuli lähelle ja sanoi: ”Ainako sinä hävität vanhurskaan yhdessä jumalattoman kanssa?”",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "ja tuli lähelle"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "האף",
+      "gloss": "ainako"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "hävität"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "vanhurskaan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yhdessä"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "jumalattoman kanssa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:10:04.917696336Z",
+  "model": "glm-5.3"
+}

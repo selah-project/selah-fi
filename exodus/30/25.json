@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja sinä teet siitä ⟨את⟩ pyhän voiteluöljyn, balsamisekoituksen, sekoittajan työn; pyhäksi voiteluöljyksi sen tulee olla.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ja sinä teet"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sen",
+      "marks": "pyhän voiteluöljyn"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "öljyn"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "voitelun"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhän"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "balsamisekoituksen"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "sekoituksen"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "työn"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "sekoittajan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "öljyksi"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "voitelun"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhäksi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sen tulee olla"
+    }
+  ],
+  "timestamp": "2026-09-06T21:41:18.457288892Z",
+  "model": "glm-5.3"
+}

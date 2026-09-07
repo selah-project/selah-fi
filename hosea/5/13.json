@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 5:13",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Kun Ephrajim näki ⟨את⟩ sairautensa ja Jehuda ⟨את⟩ haavansa, meni Ephrajim Ashshurin luo ja lähetti kuningas Jarebin (riitakuningas) luo; mutta hän ei voi parantaa teitä eikä poistaa teistä haavaa.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "näki"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ephrajim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sairautensa"
+    },
+    {
+      "surface": "חליו",
+      "gloss": "sairautensa"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ja Jehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haavansa"
+    },
+    {
+      "surface": "מזרו",
+      "gloss": "haavansa"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "meni"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ephrajim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshurin"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ja lähetti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Jarebin"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mutta hän"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "voi"
+    },
+    {
+      "surface": "לרפא",
+      "gloss": "parantaa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teitä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יגהה",
+      "gloss": "poistaa"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "teistä"
+    },
+    {
+      "surface": "מזור",
+      "gloss": "haavaa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:20:06.349404218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Viisas mies ⟨on⟩ voimassa, ja tiedon mies vahvistaa voimaa.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "mies"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "viisas"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "voimassa"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ja"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tiedon"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "vahvistaa"
+    },
+    {
+      "surface": "כח",
+      "gloss": "voimaa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:15:31.940308078Z",
+  "model": "glm-5.3"
+}

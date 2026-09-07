@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 32:4",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Ja paljon kansaa kerääntyi, ja he tukitsivat ⟨את⟩ kaikki lähteet ja ⟨את⟩ puroa, joka virtasi maan keskellä, sanoen: miksi Ashurin kuninkaat tulisivat ja löytäisivät runsaasti vettä?",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "ja kerääntyi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansaa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "paljon"
+    },
+    {
+      "surface": "ויסתמו",
+      "gloss": "ja he tukitsivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki lähteet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "המעינות",
+      "gloss": "lähteet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "puro"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "puro"
+    },
+    {
+      "surface": "השוטף",
+      "gloss": "joka virtasi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keskellä"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miksi"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "tulisivat"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kuninkaat"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashurin"
+    },
+    {
+      "surface": "ומצאו",
+      "gloss": "ja löytäisivät"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vettä"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "runsaasti"
+    }
+  ],
+  "timestamp": "2026-09-07T05:51:44.886727714Z",
+  "model": "glm-5.3"
+}

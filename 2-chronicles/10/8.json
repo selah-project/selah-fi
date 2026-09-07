@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 10:8",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja hän hylkäsi ⟨את⟩ vanhinten neuvon, jonka he olivat hänelle antaneet, ja neuvotteli ⟨את⟩ nuorten kanssa, jotka olivat kasvaneet ⟨את⟩ hänen kanssaan, niiden, jotka seisoivat hänen edessään.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "Ja hän hylkäsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vanhinten neuvon"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "neuvon"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "vanhinten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "he olivat hänelle antaneet"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "ja neuvotteli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nuorten"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "nuorten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "olivat kasvaneet"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänen kanssaan"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "niiden, jotka seisoivat"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "hänen edessään"
+    }
+  ],
+  "timestamp": "2026-09-07T05:36:20.202301747Z",
+  "model": "glm-5.3"
+}

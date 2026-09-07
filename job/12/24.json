@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 12:24",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Hän ottaa sydämen pois maan kansan päämiehiltä ja antaa heidän harhailla autiomaassa, jossa ei ole tietä.",
+  "tokens": [
+    {
+      "surface": "מסיר",
+      "gloss": "Hän ottaa pois"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sydämen"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "päämiesten"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "ויתעם",
+      "gloss": "ja antaa heidän harhailla"
+    },
+    {
+      "surface": "בתהו",
+      "gloss": "autiomaassa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tietä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:30:17.306953798Z",
+  "model": "glm-5.3"
+}

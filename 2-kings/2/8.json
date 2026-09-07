@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 2:8",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Eliyahu otti ⟨את⟩ viittansa ja kokosi sen ja löi ⟨את⟩ vettä, ja se jakautui tänne ja tänne, ja he menivät molemmat yli kuivaa maata.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "otti"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viittansa"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "viittansa"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "kokosi sen"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "löi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vettä"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vettä"
+    },
+    {
+      "surface": "ויחצו",
+      "gloss": "ja se jakautui"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tänne"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja tänne"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "ja he menivät yli"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "molemmat"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "kuivaa maata"
+    }
+  ],
+  "timestamp": "2026-09-06T23:47:22.254243659Z",
+  "model": "glm-5.3"
+}

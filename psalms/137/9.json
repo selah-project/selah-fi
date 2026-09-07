@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 137,
+  "translation": "Autuas hän, joka ottaa ⟨את⟩ imeväisesi ja murskaa ⟨ne⟩ kallioon.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Autuas"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "joka ottaa"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "ja murskaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imeväisesi"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "imeväisesi"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "kallioon"
+    }
+  ],
+  "timestamp": "2026-09-07T02:52:00.276608321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Nämä ovat nimet Aharonin pojista, voidellut kohenit ⟨kohenit⟩, joiden kädet hän täytti pappeuteen.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Nämä"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ovat nimet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojista"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonin"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohenit"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "voidellut"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joiden"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "hän täytti"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "kädet"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "pappeuteen"
+    }
+  ],
+  "timestamp": "2026-09-06T22:03:40.468542437Z",
+  "model": "glm-5.3"
+}

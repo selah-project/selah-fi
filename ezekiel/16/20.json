@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 16:20",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja sinä otit ⟨את⟩ poikasi ja ⟨את⟩ tyttäresi, jotka sinä synnyit minulle, ja teurasit heidät niille ruoaksi. Oliko ⟨se⟩ vähäistä, sinun haureutesi?",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "ja sinä otit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poikasi"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "poikasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "tyttäresi"
+    },
+    {
+      "surface": "בנותיך",
+      "gloss": "tyttäresi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "sinä synnyit"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "ותזבחים",
+      "gloss": "ja teurasit heidät"
+    },
+    {
+      "surface": "להם",
+      "gloss": "niille"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "ruoaksi"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "oliko vähäistä"
+    },
+    {
+      "surface": "מתזנתך",
+      "gloss": "sinun haureutesi"
+    }
+  ],
+  "timestamp": "2026-09-07T00:58:05.656594460Z",
+  "model": "glm-5.3"
+}

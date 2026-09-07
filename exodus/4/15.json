@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 4:15",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja sinä puhut hänelle ja asetat ⟨את⟩ sanat hänen suuhunsa, ja minä olen sinun suusi kanssa ja hänen suunsa kanssa, ja minä opetan ⟨את⟩ teidät ⟨את⟩ siitä, mitä teette.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "ja sinä puhut"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "ja asetat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanat"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "hänen suuhunsa"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ja minä"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "olen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "sinun suusi"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ja kanssa"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "hänen suunsa"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "ja minä opetan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sitä, mitä teette"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sitä, mitä"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "teette"
+    }
+  ],
+  "timestamp": "2026-09-06T21:30:02.387721401Z",
+  "model": "glm-5.3"
+}

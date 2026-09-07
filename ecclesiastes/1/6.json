@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Menee etelään ja kiertää pohjoiseen, kiertää ja kiertää menee tuuli, ja kiertojensa ympäri palaa tuuli.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "Menee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "etelää"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "ja kiertää"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "pohjoista"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "kiertää"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "kiertää"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "menee"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "tuuli"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja ympäri"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "kiertojaan"
+    },
+    {
+      "surface": "שב",
+      "gloss": "palaa"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "tuuli"
+    }
+  ],
+  "timestamp": "2026-09-07T04:06:57.413764630Z",
+  "model": "glm-5.3"
+}

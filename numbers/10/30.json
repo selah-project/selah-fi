@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Mutta hän sanoi hänelle: En minä mene, vaan omaan maahani ja syntymämaahani minä menen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mutta hän sanoi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "En"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "minä mene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vaan (kielteinen ehto)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "omaan maahani"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja syntymäseutuuni"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "syntymämaahani"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "minä menen"
+    }
+  ],
+  "timestamp": "2026-09-06T22:07:26.552281343Z",
+  "model": "glm-5.3"
+}

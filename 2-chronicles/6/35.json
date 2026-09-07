@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "niin sinä kuulet taivaista ⟨את⟩ heidän rukouksensa ja ⟨את⟩ heidän anomisensa ja teet heidän oikeutensa.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "ja kuulet"
+    },
+    {
+      "surface": "מן",
+      "gloss": "–sta"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän rukouksensa"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "heidän rukouksensa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "heidän anomisensa"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "heidän anomisensa"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ja teet"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "heidän oikeutensa"
+    }
+  ],
+  "timestamp": "2026-09-07T05:33:49.160764359Z",
+  "model": "glm-5.3"
+}

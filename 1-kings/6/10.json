@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja hän rakensi ⟨את⟩ sivurakennuksen koko talon ympärille, korkeudeltaan viisi kyynärää, ja se kiinnittyi ⟨את⟩ taloon setripuun hirsiin.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ja hän rakensi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sivurakennuksen"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "sivurakennuksen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ympärille"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "viisi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "sen korkeus"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "ja se kiinnittyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taloon"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "taloon"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "puuhun"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "setripuun"
+    }
+  ],
+  "timestamp": "2026-09-06T23:34:36.054721558Z",
+  "model": "glm-5.3"
+}

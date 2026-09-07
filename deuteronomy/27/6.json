@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 27:6",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Kokonaisia kiviä rakennat ⟨את⟩ Jahven, Elohimisi, alttarin, ja nosta sen päälle polttouhreja Jahvelle, Elohimillesi.",
+  "tokens": [
+    {
+      "surface": "אבנים",
+      "gloss": "kiviä"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "kokonaisia"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "rakennat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven, Elohimisi, alttarin"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimisi"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "ja nosta"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sen päälle"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "polttouhreja"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimillesi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:34:24.890214697Z",
+  "model": "glm-5.3"
+}

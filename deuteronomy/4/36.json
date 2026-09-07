@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "deuteronomy 4:36",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Taivaasta hän antoi sinun kuulla ⟨את⟩ äänensä kurittaakseen sinua, ja maan päällä hän näytti sinulle ⟨את⟩ suuren tulensa, ja hänen sanansa sinä kuulit tulen keskeltä.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "(-sta)"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "Taivaasta"
+    },
+    {
+      "surface": "השמיעך",
+      "gloss": "antoi sinun kuulla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "äänensä"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "äänensä"
+    },
+    {
+      "surface": "ליסרך",
+      "gloss": "kurittaakseen sinua"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja ... päällä"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "הראך",
+      "gloss": "näytti sinulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suuren tulensa"
+    },
+    {
+      "surface": "אשו",
+      "gloss": "tulensa"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "suuren"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "ja hänen sanansa"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "kuulit"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "keskeltä"
+    },
+    {
+      "surface": "האש",
+      "gloss": "tulen"
+    }
+  ],
+  "timestamp": "2026-09-06T22:25:47.048774011Z",
+  "model": "glm-5.3"
+}

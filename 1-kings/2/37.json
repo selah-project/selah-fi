@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 2:37",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja on tapahtuva, että sinä päivänä, jona lähdet ja kuljet yli ⟨את⟩ Kidronin puron, tietäväisesti saat tietää, että kuolemaan kuolet: verisi on oleva pääsi päällä.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ja on tapahtuva"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sinä päivänä"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "lähdet"
+    },
+    {
+      "surface": "ועברת",
+      "gloss": "kuljet yli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kidronin puron"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "puron"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidronin"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tietäväisesti"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "saat tietää"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kuolemaan"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "kuolet"
+    },
+    {
+      "surface": "דמך",
+      "gloss": "veresi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "on oleva"
+    },
+    {
+      "surface": "בראשך",
+      "gloss": "pääsi päällä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:33:20.896401749Z",
+  "model": "glm-5.3"
+}

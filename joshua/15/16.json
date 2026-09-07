@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 15:16",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Ja Kalev sanoi: joka lyö ⟨את⟩ Kirjat Seferin ja valtaa sen, hänelle minä annan ⟨את⟩ Akhsan, tyttäreni, vaimoksi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "lyö"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiryat Seferin"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Seferin"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "ja valtaa sen"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "annan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akhsan"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Akhsan"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "tyttäreni"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "vaimoksi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:46:31.576333867Z",
+  "model": "glm-5.3"
+}

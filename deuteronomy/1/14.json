@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja te vastasitte ⟨את⟩ minua ja sanoitte: Hyvä on asia, jonka sinä puhuit meidän tehtäväksemme.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "Ja te vastasitte"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ minua"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "ja sanoitte"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Hyvä"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "on asia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "sinä puhuit"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "tehtäväksemme"
+    }
+  ],
+  "timestamp": "2026-09-06T22:23:30.244136312Z",
+  "model": "glm-5.3"
+}

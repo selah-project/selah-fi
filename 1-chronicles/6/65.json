@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "ja Gadin heimosta ⟨את⟩ Raamotin Gileadissa ja ⟨את⟩ sen laidanmaita ja ⟨את⟩ Mahanajimin ja ⟨את⟩ sen laidanmaita.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ja heimosta"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raamotin"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Raamotin"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "Gileadissa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen laidanmaita"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "sen laidanmaita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Mahanajimin"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Mahanajimin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen laidanmaita"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "sen laidanmaita"
+    }
+  ],
+  "timestamp": "2026-09-07T05:14:18.903584836Z",
+  "model": "glm-5.3"
+}

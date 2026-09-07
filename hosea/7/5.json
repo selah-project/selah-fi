@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Kuninkamme päivänä tulivat ruhtinaat sairaiksi viinin kuumuudesta; hän veti kätensä ⟨את⟩ pilkkaajien luo.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "kuninkamme"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "tulivat sairaiksi"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "ruhtinaat"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "kuumuudesta"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "viinin"
+    },
+    {
+      "surface": "משך",
+      "gloss": "veti"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kätensä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pilkkaajien luo"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "pilkkaajien"
+    }
+  ],
+  "timestamp": "2026-09-07T01:24:19.963561792Z",
+  "model": "glm-5.3"
+}

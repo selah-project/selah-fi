@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "ja Ahituv siitti ⟨את⟩ Tsadokin, ja Tsadok siitti ⟨את⟩ Shallumin;",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "ja Ahituv"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadokin"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadokin"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "ja Tsadok"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shallumin"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shallumin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:12:30.388581819Z",
+  "model": "glm-5.3"
+}

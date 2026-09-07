@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 37:6",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Sillä lumelle hän sanoo: ”Ole maan päällä”, ja sateelle, sadetta, ja sateille hänen voimansa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לשלג",
+      "gloss": "lumelle"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "hän sanoo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ole"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "ja sateelle"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "sadetta"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "ja sateille"
+    },
+    {
+      "surface": "מטרות",
+      "gloss": "sateille"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "hänen voimansa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:48:48.197125225Z",
+  "model": "glm-5.3"
+}

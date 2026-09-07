@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 58:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 58,
+  "translation": "Elohim, särjä heidän hampaansa suustaan; nuorten leijonien kitahampaat revi irti, Jahve.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "särjä"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "heidän hampaansa"
+    },
+    {
+      "surface": "בפימו",
+      "gloss": "suustaan"
+    },
+    {
+      "surface": "מלתעות",
+      "gloss": "kitahampaat"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "nuorten leijonien"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "revi irti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-07T02:13:57.929301936Z",
+  "model": "glm-5.3"
+}

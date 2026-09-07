@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 4:4",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja sinä, makaa vasemmalla kyljelläsi, ja pane ⟨את⟩ Israelin talon vääryys sen päälle: päivien määrän, jonka makaat sen päällä, kannat ⟨את⟩ heidän vääryytensä.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ja sinä"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "makaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "-lla"
+    },
+    {
+      "surface": "צדך",
+      "gloss": "kyljelläsi"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "vasemmalla"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "ja pane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin talon vääryys"
+    },
+    {
+      "surface": "עון",
+      "gloss": "vääryys"
+    },
+    {
+      "surface": "בית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sen päälle"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "määrä"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "päivien"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jona"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "makaat"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sen päällä"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "kannat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän vääryytensä"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "heidän vääryytensä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:53:59.681088602Z",
+  "model": "glm-5.3"
+}

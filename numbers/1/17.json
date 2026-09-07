@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja Moshe (Mooses) ja Aharon (Aaron) ottivat ⟨את⟩ nämä miehet, jotka olivat nimetyt nimillä.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ja ottivat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ja Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nämä miehet"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "olivat nimetyt"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "nimillä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:02:08.585172276Z",
+  "model": "glm-5.3"
+}

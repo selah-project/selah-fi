@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 9:12",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Katso, hän kiskoo pois — kuka kääntää hänet takaisin? Kuka sanoo hänelle: mitä teet?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "יחתף",
+      "gloss": "hän kiskoo pois"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "kääntää hänet takaisin"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "teet"
+    }
+  ],
+  "timestamp": "2026-09-07T03:26:09.341395479Z",
+  "model": "glm-5.3"
+}

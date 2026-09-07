@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 1:1",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja Jahve puhui Moshelle (Mooses) Siinain erämaassa, kokousteltassa, toisen kuun ensimmäisenä päivänä, toisena vuonna heidän lähdettyään Mitsrajimin (Egypti) maasta, sanoen:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ja puhui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshelle"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "erämaassa"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Siinain"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "teltassa"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kokous-"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ensimmäisenä päivänä"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "kuussa"
+    },
+    {
+      "surface": "השני",
+      "gloss": "toisen"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "vuonna"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "toisena"
+    },
+    {
+      "surface": "לצאתם",
+      "gloss": "heidän lähdettyään"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    }
+  ],
+  "timestamp": "2026-09-06T22:02:25.069797226Z",
+  "model": "glm-5.3"
+}

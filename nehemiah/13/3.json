@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja kun he kuulivat ⟨את⟩ Toran (Tooran), he erottivat Israelista kaiken sekalaisen väen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "kun he kuulivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Toran"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Toran"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "he erottivat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "sekalaisen väen"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Israelista"
+    }
+  ],
+  "timestamp": "2026-09-07T05:10:18.503400376Z",
+  "model": "glm-5.3"
+}

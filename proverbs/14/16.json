@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Viisas pelkää ja väistyy pahasta, mutta hullu riehuu ylitsensä ja luottaa.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "Viisas"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "pelkää"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "ja väistyy"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "pahasta"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "mutta hullu"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "riehuu ylitsensä"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "ja luottaa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:08:22.177293239Z",
+  "model": "glm-5.3"
+}

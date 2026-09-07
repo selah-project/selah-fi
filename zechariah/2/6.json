@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja minä sanoin: Minne sinä kuljet? Ja hän sanoi minulle: Mittaamaan ⟨את⟩ Jerushalajimia (Jerusalem), näkemään, kuinka leveä se on ja kuinka pitkä se on.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ja minä sanoin"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "minne"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "kuljet"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "למד",
+      "gloss": "Mittaamaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerushalajimia"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimia"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "näkemään"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "kuinka"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "leveä se on"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "ja kuinka"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "pitkä se on"
+    }
+  ],
+  "timestamp": "2026-09-07T01:45:20.865189541Z",
+  "model": "glm-5.3"
+}

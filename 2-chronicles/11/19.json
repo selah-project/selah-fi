@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja hän synnytti hänelle poikia: ⟨את⟩ Jeushin, ⟨את⟩ Shemarjan ja ⟨את⟩ Zahamin.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Ja hän synnytti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "poikia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeushin"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "Jeushin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Shemarjan"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Shemarjan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Zahamin"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "Zahamin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:36:02.292627692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja Yehuda meni kanaanilaista vastaan, joka asui Hevronissa (Hebron) — ja Hevronin nimi oli aikaisemmin Kirjat-Arba — ja he löivät ⟨את⟩ Sheshain ja ⟨את⟩ Ahimanin ja ⟨את⟩ Talmain.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ja meni"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vastaan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaanilaista"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "joka asui"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Hevronissa"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ja nimi"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevronin"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "aikaisemmin"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ja he löivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheshain"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Sheshain"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Ahimanin"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Ahimanin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Talmain"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmain"
+    }
+  ],
+  "timestamp": "2026-09-06T22:49:50.753475436Z",
+  "model": "glm-5.3"
+}

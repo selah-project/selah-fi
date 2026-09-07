@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 25:22",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja te kylvätte ⟨את⟩ kahdeksannen vuoden, ja te syötte vanhasta sadosta yhdeksanteen vuoteen asti; kunnes sen sato tulee, syötte te vanhasta.",
+  "tokens": [
+    {
+      "surface": "וזרעתם",
+      "gloss": "Ja te kylvätte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kahdeksannen vuoden"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "vuoden"
+    },
+    {
+      "surface": "השמינת",
+      "gloss": "kahdeksannen"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "ja te syötte"
+    },
+    {
+      "surface": "מן",
+      "gloss": "vanhasta"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "sadosta"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "vanhasta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "vuoteen"
+    },
+    {
+      "surface": "התשיעת",
+      "gloss": "yhdeksanteen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "tulee"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "sen sato"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "syötte te"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "vanhasta"
+    }
+  ],
+  "timestamp": "2026-09-06T21:58:45.091391790Z",
+  "model": "glm-5.3"
+}

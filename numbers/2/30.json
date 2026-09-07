@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja hänen joukkonsa ja heidän lasketuinsa ⟨on⟩ kolme ja viisikymmentä tuhatta ja neljäsataa.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "Ja hänen joukkonsa"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ja heidän lasketuinsa"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ja viisikymmentä"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhatta"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ja neljä"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sataa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:02:53.178455315Z",
+  "model": "glm-5.3"
+}

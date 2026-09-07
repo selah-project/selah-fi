@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 14:17",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja Shaul (Saul) sanoi kansalle, joka ⟨את⟩ hänen kanssaan: ”Katsokaa nyt ja näkää, kuka on lähtenyt meidän keskeltämme.” Ja he katselivat, ja katso: ei Yonatania (Jonathan) eikä hänen varusteidensa kantajaa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kansalle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänen kanssaan",
+      "marks": "hänen kanssaan"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "katsokaa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ja näkää"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "on lähtenyt"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "meidän keskeltämme"
+    },
+    {
+      "surface": "ויפקדו",
+      "gloss": "ja he katselivat"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatania"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "eikä kantajaa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "hänen varusteidensa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:20:18.904894850Z",
+  "model": "glm-5.3"
+}

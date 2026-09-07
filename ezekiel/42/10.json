@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Pihan muurin leveydessä, tietä itään, erotuspaikan edessä ja rakennuksen edessä, ⟨on⟩ huoneita.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "leveydessä"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "muurin"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "pihan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tietä"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "itään"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vastaan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "erotuspaikan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja vastaan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "rakennuksen"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "huoneita"
+    }
+  ],
+  "timestamp": "2026-09-07T01:14:38.039671784Z",
+  "model": "glm-5.3"
+}

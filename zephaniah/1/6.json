@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "ja ⟨את⟩ ne, jotka kääntyvät pois Jahven jäljestä, ja ne, jotka eivät etsi ⟨את⟩ Jahvea eivätkä kysele häntä",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "ne, jotka kääntyvät pois"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "ne, jotka kääntyvät pois"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "jäljestä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ja ne, jotka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "etsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "kysele häntä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:42:17.112645984Z",
+  "model": "glm-5.3"
+}

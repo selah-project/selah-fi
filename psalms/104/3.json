@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 104,
+  "translation": "⟨Hän⟩ joka rakentaa ylähuoneittensa salvat vesiin, tekee pilvet vaunuikseen, ⟨hän⟩ joka kulkee tuulen siivillä.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "rakentaa salvat"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vesiin"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "ylähuoneittensa"
+    },
+    {
+      "surface": "השם",
+      "gloss": "tekee"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "pilvet"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "vaunuikseen"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "kulkee"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä \/ --"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "siivillä"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "tuulen"
+    }
+  ],
+  "timestamp": "2026-09-07T02:37:07.874502467Z",
+  "model": "glm-5.3"
+}

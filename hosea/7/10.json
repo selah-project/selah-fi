@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja Israelin ylpeys vastaa hänen kasvojensa edessä, eivätkä he palanneet Jahve Elohiminsa luo eivätkä etsineet häntä, vaikka kaikki tämä.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "ja vastaa"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ylpeys"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "hänen kasvojensa edessä"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "palanneet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohiminsa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "etsineet häntä"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "vaikka kaikki"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tämä"
+    }
+  ],
+  "timestamp": "2026-09-07T01:23:42.247911370Z",
+  "model": "glm-5.3"
+}

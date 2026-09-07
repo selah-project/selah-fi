@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja sinä rakastat ⟨את⟩ Jahvea, Elohimiasi, kaikesta sydämestäsi ja kaikesta nefeshistäsi (sielustasi) ja kaikesta voimastasi.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "Ja sinä rakastat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimiasi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaikesta"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "sydämestäsi"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ja kaikesta"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nefeshistäsi"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ja kaikesta"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "voimastasi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:24:13.359048214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 4:4",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja Devora, nainen, profeetta, Lappidotin vaimo, hän tuomitsi ⟨את⟩ Israelia siihen aikaan.",
+  "tokens": [
+    {
+      "surface": "ודבורה",
+      "gloss": "Ja Devora"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "nainen"
+    },
+    {
+      "surface": "נביאה",
+      "gloss": "profeetta"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vaimo"
+    },
+    {
+      "surface": "לפידות",
+      "gloss": "Lappidotin"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "tuomitsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelia"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "aikaan"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "siihen"
+    }
+  ],
+  "timestamp": "2026-09-06T22:54:17.469638884Z",
+  "model": "glm-5.3"
+}

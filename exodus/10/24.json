@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja Paro kutsui Moshe ja sanoi: Menkää, palvelkaa ⟨את⟩ Jahvea; vain lampaanne ja karjanne jääköön; myös lapsenne menköön kanssanne.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ja kutsui"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Menkää"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "palvelkaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "רק",
+      "gloss": "vain"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "lampaanne"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "ja karjanne"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "jääköön"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "lapsenne"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "menköön"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "kanssanne"
+    }
+  ],
+  "timestamp": "2026-09-06T21:32:17.684918802Z",
+  "model": "glm-5.3"
+}

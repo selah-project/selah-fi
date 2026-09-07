@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 50,
+  "translation": "Minä tunnen kaikki vuorten linnut, ja kedon eläimet ⟨ovat⟩ minun kanssani.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Minä tunnen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "linnut"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "vuorten"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "ja kedon eläimet"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "kedon"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "minun kanssani"
+    }
+  ],
+  "timestamp": "2026-09-07T02:09:35.603477634Z",
+  "model": "glm-5.3"
+}

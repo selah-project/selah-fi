@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Ja aurinko nousi hänelle, kun hän oli kulkenut ⟨את⟩ Penuelin ohi, ja hän ontui lonkkansa varassa.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "Ja nousi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "aurinko"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kun"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "hän oli kulkenut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuelin"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuelin"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ja hän"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "ontui"
+    },
+    {
+      "surface": "על",
+      "gloss": "varassa"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "lonkkansa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:18:55.764575021Z",
+  "model": "glm-5.3"
+}

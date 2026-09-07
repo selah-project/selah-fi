@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja Jahve kuuli Israelin äänen ja antoi ⟨את⟩ kanaanilaisen, ja Israel vihki ⟨את⟩ heidät ja ⟨את⟩ heidän kaupunkinsa tuhon omiksi, ja hän kutsui sen paikan nimeksi Horma (Horma, ' vihitty').",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Ja kuuli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "äänen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ja antoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanaanilaisen"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaanilaisen"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "ja vihki"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ heidät",
+      "marks": "heidät"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "heidän kaupunkinsa"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "heidän kaupunkinsa"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ja hän kutsui"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimeksi"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "paikan"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Horma"
+    }
+  ],
+  "timestamp": "2026-09-06T22:13:52.002812004Z",
+  "model": "glm-5.3"
+}

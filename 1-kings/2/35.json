@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 2:35",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja kuningas asetti ⟨את⟩ Benajahun, Jehojadan pojan, hänen sijaansa sotajoukon päälle, ja ⟨את⟩ Tsadokin kohenin asetti kuningas Evjatarin sijaan.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ja asetti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Benajahun"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benajahun"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojan"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojadan"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "hänen sijaansa"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "sotajoukon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Tsadokin"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadokin"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenin"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "asetti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sijaan"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evjatarin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:32:48.981721632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja mies antoi vaimolleen nimen Hava (Eeva), sillä hän oli kaiken elävän äiti.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ja ... antoi nimen"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mies"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimen"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vaimolleen"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Hava (Eeva)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "äiti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "חי",
+      "gloss": "elävän"
+    }
+  ],
+  "timestamp": "2026-09-06T21:05:35.170690042Z",
+  "model": "glm-5.3"
+}

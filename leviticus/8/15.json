@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 8:15",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja hän teurasti sen, ja Moshe otti ⟨את⟩ veren ja pani sormellaan alttarin sarvien ympärille ja puhdisti ⟨את⟩ alttarin, ja ⟨את⟩ veren hän kaatoi alttarin juurelle ja pyhitti sen tekemään sille sovituksen.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "teurasti"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "otti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veren"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "veren"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "pani"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "sarvien"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympärille"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "sormellaan"
+    },
+    {
+      "surface": "ויחטא",
+      "gloss": "puhdisti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alttarin"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "veren"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "veren"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "kaatoi"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "juurelle"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "ויקדשהו",
+      "gloss": "ja pyhitti sen"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "tekemään sovituksen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sille"
+    }
+  ],
+  "timestamp": "2026-09-06T21:51:41.264472877Z",
+  "model": "glm-5.3"
+}

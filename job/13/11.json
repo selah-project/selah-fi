@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Eikö hänen korkeutensa ⟨את⟩ teitä pelota, eikö hänen pelkonsa lankea teidän päällenne?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Eikö"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "hänen korkeutensa"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "pelota"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teitä",
+      "marks": "teitä"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "ja hänen pelkonsa"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "lankea"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "teidän päällenne"
+    }
+  ],
+  "timestamp": "2026-09-07T03:28:53.688879900Z",
+  "model": "glm-5.3"
+}

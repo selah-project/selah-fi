@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 30:9",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ette saa tuoda sen päälle vierasta suitsutusta ettekä polttouhria ettekä ruokouhria, ette saa kaataa sen päälle juomauhria.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ette"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "saa tuoda"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sen päälle"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "suitsutusta"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "vierasta"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "eikä polttouhria"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "eikä ruokouhria"
+    },
+    {
+      "surface": "ונסך",
+      "gloss": "eikä juomauhria"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ette"
+    },
+    {
+      "surface": "תסכו",
+      "gloss": "saa kaataa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sen päälle"
+    }
+  ],
+  "timestamp": "2026-09-06T21:40:56.203608443Z",
+  "model": "glm-5.3"
+}

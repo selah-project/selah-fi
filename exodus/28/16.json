@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Neliskanttinen se olkoon, kaksinkertainen; vaaksan olkoon sen pituus ja vaaksan sen leveys.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "Neliskanttinen"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olkoon"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "kaksinkertainen"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "vaaksan"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "pituus"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "ja vaaksan"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "leveys"
+    }
+  ],
+  "timestamp": "2026-09-06T21:40:23.999374589Z",
+  "model": "glm-5.3"
+}

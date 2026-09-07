@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 33:3",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Sydämeni oikeassa ovat sanani, ja huulteni tieto selvästi puhuu.",
+  "tokens": [
+    {
+      "surface": "ישר",
+      "gloss": "oikeus"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sydämeni"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "sanani"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ja tieto"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "huulteni"
+    },
+    {
+      "surface": "ברור",
+      "gloss": "selvästi"
+    },
+    {
+      "surface": "מללו",
+      "gloss": "puhuu"
+    }
+  ],
+  "timestamp": "2026-09-07T03:44:47.547284016Z",
+  "model": "glm-5.3"
+}

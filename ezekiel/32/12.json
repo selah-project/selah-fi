@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 32:12",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Väkevien miekoilla minä kaadan sinun joukkosi, kaikkien kansojen raakoja, ja he hävittävät ⟨את⟩ Mitsrajimin (Egypti) ylpeyden, ja koko sen joukko hävitetään.",
+  "tokens": [
+    {
+      "surface": "בחרבות",
+      "gloss": "miekoilla"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "väkevien"
+    },
+    {
+      "surface": "אפיל",
+      "gloss": "minä kaadan"
+    },
+    {
+      "surface": "המונך",
+      "gloss": "sinun joukkosi"
+    },
+    {
+      "surface": "עריצי",
+      "gloss": "raakoja"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kansojen"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "kaikkien"
+    },
+    {
+      "surface": "ושדדו",
+      "gloss": "ja he hävittävät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajimin ylpeyden"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ylpeyden"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin (Egypti)"
+    },
+    {
+      "surface": "ונשמד",
+      "gloss": "ja hävitetään"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "המונה",
+      "gloss": "sen joukko"
+    }
+  ],
+  "timestamp": "2026-09-07T01:08:30.771672337Z",
+  "model": "glm-5.3"
+}

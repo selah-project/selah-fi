@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Sillä Jahven nimeä minä huudan; antakaa suuruuden Elohimillemme.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimeä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "minä huudan"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "antakaa"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "suuruuden"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Elohimillemme"
+    }
+  ],
+  "timestamp": "2026-09-07T05:59:12.449349173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 16:14",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Hän murskaa minut — murtuman päällä murtuma; hän ryntää minun päälleni kuin voimamies.",
+  "tokens": [
+    {
+      "surface": "יפרצני",
+      "gloss": "hän murskaa minut"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "murtuman"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pinnalla"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "murtuma"
+    },
+    {
+      "surface": "ירץ",
+      "gloss": "hän ryntää"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "minun pälleni"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "kuin voimamies"
+    }
+  ],
+  "timestamp": "2026-09-07T03:32:38.944092931Z",
+  "model": "glm-5.3"
+}

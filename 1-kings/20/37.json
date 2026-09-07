@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 20:37",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja hän löysi toisen miehen ja sanoi: Lyö minua, pyydän. Ja mies löi häntä, lyömällä ja haavoittaen.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "ja hän löysi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "toisen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "הכיני",
+      "gloss": "lyö minua"
+    },
+    {
+      "surface": "נא",
+      "gloss": "pyydän"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "ja löi häntä"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "lyömällä"
+    },
+    {
+      "surface": "ופצע",
+      "gloss": "ja haavoittaen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:44:59.512153387Z",
+  "model": "glm-5.3"
+}

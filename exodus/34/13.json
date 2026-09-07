@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "sillä ⟨את⟩ heidän alttarinsa te revitte alas, ja ⟨את⟩ pystykivensä te murskaatte, ja ⟨את⟩ heidän asheransa te kaadatte.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän alttarinsa"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "heidän alttarinsa"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "te revitte alas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "pystykivensä"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "pystykivensä"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "te murskaatte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "heidän asheransa"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "heidän asheransa"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "te kaadatte"
+    }
+  ],
+  "timestamp": "2026-09-06T21:43:45.686132634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 119,
+  "translation": "Sinun sanasi kokonaisuus ⟨on⟩ totuus, ja iankaikkisesti ⟨pysyvät⟩ kaikki sinun vanhurskautesi tuomiot.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "kokonaisuus"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "sinun sanasi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "totuus"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "ja iankaikkisesti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "tuomiot"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "sinun vanhurskautesi"
+    }
+  ],
+  "timestamp": "2026-09-07T04:34:08.235195074Z",
+  "model": "glm-5.3"
+}

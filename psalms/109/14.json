@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 109,
+  "translation": "Muistettakoon hänen isiensä pahuus Jahven edessä, älköön pyyhkiytyköön hänen äitinsä synti.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "Muistettakoon"
+    },
+    {
+      "surface": "עון",
+      "gloss": "pahuus"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "hänen isiensä"
+    },
+    {
+      "surface": "אל",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "ja synti"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "hänen äitinsä"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älköön"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "pyyhkiytyköön"
+    }
+  ],
+  "timestamp": "2026-09-07T02:41:56.585545949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja kohenin sydän ilahtui, ja hän otti ⟨את⟩ efodin ja ⟨את⟩ terafimit ja ⟨את⟩ veistetyn kuvan ja tuli kansan keskelle.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "ilahtui"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sydän"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenin"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "otti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efodin"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efodin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "terafimit"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafimit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "veistetyn kuvan"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "veistetyn kuvan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "keskelle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:02:47.189262346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Lisääntykööt heidän kipunsa — toisen jälkeen he kiiruhtavat; en minä kaada heidän juomauhriansa verestä, enkä nosta ⟨את⟩ heidän nimiään huulilleni.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "Lisääntykööt"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "heidan kipunsa"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "toisen (jälkeen)"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "he kiiruhtavat"
+    },
+    {
+      "surface": "בל",
+      "gloss": "en"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "minä kaada"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "heidän juomauhriansa"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "verestä"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "enkä"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "nosta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän nimiään"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "heidän nimiään"
+    },
+    {
+      "surface": "על",
+      "gloss": "–"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "huulilleni"
+    }
+  ],
+  "timestamp": "2026-09-07T01:55:54.321765671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Ja Josefin veljistä meni kymmenen alas ostamaan viljaa Mitsrajimista.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "meni alas"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "veljet"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefin"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kymmenen"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ostamaan"
+    },
+    {
+      "surface": "בר",
+      "gloss": "viljaa"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrajimista"
+    }
+  ],
+  "timestamp": "2026-09-06T21:25:01.400541866Z",
+  "model": "glm-5.3"
+}

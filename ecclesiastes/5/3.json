@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Kun lupaat lupauksen Elohimille, älä viivytä sen maksamista, sillä ei ole mielisuosiota houkuissa; ⟨את⟩ minkä lupaat, maksa.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Kun"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "lupaat"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "lupauksen"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimille"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "viivytä"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "sen maksamista"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "mielisuosiota"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "houkuissa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minkä lupaat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minkä"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "lupaat"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "maksa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:35:41.334089385Z",
+  "model": "glm-5.3"
+}

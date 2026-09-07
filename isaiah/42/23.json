@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Kuka teistä kuuntelee tätä? Kuka kiinnittää huomiota ja kuulee tulevaisuutta varten?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "teistä"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "kuuntelee"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tätä"
+    },
+    {
+      "surface": "יקשב",
+      "gloss": "kiinnittää huomiota"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ja kuulee"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "tulevaisuutta varten"
+    }
+  ],
+  "timestamp": "2026-09-07T00:14:35.025334699Z",
+  "model": "glm-5.3"
+}

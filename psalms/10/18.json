@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "tuomitakseen orvon ja sorretun, ettei maan ihminen enää pelottelevat.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "tuomitakseen"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "orvon"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "ja sorretun"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "enää"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enää"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "pelottelevat"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ihminen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "maan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:54:26.618993990Z",
+  "model": "glm-5.3"
+}

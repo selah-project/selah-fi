@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 61,
+  "translation": "Sillä sinä ⟨olet⟩ ollut minulle turvapaikka, voiman torni vihollisen edessä.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "היית",
+      "gloss": "⟨olet⟩ ollut"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "turvapaikka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "torni"
+    },
+    {
+      "surface": "עז",
+      "gloss": "voiman"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "vihollisen"
+    }
+  ],
+  "timestamp": "2026-09-07T02:16:21.614107244Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 24:18",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Ja joka lyö karjan nefeshin kuoliaaksi, korvaa sen: nefesh nefeshin tilalla.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "Ja joka lyö"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefeshin"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "karjan"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "hän korvaa sen"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tilalla"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefeshin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:58:46.748805793Z",
+  "model": "glm-5.3"
+}

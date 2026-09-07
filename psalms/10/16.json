@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Jahve ⟨on⟩ kuningas iankaikkisesti ja ainiaan; kansat ovat kadonneet hänen maastaan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ja ainiaan"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "ovat kadonneet"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kansat"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "hänen maastaan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:29:16.873054083Z",
+  "model": "glm-5.3"
+}

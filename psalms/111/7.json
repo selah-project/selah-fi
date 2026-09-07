@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 111,
+  "translation": "Kätensä teot ⟨ovat⟩ totuutta ja oikeutta; luotettavat ⟨ovat⟩ kaikki hänen käskynsä.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "teot"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "Kätensä"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "totuutta"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ja oikeutta"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "luotettavat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "hänen käskynsä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:42:47.025110060Z",
+  "model": "glm-5.3"
+}

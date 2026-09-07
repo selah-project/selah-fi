@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Jumalainen ⟨on⟩ kuninkaan huulilla; tuomiossa hänen suunsa ei petä.",
+  "tokens": [
+    {
+      "surface": "קסם",
+      "gloss": "jumalainen (ennus)"
+    },
+    {
+      "surface": "על",
+      "gloss": "…lla"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "huulilla"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "tuomiossa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ימעל",
+      "gloss": "petä"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "hänen suunsa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:36:12.919636967Z",
+  "model": "glm-5.3"
+}

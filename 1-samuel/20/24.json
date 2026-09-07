@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 20:24",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja David lymysi kedolla. Ja kun uusikuu tuli, istui kuningas aterian ääreen syömään.",
+  "tokens": [
+    {
+      "surface": "ויסתר",
+      "gloss": "Ja lymysi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David (Daavid)"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kedolla"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "kun uusikuu tuli"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "istui"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "על",
+      "gloss": "ätereen (ään)"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "aterian"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "syömään"
+    }
+  ],
+  "timestamp": "2026-09-06T23:13:08.086358526Z",
+  "model": "glm-5.3"
+}

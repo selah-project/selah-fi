@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 11:19",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja hän käski ⟨את⟩ sanansaattajaa sanoen: kun saat kerrottua kuninkaalle ⟨את⟩ kaikki sodan tapahtumat —",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Ja käski"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanansaattajaa"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "sanansaattajan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "ככלותך",
+      "gloss": "kun saat kerrottua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki sodan tapahtumat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tapahtumat"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "sodan"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kertoa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuninkaalle"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:24:41.197159095Z",
+  "model": "glm-5.3"
+}

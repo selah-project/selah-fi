@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja David sanoi: Jahve, Israelin Elohim, palvelijasi on varmasti kuullut, että Shaul tavoittelee tulla Keilaan (Keila) tuhotakseen kaupungin minun tähteni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "on varmasti"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kuullut"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "palvelijasi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "tavoittelee"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "tulla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "henkilöön\/kohteeseen"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilaan"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "tuhotakseen"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "minun tähteni"
+    }
+  ],
+  "timestamp": "2026-09-06T23:14:24.235518203Z",
+  "model": "glm-5.3"
+}

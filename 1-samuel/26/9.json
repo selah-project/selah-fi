@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 26:9",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja David sanoi Avishaille (Abisai): älä tuhoa häntä, sillä kuka on kohottanut kätensä Jahven Mashiahia (voideltua) kohti ja jäänyt syyttömäksi?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Avishaille"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תשחיתהו",
+      "gloss": "tuhoa häntä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kuka"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "on kohottanut"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kätensä"
+    },
+    {
+      "surface": "במשיח",
+      "gloss": "Mashiahia kohti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "ja jäänyt syyttömäksi"
+    }
+  ],
+  "timestamp": "2026-09-07T04:20:20.572502722Z",
+  "model": "glm-5.3"
+}

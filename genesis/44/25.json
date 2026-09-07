@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 44,
+  "translation": "Ja isämme sanoi: Kääntykää takaisin, ostakaa meille vähän ruokaa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "isämme"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "kääntykää takaisin"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ostakaa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meille"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "vähän"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ruokaa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:25:46.443601885Z",
+  "model": "glm-5.3"
+}

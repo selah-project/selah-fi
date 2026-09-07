@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 11:15",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja Jahve tuhoaa täysin ⟨את⟩ Mitsrajimin meren kielen, ja hän heiluttaa kättään virran yllä raivoisalla tuulellaan, ja hän lyö sen seitsemään uomaan ja johdattaa ihmisiä kulkemaan kenkineen.",
+  "tokens": [
+    {
+      "surface": "והחרים",
+      "gloss": "ja tuhoaa täysin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajimin meren kielen"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "kielen"
+    },
+    {
+      "surface": "ים",
+      "gloss": "meren"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "ja hän heiluttaa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kättään"
+    },
+    {
+      "surface": "על",
+      "gloss": "yli"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "virran"
+    },
+    {
+      "surface": "בעים",
+      "gloss": "raivoisalla"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "tuulellaan"
+    },
+    {
+      "surface": "והכהו",
+      "gloss": "ja hän lyö sen"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "seitsemään"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "uomaan"
+    },
+    {
+      "surface": "והדריך",
+      "gloss": "ja johdattaa kulkemaan"
+    },
+    {
+      "surface": "בנעלים",
+      "gloss": "kenkineen"
+    }
+  ],
+  "timestamp": "2026-09-07T00:04:37.855695238Z",
+  "model": "glm-5.3"
+}

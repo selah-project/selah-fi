@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 27:8",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ja jos hän on köyhä arviosi mukaan, niin hän asetettakoon kohenin eteen, ja kohen arvioi hänet ⟨את⟩; sen mukaan, minkä vanduvalle koituva käsi yltää, kohen arvioi hänet.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ja jos"
+    },
+    {
+      "surface": "מך",
+      "gloss": "köyhä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "מערכך",
+      "gloss": "arviosi mukaan"
+    },
+    {
+      "surface": "והעמידו",
+      "gloss": "asetettakoon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenin"
+    },
+    {
+      "surface": "והעריך",
+      "gloss": "ja arvioi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hänet"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "על",
+      "gloss": "sen mukaan"
+    },
+    {
+      "surface": "פי",
+      "gloss": "suun mukaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "minkä"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "yltää"
+    },
+    {
+      "surface": "יד",
+      "gloss": "käsi"
+    },
+    {
+      "surface": "הנדר",
+      "gloss": "vanduvalle koituva"
+    },
+    {
+      "surface": "יעריכנו",
+      "gloss": "arvioi hänet"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    }
+  ],
+  "timestamp": "2026-09-06T22:01:46.414083934Z",
+  "model": "glm-5.3"
+}

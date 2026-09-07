@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 55,
+  "translation": "Päivin öin he kiertävät sen muureja, ja pahuus ja vaiva ⟨on⟩ sen keskellä.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "Päivin"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "öin"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "he kiertävät"
+    },
+    {
+      "surface": "על",
+      "gloss": "pitkin"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "sen muureja"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "ja pahuus"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "ja vaiva"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "sen keskellä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:13:01.243917277Z",
+  "model": "glm-5.3"
+}

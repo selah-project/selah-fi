@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 78,
+  "translation": "Jos hän surmasi heidät, he etsivät häntä, ja he palasivat ja etsivät varhain Eliä.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "hän surmasi heidät"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "he etsivät häntä"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ja he palasivat"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "ja etsivät varhain"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eliä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:26:13.307448123Z",
+  "model": "glm-5.3"
+}

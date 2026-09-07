@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Mutta ⟨את⟩ Natania profeettaa ja Benajahua ja ⟨את⟩ sankareita ja ⟨את⟩ Shelomoa, veljeään, hän ei kutsunut.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Natania"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natania"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profeetta"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "ja Benajahua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sankareita"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "sankareita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Shelomoa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "veljeään"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kutsunut"
+    }
+  ],
+  "timestamp": "2026-09-06T23:32:14.800610728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 17:23",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja Eliyahu otti ⟨את⟩ lapsen ja toi hänet alas yläkamarista taloon ja antoi hänet äidilleen, ja Eliyahu sanoi: Katso, poikasi elää.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ja otti"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lapsen"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "lapsen"
+    },
+    {
+      "surface": "וירדהו",
+      "gloss": "ja toi hänet alas"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-sta"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "yläkamarista"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "taloon"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "ja antoi hänet"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "äidilleen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "חי",
+      "gloss": "elää"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "poikasi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:41:49.675324391Z",
+  "model": "glm-5.3"
+}

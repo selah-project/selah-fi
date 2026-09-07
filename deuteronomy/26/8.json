@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 26:8",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja Jahve vei meidät ulos Mitsrajimista väkevällä kädellä ja ojennetulla käsivarrella ja suurella pelokkuudella ja merkeillä ja ihmeillä.",
+  "tokens": [
+    {
+      "surface": "ויוצאנו",
+      "gloss": "Ja vei meidät ulos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrajimista"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kädellä"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "väkevällä"
+    },
+    {
+      "surface": "ובזרע",
+      "gloss": "ja käsivarrella"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "ojennetulla"
+    },
+    {
+      "surface": "ובמרא",
+      "gloss": "ja pelokkuudella"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "suurella"
+    },
+    {
+      "surface": "ובאתות",
+      "gloss": "ja merkeillä"
+    },
+    {
+      "surface": "ובמפתים",
+      "gloss": "ja ihmeillä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:34:18.654042281Z",
+  "model": "glm-5.3"
+}

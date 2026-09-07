@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 80,
+  "translation": "Elohim Sebaot, palaja ⟨pyydämme⟩! Katso taivaasta ja näe, ja vieraile tämän viinipuun luona.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaot"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "palaja"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨pyydämme⟩"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "taivaasta"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ja näe"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "ja vieraile"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "viinipuun"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tämän"
+    }
+  ],
+  "timestamp": "2026-09-07T02:25:05.758524877Z",
+  "model": "glm-5.3"
+}

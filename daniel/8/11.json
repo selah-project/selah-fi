@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 8:11",
+  "book": "daniel",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja se suurensi itsensä joukon ruhtinaaseen asti, ja häneltä otettiin pois jatkuva uhri, ja heitettiin alas hänen pyhäkönsä perustus.",
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "ja ... asti"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ruhtinaaseen"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "joukon"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "se suurensi"
+    },
+    {
+      "surface": "וממנו",
+      "gloss": "ja häneltä"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "otettiin pois"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "jatkuva uhri"
+    },
+    {
+      "surface": "והשלך",
+      "gloss": "ja heitettiin"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "perustus"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "hänen pyhäköstään"
+    }
+  ],
+  "timestamp": "2026-09-07T04:50:21.801971040Z",
+  "model": "glm-5.3"
+}

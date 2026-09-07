@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja ⟨את⟩ miestä älä makaa naisen maatumisella — kauhistus se on.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ja ⟨את⟩",
+      "marks": "miestä"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "miestä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "makaa"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "maatumisella"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "naisen"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "kauhistus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se on"
+    }
+  ],
+  "timestamp": "2026-09-06T21:54:31.721464186Z",
+  "model": "glm-5.3"
+}

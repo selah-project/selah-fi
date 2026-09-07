@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 30:18",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja tee allas vaskista ja sen jalusta vaskista pesemistä varten, ja aseta se ⟨את⟩ kokousteltan ja alttarin välille, ja panna siihen vettä.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ja tee"
+    },
+    {
+      "surface": "כיור",
+      "gloss": "allas"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "vaski"
+    },
+    {
+      "surface": "וכנו",
+      "gloss": "ja sen jalusta"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "vaski"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "pesemistä varten"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ja aseta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sen (altaan)"
+    },
+    {
+      "surface": "בין",
+      "gloss": "välille"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teltta"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kokous"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja … välille"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alttari"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ja panna"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "siihen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vettä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:41:24.625733314Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja Jehuda valtasi ⟨את⟩ Azzan (Gaza) ja ⟨את⟩ sen rajamaat, ja ⟨את⟩ Ashkelonin ja ⟨את⟩ sen rajamaat, ja ⟨את⟩ Ekronin ja ⟨את⟩ sen rajamaat.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "valtasi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azzan"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "rajamaat"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "sen rajamaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Ashkelonin"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashkelonin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "rajamaat"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "sen rajamaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Ekronin"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekronin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "rajamaat"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "sen rajamaat"
+    }
+  ],
+  "timestamp": "2026-09-06T22:50:53.216406627Z",
+  "model": "glm-5.3"
+}

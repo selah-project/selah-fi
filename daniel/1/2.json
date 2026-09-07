@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 1:2",
+  "book": "daniel",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja Adonai antoi hänen käteensä ⟨את⟩ Jehojakimin, Jehudan kuninkaan, ja osan Elohimin huoneen astioista; ja hän toi ne Shinarin (Sinearina) maahan, jumalansa huoneeseen; ja ⟨את⟩ astiat hän toi jumalansa aarrekammioon.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ja antoi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "hänen käteensä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehojakimin"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Jehojakimin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "ומקצת",
+      "gloss": "ja osan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "astioista"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "ja toi ne"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Shinarin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneeseen"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "jumalansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "astiat"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "astiat"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "toi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kammioon"
+    },
+    {
+      "surface": "אוצר",
+      "gloss": "aarre-"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "jumalansa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:45:56.199366799Z",
+  "model": "glm-5.3"
+}

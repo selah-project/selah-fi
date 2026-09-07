@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 30:8",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja Aharonin nostaessa ⟨את⟩ lamppuja iltahämärissä hän suitsuttaa sen: jatkuva suitsuke Jahven edessä, sukupolvienne ⟨ajaksi⟩.",
+  "tokens": [
+    {
+      "surface": "ובהעלת",
+      "gloss": "Ja nostaessa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lamput"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "lamput"
+    },
+    {
+      "surface": "בין",
+      "gloss": "Between"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "iltahämärissä"
+    },
+    {
+      "surface": "יקטירנה",
+      "gloss": "hän suitsuttaa sen"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "suitsuke"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "jatkuva"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "sukupolvienne"
+    }
+  ],
+  "timestamp": "2026-09-06T21:40:53.450722249Z",
+  "model": "glm-5.3"
+}

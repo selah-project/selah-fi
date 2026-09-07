@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja jos sinun mincha-uhrisi (ruokauhri) on paistettava pannulla, hienoa jauhoa öljyyn sekoitettuna, happamatonta se olkoon.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ja jos"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mincha-uhrisi"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "pannulla"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "(ruokauhri)"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "hienoa jauhoa"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "sekoitettuna"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "öljyyn"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "happamatonta"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "se olkoon"
+    }
+  ],
+  "timestamp": "2026-09-06T21:47:35.662174005Z",
+  "model": "glm-5.3"
+}

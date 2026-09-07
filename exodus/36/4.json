@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 36:4",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 36,
+  "translation": "Ja kaikki viisaat, jotka tekivät ⟨את⟩ kaiken pyhän työn, tulivat, jokainen mies omasta työstään, jota he tekivät.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ja tulivat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "החכמים",
+      "gloss": "viisaat"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "jotka tekivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken pyhän työn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "työn"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pyhän"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jokainen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "ממלאכתו",
+      "gloss": "omasta työstään"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jota"
+    },
+    {
+      "surface": "המה",
+      "gloss": "he"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "tekivät"
+    }
+  ],
+  "timestamp": "2026-09-06T21:45:59.465544839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 1:4",
+  "book": "nehemiah",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja tapahtui, kun kuulin ⟨את⟩ nämä sanat: istuin ja itkin ja surin päiviä, ja olin paastoamassa ja rukoilemassa taivaan Elohimin edessä.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja tapahtui"
+    },
+    {
+      "surface": "כשמעי",
+      "gloss": "kun kuulin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nämä sanat"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "istin"
+    },
+    {
+      "surface": "ואבכה",
+      "gloss": "ja itkin"
+    },
+    {
+      "surface": "ואתאבלה",
+      "gloss": "ja surin"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päiviä"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "ja olin"
+    },
+    {
+      "surface": "צם",
+      "gloss": "paastoamassa"
+    },
+    {
+      "surface": "ומתפלל",
+      "gloss": "ja rukoilemassa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    }
+  ],
+  "timestamp": "2026-09-07T05:01:31.723043256Z",
+  "model": "glm-5.3"
+}

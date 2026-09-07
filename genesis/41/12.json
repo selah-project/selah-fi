@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 41:12",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 41,
+  "translation": "Ja siellä ⟨את⟩ kanssamme oli nuori mies, heprealainen, palvelija teurastajien päämiehelle, ja kerroimme hänelle, ja hän selitti meille ⟨את⟩ unemme; kunkin unensa mukaan hän selitti.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Ja siellä"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ kanssamme"
+    },
+    {
+      "surface": "נער",
+      "gloss": "nuori mies"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "heprealainen"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "palvelija"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "päämiehelle"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "teurastajien"
+    },
+    {
+      "surface": "ונספר",
+      "gloss": "ja kerroimme"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "ויפתר",
+      "gloss": "ja hän selitti"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unemme"
+    },
+    {
+      "surface": "חלמתינו",
+      "gloss": "unemme"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kunkin"
+    },
+    {
+      "surface": "כחלמו",
+      "gloss": "unensa mukaan"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "hän selitti"
+    }
+  ],
+  "timestamp": "2026-09-06T21:23:00.265381511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 45,
+  "translation": "Minä ⟨olen⟩ Jahve, eikä ⟨ole⟩ muuta; paitsi minua ei ⟨ole⟩ jumalaa. Minä vyötin sinut, etkä sinä tuntenut minua.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä ⟨ole⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "muuta"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "paitsi minua"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ⟨ole⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jumalaa"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "vyötin sinut"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "etkä"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "tunnit minua"
+    }
+  ],
+  "timestamp": "2026-09-07T00:16:40.266358913Z",
+  "model": "glm-5.3"
+}

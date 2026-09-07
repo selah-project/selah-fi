@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 28:15",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Sillä te sanoitte: ”Me teimme ⟨את⟩ kuoleman kanssa liiton, ja Sheolin kanssa me teimme sopimuksen; paisuva vitsa, kun se ylittää, ei tule meihin, sillä me panimme valheen turvaksemme, ja valheen taakse me kätkeydyimme.”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "te sanoitte"
+    },
+    {
+      "surface": "כרתנו",
+      "gloss": "teimme"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "liiton"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuoleman"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kuoleman"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ja ... kanssa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheolin"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "me teimme"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "sopimuksen"
+    },
+    {
+      "surface": "שיט",
+      "gloss": "vitsa"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "paisuva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kun"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "se ylittää"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יבואנו",
+      "gloss": "tulee meihin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "שמנו",
+      "gloss": "me panimme"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "valheen"
+    },
+    {
+      "surface": "מחסנו",
+      "gloss": "turvaksemme"
+    },
+    {
+      "surface": "ובשקר",
+      "gloss": "ja valheen taakse"
+    },
+    {
+      "surface": "נסתרנו",
+      "gloss": "me kätkeydyimme"
+    }
+  ],
+  "timestamp": "2026-09-07T00:08:43.928166308Z",
+  "model": "glm-5.3"
+}

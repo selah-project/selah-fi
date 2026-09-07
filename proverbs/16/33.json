@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Syliin heitetään ⟨את⟩ arpa, ja Jahvelta ⟨on⟩ koko sen tuomio.",
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "syliin"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "heitetään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arpa"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "arpa"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "ja Jahvelta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "sen tuomio"
+    }
+  ],
+  "timestamp": "2026-09-07T03:08:14.629195893Z",
+  "model": "glm-5.3"
+}

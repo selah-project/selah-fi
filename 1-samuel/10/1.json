@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 10:1",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja Shemuël (Samuel) otti ⟨את⟩ öljypullon ja kaatoi hänen päänsä päälle ja suuteli häntä ja sanoi: Eikö siksi, että Jahve on voidellut sinut hänen perintönsä päälle ruhtinaaksi?",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ja otti"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öljypullon"
+    },
+    {
+      "surface": "פך",
+      "gloss": "pullon"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "öljyn"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "ja kaatoi"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hänen päänsä"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "ja suuteli häntä"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Eikö"
+    },
+    {
+      "surface": "כי",
+      "gloss": "siksi, että"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "on voidellut sinut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "hänen perintönsä"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "ruhtinaaksi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:08:50.221540942Z",
+  "model": "glm-5.3"
+}

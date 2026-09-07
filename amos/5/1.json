@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Kuulkaa ⟨את⟩ tämän sanan, jonka minä nostan teidän yllenne — valituksen, Israelin heimo.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Kuulkaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tämän sanan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sanan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nostan"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "teidän yllenne"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "valituksen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "heimo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-07T01:31:06.187661224Z",
+  "model": "glm-5.3"
+}

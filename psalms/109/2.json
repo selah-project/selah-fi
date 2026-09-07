@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 109,
+  "translation": "Sillä jumalattoman suu ja petoksen suu on avattu minua vastaan; he puhuivat ⟨את⟩ minulle valheen kielellä.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "פי",
+      "gloss": "suu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "jumalattoman"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ja suu"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "petoksen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "minua vastaan"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "on avattu"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "he puhuivat"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "minulle"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "kielellä"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "valheen"
+    }
+  ],
+  "timestamp": "2026-09-07T02:42:35.455396248Z",
+  "model": "glm-5.3"
+}

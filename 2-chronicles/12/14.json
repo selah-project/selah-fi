@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 12:14",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja hän teki sitä, mikä pahaa oli, sillä hän ei valmistanut sydäntään etsimään ⟨את⟩ Jahvea.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ja hän teki"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "pahaa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "valmistanut"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sydäntään"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "etsimään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    }
+  ],
+  "timestamp": "2026-09-07T05:36:16.950792121Z",
+  "model": "glm-5.3"
+}

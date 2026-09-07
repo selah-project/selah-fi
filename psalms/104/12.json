@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 104,
+  "translation": "Niiden luota taivaan linnut asuvat, oksien lomasta ne antavat äänensä.",
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "niiden luota"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "linnut"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivaan"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "asuvat"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "lomasta"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "oksien"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "ne antavat"
+    },
+    {
+      "surface": "קול",
+      "gloss": "äänensä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:35:21.652273970Z",
+  "model": "glm-5.3"
+}

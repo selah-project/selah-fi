@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 21:4",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja hän rakensi alttareita Jahven huoneeseen, josta Jahve oli sanonut: ”Jerushalajimiin minä asetan ⟨את⟩ nimeni.”",
+  "tokens": [
+    {
+      "surface": "ובנה",
+      "gloss": "ja hän rakensi"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "alttareita"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "huoneeseen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "josta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oli sanonut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerushalajimiin"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "minä asetan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nimeni"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "nimeni"
+    }
+  ],
+  "timestamp": "2026-09-06T23:57:53.745295413Z",
+  "model": "glm-5.3"
+}

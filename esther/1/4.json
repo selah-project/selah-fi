@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "näyttäessään ⟨את⟩ valtakuntansa kunnian rikkauden ja ⟨את⟩ suuruutensa loiston kallisarvoisuutta — päivää monta, kahdeksankymmentä ja sata päivää.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "näyttäessään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rikkauden"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "rikkauden"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kunnian"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "valtakuntansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kallisarvoisuutta"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "kallisarvoisuutta"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "loiston"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "suuruutensa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivää"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "monta"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "kahdeksankymmentä"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ja sata"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivää"
+    }
+  ],
+  "timestamp": "2026-09-07T04:42:20.881723110Z",
+  "model": "glm-5.3"
+}

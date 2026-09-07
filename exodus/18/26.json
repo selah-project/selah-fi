@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 18:26",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja he tuomitsivat ⟨את⟩ kansaa kaikkina aikoina: ⟨את⟩ vaikean asian he toivat Moshen eteen, mutta jokaisen pienemmän asian he tuomitsivat itse.",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "tuomitsivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansaa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansaa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaikkina"
+    },
+    {
+      "surface": "עת",
+      "gloss": "aikoina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaikean asian"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asian"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "vaikean"
+    },
+    {
+      "surface": "יביאון",
+      "gloss": "toivat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshen"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "jokaisen"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asian"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "pienemmän"
+    },
+    {
+      "surface": "ישפוטו",
+      "gloss": "tuomitsivat"
+    },
+    {
+      "surface": "הם",
+      "gloss": "itse"
+    }
+  ],
+  "timestamp": "2026-09-06T21:35:47.043614524Z",
+  "model": "glm-5.3"
+}

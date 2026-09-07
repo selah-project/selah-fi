@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 43,
+  "translation": "Minä, minä ⟨olen⟩ Jahve, eikä minun ulkopuolellani ⟨ole⟩ pelastajaa.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Minä"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä ... ⟨ole⟩"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "minun ulkopuolellani"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "pelastajaa"
+    }
+  ],
+  "timestamp": "2026-09-07T00:14:14.454484023Z",
+  "model": "glm-5.3"
+}

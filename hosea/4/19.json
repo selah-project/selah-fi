@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Kietoutunut on tuuli ⟨את⟩ hänen siipiensä suojaan, ja he häpeävät uhrejaan.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "Kietoutunut"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "tuuli"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "hänen siipiensä suojaan"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "hänen siipiensä suojaan"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "ja he häpeävät"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "uhrejaan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:28:48.229112698Z",
+  "model": "glm-5.3"
+}

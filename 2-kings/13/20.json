@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Ja Elisha kuoli, ja he hautasivat hänet. Ja Moabin (Moab) ryöstöretkikunnat tulivat maahan vuoden tullessa.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ja hän kuoli"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "ja he hautasivat hänet"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "ja ryöstöretkikunnat"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moavin"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "tulivat"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tullessa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuoden"
+    }
+  ],
+  "timestamp": "2026-09-06T23:54:24.759086042Z",
+  "model": "glm-5.3"
+}

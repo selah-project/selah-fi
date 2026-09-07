@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 86,
+  "translation": "Rukous Davidilta (Daavid). Kalista korvasi, Jahve, vastaa minulle, sillä köyhä ja vaivainen minä olen.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Rukous"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidilta (Daavid)"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "Kalista"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "korvasi"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "vastaa minulle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "עני",
+      "gloss": "köyhä"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ja vaivainen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä olen"
+    }
+  ],
+  "timestamp": "2026-09-07T02:30:22.955879882Z",
+  "model": "glm-5.3"
+}

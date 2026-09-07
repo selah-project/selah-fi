@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 18:27",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Sillä ⟨את⟩ kaikki nämä kauhistukset tekivät maan miehet, jotka ⟨olivat⟩ teitä ennen, ja maa tuli epäpuhtaaksi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki nämä kauhistukset"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "kauhistukset"
+    },
+    {
+      "surface": "האל",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "tekivät"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "miehet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "teitä ennen"
+    },
+    {
+      "surface": "ותטמא",
+      "gloss": "ja tuli epäpuhtaaksi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:54:54.707620961Z",
+  "model": "glm-5.3"
+}

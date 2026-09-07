@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja maa oli tuhoutunut ja tyhjä, ja pimeys oli syvyyden pinnan päällä, ja Elohimin henki liiteli vetten pinnan päällä.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Ja maa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tuhoutunut"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "ja tyhjä"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "ja pimeys"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pinnan"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "syvyyden"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ja henki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "liiteli"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pinnan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vetten"
+    }
+  ],
+  "timestamp": "2026-09-06T21:05:00.694674398Z",
+  "model": "glm-5.3"
+}

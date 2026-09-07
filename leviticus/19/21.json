@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja hän tuo ⟨את⟩ syyllisuusuhrinsa Jahvelle, ilmestysmajan ovelle: oinas syyllisuysuhriksi.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "Ja hän tuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syyllisuusuhrinsa"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "syyllisuusuhrinsa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ovelle"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "majan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kokouksen"
+    },
+    {
+      "surface": "איל",
+      "gloss": "oinas"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "syyllisuysuhriksi"
+    }
+  ],
+  "timestamp": "2026-09-07T04:13:33.221022677Z",
+  "model": "glm-5.3"
+}

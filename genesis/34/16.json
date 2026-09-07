@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "niin me annamme ⟨את⟩ tyttäremme teille, ja ⟨את⟩ tyttärenne me otamme itsellemme, ja me asumme ⟨את⟩ kanssanne ja tulemme yhdeksi kansaksi.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "niin me annamme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tyttäremme"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "tyttäremme"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "tyttärenne"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "tyttärenne"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "me otamme"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "itsellemme"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "ja me asumme"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kanssanne"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "ja tulemme"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kansaksi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yhdeksi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:20:43.468950588Z",
+  "model": "glm-5.3"
+}

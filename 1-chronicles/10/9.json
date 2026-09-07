@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 10:9",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja he riisuivat hänet ja ottivat ⟨את⟩ hänen päänsä ja ⟨את⟩ hänen varusteensa, ja he lähettivät ⟨את⟩ niitä filistealaisten maahan ympäri ilmoitettavaksi ⟨את⟩ heidän epäjumalilleen ja ⟨את⟩ kansalle.",
+  "tokens": [
+    {
+      "surface": "ויפשיטהו",
+      "gloss": "ja he riisuivat hänet"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ja ottivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen päänsä"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hänen päänsä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "hänen varusteensa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "hänen varusteensa"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ja he lähettivät"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistealaisten"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympäri"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "ilmoitettavaksi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän epäjumalilleen"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "heidän epäjumalilleen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kansalle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansalle"
+    }
+  ],
+  "timestamp": "2026-09-07T05:18:24.947695751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Katso, päivät tulevat, ja minä katkaisen ⟨את⟩ käsivartesi ja ⟨את⟩ isäsi huoneen käsivarren, niin ettei sinun huoneessasi enää ole vanhusta.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Katso"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivät"
+    },
+    {
+      "surface": "באים",
+      "gloss": "tulevat"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "ja minä katkaisen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "käsivartesi"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "käsivartesi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "käsivarsi"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "käsivarsi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "isäsi"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "olemasta"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "vanhus"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "sinun huoneessasi"
+    }
+  ],
+  "timestamp": "2026-09-06T23:04:30.417210947Z",
+  "model": "glm-5.3"
+}

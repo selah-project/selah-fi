@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Sillä hän, joka vaatii tilille verestä, muistaa ⟨את⟩ heidät; hän ei unohda nöyrien huutoa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "joka vaatii tilille"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "verestä"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "heidät"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "muistaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "unohda"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "huutoa"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "nöyrien"
+    }
+  ],
+  "timestamp": "2026-09-07T01:55:32.133623750Z",
+  "model": "glm-5.3"
+}

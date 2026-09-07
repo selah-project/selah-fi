@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 36,
+  "translation": "Ja Oholibama synnytti ⟨את⟩ Jeishin ja ⟨את⟩ Jaalamin ja ⟨את⟩ Korahin; nämä olivat Esavin pojat, jotka syntyivät hänelle Kenaanin maassa.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "Ja Oholibama"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeishin"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Jeishin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Jaalamin"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Jaalamin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Korahin"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahin"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojat"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "syntyivät"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maassa"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaanin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:20:10.642984310Z",
+  "model": "glm-5.3"
+}

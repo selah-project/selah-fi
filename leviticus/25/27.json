@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 25:27",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "niin hän laskee ⟨את⟩ myyntinsä vuodet ja palauttaa ⟨את⟩ ylijäämän sille miehelle, joka myi hänelle, ja palaa omistusmaahansa.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "niin hän laskee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "myyntinsä vuodet"
+    },
+    {
+      "surface": "שני",
+      "gloss": "vuodet"
+    },
+    {
+      "surface": "ממכרו",
+      "gloss": "myynnistään"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "ja palauttaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ylijäämän"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "ylijäämän"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "miehelle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jolle"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "myi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ja palaa"
+    },
+    {
+      "surface": "לאחזתו",
+      "gloss": "omistusmaahansa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:00:28.512931278Z",
+  "model": "glm-5.3"
+}

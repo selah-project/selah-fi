@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 37:26",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 37,
+  "translation": "Ja Jehuda (Juuda) sanoi veljilleen: Mitä hyötyä ⟨on⟩ siinä, että surmaamme ⟨את⟩ veljemme ja peitäkäämme ⟨את⟩ hänen verensä?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "veljilleen"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "veljilleen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mitä"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "hyötyä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "siinä, että"
+    },
+    {
+      "surface": "נהרג",
+      "gloss": "surmaamme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veljemme"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "veljemme"
+    },
+    {
+      "surface": "וכסינו",
+      "gloss": "ja peitäkäämme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen verensä"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "hänen verensä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:21:57.154382354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 19:17",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja tapahtuu: sen, joka pelastuu Hazaelin miekasta, Jehu tappaa, ja sen, joka pelastuu Jehun miekasta, Elisha tappaa.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ja tapahtuu"
+    },
+    {
+      "surface": "הנמלט",
+      "gloss": "sen, joka pelastuu"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "miekan"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazaelin"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "tappaa"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "והנמלט",
+      "gloss": "ja sen, joka pelastuu"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "miekan"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehun"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "tappaa"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    }
+  ],
+  "timestamp": "2026-09-06T23:44:14.932283947Z",
+  "model": "glm-5.3"
+}

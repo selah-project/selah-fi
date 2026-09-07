@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja Elohim tuli Bilamin kohdalle, ja hän sanoi hänelle: ⟨את⟩ seitsemän alttaria olen järjestänyt, ja olen nostanut härän ja oinaan alttarille.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "Ja tuli kohdalle"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "­"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilamin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seitsemän alttaria"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seitsemän"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "alttaria"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "olen järjestänyt"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "ja olen nostanut"
+    },
+    {
+      "surface": "פר",
+      "gloss": "härän"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "ja oinaan"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "alttarille"
+    }
+  ],
+  "timestamp": "2026-09-06T22:15:51.726342768Z",
+  "model": "glm-5.3"
+}

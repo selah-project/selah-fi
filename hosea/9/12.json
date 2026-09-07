@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Vaikka he kasvattavat ⟨את⟩ lapsensa, minä teen heidät lapsettomiksi, ihmisten joukosta; sillä myös voi heitä, kun minä poistun heidän luotaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Vaikka"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "he kasvattavat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lapsensa"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "lapsensa"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "ja minä teen lapsettomiksi"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "ihmisten joukosta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "voi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heitä"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "kun minä poistun"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "heidän luotaan"
+    }
+  ],
+  "timestamp": "2026-09-07T01:22:52.442326585Z",
+  "model": "glm-5.3"
+}

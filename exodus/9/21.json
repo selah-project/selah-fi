@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Mutta joka ei pannut sydäntään kohti Jahven sanaa, jätti ⟨את⟩ palvelijansa ja ⟨את⟩ karjansa pellolle.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "Mutta joka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pannut"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sydäntään"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sanaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "jätti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palvelijansa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "palvelijansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "karjansa"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "karjansa"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "pellolle"
+    }
+  ],
+  "timestamp": "2026-09-06T21:32:55.491665509Z",
+  "model": "glm-5.3"
+}

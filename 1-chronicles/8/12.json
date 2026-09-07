@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja Elpaalin pojat: Ever ja Misham ja Shemed — hän rakensi ⟨את⟩ Onon ja ⟨את⟩ Lodin ja sen tytärinkylät.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ja pojat"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaalin"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "ja Misham"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "ja Shemed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "rakensi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Onon"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Onon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Lodin"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lodin"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "ja sen tytärinkylät"
+    }
+  ],
+  "timestamp": "2026-09-07T05:14:43.068867723Z",
+  "model": "glm-5.3"
+}

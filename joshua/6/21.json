@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 6:21",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja he vihkiivät hävitykseen ⟨את⟩ kaiken, mitä kaupungissa oli, miehestä naiseen, nuoresta vanhukseen, ja sonnin ja lampaan ja aasin — miekan suulla.",
+  "tokens": [
+    {
+      "surface": "ויחרימו",
+      "gloss": "Ja he vihkiivät hävitykseen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaiken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kaupungissa"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "miehestä"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "naiseen"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "naiseen"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "nuoresta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "vanhukseen"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "vanhukseen"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ja"
+    },
+    {
+      "surface": "שור",
+      "gloss": "sonnin"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "ja lampaan"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "ja aasin"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "suulla"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "miekan"
+    }
+  ],
+  "timestamp": "2026-09-06T22:43:19.162684571Z",
+  "model": "glm-5.3"
+}

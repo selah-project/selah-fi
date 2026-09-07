@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 8:20",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja Noach rakensi alttarin Jahvelle, ja hän otti kaikesta puhtaasta karjaeläimestä ja kaikesta puhtaasta linnusta ja vei polttouhreja alttarille.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Ja rakensi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alttarin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ja hän otti"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kaikesta"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "karjaeläimestä"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "puhtaasta"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ja kaikesta"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "linnusta"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "puhtaasta"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ja vei"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "polttouhreja"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "alttarille"
+    }
+  ],
+  "timestamp": "2026-09-06T21:06:39.808000901Z",
+  "model": "glm-5.3"
+}

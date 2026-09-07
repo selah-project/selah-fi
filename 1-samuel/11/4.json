@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 11:4",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja lähettiläät tulivat Saulin Giv'aan, ja puhuivat sanat kansan korviin, ja kaikki kansa kohotti ⟨את⟩ äänensä ja itki.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Ja tulivat"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "lähettiläät"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Giv'aan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saulin"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ja puhuivat"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "korviin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ja kohotti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "äänensä"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "äänensä"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "ja itki"
+    }
+  ],
+  "timestamp": "2026-09-07T04:19:41.677768238Z",
+  "model": "glm-5.3"
+}

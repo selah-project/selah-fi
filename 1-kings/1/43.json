@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 1:43",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja vastasi Yonatan ja sanoi Adonijahulle: Ei vaan meidän herramme, kuningas David, on tehnyt ⟨את⟩ Shelomon kuninkaaksi.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ja vastasi"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "Adonijahulle"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ei vaan"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "meidän herramme"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "המליך",
+      "gloss": "on tehut kuninkaaksi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomon"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomon"
+    }
+  ],
+  "timestamp": "2026-09-06T23:32:58.827908309Z",
+  "model": "glm-5.3"
+}

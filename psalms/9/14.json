@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 9:14",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ole minulle armollinen, Jahve, katso kurjuuttani vihaisiltani; sinä, joka nostat minut kuoleman porteista.",
+  "tokens": [
+    {
+      "surface": "חננני",
+      "gloss": "ole minulle armollinen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "katso"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "kurjuuttani"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "vihaisiltani"
+    },
+    {
+      "surface": "מרוממי",
+      "gloss": "joka nostat minut"
+    },
+    {
+      "surface": "משערי",
+      "gloss": "porteista"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kuoleman"
+    }
+  ],
+  "timestamp": "2026-09-07T01:55:32.134401775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Jos se revitään kappaleiksi, tuokoon hän sen todistukseksi; revitystä hän ei korvaa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "revitään kappaleiksi"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "revitään"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "tuokoon hän sen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "todistukseksi"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "revitystä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "hän korvaa"
+    }
+  ],
+  "timestamp": "2026-09-07T04:09:54.516749914Z",
+  "model": "glm-5.3"
+}

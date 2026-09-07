@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 78,
+  "translation": "Ja hän valitsi ⟨את⟩ Jehudan heimon, ⟨את⟩ Tsijonin vuoren, jota hän rakasti.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "valitsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehudan heimon"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "heimon"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsijonin vuoren"
+    },
+    {
+      "surface": "הר",
+      "gloss": "vuoren"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijonin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jota"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "rakasti"
+    }
+  ],
+  "timestamp": "2026-09-07T02:25:52.758062052Z",
+  "model": "glm-5.3"
+}

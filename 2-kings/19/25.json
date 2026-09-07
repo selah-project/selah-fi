@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 19:25",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Etkö kuullut — kaukaa aikojen takaa ⟨את⟩ sen minä tein, ammuisten päivinä minä muovasin sen; nyt minä olen tuonut sen, ja se ⟨on⟩ hävittämään rauniokasoja, paljaita kasoja, varustettuja kaupunkeja.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Eikö"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "sinä ole kuullut"
+    },
+    {
+      "surface": "למרחוק",
+      "gloss": "kaukaa aikojen takaa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sen"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "minä tein"
+    },
+    {
+      "surface": "למימי",
+      "gloss": "päivinä"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ammuisten"
+    },
+    {
+      "surface": "ויצרתיה",
+      "gloss": "ja muovasin sen"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nyt"
+    },
+    {
+      "surface": "הביאתיה",
+      "gloss": "minä olen tuonut sen"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ja se ⟨on⟩"
+    },
+    {
+      "surface": "להשות",
+      "gloss": "hävittämään"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "rauniokasoja"
+    },
+    {
+      "surface": "נצים",
+      "gloss": "paljaita kasoja"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kaupunkeja"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "varustettuja"
+    }
+  ],
+  "timestamp": "2026-09-06T23:57:24.365175253Z",
+  "model": "glm-5.3"
+}

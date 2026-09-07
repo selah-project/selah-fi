@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 6:4",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja he leiriytyivät heidät vastaan ja tuhosivat ⟨את⟩ maan sadon aina Azzan (Gazan) tuloon asti, eivätkä jättäneet elatusta Israeliin, ei lammasta eikä härkää eikä aasia.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "Ja he leiriytyivät"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "heidät vastaan"
+    },
+    {
+      "surface": "וישחיתו",
+      "gloss": "ja tuhosivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maan sadon"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "sadon"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aina … asti"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "tuloon"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzan (Gazan)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "jättäneet"
+    },
+    {
+      "surface": "מחיה",
+      "gloss": "elatusta"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israeliin"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "ei lammasta"
+    },
+    {
+      "surface": "ושור",
+      "gloss": "eikä härkää"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "eikä aasia"
+    }
+  ],
+  "timestamp": "2026-09-06T22:55:10.358717704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 7:9",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Mutta Kehatin pojille hän ei antanut ⟨mitään⟩, koska pyhän palvelus oli heidän kannettavanaan: he kantavat ⟨sitä⟩ olkapäillään.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Mutta pojille"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehatin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "antanut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "palvelus"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pyhän"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "heidän kannettavanaan"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "olkapäillään"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "he kantavat"
+    }
+  ],
+  "timestamp": "2026-09-06T22:05:31.074188457Z",
+  "model": "glm-5.3"
+}

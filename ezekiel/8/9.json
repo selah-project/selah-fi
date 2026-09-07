@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 8:9",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja hän sanoi minulle: Mene sisään ja katso ⟨את⟩ pahoja kauhistuksia, joita he tekevät täällä.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja hän sanoi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Mene sisään"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pahoja kauhistuksia"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "kauhistuksia"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "pahoja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joita"
+    },
+    {
+      "surface": "הם",
+      "gloss": "he"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "tekevät"
+    },
+    {
+      "surface": "פה",
+      "gloss": "täällä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:53:53.077937841Z",
+  "model": "glm-5.3"
+}

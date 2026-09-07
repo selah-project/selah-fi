@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 94,
+  "translation": "Ja hän kääntää heidän kimppuunsa ⟨את⟩ heidän pahuutensa, ja heidän pahuudessaan hän hävittää heidät; hävittää heidät Jahve, Elohimimme.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ja hän kääntää"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "heidän kimppuunsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän pahuutensa"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "heidän pahuutensa"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "ja heidän pahuudessaan"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "hän hävittää heidät"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "hävittää heidät"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimme"
+    }
+  ],
+  "timestamp": "2026-09-07T02:31:56.967247382Z",
+  "model": "glm-5.3"
+}

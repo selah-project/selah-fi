@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 41:7",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 41,
+  "translation": "Ja laihat tähkät nielivät ⟨את⟩ ne seitsemän lihavata ja täyttä tähkää; ja Paro (farao) heräsi, ja katso: ⟨se oli⟩ unta.",
+  "tokens": [
+    {
+      "surface": "ותבלענה",
+      "gloss": "Ja nielivät"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "tähkät"
+    },
+    {
+      "surface": "הדקות",
+      "gloss": "laihat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ne seitsemän lihavata ja täyttä tähkää"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seitsemän"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "tähkää"
+    },
+    {
+      "surface": "הבריאות",
+      "gloss": "lihavat"
+    },
+    {
+      "surface": "והמלאות",
+      "gloss": "ja täydet"
+    },
+    {
+      "surface": "וייקץ",
+      "gloss": "ja heräsi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "unta"
+    }
+  ],
+  "timestamp": "2026-09-06T21:23:12.001509888Z",
+  "model": "glm-5.3"
+}

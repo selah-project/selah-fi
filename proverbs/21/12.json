@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Oikeamielinen tarkastaa viisaasti jumalattoman taloa; jumalattomat syöksytään pahuuteen.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "tarkastaa viisaasti"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Oikeamielinen"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "taloa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "jumalattoman"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "syöksytään"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jumalattomat"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "pahuuteen"
+    }
+  ],
+  "timestamp": "2026-09-07T03:11:10.103474994Z",
+  "model": "glm-5.3"
+}

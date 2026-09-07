@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 30:12",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 30,
+  "translation": "Ja he antoivat hänelle viipaleen viikunakakkoa ja kaksi rusinakimppua, ja hän söi, ja hänen henkensä palasi häneen, sillä hän ei ollut syönyt leipää eikä juonut vettä kolmeen päivään ja kolmeen yöhön.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ja antoivat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "viipaleen"
+    },
+    {
+      "surface": "דבלה",
+      "gloss": "viikunakakkoa"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ja kaksi"
+    },
+    {
+      "surface": "צמקים",
+      "gloss": "rusinakimppua"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ja hän söi"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "ja palasi"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "hänen henkensä"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "häneen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "oli syönyt"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "oli juonut"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vettä"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päivää"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ja kolme"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "yötä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:16:31.506809281Z",
+  "model": "glm-5.3"
+}

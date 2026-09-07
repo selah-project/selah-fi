@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Vie lähelle ⟨את⟩ Levin sukukunta ja aseta ⟨את⟩ hänet Aharonin (Aaron), kohenin (papin), eteen, ja he palvelkoot ⟨את⟩ häntä.",
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "Vie lähelle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levin sukukunta"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "sukukunta"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levin"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "ja aseta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet",
+      "marks": "Aharonin eteen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonin"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenin (papin)"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "ja he palvelkoot"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ häntä",
+      "marks": "häntä (Aharonia)"
+    }
+  ],
+  "timestamp": "2026-09-06T22:03:34.208792473Z",
+  "model": "glm-5.3"
+}

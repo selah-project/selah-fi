@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 145,
+  "translation": "Sukupolvi sukupolvelle ylistää tekojasi, ja väkivallan tekojasi he julistavat.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Sukupolvi"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "sukupolvelle"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "ylistää"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "tekojasi"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "ja voimatekojasi"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "he julistavat"
+    }
+  ],
+  "timestamp": "2026-09-07T02:56:50.382618956Z",
+  "model": "glm-5.3"
+}

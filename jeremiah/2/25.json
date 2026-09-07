@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 2:25",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Pidätä jalkasi paljaalta ja kurkkusi janosta, mutta sinä sanoit: ”Toivoa ei ole — ei, sillä minä rakastin vieraita, ja heidän jälkeensä minä kuljen.”",
+  "tokens": [
+    {
+      "surface": "מנעי",
+      "gloss": "Pidätä"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "jalkasi"
+    },
+    {
+      "surface": "מיחף",
+      "gloss": "paljaalta"
+    },
+    {
+      "surface": "וגורנך",
+      "gloss": "ja kurkkusi"
+    },
+    {
+      "surface": "מצמאה",
+      "gloss": "janosta"
+    },
+    {
+      "surface": "ותאמרי",
+      "gloss": "ja sinä sanoit"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "Toivoa ei ole"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "minä rakastin"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "vieraita"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "ja heidän jälkeensä"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "minä kuljen"
+    }
+  ],
+  "timestamp": "2026-09-07T00:23:15.295954246Z",
+  "model": "glm-5.3"
+}

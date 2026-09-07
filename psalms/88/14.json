@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 88,
+  "translation": "Mutta minä huusin sinun luoksesi, Jahve, ja aamulla rukoukseni ehtii sinun eteesi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mutta minä"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinun luoksesi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "huusin"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "ja aamulla"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "rukoukseni"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "ehtii sinun eteesi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:29:33.340848349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Käskyn pitäjä ei tunne pahaa asiaa, ja ajan ja tuomion tuntee viisaan sydän.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "pitäjä"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "käskyn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tunne"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asiaa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pahaa"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ja ajan"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ja tuomion"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tuntee"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sydän"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "viisaan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:38:57.590582442Z",
+  "model": "glm-5.3"
+}

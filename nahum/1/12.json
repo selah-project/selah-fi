@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nahum 1:12",
+  "book": "nahum",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Näin sanoi Jahve: Vaikka he ovat täysivahvuisia ja niin monia, niin heidät keritään ja hän kulkee ohitse; vaikka minä ahdistin sinua, en minä sinua enää ahdista.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Näin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sanoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Vaikka"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "täysivahvuisia"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "ja niin"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "monia"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "נגזו",
+      "gloss": "heidät keritään"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "ja hän kulkee ohitse"
+    },
+    {
+      "surface": "וענתך",
+      "gloss": "vaikka minä ahdistin sinua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "minä sinua ahdista"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enää"
+    }
+  ],
+  "timestamp": "2026-09-07T01:36:50.609506157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 38,
+  "translation": "Ja minä pelastan sinut Ashurin (Assyria) kuninkaan kädestä, ja ⟨את⟩ tämän kaupungin; ja minä suojelen tämän kaupungin.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "Ja kädestä"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashurin"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "pelastan sinut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "tämän kaupungin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "ja minä suojelen"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kaupunkia"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tätä"
+    }
+  ],
+  "timestamp": "2026-09-07T00:12:49.459790018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 11:20",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Mutta Sihon ei uskonut ⟨את⟩ Israelia kulkemaan rajojensa sisälle, vaan Sihon kokosi ⟨את⟩ koko kansansa, ja he leiriytyivät Yahatsassa; ja hän taisteli Israelin kanssa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Mutta ei"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "uskonut"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelia"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kulkemaan"
+    },
+    {
+      "surface": "בגבלו",
+      "gloss": "rajojensa sisälle"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "vaan kokosi"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koko kansansa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kansansa"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ja leiriytyivät"
+    },
+    {
+      "surface": "ביהצה",
+      "gloss": "Yahatsassa"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ja taisteli"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:00:05.210386871Z",
+  "model": "glm-5.3"
+}

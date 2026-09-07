@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 50,
+  "translation": "Ja taivaat julistavat hänen vanhurskautensa, sillä Elohim ⟨on⟩ tuomari, hän itse. Sela.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "ja julistavat"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "taivaat"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "hänen vanhurskautensa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "tuomari"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-09-07T02:10:30.220999899Z",
+  "model": "glm-5.3"
+}

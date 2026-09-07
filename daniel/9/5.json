@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 9:5",
+  "book": "daniel",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Teimme syntiä ja teimme vääryyttä ja toimimme jumalattomasti ja kapinoimme ja käännyimme pois käskyistäsi ja määräyksistäsi.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "teimme syntiä"
+    },
+    {
+      "surface": "ועוינו",
+      "gloss": "ja teimme vääryyttä"
+    },
+    {
+      "surface": "והרשענו",
+      "gloss": "ja toimimme jumalattomasti"
+    },
+    {
+      "surface": "ומרדנו",
+      "gloss": "ja kapinoimme"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "ja käännyimme pois"
+    },
+    {
+      "surface": "ממצותך",
+      "gloss": "käskyistäsi"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "ja määräyksistäsi"
+    }
+  ],
+  "timestamp": "2026-09-07T04:52:19.842146083Z",
+  "model": "glm-5.3"
+}

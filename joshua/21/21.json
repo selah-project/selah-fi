@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 21:21",
+  "book": "joshua",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja he antoivat heille ⟨את⟩ pakokaupungin surmaajalle, ⟨את⟩ Shekemin (Sikem) ja ⟨את⟩ sen laidasmaat Efraimin vuoristossa, ja ⟨את⟩ Gezerin (Geeser) ja ⟨את⟩ sen laidasmaat.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Ja he antoivat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakokaupungin"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "pako-"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "surmaajalle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekemin"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemin (Sikem)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "laidasmaat"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sen laidasmaat"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "vuoristossa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Gezerin"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezerin (Geeser)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "laidasmaat"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sen laidasmaat"
+    }
+  ],
+  "timestamp": "2026-09-06T22:47:51.191561996Z",
+  "model": "glm-5.3"
+}

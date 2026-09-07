@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 17:18",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja Jahve vihastui suuresti Israelia, ja siirsi heidät pois kasvojensa edestä; ei jäänyt muuta kuin Yehudan (Juudan) heimo ainoanaan.",
+  "tokens": [
+    {
+      "surface": "ויתאנף",
+      "gloss": "vihastui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "suuresti"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israelia"
+    },
+    {
+      "surface": "ויסרם",
+      "gloss": "siirsi heidät"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "pois"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "kasvojensa edestä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "jäänyt"
+    },
+    {
+      "surface": "רק",
+      "gloss": "muuta kuin"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "heimo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudan (Juudan)"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ainoaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:55:37.767456687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 41:5",
+  "book": "ezekiel",
+  "lang": "fi",
+  "chapter": 41,
+  "translation": "Ja hän mittasi talon seinän, kuusi kyynärää, ja sivuhuoneen leveys, neljä kyynärää, ympäri ympäri taloa ympäri.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "Ja hän mittasi"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "seinän"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "שש",
+      "gloss": "kuusi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ja leveys"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "sivuhuoneen"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "neljä"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kyynärää"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympäri"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympäri"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "talon"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ympäri"
+    }
+  ],
+  "timestamp": "2026-09-07T01:14:42.230108515Z",
+  "model": "glm-5.3"
+}

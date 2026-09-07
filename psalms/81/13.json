@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 81,
+  "translation": "Ja minä annoin heidän mennä sydämensä paatokseen, he vaelsivat omissa neuvoksissaan.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "Ja minä annoin heidän mennä"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "paatokseen"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "sydämensä"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "he vaelsivat"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "omissa neuvoksissaan"
+    }
+  ],
+  "timestamp": "2026-09-07T02:24:45.251461974Z",
+  "model": "glm-5.3"
+}

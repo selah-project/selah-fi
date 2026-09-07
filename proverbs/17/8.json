@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 17:8",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Lahja ⟨on⟩ armonkivi sen omistajan silmissä; mihin tahansa hän kääntyy, hän menestyy.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "kivi"
+    },
+    {
+      "surface": "חן",
+      "gloss": "armon"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "lahja"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "silmissä"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "sen omistajan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mihin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tahansa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨jota⟩"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "hän kääntyy"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "hän menestyy"
+    }
+  ],
+  "timestamp": "2026-09-07T03:10:50.066665086Z",
+  "model": "glm-5.3"
+}

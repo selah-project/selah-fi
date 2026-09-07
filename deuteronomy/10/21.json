@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 10:21",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Hän ⟨on⟩ sinun ylistyksesi, ja hän ⟨on⟩ Elohimisi, joka teki sinun ⟨את⟩ kanssasi ⟨את⟩ suuret teot ja ⟨את⟩ peljättävät, jotka sinun silmäsi näkivät.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Hän"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "sinun ylistyksesi"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ja hän"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimisi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teki"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kanssasi",
+      "marks": "sinun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suuret teot"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "suuret teot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "peljättävät"
+    },
+    {
+      "surface": "הנוראת",
+      "gloss": "peljättävät"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "näivät silmäsi"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "silmäsi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:26:22.983593173Z",
+  "model": "glm-5.3"
+}

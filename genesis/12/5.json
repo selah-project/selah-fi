@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 12:5",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja Avraham (Aabraham) otti ⟨את⟩ Sarain (Saara), vaimonsa, ja ⟨את⟩ Lotin, veljensä pojan, ja ⟨את⟩ koko omaisuutensa, jonka he olivat hankkineet, ja ⟨את⟩ nefeshit, jotka he olivat hankkineet Haranissa; ja he lähtivät mennäkseen Kenaanin (Kanaan) maahan, ja he saapuivat Kenaanin maahan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "otti"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarain"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarain"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vaimonsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Lotin"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lotin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "veljensä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "koko omaisuutensa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "omaisuutensa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "olivat hankkineet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "nefeshit"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nefeshit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "olivat hankkineet"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "Haranissa"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "ja he lähtivät"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "mennäkseen"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaanin"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ja he saapuivat"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaanin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:09:59.207787111Z",
+  "model": "glm-5.3"
+}

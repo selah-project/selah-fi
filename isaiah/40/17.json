@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 40:17",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Kaikki kansat ⟨ovat⟩ kuin ei-mitään hänen edessään; kuin ei-mikään ja tyhjyys ne on laskettu hänelle.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kaikki"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kansat"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "kuin ei-mitään"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "hänen edessään"
+    },
+    {
+      "surface": "מאפס",
+      "gloss": "kuin ei-mikään"
+    },
+    {
+      "surface": "ותהו",
+      "gloss": "ja tyhjyys"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "on laskettu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    }
+  ],
+  "timestamp": "2026-09-07T00:14:50.874935573Z",
+  "model": "glm-5.3"
+}

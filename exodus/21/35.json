@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 21:35",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja jos miehen härkä paiskaa ⟨את⟩ toverinsa härän niin että se kuolee, he myyvät ⟨את⟩ elävän härän ja jakavat ⟨את⟩ sen hopean, ja myös ⟨את⟩ kuolleen he jakavat.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ja jos"
+    },
+    {
+      "surface": "יגף",
+      "gloss": "paiskaa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "härkä"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toverinsa härän"
+    },
+    {
+      "surface": "שור",
+      "gloss": "härän"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "toverinsa"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ja kuolee"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "he myyvät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elävän härän"
+    },
+    {
+      "surface": "השור",
+      "gloss": "härän"
+    },
+    {
+      "surface": "החי",
+      "gloss": "elävän"
+    },
+    {
+      "surface": "וחצו",
+      "gloss": "ja jakavat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen hopean"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "sen hopean"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja myös"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuolleen"
+    },
+    {
+      "surface": "המת",
+      "gloss": "kuolleen"
+    },
+    {
+      "surface": "יחצון",
+      "gloss": "he jakavat"
+    }
+  ],
+  "timestamp": "2026-09-06T21:37:45.284977479Z",
+  "model": "glm-5.3"
+}

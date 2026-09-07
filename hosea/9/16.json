@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 9:16",
+  "book": "hosea",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Efrajim ⟨on⟩ lyöty, heidän juurensa ⟨on⟩ kuivettunut, hedelmää he eivät tee; ja vaikka he synnyttävät, minä tapan heidän kohtunsa ihanimmat.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "lyöty"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "שרשם",
+      "gloss": "heidän juurensa"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "kuivettunut"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "hedelmää"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "he tekevät"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jos"
+    },
+    {
+      "surface": "ילדון",
+      "gloss": "he synnyttävät"
+    },
+    {
+      "surface": "והמתי",
+      "gloss": "ja minä tapan"
+    },
+    {
+      "surface": "מחמדי",
+      "gloss": "ihanimmat"
+    },
+    {
+      "surface": "בטנם",
+      "gloss": "heidän kohtunsa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:23:55.709082862Z",
+  "model": "glm-5.3"
+}

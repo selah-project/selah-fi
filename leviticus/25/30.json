@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 25:30",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Ja jos sitä ei lunasteta siihen asti, kun hänelle täyttyy kokonainen vuosi, niin talo, joka on kaupungissa, jossa ⟨on⟩ muuri, vahvistettakoon lopullisesti ostajalle ⟨את⟩ sen, hänen sukupolvilleen; ei se lähde juhlavuonna.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ja jos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "lunasteta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "asti"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "täyttyy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "vuosi"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "kokonainen"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "vahvistettakoon"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "talo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kaupungissa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jossa"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "חמה",
+      "gloss": "muuri"
+    },
+    {
+      "surface": "לצמיתת",
+      "gloss": "lopullisesti"
+    },
+    {
+      "surface": "לקנה",
+      "gloss": "ostajalle"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sen (talon) hänen sukupolvilleen"
+    },
+    {
+      "surface": "לדרתיו",
+      "gloss": "hänen sukupolvilleen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lähde"
+    },
+    {
+      "surface": "ביבל",
+      "gloss": "juhlavuonna"
+    }
+  ],
+  "timestamp": "2026-09-06T21:59:19.898261974Z",
+  "model": "glm-5.3"
+}

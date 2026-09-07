@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "⟨את⟩ Heidän pienkarjansa ja ⟨את⟩ karjansa ja ⟨את⟩ aasinsa ja ⟨את⟩ sen, mikä kaupungissa oli, ja ⟨את⟩ sen, mikä pellolla oli, he ottivat.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pienkarjansa"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "pienkarjansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "karjansa"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "karjansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "aasinsa"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "aasinsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen, mikä kaupungissa oli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sen, mikä"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kaupungissa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen, mikä pellolla oli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sen, mikä"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "pellolla"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "he ottivat"
+    }
+  ],
+  "timestamp": "2026-09-06T21:20:51.705549252Z",
+  "model": "glm-5.3"
+}

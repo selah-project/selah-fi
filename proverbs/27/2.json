@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ylistäköön sinua muukalainen, ei suusi; vieras, ei huulesi.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "Ylistäköön sinua"
+    },
+    {
+      "surface": "זר",
+      "gloss": "muukalainen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "suusi"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "vieras"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "huulesi"
+    }
+  ],
+  "timestamp": "2026-09-07T03:19:41.313942119Z",
+  "model": "glm-5.3"
+}

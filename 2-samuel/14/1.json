@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja Yoav, Tserujan poika, tiesi, että kuninkaan sydän oli Avshalomin päällä.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "tiesi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Tserujan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sydän"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalomin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:23:51.126758072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Nyt nouskaa ja ylittäkää itsellenne ⟨את⟩ Zeredin puro; ja me ylitimme ⟨את⟩ Zeredin puron.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Nyt"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "nouskaa"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "ja ylittäkää"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "itsellenne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zeredin puro"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "puro"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "ja me ylitimme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zeredin puron"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "puron"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    }
+  ],
+  "timestamp": "2026-09-06T22:22:25.007977507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 105,
+  "translation": "Ja hän teki ⟨את⟩ kansansa hyvin runsaaksi ja teki sen vastustajiaan mahtavammaksi.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "Ja teki hedelmälliseksi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansansa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kansansa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hyvin runsaaksi"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "ja teki sen mahtavammaksi"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "vastustajiaan kuin"
+    }
+  ],
+  "timestamp": "2026-09-07T02:38:27.771422233Z",
+  "model": "glm-5.3"
+}

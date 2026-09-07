@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 28:1",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Ja Jitshak (Iisak) kutsui Ja'akovin (Jaakobin) luokseen ja siunasi ⟨את⟩ hänet, ja hän käski häntä ja sanoi hänelle: älä ota vaimoa Kenaanin (Kanaanin) tyttäristä.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ja kutsui"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luokseen"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akovin"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ja siunasi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hänet"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "ja käski häntä"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ota"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "vaimoa"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "tyttäristä"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaanin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:17:37.260535513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja Yehudah nousi, ja Jahve antoi ⟨את⟩ kanaanilaisen ja perissiläisen heidän käteensä; ja he löivät heitä Bezekissä (Besekissä), kymmenen tuhatta miestä.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Ja ... nousi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ja ... antoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanaanilaisen"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaanilaisen"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ja perissiläisen"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "heidän käteensä"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "ja he löivät heitä"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "Bezekissä"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "kymmenen"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tuhatta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miestä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:50:50.296231208Z",
+  "model": "glm-5.3"
+}

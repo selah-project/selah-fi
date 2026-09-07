@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 23:22",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja kun niität ⟨את⟩ maanne sadon, älä niitä pellon laittaa tyhjäksi niittessäsi äläkä keräile sadostasi tähkäpäiviä: köyhälle ja muukalaiselle jätät ⟨את⟩ ne. Minä olen Jahve, teidän Elohiminne.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "ja kun niität"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maanne sadon"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "sadon"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "maanne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "niitä tyhjäksi"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "laittaa"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "pellon"
+    },
+    {
+      "surface": "בקצרך",
+      "gloss": "niittessäsi"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "ja tähkäpäivät"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "sadostasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "keräile"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "köyhälle"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "ja muukalaiselle"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "jätät"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ne"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "teidän Elohiminne"
+    }
+  ],
+  "timestamp": "2026-09-06T21:59:48.779455077Z",
+  "model": "glm-5.3"
+}

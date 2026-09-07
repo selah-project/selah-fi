@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 104:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 104,
+  "translation": "Perusti maan sen perustusten päälle — ei se horju iankaikkisesti eikä ainaisesti.",
+  "tokens": [
+    {
+      "surface": "יסד",
+      "gloss": "perusti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maan"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "מכוניה",
+      "gloss": "sen perustusten"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "se horju"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ainaistikin"
+    }
+  ],
+  "timestamp": "2026-09-07T02:36:48.245006727Z",
+  "model": "glm-5.3"
+}

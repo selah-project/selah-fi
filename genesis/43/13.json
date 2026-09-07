@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 43,
+  "translation": "ja ⟨את⟩ veljenne ottakaa, ja nouskaa, palatkaa miehen luo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "veljenne"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "veljenne"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ottakaa"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "ja nouskaa"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "palatkaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "luo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "miehen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:25:18.618314288Z",
+  "model": "glm-5.3"
+}

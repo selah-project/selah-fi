@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 10:24",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Kurita minua, Jahve, ainoastaan oikeuden mukaan, älä vihassasi, ettet vähentäisi minua mitättömäksi.",
+  "tokens": [
+    {
+      "surface": "יסרני",
+      "gloss": "kurita minua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ainoastaan"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "oikeuden mukaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "vihassasi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ettet"
+    },
+    {
+      "surface": "תמעטני",
+      "gloss": "vähentäisi minua mitättömäksi"
+    }
+  ],
+  "timestamp": "2026-09-07T00:27:48.714064184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja hän herjasi ⟨את⟩ Israelia, ja löi hänet Jehonatan, Shimin poika, Davidin veli.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "Ja hän herjasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelia"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "ja löi hänet"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poika"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "veli"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:28:04.724716287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 8:19",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ei Jahve suostunut tuhoamaan ⟨את⟩ Jehudaa Daavidin, palvelijansa, tähden, niinkuin hän oli hänelle sanonut antavansa hänelle lampun hänen pojillensa kaikki päivät.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "suostunut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "tuhoamaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehudaa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudaa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daavidin"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "palvelijansa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niinkuin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oli sanonut"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "antavansa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "lampun"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "hänen pojillensa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "päivät"
+    }
+  ],
+  "timestamp": "2026-09-06T23:50:29.964368477Z",
+  "model": "glm-5.3"
+}

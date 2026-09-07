@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 50:40",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 50,
+  "translation": "Kuten Elohimin kääntämä ylösalaisin ⟨את⟩ Sedomin ja ⟨את⟩ Amoran ja ⟨את⟩ sen naapurit, Jahven oraakkeli: ei siellä istu mies, eikä siinä asu ihmislapsi.",
+  "tokens": [
+    {
+      "surface": "כמהפכת",
+      "gloss": "Kuten kääntämä ylösalaisin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sedomin"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedomin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Amoran"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amoran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen naapurit"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "sen naapurit"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oraakkeli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "istu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "siellä"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "asu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "siinä"
+    },
+    {
+      "surface": "בן",
+      "gloss": "lapsi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmis-"
+    }
+  ],
+  "timestamp": "2026-09-07T00:49:30.676976762Z",
+  "model": "glm-5.3"
+}

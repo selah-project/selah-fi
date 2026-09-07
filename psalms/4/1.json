@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Säveltäjälle, kielisoittimin. Davidin (Daavidin) mizmor (psalmi).",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Säveltäjälle"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "kielisoittimin"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidin"
+    }
+  ],
+  "timestamp": "2026-09-07T01:52:39.925920825Z",
+  "model": "glm-5.3"
+}

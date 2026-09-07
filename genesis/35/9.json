@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 35,
+  "translation": "Ja ilmestyi Elohim Ja'akoville (Jaakob) vielä hänen tullessaan Padan-Aramista, ja hän siunasi ⟨את⟩ hänet.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ja ilmestyi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ja'akoville"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ja'akov"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vielä"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "hänen tullessaan"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "Padan-"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramista"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ja hän siunasi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet",
+      "marks": "hänet"
+    }
+  ],
+  "timestamp": "2026-09-06T21:21:11.916361156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Poistukaa minusta, kaikki turmuuden tekijät, sillä Jahve kuuli itkuni äänen.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Poistukaa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minusta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "tekijät"
+    },
+    {
+      "surface": "און",
+      "gloss": "turmuuden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kuuli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קול",
+      "gloss": "äänen"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "itkuni"
+    }
+  ],
+  "timestamp": "2026-09-07T01:50:14.765329254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 109,
+  "translation": "Velkoja pauloitkoon kaiken, mikä hänellä on, ja vieraat ryöstäkööt hänen työnsä hedelmän.",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "pauloitkoon"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "velkoja"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kaiken"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mikä"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänellä on"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "ja ryöstäkööt"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "vieraat"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "hänen työnsä hedelmän"
+    }
+  ],
+  "timestamp": "2026-09-07T02:41:43.116638762Z",
+  "model": "glm-5.3"
+}

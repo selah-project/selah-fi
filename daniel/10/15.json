@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 10:15",
+  "book": "daniel",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Ja kun hän puhui kanssani näiden sanojen mukaan, minä käänsin kasvoni maata kohti ja vaikenin.",
+  "tokens": [
+    {
+      "surface": "ובדברו",
+      "gloss": "Ja kun hän puhui"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kanssani"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "sanojen mukaan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "näiden"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "käänsin"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kasvoni"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "maata kohti"
+    },
+    {
+      "surface": "ונאלמתי",
+      "gloss": "ja vaikenin"
+    }
+  ],
+  "timestamp": "2026-09-07T04:51:45.195360960Z",
+  "model": "glm-5.3"
+}

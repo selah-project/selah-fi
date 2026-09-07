@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ota ⟨את⟩ Aharon (Aaron) ja ⟨את⟩ Elazar (Eleasar), hänen poikansa, ja vie ⟨את⟩ heidät ylös Hor-vuorelle.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Ota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "hänen poikansa"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "ja vie ylös"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "heidät"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Hor"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "vuorelle"
+    }
+  ],
+  "timestamp": "2026-09-06T22:14:14.598361185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 137,
+  "translation": "Miten laulaisimme ⟨את⟩ Jahven laulua vieraan maan päällä?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "miten"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "laulaisimme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven laulua"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "laulua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "על",
+      "gloss": "päällä"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "maan"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "vieraan"
+    }
+  ],
+  "timestamp": "2026-09-07T02:53:46.450783874Z",
+  "model": "glm-5.3"
+}

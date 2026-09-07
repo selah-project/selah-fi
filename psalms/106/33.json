@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 106,
+  "translation": "Sillä he katkeroittivat ⟨את⟩ hänen henkeään, niin että hän puhui huolimattomasti huulillaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "katkeroittivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hänen henkeään"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "hänen henkeään"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "ja hän puhui huolimattomasti"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "huulillaan"
+    }
+  ],
+  "timestamp": "2026-09-07T02:39:40.832211842Z",
+  "model": "glm-5.3"
+}

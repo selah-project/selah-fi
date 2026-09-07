@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 86,
+  "translation": "Sillä sinä, Adonai, ⟨olet⟩ hyvä ja anteeksiantava, ja suuri hesed ⟨on sinulla⟩ kaikille, jotka sinua kutsuvat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sillä"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvä"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "ja anteeksiantava"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ja suuri"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kaikille"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "sinua kutsuvat"
+    }
+  ],
+  "timestamp": "2026-09-07T02:29:01.276504965Z",
+  "model": "glm-5.3"
+}

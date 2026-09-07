@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja he sanoivat hänelle: varmaan ⟨את⟩ sinun kanssasi me palaamme kansasi luo.",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "ja he sanoivat"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "varmaan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sinun kanssasi",
+      "marks": "sinun kanssasi"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "me palaamme"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "kansasi luo"
+    }
+  ],
+  "timestamp": "2026-09-07T03:57:19.596881452Z",
+  "model": "glm-5.3"
+}

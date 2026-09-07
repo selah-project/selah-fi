@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 68:18",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 68,
+  "translation": "Elohimin vaunut ovat myriadeja, tuhansia tuhansia; Adonai ⟨on⟩ niiden keskellä — ⟨kuin⟩ Sinain pyhyydessä.",
+  "tokens": [
+    {
+      "surface": "רכב",
+      "gloss": "vaunut"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "רבתים",
+      "gloss": "myriadeja"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "tuhansia"
+    },
+    {
+      "surface": "שנאן",
+      "gloss": "tuhansia"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בם",
+      "gloss": "niiden keskellä"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinain"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "pyhyydessä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:20:55.876576268Z",
+  "model": "glm-5.3"
+}

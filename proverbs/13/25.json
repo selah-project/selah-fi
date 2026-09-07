@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 13:25",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Vanhursto syö kylliksensä nefeshilleen, mutta jumalattomien vatsa on vajaa.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Vanhursto"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "syö"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "kylliksensä"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefeshilleen"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "mutta vatsa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "jumalattomien"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "on vajaa"
+    }
+  ],
+  "timestamp": "2026-09-07T03:05:25.890531379Z",
+  "model": "glm-5.3"
+}

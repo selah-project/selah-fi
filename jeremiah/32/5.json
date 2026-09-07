@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 32:5",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Ja Babel (Babylonia) vie ⟨את⟩ Tsidkijahun (Sidkia), ja siellä hän ⟨on⟩, kunnes minä häntä käyn päällensä, on Jahven oraakkeli; sillä vaikka taistelisitte kasdeja (kaldealaisia) ⟨את⟩ vastaan, ette menesty.”\n  ",
+  "tokens": [
+    {
+      "surface": "ובבל",
+      "gloss": "Ja Babel"
+    },
+    {
+      "surface": "יולך",
+      "gloss": "vie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidkijahun"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkijahun (Sidkia)"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ja siellä"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "hän ⟨on⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "פקדי",
+      "gloss": "minä häntä käyn päällensä"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hänet",
+      "marks": "hänet"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "on … oraakkeli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "taistelisitte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ vastaan"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "kasdeja (kaldealaisia)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ette"
+    },
+    {
+      "surface": "תצליחו",
+      "gloss": "menesty"
+    }
+  ],
+  "timestamp": "2026-09-07T00:40:19.292096068Z",
+  "model": "glm-5.3"
+}

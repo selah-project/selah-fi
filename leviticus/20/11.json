@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 20,
+  "translation": "Ja mies, joka makaa ⟨את⟩ isänsä vaimon, on paljastanut isänsä alastomuuden: kuolemalla kuolkoot he kumpikin, heidän verensä olkoon heidän päällään.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ja mies"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "makaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isänsä vaimon"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vaimon"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isänsä"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "alastomuuden"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "isänsä"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "on paljastanut"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kuolemalla"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "kuolkoot"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "he kumpikin"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "heidän verensä"
+    },
+    {
+      "surface": "בם",
+      "gloss": "heidän päällään"
+    }
+  ],
+  "timestamp": "2026-09-06T21:57:10.332193808Z",
+  "model": "glm-5.3"
+}

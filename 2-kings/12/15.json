@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "sillä sen annettiin työntekijöille, ja he vahvistivat sillä ⟨את⟩ Jahven huoneen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "työntekijöille"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "työn"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "annettiin sen"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "ja he vahvistivat"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven huoneen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-06T23:53:37.612141265Z",
+  "model": "glm-5.3"
+}

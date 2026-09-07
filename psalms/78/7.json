@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 78,
+  "translation": "ja panisivat Elohimiin turvansa eivätkä unohtaisi Elin tekoja, vaan pitäisivät hänen käskynsä.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "ja panisivat"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimiin"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "turvansa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "unohtaisi"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "tekoja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elin"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "vaan hänen käskynsä"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "pitäisivät"
+    }
+  ],
+  "timestamp": "2026-09-07T04:34:33.701604790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Mitä hyötyä on ihmisellä kaikesta vaivannäöstään, jota hän vaivautuu auringon alla?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Mitä"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "hyötyä"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "on ihmisellä"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaikesta"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "vaivannäöstään"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "jota hän vaivautuu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alla"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "auringon"
+    }
+  ],
+  "timestamp": "2026-09-07T04:05:52.755137094Z",
+  "model": "glm-5.3"
+}

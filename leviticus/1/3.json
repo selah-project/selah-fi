@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 1:3",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Jos hänen korbaninsa on polttouhri nautakarjasta, virheettömän uroksen hän tuokoon; kokousmajan ovelle hän tuokoon ⟨את⟩ sen, suosiokseen Jahven edessä.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jos"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "polttouhri"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "hänen korbaninsa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…sta"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "nautakarjasta"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "uros"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "virheetön"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "hän tuokoon sen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…lle"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ovelle"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "majan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kokouksen"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "hän tuokoon"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sen (uhrieläimen)"
+    },
+    {
+      "surface": "לרצנו",
+      "gloss": "suosiokseen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-06T21:48:17.044198613Z",
+  "model": "glm-5.3"
+}

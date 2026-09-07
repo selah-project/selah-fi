@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 36,
+  "translation": "Ja Ada synnytti Esaville ⟨את⟩ Elifazin, ja Bosmat synnytti ⟨את⟩ Reuelin.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Ja synnytti"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esaville"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elifazin"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifazin"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "ja Bosmat"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reuelin"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuelin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:20:12.168662566Z",
+  "model": "glm-5.3"
+}

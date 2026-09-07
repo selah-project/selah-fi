@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja aamulla tapahtui, että David kirjoitti kirjeen Joaville ja lähetti sen Urijan käden kautta.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja tapahtui"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamulla"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "kirjoitti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kirjeen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…Joaville"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ja lähetti"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käden kautta"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urijan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:24:43.121088505Z",
+  "model": "glm-5.3"
+}

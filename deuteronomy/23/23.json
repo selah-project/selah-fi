@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Ja jos pidättyt lupaamasta, ei sinussa ole syntiä.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ja jos"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "pidättyt"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "lupaamasta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ole"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinussa"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "syntiä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:33:41.991545413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 16:3",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Tällä tavoin Aharon tulkoon pyhään: sonnilla, karjan vasikalla, syntiuhriksi, ja oinaalla polttouhriksi.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "Tällä tavoin"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "tulkoon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohti"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pyhää"
+    },
+    {
+      "surface": "בפר",
+      "gloss": "sonnilla"
+    },
+    {
+      "surface": "בן",
+      "gloss": "vasikka"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "karjan"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "syntiuhriksi"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "ja oinaalla"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "polttouhriksi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:56:06.585933363Z",
+  "model": "glm-5.3"
+}

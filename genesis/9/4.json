@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Vain lihaa, jossa ⟨on⟩ sen nefesh — sen veri — älkää syökö.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Vain"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "lihaa"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "jossa sen nefesh"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sen veri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "syökö"
+    }
+  ],
+  "timestamp": "2026-09-06T21:07:20.789653478Z",
+  "model": "glm-5.3"
+}

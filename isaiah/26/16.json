@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 26:16",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Jahve, ahdistuksessa he etsivät sinua, he vuodattivat kuiskauksen, kun sinun kurituksesi oli heidän päällään.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ahdistuksessa"
+    },
+    {
+      "surface": "פקדוך",
+      "gloss": "he etsivät sinua"
+    },
+    {
+      "surface": "צקון",
+      "gloss": "he vuodattivat"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "kuiskauksen"
+    },
+    {
+      "surface": "מוסרך",
+      "gloss": "sinun kurituksesi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "heidän päällään"
+    }
+  ],
+  "timestamp": "2026-09-07T00:07:37.813112512Z",
+  "model": "glm-5.3"
+}

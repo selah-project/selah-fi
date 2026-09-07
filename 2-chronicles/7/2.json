@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 7:2",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Eivätkä kohenit (papit) voineet mennä sisään Jahven temppelin, sillä Jahven kunnia täytti ⟨את⟩ Jahven temppelin.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "voineet"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohenit (papit)"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "mennä sisään"
+    },
+    {
+      "surface": "אל",
+      "gloss": "--"
+    },
+    {
+      "surface": "בית",
+      "gloss": "temppeliin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "täytti"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kunnia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven temppelin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "temppelin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-07T05:32:46.192712335Z",
+  "model": "glm-5.3"
+}

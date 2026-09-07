@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 6:3",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 6,
+  "translation": "Ja kuule, Israel, ja varoita ⟨tekemään⟩ sen, mikä on sinulle hyväksi, ja jota te lisäännytte erittäin, niin kuin Jahve, isiesi Elohim, on sinulle puhutanut: maa, joka vuotaa maitoa ja hunajaa.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "Ja kuule"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ja varoita"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "tekemään"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mikä"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "on hyväksi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ja jota"
+    },
+    {
+      "surface": "תרבון",
+      "gloss": "lisäännytte"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "erittäin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "on puhunut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "isiesi Elohim"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "isiesi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinulle"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "joka vuotaa"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "maitoa"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ja hunajaa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:25:46.190320606Z",
+  "model": "glm-5.3"
+}

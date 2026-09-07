@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Ja sinä: nosta ⟨את⟩ sauvasi ja ojenna ⟨את⟩ kätesi meren yli ja halkaise se, ja Israelin lapset menkööt meren keskelle kuivaa pitkin.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ja sinä"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "nosta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sauvasi"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "sauvasi"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "ja ojenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kätesi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kätesi"
+    },
+    {
+      "surface": "על",
+      "gloss": "yli"
+    },
+    {
+      "surface": "הים",
+      "gloss": "meren"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "ja halkaise se"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ja menkööt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lapset"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keskelle"
+    },
+    {
+      "surface": "הים",
+      "gloss": "meren"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "kuivaa pitkin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:34:17.620614579Z",
+  "model": "glm-5.3"
+}

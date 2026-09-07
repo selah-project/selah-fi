@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Sinuun minut on heitetty kohdusta; äitini kohdusta lähtien sinä ⟨olet⟩ Elini.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Sinuun"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "minut on heitetty"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "kohdusta"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "kohdusta"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "äitini"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Elini"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä ⟨olet⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T01:57:39.117051915Z",
+  "model": "glm-5.3"
+}

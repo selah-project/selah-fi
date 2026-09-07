@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 3:5",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja kuudennella ⟨oli⟩ Jitream, Eglalta, Davidin vaimolta; nämä syntyivät Davidille Hevronissa ⟨Hebron⟩.",
+  "tokens": [
+    {
+      "surface": "והששי",
+      "gloss": "ja kuudennes"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "Jitream"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "Eglalta"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vaimo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidin"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nämä"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "syntyivät"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidille"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Hevronissa"
+    }
+  ],
+  "timestamp": "2026-09-06T23:19:45.806032462Z",
+  "model": "glm-5.3"
+}

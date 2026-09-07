@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 3:21",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja nousin aamulla imettämään ⟨את⟩ poikaani, ja katso, ⟨oli⟩ kuollut; ja tarkastin häntä aamulla, ja katso, hän ei ollut poikani, jonka olin synnyttänyt.",
+  "tokens": [
+    {
+      "surface": "ואקם",
+      "gloss": "Ja nousin"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamulla"
+    },
+    {
+      "surface": "להיניק",
+      "gloss": "imettämään"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poikaani"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikaani"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "מת",
+      "gloss": "kuollut"
+    },
+    {
+      "surface": "ואתבונן",
+      "gloss": "ja tarkastin"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "häntä"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "aamulla"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ollut"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "olin synnyttänyt"
+    }
+  ],
+  "timestamp": "2026-09-06T23:33:15.677223464Z",
+  "model": "glm-5.3"
+}

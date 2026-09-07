@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 24,
+  "translation": "Kuka hän on, tämä kunniakuningas? Jahve Sebaot — hän ⟨on⟩ kunniakuningas. Sela.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kuka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kunniakuningas"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "kunniakuningas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaot"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kunniakuningas"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "kunniakuningas"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-07T01:59:45.555948905Z",
+  "model": "glm-5.3"
+}

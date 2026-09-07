@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja Joktan synnytti ⟨את⟩ Almodadin ja ⟨את⟩ Shelefin ja ⟨את⟩ Khatsarmavetin ja ⟨את⟩ Yarahin.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Ja Joktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "synnytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodadin"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodadin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Shelefin"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Shelefin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Khatsarmavetin"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Khatsarmavetin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Yarahin"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yarahin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:10:47.421529702Z",
+  "model": "glm-5.3"
+}

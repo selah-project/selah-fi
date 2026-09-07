@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 21,
+  "translation": "Ja nyt, mitä on sinun kätesi alla? Viisi leipää anna käteni sisään, tai se, mikä löytyy.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ja nyt"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "יש",
+      "gloss": "on"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kätesi"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "viisi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "anna"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "käteni sisään"
+    },
+    {
+      "surface": "או",
+      "gloss": "tai"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "se, mikä löytyy"
+    }
+  ],
+  "timestamp": "2026-09-06T23:15:38.918652943Z",
+  "model": "glm-5.3"
+}

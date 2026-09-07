@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 26:1",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Älkää tehkö itsellenne epäjumalia, älkää pystyttäkö itsellenne veistokuvaa eikä pyylvästä, älkääkö asettako maahanne kiveä, johon on kaiverrettu kuva, kumartaaksenne sen äärellä, sillä minä olen Jahve, Elohiminne.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Älkää"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "tehkö"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "itsellenne"
+    },
+    {
+      "surface": "אלילם",
+      "gloss": "epäjumalia"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "veistokuvaa"
+    },
+    {
+      "surface": "ומצבה",
+      "gloss": "pyylvästä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "pystyttäkö"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "itsellenne"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "kiveä"
+    },
+    {
+      "surface": "משכית",
+      "gloss": "kuva-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älkääkö"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "asettako"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "maahanne"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "kumartaaksenne"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sen äärellä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohiminne"
+    }
+  ],
+  "timestamp": "2026-09-06T22:00:21.364840529Z",
+  "model": "glm-5.3"
+}

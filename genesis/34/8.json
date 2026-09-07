@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 34:8",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 34,
+  "translation": "Ja Hamor puhui ⟨את⟩ heidän kanssaan sanoen: Shekem, poikani — hänen nefeshinsa (sielunsa) rakastaa teidän tyttäreänne; antakaa ⟨את⟩ hänelle vaimoksi, pyydän.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ja puhui"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ heidän kanssaan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikani"
+    },
+    {
+      "surface": "חשקה",
+      "gloss": "rakastaa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "hänen nefeshinsa"
+    },
+    {
+      "surface": "בבתכם",
+      "gloss": "teidän tyttäreänne"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "antakaa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "pyydän"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hänet"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "vaimoksi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:20:52.073794401Z",
+  "model": "glm-5.3"
+}

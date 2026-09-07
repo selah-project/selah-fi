@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Ja Jahve puhui Moshelle (Mooses) ja Aaharonille (Aaron) sanoakseen heille:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ja puhui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Moshelle"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshelle (Mooses)"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja Aaharonille"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaharonille (Aaron)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoakseen"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "heille"
+    }
+  ],
+  "timestamp": "2026-09-06T21:51:05.348072505Z",
+  "model": "glm-5.3"
+}

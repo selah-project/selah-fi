@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 10:17",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Miksi ette söneet ⟨את⟩ syntiuhria pyhässä paikassa? Koska pyhin pyhistä se ⟨on⟩, ja ⟨את⟩-sen hän antoi teille ⟨את⟩ seuran pahuuden kantamiseksi, sovittamaan heidät Jahven edessä.",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Miksi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ette"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "sönette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syntiuhria"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syntiuhri"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "paikassa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pyhässä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pyhin"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "pyhistä"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se ⟨on⟩"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen (syntiuhri)"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "antoi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "kantamiseksi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seuran pahuuden"
+    },
+    {
+      "surface": "עון",
+      "gloss": "pahuuden"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "seuran"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "sovittamaan"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "heidät"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-06T21:52:25.375534928Z",
+  "model": "glm-5.3"
+}

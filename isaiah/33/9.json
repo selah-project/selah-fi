@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 33:9",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Suri, vaipui maa; häpesi Levanon (Libanon), nuupui; tuli HaSharon kuin aroksi, ja ravistavat hedelmänsä Bashan ja Karmel.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "suri"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "vaipui"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "החפיר",
+      "gloss": "häpesi"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Levanon"
+    },
+    {
+      "surface": "קמל",
+      "gloss": "nuupui"
+    },
+    {
+      "surface": "היה",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "HaSharon"
+    },
+    {
+      "surface": "כערבה",
+      "gloss": "kuin aroksi"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "ja ravistavat hedelmänsä"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "ja Karmel"
+    }
+  ],
+  "timestamp": "2026-09-07T00:08:52.275592642Z",
+  "model": "glm-5.3"
+}

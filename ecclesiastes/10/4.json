@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 10,
+  "translation": "Jos hallitsijan henki nousee sinua vastaan, älä hylkää paikkaasi, sillä lepopaneminen tyynnyttää suuret rikokset.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "henki"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "hallitsijan"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "nousee"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sinua vastaan"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "paikkasi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "hylkää"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "lepopaneminen"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "tyynnyttää"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "rikokset"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "suuret"
+    }
+  ],
+  "timestamp": "2026-09-07T04:39:49.926401488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 51:2",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 51,
+  "translation": "Ja minä lähetän Babyloniin vieraita, ja he puinnuttavat sen ja tyhjentävät ⟨את⟩ sen maan, sillä he ovat sitä vastaan joka puolella sen pahan päivänä.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Ja minä lähetän"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "Babyloniin"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "vieraita"
+    },
+    {
+      "surface": "וזרוה",
+      "gloss": "ja he puinnuttavat sen"
+    },
+    {
+      "surface": "ויבקקו",
+      "gloss": "ja he tyhjentävät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen maan"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "sen maan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "היו",
+      "gloss": "he ovat"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sitä vastaan"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "joka puolella"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivänä"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pahan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:49:27.019232754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 149,
+  "translation": "Olkoon Elin ⟨korkeat⟩ ylistykset heidän kurkussaan ja kaksiteräinen miekka heidän kädessään.",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "⟨korkeat⟩ ylistykset"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elin"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "heidän kurkussaan"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "ja miekka"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "kaksiteräinen"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "heidän kädessään"
+    }
+  ],
+  "timestamp": "2026-09-07T02:56:32.562235890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 16:2",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 16,
+  "translation": "Ja tapahtukoon, että niin kuin lentähtelevä lintu, pesästä hylätty, ovat Moavin tyttäret Arnonin kahluupaikoilla.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ja tapahtukoon"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "kuin lintu"
+    },
+    {
+      "surface": "נודד",
+      "gloss": "lentähtelevä"
+    },
+    {
+      "surface": "קן",
+      "gloss": "pesä"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "hylätty pesästä"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "ovat"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "tyttäret"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moavin"
+    },
+    {
+      "surface": "מעברת",
+      "gloss": "kahluupaikoilla"
+    },
+    {
+      "surface": "לארנון",
+      "gloss": "Arnonin"
+    }
+  ],
+  "timestamp": "2026-09-07T00:06:27.702151526Z",
+  "model": "glm-5.3"
+}

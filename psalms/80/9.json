@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 80,
+  "translation": "Viiniköynnöksen sinä siirsit Mitsrajimista (Egyptistä), sinä ajoit pois kansat ja istutit sen.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "viiniköynnöksen"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrajimista"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "sinä siirsit"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "sinä ajoit pois"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "kansat"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "ja istutit sen"
+    }
+  ],
+  "timestamp": "2026-09-07T02:25:14.897190653Z",
+  "model": "glm-5.3"
+}

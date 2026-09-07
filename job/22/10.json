@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 22:10",
+  "book": "job",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Sen tähden sinun ympärilläsi ⟨ovat⟩ ansat, ja yhtäkkinen pelko säikäyttää sinut.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "sinun ympärilläsi"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "ansat"
+    },
+    {
+      "surface": "ויבהלך",
+      "gloss": "ja säikäyttää sinut"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "pelko"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "yhtäkkiä"
+    }
+  ],
+  "timestamp": "2026-09-07T03:35:58.661024495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 62,
+  "translation": "Kuoronjohtajalle, Yedutunin mukaan, psalmi, Davidin (Daavid).",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kuoronjohtajalle"
+    },
+    {
+      "surface": "על",
+      "gloss": "mukaan"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Yedutunin"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalmi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidin"
+    }
+  ],
+  "timestamp": "2026-09-07T02:16:51.570523788Z",
+  "model": "glm-5.3"
+}

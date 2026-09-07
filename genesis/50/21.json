@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 50:21",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 50,
+  "translation": "Ja nyt: älkää peljätkö. Minä pidän ⟨את⟩ teidät ⟨ja⟩ ⟨את⟩ lapsenne elossa. Ja hän lohdutti ⟨את⟩ heitä ja puhui heidän sydämelleen.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ja nyt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älkää"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "peljätkö"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Minä"
+    },
+    {
+      "surface": "אכלכל",
+      "gloss": "pidän ... elossa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teidät",
+      "marks": "teidät (objektipronomini, ei ⟨את⟩-merkki)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ja⟩ ⟨את⟩",
+      "marks": "lapsenne"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "lapsenne"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "Ja hän lohdutti"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ heitä"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ja puhui"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "לבם",
+      "gloss": "heidän sydämelleen"
+    }
+  ],
+  "timestamp": "2026-09-06T21:28:08.219757178Z",
+  "model": "glm-5.3"
+}

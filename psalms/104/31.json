@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 104,
+  "translation": "Olkoon Jahven kunnia iankaikkisesti, iloitkoon Jahve teoissaan.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Olkoon"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kunnia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "iloitkoon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "teoissaan"
+    }
+  ],
+  "timestamp": "2026-09-07T02:40:41.172218774Z",
+  "model": "glm-5.3"
+}

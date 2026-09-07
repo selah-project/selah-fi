@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 8:14",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja hän vangitsi nuoren miehen Sukkotin (Sukot) miehistä ja kysyi häneltä; ja tämä kirjoitti hänelle ⟨את⟩ Sukkotin päämiehet ja ⟨את⟩ sen vanhimmat, seitsemänkymmentä ja seitsemän miestä.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "vangitsi"
+    },
+    {
+      "surface": "נער",
+      "gloss": "nuoren miehen"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "miehistä"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkotin"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "kysyi häneltä"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "kirjoitti"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukkotin päämiehet"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "päämiehet"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkotin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sen vanhimmat"
+    },
+    {
+      "surface": "זקניה",
+      "gloss": "sen vanhimmat"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "seitsemänkymmentä"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ja seitsemän"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miestä"
+    }
+  ],
+  "timestamp": "2026-09-06T22:56:16.171009717Z",
+  "model": "glm-5.3"
+}

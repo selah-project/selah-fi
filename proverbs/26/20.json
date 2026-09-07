@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 26:20",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Kun puuta ei ole, tuli sammuu, ja kun panettelijaa ei ole, riita rauhoittuu.",
+  "tokens": [
+    {
+      "surface": "באפס",
+      "gloss": "kun ei ole"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "puuta"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "sammuu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "ובאין",
+      "gloss": "ja kun ei ole"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "panettelijaa"
+    },
+    {
+      "surface": "ישתק",
+      "gloss": "rauhoittuu"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "riita"
+    }
+  ],
+  "timestamp": "2026-09-07T03:18:07.638317660Z",
+  "model": "glm-5.3"
+}

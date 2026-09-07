@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 102:27",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 102,
+  "translation": "Ne katoavat, mutta sinä pysyt; ja ne kaikki kuluvat kuin vaate, kuin vaatetus sinä vaihdat ne, ja ne muuttuvat.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "katoavat"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mutta sinä"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "pysyt"
+    },
+    {
+      "surface": "וכלם",
+      "gloss": "ja ne kaikki"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "kuin vaate"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "kuluvat"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "kuin vaatetus"
+    },
+    {
+      "surface": "תחליפם",
+      "gloss": "sinä vaihdat ne"
+    },
+    {
+      "surface": "ויחלפו",
+      "gloss": "ja ne muuttuvat"
+    }
+  ],
+  "timestamp": "2026-09-07T02:36:35.221497422Z",
+  "model": "glm-5.3"
+}

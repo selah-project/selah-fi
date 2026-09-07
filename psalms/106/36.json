@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 106,
+  "translation": "Ja he palvelivat ⟨את⟩ heidän epäjumaliaan, ja ne tulivat heille paulaksi.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "Ja he palvelivat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heidän epäjumaliaan"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "heidän epäjumaliaan"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ja ne tulivat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "paulaksi"
+    }
+  ],
+  "timestamp": "2026-09-07T02:39:40.833231750Z",
+  "model": "glm-5.3"
+}

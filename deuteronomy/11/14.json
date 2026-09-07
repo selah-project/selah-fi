@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 11:14",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "niin minä annan sateen maallenne ajallaan, aikaisadon ja myöhäissadon, ja sinä korjaat viljasi ja viinisi ja öljysi.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "niin minä annan"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "sateen"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "maallenne"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "ajallaan"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "aikaisadon"
+    },
+    {
+      "surface": "ומלקוש",
+      "gloss": "ja myöhäissadon"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "ja sinä korjaat"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "viljasi"
+    },
+    {
+      "surface": "ותירשך",
+      "gloss": "ja viinisi"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "ja öljysi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:27:49.768195833Z",
+  "model": "glm-5.3"
+}

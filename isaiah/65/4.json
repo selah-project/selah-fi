@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 65:4",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 65,
+  "translation": "Jotka istuvat haudoissa ja yöpyvät kätkeytyneissä paikoissa, jotka syövät sianlihaa, ja epäpuhtaan liemen pala ⟨on⟩ heidän astioissaan.",
+  "tokens": [
+    {
+      "surface": "הישבים",
+      "gloss": "Jotka istuvat"
+    },
+    {
+      "surface": "בקברים",
+      "gloss": "haudoissa"
+    },
+    {
+      "surface": "ובנצורים",
+      "gloss": "ja kätkeytyneissä paikoissa"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "yöpyvät"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "jotka syövät"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "lihaa"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "sian"
+    },
+    {
+      "surface": "ופרק",
+      "gloss": "ja pala"
+    },
+    {
+      "surface": "פגלים",
+      "gloss": "epäpuhdasta"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "heidän astioissaan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:23:56.213126906Z",
+  "model": "glm-5.3"
+}

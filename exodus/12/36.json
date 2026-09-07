@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Ja Jahve antoi ⟨את⟩ kansan armon mitsriläisten silmissä, ja nämä antoivat heille pyytämänsä, ja he riistivät ⟨את⟩ Mitsrajimin.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ja Jahve"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "antoi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kansan armon"
+    },
+    {
+      "surface": "חן",
+      "gloss": "aron"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "silmissä"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "mitsriläisten"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "antoivat heille pyytämänsä"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "riistivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajimin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    }
+  ],
+  "timestamp": "2026-09-06T21:34:03.562698704Z",
+  "model": "glm-5.3"
+}

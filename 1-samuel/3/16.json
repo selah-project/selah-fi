@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja Eli kutsui ⟨את⟩ Shemuelin ja sanoi: ”Shemuel, poikani.” Ja hän sanoi: ”Tässä olen.”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ja kutsui"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuelin"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuelin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poikani"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Tässä olen"
+    }
+  ],
+  "timestamp": "2026-09-06T23:06:16.313629389Z",
+  "model": "glm-5.3"
+}

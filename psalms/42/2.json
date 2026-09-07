@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Kuten peura kaipaa vesipurojen luo, niin kaipaa Nefeshini sinua, Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "Kuten peura"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "kaipaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "luo"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "vesipurojen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "⟨veden⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshini"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "kaipaa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinua"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-07T02:08:31.337435983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 26:6",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 26,
+  "translation": "Ja minä annan rauhan maahan, ja te maatte, eikä ⟨ole⟩ pelonaihetta, ja minä lopetan pahan pedon maasta, eikä miekka kulje maanne läpi.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ja minä annan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rauhan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "ושכבתם",
+      "gloss": "ja te maatte"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "eikä ole"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "pelonaihetta"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "ja minä lopetan"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "pedon"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pahan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "maasta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "ja miekka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "kulje"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "maanne läpi"
+    }
+  ],
+  "timestamp": "2026-09-06T22:00:28.938073413Z",
+  "model": "glm-5.3"
+}

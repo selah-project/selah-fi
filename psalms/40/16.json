@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 40,
+  "translation": "Olkoot autioina häpeänsä jäljenaikoa ne, jotka sanovat minulle: ”Hah, hah!”",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "Olkoot autioina"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "עקב",
+      "gloss": "häpeänsä jäljenaikoa"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "häpeänsä"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ne, jotka sanovat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minulle"
+    },
+    {
+      "surface": "האח",
+      "gloss": "”Hah,"
+    },
+    {
+      "surface": "האח",
+      "gloss": "hah!”"
+    }
+  ],
+  "timestamp": "2026-09-07T02:07:52.113191828Z",
+  "model": "glm-5.3"
+}

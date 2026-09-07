@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 32:22",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Ja Jahve pelasti ⟨את⟩ Hizkijahun (Hiskian) ja ⟨את⟩ Jerushalajimin asukkaat Sanheribin, Ashurin kuninkaan, kädestä ja kaikkien kädestä, ja hän johdatti heitä joka puolelta.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "Ja pelasti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hizkijahun"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkijahun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Jerushalajimin asukkaat"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "asukkaat"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimin"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kädestä"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sanheribin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashurin"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ja kädestä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkien"
+    },
+    {
+      "surface": "וינהלם",
+      "gloss": "ja hän johdatti heitä"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "joka puolelta"
+    }
+  ],
+  "timestamp": "2026-09-07T05:50:40.481729927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Ja jos se varastetaan hänen luotaan, hän korvaa ⟨sen⟩ sen omistajalle.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ja jos"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "varastetaan"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "varastetaan"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "hänen luotaan"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "hän korvaa"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "sen omistajalle"
+    }
+  ],
+  "timestamp": "2026-09-07T04:09:54.516176680Z",
+  "model": "glm-5.3"
+}

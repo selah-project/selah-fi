@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 28,
+  "translation": "Daavidin ⟨psalmi⟩. Sinun tykösi, Jahve, minä huudan: kallioni, älä vaikene minulta, ettet vaikenisi minulta ja minä tulisin verratuksi laskeutuvien kanssa kuiluun.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Daavidin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Sinun tykösi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "minä huudan"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "kallioni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "vaikene"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minulta"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ettet"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "vaikenisi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minulta"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "ja minä tulisin verratuksi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "laskeutuvien kanssa"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "laskeutuvien"
+    },
+    {
+      "surface": "בור",
+      "gloss": "kuiluun"
+    }
+  ],
+  "timestamp": "2026-09-07T04:31:04.209371273Z",
+  "model": "glm-5.3"
+}

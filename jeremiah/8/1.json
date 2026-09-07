@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 8:1",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Siihen aikaan, sanoo Jahve, he tuovat ulos ⟨את⟩ luut Juudan kuninkaiden ja ⟨את⟩ luut hänen ruhtinaittensa ja ⟨את⟩ luut kohenien ja ⟨את⟩ luut navijen ja ⟨את⟩ luut Jerushalajimin (Jerusalemin) asukkaiden heidän hautoistaan.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Siihen aikaan"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "siihen"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sanoo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויציאו",
+      "gloss": "he tuovat ulos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "luut Juudan kuninkaiden"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "luut"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kuninkaiden"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juudan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "luut hänen ruhtinaittensa"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "luut"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "hänen ruhtinaittensa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "luut kohenien"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "luut"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohenien"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "luut navijen"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "luut"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "navijen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "luut Jerushalajimin asukkaiden"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "luut"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "asukkaiden"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimin"
+    },
+    {
+      "surface": "מקבריהם",
+      "gloss": "heidän hautoistaan"
+    }
+  ],
+  "timestamp": "2026-09-07T00:28:42.366183607Z",
+  "model": "glm-5.3"
+}

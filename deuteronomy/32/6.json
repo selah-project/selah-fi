@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 32:6",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 32,
+  "translation": "Jahvelleko tämän maksatte, kansa hölmö ettekä viisas? Eikö hän ⟨ole⟩ isäsi, sinut hankkinut? Hän on sinut tehnyt ja sinut vakiinnuttanut.",
+  "tokens": [
+    {
+      "surface": "ה",
+      "gloss": "⟨ko⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "תגמלו",
+      "gloss": "maksatte"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "hölmö"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ettekä"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "viisas"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "eikö"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "isäsi"
+    },
+    {
+      "surface": "קנך",
+      "gloss": "sinut hankkinut"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän"
+    },
+    {
+      "surface": "עשך",
+      "gloss": "sinut tehnyt"
+    },
+    {
+      "surface": "ויכננך",
+      "gloss": "ja sinut vakiinnuttanut"
+    }
+  ],
+  "timestamp": "2026-09-07T04:16:09.439571799Z",
+  "model": "glm-5.3"
+}

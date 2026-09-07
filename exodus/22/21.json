@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 22,
+  "translation": "Kaikkea leskeä ja orpoa älkää soroko.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kaikkea"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "leskeä"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "ja orpoa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "sorokaa"
+    }
+  ],
+  "timestamp": "2026-09-06T21:37:15.655483377Z",
+  "model": "glm-5.3"
+}

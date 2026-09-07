@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ja jos sanot sydämessäsi: Miten me tiedämme ⟨את⟩ sanan, jota Jahve ei ole puhunut?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ja jos"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "sanot"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "sydämessäsi"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Miten"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "me tiedämme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jota"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ole puhunut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-06T22:31:20.304200687Z",
+  "model": "glm-5.3"
+}

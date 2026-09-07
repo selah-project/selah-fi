@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 89,
+  "translation": "Niin, sinä käänsit takaisin hänen miekkansa terän, etkä pystyttänyt häntä taisteluun.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Niin"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "sinä käänsit takaisin"
+    },
+    {
+      "surface": "צור",
+      "gloss": "terän"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "hänen miekkansa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "etkä"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "pystyttänyt häntä"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "taisteluun"
+    }
+  ],
+  "timestamp": "2026-09-07T02:28:46.135011763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja mies tunsi ⟨את⟩ Chavvan (Eevan), vaimonsa, ja hän tuli raskaaksi ja synnytti ⟨את⟩ Kainin (Kainin), ja hän sanoi: ”Olen hankkinut miehen ⟨את⟩ Jahven ⟨את⟩ avulla.”",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "Ja mies"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tunsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chavvan"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chavvan (Eevan)"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vaimonsa"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ja hän tuli raskaaksi"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ja synnytti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kainin"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kainin (Kainin)"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ja hän sanoi"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "olen hankkinut"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miehen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ avulla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-06T21:05:33.411653586Z",
+  "model": "glm-5.3"
+}

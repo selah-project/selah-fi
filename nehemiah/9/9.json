@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Ja näit ⟨את⟩ isiemme kurjuuden Mitsrajimissa ⟨Egyptissä⟩, ja ⟨את⟩ heidän huutonsa kuulit Sufin merellä ⟨Kaislamerellä⟩.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "ja näit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isiemme kurjuuden"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kurjuuden"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "isiemme"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrajimissa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "heidän huutonsa"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "heidän huutonsa"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "kuulit"
+    },
+    {
+      "surface": "על",
+      "gloss": "äärillä"
+    },
+    {
+      "surface": "ים",
+      "gloss": "merellä"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sufin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:06:18.102746806Z",
+  "model": "glm-5.3"
+}

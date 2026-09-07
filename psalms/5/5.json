@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Sillä sinä et ole El, joka iloitsee vääryydestä; paha ei asu luonasi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "iloitsee"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "vääryydestä"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "asu luonasi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "paha"
+    }
+  ],
+  "timestamp": "2026-09-07T01:50:48.027452682Z",
+  "model": "glm-5.3"
+}

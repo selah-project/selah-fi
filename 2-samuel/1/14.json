@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 1:14",
+  "book": "2-samuel",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja David sanoi hänelle: Kuinka et pelännyt ojentaa kättäsi tuhota ⟨את⟩ Jahven Mashiahin (Voideltu)?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "איך",
+      "gloss": "Kuinka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "et"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "pelännyt"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ojentaa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kättäsi"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "tuhota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven Mashiahin"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Mashiahin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    }
+  ],
+  "timestamp": "2026-09-06T23:19:21.733221254Z",
+  "model": "glm-5.3"
+}

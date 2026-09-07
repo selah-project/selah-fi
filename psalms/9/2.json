@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 9,
+  "translation": "Minä kiitän Jahvea kaikesta sydämestäni, minä kerron kaikki ihmeesi.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Minä kiitän"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kaikella"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sydämelläni"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "minä kerron"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ihmeesi"
+    }
+  ],
+  "timestamp": "2026-09-07T01:56:09.936429703Z",
+  "model": "glm-5.3"
+}

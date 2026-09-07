@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 109,
+  "translation": "Aseta hänen ylleen pahan, ja syyttäjä seisköön hänen oikealla puolellaan.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "Aseta"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hänen ylleen"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "pahan"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "ja syyttäjä"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "seisköön"
+    },
+    {
+      "surface": "על",
+      "gloss": "-"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "hänen oikealla puolellaan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:34:13.210970384Z",
+  "model": "glm-5.3"
+}

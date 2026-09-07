@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 115,
+  "translation": "Heidän kaltaisikseen tulevat heidän tekijänsä, kaikki, jotka heihin turvaavat.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "kaltaisikseen"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "tulevat"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "tekijänsä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "turvaavat"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "heihin"
+    }
+  ],
+  "timestamp": "2026-09-07T02:43:17.276239894Z",
+  "model": "glm-5.3"
+}

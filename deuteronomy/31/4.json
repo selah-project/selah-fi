@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 31,
+  "translation": "Ja Jahve tekee heille niin kuin hän teki Sihonille ja Ogille, emorilaisten kuninkaille, ja heidän maalleen, jotka hän hävitti ⟨את⟩ heidät.”",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ja tekee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להם",
+      "gloss": "heille"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "niin kuin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hän teki"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "Sihonille"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "ja Ogille"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kuninkaille"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emorilaisten"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "ja heidän maalleen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joita"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "hän hävitti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ heidät"
+    }
+  ],
+  "timestamp": "2026-09-06T22:38:24.856461655Z",
+  "model": "glm-5.3"
+}

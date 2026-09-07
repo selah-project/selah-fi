@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 7,
+  "translation": "Ja Shemuel tuomitsi ⟨את⟩ Israelin koko elämänsä päivät.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Ja tuomitsi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päivät"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "elämänsä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:07:06.050580431Z",
+  "model": "glm-5.3"
+}

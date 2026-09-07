@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 17:19",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Myös Yehuda ei pitänyt ⟨את⟩ Jahven Elohiminsa käskyjä, vaan vaelsi Israelin säädöksissä, joita he olivat tehneet.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "pitänyt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "käskyjä"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "käskyjä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohiminsa"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "vaelsi"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "säädöksissä"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joita"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "he olivat tehneet"
+    }
+  ],
+  "timestamp": "2026-09-06T23:55:37.767812768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja kohen kastaa ⟨את⟩ sormensa vereen ja priiskottaa verta seitsemän kertaa Jahven eteen, pyhän esiripun eteen.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "ja kastaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sormensa"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "sormensa"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "vereen"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "ja priiskottaa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "verta"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "verestä"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seitsemän"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kertaa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eteen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ eten",
+      "marks": "esiripun eteen"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kasvojen"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "esiripun"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pyhän"
+    }
+  ],
+  "timestamp": "2026-09-06T21:49:30.919434291Z",
+  "model": "glm-5.3"
+}

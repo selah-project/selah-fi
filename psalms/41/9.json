@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 41,
+  "translation": "Belialin sana vuodatetaan häneen — ja koska hän makasi, hän ei nouse enää.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "sana"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belialin"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "vuodatetaan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "häneen"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ja koska"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "makasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "enää lisää"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "nousemista"
+    }
+  ],
+  "timestamp": "2026-09-07T02:07:05.591801012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Ja Shaul löi ⟨את⟩ Amalekin, Havilasta sinne tultaessa Shuriin, joka on Mitsrajimin edessä.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Ja löi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalekin"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalekin"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "Havilasta"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "sinne tultaessa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shuriin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "פני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimin"
+    }
+  ],
+  "timestamp": "2026-09-06T23:11:02.518716510Z",
+  "model": "glm-5.3"
+}

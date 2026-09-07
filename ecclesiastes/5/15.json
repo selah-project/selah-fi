@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja myöskin tämä ⟨on⟩ paha sairaus: aivan kuten hän tuli, niin hän menee; ja mikä hyöty hänelle siitä, että hän vaivaa tuuleksi?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ja myöskin"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "paha"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "sairaus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "aivan"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "kuten"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "hän tuli"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niin"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "hän menee"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ja mikä"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "hyöty"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "että hän vaivaa"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "tuuleksi"
+    }
+  ],
+  "timestamp": "2026-09-07T04:35:14.679230006Z",
+  "model": "glm-5.3"
+}

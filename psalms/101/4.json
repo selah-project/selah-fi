@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 101,
+  "translation": "Väärä sydän kääntyköön pois minusta; pahaa minä en tunne.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "sydän"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "väärä"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "kääntyköön pois"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minusta"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pahaa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "tunne"
+    }
+  ],
+  "timestamp": "2026-09-07T02:37:23.196415513Z",
+  "model": "glm-5.3"
+}

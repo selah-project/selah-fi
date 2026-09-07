@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 48:11",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 48,
+  "translation": "Ja Israel sanoi Josefille: ”Nähdä kasvojasi en odottanut, ja katso, Elohim on näyttänyt ⟨את⟩ minulle myös ⟨את⟩ sinun siementäsi.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefille"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Nähdä"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "kasvojasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "פללתי",
+      "gloss": "odottanut"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja katso"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "on näyttänyt"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ minulle",
+      "marks": "Elohimin näyttämä kohde: minut"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "myös"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinun siementäsi"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sinun siementäsi"
+    }
+  ],
+  "timestamp": "2026-09-06T21:26:37.641527582Z",
+  "model": "glm-5.3"
+}

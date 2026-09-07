@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 44,
+  "translation": "Myydät kansasi ilman rahaa etkä kasvata voittasi heidän hinnallaan.",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "Myydät"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kansasi"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ilman"
+    },
+    {
+      "surface": "הון",
+      "gloss": "rahaa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "etkä"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "kasvata"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "heidän hinnallaan"
+    }
+  ],
+  "timestamp": "2026-09-07T02:09:50.383875914Z",
+  "model": "glm-5.3"
+}

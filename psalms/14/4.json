@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 14,
+  "translation": "Eivätkö tiedä kaikki pahan tekijät, jotka syövät kansani, söivät leipää — Jahvea he eivät kutsuneet?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Eivätkö"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tiedä"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "tekijät"
+    },
+    {
+      "surface": "און",
+      "gloss": "pahan"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "jotka syövät"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kansani"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "söivät"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leipää"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eivät"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "kutsuneet"
+    }
+  ],
+  "timestamp": "2026-09-07T01:55:40.606682551Z",
+  "model": "glm-5.3"
+}

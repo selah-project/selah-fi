@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 33:3",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 33,
+  "translation": "Ja hän itse kulki heidän edellään ja kumartui maahan asti seitsemän kertaa, kunnes hän tuli lähelle veljeään.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "hän itse"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kulki"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "heidän edellään"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "kumartui"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "maahan"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seitsemän"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kertaa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "גשתו",
+      "gloss": "hän tuli lähelle"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunnes"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "veljeään"
+    }
+  ],
+  "timestamp": "2026-09-06T21:19:34.834076526Z",
+  "model": "glm-5.3"
+}

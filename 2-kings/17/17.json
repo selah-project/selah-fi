@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 17:17",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Ja he veivät ⟨את⟩ poikansa ja ⟨את⟩ tyttärensä tulen läpi, ja ennustivat enteitä, ja ottivat enteitä, ja myivät itsensä tekemään pahaa Jahven silmissä, ärsyttääkseen häntä.",
+  "tokens": [
+    {
+      "surface": "ויעבירו",
+      "gloss": "veivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poikansa"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "poikansa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "tyttärensä"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "tyttärensä"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulen läpi"
+    },
+    {
+      "surface": "ויקסמו",
+      "gloss": "ennustivat"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "enteitä"
+    },
+    {
+      "surface": "וינחשו",
+      "gloss": "ottivat enteitä"
+    },
+    {
+      "surface": "ויתמכרו",
+      "gloss": "myivät itsensä"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "tekemään"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "pahaa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "silmissä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "להכעיסו",
+      "gloss": "ärsyttääkseen häntä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:55:37.766811089Z",
+  "model": "glm-5.3"
+}

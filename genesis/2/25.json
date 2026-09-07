@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja he olivat molemmat alasti, ihminen ⟨ja⟩ hänen vaimonsa, eivätkä he hävenneet.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ja he olivat"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "molemmat"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "alasti"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ihminen"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ja hänen vaimonsa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eivätkä"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "he hävenneet"
+    }
+  ],
+  "timestamp": "2026-09-06T21:03:52.594636681Z",
+  "model": "glm-5.3"
+}

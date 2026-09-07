@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 46,
+  "translation": "Ja Israel sanoi Josefille: Nyt ⟨minä⟩ kuolen ⟨tällä kertaa⟩, nähtyäni ⟨את⟩ kasvosi, koska sinä vielä elät.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…lle"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefille"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "kuolen"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "tällä kerralla"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nähtyäni"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "näkemiseni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasvosi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "kasvosi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "koska"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "sinä vielä"
+    },
+    {
+      "surface": "חי",
+      "gloss": "elät"
+    }
+  ],
+  "timestamp": "2026-09-06T21:26:14.053407436Z",
+  "model": "glm-5.3"
+}

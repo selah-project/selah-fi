@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 4:7",
+  "book": "amos",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja myös minä pidätin teiltä ⟨את⟩ sateen, kun vielä kolme kuukautta oli sadonkorjuuseen; ja sateetin yhden kaupungin päälle, ja yhtä kaupunkia en sateettanut; yksi palsta sateetetaan, ja palsta, jonka päälle se ei sada, kuivuu.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ja myös"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "מנעתי",
+      "gloss": "pidätin"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "teiltä"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sateen"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "sateen"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "kun vielä"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "kuukautta"
+    },
+    {
+      "surface": "לקציר",
+      "gloss": "sadonkorjuuseen"
+    },
+    {
+      "surface": "והמטרתי",
+      "gloss": "ja sateetin"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kaupungin"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yhden"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja päälle"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kaupunkia"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yhtä"
+    },
+    {
+      "surface": "לא",
+      "gloss": "en"
+    },
+    {
+      "surface": "אמטיר",
+      "gloss": "sateeta"
+    },
+    {
+      "surface": "חלקה",
+      "gloss": "palsta"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "yksi"
+    },
+    {
+      "surface": "תמטר",
+      "gloss": "sateetetaan"
+    },
+    {
+      "surface": "וחלקה",
+      "gloss": "ja palsta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jonka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תמטיר",
+      "gloss": "sada"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "sen päälle"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "kuivuu"
+    }
+  ],
+  "timestamp": "2026-09-07T01:28:08.202790807Z",
+  "model": "glm-5.3"
+}

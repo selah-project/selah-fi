@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 106,
+  "translation": "Kiiittäkää Jahia, antakaa kiitos Jahvelle, sillä hän ⟨on⟩ hyvä, sillä iankaikkisesti ⟨kestää⟩ hänen hesedinsä (uskollinen laupeutensa).",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Kiiittäkää"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jahia"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "antakaa kiitos"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvelle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hänen hesedinsä"
+    }
+  ],
+  "timestamp": "2026-09-07T02:39:04.022766591Z",
+  "model": "glm-5.3"
+}

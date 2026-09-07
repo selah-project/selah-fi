@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 4:10",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 4,
+  "translation": "Ja Barak kutsui ⟨את⟩ Zevulunin (Sebulon) ja ⟨את⟩ Naftalin Kedeshiin, ja hän nousi jalkoinensa kymmenen tuhatta miestä, ja Devora nousi hänen kanssaan.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "kutsui"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zevulunin"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zevulunin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Naftalin"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftalin"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "Kedeshiin"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "nousi"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "jalkoinensa"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "kymmenen"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "tuhatta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "miestä"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "nousi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kanssaan"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Devora"
+    }
+  ],
+  "timestamp": "2026-09-06T22:54:23.381776129Z",
+  "model": "glm-5.3"
+}

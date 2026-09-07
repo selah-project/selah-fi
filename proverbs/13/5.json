@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 13,
+  "translation": "Valheen sanaa vanhurskas vihaa, mutta jumalaton haisee pahalle ja joutuu häpeään.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "sanaa"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "valheen"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "vihaa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "vanhurskas"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "mutta jumalaton"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "haisee pahalle"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "ja joutuu häpeään"
+    }
+  ],
+  "timestamp": "2026-09-07T03:06:11.495912350Z",
+  "model": "glm-5.3"
+}

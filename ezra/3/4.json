@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Ja he viettivät ⟨את⟩ sukkotjuhlaa, niin kuin on kirjoitettu, ja päivittäisen polttouhrin päivän mukaan, luvun mukaan, säädöksen mukaan, kunkin päivän sanan mukaan sen päivänään.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ja he tekivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sukkotjuhlaa"
+    },
+    {
+      "surface": "חג",
+      "gloss": "juhlaa"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "sukkot-"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "niin kuin on kirjoitettu"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "ja polttouhrin"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivittäisen"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päivän mukaan"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "luvun mukaan"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "säädöksen mukaan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sanalla"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päivän"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "sen päivänään"
+    }
+  ],
+  "timestamp": "2026-09-07T04:56:53.902136393Z",
+  "model": "glm-5.3"
+}

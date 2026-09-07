@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 19:9",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja puhdas mies koonkoon ⟨את⟩ lehmän tuhkan ja asettakoon sen leirin ulkopuolelle puhdassa paikassa, ja se olkoon Israelin lasten seurakunnan säilytettävänä puhdistusvetenä; se ⟨on⟩ syntiuhri.",
+  "tokens": [
+    {
+      "surface": "ואסף",
+      "gloss": "Ja koonkoon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mies"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "puhdas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lehmän tuhkan"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "tuhkan"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "lehmän"
+    },
+    {
+      "surface": "והניח",
+      "gloss": "ja asettakoon"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ulkopuolelle"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "leirin"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "paikassa"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "puhdassa"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ja se olkoon"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "seurakunnan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lasten"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "säilytettävänä"
+    },
+    {
+      "surface": "למי",
+      "gloss": "vetenä"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "puhdistus-"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "syntiuhri"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    }
+  ],
+  "timestamp": "2026-09-06T22:13:48.658422284Z",
+  "model": "glm-5.3"
+}

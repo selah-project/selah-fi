@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 51:32",
+  "book": "jeremiah",
+  "lang": "fi",
+  "chapter": 51,
+  "translation": "Ja kahluupaikat on vallattu, ja ⟨את⟩ kaislikot on poltettu tulessa, ja sodan miehet ovat järkyttyneet.",
+  "tokens": [
+    {
+      "surface": "והמעברות",
+      "gloss": "Ja kahluupaikat"
+    },
+    {
+      "surface": "נתפשו",
+      "gloss": "on vallattu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaislikot"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "kaislikot"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "on poltettu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulessa"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "ja miehet"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "sodan"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "ovat järkyttyneet"
+    }
+  ],
+  "timestamp": "2026-09-07T00:50:16.443739764Z",
+  "model": "glm-5.3"
+}

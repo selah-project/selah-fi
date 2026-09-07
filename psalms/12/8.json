@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Sinä, Jahve, varjelet heitä, sinä suojat ⟨את⟩ häntä tästä sukupolvesta iankaikkisesti.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "varjelet heitä"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "suojat häntä"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tästä"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "sukupolvesta"
+    },
+    {
+      "surface": "זו",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iankaikkisesti"
+    }
+  ],
+  "timestamp": "2026-09-07T01:56:03.291532291Z",
+  "model": "glm-5.3"
+}

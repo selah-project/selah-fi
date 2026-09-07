@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 143,
+  "translation": "Nimesi tähden, Jahve, elähdytä minut; vanhursaudessasi vie Nefeshini ahdingosta ulos.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "tähden"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Nimesi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "elähdytä minut"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "vanhursaudessasi"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "vie ulos"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "ahdingosta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshini"
+    }
+  ],
+  "timestamp": "2026-09-07T02:53:10.448849112Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 8,
+  "translation": "Ja hän sanoi: ”Huomiselle.” Ja hän sanoi: ”Sinun sanasi mukaan — siksi että tietäisit, ettei ⟨ole⟩ Jahven, Elohimimme, kaltaista.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja sanoi"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "Huomiselle"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja sanoi"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "Sinun sanasi mukaan"
+    },
+    {
+      "surface": "למען",
+      "gloss": "siksi että"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "tietäisit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ⟨ole⟩"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "Jahven kaltaista"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimme"
+    }
+  ],
+  "timestamp": "2026-09-06T21:31:33.575748180Z",
+  "model": "glm-5.3"
+}

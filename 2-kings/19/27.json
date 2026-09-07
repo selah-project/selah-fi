@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 19,
+  "translation": "Ja istumisesi ja lähtösi ja tulosi — minä tunnen ne, ja ⟨את⟩ raivosi minua vastaan.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "ja istumisesi"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "ja lähtösi"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "ja tulosi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "minä tunsen ne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "raivosi"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "raivosi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minua vastaan"
+    }
+  ],
+  "timestamp": "2026-09-06T23:57:24.366447800Z",
+  "model": "glm-5.3"
+}

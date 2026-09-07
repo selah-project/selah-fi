@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "ja Azarja siitti ⟨את⟩ Serajan, ja Seraja siitti ⟨את⟩ Jehotsadakin;",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "ja Azarja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serajan"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serajan"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "ja Seraja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehotsadakin"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Jehotsadakin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:12:30.390544029Z",
+  "model": "glm-5.3"
+}

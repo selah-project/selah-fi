@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "En minä voi yksinäni kantaa ⟨את⟩ kaikkea tätä kansaa, sillä liian raskas se on minusta.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "En"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "minä voi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "minä"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "yksinäni"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "kantaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikkea tätä kansaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikkea"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansaa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tätä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "liian raskas"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minusta"
+    }
+  ],
+  "timestamp": "2026-09-06T22:10:18.143733869Z",
+  "model": "glm-5.3"
+}

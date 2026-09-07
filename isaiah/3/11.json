@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 3:11",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Voi jumalatonta — paha! sillä hänen kättensä tekona hänelle tehdään.",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "voi"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "jumalatonta"
+    },
+    {
+      "surface": "רע",
+      "gloss": "paha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "teko ⟨palkintona⟩"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "hänen kättensä"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tehdään"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänelle"
+    }
+  ],
+  "timestamp": "2026-09-07T00:00:59.264257479Z",
+  "model": "glm-5.3"
+}

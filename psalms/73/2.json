@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 73,
+  "translation": "Ja minä — melkein luistamaan ⟨olivat⟩ jalkani kallistuneet, niinkuin ei mitään ⟨olivat⟩ askeleeni valahtaneet.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ja minä"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "melkein"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "kallistuneet"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "jalkani"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "niinkuin ei mitään"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "valahtaneet"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "askeleeni"
+    }
+  ],
+  "timestamp": "2026-09-07T02:21:05.066468441Z",
+  "model": "glm-5.3"
+}

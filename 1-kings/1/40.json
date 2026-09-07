@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 1:40",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja koko kansa nousi hänen jälkeensä, ja kansa soitti huiluja ja iloitsi suurella ilolla, ja maa halkeili heidän äänestään.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "Ja nousi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kansa"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "hänen jälkeensä"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ja kansa"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "soitti"
+    },
+    {
+      "surface": "בחללים",
+      "gloss": "huiluja"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "ja iloitsi"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ilolla"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "suurella"
+    },
+    {
+      "surface": "ותבקע",
+      "gloss": "ja halkeili"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "heidän äänestään"
+    }
+  ],
+  "timestamp": "2026-09-06T23:32:33.076039755Z",
+  "model": "glm-5.3"
+}

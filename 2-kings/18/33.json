@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 18:33",
+  "book": "2-kings",
+  "lang": "fi",
+  "chapter": 18,
+  "translation": "Ovatko kansojen jumalat pelastaneet ⟨את⟩ maansa, kukin ⟨את⟩ oman maansa, kunkin oman maansa, Ashurin (Assyrian) kuninkaan kädestä?",
+  "tokens": [
+    {
+      "surface": "ההצל",
+      "gloss": "ovatko pelastaneet"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "pelastaneet"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "jumalat"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kansojen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kukin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maansa"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "maansa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kädestä"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashurin (Assyrian)"
+    }
+  ],
+  "timestamp": "2026-09-06T23:56:01.131003285Z",
+  "model": "glm-5.3"
+}

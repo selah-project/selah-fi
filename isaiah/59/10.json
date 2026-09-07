@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 59:10",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 59,
+  "translation": "Tunnustelemme seinää kuin sokeat, ja kuin silmättömät me tunnustelemme; keskipäivänä kompastumme kuin hämärässä, autioissa paikoissa kuin kuolleet.",
+  "tokens": [
+    {
+      "surface": "נגששה",
+      "gloss": "tunnustelemme"
+    },
+    {
+      "surface": "כעורים",
+      "gloss": "kuin sokeat"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "seinää"
+    },
+    {
+      "surface": "וכאין",
+      "gloss": "ja kuin"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "silmättömät"
+    },
+    {
+      "surface": "נגששה",
+      "gloss": "me tunnustelemme"
+    },
+    {
+      "surface": "כשלנו",
+      "gloss": "kompastumme"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "keskipäivänä"
+    },
+    {
+      "surface": "כנשף",
+      "gloss": "kuin hämärässä"
+    },
+    {
+      "surface": "באשמנים",
+      "gloss": "autioissa paikoissa"
+    },
+    {
+      "surface": "כמתים",
+      "gloss": "kuin kuolleet"
+    }
+  ],
+  "timestamp": "2026-09-07T00:20:24.426154798Z",
+  "model": "glm-5.3"
+}

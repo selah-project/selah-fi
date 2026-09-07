@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Ja tapahtui, kun Baasa (Baasa) kuuli tämän, että hän lakkasi rakentamasta ⟨את⟩ Ramaa (Raama) ja asettui Tirsaan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "kun kuuli"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasa"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "hän lakkasi"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "rakentamasta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramaa"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja asettui"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "Tirsaan"
+    }
+  ],
+  "timestamp": "2026-09-07T04:24:18.274874389Z",
+  "model": "glm-5.3"
+}

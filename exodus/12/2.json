@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 12,
+  "translation": "Tämä kuukausi olkoon teille kuukausien pää; ensimmäinen se ⟨on⟩ teille vuoden kuukausista.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "Tämä kuukausi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tämä"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pää"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "kuukausien"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "ensimmäinen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "kuukausista"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "vuoden"
+    }
+  ],
+  "timestamp": "2026-09-06T21:32:53.387249555Z",
+  "model": "glm-5.3"
+}

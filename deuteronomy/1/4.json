@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "sen jälkeen, kun hän oli lyönyt ⟨את⟩ Sihonin, amorilaisten kuninkaan, joka asui Heshbonissa, ja ⟨את⟩ Ogin, Bashanin kuninkaan, joka asui Ashtarotissa Edreissa.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "sen jälkeen"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "kun hän oli lyönyt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sihonin"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sihonin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "amorilaisten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "asui"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "Heshbonissa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Ogin"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Ogin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninkaan"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashanin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joka"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "asui"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "Ashtarotissa"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "Edreissa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:23:51.121635045Z",
+  "model": "glm-5.3"
+}

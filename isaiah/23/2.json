@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 23:2",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Vaikene, saaren asukkaat: Tsidonin kauppiaat, jotka ylittävät meren, ovat täyttäneet ⟨sinut⟩.",
+  "tokens": [
+    {
+      "surface": "דמו",
+      "gloss": "Vaikene"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "asukkaat"
+    },
+    {
+      "surface": "אי",
+      "gloss": "saaren"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "kauppiaat"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidonin"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ylittävät"
+    },
+    {
+      "surface": "ים",
+      "gloss": "meren"
+    },
+    {
+      "surface": "מלאוך",
+      "gloss": "ovat täyttäneet ⟨sinut⟩"
+    }
+  ],
+  "timestamp": "2026-09-07T04:26:16.886300690Z",
+  "model": "glm-5.3"
+}

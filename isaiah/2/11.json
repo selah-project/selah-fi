@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 2:11",
+  "book": "isaiah",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ihmisen ylpeyden silmät painuvat matalalle ja miesten korkeus notkistuu, ja Jahve yksin korotetaan sinä päivänä.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "silmät"
+    },
+    {
+      "surface": "גבהות",
+      "gloss": "ylpeyden"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ihmisen"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "painuvat matalalle"
+    },
+    {
+      "surface": "ושח",
+      "gloss": "ja notkistuu"
+    },
+    {
+      "surface": "רום",
+      "gloss": "korkeus"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "miesten"
+    },
+    {
+      "surface": "ונשגב",
+      "gloss": "ja korotetaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yksin"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sinä päivänä"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tuona"
+    }
+  ],
+  "timestamp": "2026-09-06T23:59:23.035487240Z",
+  "model": "glm-5.3"
+}

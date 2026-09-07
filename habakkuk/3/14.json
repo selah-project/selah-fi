@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 3:14",
+  "book": "habakkuk",
+  "lang": "fi",
+  "chapter": 3,
+  "translation": "Sinä lävistit hänen omilla sauvoillaan hänen kyläpäällikköjensä pään; ne iskuivat myrskyn lailla hajottaakseen minut, heidän riemunsa ⟨oli⟩ niinkuin syödä köyhä salassa.",
+  "tokens": [
+    {
+      "surface": "נקבת",
+      "gloss": "lävistit"
+    },
+    {
+      "surface": "במטיו",
+      "gloss": "hänen sauvoillaan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pään"
+    },
+    {
+      "surface": "פרזו",
+      "gloss": "hänen kyläpäällikköjensä"
+    },
+    {
+      "surface": "יסערו",
+      "gloss": "iskuivat myrskynä"
+    },
+    {
+      "surface": "להפיצני",
+      "gloss": "hajottaakseen minut"
+    },
+    {
+      "surface": "עליצתם",
+      "gloss": "heidän riemunsa"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "niinkuin"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "syödä"
+    },
+    {
+      "surface": "עני",
+      "gloss": "köyhä"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "salassa"
+    }
+  ],
+  "timestamp": "2026-09-07T01:41:37.909196634Z",
+  "model": "glm-5.3"
+}

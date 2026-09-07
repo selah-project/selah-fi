@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Jumalaton tekee petollista työtä, mutta vanhurskautta kylvävälle ⟨on⟩ varma palkka.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "jumalaton"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tekee"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "työtä"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "petollista"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "mutta kylvävälle"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "vanhurskautta"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "palkka"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "varma"
+    }
+  ],
+  "timestamp": "2026-09-07T03:07:10.389328241Z",
+  "model": "glm-5.3"
+}

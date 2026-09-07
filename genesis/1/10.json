@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja nimitti Elohim kuivan maan maaksi, ja vetten kokoamispaikan hän nimitti meriksi. Ja näki Elohim, että ⟨se⟩ oli hyvä.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ja nimitti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "kuivan maan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "ja kokoamispaikan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vedten"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "hän nimitti"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "meriksi"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "Ja näki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "että"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hyvä"
+    }
+  ],
+  "timestamp": "2026-09-06T21:04:12.093735451Z",
+  "model": "glm-5.3"
+}

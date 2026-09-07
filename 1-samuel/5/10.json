@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 5:10",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 5,
+  "translation": "Ja he lähettivät ⟨את⟩ Elohimin arkin Ekroniin. Ja tapahtui, kun Elohimin arkki tuli Ekroniin, että ekronilaiset huusivat sanoen: Kääntäkää minun tyköni ⟨את⟩ Israelin Elohimin arkki, tappamaan minut ja ⟨את⟩ kansani.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Ja he lähettivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimin arkin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekroniin"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Ja tapahtui"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "kun tuli"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekroniin"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "että huusivat"
+    },
+    {
+      "surface": "העקרנים",
+      "gloss": "ekronilaiset"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sanoen"
+    },
+    {
+      "surface": "הסבו",
+      "gloss": "Kääntäkää"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minun tyköni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelin Elohimin arkki"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkki"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "tappamaan minut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kansani"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kansani"
+    }
+  ],
+  "timestamp": "2026-09-06T23:06:36.616960327Z",
+  "model": "glm-5.3"
+}

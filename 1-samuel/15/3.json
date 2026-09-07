@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 15:3",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 15,
+  "translation": "Nyt mene ja lyö ⟨את⟩ Amalek, jakartakaa hävitetkseksi ⟨את⟩ kaikki, mitä hänellä on, äläkä sääli häntä, vaan surmaa miehestä naiseen, lapsesta imettävään, härästä lampaaseen, kamelista aasiin.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Nyt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mene"
+    },
+    {
+      "surface": "והכיתה",
+      "gloss": "ja lyö"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "והחרמתם",
+      "gloss": "jakartakaa hävitetkseksi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki, mitä hänellä on"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mitä"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hänellä on"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "sääli"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "häntä"
+    },
+    {
+      "surface": "והמתה",
+      "gloss": "surmaa"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "miehestä"
+    },
+    {
+      "surface": "עד",
+      "gloss": "naiseen"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "naiseen"
+    },
+    {
+      "surface": "מעלל",
+      "gloss": "lapsesta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "imettävään"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "imettävään"
+    },
+    {
+      "surface": "משור",
+      "gloss": "härästä"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "lampaaseen"
+    },
+    {
+      "surface": "שה",
+      "gloss": "lampaaseen"
+    },
+    {
+      "surface": "מגמל",
+      "gloss": "kamelista"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "aasiin"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "aasiin"
+    }
+  ],
+  "timestamp": "2026-09-07T04:20:03.958955492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja Nahshon siitti ⟨את⟩ Salman, ja Salma siitti ⟨את⟩ Boazin.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "Ja Nahshon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salman"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Salman"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "ja Salma"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "siitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boazin"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boazin"
+    }
+  ],
+  "timestamp": "2026-09-07T05:11:03.658281885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 66,
+  "translation": "jotka minun huuleni ovat avanneet ja minun suuni on puhunut ahistuksessani.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "jotka"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "ovat avanneet"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "huuleni"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ja on puhunut"
+    },
+    {
+      "surface": "פי",
+      "gloss": "suuni"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ahistuksessa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minun"
+    }
+  ],
+  "timestamp": "2026-09-07T02:16:33.358185272Z",
+  "model": "glm-5.3"
+}

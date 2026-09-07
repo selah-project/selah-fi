@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 11:1",
+  "book": "2-chronicles",
+  "lang": "fi",
+  "chapter": 11,
+  "translation": "Rehavam (Rehabeam) tuli Jerushalajimiin (Jerusalem) ja kokosi ⟨את⟩ Jehudan (Juuda) huoneen ja Binjaminin (Benjamin), sata ja kahdeksankymmentä tuhatta valittua, sotaa tekevää miestä, taistellakseen Israelin kanssa ja palauttaakseen ⟨את⟩ kuningaskunnan Rehavamille.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushalajimiin"
+    },
+    {
+      "surface": "ויקהל",
+      "gloss": "ja kokosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehudan huoneen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huoneen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudan"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ja Binjaminin"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sata"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "ja kahdeksankymmentä"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhatta"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "valittua"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tekevää"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "sotaa"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "taistellakseen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanssa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelin"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "palauttaakseen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuningaskunnan"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kuningaskunnan"
+    },
+    {
+      "surface": "לרחבעם",
+      "gloss": "Rehavamille"
+    }
+  ],
+  "timestamp": "2026-09-07T05:37:09.661685684Z",
+  "model": "glm-5.3"
+}

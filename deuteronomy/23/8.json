@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 23,
+  "translation": "Älä inhoa edomilaista, sillä hän ⟨on⟩ veljesi; älä inhoa mitsriläistä, sillä muukalaisena olit hänen maassansa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "inhoa"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "edomilaista"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "veljesi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hän ⟨on⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "älä"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "inhoa"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "mitsriläistä"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sillä"
+    },
+    {
+      "surface": "גר",
+      "gloss": "muukalaisena"
+    },
+    {
+      "surface": "היית",
+      "gloss": "olit"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "hänen maassansa"
+    }
+  ],
+  "timestamp": "2026-09-06T22:33:51.157053115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "fi",
+  "chapter": 25,
+  "translation": "Kuusi vuotta kylvet peltoasi, ja kuusi vuotta leikkaat viinitarhaasi, ja kokoat ⟨את⟩ sen tuotannon.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "Kuusi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "kylvet"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "peltoasi"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ja kuusi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "vuotta"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "leikkaat"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "viinitarhaasi"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "ja kokoat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen tuotannon"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "sen tuotannon"
+    }
+  ],
+  "timestamp": "2026-09-06T22:00:04.873855932Z",
+  "model": "glm-5.3"
+}

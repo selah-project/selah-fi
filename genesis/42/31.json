@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "fi",
+  "chapter": 42,
+  "translation": "Ja sanoimme hänelle: rehellisiä me olemme, emme ole vakoojia.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "ja sanoimme"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hänelle"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "rehellisiä"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "me"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emme"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "ole"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "vakoojia"
+    }
+  ],
+  "timestamp": "2026-09-06T21:25:34.541408573Z",
+  "model": "glm-5.3"
+}

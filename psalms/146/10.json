@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 146,
+  "translation": "Jahve on kuninkaana iankaikkisesti, sinun Elohimit, Tsijon (Siion), sukupolvesta sukupolveen. Kiittäkää Jah!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "on kuninkaana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iankaikkisesti"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sinun Elohimit"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijon"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "sukupolvesta"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ja sukupolveen"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Kiittäkää"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-07T02:55:13.130401024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "daniel 1:19",
+  "book": "daniel",
+  "lang": "fi",
+  "chapter": 1,
+  "translation": "Ja kuningas puhui ⟨את⟩ heidän kanssaan, eikä löytynyt heidän kaikistaan ketään, joka olisi kuin Daniel, Hananja, Mishael ja Azarja, ja he seisoivat kuninkaan edessä.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ja puhui"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "heidän kanssaan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eikä"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "löytynyt"
+    },
+    {
+      "surface": "מכלם",
+      "gloss": "heidän kaikistaan"
+    },
+    {
+      "surface": "כדניאל",
+      "gloss": "kuin Daniel"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Hananja"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Mishael"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "ja Azarja"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ja he seisoivat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "edessä"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    }
+  ],
+  "timestamp": "2026-09-07T06:00:52.634097324Z",
+  "model": "glm-5.3"
+}

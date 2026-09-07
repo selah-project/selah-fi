@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "fi",
+  "chapter": 27,
+  "translation": "Ja kirjoitat kivien päälle ⟨את⟩ kaikki tämän Toran (Tooran) sanat, selittäen hyvin.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "ja kirjoitat"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kivien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaikki tämän Toran sanat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaikki"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sanat"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Toran"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tämän"
+    },
+    {
+      "surface": "באר",
+      "gloss": "selittäen"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "hyvin"
+    }
+  ],
+  "timestamp": "2026-09-06T22:34:24.890510010Z",
+  "model": "glm-5.3"
+}

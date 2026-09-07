@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "fi",
+  "chapter": 29,
+  "translation": "Ja ⟨את⟩ yhden oinaan sinä otat, ja Aharon ⟨(Aaron)⟩ ja hänen poikansa panevat ⟨את⟩ kätensä oinaan pään päälle.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "yhden oinaan"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "oinaan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yhden"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "sinä otat"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "ja panevat"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ja hänen poikansa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kätensä"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "kätensä"
+    },
+    {
+      "surface": "על",
+      "gloss": "päälle"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pään"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "oinaan"
+    }
+  ],
+  "timestamp": "2026-09-06T21:40:56.226828753Z",
+  "model": "glm-5.3"
+}

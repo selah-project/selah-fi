@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 17:9",
+  "book": "1-samuel",
+  "lang": "fi",
+  "chapter": 17,
+  "translation": "Jos hän pystyy taistelemaan ⟨את⟩ kanssani ja lyömään minut, me olemme teille palvelijoiksi; ja jos minä pystyn häntä vastaan ja lyön hänet, te olette meille palvelijoiksi ja palvelette ⟨את⟩ meitä.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jos"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "pystyy"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "taistelemaan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kanssani",
+      "marks": "hän taistelee minun kanssani"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "ja lyömään minut"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "ja me olemme"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teille"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "palvelijoiksi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ja jos"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minä"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "pystyn"
+    },
+    {
+      "surface": "לו",
+      "gloss": "häntä vastaan"
+    },
+    {
+      "surface": "והכיתיו",
+      "gloss": "ja lyön hänet"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "ja te olette"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meille"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "palvelijoiksi"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "ja palvelette"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ meitä",
+      "marks": "meitä"
+    }
+  ],
+  "timestamp": "2026-09-06T23:10:16.264826207Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 2:13",
+  "book": "judges",
+  "lang": "fi",
+  "chapter": 2,
+  "translation": "Ja he hylkäsivät ⟨את⟩ Jahven ja palvelivat Baalia ja Ashtaroteja.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "Ja he hylkäsivät"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahven"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahven"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ja palvelivat"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baalia"
+    },
+    {
+      "surface": "ולעשתרות",
+      "gloss": "ja Ashtaroteja"
+    }
+  ],
+  "timestamp": "2026-09-06T22:49:41.087223387Z",
+  "model": "glm-5.3"
+}

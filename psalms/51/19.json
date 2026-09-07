@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 51:19",
+  "book": "psalms",
+  "lang": "fi",
+  "chapter": 51,
+  "translation": "Elohimin uhrit ⟨ovat⟩ murtunut henki; murtunut ja rusennettu sydän — Elohim, sitä sinä et halveksi.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "uhrit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimin"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "henki"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "murtunut"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sydän"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "murtunut"
+    },
+    {
+      "surface": "ונדכה",
+      "gloss": "ja rusennettu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "et"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "halveksi"
+    }
+  ],
+  "timestamp": "2026-09-07T04:33:59.684673122Z",
+  "model": "glm-5.3"
+}
