@@ -69,3 +69,8 @@ seat-scoped. שאול is **Sheol**, never *tuonela*, *manala* or
 *helvetti*. Supplied words only in ⟨⟩; no English or Swedish words
 survive in the line, brackets included. Letter-faithfulness outranks
 readability.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
