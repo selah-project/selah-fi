@@ -12,7 +12,7 @@ International (CC BY-SA 4.0)**.
 
 Saat vapaasti jakaa ja muokata tätä työtä mihin tahansa
 tarkoitukseen — myös kaupallisesti — kunhan mainitset asianmukaisesti
-**Selah-hankkeen** (https://selahproject.org), kerrot tekemäsi
+**Selah-hankkeen** (https://selahproject.com), kerrot tekemäsi
 muutokset ja julkaiset johdannaiset samalla lisenssillä.
 
 Pohjana oleva heprealainen teksti on OpenScriptures Hebrew Bible
@@ -26,7 +26,7 @@ the Hebrew Bible (one rendering per verse and one gloss per
 word-unit), together with its full revision history. Published under
 **CC BY-SA 4.0**. You are free to share and adapt this work for any
 purpose, including commercially, provided you give appropriate credit
-to the **Selah project** (https://selahproject.org), state your
+to the **Selah project** (https://selahproject.com), state your
 changes, and distribute derivatives under the same license. The
 underlying Hebrew text is the OpenScriptures Hebrew Bible (WLC), in
 the public domain; the rendering, glosses, markers and revision

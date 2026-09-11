@@ -181,7 +181,7 @@ muutoshistoria ovat Selah-hankkeen omaa työtä.
 
 ## Tue Selahia
 
-<https://selahproject.org>
+<https://selahproject.com>
 
 ---
 
