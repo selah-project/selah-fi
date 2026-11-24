@@ -9,7 +9,7 @@ tiedosto kertoo, miten voitte auttaa.
 - Avaa **Issue** säilytyspaikassa:
   <https://github.com/selah-project/selah-fi>
 - Tai, jos osaat korjata sen itse, avaa **Pull request**.
-- Tai kirjoita meille: <support@selahproject.com>
+- Tai kirjoita meille: <https://s33k3r.com/learn/support>
 
 ## Mitä ilmoituksessa on hyvä olla
 
@@ -55,7 +55,7 @@ mene läpi. Korjaus, joka vie lähemmäs, on tervetullut: tuo se.
 
 **English.** Contributions welcome: open an Issue or Pull request at
 <https://github.com/selah-project/selah-fi>, or write to
-<support@selahproject.com>. One file = one verse; unit count equals
+<https://s33k3r.com/learn/support>. One file = one verse; unit count equals
 gloss count; ⟨את⟩ markers are never deleted or added; the D1 Names
 (Jahve, Elohim…) never yield to a title — not *HERRA*, not *Herra*,
 not *Jumala*, not *Jehova* at the Name or Elohim seat. No title is
